@@ -18,8 +18,8 @@ sector:
 ---
 Marketshare:
 - Retail (3%): Almost none,only ultra high net worth individuals
-- Corporate (3%): Only [[Yarnojtes]] and major corporations
-- Investment (20%): THE investment bank: [[FEZ]] IPOs, Yarnojte M&A
+- Corporate (3%): Only [[Yarnojte|Yarnojtes]] and major corporations
+- Investment (20%): THE investment bank: [[Free Economic Zone|FEZs]], IPOs, Yarnojte M&A
 Other Notes:
 - You'll never walk into a Red Iron branch
 - But when [[Troli Ustaras|TU]] went public (post-2047 restructuring)? Red Iron led it

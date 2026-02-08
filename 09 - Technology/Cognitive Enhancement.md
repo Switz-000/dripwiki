@@ -31,7 +31,7 @@ Pre-Transition Susia (Pre-2038): Regulatory Hell:
  
 - [[Free Economic Zone|FEZs]] have regulatory flexibility
  - [[Susian Federal Goverment|Federal government]] can move faster
- - "National security" exemptions (Cold War justifies everything)
+ - "National security" exemptions ([[Cold War]] justifies everything)
  - Ethics oversight lighter (still exists, but streamlined)
  - 2040: [[Federal Cognitive Enhancement Program]] Launched
  
@@ -58,7 +58,7 @@ Pre-Transition Susia (Pre-2038): Regulatory Hell:
 - Federal Program Dead (politically toxic)
  - Restructured, New CEO, entirely new management, new vision
  - Technology almost worked (just needed safety improvements)
- - "TU will continue cognitive enhancement research. Publicly. Transparently. With proper safety protocols. For medical purposes only."
+ - "[[Troli Ustaras|TU]] will continue cognitive enhancement research. Publicly. Transparently. With proper safety protocols. For medical purposes only."
  
 #### Development Hell (2051-2057)
  
@@ -76,5 +76,5 @@ Pre-Transition Susia (Pre-2038): Regulatory Hell:
  - Cannot discriminate based on enhancement status: employment, housing, insurance etc.
  - Must be 25 or older
  - Strict informed consent, 3 month waiting period, may cancel appointment at any time, free counseling provided by the federal government 
- - Creation of Sanctuary zones, unenhanced-majority communities protected
- - ¼ Rule, only ¼ of a state’s counties may apply for Sanctuary Zone status. Enhancement clinics or procedures cannot be banned at a state level.
+ - Creation of [[Sanctuary zones]], unenhanced-majority communities protected
+ - ¼ Rule, only ¼ of a state’s counties may apply for Sanctuary zone status. Enhancement clinics or procedures cannot be banned at a state level.
