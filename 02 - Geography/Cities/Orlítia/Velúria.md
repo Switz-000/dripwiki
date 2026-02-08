@@ -35,7 +35,7 @@ History:
     
 - With time, [[Orlítia]] became increasingly more libertarian because of Velúria. And the state government is always battling to defend its status.
     
-- Velúria became an inspiration for the [FEZ system](), many cities tried gaining a similar status as Velúria but none succeeded as it requires a constitutional amendment. 
+- Velúria became an inspiration for the [[Free Economic Zone|FEZ system]] many cities tried gaining a similar status as Velúria but none succeeded as it requires a constitutional amendment. 
     
 - The [[Takeda Family|Takedas]] only have a token presence in Velúria, owning some of the casinos and prime real estate but barely having any influence at a city level. They pragmatically rebranded as “libertarians” and the “creators of Velúria” even though Velúria became successful besides them, not because of them.
     
@@ -57,7 +57,7 @@ The Politics:
 - Orlítia state government: Fiercely defends Velúria autonomy (makes them rich)
 - [[Susian Federal Goverment|Federal government]]: Tolerates it (honeypot strategy)
 - Frumentaze (intelligence service): Constantly demands access, rarely gets it
-- Yarnojtes: HATE Velúria (whistleblowers hide there)
+- [[Yarnojte|Yarnojtes]]: HATE Velúria (whistleblowers hide there)
 - Other states: Mixed feelings (envy the revenue, hate the criminality)
 
 Who Goes to Velúria:

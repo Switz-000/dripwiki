@@ -41,7 +41,7 @@ Pre-Transition Susia (Pre-2038): Regulatory Hell:
  - Pressure from the cold war mounting, [[Troli Ustaras|TU]] pushing boundaries (missionary zeal), safety protocols… relaxed.
 - 2041: First death, seizure during enhancement procedure, family not compensated the full promised amount, signs NDA under pressure and receives 500k
  - 2042-2046: 8 more deaths, 23 with permanent cognitive damage, 63 moderate injuries. Each family: Incomplete compensation, pressured NDAs
- - 2047: The TU scandal, separate but related. TU tries to bribe a secretariat member, loses Yarnojte status. Program paused
+ - 2047: The TU scandal, separate but related. TU tries to bribe a secretariat member, loses [[Yarnojte]] status. Program paused
  
 - The Leak: 2049
  
