@@ -4,6 +4,7 @@ company_name: Soites Group
 susian_company_name:
 aliases:
   - Soites
+  - soites
 company_type: Multinational Conglomerate
 founded: 1969
 founding_place: "[[Neoveli]]"
