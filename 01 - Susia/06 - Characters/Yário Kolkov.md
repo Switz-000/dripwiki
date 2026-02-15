@@ -1,13 +1,13 @@
 ---
 type: person
-person_name: Yário Kolkov
+person_name: "[[Yário Kolkov]]"
 birth_year: 1960
 birth_place:
   - "[[New Duloc]]"
   - "[[Postia]]"
   - "[[Susia]]"
-citzenship:
-  - "[[Susia|Susian]]"
+citizenship:
+  - Susian
 death_year: 2011
 death_cause: Lung cancer
 known_for:
@@ -15,6 +15,7 @@ known_for:
 occupation:
   - Philosopher
   - Engineer
+  - Academic
 organization:
 employer:
   - "[[Troli Ustaras]]"

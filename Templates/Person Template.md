@@ -3,7 +3,7 @@ type: person
 person_name:
 birth_year:
 birth_place:
-citzenship:
+citizenship:
 death_year:
 death_cause:
 known_for:

@@ -4,20 +4,22 @@ aliases:
   - Chedji Jaroch Soites
   - Chediji J. Soites
 type: person
-person_name: Chedji Jaroch Soites
-birth_year:
+person_name: "[[Chedji Soites]]"
+birth_year: 1952
 birth_place:
   - "[[Neoveli]]"
   - "[[Susia]]"
   - "[[Dripia]]"
-citzenship:
-  - "[[Susia|Susian]]"
-  - "[[Dripstanian Empire|Dripstanian]]"
+citizenship:
+  - Susian
+  - Dripstanian
 death_year:
 death_cause:
 known_for:
   - "[[Soites Group]]"
 occupation:
+  - Executive
+  - Entrepreneur
 organization:
 employer:
   - "[[Soites Group]]"

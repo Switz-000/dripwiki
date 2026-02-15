@@ -1,14 +1,15 @@
 ---
 type: person
-person_name: Kaichet Satratonie
+person_name: "[[Kaichet Satratonie]]"
 birth_year: 1809
 birth_place:
   - "[[Lore-Kurji]]"
   - "[[Misocévia]]"
   - "[[Susia]]"
   - "[[Dripstanian Empire]]"
-citzenship:
-  - "[[Dripstanian Empire|Dripstanian]]"
+citizenship:
+  - Dripstanian
+  - Susian
 death_year: 1872
 death_cause: Unknown
 known_for:

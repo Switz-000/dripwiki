@@ -1,14 +1,15 @@
 ---
 type: person
-person_name: Zagoste Paroska
+person_name: "[[Zagoste Paroska]]"
 birth_year: 1796
 birth_place:
   - "[[Duolij]]"
   - "[[Postia]]"
   - "[[Susia]]"
   - "[[Dripstanian Empire|Dripstanian]]"
-citzenship:
-  - "[[Dripstanian Empire|Dripstanian]]"
+citizenship:
+  - Dripstanian
+  - Susian
 death_year: 1843
 death_cause: Hanging
 known_for:
