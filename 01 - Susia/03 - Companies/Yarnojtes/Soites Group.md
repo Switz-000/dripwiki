@@ -53,7 +53,7 @@ Launched shortly before the Great Transition, this program ostensibly paid parti
 Soites' behavioral data caught the attention of [[Troli Ustaras]] (TU), leading to a partnership that combined Soites' human behavioral research with TU's AI systems and hardware engineering. This collaboration produced early cognitive enhancement prototypes tested on willing [[Soites Experimenter Program|Experimenters]]. The partnership contributed to the [[Federal Cognitive Enhancement Program]] that ran from 2040-2048, which ended in disaster with multiple deaths and the [[Troli Ustaras Corruption Scandal (2047)|2047 TU corruption scandal]].
 
 #### The Kolkov Line (Late 2050s):
-> *Main article: [[Kolkov Line]]*
+> *Main article: [[Kolkov line]]*
 
 The construction of high-speed rail connecting [[Postia]] and [[Dripia]]'s major cities dramatically increased access to the [[Soites Federal Free Trade Zone|Soites FFTZ]]. What was previously a 2-hour drive for [[Duolij]] residents became a 20-minute bullet train ride; [[Neoveli]] residents could arrive in one hour instead of five. Business tripled, and the FFTZ transformed from "just another corporate zone" to Susia's de facto national shopping destination.
 
