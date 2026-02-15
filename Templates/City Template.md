@@ -1,5 +1,5 @@
 ---
-type:
+type: city
 country: "[[Susia]]"
 state:
 population_2070:
