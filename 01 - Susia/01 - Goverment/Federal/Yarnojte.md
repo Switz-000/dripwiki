@@ -1,6 +1,7 @@
 ---
 aliases:
   - Yarnojtes
+  - Yarnojte status
 ---
 A **Yarnojte** is a corporation granted strategic status by the [[Susian Federal Goverment|Federal government]], with authority to govern [[Free Economic Zone|Free Economic Zones]] (FEZs).
 
@@ -11,7 +12,7 @@ Requirements for Yarnojte Status:
 - National strategic importance
 - Demonstrated governance capacity
 - Financial stability
-- SoE ([[Secretariat of Efficiency]]) approval
+- SoE ([[-Repo/01 - Susia/01 - Goverment/Federal/Secretariat of Efficiency]]) approval
 - Constitutional compliance
 
 Powers:

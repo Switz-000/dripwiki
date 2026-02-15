@@ -3,6 +3,8 @@ aliases:
   - Experimenter
   - Experimenter Program
   - Soites Experimenter
+  - The Experimenter Program
+  - Experimenters
 ---
 ## The Pitch:
 

@@ -1,6 +1,7 @@
 ---
 aliases:
   - LV
+  - Lischev-Verene Biomedical Corporation
 type: company
 company_name: Lischev-Verene Biomedical Corporation
 susian_company_name:
