@@ -190,7 +190,7 @@ TRANSCRIPT BEGINS
 
 **RAROSKA:** (closing notebook) Thank you for your time, Mr. Kolkov. This has been... illuminating.
 
-**KOLKOV:** (waves dismissively) Yeah, yeah. Tell your colleagues to keep TU money out of their departments. Tell them to read full books, not abstracts. Tell them to be skeptical of anyone who turns philosophers into prophets. [stands] And tell them that if they see "Kolkov Institute" on anything, it's being used against me, not by me.
+**KOLKOV:** (waves dismissively) Yeah, yeah. Tell your colleagues to keep TU money out of their departments. Tell them to read full books, not abstracts. Tell them to be skeptical of anyone who turns philosophers into prophets. (stands) And tell them that if they see "Kolkov Institute" on anything, it's being used against me, not by me.
 
 **RAROSKA:** I will. 
 

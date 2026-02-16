@@ -54,3 +54,4 @@ alma_mater:
 
 “...Because that's what believers do. They don't follow prophet, they make them. They need prophets to legitimate their faith. And if the prophet says 'I'm not your prophet', they just say 'look how humble he is!'”  
 ― Yário Kolkov, [[Kolkov Interview 2009|Interview]] (2009)
+	
