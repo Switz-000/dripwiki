@@ -12,6 +12,8 @@ organization:
 employer:
 alma_mater:
 criminal_charges:
+ethnicity:
+religion:
 ---
 
 
