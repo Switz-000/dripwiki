@@ -1,6 +1,6 @@
 ---
 type: city
-country:
+country: "[[Ditania]]"
 state:
 population_2070:
 population_2000:
