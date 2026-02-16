@@ -30,6 +30,9 @@ rivers:
 gdp_per_capita_2070: "83000"
 has_fez: false
 yarnojtes_fez:
+aliases:
+  - Vitrikan
+  - vitrikan
 ---
 
 

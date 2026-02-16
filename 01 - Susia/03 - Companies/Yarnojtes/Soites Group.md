@@ -40,7 +40,7 @@ During this period, Soites developed the data analytics capabilities that would 
 
 ### The Great Transition Era (2038-2050)
 
-[[The Great Transition|The Great Transition of 2038]] created the [[FEZ system]], allowing strategic corporations to operate with greater autonomy. Soites was granted [[Yarnojte|Yarnojte]] status in 2050, enabling it to establish the [[Soites Federal Free Trade Zone]] (FFTZ) in [[Postia]]. This transformation coincided with several major developments that would define modern Soites:
+[[The Great Transition|The Great Transition of 2038]] created the [[Free Economic Zone|FEZ system]], allowing strategic corporations to operate with greater autonomy. Soites was granted [[Yarnojte|Yarnojte]] status in 2050, enabling it to establish the [[Soites Federal Free Trade Zone]] (FFTZ) in [[Postia]]. This transformation coincided with several major developments that would define modern Soites:
 
 #### The Experimenter Program (2032-Present): 
 > *Main article: [[Soites Experimenter Program]]*
