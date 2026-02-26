@@ -8,7 +8,7 @@ capital: "[[Unarete]]"
 largest_city: "[[Unarete]]"
 cities:
   - "[[Unarete]]"
-population_2070: 5000000
+population_2070: 5500000
 population_2000:
 population_1970:
 hemisphere: eastern
