@@ -6,7 +6,7 @@ company_type: Public Corporation
 founded: 1883
 founding_place: "[[Neoveli]]"
 headquarters: "[[Neoveli]]"
-market_cap: 851000000000
+market_cap: 852000000000
 yarnojte: false
 yarnojte_granted:
 yarnojte_revoked:
