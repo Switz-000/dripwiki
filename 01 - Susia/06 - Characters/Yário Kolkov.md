@@ -28,6 +28,7 @@ alma_mater:
 - [[Letters to a Dead Republic]] (1990)
 - [[Evolution of Governance]] (1997)
 - [[The Tyranny of Order]] (2006)
+- [[Democracy as Organism]] (2008)
 
 ## Quotes
 
