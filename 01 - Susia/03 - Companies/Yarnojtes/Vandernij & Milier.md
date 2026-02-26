@@ -8,10 +8,10 @@ company_type: Private Corporation
 founded:
 founding_place:
 headquarters:
-market_cap: 200000000000
+market_cap: 221000000000
 yarnojte: false
 yarnojte_granted:
-yarnojte_revoked:
+yarnojte_revoked: true
 fez_locations:
 defunct: true
 ---
