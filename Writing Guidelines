@@ -30,6 +30,7 @@ When the docs and vault contradict each other, always flag it explicitly: "the d
 - Empty or near-empty files are stubs.
 - When writing a file that references a stub, still link to it. Do not omit the link just because the target page has no content yet.
 - Index files that use Dataview queries (javascript blocks) are unreadable as reference material. If adding a summary or index file, include a plain-text summary at the top before any query blocks.
+- all market caps and undated economic data are as of 2080 unless a specific year is stated otherwise.
 
 ---
 
