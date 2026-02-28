@@ -40,7 +40,7 @@ borders_south:
   - "[[Astofayan]]"
   - "[[Sutsa-Fuhu]]"
 ---
-
+	
 The **Techno-Federative Republic of Susia** is a federal presidential democracy located on the continent of [[Dripstan]], bordered by [[Confia]] and [[Zaphonia]] to the east, [[Dripland]] to the northeast, [[Astofayan]] to the south and southwest, and [[Sutsa-Fuhu]] to the south-southeast. With a population of approximately 240 million as of 2070 and a capital at [[Soiteslaj]], it is the continent's most populous and economically developed nation. Its official language is Susian, and its majority religion is [[Armotism]].
 
 Susia is a constitutional democracy with an unusual hybrid structure that combines elected democratic institutions with meritocratic technocratic bodies and a formally regulated system of corporate self-governance through [[Free Economic Zone|Free Economic Zones]] administered by corporations called [[Yarnojte|Yarnojtes]]. This system, established by the [[The Great Transition|Great Transition of 2038]], replaced a traditional federative republic that had governed the country since its founding in 1954 following the dissolution of the [[Dripstanian Empire]].
@@ -119,18 +119,18 @@ The [[Federal Intelligence Service|Frumentarze]] employs approximately 45,000 pe
 
 Susia comprises nine states and the [[Neutral District]], which serves as the federal capital territory.
 
-| State | Capital | Population (2070) | GDP per capita (2070) | Has FEZ |
-|---|---|---|---|---|
-| [[Dripia]] | [[New Kentu]] | 40M | D$160,000 | Yes |
-| [[Postia]] | [[Duolij]] | 45M | D$150,000 | Yes |
-| [[Sužielaj]] | [[Sužielaj City]] | 36M | D$120,000 | Yes |
-| [[Orlítia]] | [[Hǎvesna]] | 27M | D$108,000 | No |
-| [[Misocévia]] | [[Niqueparje]] | 25M | D$90,000 | Yes |
-| [[Troli]] | [[Donetruže]] | 35M | D$103,000 | Yes |
-| [[Vitrika]] | [[Kruie ro Yietre]] | 15M | D$83,000 | No |
-| [[New Celiolaj]] | [[Unarete]] | 5.5M | D$72,000 | Yes |
-| [[Nessel]] | — | — | — | — |
-| [[Neutral District]] | [[Soiteslaj]] | — | — | — |
+| State                | Capital             | Population (2070) | GDP per capita (2070) | Has FEZ |
+| -------------------- | ------------------- | ----------------- | --------------------- | ------- |
+| [[Dripia]]           | [[New Kentu]]       | 40M               | D$160,000             | Yes     |
+| [[Postia]]           | [[Duolij]]          | 45M               | D$150,000             | Yes     |
+| [[Sužielaj]]         | [[Sužielaj City]]   | 36M               | D$120,000             | Yes     |
+| [[Orlítia]]          | [[Hǎvesna]]         | 27M               | D$108,000             | No      |
+| [[Misocévia]]        | [[Niqueparje]]      | 25M               | D$90,000              | Yes     |
+| [[Troli]]            | [[Donetruže]]       | 35M               | D$103,000             | Yes     |
+| [[Vitrika]]          | [[Kruie ro Yietre]] | 15M               | D$83,000              | No      |
+| [[New Celiolaj]]     | [[Unarete]]         | 5.5M              | D$72,000              | Yes     |
+| [[Nessel]]           | —                   | —                 | —                     | —       |
+| [[Neutral District]] | [[Soiteslaj]]       | —                 | —                     | —       |
 
 [[Orlítia]] and [[Vitrika]] are notable for their explicit rejection of the FEZ model, treating FEZ-free status as a matter of state identity rather than merely an economic choice.
 

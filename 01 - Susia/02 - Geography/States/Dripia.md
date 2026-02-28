@@ -39,10 +39,6 @@ gdp_per_capita_2070: "160000"
 has_fez: true
 yarnojtes_fez:
   - "[[Troli Ustaras]]"
-political_lean:
-  modernist_alliance: 45%
-  democratic_federalist: 35%
-  coalition_of_states_rights: 20%
 aliases:
   - Dripian
 ---
@@ -88,7 +84,7 @@ Operated by [[Troli Ustaras]], located approximately one hour north of [[Neoveli
 
 ## Politics
 
-Dripia leans toward the [[Modernist Alliance]] in urban areas, driven by [[Neoveli]]'s financial class and the heavy presence of TU employees near the [[Susian Innovation Center]]. [[New Kentu]]'s university population and the state's civil service tradition sustain a strong [[Democratic Federalist]] bloc. The [[Coalition of State's Rights]] draws its support from rural northern areas and communities around [[Vassénia]].
+Dripia leans toward the [[Modernist Alliance]] in urban areas, driven by [[Neoveli]]'s financial class and the heavy presence of TU employees near the [[Susian Innovation Center]]. [[New Kentu]]'s university population and the state's civil service tradition sustain a strong [[Democratic-Federalist Party]] bloc. The [[Coalition of State's Rights]] draws its support from rural northern areas and communities around [[Vassénia]].
 
 | Party | Share |
 |---|---|
