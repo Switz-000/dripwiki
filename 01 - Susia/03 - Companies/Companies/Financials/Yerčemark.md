@@ -13,6 +13,8 @@ yarnojte_revoked:
 fez_locations:
 sector:
   - Financials
+aliases:
+  - Yerčemark Corporation
 ---
 Marketshare:
 - Retail (12%): Growing fast popular with young people
