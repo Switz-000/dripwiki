@@ -24,5 +24,4 @@ gdp_per_capita_2070:
 has_fez:
 yarnojtes_fez:
 ---
-![[Pasted image 20260216122117.png]]
 
