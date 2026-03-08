@@ -1,4 +1,4 @@
-# Susia Vault Writing Guidelines
+# Vault Writing Guidelines
 
 A reference document for writing character files and articles in the Susia vault. Follow these rules consistently across all files.
 
