@@ -164,13 +164,15 @@ Susia's population of approximately 240 million is predominantly ethnically Gaiy
 
 ### Gun Culture
 
-> *Main article: [[Susian Gun Culture]]*
+> *Main article: [[Gun Culture in Susia]]*
 
 Firearms ownership and competence are deeply embedded in Susian civic identity, rooted in the settlement era's practical necessity, the [[Cericeiro]] frontier tradition, the lesson drawn from [[Jartes II]]'s disarmament of the population before the [[Liberal Revolts]], and [[Armadesh Versij|Versij's]] philosophical argument that rights that cannot be defended are privileges waiting to be revoked. Gun safety is a required component of the civics curriculum in all Susian middle and high schools. The [[Sorzenko]] shooting club system remains an active civic institution, particularly in rural areas and the eastern states. Both open carry and concealed carry are constitutionally protected at the federal level. Gun culture is more reserved in urban western areas and actively discouraged within most FEZs.
 
 ### Military Service
 
-Susia has maintained mandatory military service since the imperial era, reinstated at the start of the continental cold war. All citizens are required to serve one year in combat roles or two years in non-combat roles. After service, citizens may join their state's [[National Guard]], which can be activated by state governors for disasters or public disorder and by the federal government for foreign missions.
+> *Main article: [[Military Service in Susia]]*
+
+Susia has maintained mandatory military service since the imperial era, reinstated at the start of the continental divide. All citizens are required to serve one year in combat roles or two years in non-combat roles. After service, citizens may join their state's [[National Guard]], which can be activated by state governors for disasters or public disorder and by the federal government for foreign missions.
 
 ### Civic Institutions
 
