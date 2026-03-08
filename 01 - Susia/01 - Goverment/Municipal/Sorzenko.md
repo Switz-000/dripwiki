@@ -68,7 +68,7 @@ The institution's long-term trajectory within FEZ territories is uncertain. As F
 ## See Also
 
 - [[Hăjaven]]
-- [[Susian Gun Culture]]
+- [[Gun Culture in Susia]]
 - [[Right to Rebel]]
 - [[Cericeiro]]
 - [[Liberal Revolts]]
