@@ -12,6 +12,7 @@ type: law
 type: treaty
 type: event
 type: war
+type: tradition
 type: concept
 type: movement
 type: document
