@@ -29,7 +29,7 @@ The response to this first siege established the structural template that subseq
 
 > *Main article: [[Continental Divide]]*
 
-The [[Continental Divide]] framed the early republic as a liberal-democratic enclave under ideological pressure from [[Confia]]'s authoritarian syndicalist government under [[Lorelaj Paulovic]]. The threat was understood not merely as military but as civilizational: a competing model of social organization backed by proxy conflicts across the continent, active infiltration of Susian institutions, and eventually direct military confrontation in the [[Continental War]] (1975–1977). The [[MAGEN Act]] of 1961, which restricted domestic left-wing parties, applied the fortress logic inward, treating ideological contamination as a form of internal siege.
+The [[Continental Divide]] framed the early republic as a liberal-democratic enclave under ideological pressure from [[Confia]]'s authoritarian syndicalist government under [[Lorelaj Paulović]]. The threat was understood not merely as military but as civilizational: a competing model of social organization backed by proxy conflicts across the continent, active infiltration of Susian institutions, and eventually direct military confrontation in the [[Continental War]] (1975–1977). The [[MAGEN Act]] of 1961, which restricted domestic left-wing parties, applied the fortress logic inward, treating ideological contamination as a form of internal siege.
 
 The Continental War's successful outcome did not dissolve the Fortress Complex. It confirmed it: the threat had been real, the vigilance had been necessary, and the institutions built to address it were vindicated.
 
@@ -43,7 +43,7 @@ The [[War of Arempur]] (2012), a proxy defeat overseas, demonstrated that the co
 
 ## Institutional expressions
 
-The Fortress Complex is legible in several Susian institutions that would appear disproportionate to a nation without this orientation. Mandatory military service, reinstated at the start of the Continental Divide, is its most direct expression. The [[Frumentarze]]'s scale and mandate reflect the same logic applied to intelligence infrastructure. The [[Sorzenko]] system, the constitutional [[Right to rebel|right to rebel]], and the inclusion of firearms training in the civics curriculum connect the complex to individual civic identity through the Versijian argument that rights which cannot be defended are privileges waiting to be revoked.
+The Fortress Complex is legible in several Susian institutions that would appear disproportionate to a nation without this orientation. Mandatory military service, reinstated in 1959 during the Continental Divide, is its most direct expression. The [[Frumentarze]]'s scale and mandate reflect the same logic applied to intelligence infrastructure. The [[Sorzenko]] system, the constitutional [[Right to rebel|right to rebel]], and the inclusion of firearms training in the civics curriculum connect the complex to individual civic identity through the Versijian argument that rights which cannot be defended are privileges waiting to be revoked.
 
 The [[ONDD]] alliance's evolution from anti-Confian instrument to anti-Ashgeradn perimeter, now described in Susian strategic doctrine as the "Continental Fortress," translates the complex directly into foreign policy architecture.
 
