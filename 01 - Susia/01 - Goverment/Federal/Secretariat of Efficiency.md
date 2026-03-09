@@ -14,7 +14,7 @@ Structure:
 
 Functions:
 
-1. [[Free Economic Zone|FEZ]]Oversight (grants/revokes [[Yarnojte]] status)
+1. [[Free Economic Zone|FEZ]] Oversight (grants/revokes [[Yarnojte]] status)
 2. FEZ Dispute Resolution (mediates inter-corporate conflicts)
 3. Constitutional Compliance (ensures FEZs meet minimums)
 4. Land Allocation (determines where new FEZs can exist)

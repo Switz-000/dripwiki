@@ -57,7 +57,7 @@ The episode transformed public perception of Veronique's rule. The brutality was
 
 ### Creation of the Dripstanian Army
 
-Recognizing the inefficiency of raising troops through captaincies and their vassals — as exposed during the Babalist Revolt's eight-month mobilization — Veronique abolished the old recruitment system and enacted the **Army Structuring Act**. This centralized the [[Sorzenkos]] under imperial authority and created a permanent professional army. The decree also introduced civil examinations to identify talented officers, establishing meritocratic military promotion.
+Recognizing the inefficiency of raising troops through captaincies and their vassals — as exposed during the Babalist Revolt's eight-month mobilization — Veronique abolished the old recruitment system and enacted the **Army Structuring Act**. This centralized the [[Sorzenko]] under imperial authority and created a permanent professional army. The decree also introduced civil examinations to identify talented officers, establishing meritocratic military promotion.
 
 ### Colonization of Confia (1746–1787)
 
