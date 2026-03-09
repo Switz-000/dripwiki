@@ -11,7 +11,7 @@ tags:
   - corporate
   - labor
 ---
-The **Secretariat of Efficiency** or SoE is a independent body of the [[Susian Federal Goverment]]
+The **Secretariat of Efficiency** or SoE is a independent body of the [[Susian Federal Government]]
 
 Structure:
 - Independent body (not Cabinet, reports to no one directly)
@@ -110,4 +110,4 @@ The Result:
 - Those who do serve aren't loyal to corporate benefactors (culture + rules)
 - But the secretariat is still vulnerable to a more informal kind of influence, intellectual capture. Reading [[Troli Ustaras|TU]] funded papers, attending [[Nayotai]] sponsored conferences etc.
 - Some members are influenced by corporate/modernist thinking but institutional diversity prevents one ideology from dominating 
-- The secretariat is the least captured [[Susian Federal Goverment|Federal]] institution, but capture attempts never stop. The System is able to expel most, but not all. Institutional mechanisms avoid this problem becoming systematic.
+- The secretariat is the least captured [[Susian Federal Government|Federal]] institution, but capture attempts never stop. The System is able to expel most, but not all. Institutional mechanisms avoid this problem becoming systematic.

@@ -62,6 +62,6 @@ Jartes II died in 1882 and was succeeded by Emperor [[Soliman]]. His reign ended
 
 > *Main article: [[War of Confian Secession]]*
 
-In Susian memory, Jartes II is the paradigmatic tyrant. His disarmament campaign is cited as the reason the [[Liberal Revolts]] failed and is the direct historical justification for the [[Right to rebel|constitutional right to rebel]] enshrined in the [[Susian Federal Goverment|Susian constitution]]. The saying "Pulling a [[Kaichet Satratonie|Satratonie]]" — meaning betraying your principles for personal gain — originated from his successful bribery of [[Kaichet Satratonie|Satratonie]].
+In Susian memory, Jartes II is the paradigmatic tyrant. His disarmament campaign is cited as the reason the [[Liberal Revolts]] failed and is the direct historical justification for the [[Right to rebel|constitutional right to rebel]] enshrined in the [[Susian constitution]]. The saying "Pulling a [[Kaichet Satratonie|Satratonie]]" — meaning betraying your principles for personal gain — originated from his successful bribery of [[Kaichet Satratonie|Satratonie]].
 
 [[Armadesh Versij|Versij]] and [[Zagoste Paroska|Paroska]] are remembered as martyrs. Jartes II is remembered as the man who killed them.

@@ -41,7 +41,7 @@ The Deal (2065)
 
 [[Troli Ustaras]]: Hostile but forced partnership
 - Cooperates in enhancement hardware: TU builds neural interfaces, LV develops biological compatibility drugs and realizes the medical procedures
-- [[Susian Federal Goverment|Federal]] Mandate: "Cooperate or forfeit military contracts"
+- [[Susian Federal Government|Federal]] Mandate: "Cooperate or forfeit military contracts"
 - Cross-licensing Patents: Legally required, mutually resented
 - Talent Poaching: Aggressive recruitment of each other’s researchers
 - Academic Warfare: Competing papers, conference presentations attacking each other’s philosophy

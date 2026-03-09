@@ -150,7 +150,7 @@ FD$ accounts are used for long-term contracts of ten years or more, including FE
 
 Nuclear energy is a legal monopoly held by [[Atompron]], reflecting Susia's post-continental-war adoption of atomic power as a point of national pride and technological identity. Oil and gas extraction is an oligopoly historically dominated by [[POCOIL]], whose Yarnojte status was revoked in 2087 as nuclear power displaced petroleum. Robotics, AI, and automation are near-monopolies of [[Troli Ustaras]]. Manufacturing and automotive production are led by [[Nayotai]]. Retail, logistics, and consumer services are dominated by [[Soites Group]]. Healthcare and biomedical research are led by [[Lischev-Verene]]. Defense and aerospace are dominated by [[Van Ritter]].
 
-Banking is more fragmented, with [[Nassoj Holdings]], [[Triževa Bank]], [[Yerčemark Corporation]], [[Silver Coast Bank]], [[Astralis Banking Group]], and [[Red Iron]] each serving distinct market segments.
+Banking is more fragmented, with [[Nassoj Holdings]], [[Triževa Bank]], [[Yerčemark|Yerčemark Corporation]], [[Silver Coast Bank]], [[Astralis Banking Group]], and [[Red Iron]] each serving distinct market segments.
 
 ## Society
 
@@ -180,7 +180,7 @@ The [[Sorzenko]] system, the [[Hăjaven]] communal festival, and mandatory milit
 
 ## Culture
 
-Susian national culture is shaped by the intersection of [[Armotism|Armotist]] religious heritage, the natural rights philosophy of [[Armadesh Versij]], the pragmatic liberalism of [[Suizo Soites]], the competitive governance theory of [[Yário Kolkov]], and the [[Fortress Complex]] of perpetual civilizational siege. These traditions are in genuine tension and produce a political culture marked by intense philosophical debate, deep attachment to constitutional process, and recurring anxiety about whether that process is adequate to the challenges Susia faces.
+Susian national culture is shaped by the intersection of [[Armotism|Armotist]] religious heritage, the natural rights philosophy of [[Armadesh Versij]], the pragmatic liberalism of [[Suizo Soites]], the competitive governance theory of [[Yário Kolkov]], and the [[Fortress complex]] of perpetual civilizational siege. These traditions are in genuine tension and produce a political culture marked by intense philosophical debate, deep attachment to constitutional process, and recurring anxiety about whether that process is adequate to the challenges Susia faces.
 
 [[Crolball]] is the national sport, created during the imperial era and now popular across the continent. The city of [[Velúria]] in [[Orlítia]], with its legal identity-change system and permissive legal environment, functions as a unique cultural institution within Susia, attracting whistleblowers, celebrities, criminals, and people seeking fresh starts in roughly equal measure.
 
@@ -204,7 +204,7 @@ The Ashgeradn cold war is the defining foreign policy challenge of the contempor
 - [[Free Economic Zone]]
 - [[Secretariat of Efficiency]]
 - [[Susian Exceptionalism]]
-- [[Fortress Complex]]
+- [[Fortress complex]]
 - [[Armotism]]
 - [[Armadesh Versij]]
 - [[Yário Kolkov]]
