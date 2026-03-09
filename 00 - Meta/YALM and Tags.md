@@ -38,7 +38,7 @@ era:
 		  - liberal-revolts     # 1840–1844, specific era within late imperial
 		  - dissolution            # 1950–1954, Tahuni Accords and republic establishment
   - republican-era    # 1954–2038, before the great transition after the dissolution
-	  - continental-divide  # 1957–1975, cold war with Confia
+	  - continental-divide  # 1957–1977, cold war with Confia
 	  - continental-war     # 1975–1977, hot war
 	  - post-war            # 1977–2006, reconstruction and boom
 	  - great-transition   # 2036–2038, new constitution convention, creation of the techno-federative republic

@@ -69,11 +69,11 @@ The republic's early decades were dominated by the [[Continental Divide]] (1957-
 
 The post-war boom produced rapid economic and technological growth, the rise of corporations that would later become [[Yarnojte|Yarnojtes]], and Susia's development of nuclear weapons, which arrived too late for the continental war but established the country as a nuclear power. The emergence of [[Ashgerad]] as an adversary after 2006 and the humiliating [[War of Arempur]] (2012), a proxy defeat overseas, intensified pressure for institutional reform.
 
-### The Great Transition (2038)
+### The Great Transition (2036-2038)
 
 > *Main article: [[The Great Transition]]*
 
-The [[The Great Transition|Great Transition of 2038]] replaced the traditional republic with the current Techno-Federative system. Driven by the [[Modernist Alliance]] political movement and influenced, in distorted form, by the competitive governance theories of philosopher [[Yário Kolkov]], the transition introduced the [[Free Economic Zone|FEZ system]], the [[Secretariat of Efficiency]], the bicameral [[Chamber of Experts]], and the constitutional framework for [[Yarnojte]] corporate governance. The transition was the product of negotiation between competing political factions and substantial corporate lobbying, particularly from [[Troli Ustaras]] and [[Nayotai]], and its relationship to Kolkov's actual philosophy remains a subject of debate.
+The [[The Great Transition|Great Transition of 2038]] replaced the traditional republic with the current Techno-Federative system. Driven by the [[Modernist Alliance]] political movement and influenced, in distorted form, by the competitive governance theories of philosopher [[Yário Kolkov]], the transition introduced the [[Free Economic Zone|FEZ system]], the [[Secretariat of Efficiency]], the bicameral legislature (retaining the [[Susian Senate]] and adding the [[Chamber of Experts]]), and the constitutional framework for [[Yarnojte]] corporate governance. The transition was the product of negotiation between competing political factions and substantial corporate lobbying, particularly from [[Troli Ustaras]] and [[Nayotai]], and its relationship to Kolkov's actual philosophy remains a subject of debate.
 
 ## Government
 
@@ -129,14 +129,14 @@ Susia comprises nine states and the [[Neutral District]], which serves as the fe
 | [[Troli]]            | [[Donetruže]]       | 35M               | D$103,000             | Yes     |
 | [[Vitrika]]          | [[Kruie ro Yietre]] | 15M               | D$83,000              | No      |
 | [[New Celiolaj]]     | [[Unarete]]         | 5.5M              | D$72,000              | Yes     |
-| [[Nessel]]           | —                   | —                 | —                     | —       |
-| [[Neutral District]] | [[Soiteslaj]]       | —                 | —                     | —       |
+| [[Nessel]]           | [[Kloshijie]]       | 3M                | D$69,000              | No      |
+| [[Neutral District]] | [[Soiteslaj]]       | —                 | —                     | No      |
 
 [[Orlítia]] and [[Vitrika]] are notable for their explicit rejection of the FEZ model, treating FEZ-free status as a matter of state identity rather than merely an economic choice.
 
 ## Economy
 
-Susia is the most economically developed nation on the Dripstan continent and the only one classified as fully developed by continental economic organizations. Its GDP per capita ranges from D$72,000 in [[New Celiolaj]] to D$160,000 in [[Dripia]] as of 2070.
+Susia is the most economically developed nation on the Dripstan continent and the only one classified as fully developed by continental economic organizations. Its GDP per capita ranges from D$69,000 in [[Nessel]] to D$160,000 in [[Dripia]] as of 2070.
 
 ### The Dual Currency System
 
