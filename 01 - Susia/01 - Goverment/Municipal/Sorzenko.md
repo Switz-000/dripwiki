@@ -1,4 +1,5 @@
 ---
+type: institution
 aliases:
   - Sorzenkos
 ---
