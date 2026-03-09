@@ -82,4 +82,4 @@ What You Costs:
 - Affordable healthcare: D$800/month Full coverage with genetic sharing and D$2000/month without genetic sharing
 - World class research and research finding sharing
 - Cured Alzheimer’s and Parkinson’s, Osteoporosis and some types of Dementia. Nearly eliminated in Susia: Breast, Prostate, Colorectal, Stomach and Lung Cancer by 2090.
-- Created its own version of [[Cognitive Enhancement]], focused on being less invasive and more “health” oriented, competes with [[Troli Ustaras|TU]] in the market
+- Created its own version of [[Cognitive enhancement]], focused on being less invasive and more “health” oriented, competes with [[Troli Ustaras|TU]] in the market
