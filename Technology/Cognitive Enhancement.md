@@ -27,7 +27,7 @@ In 2047, separate from but related to the enhancement program, Troli Ustaras was
 
 ### Public Exposure and Reform (2049-2051)
 
-In 2049, families of three deceased participants simultaneously broke their non-disclosure agreements and coordinated with journalists to expose the existence and safety failures of the secret federal enhancement program. The leak coincided with the TU corruption scandal, creating a major crisis of public trust. Congressional hearings, an investigation by the [[Federal Authority of Commerce and Competition]] (AFCC), and a [[Secretariat of Efficiency 1|secretariat]] review followed, ultimately leading to the termination of the federal program.
+In 2049, families of three deceased participants simultaneously broke their non-disclosure agreements and coordinated with journalists to expose the existence and safety failures of the secret federal enhancement program. The leak coincided with the TU corruption scandal, creating a major crisis of public trust. Congressional hearings, an investigation by the [[Federal Authority of Commerce and Competition]] (AFCC), and a [[Secretariat of Efficiency]] review followed, ultimately leading to the termination of the federal program.
 
 ### Commercial Development (2051-2061)
 

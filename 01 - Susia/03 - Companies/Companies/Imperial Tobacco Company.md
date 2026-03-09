@@ -18,6 +18,6 @@ Marketshare:
 - Cigarettes (16%): Premium kaminoan and confian tobacco, hand rolled. Costs D$ 20 a pack. Has a distinctive strong smell.
 
 Other notes:
-- Favorite brand of [[Pocerios]], [[POCOIL]] executives and burnt out [[Nassoj Holdings|Nassoj]]/[[Red Iron]] investment bankers.
+- Favorite brand of [[Poceiros]], [[POCOIL]] executives and burnt out [[Nassoj Holdings|Nassoj]]/[[Red Iron]] investment bankers.
 - Tastes better after finally finishing a M&A deal
 - Popular all over the continent.

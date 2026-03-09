@@ -36,7 +36,7 @@ Jartes II was born into the imperial family during his grandmother [[Empress Pra
 
 > *Main article: [[Liberal Revolts]]*
 
-In an attempt to stabilize growing unrest, Jartes II banned [[Sorzenkos]] and restricted civilian gun ownership, and began persecuting liberal writers and thinkers. [[Armadesh Versij]] fled to [[Gaiyan]] to continue writing. Secret societies formed in universities and liberal militias organized underground.
+In an attempt to stabilize growing unrest, Jartes II banned [[Sorzenko|Sorzenkos]] and restricted civilian gun ownership, and began persecuting liberal writers and thinkers. [[Armadesh Versij]] fled to [[Gaiyan]] to continue writing. Secret societies formed in universities and liberal militias organized underground.
 
 In 1840, a general assembly in [[Neoveli]] proclaimed the [[Federated Provinces of Galil]], with [[Duolij]], [[New Kentu]], and [[Niqueparje]] joining the revolt. The republic's general government was composed of Versij, [[Zagoste Paroska|Admiral Paroska]], and General [[Kaichet Satratonie]].
 

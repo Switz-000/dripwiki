@@ -29,12 +29,13 @@ Era: What historical period the article primarily belongs to. Can take multiple 
 era:
   - pre-colonial        # Before Armotist arrival, 1651
   - settlement          # 1651–1674, first colonies
-  - early-imperial      # 1674–1740, Mantichev through Agamilos
-  - high-imperial       # 1740–1837, Veronique through Jartes I
-	  - fraternal-war       # 1815–1823, specific era within high imperial
-  - late-imperial       # 1837–1954, Jartes II through dissolution
-	  - liberal-revolts     # 1840–1844, specific era within late imperial
-	  - dissolution            # 1950–1954, Tahuni Accords and republic establishment
+  - imperial-era #1674-1954 
+	  - early-imperial      # 1674–1740, Mantichev through Agamilos
+	  - high-imperial       # 1740–1837, Veronique through Jartes I
+		  - fraternal-war       # 1815–1823, specific era within high imperial
+	  - late-imperial       # 1837–1954, Jartes II through dissolution
+		  - liberal-revolts     # 1840–1844, specific era within late imperial
+		  - dissolution            # 1950–1954, Tahuni Accords and republic establishment
   - republican-era    # 1954–2038, before the great transition after the dissolution
 	  - continental-divide  # 1957–1975, cold war with Confia
 	  - continental-war     # 1975–1977, hot war
