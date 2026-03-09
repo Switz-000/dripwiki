@@ -15,7 +15,7 @@ Special Status:
 - Special municipal charter, unique legal status
 - Population: ~1.2 million permanent, ~3 million summer peak
 
-The [[Velúrian Identity|Velúria ID]] System:
+The [[Velúrian identity|Velúria ID]] System:
 - Live there one year → eligible for Velúria ID
 - Choose new name, new age (many do), new identity
 - Original identity stored in [[Velúria Archives]]
@@ -31,7 +31,7 @@ History:
     
 - After the popularization of air conditioning and atomic energy during the 70s, Velúria suddenly became hospitable and desirable. The post-war boom only increased the population surge as the now richer middle class were able to vacation more often.
     
-- This trend continued until 1982, with the creation of the [[Velúria Archives]] and the [[Velúrian Identity|ID system]]; this was initially challenged but a supreme court case ruled that it was constitutional. Velúria’s population surged even higher, attracting all sorts of people, this caused the creation of the [[Velúria Police Department]], which had sole jurisdiction to investigate crimes within Velúria and access to the archives.
+- This trend continued until 1982, with the creation of the [[Velúria Archives]] and the [[Velúrian identity|ID system]]; this was initially challenged but a supreme court case ruled that it was constitutional. Velúria’s population surged even higher, attracting all sorts of people, this caused the creation of the [[Velúria Police Department]], which had sole jurisdiction to investigate crimes within Velúria and access to the archives.
     
 - With time, [[Orlítia]] became increasingly more libertarian because of Velúria. And the state government is always battling to defend its status.
     
