@@ -1,6 +1,6 @@
 ---
 type: state
-country: "[[Susia]]"
+country:
 state_name:
 demonym:
 state_animal:

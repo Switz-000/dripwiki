@@ -28,7 +28,7 @@ In its early republican form, this philosophical impulse was largely latent. The
 
 > *Main article: [[Continental Divide]]*
 
-Democratic evangelism acquired its operational character during the [[Continental Divide]] (1957–1977). The ideological competition with [[Confia]]'s syndicalist government under [[Lorelaj Paulovic]] produced the first systematic Susian program of foreign political intervention. Susia funded opposition movements, ran covert operations against Confian-aligned governments across the continent, and organized the [[ONDD]] in 1961 as the institutional vehicle for its anti-syndicalist alliance.
+Democratic evangelism acquired its operational character during the [[Continental Divide]] (1957–1977). The ideological competition with [[Confia]]'s syndicalist government under [[Lorelaj Paulović]] produced the first systematic Susian program of foreign political intervention. Susia funded opposition movements, ran covert operations against Confian-aligned governments across the continent, and organized the [[ONDD]] in 1961 as the institutional vehicle for its anti-syndicalist alliance.
 
 This phase was not framed primarily in the language of moral obligation. Its justification was strategic: syndicalism spreading across the continent posed an existential threat to the Susian model, and intervention was self-defense as much as principle. The moral and strategic arguments were not distinguished, and they reinforced each other. Stopping syndicalism was both the right thing to do and the necessary thing to do.
 
