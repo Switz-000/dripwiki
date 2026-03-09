@@ -50,4 +50,4 @@ The holiday's cross-class character, particularly in its traditional rural form,
 - [[Gun Culture in Susia]]
 - [[Armotism]]
 - [[Military Service in Susia]]
-- [[Susian holidays]]
+- [[List of susian holidays]]
