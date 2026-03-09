@@ -5,6 +5,7 @@ aliases:
   - Susians
   - susian
   - susians
+  - Federative Republic of Susia
 type: country
 government_type:
   - Technocracy
@@ -40,7 +41,6 @@ borders_south:
   - "[[Astofayan]]"
   - "[[Sutsa-Fuhu]]"
 ---
-	
 The **Techno-Federative Republic of Susia** is a federal presidential democracy located on the continent of [[Dripstan]], bordered by [[Confia]] and [[Zaphonia]] to the east, [[Dripland]] to the northeast, [[Astofayan]] to the south and southwest, and [[Sutsa-Fuhu]] to the south-southeast. With a population of approximately 240 million as of 2070 and a capital at [[Soiteslaj]], it is the continent's most populous and economically developed nation. Its official language is Susian, and its majority religion is [[Armotism]].
 
 Susia is a constitutional democracy with an unusual hybrid structure that combines elected democratic institutions with meritocratic technocratic bodies and a formally regulated system of corporate self-governance through [[Free Economic Zone|Free Economic Zones]] administered by corporations called [[Yarnojte|Yarnojtes]]. This system, established by the [[The Great Transition|Great Transition of 2038]], replaced a traditional federative republic that had governed the country since its founding in 1954 following the dissolution of the [[Dripstanian Empire]].

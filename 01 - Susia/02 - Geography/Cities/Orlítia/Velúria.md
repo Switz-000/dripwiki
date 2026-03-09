@@ -20,7 +20,7 @@ The [[Velúrian identity|Velúria ID]] System:
 - Choose new name, new age (many do), new identity
 - Original identity stored in [[Velúria Archives]]
 - Only accessible by municipal government
-- [[Federal government]] CANNOT access without warrant (rarely granted)
+- [[Susian Federal Government|Federal government]] CANNOT access without warrant (rarely granted)
 - Associated with real passport/national ID (federal has that link, but not the new identity details)
 
 History:
@@ -55,7 +55,7 @@ The Culture:
 The Politics:
 
 - Orlítia state government: Fiercely defends Velúria autonomy (makes them rich)
-- [[Susian Federal Goverment|Federal government]]: Tolerates it (honeypot strategy)
+- [[Susian Federal Government]]: Tolerates it (honeypot strategy)
 - Frumentaze (intelligence service): Constantly demands access, rarely gets it
 - [[Yarnojte|Yarnojtes]]: HATE Velúria (whistleblowers hide there)
 - Other states: Mixed feelings (envy the revenue, hate the criminality)

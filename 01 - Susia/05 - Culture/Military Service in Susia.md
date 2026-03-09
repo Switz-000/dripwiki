@@ -1,7 +1,21 @@
+---
+tags:
+  - culture
+  - history
+  - geography
+  - law
+  - military
+  - philosophy
+  - politics
+type: concept
+era:
+  - imperial-era
+  - republican-era
+  - techno-federative-era
+---
 Military service in [[Susia]] takes two forms: mandatory national service, which applies to all citizens, and voluntary career service within the professional armed forces and the corporate defense sector. The mandatory service requirement has roots in the early [[Dripstanian Empire|imperial]] era and was formally reinstated at the founding of the republic in 1959. It is understood in Susian civic culture as both a practical security measure and an expression of the Versijian principle that rights must be backed by the capacity to defend them.
 
 ## History
-
 ### Imperial Origins
 
 The institutionalization of military service in Susia traces to [[Empress Veronique]]'s [[Army Structuring Act]], enacted in the eighteenth century following the [[Babalist Revolt]]. Prior to the act, the empire raised troops through the captaincy system, mobilizing forces through feudal obligation to local lords. The eight months required to assemble an army of 50,000 men against the Babalists exposed the inadequacy of this arrangement. Veronique abolished it, centralizing the [[Sorzenko|Sorzenkos]] under imperial authority and creating a permanent professional army. The act also introduced civil examinations for officer promotion, establishing a meritocratic element within the military for the first time.
@@ -16,7 +30,7 @@ The political meaning of civilian military capacity became explicit during [[Jar
 
 ### Reinstatement Under the Republic
 
-[[Sergio Fimoises]] reinstated mandatory military service as one of the founding institutions of the [[Federative Republic of Susia|Federative Republic]] in 1959, alongside the elected [[Susian Senate|Senate]] and the constitutional protection of natural rights. The requirement was understood as both a practical response to the [[Continental Divide]] and a civic statement: service was a duty owed to the republic, not merely a contribution extracted from its citizens.
+[[Sergio Fimoises]] reinstated mandatory military service as one of the founding institutions of the [[Susia|Federative Republic of Susia]] in 1959, alongside the elected [[Susian Senate|Senate]] and the constitutional protection of natural rights. The requirement was understood as both a practical response to the [[Continental Divide]] and a civic statement: service was a duty owed to the republic, not merely a contribution extracted from its citizens.
 
 ## Mandatory National Service
 
@@ -24,7 +38,7 @@ All Susian citizens are required to complete mandatory national service upon rea
 
 ### Combat Track
 
-The combat track requires one year of service in a military role. Service members receive training in firearms competence, physical fitness, tactics, discipline, and disaster response. Conscripts are assigned to units drawn from across Susia, placing people of different regional backgrounds, economic classes, and FEZ or non-FEZ origins in shared conditions. This deliberate mixing is considered one of the service requirement's more significant civic functions: it produces bonds and mutual obligations across social divisions that few other institutions create.
+The combat track requires one year of service in a military role. Service members receive training in firearms competence, physical fitness, tactics, discipline, and disaster response. Conscripts are assigned to units drawn from across Susia, placing people of different regional backgrounds, economic classes, and [[Free Economic Zone|FEZ]] or non-FEZ origins in shared conditions. This deliberate mixing is considered one of the service requirement's more significant civic functions: it produces bonds and mutual obligations across social divisions that few other institutions create.
 
 ### Non-Combat Track
 
