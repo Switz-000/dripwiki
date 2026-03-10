@@ -126,7 +126,7 @@ The First Zaphonian Republic, independent since 1954, had been internally divide
 
 > _Main article: [[Pierej Crisis]]_
 
-The pro-Confian government of [[Ganzir Ništanaen]] in [[Pierej]] re-monopolized the country's logging industry under the state-owned [[NLC]], curtailed relations with Susia, and signed asymmetric trade agreements with Confia under the stated policy of "Realignment, At All Costs." Susia responded by sponsoring a military coup. General [[Sarže Saron]] overthrew Ništanaen's government and reoriented Pierej toward the ONDD bloc. Pierej formally joined the ONDD in 1970.
+The pro-Confian government of [[Ganzir Ništanaen]] in [[Pierej]] re-monopolized the country's logging industry under the state-owned [[National Logging Consortium|NLC]], curtailed relations with Susia, and signed asymmetric trade agreements with Confia under the stated policy of "Realignment, At All Costs." Susia responded by sponsoring a military coup. General [[Sarže Saron]] overthrew Ništanaen's government and reoriented Pierej toward the ONDD bloc. Pierej formally joined the ONDD in 1970.
 
 ### The Zaphonist Revolt and Purpić mission (1971)
 
@@ -148,7 +148,7 @@ By 1973 Susia was flanked by syndicalist-aligned states to the south and east, i
 
 Bonfim, a general and sponsor of the [[Federal Loyalty Act]], won the 1974 election with an explicitly anti-syndicalist platform. His vice-presidential selection, [[Filevir Matri]] was another staunch anti-syndicalist and ex-governor of [[Postia]]. The [[Susian Senate]] elections were a landslide for Bonfim's party, the [[Susian Democratic Union]]. Enabling him to enact special emergency powers and the [[MAGEN act]].
 
-In 1974, Susia started a immense military buildup, coordinating with others  [[ONDD]] allies, resumed support for anti-syndicalists in countries like Zaphonia, Ariwaro and Garecija, and most importantly planing what would've become [[Operation Red Sand]].
+In 1974, Susia started a immense military buildup, coordinating with others [[ONDD]] allies, resumed support for anti-syndicalists in countries like Zaphonia, Ariwaro and Garecija, and most importantly planing what would've become [[Operation Red Sand]].
 
 In 1975, [[Lorelaj Paulović]] caught notice of Susia's actions and sent a ultimatum: Cease all operations in Syndicalist nations, halt ONDD military buildup, or in 100 days, Confia would take military action. Summits were held in Kamino, between the two blocs, hopefully to find a compromise. While Paulović attended these summits, Bonfim refused to show up and negotiations soon collapsed. 
 
