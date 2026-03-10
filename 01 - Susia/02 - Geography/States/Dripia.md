@@ -77,8 +77,8 @@ Operated by [[Troli Ustaras]], located approximately one hour north of [[Neoveli
 - [[Neoveli]] (5.8M): Finance hub, cosmopolitan culture, home to [[Nassoj Holdings]], [[Red Iron]], and [[Yerčemark]]. Famous for its coffee culture, sailing tradition, and the Neoveli Stock Exchange.
 - [[New Kentu]] (580k): State capital and university town, home to [[Dripia State University]], [[Federal Institute of Technology]], [[University of New Kentu]], and [[Belluni College]].
 - [[Vassénia]] (340k): Forest products and paper manufacturing. Strong union tradition, known for the [[Parhaj National Forest]].
-- [[Arkaime]] (210k): Major port on the [[Sea of Galil]], connected to [[Duolij]] by the [[Arkaime Bridge]]. Part of the [[Neoveli Metropolitan Area]].
-- [[Poremoj]] (180k): Part of the [[Neoveli Metropolitan Area]].
+- [[Arkaime]] (210k): Major port on the [[Sea of Galil]], connected to [[Duolij]] by the [[Arkaime Bridge]]. Part of the [[Neoveli metropolitan area]].
+- [[Poremoj]] (180k): Part of the [[Neoveli metropolitan area]].
 - [[Forchev]] (95k): First imperial settlement site, protected historical city, home to the cathedral where Emperor Saint Mantichev was crowned.
 - [[Jaffnidia]] (32k): Border town on the [[Lasman River]], site of [[Kaichet Satratonie|Satratonie]]'s betrayal during the [[Liberal Revolts]].
 

@@ -14,7 +14,7 @@ religion: Armotism
 languages: Confian
 currency: H¢
 international_organizations: ONDD
-capital:
+capital: Imgospalje
 major_cities:
 continent: Dripstan
 borders_east:

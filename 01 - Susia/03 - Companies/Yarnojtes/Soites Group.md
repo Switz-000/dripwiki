@@ -48,7 +48,7 @@ During this period, Soites developed the data analytics capabilities that would 
 Launched shortly before the Great Transition, this program ostensibly paid participants to test products and build social media brands. In reality, it served as comprehensive psychological research at unprecedented scale, studying how different personality types and psychological profiles respond to consumption patterns. The program involved daily brain scans and detailed behavioral monitoring, generating the foundational data for Soites' predictive algorithms.
 
 #### The Soites-TU Partnership (2034-2048): 
-> *Main article: [[Cognitive Enhancement]]*
+> *Main article: [[Cognitive enhancement]]*
 
 Soites' behavioral data caught the attention of [[Troli Ustaras]] (TU), leading to a partnership that combined Soites' human behavioral research with TU's AI systems and hardware engineering. This collaboration produced early cognitive enhancement prototypes tested on willing [[Soites Experimenter Program|Experimenters]]. The partnership contributed to the [[Federal Cognitive Enhancement Program]] that ran from 2040-2048, which ended in disaster with multiple deaths and the [[Troli Ustaras Corruption Scandal (2047)|2047 TU corruption scandal]].
 
@@ -90,7 +90,7 @@ Unlike most Yarnojtes that cultivate elite exclusivity, Soites embraces mass acc
 - [[Yarnojtes]]
 - [[Free Economic Zone]]
 - [[Suizo Soites]] (founder, first president of Susia)
-- [[Cognitive Enhancement]]
+- [[Cognitive enhancement]]
 - [[Kolkov line]] 
 - [[Soites Experimenter Program]]
 - [[Nayotai]]
