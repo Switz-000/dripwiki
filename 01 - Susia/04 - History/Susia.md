@@ -39,8 +39,13 @@ borders_east:
 borders_south:
   - "[[Astofayan]]"
   - "[[Sutsa-Fuhu]]"
+  - "[[Zaphonia]]"
+borders_west:
+  - "[[Sea of Galil]]"
+borders_north:
+  - "[[Sea of Galil]]"
+  - "[[Dripland]]"
 ---
-	
 The **Techno-Federative Republic of Susia** is a federal presidential democracy located on the continent of [[Dripstan]], bordered by [[Confia]] and [[Zaphonia]] to the east, [[Dripland]] to the northeast, [[Astofayan]] to the south and southwest, and [[Sutsa-Fuhu]] to the south-southeast. With a population of approximately 240 million as of 2070 and a capital at [[Soiteslaj]], it is the continent's most populous and economically developed nation. Its official language is Susian, and its majority religion is [[Armotism]].
 
 Susia is a constitutional democracy with an unusual hybrid structure that combines elected democratic institutions with meritocratic technocratic bodies and a formally regulated system of corporate self-governance through [[Free Economic Zone|Free Economic Zones]] administered by corporations called [[Yarnojte|Yarnojtes]]. This system, established by the [[The Great Transition|Great Transition of 2038]], replaced a traditional federative republic that had governed the country since its founding in 1954 following the dissolution of the [[Dripstanian Empire]].
@@ -55,7 +60,7 @@ The country is defined externally by a cold war rivalry with [[Ashgerad]], a tec
 
 Susia's origins lie in the arrival of [[Armotism|Armotist]] religious refugees from the continent of [[Gaiyan]] in 1651, following the suppression of the [[Armotist Revolution]] in the [[Holy Kingdom of Duloc]]. The ocean crossing, made treacherous by the tidal forces of the planet's two natural satellites, killed an estimated 40% of the original colonists. The first permanent settlement was established at [[Forchev]] in 1654.
 
-The settlements gradually consolidated into the [[Dripstanian Empire]], formalized in 1674 when [[Emperor Saint Mantichev]] convened the Convention of Forchev and unified the western coastal kingdoms. Over the following three centuries, the empire expanded eastward across the continent through military conquest, frontier settlement by the [[Cericeiro|Cericeiros]], and the colonization of [[Confia]] and [[Kamino]]. It became the largest empire in Dripstanian history.
+The settlements gradually consolidated into the [[Dripstanian Empire]], formalized in 1674 when [[Emperor Saint Mantichev]] convened the Convention of Forchev and unified the western coastal kingdoms. Over the following three centuries, the empire expanded eastward across the continent, settling what is now [[Misocévia]], [[Sužielaj]], and [[Troli]] through frontier settlement by the [[Cericeiro|Cericeiros]], and militarily conquering what would become [[Confia]], [[Pierej]], [[Zaphonia]], [[Kamino]], among others others. It became the largest empire in world history.
 
 The empire's later centuries were marked by increasing constitutional conflict. [[Empress Veronique]]'s reforms in the eighteenth century created the Dripstanian Senate and a permanent professional army while also overseeing the ethnic cleansing of the [[Tekur|Konph people]] of Confia. [[Jartes II]]'s reign in the nineteenth century produced the [[Liberal Revolts]] of 1840-1844, a republican uprising that, despite its defeat, established the martyrs [[Armadesh Versij]] and [[Zagoste Paroska]] as foundational figures in Susian national memory and the execution of Versij as the defining symbol of the cost of disarmament and tyranny.
 
@@ -63,9 +68,9 @@ The empire began its terminal decline with the [[War of Confian Secession]] (192
 
 ### The Republic (1954-2038)
 
-The [[Techno-Federative Republic of Susia|Federative Republic of Susia]] was founded in 1954 under the leadership of [[Suizo Soites]], who had organized the constitutional convention and secured agreement among the former imperial provinces. Soites became the country's first president, serving two terms and establishing the republic's core institutions: the elected Senate, the constitutional protection of natural rights drawn from [[Armadesh Versij|Versij's]] philosophy, the interstate highway system, the national service requirement, and the [[ONDD]] military alliance.
+The [[Techno-Federative Republic of Susia|Federative Republic of Susia]] was founded in 1954 under the leadership of [[Suizo Soites]], who had organized the constitutional convention and secured agreement among the former imperial provinces. Soites became the country's first president, serving two terms and establishing the republic's core institutions: the elected Senate, the constitutional protection of natural rights drawn from [[Armadesh Versij|Versij's]] philosophy, the interstate highway system.
 
-The republic's early decades were dominated by the [[Continental Divide]] (1957-1977), a cold war between Susia's liberal capitalist bloc and [[Confia]]'s authoritarian syndicalist bloc under [[Lorelaj Paulovic]]. The divide produced proxy conflicts across the continent, the [[MAGEN Act]] of 1961 restricting domestic left-wing parties, and eventually the [[Continental War]] (1975-1977), a direct military confrontation that ended with the defeat of the syndicalist bloc and the post-war [[Flower Revolutions]] that brought democratic governments to Confia and several other states.
+The republic's early decades were dominated by the [[Continental Divide]] (1957-1977), a cold war between Susia's liberal capitalist bloc (OTSD) and [[Confia]]'s authoritarian syndicalist blocunder [[Lorelaj Paulovic]]. The divide produced proxy conflicts across the continent, the [[MAGEN Act]] of 1975, restricting civil liberties and banning domestic left-wing parties, and eventually the [[Continental War]] (1975-1977), a direct military confrontation that ended with the defeat of the syndicalist bloc and the post-war [[Flower Revolutions]] that brought democratic governments to Confia and several other states.
 
 The post-war boom produced rapid economic and technological growth, the rise of corporations that would later become [[Yarnojte|Yarnojtes]], and Susia's development of nuclear weapons, which arrived too late for the continental war but established the country as a nuclear power. The emergence of [[Ashgerad]] as an adversary after 2006 and the humiliating [[War of Arempur]] (2012), a proxy defeat overseas, intensified pressure for institutional reform.
 

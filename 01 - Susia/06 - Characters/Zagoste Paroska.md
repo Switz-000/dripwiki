@@ -10,7 +10,7 @@ birth_place:
 citizenship:
   - Dripstanian
   - Susian
-death_year: 1843
+death_year: 1844
 death_cause: Hanging
 known_for:
   - "[[Liberal Revolts]]"
