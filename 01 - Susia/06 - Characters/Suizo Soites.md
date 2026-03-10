@@ -45,7 +45,7 @@ enhanced: false
 offices:
   - title: 1st President of Susia
     start: 1954
-    end: 1970
+    end: 1962
     appointer: Popular Election
     party: Susian Liberal Party
     notes: First term

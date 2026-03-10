@@ -2,8 +2,6 @@
 
 A reference document for writing character files and articles in the Susia vault. Follow these rules consistently across all files.
 
----
-
 ## General Style
 
 - Write in a **Wikipedia-style prose**: neutral, factual, and restrained. Avoid editorializing.
@@ -12,18 +10,19 @@ A reference document for writing character files and articles in the Susia vault
 - Avoid flowery or dramatic language. Prefer plain, direct sentences.
 - The vault files take precedence for specific details like dates and names. The docs (the large legacy .txt files) are treated as older, potentially outdated reference material. When the two conflict, flag the discrepancy rather than silently picking one.
 
----
+## Article Titles
 
-## Terminology
+For simplicity sake, all examples listed will be real life examples.
 
-When working with the author, the following terms have specific meanings:
+Titles are written in sentence case. The initial letter of a title is always capitalized by default; otherwise, words are not capitalized unless they would be so in running text
 
-- **Docs**: the large legacy .txt files (e.g. Susian_History.txt, Susian_Economy.txt). These are being deprecated and may contain outdated information.
-- **Vault**: the individual wiki-style .md files that make up the current canonical source of truth.
+Article titles are generally singular in form, e.g. Horse, not Horses. Exceptions include nouns that are always in a plural form in English (e.g. scissors or trousers) and the names of classes of objects.
 
-When the docs and vault contradict each other, always flag it explicitly: "the docs say X but the vault says Y, which is current?" Do not silently resolve conflicts.
+Abbreviations and acronyms should be avoided unless the subject is known primarily by its abbreviation (e.g. NATO, Laser). Acronyms may be used for parenthetical disambiguation (e.g. Conservative Party (UK), Georgia (U.S. state)).
 
----
+Do not place definite or indefinite articles (the, a, and an) at the beginning of titles unless they are part of a proper name (e.g. The Old Man and the Sea)
+
+
 
 ## Stubs and Missing Content
 
@@ -31,17 +30,6 @@ When the docs and vault contradict each other, always flag it explicitly: "the d
 - When writing a file that references a stub, still link to it. Do not omit the link just because the target page has no content yet.
 - Index files that use Dataview queries (javascript blocks) are unreadable as reference material. If adding a summary or index file, include a plain-text summary at the top before any query blocks.
 - all market caps and undated economic data are as of 2080 unless a specific year is stated otherwise.
-
----
-
-## Frontmatter
-
-Follow the relevant template exactly for each file type. Fill in every field that has available information. Leave fields blank rather than guessing, except where a reasonable approximation can be calculated (e.g. birth year from death age).
-
-- `birth_place` should list the city, state, country, and empire/nation at the time of birth. Do **not** add modern successor states anachronistically. Someone born in the Dripstanian Empire does not get Susia listed, even if Susia now occupies that territory.
-- `citizenship` reflects political identity, not birthplace. A figure like Versij or Paroska gets both Dripstanian and Susian because they are foundational to Susia's national identity. Jartes II does not.
-- `known_for` entries should be linked where a corresponding page exists or will exist.
-- For state files, include a `political_lean` field in the frontmatter with party percentages. This should be consistent with the body text.
 
 ---
 
@@ -71,15 +59,6 @@ Follow the relevant template exactly for each file type. Fill in every field tha
 - The intro paragraph should identify what the subject is, its key facts, and its significance in one to three sentences. No dramatic framing.
 - Personal Life should be its own section in character files, not folded into the main narrative, unless the personal details are directly politically relevant.
 
----
-
-## Source of Truth Hierarchy
-
-1. Vault files (character pages, city pages, company pages, state pages)
-2. Docs (legacy .txt files, treat as potentially outdated)
-3. Reasonable inference from established facts (e.g. calculating birth year from death age and stated age)
-
-When the docs and vault conflict, flag the discrepancy rather than silently picking one. Do not invent details not supported by either source.
 
 ---
 
@@ -100,3 +79,23 @@ At the end of file creation, note:
 - Main article links pointing to pages that do not yet exist.
 - Any terminology inconsistencies spotted (e.g. the same group referred to by two different names across files).
 - Any information that could not be sourced and was left blank.
+
+## Standard section order by article type
+
+**Country:** intro → `## Geography` → `## History` → `## Government` → `## Economy` → `## Military` → `## Foreign Relations` → `## States` → `## Culture` → `## See Also`
+
+**State:** intro → `## Geography` → `## History` → `## Economy` → `## Major Cities` → `## Free Economic Zones` → `## Culture` → `## Politics` → `## See Also`
+
+**City:** intro → `## Geography` → `## History` → `## Economy` → `## Culture` → `## Politics` → `## See Also`
+
+**Company:** intro → `## History` → `## Operations` → `## Free Economic Zones` → `## Corporate Culture` → `## Notable Controversies` → `## See Also`
+
+**Person:** intro → `## Early Life` → `## [Primary activity — varies by role]` → `## Legacy` → `## See Also`
+
+**Institution:** intro → `## History` → `## Structure` → `## Powers and Limitations` → `## Culture` → `## Controversies` → `## See Also`
+
+**Law:** intro → `## Background` → `## Provisions` → `## Effects` → `## Controversy` → `## See Also`
+
+**Event:** intro → `## Background` → `## [Event body — varies]` → `## Aftermath` → `## See Also`
+
+**Concept:** intro → `## Origins` → `## [Domain-specific sections]` → `## Contemporary Relevance` → `## See Also

@@ -36,7 +36,7 @@ Jartes II was born into the imperial family during his grandmother [[Empress Pra
 
 > *Main article: [[Liberal Revolts]]*
 
-In an attempt to stabilize growing unrest, Jartes II banned [[Sorzenkos]] and restricted civilian gun ownership, and began persecuting liberal writers and thinkers. [[Armadesh Versij]] fled to [[Gaiyan]] to continue writing. Secret societies formed in universities and liberal militias organized underground.
+In an attempt to stabilize growing unrest, Jartes II banned [[Sorzenko|Sorzenkos]] and restricted civilian gun ownership, and began persecuting liberal writers and thinkers. [[Armadesh Versij]] fled to [[Gaiyan]] to continue writing. Secret societies formed in universities and liberal militias organized underground.
 
 In 1840, a general assembly in [[Neoveli]] proclaimed the [[Federated Provinces of Galil]], with [[Duolij]], [[New Kentu]], and [[Niqueparje]] joining the revolt. The republic's general government was composed of Versij, [[Zagoste Paroska|Admiral Paroska]], and General [[Kaichet Satratonie]].
 
@@ -62,6 +62,6 @@ Jartes II died in 1882 and was succeeded by Emperor [[Soliman]]. His reign ended
 
 > *Main article: [[War of Confian Secession]]*
 
-In Susian memory, Jartes II is the paradigmatic tyrant. His disarmament campaign is cited as the reason the [[Liberal Revolts]] failed and is the direct historical justification for the [[Right to rebel|constitutional right to rebel]] enshrined in the [[Susian Federal Goverment|Susian constitution]]. The saying "Pulling a [[Kaichet Satratonie|Satratonie]]" — meaning betraying your principles for personal gain — originated from his successful bribery of [[Kaichet Satratonie|Satratonie]].
+In Susian memory, Jartes II is the paradigmatic tyrant. His disarmament campaign is cited as the reason the [[Liberal Revolts]] failed and is the direct historical justification for the [[Right to rebel|constitutional right to rebel]] enshrined in the [[Susian constitution]]. The saying "Pulling a [[Kaichet Satratonie|Satratonie]]" — meaning betraying your principles for personal gain — originated from his successful bribery of [[Kaichet Satratonie|Satratonie]].
 
 [[Armadesh Versij|Versij]] and [[Zagoste Paroska|Paroska]] are remembered as martyrs. Jartes II is remembered as the man who killed them.
