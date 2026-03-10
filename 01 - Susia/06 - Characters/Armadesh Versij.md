@@ -8,11 +8,13 @@ birth_year: 1801
 birth_place:
   - "[[Kruie ro Yietre]]"
   - "[[Vitrika]]"
-  - "[[Susia]]"
   - "[[Dripstanian Empire]]"
 citizenship:
-  - Dripstanian
   - Susian
+  - Dripstanian
+nationality:
+  - Susian
+  - Dripstanian
 death_year: 1844
 death_cause: Hanging
 known_for:

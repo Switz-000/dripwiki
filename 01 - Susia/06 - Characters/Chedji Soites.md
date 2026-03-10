@@ -13,6 +13,9 @@ birth_place:
 citizenship:
   - Susian
   - Dripstanian
+nationality:
+  - Susian
+  - Dripstanian
 death_year:
 death_cause:
 known_for:

@@ -7,6 +7,8 @@ birth_place:
   - "[[Dripstanian Empire]]"
 citizenship:
   - Dripstanian
+nationality:
+  - Susian
 death_year: 1787
 death_cause: Gastric ulcer
 known_for:

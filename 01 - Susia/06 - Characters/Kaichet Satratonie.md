@@ -5,11 +5,12 @@ birth_year: 1809
 birth_place:
   - "[[Lore-Kurji]]"
   - "[[Misocévia]]"
-  - "[[Susia]]"
   - "[[Dripstanian Empire]]"
 citizenship:
   - Dripstanian
+nationality:
   - Susian
+  - Dripstanian
 death_year: 1872
 death_cause: Unknown
 known_for:

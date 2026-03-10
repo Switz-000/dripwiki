@@ -8,6 +8,9 @@ birth_place:
   - "[[Susia]]"
 citizenship:
   - Susian
+nationality:
+  - Susian
+  - Confian
 death_year: 2011
 death_cause: Lung cancer
 known_for:
