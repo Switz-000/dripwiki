@@ -8,6 +8,8 @@ birth_place:
   - "[[Dripstanian Empire]]"
 citizenship:
   - Dripstanian
+nationality:
+  - Dripstanian
 death_year: 1882
 death_cause: Unknown
 known_for:

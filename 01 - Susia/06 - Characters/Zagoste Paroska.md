@@ -9,7 +9,9 @@ birth_place:
   - "[[Dripstanian Empire|Dripstanian]]"
 citizenship:
   - Dripstanian
+nationality:
   - Susian
+  - Dripstanian
 death_year: 1844
 death_cause: Hanging
 known_for:

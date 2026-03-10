@@ -79,3 +79,22 @@ tags:
   - race
   - history
 ```
+
+## Person Template
+
+Birthplace: City, Subdivision and Country a person was born during this historic period
+
+Citzenship: Referes to legal status in a state
+
+Nationality: Refers to belonging to a nation
+
+Ethnicity: Ancestral Identity and ethnic origin
+
+Quick comparison. Is X person Susian?
+
+| Person          | Birthplace                   | Citzenship                      | Nationality                                                                    | Ethnicity                |
+| --------------- | ---------------------------- | ------------------------------- | ------------------------------------------------------------------------------ | ------------------------ |
+| Suizo Soites    | Dripstan. Susia didn't exist | Susian and Dripstanian.         | Susian and Dripstanian.                                                        | West Gaiyanese.          |
+| Jartes II       | Dripstan. Same as above.     | Dripstanian. Susia didn't exist | Dripstanian. Not associated with Susia                                         | West Gaiyanese.          |
+| Armadesh Versij | Dripstan. Same as above      | Driptanian. Same as above       | Susian and Dripstanian. Often associated with, even though Susia didn't exist. | West Gaiyamese.          |
+| Yário Kolkov    | Susia.                       | Susian.                         | Susian but also Confian due to his heritage.                                   | East Gaiyanese / Confian |

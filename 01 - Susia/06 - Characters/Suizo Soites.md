@@ -6,7 +6,12 @@ birth_year: 1921
 birth_city: Sužielaj City
 birth_state: Sužielaj
 birth_country: Dripstanian Empire
-citizenship: Susian
+citizenship:
+  - Susian
+  - Dripstanian
+citizenship:
+  - Susian
+  - Dripstanian
 death_year: 1995
 death_city: Orlítia
 death_state: Orlítia
