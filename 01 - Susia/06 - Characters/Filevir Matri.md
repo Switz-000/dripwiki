@@ -243,7 +243,7 @@ html += `</table></div>`;
 
 dv.el("div", html, { cls: "ib-container" });
 ```
-**Filevir Matri** (1924–2014) was a Susian lawyer, statesman, and politician who served as the fifth President of Susia from 1982 to 1986. He came to the presidency after a long career in Postian and federal politics: governor of [[Postia]] during the republic's founding decade, senator, [[Secretary of Justice]] under [[Sergio Fimoises]], and Vice President under [[Cássio Bonfim]]. He is generally remembered as a competent but unremarkable president, sandwiched between a war hero and an idealist, whose achievements were either attributed to his predecessor or claimed by administrations that came after him.
+**Filevir Matri** (1924–2002) was a Susian lawyer, statesman, and politician who served as the fifth President of Susia from 1982 to 1986. He came to the presidency after a long career in Postian and federal politics: governor of [[Postia]] during the republic's founding decade, senator, [[Secretary of Justice]] under [[Sergio Fimoises]], and Vice President under [[Cássio Bonfim]]. He is generally remembered as a competent but unremarkable president, sandwiched between a war hero and an idealist, whose achievements were either attributed to his predecessor or claimed by administrations that came after him.
 
 ## Early Life and Education
 
@@ -329,7 +329,7 @@ Matri is generally remembered as a competent but unremarkable president. His ach
 
 The more considered assessment is that he governed adequately through a period that required management rather than vision, that his early Confian diplomacy was substantive if unglamorous, and that his anti-syndicalist record in Postia, whatever its methods, was effective at a moment when the republic's stability was not assured.
 
-He died in Duolij in 2014 at ninety. His obituaries mentioned the wine.
+Filevir Matri died in Duolij in 2002 at seventy-eight years old.
 
 ## See Also
 - [[Cássio Bonfim]]
