@@ -54,12 +54,17 @@ children: None (adopted associate as brother)
 criminal_charges:
 enhanced: false
 offices:
-  - title: 1st President of Susia
+  - title: CEO
+    employer: "[[Soites Group]]"
+    start: 1969
+    end: 1981
+    appointer: "[[Suizo Soites]]"
+    notes: Founder of the Soites Group
+  - title: President of Susia
     start: 1954
     end: 1962
     appointer: Popular Election
     party: Susian Liberal Party
-    notes: First term
   - title: Delegate, Constitutional Convention
     start: 1953
     end: 1954
