@@ -38,7 +38,7 @@ Susian exceptionalism draws on several distinct intellectual traditions that are
 
 ## Tensions and criticisms
 
-Several features of Susian history sit in tension with the exceptionalist narrative. The [[Tekur]] people were formally excluded from citizenship at the republic's founding in 1954 and granted full rights only in 1997 under the [[Reconciliation Act]]. Their presence in Susia predates the Armotist settlement, and the centuries of imperial persecution they experienced are not prominently featured in the founding myth's standard telling. The [[MAGEN Act]] of 1975, which restricted domestic left-wing parties during the [[Continental Divide]], is difficult to reconcile with the narrative of Susia as the defender of universal political rights. The [[Frumentarze]]'s documented overreach, including the 2071 domestic wiretapping scandal, creates similar friction.
+Several features of Susian history sit in tension with the exceptionalist narrative. The [[Tekur]] people were formally excluded from citizenship at the republic's founding in 1954 and granted full rights only in 1997 under the [[Reconciliation Act]]. Their presence in Susia predates the Armotist settlement, and the centuries of imperial persecution they experienced are not prominently featured in the founding myth's standard telling. The [[MAGEN act]] of 1975, which restricted domestic left-wing parties during the [[Continental Divide]], is difficult to reconcile with the narrative of Susia as the defender of universal political rights. The [[Frumentarze]]'s documented overreach, including the 2071 domestic wiretapping scandal, creates similar friction.
 
 The Ashgerad cold war intensifies these tensions. Susian exceptionalism's deepest contemporary claim is that the Susian model, individual rights, democratic governance, market evolution, represents the correct answer to questions that Ashgerad answers differently and incompatibly. To lose this competition would not merely be a military or geopolitical defeat; it would, in the logic of Susian exceptionalism, constitute evidence that the entire national narrative was wrong. This is the framing the source doc describes plainly: losing means your civilization was a mistake.
 
@@ -59,5 +59,5 @@ Critics within Susia argue that this civilizational framing makes the republic b
 - [[The Great Transition]]
 - [[Fortress Complex]]
 - [[Democratic evangelism]]
-- [[MAGEN Act]]
+- [[MAGEN act]]
 - [[Frumentarze]]

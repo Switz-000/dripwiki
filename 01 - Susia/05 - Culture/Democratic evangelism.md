@@ -68,4 +68,4 @@ Democratic evangelism and the [[Fortress Complex]] are not identical and are not
 - [[Ashgerad]]
 - [[War of Arempur]]
 - [[Frumentarze]]
-- [[MAGEN Act]]
+- [[MAGEN act]]

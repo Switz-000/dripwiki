@@ -29,7 +29,7 @@ The response to this first siege established the structural template that subseq
 
 > *Main article: [[Continental Divide]]*
 
-The [[Continental Divide]] framed the early republic as a liberal-democratic enclave under ideological pressure from [[Confia]]'s authoritarian syndicalist government under [[Lorelaj Paulović]]. The threat was understood not merely as military but as civilizational: a competing model of social organization backed by proxy conflicts across the continent, active infiltration of Susian institutions, and eventually direct military confrontation in the [[Continental War]] (1975–1977). The [[MAGEN Act]] of 1975, which restricted domestic left-wing parties, applied the fortress logic inward, treating ideological contamination as a form of internal siege.
+The [[Continental Divide]] framed the early republic as a liberal-democratic enclave under ideological pressure from [[Confia]]'s authoritarian syndicalist government under [[Lorelaj Paulović]]. The threat was understood not merely as military but as civilizational: a competing model of social organization backed by proxy conflicts across the continent, active infiltration of Susian institutions, and eventually direct military confrontation in the [[Continental War]] (1975–1977). The [[MAGEN act]] of 1975, which restricted domestic left-wing parties, applied the fortress logic inward, treating ideological contamination as a form of internal siege.
 
 The Continental War's successful outcome did not dissolve the Fortress Complex. It confirmed it: the threat had been real, the vigilance had been necessary, and the institutions built to address it were vindicated.
 
@@ -49,7 +49,7 @@ The [[ONDD]] alliance's evolution from anti-Confian instrument to anti-Ashgeradn
 
 ## Criticisms
 
-Critics argue that the Fortress Complex functions as a self-perpetuating justification for institutional overreach, producing the illiberalism it claims to defend against. The 2071 domestic wiretapping scandal, in which the [[Frumentarze]] monitored over 1.2 million Susians without warrants, is the most frequently cited contemporary example. The [[MAGEN Act]]'s restriction of domestic political parties during the Continental Divide is another. A republic that surveils its own citizens and restricts domestic opposition cannot easily claim its methods are categorically different from its adversaries.
+Critics argue that the Fortress Complex functions as a self-perpetuating justification for institutional overreach, producing the illiberalism it claims to defend against. The 2071 domestic wiretapping scandal, in which the [[Frumentarze]] monitored over 1.2 million Susians without warrants, is the most frequently cited contemporary example. The [[MAGEN act]]'s restriction of domestic political parties during the Continental Divide is another. A republic that surveils its own citizens and restricts domestic opposition cannot easily claim its methods are categorically different from its adversaries.
 
 Defenders respond that the historical record justifies the orientation. All three sieges involved genuine threats, not projections of an anxious national psychology, and each produced institutions that proved their necessity.
 
@@ -66,7 +66,7 @@ The Fortress Complex sits in tension with two related orientations in Susian nat
 - [[Cericeiro]]
 - [[Continental Divide]]
 - [[Continental War]]
-- [[MAGEN Act]]
+- [[MAGEN act]]
 - [[Ashgerad]]
 - [[War of Arempur]]
 - [[ONDD]]
