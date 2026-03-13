@@ -41,7 +41,7 @@ cause:
   - "[[Zaphonian Civil War]]"
   - "[[Sienes Doctrine]]"
 related_legislation:
-  - "[[MAGEN Act]]"
+  - "[[MAGEN act]]"
   - "[[Federal Loyalty Act]]"
 treaties_signed:
   - "[[Treaty of Karlotopol']]"
@@ -94,9 +94,9 @@ The **[[Federal Loyalty Act]] of 1961** was a broad internal security measure ta
 
 Confia simultaneously attempted to extend the proxy competition into Susia's domestic politics, funding left-wing parties and cultivating contacts within Susian institutions. A 1961 scandal involving social-democratic officials and Confian operatives provided the immediate political justification for the [[Federal Loyalty Act]]'s internal security apparatus.
 
-The **[[MAGEN Act]]**, passed in 1975, granted emergency executive powers to the president. Its principal provisions banned left-wing political parties from operating within Susia, banned the right to strike in many industries and restricted union activities in many areas of the Economy. The act is understood within Susian legal culture as a desperate survival measure when syndicalist paranoia reached its peak in the late 1970s. The act was phased out in stages following the end of the [[Continental War]], though several of its enabling provisions were not fully unwound until the 2000s.
+The **[[MAGEN act]]**, passed in 1975, granted emergency executive powers to the president. Its principal provisions banned left-wing political parties from operating within Susia, banned the right to strike in many industries and restricted union activities in many areas of the Economy. The act is understood within Susian legal culture as a desperate survival measure when syndicalist paranoia reached its peak in the late 1970s. The act was phased out in stages following the end of the [[Continental War]], though several of its enabling provisions were not fully unwound until the 2000s.
 
-> *Main articles: [[Federal Loyalty Act]], [[MAGEN Act]]*
+> *Main articles: [[Federal Loyalty Act]], [[MAGEN act]]*
 
 ## Proxy conflicts and covert operations
 
@@ -185,7 +185,7 @@ The domestic legislation of the divide had an uneven legacy. The MAGEN Act was p
 - [[Lorelaj Paulović]]
 - [[ONDD]]
 - [[Pact of Imgospalje]]
-- [[MAGEN Act]]
+- [[MAGEN act]]
 - [[Federal Loyalty Act]]
 - [[Frumentarze]]
 - [[Suizo Soites]]

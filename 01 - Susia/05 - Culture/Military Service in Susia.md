@@ -83,7 +83,7 @@ Enhancement in the context of mandatory service is more limited. Conscripts serv
 - [[Liberal Revolts]]
 - [[Hăjaven]]
 - [[Frumentarze]]
-- [[MAGEN Act]]
+- [[MAGEN act]]
 - [[Cognitive Rights Act of 2061]]
 - [[Armadesh Versij]]
 - [[Continental Divide]]
