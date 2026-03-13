@@ -198,7 +198,7 @@ Political debates about enhancement often reflect deeper philosophical disagreem
 
 [[Troli Ustaras]] develops and manufactures the neural interface hardware used in enhancement procedures. The company maintains a strong organizational culture supportive of enhancement, with 98% of TU employees undergoing enhancement procedures. TU advocates for expanded access to enhancement technology and characterizes cognitive enhancement as a natural extension of human-technology integration.
 
-TU's involvement in cognitive enhancement has been controversial due to the safety failures during the federal program era (2040-2048) and the 2047 corruption scandal that temporarily resulted in loss of Yarnojte status. Following restructuring in 2050-2051 and regaining of Yarnojte status, the company has maintained improved safety standards and transparency.
+TU's involvement in cognitive enhancement has been controversial due to the safety failures during the federal program era (2040-2048) and the 2047 corruption scandal that temporarily resulted in loss of Yarnojte status. Following restructuring in 2050 and regaining of Yarnojte status in 2051, the company has maintained improved safety standards and transparency.
 ### Lischev-Verene
 
 [[Lischev-Verene]] develops biological compatibility pharmaceuticals and performs enhancement procedures in clinical settings. The company was formed in 2065 through a merger of[[ Lischev Pharmaceuticals]] and [[Verene Biosciences]] and received [[Yarnojte]] status in 2073.

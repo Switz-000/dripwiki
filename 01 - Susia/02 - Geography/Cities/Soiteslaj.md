@@ -8,4 +8,6 @@ population_1970:
 landlocked: true
 ---
 
+Soiteslaj is the capital of Susia and is inside the Neutral District.
+
 

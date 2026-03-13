@@ -51,7 +51,7 @@ related_events:
   - "[[Operation Red Sand]]"
   - "[[Krasnowaladik Revolution]]"
   - "[[Second War of the Forest]]"
-  - "[[Petroleum Workers’ Petition]]"
+  - "[[Zaphonian Oil Workers' Petition]]"
   - "[[Bridge War]]"
   - "[[Pierej Crisis]]"
   - "[[Zaphonian Civil War]]"

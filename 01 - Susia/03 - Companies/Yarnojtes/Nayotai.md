@@ -143,17 +143,6 @@ Nayotai sponsors the [[Nayotai Motors (Crolball team)|Nayotai Motors]] [[Crolbal
 - [[Van Ritter]]
 - [[Atompron]]
 - [[Cognitive Rights Act of 2061]]
-
----
 %%
 FLAGS:
-- Market cap: source doc states D$1.6 trillion; vault frontmatter states D$2.2 trillion. Resolved in session: D$2.2 trillion is canon.
-- Sector tag in existing frontmatter read "Consumer Discretionary." Corrected to "Industrials" in this article per author confirmation.
-- Marta Sorenski: named in source doc as CEO from 2056. Author directed that the transition be described impersonally; name not used in article body.
-- Kolkov Line: confirmed in session as Nayotai primary contractor. No dedicated vault article confirmed to exist yet; link flagged as stub candidate.
-- Arkaime Bridge: confirmed in vault (Arkaime city article). No dedicated vault article for the bridge confirmed; link flagged as stub candidate.
-- Troli Ustaras Corruption Scandal (2047): referenced throughout vault. No dedicated article confirmed; link flagged as stub candidate.
 - Incria operations: scope and nation list left deliberately vague per author direction. Stub candidate when Incria is developed further.
-- Nayotai Motors crolball team: sourced from Susian Society doc. No dedicated article exists; link not created as crolball teams do not currently warrant individual pages.
-- "Lasman Initiative" vs "Lasman Economic Initiative": source doc and vault use both. Vault article on Susia uses full name; this article follows vault canon: Lasman Economic Initiative.
-%%

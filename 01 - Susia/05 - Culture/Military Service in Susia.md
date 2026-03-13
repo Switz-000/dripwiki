@@ -13,7 +13,7 @@ era:
   - republican-era
   - techno-federative-era
 ---
-Military service in [[Susia]] takes two forms: mandatory national service, which applies to all citizens, and voluntary career service within the professional armed forces and the corporate defense sector. The mandatory service requirement has roots in the early [[Dripstanian Empire|imperial]] era and was formally reinstated at the founding of the republic in 1959. It is understood in Susian civic culture as both a practical security measure and an expression of the Versijian principle that rights must be backed by the capacity to defend them.
+Military service in [[Susia]] takes two forms: mandatory national service, which applies to all citizens, and voluntary career service within the professional armed forces and the corporate defense sector. The mandatory service requirement has roots in the early [[Dripstanian Empire|imperial]] era and was formally reinstated after the founding of the republic in 1959. It is understood in Susian civic culture as both a practical security measure and an expression of the Versijian principle that rights must be backed by the capacity to defend them.
 
 ## History
 ### Imperial Origins
