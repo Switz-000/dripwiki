@@ -17,7 +17,7 @@ death_state: "[[Dripia]]"
 death_country: "[[Dripstanian Empire]]"
 death_cause: Hanging
 ethnicity: West gaiyanese
-religion: Reformed armotism
+religion: Reformed Armotism
 education:
   - degree: Law
     institution: "[[University of New Kentu]]"
@@ -33,14 +33,14 @@ organization:
 employer:
   -
 known_for:
-  - [[Liberal Revolts]]
-  - [[Architecture of Freedom]]
+  - "[[Liberal Revolts]]"
+  - "[[Architecture of Freedom]]"
 historical_period:
   - late-imperial
   - high-imperial
   - imperial-era
   - liberal-revolts
-	spouse:
+spouse:
 children:
 criminal_charges: Treason
 enhanced: false

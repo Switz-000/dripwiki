@@ -1,35 +1,62 @@
 ---
 type: person
-person_name: "[[Empress Veronique]]"
+full_name: Vernoique Yatovar
+aliases:
 birth_year: 1720
-birth_place:
-  - "[[Duolij]]"
-  - "[[Dripstanian Empire]]"
-citizenship:
-  - Dripstanian
-nationality:
-  - Susian
-death_year: 1787
-death_cause: Gastric ulcer
-known_for:
-  - Creation of the Dripstanian Senate
-  - Crushing the Babalist Revolt
-  - Colonization of [[Confia]]
-  - Creation of the Dripstanian Army
+birth_city: "[[Duolij]]"
+birth_state: "[[Postia]]"
+birth_country: "[[Dripstanian Empire]]"
+citizenship: "[[Dripstanian Empire|Dripstanian]]"
+nationality: "[[Dripstanian Empire|Dripstanian]]"
+death_year:
+death_city:
+death_state:
+death_country:
+death_cause:
+ethnicity:
+religion:
+education:
+  - degree:
+    institution:
+    year:
 occupation:
-  - Empress
+  -
+party:
+political_alignment:
 organization:
-  - "[[Dripstanian Empire]]"
-allegiance:
-  - "[[Dripstanian Empire]]"
-spouse: Faranes the Feared
+  -
+employer:
+  -
+known_for:
+  -
+historical_period:
+  -
+spouse:
 children:
-  - "[[Empress Yaneoli|Yaneoli]]"
-  - Colin
-  - Natesse
-  - Capraze
-  - Valista
+criminal_charges:
+enhanced: false
+offices:
+  - title:
+    employer:
+    start:
+    end:
+    appointer:
+    party:
+    notes:
+awards:
+  - title:
+    awarded:
+    posthumous:
+    granted_by:
+    country:
+    notes:
 ---
+
+
+
+
+
+
 
 Veronique was the third Empress of the [[Dripstanian Empire]], reigning from 1740 to 1787. Daughter of [[Agamilos of Frajes]], she ascended to the throne under contested circumstances and became one of the most consequential rulers in imperial history — centralizing power, creating permanent imperial institutions, colonizing [[Confia]], and crushing internal opposition with ruthless efficiency. She is remembered as a paradox: a ruler who expanded rights for women and reformed governance while simultaneously unleashing ethnic cleansing on the [[Tekur|Konph]] people.
 
