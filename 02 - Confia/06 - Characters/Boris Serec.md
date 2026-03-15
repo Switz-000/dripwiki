@@ -65,8 +65,8 @@ offices:
     notes:
   - title: Commissar of Education
     employer: "[[Confian National Government]]"
-    start: 1930
-    end: 1932
+    start: 1978
+    end: 1982
     appointer: "[[Senjap Kunsekowić]]"
     party: "[Confian Liberal Party|KNP]"
     notes:
