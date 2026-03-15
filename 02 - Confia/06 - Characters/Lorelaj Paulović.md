@@ -13,11 +13,11 @@ citizenship:
 nationality:
   - "[[Dripstanian Empire|Dripstanian]]"
   - "[[Confia|Confian]]"
-death_year: Disappeared 1977
-death_city: Whereabouts unknown
-death_state: Whereabouts unknown
-death_country: Whereabouts unknown
-death_cause: Status unknown
+death_year: "1977"
+death_city: Unknown
+death_state: Unknown
+death_country: Unknown
+death_cause: Disappeared
 ethnicity: "[[East Gaiyanese]]"
 religion: "[[Armotist Church of the Confian Synod]]"
 education:
