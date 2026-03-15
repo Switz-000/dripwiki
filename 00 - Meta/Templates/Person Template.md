@@ -2,6 +2,7 @@
 type: person
 full_name:
 aliases:
+summary:
 birth_year:
 birth_city:
 birth_state:
@@ -20,17 +21,17 @@ education:
     institution:
     year:
 occupation:
-  -
+  - 
 party:
 political_alignment:
 organization:
-  -
+  - 
 employer:
-  -
+  - 
 known_for:
-  -
+  - 
 historical_period:
-  -
+  - 
 spouse:
 children:
 criminal_charges:

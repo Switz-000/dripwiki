@@ -8,19 +8,20 @@ birth_state: "[[Postia]]"
 birth_country: "[[Dripstanian Empire]]"
 citizenship: "[[Dripstanian Empire|Dripstanian]]"
 nationality: "[[Dripstanian Empire|Dripstanian]]"
-death_year: 1
-death_city:
-death_state:
-death_country:
-death_cause:
-ethnicity:
-religion:
+death_year: 1787
+death_city: "[[Duolij]]"
+death_state: "[[Postia]]"
+death_country: "[[Dripstanian Empire]]"
+death_cause: Gastric ulcer
+ethnicity: West gaiyanese
+religion: Armotism
 education:
   - degree:
     institution:
     year:
 occupation:
-  - 
+  - Emperor
+  - Military Officer
 party:
 political_alignment:
 organization:
@@ -28,11 +29,19 @@ organization:
 employer:
   - 
 known_for:
-  - 
+  - Creation of the Dripstanian Senate
+  - Crushing the Babalist Revolt
+  - Colonization of Confia
+  - Creation of the Dripstanian Army
 historical_period:
   - 
-spouse:
+spouse: "[[Faranes the Feared]]"
 children:
+  - "[[Empress Yaneoli|Yaneoli]]"
+  - "[[King Colin|Colin]]"
+  - Natesse
+  - Capraze
+  - "[[Countess Valista|Valista]]"
 criminal_charges:
 enhanced: false
 offices:
