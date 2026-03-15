@@ -21,7 +21,7 @@ death_state:
 death_country: [[Susia]]
 death_cause: Natural causes
 ethnicity: West gaiyanese
-religion: Reformed Armotism
+religion: "[[Reformed Armotism]]"
 education:
   - degree: Finance
     institution: "[[Belluni College]]"

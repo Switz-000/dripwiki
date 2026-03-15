@@ -1,5 +1,5 @@
 ---
-official_name: Kingdom of Kapiog
+official_name: Kingdom of Kapiogg
 type: country
 goverment_type:
   - Parliamentary
