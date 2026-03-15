@@ -4,6 +4,7 @@ company_name:
 susian_company_name:
 company_type:
 founded:
+founded_by:
 founding_place:
 headquarters:
 market_cap:
