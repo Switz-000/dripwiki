@@ -2,56 +2,59 @@
 type: person
 full_name: Vernoique Yatovar
 aliases:
+summary:
+known_for:
+  - Creation of the Dripstanian Senate
+  - Crushing the Babalist Revolt
+  - Colonization of Confia
+  - Creation of the Dripstanian Army
+
 birth_year: 1720
 birth_city: "[[Duolij]]"
 birth_state: "[[Postia]]"
 birth_country: "[[Dripstanian Empire]]"
 citizenship: "[[Dripstanian Empire|Dripstanian]]"
 nationality: "[[Dripstanian Empire|Dripstanian]]"
+
 death_year: 1787
 death_city: "[[Duolij]]"
 death_state: "[[Postia]]"
 death_country: "[[Dripstanian Empire]]"
 death_cause: Gastric ulcer
-ethnicity: West gaiyanese
-religion: Armotism
-education:
-  - degree:
-    institution:
-    year:
-occupation:
-  - Emperor
-  - Military Officer
-party:
-political_alignment:
-organization:
-  - 
-employer:
-  - 
-known_for:
-  - Creation of the Dripstanian Senate
-  - Crushing the Babalist Revolt
-  - Colonization of Confia
-  - Creation of the Dripstanian Army
-historical_period:
-  - 
+
+familiy: 
+parents:
+  - "[[Emperor Agamilos|Agamilos]]"
 spouse: "[[Faranes the Feared]]"
 children:
   - "[[Empress Yaneoli|Yaneoli]]"
   - "[[King Colin|Colin]]"
-  - Natesse
-  - Capraze
+  - "[[Princess Natesse|Natesse]]"
+  - "[[Prince Capraže|Capraže]]"
   - "[[Countess Valista|Valista]]"
+
+ethnicity: West gaiyanese
+religion: Armotism
+
+occupation:
+  - Emperor
+  - Military Officer
+employer:
+  - 
+party:
+political_alignment:
+organization:
+  - 
+historical_period:
+  - 
+
 criminal_charges:
 enhanced: false
-offices:
-  - title:
-    employer:
-    start:
-    end:
-    appointer:
-    party:
-    notes:
+
+education:
+  - degree:
+    institution:
+    year:
 awards:
   - title:
     awarded:

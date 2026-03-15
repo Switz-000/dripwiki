@@ -26,7 +26,6 @@ party:
 political_alignment:
 organization:
   - 
-employer:
   - 
 known_for:
   - 

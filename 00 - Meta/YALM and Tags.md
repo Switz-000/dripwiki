@@ -83,13 +83,12 @@ tags:
 
 ## Person Template
 
+```
 Birthplace: City, Subdivision and Country a person was born during this historic period
-
 Citzenship: Referes to legal status in a state
-
 Nationality: Refers to belonging to a nation
-
 Ethnicity: Ancestral Identity and ethnic origin
+```
 
 Quick comparison. Is X person Susian?
 
