@@ -15,6 +15,11 @@ location:
   - "[[Postia]]"
   - "[[Susia]]"
 published_by: "[[University of New Kentu]]"
+tags:
+  - corporate
+  - labor
+  - politics
+  - culture
 ---
 TRANSCRIPT BEGINS
 

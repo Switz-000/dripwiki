@@ -4,7 +4,7 @@ aliases:
 ---
 **Cognitive enhancement** refers to a set of medical technologies and procedures developed in [[Susia]] that modify neural pathways to improve cognitive function, including memory, focus, learning capacity, and specific skill acquisition. First developed in the 2030s through a partnership between the [[Soites Group]] and [[Troli Ustaras]] (TU), cognitive enhancement became commercially available in the 2060s and has since become one of the most significant technological and social developments in Susian society.
 
-As of the 2080s, approximately 17% of the Susian population has undergone cognitive enhancement procedures, though adoption rates vary significantly across [[Free Economic Zone|Free Economic Zones]](FEZs), ranging from 98% in the [[Susian Innovation Center]] to 16% in independent Susia.
+As of the 2080s, approximately 17% of the Susian population has undergone cognitive enhancement procedures, though adoption rates vary significantly across [[Free Economic Zone|Free Economic Zones]](FEZs), ranging from 98% in the [[-Repo/01 - Susia/02 - Geography/FEZs/Susian Innovation Center]] to 16% in independent Susia.
 
 ## Development History
 
