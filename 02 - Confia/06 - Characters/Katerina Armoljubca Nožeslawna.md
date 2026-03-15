@@ -4,7 +4,7 @@ full_name: Katerina Armoljubca Graljeewina Nožeslawna
 aliases:
   - KAN
 birth_year: 1946
-birth_city: "[[Carlotopolis]]"
+birth_city: "[[St. Meshon]]"
 birth_state: "[[Karlotopol']]"
 birth_country: "[[Dripstanian Empire]]"
 citizenship:
@@ -35,7 +35,7 @@ known_for:
   - 
 historical_period:
   - 
-spouse: "Matetije Teššan"
+spouse: Matetije Teššan
 children:
 criminal_charges:
 enhanced: false
@@ -51,7 +51,7 @@ offices:
     employer: "[[Confian National Government]]"
     start: 1987
     end: 1990
-    appointer: ""[[1986 Confian general election]]"
+    appointer: "[[1986 Confian general election]]"
     party: "[[Syndicalist League]]"
     notes:
   - title: Member of the National Assembly of Confian Syndicates
