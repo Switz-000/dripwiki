@@ -8,7 +8,7 @@ birth_state: "[[Postia]]"
 birth_country: "[[Dripstanian Empire]]"
 citizenship: "[[Dripstanian Empire|Dripstanian]]"
 nationality: "[[Dripstanian Empire|Dripstanian]]"
-death_year:
+death_year: 1
 death_city:
 death_state:
 death_country:
@@ -20,17 +20,17 @@ education:
     institution:
     year:
 occupation:
-  -
+  - 
 party:
 political_alignment:
 organization:
-  -
+  - 
 employer:
-  -
+  - 
 known_for:
-  -
+  - 
 historical_period:
-  -
+  - 
 spouse:
 children:
 criminal_charges:
