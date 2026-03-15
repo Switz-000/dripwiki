@@ -49,9 +49,23 @@ offices:
     notes:
   - title: Member of the National Assembly of Confian Syndicates
     employer: "[[Confian National Government]]"
-    start: 1980
+    start: 1987
     end: 1990
-    appointer: "[[1980 Confian general election]]", "[[1982 Confian general election]]", "[[1986 Confian general election]]"
+    appointer: ""[[1986 Confian general election]]"
+    party: "[[Syndicalist League]]"
+    notes:
+  - title: Member of the National Assembly of Confian Syndicates
+    employer: "[[Confian National Government]]"
+    start: 1982
+    end: 1996
+    appointer: "[[1982 Confian general election]]"
+    party: "[[Syndicalist League]]"
+    notes:
+  - title: Member of the National Assembly of Confian Syndicates
+    employer: "[[Confian National Government]]"
+    start: 1981
+    end: 1982
+    appointer: "[[1980 Confian general election]]"
     party: "[[Syndicalist League]]"
     notes:
 awards:
