@@ -1,7 +1,7 @@
 ---
 type: company
 company_name: Kărwenni Rust and Smoke
-susian_company_name: Kărwenni Ražaw i Arčeje
+native_company_name: Kărwenni Ražaw i Arčeje
 company_type: Syndicalized conglomerate
 founded: 1830
 founding_place: "[[Imgospalje]]"

@@ -1,7 +1,7 @@
 ---
 type: company
 company_name: Atompron Corporation
-susian_company_name:
+native_company_name:
 company_type: Government-Sponsored Enterprise
 founded: 1979
 founding_place: "[[Soiteslaj]]"

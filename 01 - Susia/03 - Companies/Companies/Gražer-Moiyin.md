@@ -1,7 +1,7 @@
 ---
 type: company
 company_name: Gražer-Moiyin Company
-susian_company_name:
+native_company_name:
 company_type: Public Corporation
 founded: 1889
 founding_place: "[[Kruie ro Yietre]]"

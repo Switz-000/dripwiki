@@ -1,7 +1,7 @@
 ---
 type: company
 company_name: Silver Coast Bank
-susian_company_name:
+native_company_name:
 company_type: Public Corporation
 founded: 1893
 founding_place: "[[Neoveli]]"
