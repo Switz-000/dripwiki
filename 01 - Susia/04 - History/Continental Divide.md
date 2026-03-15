@@ -88,15 +88,13 @@ Confia assembled its counter-alliance, the [[Pact of Imgospalje]], by drawing in
 
 ## Domestic legislation
 
+> *Main articles: [[Federal Loyalty Act]], [[MAGEN act]]*
+
 Confia tried subverting and influencing Susia's domestic politics, funding left-wing parties and cultivating contacts within Susian institutions. A 1961 scandal involving social-democratic officials and Confian operatives provided the immediate political justification for the curtailing of civil liberties.
 
-The **[[Federal Loyalty Act]] of 1961** was a broad internal security measure targeting suspected syndicalist sympathizers within Susian institutions. It authorized loyalty investigations of civil servants, academics, journalists, and union officials, and enabled dismissal and blacklisting of those deemed to hold syndicalist sympathies. Critics drew comparisons to political purges in the very states Susia opposed. Defenders argued that Confian infiltration of Susian institutions was documented and ongoing, and that the republic could not afford ideological neutrality in a conflict of this kind.
-
-Confia simultaneously attempted to extend the proxy competition into Susia's domestic politics, funding left-wing parties and cultivating contacts within Susian institutions. A 1961 scandal involving social-democratic officials and Confian operatives provided the immediate political justification for the [[Federal Loyalty Act]]'s internal security apparatus.
+The **[[Federal Loyalty Act]] of 1961** was a broad internal security measure targeting suspected syndicalist sympathizers within Susian institutions. It authorized loyalty investigations of civil servants, academics, journalists, and union officials, and enabled dismissal and blacklisting of those deemed to hold syndicalist sympathies. Critics drew comparisons to political purges in the very states Susia opposed.
 
 The **[[MAGEN act]]**, passed in 1975, granted emergency executive powers to the president. Its principal provisions banned left-wing political parties from operating within Susia, banned the right to strike in many industries and restricted union activities in many areas of the Economy. The act is understood within Susian legal culture as a desperate survival measure when syndicalist paranoia reached its peak in the late 1970s. The act was phased out in stages following the end of the [[Continental War]], though several of its enabling provisions were not fully unwound until the 2000s.
-
-> *Main articles: [[Federal Loyalty Act]], [[MAGEN act]]*
 
 ## Proxy conflicts and covert operations
 
@@ -205,9 +203,3 @@ The domestic legislation of the divide had an uneven legacy. The MAGEN Act was p
 - [[Pjetrik Purpić]]
 
 ---
-%%
-FLAGS:
-- Operation Red Sand / Parzde Brigade / Pjetrik Purpić: Session-established canon. None yet in vault. Stubs needed for all three. The political context of the operation (who Purpić is, why he was extracted, what "from his Tahuni residence" implies about his position) is not yet established in session; left as stated without elaboration.
-- Lorelaj Paulović mental deterioration: Session-established canon. Not yet in a vault article for Paulovic, who has no dedicated article confirmed. Stub needed.
-- Cássio Bonfim: Referenced as former general and SDU figure. No dedicated vault article confirmed. Stub needed.
-%%

@@ -5,6 +5,8 @@ aliases:
 type: institution
 era:
   - techno-federative-era
+  - great-transition
+  - new-age
 tags:
   - politics
   - economy
@@ -14,6 +16,7 @@ tags:
   - labor
   - infrastructure
   - philosophy
+  - history
 ---
 A **Yarnojte** is a corporation granted strategic status by the [[Susian Federal Government]], conferring the authority to govern [[Free Economic Zone|Free Economic Zones]] (FEZs) and participate in federal economic planning. The Yarnojte system was created as part of the [[The Great Transition|Great Transition]] of 2038, establishing the constitutional framework of the [[Susia|Techno-Federative Republic of Susia]]. As of 2080, six corporations hold active Yarnojte status, while three former Yarnojtes have had their status revoked.
 

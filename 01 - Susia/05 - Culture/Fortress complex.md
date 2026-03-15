@@ -15,7 +15,7 @@ tags:
   - diplomacy
 ---
 
-The **Fortress Complex** is a term used in Susian political and cultural analysis to describe a recurring orientation in Susian national psychology: the belief that Susian civilization exists under permanent existential threat, and that its survival requires constant vigilance, military readiness, and internal cohesion. The term is descriptive rather than pejorative in most academic usage. Susian historians and political theorists generally organize the complex around three successive and overlapping episodes of perceived civilizational threat, each of which reinforced and deepened the orientation it inherited.
+The **Fortress Complex** is a term used in Susian political and cultural analysis to describe a recurring orientation in Susian national psychology: the belief that Susian civilization exists under permanent existential threat, and that its survival requires constant vigilance, military readiness, and internal cohesion. The term is descriptive rather  in most academic usage. Susian historians generally organize the complex around three successive and overlapping episodes of perceived civilizational threat, each of which reinforced and deepened the orientation it inherited.
 
 ## The three sieges
 
@@ -76,3 +76,4 @@ The Fortress Complex sits in tension with two related orientations in Susian nat
 - [[Gun Culture in Susia]]
 - [[Susian Exceptionalism]]
 - [[Democratic evangelism]]
+- [[Right to rebel]]
