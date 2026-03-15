@@ -7,6 +7,7 @@ aliases:
   - soites
 company_type: Multinational Conglomerate
 founded: 1969
+founded_by: "[[Suizo Soites]]"
 founding_place: "[[Neoveli]]"
 headquarters: "[[Soites Federal Free Trade Zone]]"
 market_cap: 3800000000000
@@ -17,7 +18,7 @@ fez_locations: "[[Soites Federal Free Trade Zone|Soites FFTZ]]"
 sector:
   - Consumer Staples
 ---
-**Soites Group** (commonly known as **Soites**) is a [[Susia|Susian]] multinational conglomerate and one of the nation's seven [[Yarnojte|Yarnojtes]]. Founded in 1969 as a discount retail chain, Soites has evolved into a diversified empire spanning retail, logistics, financial services, entertainment, data analytics, and advertising. The company is headquartered at the [[Soites Federal Free Trade Zone]] (FFTZ) in [[Postia]] and employs approximately 2.4 million people worldwide.
+**Soites Group** (commonly known as **Soites**) is a [[Susia|Susian]] multinational conglomerate and one of the nation's six [[Yarnojte|Yarnojtes]]. Founded in 1969 as a discount retail chain, Soites has evolved into a diversified empire spanning retail, logistics, financial services, entertainment, data analytics, and advertising. The company is headquartered at the [[Soites Federal Free Trade Zone]] (FFTZ) in [[Postia]] and employs approximately 2.4 million people worldwide.
 
 With a market capitalization of D$3.8 trillion as of 2070, Soites is one of Susia's most valuable and ubiquitous corporations. The company's motto, "Whatever, Whenever, Wherever," reflects its mission to provide comprehensive consumer convenience while operating what has been called "the panopticon with a smile", a massive data collection infrastructure disguised as customer service.
 
@@ -26,7 +27,7 @@ The company is named after **[[Suizo Soites]]** (1921-1995), Susia's founding pr
 
 ### Founding and Early Years (1969-2000)
 
-Soites was founded in 1969 by Suizo Soites, who had recently retired from his second term as Susia's first president (1954-1962). After leading the nation through its foundational period following the dissolution of the [[Dripstanian Empire]], Soites turned to business, establishing a discount retail chain in [[Dripia]].
+Soites was founded in 1969 by Suizo Soites, who had recently retired from his second term as Susia's first president (1954-1962). After leading the nation through its foundational period following the dissolution of the [[Dripstanian Empire]], Soites turned to business, establishing a discount retail chain in [[Neoveli]], [[Dripia]].
 
 The early Soites stores operated on a simple premise: high volume, low margins, and efficient distribution. Soites never married or had biological children, instead fostering a close partnership with a business associate named [[Chedji Soites|Chedji Jaroch]], who he eventually legally adopted as a brother. Chedji took charge of the business and continued the Soites legacy after the founder's retirement from active management in 1981.
 
@@ -84,6 +85,15 @@ Unlike most Yarnojtes that cultivate elite exclusivity, Soites embraces mass acc
 - "Technology Serves You, Not The Other Way Around" (Competitor Jabbing [[Troli Ustaras|TU]])
 - "We Don't Need Your DNA, Just Your Shopping List" (Competitor Jabbing LV)
 - "No Clearance Required" (Competitor Jabbing [[Van Ritter]])
+
+## List of CEOs
+
+[[Suizo Soites]] (1969 - 1981)
+[[Chedji Soites]] (1981 - 2031)
+? (2031 - 2047)
+? (2047 - 2052)
+? (2052 - 2068)
+? (2068 - present)
 
 ## See Also
 
