@@ -33,8 +33,6 @@ party: "[[Susian Liberal Party]]"
 political_alignment:
 organization:
   -
-employer:
-  - "[[Soites Group]]"
 known_for:
   - "[[Soites Group]]"
 historical_period:

@@ -31,8 +31,6 @@ political_alignment:
   - "[[Armotist Democracy]]"
 organization:
   - "[[Confederation of Industries of the Confian Nation|CICN]]"
-employer:
-  - "[[Confian National Government]]"
 known_for:
   - "[[New Oil Agreement]]"
   - "[[Sturdy Industry program]]"

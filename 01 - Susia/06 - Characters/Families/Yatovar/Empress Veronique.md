@@ -39,8 +39,6 @@ religion: Armotism
 occupation:
   - Emperor
   - Military Officer
-employer:
-  - 
 party:
 political_alignment:
 organization:

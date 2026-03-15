@@ -31,8 +31,6 @@ political_alignment:
   - "[[New Syndicalism]]"
 organization:
   - 
-employer:
-  - 
 known_for:
   - 
 historical_period:

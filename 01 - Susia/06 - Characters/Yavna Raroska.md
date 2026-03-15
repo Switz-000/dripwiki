@@ -15,8 +15,6 @@ occupation:
   - Academic
   - Researcher
 organization:
-employer:
-  - "[[University of New Kentu]]"
 alma_mater:
   - "[[University of New Kentu]]"
 ---

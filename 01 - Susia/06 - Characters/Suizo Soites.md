@@ -37,9 +37,6 @@ organization:
   - "[[Susian Liberal Party]]"
   - "[[Liberty and Fatherland Movement]]"
   - "[[Free Susia Foundation]]"
-employer:
-  - "[[Susian Federal Government]]"
-  - "[[Soites Group]]"
 known_for:
   - Founding the Federative Republic
   - "[[Tahuni Accords]]"
