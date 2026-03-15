@@ -3,7 +3,7 @@ aliases:
   - Red Iron Incorporated
 type: company
 company_name: Red Iron Incorporated
-susian_company_name:
+native_company_name:
 company_type: Public Corporation
 founded: 2003
 founding_place: "[[Neoveli]]"
