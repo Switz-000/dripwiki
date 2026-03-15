@@ -193,7 +193,7 @@ The domestic legislation of the divide had an uneven legacy. The MAGEN Act was p
 - [[Cássio Bonfim]]
 - [[Filevir Matri]]
 - [[Detente Policy]]
-- [[Sutsa-Fuhu Civil War (1972-1973)]]
+- [[Sutsa-Fuhu Civil War]]
 - [[Zaphonian Civil War]]
 - [[Flower Revolutions]]
 - [[Fortress Complex]]

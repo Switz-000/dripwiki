@@ -108,7 +108,7 @@ When [[Sergio Fimoises]] won the presidency in 1962 on the [[Susian Democratic U
 
 In 1966, Fimoises appointed him [[Secretary of Justice]], a natural fit for a lawyer with his background in security and institutional order. The appointment gave Matri four years of direct federal executive experience, overseeing law enforcement coordination and the legal machinery of a republic under continuous pressure from the [[Continental Divide]]. His tenure was unremarkable in the sense that nothing went wrong, which during the Fimoises years was itself an accomplishment. He returned to the Senate in 1970 following Fimoises' second term.
 
-His four years in the Senate under [[Ergagério Sienes]] were defined by growing frustration. Matri was a consistent and vocal critic of Sienes' [[Detente Policy|détente]] approach toward [[Confia]], arguing that negotiating with the Lorelaj government from a position of strategic weakness was not diplomacy but capitulation. When the [[Sutsa-Fuhu Civil War (1972-1973)|Sutsa-Fuhu civil war]] unfolded and Sienes hesitated to intervene, Matri's position within the FVS hardened into something closer to contempt. He had spent his career arguing that any concession to syndicalism invited further encroachment. Sienes had offered years of concessions and received encirclement in return.
+His four years in the Senate under [[Ergagério Sienes]] were defined by growing frustration. Matri was a consistent and vocal critic of Sienes' [[Detente Policy|détente]] approach toward [[Confia]], arguing that negotiating with the Lorelaj government from a position of strategic weakness was not diplomacy but capitulation. When the [[Sutsa-Fuhu Civil War|Sutsa-Fuhu civil war]] unfolded and Sienes hesitated to intervene, Matri's position within the FVS hardened into something closer to contempt. He had spent his career arguing that any concession to syndicalism invited further encroachment. Sienes had offered years of concessions and received encirclement in return.
 
 By the time [[Cássio Bonfim]] was building his presidential campaign in 1974, Matri was one of the most recognizable FVS figures in federal politics: a former governor, a former cabinet secretary, a sitting senator, and a man whose anti-syndicalist record was unimpeachable. He was fifty years old. The man who had fought the syndicalists in Postia would now fight them on the continent.
 
@@ -186,7 +186,7 @@ Filevir Matri died in Duolij in 2002 at seventy-eight years old.
 - [[Neoveli Stock Exchange Bombing]]
 - [[Susian Democratic Union]]
 - [[Detente Policy]]
-- [[Sutsa-Fuhu Civil War (1972-1973)]]
+- [[Sutsa-Fuhu Civil War]]
 - [[Flower Revolutions]]
 - [[Vitrikan wine]]
 

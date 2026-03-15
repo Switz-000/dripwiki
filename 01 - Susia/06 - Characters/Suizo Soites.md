@@ -28,6 +28,7 @@ occupation:
   - Businessman
   - Author
   - Philanthropist
+  - Entrepreneur
 party: "[[Susian Liberal Party]]"
 political_alignment:
   - Liberal
