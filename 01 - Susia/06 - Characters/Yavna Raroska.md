@@ -8,8 +8,6 @@ birth_place:
   - "[[Susia]]"
 citizenship:
   - Susian
-nationality:
-  - Susian
 death_year: 2042
 death_cause: Natural Causes
 known_for:
