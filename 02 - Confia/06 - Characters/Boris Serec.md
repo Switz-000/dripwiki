@@ -60,7 +60,7 @@ offices:
     employer: "[[Confian National Government]]"
     start: 1983
     end: 1987
-    appointer: "[[Mariana Torres]]"
+    appointer: "[[National Assembly of Confian Syndicates]]"
     party: [[Armotist Democratic Party|ALjP]]
     notes:
   - title: Commissar of Education
