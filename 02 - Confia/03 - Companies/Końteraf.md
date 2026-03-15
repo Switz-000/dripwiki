@@ -1,7 +1,7 @@
 ---
 type: company
 company_name: Confian Crude Oil and Natural Gas
-susian_company_name: Końfiski Terafam i Jarseľna Fešoza
+native_company_name: Końfiski Terafam i Jarseľna Fešoza
 company_type: Mixed-ownership enterprise
 founded: 1938
 founding_place: "[[Imgospalje]]"

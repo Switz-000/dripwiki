@@ -1,7 +1,7 @@
 ---
 type: company
 company_name: Imperial Tobacco Company
-susian_company_name:
+native_company_name:
 company_type: Public Corporation
 founded: 1867
 founding_place: "[[Duolij]]"

@@ -1,7 +1,7 @@
 ---
 type: company
 company_name:
-susian_company_name:
+native_company_name:
 company_type:
 founded:
 founded_by:

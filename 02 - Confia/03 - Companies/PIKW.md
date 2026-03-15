@@ -1,7 +1,7 @@
 ---
 type: company
 company_name: Bank of the Confian Nation
-susian_company_name: Ploít Konfiskae Wjaže
+native_company_name: Ploít Konfiskae Wjaže
 company_type: Private corporation
 founded:
 founding_place:

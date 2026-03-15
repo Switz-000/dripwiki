@@ -1,7 +1,7 @@
 ---
 type: company
 company_name: Postian Company of Lubricants and Oil
-susian_company_name:
+native_company_name:
 company_type: Public Corporation
 founded: 1888
 founding_place: "[[New Duloc]]"

@@ -1,7 +1,7 @@
 ---
 type: company
 company_name: Yerčemark Corporation
-susian_company_name:
+native_company_name:
 company_type: Public Corporation
 founded: 2031
 founding_place: "[[New Kentu]]"

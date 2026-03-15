@@ -3,7 +3,7 @@ aliases:
   - TU
 type: company
 company_name: Troli Ustaras
-susian_company_name: Troli Ustaras
+native_company_name: Troli Ustaras
 company_type: Public Corporation
 founded: 1959
 founding_place: "[[Donetruže]]"

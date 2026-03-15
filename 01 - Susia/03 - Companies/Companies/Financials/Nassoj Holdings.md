@@ -1,7 +1,7 @@
 ---
 type: company
 company_name: Nassoj Holdings
-susian_company_name:
+native_company_name:
 company_type: Public Corporation
 founded: 1883
 founding_place: "[[Neoveli]]"

@@ -1,7 +1,7 @@
 ---
 type: company
 company_name: Soites Group
-susian_company_name:
+native_company_name:
 aliases:
   - Soites
   - soites

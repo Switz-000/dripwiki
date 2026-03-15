@@ -1,7 +1,7 @@
 ---
 type: company
 company_name: Astralis Banking Group
-susian_company_name: Poč-Hoch Ňaržejoy
+native_company_name: Poč-Hoch Ňaržejoy
 company_type: Public Corporation
 founded: 2008
 founding_place: "[[Sužielaj City]]"
