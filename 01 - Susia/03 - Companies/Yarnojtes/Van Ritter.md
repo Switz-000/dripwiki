@@ -1,7 +1,7 @@
 ---
 type: company
 company_name: Van Ritter Incorporated
-susian_company_name:
+native_company_name:
 company_type: Public Corporation
 founded: 1923
 founding_place: "[[Lore-Kurji]]"

@@ -1,7 +1,7 @@
 ---
 type: company
 company_name: Triževa Bank
-susian_company_name:
+native_company_name:
 company_type: Public Corporation
 founded: 1869
 founding_place: "[[Duolij]]"

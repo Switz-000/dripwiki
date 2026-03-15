@@ -4,7 +4,7 @@ aliases:
   - Lischev-Verene Biomedical Corporation
 type: company
 company_name: Lischev-Verene Biomedical Corporation
-susian_company_name:
+native_company_name:
 company_type: Public Corporation
 founded: 2065
 founding_place: "[[Sužielaj City]]"
