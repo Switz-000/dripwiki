@@ -13,9 +13,16 @@ yarnojte_revoked:
 fez_locations:
 sector:
   - Healthcare
+tags:
+  - corporate
+  - technology
+  - economy
+  - law
+  - medicine
+  - science
 ---
 
-**Rǎz Lizňir Corporation** is a [[Susia|Susian]] Public Benefit Corporation headquartered in [[Velúria]], [[Orlítia]], founded in 2073. The company operates in the post-mortem organ procurement market, purchasing the rights to a living client's organs in exchange for an upfront cash payment, then harvesting and auctioning those organs upon the client's natural death. Rǎz Lizňir was founded one year after the [[Bodily Autonomy Act of 2072]], which legalized the regulated for-profit organ market in [[Susia]], and is widely credited with resolving the organ supply crisis that preceded the act. With a market capitalization of D$73.2 billion as of 2070, it is the dominant player in the sector.
+**Rǎz Lizňir Corporation** is a [[Susia|Susian]] Public Benefit Corporation headquartered in [[Velúria]], [[Orlítia]], founded in 2073. The company operates in the post-mortem organ procurement market, purchasing the rights to a living client's organs in exchange for an upfront cash payment, then harvesting and auctioning those organs upon the client's natural death. Rǎz Lizňir was founded one year after the [[Bodily Autonomy Act of 2072]], which legalized the regulated for-profit organ market in [[Susia]], and is widely credited with resolving the organ supply crisis that preceded the act. With a market capitalization of D$73.2 billion as of 2080, it is the dominant player in the sector.
 
 ## Business Model
 
