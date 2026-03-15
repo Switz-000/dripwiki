@@ -60,11 +60,16 @@ offices:
     start: 1969
     end: 1981
     appointer: "[[Suizo Soites]]"
-    notes: Founder of the Soites Group
+    notes: Founder of the Soites Group (Self-apointed)
+  - title: President of Susia
+    start: 1958
+    end: 1962
+    appointer: "[[1958 Susian presidential election]]"
+    party: Susian Liberal Party
   - title: President of Susia
     start: 1954
-    end: 1962
-    appointer: Popular Election
+    end: 1958
+    appointer: "[[1954 Susian presidential election]]"
     party: Susian Liberal Party
   - title: Delegate, Constitutional Convention
     start: 1953

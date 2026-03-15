@@ -56,7 +56,7 @@ Jartes II then established the **Public Order Force of the General Government of
 
 ### The Architect Emperor
 
-Jartes II was obsessed with monumental architecture as a display of imperial power. He promoted the electrification of [[Duolij]] and [[Neoveli]]. His defining project was the construction of **Saint Mantichev City** (now [[Soiteslaj]]), built for the Empire's 200th anniversary in 1874. The city was designed as the new administrative hub, with wide straight boulevards, parks, gilded monuments, and buildings scaled to make visitors feel small. It included the Incria Palace (an exhibition of the Empire's colonies), the Bicentennial Square with its triumphal arch, and a 2,000-seat royal opera house with a ceiling painted with depictions of the [[Armotism|Armotist]] Voyages.
+Jartes II was obsessed with monumental architecture as a display of imperial power. He promoted the electrification of [[Duolij]] and [[Neoveli]]. His defining project was the construction of **St. Mantichev City** (now [[Soiteslaj]]), built for the Empire's 200th anniversary in 1874. The city was designed as the new administrative hub, with wide straight boulevards, parks, gilded monuments, and buildings scaled to make visitors feel small. It included the Incria Palace (an exhibition of the Empire's colonies), the Bicentennial Square with its triumphal arch, and a 2,000-seat royal opera house with a ceiling painted with depictions of the [[Armotism|Armotist]] Voyages.
 
 ## Death and Legacy
 
