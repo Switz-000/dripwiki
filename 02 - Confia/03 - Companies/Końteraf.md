@@ -13,6 +13,5 @@ yarnojte_revoked:
 fez_locations:
 sector:
   - Energy
-  - Industrials
 ---
 [[New Oil Agreement]]
