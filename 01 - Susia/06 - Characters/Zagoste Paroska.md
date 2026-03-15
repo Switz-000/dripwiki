@@ -46,8 +46,6 @@ education:
     year:
 party:
 political_alignment:
-employer:
-  - 
 historical_period:
   - 
 spouse:

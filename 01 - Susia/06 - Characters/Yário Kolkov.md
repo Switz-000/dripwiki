@@ -20,9 +20,6 @@ occupation:
   - Engineer
   - Academic
 organization:
-employer:
-  - "[[Troli Ustaras]]"
-  - "[[Nayotai]]"
 alma_mater:
   - "[[University of New Duloc]]"
 ---

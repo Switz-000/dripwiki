@@ -38,8 +38,6 @@ party:
 political_alignment:
 organization:
   - "[[Susian Democratic Union]]"
-employer:
-  - "[[Soites Group]]"
 known_for:
   - 
 historical_period: Republican Era (1954–2038)

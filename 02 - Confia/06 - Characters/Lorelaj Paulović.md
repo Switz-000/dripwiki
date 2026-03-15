@@ -32,8 +32,6 @@ political_alignment:
   - "[[Paulović Model]]"
 organization:
   - 
-employer:
-  - 
 known_for:
   - Dictator of Confia during the Continental Divide
 historical_period:
