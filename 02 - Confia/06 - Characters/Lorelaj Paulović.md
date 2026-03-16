@@ -3,6 +3,7 @@ type: person
 full_name: Lorelaj Paulović Roždawoenni
 aliases:
   - Paulović
+sex: male
 birth_year: 1912
 birth_city: "[[Gražža Erjogala]]"
 birth_state: "[[Koštanože]]"
@@ -13,10 +14,10 @@ citizenship:
 nationality:
   - "[[Dripstanian Empire|Dripstanian]]"
   - "[[Confia|Confian]]"
-death_year: "1977"
-death_city: Unknown
-death_state: Unknown
-death_country: Unknown
+death_year: Disappeared 1977
+death_city: Whereabouts unknown
+death_state: Whereabouts unknown
+death_country: Whereabouts unknown
 death_cause: Disappeared
 ethnicity: "[[East Gaiyanese]]"
 religion: "[[Armotist Church of the Confian Synod]]"
