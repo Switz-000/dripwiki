@@ -6,7 +6,7 @@ company_type: Mixed-ownership enterprise
 founded: 1938
 founded_by:
   - "[[Confian National Government]]"
-  - "[[Lorelaj Paulović]]"
+  - "[[Lorelaj Paulowić]]"
 founding_place: "[[Imgospalje]]"
 headquarters: "[[Imgospalje]]"
 market_cap:

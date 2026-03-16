@@ -5,7 +5,7 @@ aliases:
   - KAN
 sex: female
 birth_year: 1946
-birth_city: "[[St. Meshon]]"
+birth_city: "[[Saint Meshon]]"
 birth_state: "[[Karlotopol']]"
 birth_country: "[[Dripstanian Empire]]"
 citizenship:

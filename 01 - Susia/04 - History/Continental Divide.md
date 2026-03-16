@@ -28,7 +28,7 @@ key_figures:
   - "[[Suizo Soites]]"
   - "[[Cássio Bonfim]]"
   - "[[Sergio Fimoises]]"
-  - "[[Lorelaj Paulović]]"
+  - "[[Lorelaj Paulowić]]"
   - "[[Mikheli Kinpaum]]"
   - "[[Ganzir Ništanaen]]"
   - "[[Sarže Saron]]"
@@ -74,7 +74,7 @@ The **Continental Divide** (1957–1977) was a cold war between [[Susia]]'s libe
 
 ## Background
 
-The [[Tahuni Accords]] of 1954 dissolved the [[Dripstanian Empire]] and granted independence to Susia and [[Confia]] as successor states. The two states inherited a shared continent, a shared imperial history, and an immediate ideological divergence. In 1957 Confia consolidated under an authoritarian syndicalist government led by [[Lorelaj Paulović]] marking the start of the Continental Divide. Susia, founded under [[Suizo Soites]] on the natural rights philosophy of [[Armadesh Versij]], organized as a liberal-capitalist republic and regarded the Confian model as an existential challenge to its own foundations. The competition between the two successor states had intensified into a structured continental rivalry, dividing the continent into two opposing blocs.
+The [[Tahuni Accords]] of 1954 dissolved the [[Dripstanian Empire]] and granted independence to Susia and [[Confia]] as successor states. The two states inherited a shared continent, a shared imperial history, and an immediate ideological divergence. In 19[[Lorelaj Paulowić]]ed under an authoritarian syndicalist government led by [[Lorelaj Paulović]] marking the start of the Continental Divide. Susia, founded under [[Suizo Soites]] on the natural rights philosophy of [[Armadesh Versij]], organized as a liberal-capitalist republic and regarded the Confian model as an existential challenge to its own foundations. The competition between the two successor states had intensified into a structured continental rivalry, dividing the continent into two opposing blocs.
 
 ## The two blocs
 
@@ -150,7 +150,7 @@ In 1974, Susia started a immense military buildup, coordinating with others [[ON
 
 In 1975, [[Lorelaj Paulović]] caught notice of Susia's actions and sent a ultimatum: Cease all operations in Syndicalist nations, halt ONDD military buildup, or in 100 days, Confia would take military action. Summits were held in Kamino, between the two blocs, hopefully to find a compromise. While Paulović attended these summits, Bonfim refused to show up and negotiations soon collapsed. 
 
-Susia's strategy was to call Confia's bluff with a quick and decisive operation, capturing the de facto confian military governor of Zaphonia, [[Pjetrik Purpić]]. Then, allowing the anti-syndicalist brigades in Zaphonia to overwhelm the poorly organized zaphonian army in Tahuni and take back control. After Zaphonia fell, Confia would be completely encircled by the [[ONDD]] and hopefully would back down, agreeing to Susian demands. As a three front war would be suicidal to Confia.
+Susia's st[[Lorelaj Paulowić]]onfia's bluff with a quick and decisive operation, capturing the de facto confian military governor of Zaphonia, [[Pjetrik Purpić]]. Then, allowing the anti-syndicalist brigades in Zaphonia to overwhelm the poorly organized zaphonian army in Tahuni and take back control. After Zaphonia fell, Confia would be completely encircled by the [[ONDD]] and hopefully would back down, agreeing to Susian demands. As a three front war would be suicidal to Confia.
 
 The day before the confian ultimatum expired, [[Operation Red Sand]] took place, conducted by the [[Frumentarze]]'s [[Parzde Brigade]]. The operation was a success, extracting Purpić from his residence in [[Tahuni]] overnight and taking him into susian custody without friendly casualties. However, the anti-syndicalist attacks were underwhelming and the zaphonian army, assisted by confian advisors, proved competent enough to maintain control in the larger cities, starting a civil war
 
@@ -164,7 +164,7 @@ In the morning Bonfim went to national television and broadcasted his demands to
 
 The immediate trigger for open war was Susia's direct kidnapping [[Pjetrik Purpić]] of  intervention in the [[Zaphonian Civil War]], committing forces rather than proxies to support the syndicalist faction. It was Confia, not Susia, that formally declared war, with [[Lorelaj Paulović]] delivering the declaration in a public address. Paulovic had by this period exhibited signs of significant mental deterioration over the preceding years; those present at the declaration described the address itself as unusually lucid and deliberate, a quality that observers found more unsettling than a deteriorated performance would have been.
 
-Bonfim's government responded militarily. The Susian strategic approach centered on economic strangulation rather than direct territorial assault on Confia. By seizing [[Sutsa-Fuhu]] and [[Zaphonia]], Susia aimed to sever Confia's primary economic corridors and isolate the syndicalist government from its regional supply chains. While this southern and eastern pressure tightened Confia's position, [[Kapiogg]] and [[Pierej]] pinned Confian forces in extended trench warfare along the northern front, preventing redeployment.
+Bonfim's go[[Lorelaj Paulowić]]ilitarily. The Susian strategic approach centered on economic strangulation rather than direct territorial assault on Confia. By seizing [[Sutsa-Fuhu]] and [[Zaphonia]], Susia aimed to sever Confia's primary economic corridors and isolate the syndicalist government from its regional supply chains. While this southern and eastern pressure tightened Confia's position, [[Kapiogg]] and [[Pierej]] pinned Confian forces in extended trench warfare along the northern front, preventing redeployment.
 
 The combination of economic isolation, northern attrition, and the collapse of the [[Pact of Imgospalje]] bloc's cohesion produced the fall of Paulovic's government in 1977. The war ended with the defeat of the syndicalist bloc and the conditional surrender of Confia's hard-line leadership.
 
@@ -195,8 +195,7 @@ The domestic legislation of the divide had an uneven legacy. The MAGEN Act was p
 - [[Zaphonian Civil War]]
 - [[Flower Revolutions]]
 - [[Fortress Complex]]
-- [[Democratic evangelism]]
-- [[Military service in Susia]]
+- [[Democratic evangelism]][[Lorelaj Paulowić]]e in Susia]]
 - [[Lasman Economic Initiative]]
 - [[Operation Red Sand]]
 - [[Parzde Brigade]]
