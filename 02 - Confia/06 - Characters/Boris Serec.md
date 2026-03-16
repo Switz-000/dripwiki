@@ -34,7 +34,7 @@ organization:
   - "[[Confederation of the Industries of the Confian Nation|CICN]]"
 known_for:
   - "[[New Oil Agreement]]"
-  - "[[Sturdy Industry program]]"
+  - "[[Sturdy Industry]]"
 historical_period:
   - post-war
 spouse: "[[Gravolja Sereca]]"
