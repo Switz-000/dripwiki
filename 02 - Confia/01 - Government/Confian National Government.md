@@ -1,0 +1,1 @@
+The **Confian National Government** (Confian: Końfiski Sowjažei Wlaššesse/Коњфіски Совяжей Влашшессе) is the national level of the [[Confia|confian]] government.

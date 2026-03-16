@@ -61,7 +61,7 @@ offices:
     start: 1986
     end: 1987
     appointer: "[[1986 Confian presidential election]]"
-    party: "[[Movement of Syndicalist Renovation]]"
+    party: "[[Movement for Syndicalist Renovation]]"
     notes:
   - title: President of the Council of Comissars of the United Syndicates of Confia
     employer: "[[Confian National Government]]"
