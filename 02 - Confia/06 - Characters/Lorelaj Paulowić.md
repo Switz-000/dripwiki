@@ -1,6 +1,6 @@
 ---
 type: person
-full_name: Lorelaj Paulović Roždawoenni
+full_name: Lorelaj Paulowić Roždawoenni
 aliases:
   - Paulović
 sex: male
@@ -77,7 +77,7 @@ awards:
     notes:
 ---
 
- **Lorelaj Paulović Roždawoenni** (Racpalian Alphabet: Лорелай Паулович Рождавоенни), is a Confian disappeared revolutionary politician that served as the 1st Prime Minister and the only Leader of the Nation of the [[Confia|United Syndicates of Confia]]. He ruled Confia as a totalitarian dictatorship from 1956 until 1977, when his government was deposed by the [[Bayonet Revolution]]
+ **Lorelaj Paulowić Roždawoenni** (Racpalian Alphabet: Лорелай Паулович Рождавоенни), is a Confian disappeared revolutionary politician that served as the 1st Prime Minister and the only Leader of the Nation of the [[Confia|United Syndicates of Confia]]. He ruled Confia as a totalitarian dictatorship from 1956 until 1977, when his government was deposed by the [[Bayonet Revolution]]
 
 
 
