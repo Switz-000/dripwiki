@@ -8,5 +8,5 @@ population_1975:
 population_1970:
 landlocked: true
 ---
-
+**Imgospalje** (Racpalian Alphabet: Імгоспаље) is the capital and largest city by population of Confia.
 

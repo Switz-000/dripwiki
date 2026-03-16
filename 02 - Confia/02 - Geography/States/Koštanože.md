@@ -26,7 +26,7 @@ climate:
 topography:
 rivers:
 gdp_per_capita_2070:
-has_fez:
+has_fez: false
 yarnojtes_fez:
 ---
 

@@ -3,6 +3,7 @@ type: person
 full_name: Katerina Armoljubca Graljeewina Nožeslawna
 aliases:
   - KAN
+sex: female
 birth_year: 1946
 birth_city: "[[St. Meshon]]"
 birth_state: "[[Karlotopol']]"
@@ -26,6 +27,7 @@ education:
     year:
 occupation:
   - Politician
+  - Engineer
 party: "[[Syndicalist League]]"
 political_alignment:
   - "[[New Syndicalism]]"
@@ -76,8 +78,4 @@ awards:
     country:
     notes:
 ---
-
-
-
-
-
+**Katerina Armoljubca Graljeewina Nožeslawna** (Racpalian Alphabet: Катѣрина Армољубца Граљеевина Ножеславна), better known by the acronym **KAN**, is a Confian agricultural engineer and politician that served as the 8th Prime Minister and 3rd President of the [[Confia|United Syndicates of Confia]].
