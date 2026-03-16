@@ -78,4 +78,4 @@ awards:
     country:
     notes:
 ---
-**Katerina Armoljubca Graljeewina Nožeslawna** (Racpalian Alphabet: Катѣрина Армољубца Граљеевина Ножеславна), better known by the acronym **KAN**, is a Confian agricultural engineer and politician that served as the 8th Prime Minister and 3rd President of the [[Confia|United Syndicates of Confia]].
+**Katerina Armoljubca Graljeewina Nožeslawna** (Racpalian Alphabet: Катѣрина Армољубца Граљеевина Ножеславна), better known by the acronym **KAN**, is a Confian agricultural engineer and politician that served as the 8th Prime Minister and 4rd President of the [[Confia|United Syndicates of Confia]].
