@@ -79,4 +79,4 @@ awards:
     country:
     notes:
 ---
-**Katerina Armoljubca Graljeewina Nožeslawna** (Racpalian Alphabet: Катѣрина Армољубца Граљеевина Ножеславна), better known by the acronym **KAN**, is a Confian labour rights lawyer and politician that served as the 6th Prime Minister and 2nd President of the [[Confia|United Syndicates of Confia]].
+**Boris Rodočewić Serec** (Racpalian Alphabet: Борис Родочевич Серец) is a Confian labour rights lawyer and politician that served as the 6th Prime Minister and 2nd President of the [[Confia|United Syndicates of Confia]].
