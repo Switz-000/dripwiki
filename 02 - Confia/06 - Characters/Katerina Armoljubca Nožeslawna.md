@@ -59,7 +59,7 @@ offices:
   - title: Member of the National Assembly of Confian Syndicates
     employer: "[[Confian National Government]]"
     start: 1982
-    end: 1996
+    end: 1986
     appointer: "[[1982 Confian general election]]"
     party: "[[Syndicalist League]]"
     notes:
@@ -78,4 +78,4 @@ awards:
     country:
     notes:
 ---
-**Katerina Armoljubca Graljeewina Nožeslawna** (Racpalian Alphabet: Катѣрина Армољубца Граљеевина Ножеславна), better known by the acronym **KAN**, is a Confian agricultural engineer and politician that served as the 8th Prime Minister and 4rd President of the [[Confia|United Syndicates of Confia]].
+**Katerina Armoljubca Graljeewina Nožeslawna** (Racpalian Alphabet: Катѣрина Армољубца Граљеевина Ножеславна), better known by the acronym **KAN**, is a Confian agricultural engineer and politician that served as the 8th Prime Minister and 4th President of the [[Confia|United Syndicates of Confia]].
