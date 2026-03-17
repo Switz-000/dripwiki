@@ -99,8 +99,8 @@ The period between the Bayonet Revolution and the *WIP 2009 event* became known 
 
 ### The Torres Provisional government (1977)
 
-As leader of the NSBIH, Mariana Torres was installed as the interim leader, temporarily occupying the role of Leader of the Nation, created by the [[Enabling Amendment]]. The Torres Government set out a transition timeline and new elections for late 1977, with the next government taking power in 1978. The 1956 Confian syndicalist constitution would be restored to its original state by then, therefore removing
-
+As leader of the NSBIH, Mariana Torres was installed as the interim leader, temporarily occupying the role of Leader of the Nation, created by the [[Enabling Amendment]]. The Torres Government set out a transition timeline and new elections for late 1977, with the next government taking power in 1978. The 1956 Confian syndicalist constitution would be mostly restored to its original state by then, therefore removing the [[Enabling Amendment]] and other constitutional measures taken by Paulowić. The only change from the original text was the retification of Article 3, which strictly defined cooperative and state ownership as the only legitimate forms of property.
+ 
 Economically, the transition government carried out a series of hasty privatizations to pay off war debts and in an unsuccessful attempt to dismantle the ragged-sleeve power structure.
 
 ### The Making of the Torres Era and the Orange Coalition (1978-1980)
@@ -137,9 +137,12 @@ However, this was the only social program launched by the government, due to the
 
 The government received criticism from the left, even from Armotist Democrats within the KNP itself, most notably Boris Serec, who highlighted that "Armotos came to earth to, among other things, teach us the value of solidarity. We should not leave it only to the churches if the State can also contribute to a more just society."
 
-#### Labour and Capital Reform Amendment
+#### Labour and Capital Reforms
 
-The LCRA was a landmark amendment to the constitution. 
+The Labour and Capital Reform ACCN (Labour and Capital Reform Amendment to the Constitution of the Confian Nation) was a landmark amendment to the 1956 constitution. 
+
+
+
 #### Čirwašata and the fall of Kunsekowić
 
 On 31 Mantichevian (2) of 1982, an audio recording of a vulgar private conversation of Kunsekowić leaked to the public. In the tapes, he insulted Armotism and called its followers "inept jellybean munchers" (in reference to the particular sweets consumed during temple service)  among other things. 
