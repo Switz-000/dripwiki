@@ -2,13 +2,14 @@
 type: person
 full_name: Filevir Matri
 aliases:
+summary:
+known_for:
+  - 
+sex: male
 birth_year: 1924
-birth_city:
-  - - Duolij
-birth_state:
-  - - Postia
-birth_country:
-  - - "[[Dripstanian Empire]]"
+birth_city: "[[Duolij]]"
+birth_state: "[[Postia]]"
+birth_country: "[[Dripstanian Empire]]"
 citizenship:
   - Susian
   - Dripstanian
@@ -16,105 +17,23 @@ nationality:
   - Susian
   - Dripstanian
 death_year: 2002
-death_city:
-  - - Duolij
-death_state:
-  - - Postia
-death_country:
-  - - Susia
-death_cause: Natural Causes
-ethnicity: Gaiyanese (West)
-religion: Reformed Armotism
+death_city: "[[Duolij]]"
+death_state: "[[Postia]]"
+death_country: "[[Susia]]"
+death_cause: Natural causes
+ethnicity: West gaiyanese
+religion: "[[Reformed Armotism]]"
+enhanced: false
 education:
   - degree: Bachelor in Law
-    institution: [[Universty of Duolij]]
-    year: 1948
-occupation:
-  - Politician
-  - Lawyer
-  - Businessman
-party:
-  - "[[Susian Democratic Union]]"
-political_alignment:
-organization:
-  - "[[Susian Democratic Union]]"
-known_for:
-  - 
-historical_period: Republican Era (1954–2038)
-spouse: "[[Yavna Matri]]"
-children: Two (Unamed)
-criminal_charges:
-enhanced: false
-offices:
-  - title: Governor of Postia
-    start: 1954
-    end: 1962
-    party: [[Susian Democratic Union]]
-  - title: Senator for Postia
-    start: 1962
-    end: 1966
-    party: [[Susian Democratic Union]]
-  - title: Secretary of Justice
-    start: 1966
-    end: 1970
-    appointer: [[Sergio Fimoises]]
-    party: [[Susian Democratic Union]]
-    notes:
-  - title: Senator for Postia
-    start: 1970
-    end: 1974
-    appointer:
-    party: [[Susian Democratic Union]]
-    notes:
-  - title: Vice President of Susia
-    start: 1974
-    end: 1982
-    appointer:
-    party: [[Susian Democratic Union]]
-    notes:
-  - title: President of Susia
-    start: 1982
-    end: 1986
-    appointer:
-    party: [[Susian Democratic Union]]
-    notes:
-
-type: person
-full_name:
-aliases:
-summary:
-known_for:
-  -
-
-sex:
-birth_year:
-birth_city:
-birth_state:
-birth_country:
-citizenship:
-nationality:
-
-death_year:
-death_city:
-death_state:
-death_country:
-death_cause:
-
-ethnicity:
-religion:
-enhanced: false
-
-education:
-  - degree:
     institution:
-    year:
-
+      - - Imperial University of Duolij
+    year: 1948
 written_works:
   - title:
     publication_date:
     genre:
     notes:
-
 awards:
   - title:
     awarded:
@@ -122,29 +41,60 @@ awards:
     granted_by:
     country:
     notes:
-
 occupation:
-  -
+  - Politician
+  - Lawyer
+  - Businessman
 party:
-  -
+  - "[[Susian Democratic Union]]"
 political_alignment:
-  -
+  - 
 organization:
-  -
-
+  - 
 residence:
-family:
-spouse:
-children:
-
+family: "[[Matri Family]]"
+spouse: "[[Yavna Matri]]"
+children: Two (unamed)
 offices:
-  - title:
-    start:
-    end:
+  - title: Governor of Postia
+    start: 1954
+    end: 1962
+    party:
+      - - Susian Democratic Union
+  - title: Senator for Postia
+    start: 1962
+    end: 1966
+    party:
+      - - Susian Democratic Union
+  - title: Secretary of Justice
+    start: 1966
+    end: 1970
+    appointer:
+      - - Sergio Fimoises
+    party:
+      - - Susian Democratic Union
+    notes:
+  - title: Senator for Postia
+    start: 1970
+    end: 1974
     appointer:
     party:
+      - - Susian Democratic Union
     notes:
-
+  - title: Vice President of Susia
+    start: 1974
+    end: 1982
+    appointer:
+    party:
+      - - Susian Democratic Union
+    notes:
+  - title: President of Susia
+    start: 1982
+    end: 1986
+    appointer:
+    party:
+      - - Susian Democratic Union
+    notes:
 total_sentence:
 criminal_charges:
   - charge:
@@ -154,11 +104,16 @@ criminal_charges:
     served:
     in_absentia: false
     notes:
-
 era:
-  -
+  - continental-divide
+  - continental-war
+  - post-war
 tags:
-  -
+  - diplomacy
+  - politics
+  - history
+  - labor
+  - law
 ---
 
 **Filevir Matri** (1924–2002) was a Susian lawyer, statesman, and politician who served as the fifth President of Susia from 1982 to 1986. He came to the presidency after a long career in Postian and federal politics: governor of [[Postia]] during the republic's founding decade, senator, [[Secretary of Justice]] under [[Sergio Fimoises]], and Vice President under [[Cássio Bonfim]]. He is generally remembered as a competent but unremarkable president, sandwiched between a war hero and an idealist, whose achievements were either attributed to his predecessor or claimed by administrations that came after him.

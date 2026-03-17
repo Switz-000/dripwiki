@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Duolijians
+  - Imperial City
 type: city
 country: "[[Susia]]"
 state: "[[Postia]]"

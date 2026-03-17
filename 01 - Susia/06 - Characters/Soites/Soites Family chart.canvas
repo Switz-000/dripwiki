@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"44b06870c9db8ec3","type":"file","file":"01 - Susia/06 - Characters/Soites/Trevda Soites.md","x":0,"y":360,"width":400,"height":400},
+		{"id":"49c3352b6039ebc4","type":"file","file":"01 - Susia/06 - Characters/Soites/Yepodij Soites.md","x":960,"y":360,"width":400,"height":400},
+		{"id":"8c01069d0ec56d1a","type":"file","file":"01 - Susia/06 - Characters/Soites/Suizo Soites.md","x":-240,"y":-640,"width":400,"height":400},
+		{"id":"01c2a998c3445775","type":"file","file":"01 - Susia/06 - Characters/Chedji Soites.md","x":480,"y":-640,"width":400,"height":400},
+		{"id":"6ef859dd412521e3","type":"file","file":"01 - Susia/06 - Characters/Soites/Natesse Soites.md","x":960,"y":1240,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"f5a4b8525fe91bf5","fromNode":"8c01069d0ec56d1a","fromSide":"right","toNode":"01c2a998c3445775","toSide":"left","label":"Adopted"},
+		{"id":"07deb19c99443377","fromNode":"01c2a998c3445775","fromSide":"bottom","toNode":"44b06870c9db8ec3","toSide":"right"},
+		{"id":"1b2796b0420fd0fa","fromNode":"01c2a998c3445775","fromSide":"bottom","toNode":"49c3352b6039ebc4","toSide":"left"},
+		{"id":"b8a918c46f08a86f","fromNode":"49c3352b6039ebc4","fromSide":"bottom","toNode":"6ef859dd412521e3","toSide":"top"}
+	]
+}
