@@ -1,33 +1,31 @@
 ---
-official_name: Ditanian Republic
+official_name: Nirchalespruje of Ditania
 type: country
 goverment_type:
-  - Unitary
   - Republic
-  - Presidential
-  - Consociationalist
+  - Unitary
+  - Parliamentary
 population_2070:
 population_2000:
 population_1970:
-population_1954: 11000000
-religion: Consociationalist state
+population_1954:
+religion: Secular
 languages:
   - Standard Wai
-currency: DT$
+currency:
 international_organizations:
-capital: "[[Bermo]]"
+capital: "[[Nar Liewati]]"
 major_cities:
 continent: Dripstan
 borders_east:
-  - "[[Cabunire]]"
+  - "[[Ditania]]"
 borders_west:
-  - "[[Chongzha]]"
+  - "[[Cabunire]]"
 borders_north:
-  - "[[Zaphonia]]"
+  - "[[Ditania]]"
 borders_south:
   - "[[Balsheck]]"
   - "[[Yakiria]]"
-  - "[[Žartonnistan]]"
 ---
 
 
