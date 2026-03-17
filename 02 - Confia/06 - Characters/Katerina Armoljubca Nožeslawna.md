@@ -37,7 +37,7 @@ known_for:
   - 
 historical_period:
   - 
-spouse: Matetije Teššan
+spouse: "[[Matetije Teššan]]"
 children:
 criminal_charges:
 enhanced: false
