@@ -7,9 +7,10 @@ This was the first election for head of state in the history of independent Conf
 
 It followed the [[Bayonet Revolution]]. It was won by [[Mariana Torres]].
 
-## Presidential election of 1986
-
+## 1986 presidential election
 It was won by [[Mariana Torres]].
 
-## Presidential election of 1986
+## 1986 Confian general election
+
+## Presidential election of 1987
 It was won by [[Boris Serec]] following [[Mariana Torres]]' resignation due to cognitive decline.
