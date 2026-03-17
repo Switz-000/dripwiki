@@ -1,0 +1,1 @@
+The [[Roškoša Plans]], officially the **Urgent Measures for Economic Stabilization** were economic measures taken by [[Lenseka Japlenowina]].
