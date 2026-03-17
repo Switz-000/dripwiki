@@ -74,7 +74,7 @@ The **Continental Divide** (1957–1977) was a cold war between [[Susia]]'s libe
 
 ## Background
 
-The [[Tahuni Accords]] of 1954 dissolved the [[Dripstanian Empire]] and granted independence to Susia and [[Confia]] as successor states. The two states inherited a shared continent, a shared imperial history, and an immediate ideological divergence. In 19[[Lorelaj Paulowić]]ed under an authoritarian syndicalist government led by [[Lorelaj Paulović]] marking the start of the Continental Divide. Susia, founded under [[Suizo Soites]] on the natural rights philosophy of [[Armadesh Versij]], organized as a liberal-capitalist republic and regarded the Confian model as an existential challenge to its own foundations. The competition between the two successor states had intensified into a structured continental rivalry, dividing the continent into two opposing blocs.
+The [[Tahuni Accords]] of 1954 dissolved the [[Dripstanian Empire]] and granted independence to Susia and [[Confia]] as successor states. The two states inherited a shared continent, a shared imperial history, and an immediate ideological divergence. In 1957 [[Confia]] was established under an authoritarian syndicalist government led by [[Lorelaj Paulović]] marking the start of the Continental Divide. Susia, founded under [[Suizo Soites]] on the natural rights philosophy of [[Armadesh Versij]], organized as a liberal-capitalist republic and regarded the Confian model as an existential challenge to its own foundations. The competition between the two successor states had intensified into a structured continental rivalry, dividing the continent into two opposing blocs.
 
 ## The two blocs
 
