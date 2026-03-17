@@ -53,11 +53,12 @@ family:
 spouse:
 children:
 offices:
-  - title:
-    start:
-    end:
-    appointer:
-    party:
+  - title: President of the Council of Comissars of the United Syndicates of Confia
+    employer: "[[Confian National Government]]"
+    start: 1978
+    end: 1980
+    appointer: "[[National Assembly of Confian Syndicates]]"
+    party: "[[Progressive Republican Party]]]"
     notes:
 total_sentence:
 criminal_charges:
