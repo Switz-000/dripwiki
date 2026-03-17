@@ -20,9 +20,9 @@ participants:
   - "[[Sutsa-Fuhu]]"
   - "[[Zaphonia]]"
   - "[[Ariwaro]]"
-  - "[[Garecija]]"
   - "[[Ditania]]"
   - "[[Cabunire]]"
+  - "[[Garecia]]"
 key_figures:
   - "[[Ergagério Sienes]]"
   - "[[Suizo Soites]]"
@@ -84,7 +84,7 @@ Susia organized its allies into the [[ONDD]], founded in 1961 as a mutual defens
 
 > _Main article: [[Pact of Imgospalje]]_
 
-Confia assembled its counter-alliance, the [[Pact of Imgospalje]], by drawing in syndicalist-aligned or client states as the divide progressed. Its founding and accession members were [[Zaphonia]] (1961), [[Ariwaro]] (1968), [[Garecija]] (1966), and [[Sutsa-Fuhu]] (1973). The pact functioned as Confia's institutional vehicle for coordinating military and political support to its aligned governments and proxy forces across the continent.
+Confia assembled its counter-alliance, the [[Pact of Imgospalje]], by drawing in syndicalist-aligned or client states as the divide progressed. Its founding and accession members were [[Zaphonia]] (1961), [[Ariwaro]] (1968), [[Garecia]] (1966), and [[Sutsa-Fuhu]] (1973). The pact functioned as Confia's institutional vehicle for coordinating military and political support to its aligned governments and proxy forces across the continent.
 
 ## Domestic legislation
 
@@ -118,7 +118,7 @@ The First Zaphonian Republic, independent since 1954, had been internally divide
 
 > _Main article: [[Bridge War]]_
 
-[[Ariwaro]] invaded [[Garecija]] in 1963 with the aim of annexing the entire country. The invasion was slowed significantly by tunnel warfare in the dense jungle of the [[Ariwaro Basin]]. Confia intervened directly in support of Garecija in late 1966, and a joint Confian-Garecijan offensive capitulated Ariwaro by 1967. Confia installed a friendly Syndicalist regime in Ariwaro following the ceasefire, bringing another continental state into the syndicalist bloc. Both Ariwaro and Garecija subsequently joined the Pact of Imgospalje.
+[[Ariwaro]] invaded [[Garecia]] in 1963 with the aim of annexing the entire country. The invasion was slowed significantly by tunnel warfare in the dense jungle of the [[Ariwaro Basin]]. Confia intervened directly in support of Garecia in late 1966, and a joint Confian-Gareciaan offensive capitulated Ariwaro by 1967. Confia installed a friendly Syndicalist regime in Ariwaro following the ceasefire, bringing another continental state into the syndicalist bloc. Both Ariwaro and Garecia subsequently joined the Pact of Imgospalje.
 
 ### The Pierej Crisis (1969)
 
@@ -146,7 +146,7 @@ By 1973 Susia was flanked by syndicalist-aligned states to the south and east, i
 
 Bonfim, a general and sponsor of the [[Federal Loyalty Act]], won the 1974 election with an explicitly anti-syndicalist platform. His vice-presidential selection, [[Filevir Matri]] was another staunch anti-syndicalist and ex-governor of [[Postia]]. The [[Susian Senate]] elections were a landslide for Bonfim's party, the [[Susian Democratic Union]]. Enabling him to enact special emergency powers and the [[MAGEN act]].
 
-In 1974, Susia started a immense military buildup, coordinating with others [[ONDD]] allies, resumed support for anti-syndicalists in countries like Zaphonia, Ariwaro and Garecija, and most importantly planing what would've become [[Operation Red Sand]].
+In 1974, Susia started a immense military buildup, coordinating with others [[ONDD]] allies, resumed support for anti-syndicalists in countries like Zaphonia, Ariwaro and Garecia, and most importantly planing what would've become [[Operation Red Sand]].
 
 In 1975, [[Lorelaj Paulović]] caught notice of Susia's actions and sent a ultimatum: Cease all operations in Syndicalist nations, halt ONDD military buildup, or in 100 days, Confia would take military action. Summits were held in Kamino, between the two blocs, hopefully to find a compromise. While Paulović attended these summits, Bonfim refused to show up and negotiations soon collapsed. 
 
@@ -195,7 +195,8 @@ The domestic legislation of the divide had an uneven legacy. The MAGEN Act was p
 - [[Zaphonian Civil War]]
 - [[Flower Revolutions]]
 - [[Fortress Complex]]
-- [[Democratic evangelism]][[Lorelaj Paulowić]]e in Susia]]
+- [[Democratic evangelism]]
+[[Lorelaj Paulowić]]e in Susia]]
 - [[Lasman Economic Initiative]]
 - [[Operation Red Sand]]
 - [[Parzde Brigade]]
