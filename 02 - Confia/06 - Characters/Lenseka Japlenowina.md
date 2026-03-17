@@ -60,6 +60,13 @@ offices:
     appointer: "[[National Assembly of Confian Syndicates]]"
     party: "[[Progressive Republican Party]]]"
     notes:
+  - title: Mayor of Imgospalje
+    employer: "[[Imgospalje|Imgospalje City Government]]"
+    start: 1978
+    end: 1980
+    appointer: "[[National Assembly of Confian Syndicates]]"
+    party: "[[Progressive Republican Party]]]"
+    notes:
 total_sentence:
 criminal_charges:
   - charge:
