@@ -90,10 +90,9 @@ Unlike most Yarnojtes that cultivate elite exclusivity, Soites embraces mass acc
 
 [[Suizo Soites]] (1969 - 1981)
 [[Chedji Soites]] (1981 - 2031)
-? (2031 - 2047)
-? (2047 - 2052)
-? (2052 - 2068)
-? (2068 - present)
+[[Trevda Soites]] (2031 - 2052)
+[[Yepodij Soites]] (2052 - 2068)
+[[Natesse Soites]] (2068 - present)
 
 ## See Also
 
