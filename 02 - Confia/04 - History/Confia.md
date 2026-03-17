@@ -30,7 +30,7 @@ borders_north:
 borders_south:
   - "[[Zaphonia]]"
 ---
-**Confia** (Confian: Końfija/Коњфія), officially The United Unions of Confia (in Confianian: Sajuzki Syndakaci Końfiï/Саюзкі Сындъкаци Коњфії), also known as Confia, is a country located in the center of the [[Dripstanian Continent]] , bisected by the [[Confian Highlands]]. Confia borders [[Susia]] to the east, [[Kapiogg]] to the northwest, [[Zaphonia]] to the south, and shares a small border with [[Kamino]] to the southeast. The country is composed of ten states. The capital and largest commercial center of the country is [[Imgospalje]], while the largest city by area and population is [[Carlotopolis]].
+**Confia** (Confian: Końfija/Коњфія), officially The United Unions of Confia (in Confianian: Sajuzki Syndakaci Końfiï/Саюзкі Сындъкаци Коњфії), also known as Confia, is a country located in the center of the [[Dripstanian Continent]] , bisected by the [[Confian Highlands]]. Confia borders [[Susia]] to the west, [[Pierej]] to the east, [[Kapiogg]] to the northwest, [[Zaphonia]] to the south, and shares a small border with [[Kamino]] to the southeast. The country is composed of ten states. The capital and largest commercial center of the country is [[Imgospalje]], while the largest city by area and population is [[Carlotopolis]].
 
 The territory where Confia is currently located began to be occupied by Racpalians (East Gaiyanese) from the Second Gaiyan Migration in the late 1790s and early 1800s, following the [[Rural Properties Act]], sanctioned by [[Empress Veronique]]. With the gradual occupation of the territory west of the mountains, the [[General Government of Confia]] was established, a new province directly controlled by the Empress.
 
@@ -88,18 +88,30 @@ The labour camp known as the [[Talfaslaž]], a symbol of the General Government'
 
 ### The Continental War and the Bayonets Revolution (1975-1977)
 
-During the end days of the [[Continental War]], the NBSIH took Imgospalje, marching towards the [[Palace of the Revolution]]. Finding it empty, the end of the Paulowić government was declared. [[Mariana Torres]] was granted the title of interim leader, using it to carry out a series of hasty privatizations to pay off war debts and in an unsuccessful attempt to dismantle the ragged-sleeve power structure..
+During the end days of the [[Continental War]], the NBSIH took Imgospalje, marching towards the [[Palace of the Revolution]]. Finding it empty, the end of the Paulowić government was declared. [[Mariana Torres]] was granted the title of interim leader.
 
 ## Syndicalist Republic (1977-2009)
+
+The period between the Bayonet Revolution and the *WIP 2009 event* became known as the Syndicalist Republic.
+
+> "We are longer quite a traditional Syndicalist state, and we are not quite a traditional democratic republic. **Confia currently stands a Syndicalist Republic**, and only the future will tell if such an idiosyncratic arrangement resists time like the syndicates did."
+> - [[Mariana Torres]] after sanctioning the [[Labour and Capital Reform Amendment]]
+
+### The Torres Provisional government (1977)
+
+As leader of the NSBIH, Mariana Torres was installed as the interim leader, temporarily occupying the role of Leader of the Nation, created by the [[Enabling Amendment]]. The Torres Government set out a transition timeline and new elections for late 1977, with the next government taking power in 1978. The 1956 Confian syndicalist constitution would be restored to its original state by then, therefore removing
+
+Economically, the transition government carried out a series of hasty privatizations to pay off war debts and in an unsuccessful attempt to dismantle the ragged-sleeve power structure.
+
 ### The Making of the Torres Era and the Orange Coalition (1978-1980)
 
-Following the elections of the year 1978, the newly reformed [[Progressive Republican Party|LjWP]] formed a government with the [[Confian LIberal Party|KNP]], appointing [[Lenseka Japlenowina]] as the first democratically elected Confian prime minister after the end of the Paulowić era.
+Following the elections of the year 1977, the newly reformed [[Progressive Republican Party|LjWP]] formed a government with the [[Confian LIberal Party|KNP]], appointing [[Lenseka Japlenowina]] as the first democratically elected Confian prime minister after the end of the Paulowić era.
 
 #### The Roškoša Plans
 
 Lenseka Japlenowina's government, known as the "Orange Coalition" (in Confian: Ražawna Halja), was marked by a series of economic plans aimed at controlling the inflationary crisis that had occurred after the opening of the economy. The plans mixed orthodox and heterodox economic elements, and therefore gained the popular name "[[Roškoša Plans]]". Roškoša is a Confian dish consisting of a mixture of lamb and various diced vegetables. The popular name became more widespread than the original name, "Urgent Economic Stabilization Plan".
 
-The Roškoša Plan I was launched in Mantichevian (2) of 1978. This plan implemented a 90-day price freeze for essential household inputs such as food and cleaning products, as well as instituting the GANTAR program, which would guarantee half the minimum wage for families earning less than one and a half minimum wages per month. Initially, the program was applauded by economists across the spectrum for its wisdom in adjusting the value for inflation. However, these measures resulted in a positive demand shock that generated a series of widespread product shortages in supermarkets throughout the country, which ultimately triggered inflation again after the government was pressured to end price controls. This scarcity severely impacted company profits, especially those of retailers, and also affected production and transportation chains, resulting in mass layoffs and causing the unemployment rate to jump from 5.0% to 9.2%.
+The Roškoša Plan I was launched in Mantichevian (2) of 1978. This plan implemented a 90-day price freeze for essential household inputs such as foodstuffs and cleaning products, as well as instituting the GANTAR program, which would guarantee half the minimum wage for families earning less than one and a half minimum wages per month. Initially, the program was applauded by economists across the spectrum for its wisdom in adjusting the value for inflation. However, these measures resulted in a positive demand shock that generated a series of widespread product shortages in supermarkets throughout the country, which ultimately triggered inflation again after the government was pressured to end price controls. This scarcity severely impacted company profits, especially those of retailers, and also affected production and transportation chains, resulting in mass layoffs and causing the unemployment rate to jump from 5.0% to 9.2%.
 
 The Roškoša II Plan was launched in 1978. This plan involved a subsidy package for key sectors of the economy, such as heavy industry, manufacturing and commodity production, as well as the creation of a new currency, the strong swobo (C$), cutting two zeros from the old swobo. The currency replacement did not cause substantial changes in inflation, proving to be only a superficial measure. The subsidies guaranteed by the plan also contributed to inflation, increasing the deficit in public accounts and accelerating price increases. In addition, a 35% tariff was imposed on imported products and a 55% tariff on stores of international companies. This triggered a mass exodus of newly accommodated foreign capital, raising unemployment to 13.8%.
 
@@ -115,7 +127,7 @@ Following the snap general election of 1980, the KNP obtained majority of seats,
 
 #### The New Torch Plan
 
-The New Torch Plan was the main stabilization measure taken by the Kunsekowić government. The plan broke the backbone of hyperinflation by creating a new currency - the new swobo (H¢) - and pegging it to the Susian drip at a rate of 2:1. In addition, the government reduced H¢ 500 billion in spending by canceling the subsidies implemented by the Roškoša II Plan, achieving a fiscal surplus.
+The New Torch Plan was the main stabilization measure taken by the Kunsekowić government. The plan broke the backbone of hyperinflation by creating a new currency - the new swobo (H¢) - and pegging it to the Susian drip at a rate of 2:1. In addition, the government reduced H¢500 billion in spending by canceling the subsidies implemented by the Roškoša II Plan, achieving a fiscal surplus.
 
 #### Human Capital Initiatives
 
@@ -127,8 +139,7 @@ The government received criticism from the left, even from Armotist Democrats wi
 
 #### Labour and Capital Reform Amendment
 
-
-
+The LCRA was a landmark amendment to the constitution. 
 #### Čirwašata and the fall of Kunsekowić
 
 On 31 Mantichevian (2) of 1982, an audio recording of a vulgar private conversation of Kunsekowić leaked to the public. In the tapes, he insulted Armotism and called its followers "inept jellybean munchers" (in reference to the particular sweets consumed during temple service)  among other things. 
