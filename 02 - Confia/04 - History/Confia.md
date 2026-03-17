@@ -12,7 +12,7 @@ population_1970:
 population_1954: 47000000
 religion: Armotism
 languages: Confian
-currency: H¢
+currency: New Swobo (H¢)
 international_organizations:
   - "[[ONDD]]"
   - "[[Lasman Economic Initiative]]"
