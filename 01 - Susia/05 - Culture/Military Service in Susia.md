@@ -30,7 +30,7 @@ The political meaning of civilian military capacity became explicit during [[Jar
 
 ### Reinstatement Under the Republic
 
-[[Sergio Fimoises]] reinstated mandatory military service as one of the founding institutions of the [[Susia|Federative Republic of Susia]] in 1959, alongside the elected [[Susian Senate|Senate]] and the constitutional protection of natural rights. The requirement was understood as both a practical response to the [[Continental Divide]] and a civic statement: service was a duty owed to the republic, not merely a contribution extracted from its citizens.
+[[Serčev Fimžer]] reinstated mandatory military service as one of the founding institutions of the [[Susia|Federative Republic of Susia]] in 1959, alongside the elected [[Susian Senate|Senate]] and the constitutional protection of natural rights. The requirement was understood as both a practical response to the [[Continental Divide]] and a civic statement: service was a duty owed to the republic, not merely a contribution extracted from its citizens.
 
 ## Mandatory National Service
 
