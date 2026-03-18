@@ -128,10 +128,9 @@ Following the snap general election of 1980, the KNP obtained majority of seats,
 #### The New Torch Plan
 
 The New Torch Plan was the main stabilization measure taken by the Kunsekowić government. The plan broke the backbone of hyperinflation by creating a new currency - the new swobo (H¢) - and pegging it to the Susian drip at a rate of 2:1. In addition, the government reduced H¢500 billion in spending by canceling the subsidies implemented by the Roškoša II Plan, achieving a fiscal surplus.
-
 #### Human Capital Initiatives
 
-In 1931, Education Commissioner Boris Serec launched the National Program for Industrial Education and Qualification (Confian acronym: SOPROWIK). This program aimed to qualify the workforce in order to develop industries requiring a higher level of qualification, such as petrochemicals and electronics, as well as to expand the workforce available to existing steel and manufacturing industries. The plan was a resounding success, managing to qualify more than 10.4 million young people in various fields between 1981 and 1984.
+In 1981, Education Commissioner Boris Serec launched the National Program for Industrial Education and Qualification (Confian acronym: SOPROWIK). This program aimed to qualify the workforce in order to develop industries requiring a higher level of qualification, such as petrochemicals and electronics, as well as to expand the workforce available to existing steel and manufacturing industries. The plan was a resounding success, managing to qualify more than 10.4 million young people in various fields between 1981 and 1984.
 
 However, this was the only social program launched by the government, due to the climate of austerity still in the air following the recently defeated rampant inflation. Kunsekowić refused to add further expenses he deemed unnecessary, citing the poor state of the economy and saying that "we need to cook the stew in the big pot before serving it to the pots." There was an attempt, albeit unsuccessful, to remove the GANTAR program, which was maintained through a hard struggle by the progressive wings of the KNP.
 
@@ -139,9 +138,11 @@ The government received criticism from the left, even from Armotist Democrats wi
 
 #### Labour and Capital Reforms
 
-The Labour and Capital Reform ACCN (Labour and Capital Reform Amendment to the Constitution of the Confian Nation) was a landmark amendment to the 1956 constitution. 
+The Kunsekowić governmetn was behind Labour and Capital Reforms, a package of laws that aimed to challenge Confia's syndicate-based insitutions and structure it around a liberal democratic republic.
 
+The Flexibilization Act altered the Rabošna Karta (Charter of Labour) to establish hiring by private businesses as the "the main concern of this act" instead of self-managed or collectively managed workplaces. The act also ended mandatory syndicate membership, though the KNP wished to end mandatory dues and allow non-syndicate members to benefit from syndicate benefits (e.g. pension funds, unemployment benefits, CBAs).
 
+The Labour and Capital Reform ACCN (Amendment to the Constitution of the Confian Nation) was a landmark amendment to the 1956 constitution. It altered the functioning of how local municipalities were elected from indirect syndicate elections to direct voting.
 
 #### Čirwašata and the fall of Kunsekowić
 
