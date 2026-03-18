@@ -1,6 +1,7 @@
 ---
 type: person
-full_name: Senjap Kunsekowić Žiwoj
+native_name:
+lusitanized_name: Senjap Kunsekowić Žiwoj
 aliases:
   - Kunsekowić
 sex: male

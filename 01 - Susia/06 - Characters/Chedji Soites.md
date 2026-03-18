@@ -1,6 +1,7 @@
 ---
 type: person
-full_name: Chedji Jaroch Soites
+native_name: Chedji Jaroch Soites
+lusitanized_name:
 aliases:
   - Chedji Jaroch
   - Chedji Jaroch Soites
@@ -17,8 +18,9 @@ nationality:
   - "[[Dripstanian Empire|Dripstanian]]"
 death_year: 2034
 death_city:
-death_state: 
-death_country: [[Susia]]
+death_state:
+death_country:
+  - - Susia
 death_cause: Natural causes
 ethnicity: West gaiyanese
 religion: "[[Reformed Armotism]]"
@@ -32,7 +34,7 @@ occupation:
 party: "[[Susian Liberal Party]]"
 political_alignment:
 organization:
-  -
+  - 
 known_for:
   - "[[Soites Group]]"
 historical_period:

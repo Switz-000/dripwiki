@@ -1,6 +1,7 @@
 ---
 type: person
-full_name: Lenseka Japlenowina Katinnaja
+native_name:
+lusitanized_name: Lenseka Japlenowina Katinnaja
 aliases:
   - Japlenowina
 summary:

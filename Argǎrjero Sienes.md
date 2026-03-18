@@ -1,4 +1,0 @@
----
-aliases:
-  - Ergagério Sienes
----

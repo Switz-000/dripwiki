@@ -1,8 +1,9 @@
 ---
 type: person
-full_name: Armadesh Versij
+lusitanized_name: Armadesh Versij
+native_name: Armadesh Versij
 aliases: Versij
-summary: "Dripstanian philosopher, lawyer, and natural rights theorist (1801–1844) whose writings formed the philosophical foundation of the Susian republic. He served as Presiding Councillor of the Federated Provinces of Galil during the Liberal Revolts and was publicly executed by Emperor Jartes II following the republic's defeat. Venerated in Susian civic culture as the primary martyr of liberty."
+summary: Dripstanian philosopher, lawyer, and natural rights theorist (1801–1844) whose writings formed the philosophical foundation of the Susian republic. He served as Presiding Councillor of the Federated Provinces of Galil during the Liberal Revolts and was publicly executed by Emperor Jartes II following the republic's defeat. Venerated in Susian civic culture as the primary martyr of liberty.
 birth_year: 1801
 birth_city: "[[Kruie ro Yietre]]"
 birth_state: "[[Vitrika]]"

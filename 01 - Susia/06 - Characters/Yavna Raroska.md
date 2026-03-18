@@ -1,6 +1,7 @@
 ---
 type: person
-full_name: [[Yavna Raroska]]
+native_name:
+lusitanized_name: [[Yavna Raroska]]
 aliases:
 summary:
 known_for:
