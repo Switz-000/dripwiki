@@ -6,8 +6,8 @@
 |  2  |  [[Serčev Fimžer]]   | 1962 - 1966 | [[Susian Democratic Union]] |          ?           |
 |  -  |  [[Serčev Fimžer]]   | 1966 - 1970 | [[Susian Democratic Union]] |          -           |
 |  3  | [[Argǎrjero Sienes]] | 1970 - 1974 |  [[Susian Liberal Party]]   |          ?           |
-|  4  |  [[Čǎlsor Bonňar]]   | 1974 - 1978 | [[Susian Democratic Union]] |  [[Filevir Matri]]   |
-|  -  |  [[Čǎlsor Bonňar]]   | 1978 - 1982 | [[Susian Democratic Union]] |  [[Filevir Matri]]   |
+|  4  |  [[ǎlsor Bonár]]   | 1974 - 1978 | [[Susian Democratic Union]] |  [[Filevir Matri]]   |
+|  -  |  [[ǎlsor Bonár]]   | 1978 - 1982 | [[Susian Democratic Union]] |  [[Filevir Matri]]   |
 |  5  |  [[Filevir Matri]]   | 1982 - 1986 | [[Susian Democratic Union]] |          ?           |
 |  6  |  [[Filňar Čantij]]   | 1986 - 1990 |  [[Susian Liberal Party]]   |          ?           |
 |  -  |  [[Filňar Čantij]]   | 1990 - 1994 |  [[Susian Liberal Party]]   |          -           |
