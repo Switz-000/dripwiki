@@ -19,8 +19,11 @@ youth_wing:
 paramilitary:
 
 ideology:
+	-
 political_position:
-factions:
+	-
+wings:
+	-
 
 national_affiliation:
 regional_affiliation:
