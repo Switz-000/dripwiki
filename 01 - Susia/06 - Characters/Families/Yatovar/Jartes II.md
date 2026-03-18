@@ -44,7 +44,7 @@ In 1840, a general assembly in [[Neoveli]] proclaimed the [[Federated Provinces 
 
 The war dragged on for years as brutal guerrilla warfare. Jartes II, unable to win militarily, secretly contacted Satratonie and offered him land, money, and a royal pardon in exchange for switching sides. Satratonie defected. The fort at [[Jaffnidia]] fell, the republic was split, and imperial troops entered Neoveli in 1844. Paroska, Versij, and the entire republican leadership were publicly executed.
 
-After the revolts, Jartes enacted limited political reforms, including Universal Male Suffrage, as a concession to prevent further unrest.
+After the revolts, Jartes enacted limited political reforms, including universal male suffrage, as a concession to prevent further unrest.
 
 ### Incrian Expeditions
 

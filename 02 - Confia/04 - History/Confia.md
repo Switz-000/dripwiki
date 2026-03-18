@@ -6,9 +6,9 @@ goverment_type:
   - Semi-parliamentary
   - Syndicalist
   - Republic
-population_2070: 83000000
-population_2000: 68000000
-population_1970:
+population_2070:
+population_2000: 83000000
+population_1970: "68000000"
 population_1954: 47000000
 religion: Armotism
 languages: Confian
@@ -17,7 +17,7 @@ international_organizations:
   - "[[ONDD]]"
   - "[[Lasman Economic Initiative]]"
   - "[[Tekuri Ljas Accord]]"
-capital: Imgospalje
+capital: "[[Imgospalje]]"
 major_cities:
 continent: Dripstan
 borders_east:
@@ -47,7 +47,7 @@ During the Second Gaiyan Migration (c. 1793-1801), The Racpalian immigrants were
 
 As a way to remedy this issue, Empress Veronique I sanctioned the Act of Rural Properties (1796), which established rules and limits for the occupation and possession of territories conquered from the Konphs beyond the Xth parallel. The act gave priority of occupation to the Racpalians, aiming to combat the problem of overpopulation in Susia and occupying the territories to the east for the Empire, expanding its domains and defeating the Konphs. The act sanctioned a tax of 30,000 drips per hectare for private landowners of West Gaiyanese origin, discouraging Susian landowners from holding land for lease or speculation. However, these lands were sold at government-subsidized prices to Racpalian families, with some being set aside for urban development.
 
-During the occupation period, families from the lower Dripstanian aristocracy sold their lands, which they owned before the act, to the Racpalian mežnuci, as they were the only ones able to acquire them. Thus, the first [[ragged sleeves]] were born. Instead of using these lands for agricultural production, these merchants negotiated with the General Government to integrate them into urban development lands in exchange for privileges when establishing businesses, such as exemption from property taxes and, in some cases, legally enforced monopolies.
+During the occupation period, families from the lower Dripstanian aristocracy sold their lands, which they owned before the act, to the Racpalian mežnuci, as they were the only ones able to acquire them. Thus, the first [[Ragged-sleeve|ragged-sleeves]] were born. Instead of using these lands for agricultural production, these merchants negotiated with the General Government to integrate them into urban development lands in exchange for privileges when establishing businesses, such as exemption from property taxes and, in some cases, legally enforced monopolies.
 
 ### Período dripstaniano (1786 - 1927)
 
