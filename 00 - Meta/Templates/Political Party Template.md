@@ -1,16 +1,21 @@
 ---
 type: organization
 name:
+native_name:
 abbreviation:
 aliases:
 
+status:
 founded_by:
 founded:
-
 dissolved:
+
 merger_of:
 split_from:
 merged_into:
+
+banned_by:
+legalized_by:
 
 headquarters:
 newspaper:
@@ -25,23 +30,7 @@ political_position:
 wings:
 	-
 
+international_affiliation:
 national_affiliation:
 regional_affiliation:
-
-goverment_type:
-population_2070:
-population_2000:
-population_1970:
-population_1954:
-religion:
-languages:
-currency:
-international_organizations:
-capital:
-major_cities:
-continent:
-borders_east:
-borders_west:
-borders_north:
-borders_south:
 ---
