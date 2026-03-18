@@ -6,13 +6,17 @@ lusitanized_name: Ergagério Sienes
 summary:
 known_for:
   - 
-sex:
+sex: Male
 birth_year:
-birth_city:
-birth_state:
-birth_country:
+birth_city: "[[Duolij]]"
+birth_state: "[[Postia]]"
+birth_country: "[[Dripstanian Empire]]"
 citizenship:
+  - "[[Dripstanian Empire|Dripstanian]]"
+  - "[[Susia|Susian]]"
 nationality:
+  - "[[Dripstanian Empire|Dripstanian]]"
+  - "[[Susia|Susian]]"
 death_year:
 death_city:
 death_state:
@@ -40,11 +44,11 @@ awards:
 occupation:
   - 
 party:
-  - 
+  - "[[Susian Liberal Party]]"
 political_alignment:
   - 
 organization:
-  - 
+  - "[[Liberty and Fatherland Movement]]"
 residence:
 family:
 spouse:

@@ -24,13 +24,13 @@ borders_south:
   - "[[Koštanože]]"
 borders_west:
   - "[[Susia]]"
-landlocked:
+landlocked: false
 climate:
 topography:
 rivers:
   - "[[Lasman River]]"
 gdp_per_capita_2070:
-has_fez:
+has_fez: false
 yarnojtes_fez:
 ---
 
