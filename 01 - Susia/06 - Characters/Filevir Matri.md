@@ -116,7 +116,7 @@ tags:
   - law
 ---
 
-**Filevir Matri** (1924–2002) was a Susian lawyer, statesman, and politician who served as the fifth President of Susia from 1982 to 1986. He came to the presidency after a long career in Postian and federal politics: governor of [[Postia]] during the republic's founding decade, senator, [[Secretary of Justice]] under [[Serčev Fimžer]], and Vice President under [[Čǎlsor Bonňar]]. He is generally remembered as a competent but unremarkable president, sandwiched between a war hero and an idealist, whose achievements were either attributed to his predecessor or claimed by administrations that came after him.
+**Filevir Matri** (1924–2002) was a Susian lawyer, statesman, and politician who served as the fifth President of Susia from 1982 to 1986. He came to the presidency after a long career in Postian and federal politics: governor of [[Postia]] during the republic's founding decade, senator, [[Secretary of Justice]] under [[Serčev Fimžer]], and Vice President under [[ǎlsor Bonár]]. He is generally remembered as a competent but unremarkable president, sandwiched between a war hero and an idealist, whose achievements were either attributed to his predecessor or claimed by administrations that came after him.
 
 ## Early Life and Education
 
@@ -144,7 +144,7 @@ In 1966, Fimžer appointed him [[Secretary of Justice]], a natural fit for a law
 
 His four years in the Senate under [[Argǎrjero Sienes]] were defined by growing frustration. Matri was a consistent and vocal critic of Sienes' [[Detente Policy|détente]] approach toward [[Confia]], arguing that negotiating with the Lorelaj government from a position of strategic weakness was not diplomacy but capitulation. When the [[Sutsa-Fuhu Civil War|Sutsa-Fuhu civil war]] unfolded and Sienes hesitated to intervene, Matri's position within the FVS hardened into something closer to contempt. He had spent his career arguing that any concession to syndicalism invited further encroachment. Sienes had offered years of concessions and received encirclement in return.
 
-By the time [[Čǎlsor Bonňar]] was building his presidential campaign in 1974, Matri was one of the most recognizable FVS figures in federal politics: a former governor, a former cabinet secretary, a sitting senator, and a man whose anti-syndicalist record was unimpeachable. He was fifty years old. The man who had fought the syndicalists in Postia would now fight them on the continent.
+By the time [[ǎlsor Bonár]] was building his presidential campaign in 1974, Matri was one of the most recognizable FVS figures in federal politics: a former governor, a former cabinet secretary, a sitting senator, and a man whose anti-syndicalist record was unimpeachable. He was fifty years old. The man who had fought the syndicalists in Postia would now fight them on the continent.
 
 ## Vice Presidency (1974–1982)
 
@@ -205,7 +205,7 @@ The more considered assessment is that he governed adequately through a period t
 Filevir Matri died in Duolij in 2002 at seventy-eight years old.
 
 ## See Also
-- [[Čǎlsor Bonňar]]
+- [[ǎlsor Bonár]]
 - [[Filňar Čantij]]
 - [[Argǎrjero Sienes]]
 - [[Serčev Fimžer]]
