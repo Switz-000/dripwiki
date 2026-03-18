@@ -1,21 +1,21 @@
 ---
 type: organization
-name:
+name: Free Farmers League
 native_name:
 abbreviation:
 aliases:
 
-status:
+status: dissolved
 founded_by:
-founded:
-dissolved:
+founded: 1932
+dissolved: 1994
 
 merger_of:
 split_from:
 merged_into:
 
 banned_by:
-legalized_by:
+legalized_by: 1954
 
 headquarters:
 newspaper:
@@ -26,13 +26,13 @@ paramilitary:
 ideology:
 	-
 political_position:
-	-
+	- Right
 wings:
 	-
 
 area_served:
 
 international_affiliation:
-national_affiliation:
+national_affiliation: [[Susian Democratic Union]]
 regional_affiliation:
 ---

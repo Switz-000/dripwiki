@@ -1,11 +1,11 @@
 ---
 type: organization
-name:
-native_name:
-abbreviation:
+name: Party of the Republic
+native_name: Pačese ro Virspruje
+abbreviation: PrV
 aliases:
 
-status:
+status: 1954
 founded_by:
 founded:
 dissolved:
@@ -18,9 +18,9 @@ banned_by:
 legalized_by:
 
 headquarters:
-newspaper:
+newspaper: [[The Versijian]]
 think_tank:
-youth_wing:
+youth_wing: [[Young Versijians]]
 paramilitary:
 
 ideology:
