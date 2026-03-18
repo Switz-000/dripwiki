@@ -5,8 +5,8 @@ native_company_name: Žošewošei Weriesse
 company_type: Syndicalized conglomerate
 founded: 1852
 founded_by: Jagan Iliož
-founding_place: Detujegrad
-headquarters: Detujegrad
+founding_place: "[[Detujehar]]"
+headquarters: "[[Detujehar]]"
 market_cap:
 yarnojte: false
 yarnojte_granted:
