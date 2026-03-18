@@ -45,7 +45,7 @@ occupation:
   - 
 party: "[[Progressive Republican Party]]"
 political_alignment:
-  - 
+  - "[[Social democracy]]"
 organization:
   - 
 residence:
@@ -62,10 +62,10 @@ offices:
     notes:
   - title: Mayor of Imgospalje
     employer: "[[Imgospalje|Imgospalje City Government]]"
-    start: 1978
-    end: 1980
-    appointer: "[[National Assembly of Confian Syndicates]]"
-    party: "[[Progressive Republican Party]]]"
+    start: 1996
+    end: 2002
+    appointer: "[[1996 Imgospalje mayoral elections]]"
+    party: "[[Us, Liberals!]]]"
     notes:
 total_sentence:
 criminal_charges:

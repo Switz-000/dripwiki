@@ -1,5 +1,5 @@
 ---
-official_name:
+official_name: Democratic Republic of Zaphonia
 type: country
 goverment_type:
   - Republic
@@ -15,11 +15,19 @@ currency:
 international_organizations:
 capital: "[[Tahuni]]"
 major_cities:
-continent:
+continent: Dripstan
 borders_east:
+  - "[[Kamino]]"
 borders_west:
+  - "[[Susia]]"
+  - "[[Sutsa-Fuhu]]"
 borders_north:
+  - "[[Confia]]"
 borders_south:
+  - "[[Chongzha]]"
+  - "[[Ditania]]"
+  - "[[Cabunire]]"
+  - "[[Macoshill]]"
 ---
 
 

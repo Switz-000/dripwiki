@@ -1,6 +1,6 @@
 ---
 type: city
-country: "[[Ditania]]"
+country: "[[Žartonnistan]]"
 state:
 population_2070:
 population_2000:
