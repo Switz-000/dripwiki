@@ -1,6 +1,7 @@
 ---
 type: person
-full_name: Katerina Armoljubca Graljeewina Nožeslawna
+native_name:
+lusitanized_name: Katerina Armoljubca Graljeewina Nožeslawna
 aliases:
   - KAN
 sex: female

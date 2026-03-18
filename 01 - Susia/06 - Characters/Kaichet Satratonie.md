@@ -1,6 +1,7 @@
 ---
 type: person
-full_name: "[[Kaichet Satratonie]]"
+native_name: Kaichet Satratonie
+lusitanized_name: Kaichet Satratonie
 aliases:
 summary:
 known_for:

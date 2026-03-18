@@ -1,6 +1,7 @@
 ---
 type: person
-full_name: Vernoique Yatovar
+native_name:
+lusitanized_name: Vernoique Yatovar
 aliases:
 summary:
 known_for:

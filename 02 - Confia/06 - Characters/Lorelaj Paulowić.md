@@ -1,6 +1,7 @@
 ---
 type: person
-full_name: Lorelaj Paulowić Roždawoenni
+native_name:
+lusitanized_name: Lorelaj Paulowić Roždawoenni
 aliases:
   - Paulović
 sex: male

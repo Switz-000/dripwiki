@@ -1,6 +1,7 @@
 ---
 type: person
-full_name: Boris Rodočewić Serec
+native_name:
+lusitanized_name: Boris Rodočewić Serec
 aliases:
   - Serec
 sex: male

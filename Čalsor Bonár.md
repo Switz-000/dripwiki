@@ -1,19 +1,20 @@
 ---
-type: person
-native_name:
-lusitanized_name:
 aliases:
+  - Cássio Bonfim
+type: person
+native_name: Čǎlsor Bonňar
+lusitanized_name: Čalsor Bonár
 summary:
 known_for:
   - 
-sex: Male
-birth_year: 1731
+sex:
+birth_year:
 birth_city:
 birth_state:
 birth_country:
 citizenship:
 nationality:
-death_year: 1782
+death_year:
 death_city:
 death_state:
 death_country:
@@ -47,13 +48,8 @@ organization:
   - 
 residence:
 family:
-spouse: "[[Empress Veronique]]"
+spouse:
 children:
-  - "[[Countess Valista|Valista]]"
-  - "[[Prince Capraže|Capraže]]"
-  - "[[King Colin|Colin]]"
-  - "[[Empress Yaneoli|Yaneoli]]"
-  - "[[Princess Natesse|Natesse]]"
 offices:
   - title:
     start:

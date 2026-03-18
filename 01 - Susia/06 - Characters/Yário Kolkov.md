@@ -1,14 +1,14 @@
 ---
 type: person
-full_name: Yário Kolkov
+native_name: Yaroch Kolkova
+lusitanized_name: Yário Kolkov
 aliases:
-summary: "Susian philosopher and engineer (1960–2011) born in New Duloc, Postia, whose theory of democracy as a living adaptive system became the intellectual foundation of the Great Transition and the techno-federative constitution. He worked at Nayotai (1982–1987) and Troli Ustaras (1987–1989) before beginning his writing career, and spent his later years warning against the institutional capture of his own ideas by the corporations he had criticized. He died of lung cancer in 2011."
+summary: Susian philosopher and engineer (1960–2011) born in New Duloc, Postia, whose theory of democracy as a living adaptive system became the intellectual foundation of the Great Transition and the techno-federative constitution. He worked at Nayotai (1982–1987) and Troli Ustaras (1987–1989) before beginning his writing career, and spent his later years warning against the institutional capture of his own ideas by the corporations he had criticized. He died of lung cancer in 2011.
 known_for:
   - "[[Kolkovianism]]"
   - "[[Letters to a Dead Republic]]"
   - "[[Evolution of Governance]]"
   - "[[The Great Transition]]"
-
 sex: Male
 birth_year: 1960
 birth_city: "[[New Duloc]]"
@@ -19,17 +19,14 @@ citizenship:
 nationality:
   - "[[Susia|Susian]]"
   - "[[Confia|Confian]]"
-
 death_year: 2011
 death_city: "[[New Duloc]]"
 death_state: "[[Postia]]"
 death_country: "[[Susia]]"
 death_cause: Lung cancer
-
 ethnicity: East Gaiyanese
 religion:
 enhanced: false
-
 education:
   - degree: Engineering
     institution: "[[University of New Duloc]]"
@@ -37,7 +34,6 @@ education:
   - degree: Philosophy
     institution: "[[University of New Duloc]]"
     year:
-
 written_works:
   - title: "[[Letters to a Dead Republic]]"
     publication_date: 1990
@@ -55,9 +51,7 @@ written_works:
     publication_date: 2008
     genre: Political philosophy
     notes: Final completed book before his death.
-
 awards:
-
 occupation:
   - Philosopher
   - Engineer
@@ -65,12 +59,10 @@ occupation:
 party:
 political_alignment:
 organization:
-
 residence: "[[New Duloc]]"
 family:
 spouse:
 children:
-
 offices:
   - title: Engineer
     start: 1987
@@ -84,10 +76,8 @@ offices:
     appointer:
     party:
     notes: Worked at Nayotai after graduating. Left after five years.
-
 total_sentence:
 criminal_charges:
-
 era:
   - post-war
   - new-age

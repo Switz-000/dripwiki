@@ -1,6 +1,7 @@
 ---
 type: person
-full_name: Mariana Marianowina Turreš Ljeranna
+native_name:
+lusitanized_name: Mariana Marianowina Turreš Ljeranna
 aliases:
   - Torres
 summary:
