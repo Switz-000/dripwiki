@@ -3,7 +3,6 @@ type: institution
 aliases:
   - Sorzenkos
 ---
-
 A **Sorzenko** is a civic shooting club in [[Susia]], combining firearms training, communal defense, recreational shooting, and social functions under a single institution. Sorzenkos are among the oldest continuous civic institutions in Susian history, predating the [[Dripstanian Empire|Empire]] itself, and remain active throughout the country as of 2080. They are particularly prevalent in rural areas, smaller towns, and the eastern states of [[Misocévia]], [[Sužielaj]], and [[Troli]]. In Susian civic life, membership in a Sorzenko carries mutual obligations: members are expected to be capable of defending one another, and the bonds formed within them frequently cross class lines in ways that few other institutions produce.
 
 ## History

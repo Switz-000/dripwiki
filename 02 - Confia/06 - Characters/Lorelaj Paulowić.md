@@ -31,7 +31,7 @@ occupation:
 party: "[[Union of Confian Syndicalists]]"
 political_alignment:
   - "[[Orthodox Syndicalism]]"
-  - "[[Paulović Model]]"
+  - "[[Paulowić Model]]"
 organization:
   - 
 known_for:

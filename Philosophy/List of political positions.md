@@ -103,7 +103,7 @@ The elimination of tariffs and trade barriers between nations. Associated across
 
 ### Protectionism
 
-The use of tariffs, quotas, and trade barriers to shield domestic industry. The dominant trade stance of Confia through the Paulović era and the Serec government; present in varying degrees across most Dripstanian economies.
+The use of tariffs, quotas, and trade barriers to shield domestic industry. The dominant trade stance of Confia through the Paulowić era and the Serec government; present in varying degrees across most Dripstanian economies.
 
 ### Mercantilism
 
@@ -295,7 +295,7 @@ The position that mandatory military service is a civic duty, a social instituti
 
 ### Militarism
 
-High military expenditure and permanent readiness as a governing priority. Associated across Dripstan with states facing existential pressure: Susia during the Continental Divide, the Paulović government in Confia, and [[Dripland]] during the Wars of the Forest.
+High military expenditure and permanent readiness as a governing priority. Associated across Dripstan with states facing existential pressure: Susia during the Continental Divide, the Paulowić government in Confia, and [[Dripland]] during the Wars of the Forest.
 
 ### Intelligence Expansionism
 
