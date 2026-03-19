@@ -7,9 +7,10 @@ As unions and syndicates began forming in Confia during the urbanization boom of
 # Variants
 
 ### Orthodox Syndicalism
-Also known as Kieronnean Syndicalism, it is the strictest form of syndicalism.
+Orthodox Syndicalism, also known as Kieronnean Syndicalism, it is the strictest form of syndicalism, calling for direct collective control over all industries and all levels of government.
 
-### Reformed Syndicalism
+### Revised Syndicalism
+Revisedy
 
 ### New Syndicalism
 New Syndicalism rejects the syndicalist economic framework of self-management entirely, postulating that syndicates should focus on improving working conditions and securing benefits and good wages for workers.
