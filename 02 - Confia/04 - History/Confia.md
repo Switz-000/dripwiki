@@ -6,10 +6,10 @@ goverment_type:
   - Semi-parliamentary
   - Syndicalist
   - Republic
-population_2070:
-population_2000: 83000000
-population_1970: "68000000"
-population_1954: 47000000
+population_2070: 190000000
+population_2000: 109000000
+population_1970: "87000000"
+population_1954: 55000000
 religion: Armotism
 languages: Confian
 currency: New Swobo (H¢)
