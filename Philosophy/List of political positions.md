@@ -193,7 +193,7 @@ Priority of personal freedom and self-determination over collective demands. The
 
 The exclusion of religious authority from public and political life. The operating norm of the Susian federal government; largely absent in Pierej and Yakiria.
 
-### Armotism
+### Armotist Confessionalism
 
 The political expression of Armotist religious values in governance. Distinct from private religious practice; refers specifically to the position that the state should reflect Armotist moral teaching in law and policy. Active in Confia's [[Armotist Democratic Party]] and in parts of the Susian Coalition.
 
