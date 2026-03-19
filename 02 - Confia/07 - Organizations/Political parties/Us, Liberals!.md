@@ -1,28 +1,27 @@
 ---
 type: organization
-name: Armotist Democratic Party
-native_name: Armockei Ljudewlaššen Parcesse
-abbreviation: ALjP
+name: Us, Liberals!
+native_name: Mi, Niteraljci!
+abbreviation: MN!
 aliases:
 status: Active
 founded_by:
-  - "[[Boris Serec]]"
-founded: 1980
+founded:
 dissolved:
 merger_of:
-split_from: "[[Confian Liberal Party]]"
+split_from:
 merged_into:
 banned_by:
 legalized_by:
-headquarters: "[[Imgospalje]]"
+headquarters:
 newspaper:
 think_tank:
 youth_wing:
 paramilitary:
 ideology:
-  - Armotist Democracy
+  - 
 political_position:
-  - Centre-right
+  - 
 wings:
   - 
 area_served:

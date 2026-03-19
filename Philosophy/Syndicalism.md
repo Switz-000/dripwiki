@@ -12,5 +12,7 @@ Also known as Kieronnean Syndicalism, it is the strictest form of syndicalism.
 ### Reformed Syndicalism
 
 ### New Syndicalism
+New Syndicalism rejects the syndicalist economic framework of self-management entirely, postulating that syndicates should focus on improving working conditions and securing benefits and good wages for workers.
 
 ### Progressivism
+Also known as Susian Syndicalism
