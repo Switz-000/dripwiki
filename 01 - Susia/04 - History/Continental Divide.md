@@ -148,7 +148,7 @@ Bonár, a general and sponsor of the [[Federal Loyalty Act]], won the 1974 elect
 
 In 1974, Susia started a immense military buildup, coordinating with others [[ONDD]] allies, resumed support for anti-syndicalists in countries like Zaphonia, Ariwaro and Garecia, and most importantly planing what would've become [[Operation Red Sand]].
 
-In 1975, [[Lorelaj Paulović]] caught notice of Susia's actions and sent a ultimatum: Cease all operations in Syndicalist nations, halt ONDD military buildup, or in 100 days, Confia would take military action. Summits were held in Kamino, between the two blocs, hopefully to find a compromise. While Paulović attended these summits, Bonár refused to show up and negotiations soon collapsed. 
+In 1975, [[Lorelaj Paulović]] caught notice of Susia's actions and sent a ultimatum: Cease all operations in Syndicalist nations, halt ONDD military buildup, or in 100 days, Confia would take military action. Summits were held in Kamino, between the two blocs, hopefully to find a compromise. While Paulowić attended these summits, Bonár refused to show up and negotiations soon collapsed. 
 
 Susia's st[[Lorelaj Paulowić]]onfia's bluff with a quick and decisive operation, capturing the de facto confian military governor of Zaphonia, [[Pjetrik Purpić]]. Then, allowing the anti-syndicalist brigades in Zaphonia to overwhelm the poorly organized zaphonian army in Tahuni and take back control. After Zaphonia fell, Confia would be completely encircled by the [[ONDD]] and hopefully would back down, agreeing to Susian demands. As a three front war would be suicidal to Confia.
 
@@ -162,11 +162,11 @@ In the morning Bonár went to national television and broadcasted his demands to
 
 > *Main article: [[Continental War]]*
 
-The immediate trigger for open war was Susia's direct kidnapping [[Pjetrik Purpić]] of  intervention in the [[Zaphonian Civil War]], committing forces rather than proxies to support the syndicalist faction. It was Confia, not Susia, that formally declared war, with [[Lorelaj Paulović]] delivering the declaration in a public address. Paulovic had by this period exhibited signs of significant mental deterioration over the preceding years; those present at the declaration described the address itself as unusually lucid and deliberate, a quality that observers found more unsettling than a deteriorated performance would have been.
+The immediate trigger for open war was Susia's direct kidnapping [[Pjetrik Purpić]] of  intervention in the [[Zaphonian Civil War]], committing forces rather than proxies to support the syndicalist faction. It was Confia, not Susia, that formally declared war, with [[Lorelaj Paulović]] delivering the declaration in a public address. Paulowić had by this period exhibited signs of significant mental deterioration over the preceding years; those present at the declaration described the address itself as unusually lucid and deliberate, a quality that observers found more unsettling than a deteriorated performance would have been.
 
 Bonár's go[[Lorelaj Paulowić]]ilitarily. The Susian strategic approach centered on economic strangulation rather than direct territorial assault on Confia. By seizing [[Sutsa-Fuhu]] and [[Zaphonia]], Susia aimed to sever Confia's primary economic corridors and isolate the syndicalist government from its regional supply chains. While this southern and eastern pressure tightened Confia's position, [[Kapiogg]] and [[Pierej]] pinned Confian forces in extended trench warfare along the northern front, preventing redeployment.
 
-The combination of economic isolation, northern attrition, and the collapse of the [[Pact of Imgospalje]] bloc's cohesion produced the fall of Paulovic's government in 1977. The war ended with the defeat of the syndicalist bloc and the conditional surrender of Confia's hard-line leadership.
+The combination of economic isolation, northern attrition, and the collapse of the [[Pact of Imgospalje]] bloc's cohesion produced the fall of Paulowić's government in 1977. The war ended with the defeat of the syndicalist bloc and the conditional surrender of Confia's hard-line leadership.
 
 ## Aftermath
 

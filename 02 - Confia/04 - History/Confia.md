@@ -55,7 +55,7 @@ After the gradual occupation of Confian territory, in 1786 the General Governmen
 
 ## The Paulowić Era (1956-1977)
 
-After the [[Enabling Amendment]], Paulović effectively consolidated his power as a dictator, merging the roles of Prime Minister and President into the Leader of the Nation.
+After the [[Enabling Amendment]], Paulowić effectively consolidated his power as a dictator, merging the roles of Prime Minister and President into the Leader of the Nation.
 
 The Paulowić era was marked by the [[Continental Divide]] against Susia, where both countries attempted to spread their ideological ideals throughout the world, primarily through proxy wars. The main conflicts include the [[Bridge War]], the [[Sutsa-Fuhu Civil War]], and the [[Pierej Crisis]].
 
