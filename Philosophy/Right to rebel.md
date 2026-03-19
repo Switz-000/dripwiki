@@ -2,4 +2,4 @@
 aliases:
   - right to rebel
 ---
-the right to rebel isx
+The right to rebel is one of the fundamental rights in [[Armadesh Versij]]'s natural rights philosophy.

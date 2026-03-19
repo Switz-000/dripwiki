@@ -33,7 +33,7 @@ party: "[[Syndicalist League]]"
 political_alignment:
   - "[[New Syndicalism]]"
 organization:
-  - 
+  - "[[Organization of the Syndicalist Youth of the Confian Nation]]"
 known_for:
   - 
 historical_period:

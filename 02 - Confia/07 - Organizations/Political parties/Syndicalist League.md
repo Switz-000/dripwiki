@@ -17,7 +17,7 @@ merged_into:
 banned_by:
 legalized_by:
 headquarters: "[[Carlotopolis]]"
-newspaper: Voice of the Syndicalist
+newspaper: Voice of the Syndicate
 think_tank: Eriežera Lensekowina Foundation
 youth_wing: Young Syndicalists of Confia
 paramilitary:
