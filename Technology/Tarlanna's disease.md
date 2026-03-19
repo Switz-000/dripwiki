@@ -1,0 +1,1 @@
+**Tarlanna's disease** is the in-universe term for Alzheimer's disease.
