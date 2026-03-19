@@ -6,10 +6,10 @@ goverment_type:
   - Techno-Corporate
   - Presidential
   - Republic
-population_2070:
-population_2000:
-population_1970:
-population_1954:
+population_2070: 247140394
+population_2000: 168903014
+population_1970: 93403910
+population_1954: 74598676
 religion: "[[Reformed Armotism]]"
 languages: "[[Susian language|Susian]]"
 currency: "[[Susian monetary system|Federal and Transactional Drip]]"
@@ -25,11 +25,18 @@ major_cities:
   - "[[Soiteslaj]]"
   - "[[New Duloc]]"
   - "[[Donetruže]]"
-continent:
+continent: Dripstan
 borders_east:
+  - "[[Confia]]"
+  - "[[Zaphonia]]"
+  - "[[Drippalia]]"
 borders_west:
+  - "[[Sea of Galil]]"
 borders_north:
+  - "[[Sea of Galil]]"
 borders_south:
+  - "[[Astofayan]]"
+  - "[[Sutsa-Fuhu]]"
 ---
 
 

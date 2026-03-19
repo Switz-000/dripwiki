@@ -1,31 +1,31 @@
 ---
 type: person
 native_name:
-lusitanized_name: [[Yavna Raroska]]
+lusitanized_name: "[[Yavna Raroska]]"
 aliases:
 summary:
 known_for:
-  - [[Kolkov Interview 2009]]
+  - "[[Kolkov Interview 2009]]"
 sex: female
 birth_year: 1968
-birth_city: [[Arkaime]]
-birth_state: [[Dripia]]
-birth_country: [[Susia]]
+birth_city: "[[Arkaime]]"
+birth_state: "[[Dripia]]"
+birth_country: "[[Susia]]"
 citizenship:
   - "[[Susia|Susian]]"
 nationality:
   - "[[Susia|Susian]]"
 death_year: 2042
-death_city: [[New Kentu]]
-death_state: [[Dripia]]
-death_country: [[Susia]]
+death_city: "[[Neoveli]]"
+death_state: "[[Dripia]]"
+death_country: "[[Susia]]"
 death_cause: Natural causes
 ethnicity: West Gaiyanese
-religion: [[Reformed Armotism]]
+religion: "[[Reformed Armotism]]"
 enhanced: false
 education:
   - degree: Political Science
-    institution: [[University of New Kentu]]
+    institution: "[[University of New Kentu]]"
     year: 1984
 written_works:
   - title:

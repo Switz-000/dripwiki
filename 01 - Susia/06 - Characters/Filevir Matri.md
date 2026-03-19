@@ -1,4 +1,4 @@
-	---
+---
 type: person
 native_name: Filevir Matri
 lusitanized_name: Filevir Matri
@@ -48,6 +48,7 @@ occupation:
   - Businessman
 party:
   - "[[Susian Democratic Union]]"
+  - "[[White Stork Party]]"
 political_alignment:
   - 
 organization:
