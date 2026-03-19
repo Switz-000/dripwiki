@@ -18,7 +18,7 @@ merged_into:
 banned_by:
 legalized_by: 1954
 
-headquarters: [[Duolij]]
+headquarters: "[[Duolij]]"
 newspaper:
 think_tank:
 youth_wing:
@@ -35,6 +35,6 @@ wings:
 area_served: "[[Postia]]"
 
 international_affiliation:
-national_affiliation: [[Susian Democratic Union]]
+national_affiliation: "[[Susian Democratic Union]]"
 regional_affiliation:
 ---
