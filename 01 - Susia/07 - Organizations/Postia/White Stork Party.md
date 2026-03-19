@@ -4,7 +4,7 @@ name: White Stork Party
 native_name:
 abbreviation:
 aliases:
-	-Storks
+-Storks
 
 status: active
 founded_by:
