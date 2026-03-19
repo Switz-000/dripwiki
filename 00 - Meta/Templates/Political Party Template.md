@@ -24,11 +24,11 @@ youth_wing:
 paramilitary:
 
 ideology:
-	-
+-
 political_position:
-	-
+-
 wings:
-	-
+-
 
 area_served:
 
