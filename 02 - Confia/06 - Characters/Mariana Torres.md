@@ -23,7 +23,7 @@ death_year: "1988"
 death_city: "[[Carlotopolis]]"
 death_state: "[[Karlotopol']]"
 death_country: "[[Confia]]"
-death_cause: Alzheimer's disease
+death_cause: "[[Tarlanna's disease]]"
 ethnicity: "[[East Gaiyanese]]"
 religion: "[[Armotist Church of the Confian Synod]]"
 enhanced: false

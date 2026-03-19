@@ -9,8 +9,7 @@ A little discussed factor about Kieronne's writings is his [[Wanaser Gerzan|Gerz
 
 ### Orthodox Syndicalism
 
-Orthodox Syndicalism, also known as Kieronnean Syndicalism, it is the strictest form of syndicalism, calling for direct collective control over all industries and all levels of government.
-
+Orthodox Syndicalism, also known as Kieronnean Syndicalism, it is the strictest form of syndicalism, calling for direct collective control over all industries and all levels of government. It was nominally pursues by the Paulowić regime during its initial years, but this denomination was under heavy criticism from Orthodox Syndicalists, albeit repressed, due to Paulowić's use of state companies. Eventually, Paulowić broke from Orthodoxy and opted for Mixed Planning.
 ## Paulowić model
 
 Known by its supporters as "Syndicalism as pragmatically applied", the Paulowić model is not a set doctrine of ideas, but the particular policies carried out during [[Lorelaj Paulowić]]'s rule in Confia.

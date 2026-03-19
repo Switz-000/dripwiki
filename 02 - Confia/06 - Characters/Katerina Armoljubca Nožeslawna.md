@@ -31,9 +31,9 @@ occupation:
   - Engineer
 party: "[[Syndicalist League]]"
 political_alignment:
-  - "[[New Syndicalism]]"
+  - "[[Syndicalism#New Syndicalism|New Syndicalism]]"
 organization:
-  - "[[Organization of the Syndicalist Youth of the Confian Nation]]"
+  - "[[Organization of the Syndicalist Youth of the Confian Nation|Organization of the Syndicalist Youth of the Confian Nation (1956-1967)]]"
 known_for:
   - 
 historical_period:
