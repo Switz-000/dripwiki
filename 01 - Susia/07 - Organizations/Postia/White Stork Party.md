@@ -4,7 +4,7 @@ name: White Stork Party
 native_name:
 abbreviation:
 aliases:
--Storks
+- Storks
 
 status: active
 founded_by:
@@ -21,16 +21,16 @@ legalized_by: 1954
 headquarters: [[Duolij]]
 newspaper:
 think_tank:
-	youth_wing:
+youth_wing:
 paramilitary: 
 
 ideology:
-	- conservatism
-	- anti-syndicalism
+- conservatism
+- anti-syndicalism
 political_position:
-	- Centre-right
+- Centre-right
 wings:
-	-
+-
 
 area_served: "[[Postia]]"
 
