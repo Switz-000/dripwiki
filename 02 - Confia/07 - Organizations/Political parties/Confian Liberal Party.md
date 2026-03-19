@@ -8,7 +8,7 @@ status: Defunct
 founded_by:
   - "[[Zanja Banelužni]]"
 founded: 1930
-dissolved: 1996
+dissolved: 1992
 merger_of:
 split_from:
 merged_into: "[[Us, Liberals!]]"

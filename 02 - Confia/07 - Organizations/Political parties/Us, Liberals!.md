@@ -8,7 +8,7 @@ status: Active
 founded_by:
   - "[[Lenseka Japlenowina]]"
   - "[[Saserna Kašdunna ]]"
-founded: 1996
+founded: 1992
 dissolved:
 merger_of:
   - "[[Progressive Republican Party]]"
