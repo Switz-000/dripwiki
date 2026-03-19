@@ -49,7 +49,7 @@ As a way to remedy this issue, Empress Veronique I sanctioned the Act of Rural P
 
 During the occupation period, families from the lower Dripstanian aristocracy sold their lands, which they owned before the act, to the Racpalian mežnuci, as they were the only ones able to acquire them. Thus, the first [[Ragged-sleeve|ragged-sleeves]] were born. Instead of using these lands for agricultural production, these merchants negotiated with the General Government to integrate them into urban development lands in exchange for privileges when establishing businesses, such as exemption from property taxes and, in some cases, legally enforced monopolies.
 
-### Período dripstaniano (1786 - 1927)
+### Dripstanian Period (1786 - 1927)
 
 After the gradual occupation of Confian territory, in 1786 the General Government of the Lands of Confia was established as a way to administer the conquered territories more efficiently. The governor was directly appointed by the Empress, as there were no native aristocrats. As a General Government and not a captaincy or province, Confia did not participate in the Dripstanian Senate, but the governor possessed a degree of autonomy in issuing decrees. This administration was quickly taken over by the mežnuci, who used their negotiation and entrepreneurial skills to expand their businesses and monopolize industries.
 
