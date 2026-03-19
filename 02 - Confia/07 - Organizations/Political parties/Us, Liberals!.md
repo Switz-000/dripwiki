@@ -6,9 +6,13 @@ abbreviation: MN!
 aliases:
 status: Active
 founded_by:
-founded:
+  - "[[Lenseka Japlenowina]]"
+  - "[[Saserna Kašdunna ]]"
+founded: 1996
 dissolved:
 merger_of:
+  - "[[Progressive Republican Party]]"
+  - "[[Confian Liberal Party]]"
 split_from:
 merged_into:
 banned_by:
@@ -19,9 +23,9 @@ think_tank:
 youth_wing:
 paramilitary:
 ideology:
-  - 
+  - Social liberalism
 political_position:
-  - 
+  - Centre
 wings:
   - 
 area_served:
