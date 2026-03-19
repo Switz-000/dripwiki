@@ -66,7 +66,7 @@ offices:
     start: 1996
     end: 2002
     appointer: "[[1996 Imgospalje mayoral elections]]"
-    party: "[[Us, Liberals!]]"
+    party: "[[Mi, Niteraljci!]]"
     notes:
 total_sentence:
 criminal_charges:

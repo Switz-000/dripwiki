@@ -11,7 +11,7 @@ founded: 1930
 dissolved: 1992
 merger_of:
 split_from:
-merged_into: "[[Us, Liberals!]]"
+merged_into: "[[Mi, Niteraljci!]]"
 banned_by: "[[Lorelaj Paulowić]]"
 legalized_by: "[[Bayonet Revolution]]"
 headquarters:

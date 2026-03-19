@@ -8,4 +8,4 @@ population_1975:
 population_1970:
 landlocked: true
 ---
-**Saint Meshon** (Confian: Graž Meššon/Граж Мешшон) is a Confian city located in the state of Karlotopol'. It is mostly known for the National University of Saint Meshon.
+**Saint Meshon** (Confian: Graž Meššon/Граж Мешшон) is a Confian city located in the state of Karlotopol'. It is known for the National College of Medicine, part of the National University of Saint Meshon.

@@ -3,7 +3,7 @@
 | :------------: | :-------------: | :---------------------------: | :-----------------------------: | :----: | --- |
 |    Yaneoli     |                 |                               |                                 | Female |     |
 |     Prazde     |                 |                               |                                 | Female |     |
-|                |     Senjap      |                               |                                 |  Male  |     |
+|                |   Senjap(ka)    |                               |                                 |  Both  |     |
 |                |    Katerina     |                               |                                 | FEmale |     |
 |                |    Erjogala     |                               |                                 |        |     |
 |                |  Armoljub(ca)   |       Lover of Armotos        | [[Confian (language)\|Confian]] |  Both  |     |

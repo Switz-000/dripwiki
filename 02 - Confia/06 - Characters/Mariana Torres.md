@@ -1,7 +1,7 @@
 ---
 type: person
-native_name:
-lusitanized_name: Mariana Marianowina Turreš Ljeranna
+native_name: Mariana Marianowina Turreš Ljeranna
+lusitanized_name: Mariana Torres
 aliases:
   - Torres
 summary:
@@ -91,4 +91,4 @@ era:
 tags:
   -
 ---
-Mariana Marianowina Turreš Ljeranna (Racpalian Alphabet: Марьана Марианощина Турреш Љеранна) was a Confian civil engineer, revolutionary guerilla fighter and politician that served as the 2nd President of the [[Confia|United Syndicates of Confia]].
+**Mariana Marianowina Turreš Ljeranna** (Racpalian Alphabet: Марьана Марианощина Турреш Љеранна) was a Confian civil engineer, revolutionary guerilla fighter and politician that served as the 2nd President of the [[Confia|United Syndicates of Confia]].
