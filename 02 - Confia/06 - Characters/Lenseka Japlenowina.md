@@ -54,7 +54,7 @@ family:
 spouse:
 children:
 offices:
-  - title: President of the Council of Comissars of the United Syndicates of Confia
+  - title: President of the Council of Commissars of the United Syndicates of Confia
     employer: "[[Confian National Government]]"
     start: 1978
     end: 1980
