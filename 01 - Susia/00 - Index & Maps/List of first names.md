@@ -4,7 +4,7 @@
 |    Yaneoli     |                 |                               |                                 | Female |     |
 |     Prazde     |                 |                               |                                 | Female |     |
 |                |   Senjap(ka)    |                               |                                 |  Both  |     |
-|                |    Katerina     |                               |                                 | FEmale |     |
+|                |    Katerina     |                               |                                 | Female |     |
 |                |    Erjogala     |                               |                                 |        |     |
 |                |  Armoljub(ca)   |       Lover of Armotos        | [[Confian (language)\|Confian]] |  Both  |     |
 |    Armadesh    |                 |                               |           [[Gaiyan]]            |  Male  |     |
@@ -36,3 +36,5 @@
 |   Velnmojar    |                 |         Voice of God          |                                 |        |     |
 |     Filňar     |                 |                               |                                 |        |     |
 |     Serčev     |                 |                               |                                 |        |     |
+|     Lichev     |                 |      [[Apostle Lichev]]       |                                 |  Male  |     |
+|     Verene     |                 |          [[Verene]]           |                                 | Female |     |
