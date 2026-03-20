@@ -1,39 +1,91 @@
 ---
 type: person
-native_name: Filevir Matri
-lusitanized_name: Filevir Matri
+full_name: Filevir Matri
 aliases:
-summary:
-known_for:
-  - 
+summary: Susian lawyer and politician; fifth President of Susia (1982–1986); also served as Governor of Postia, Senator, Secretary of Justice, and Vice President under Čalsor Bonár; known for early diplomatic groundwork toward the Lasman Economic Initiative and for his lobster table style of politics.
 sex: male
 birth_year: 1924
 birth_city: "[[Duolij]]"
 birth_state: "[[Postia]]"
 birth_country: "[[Dripstanian Empire]]"
 citizenship:
-  - Susian
-  - Dripstanian
+  - "[[Dripstanian Empire|Dripstanian]]"
+  - "[[Susia|Susian]]"
 nationality:
-  - Susian
-  - Dripstanian
+  - "[[Susia|Susian]]"
+  - "[[Dripstanian Empire|Dripstanian]]"
 death_year: 2002
 death_city: "[[Duolij]]"
 death_state: "[[Postia]]"
 death_country: "[[Susia]]"
 death_cause: Natural causes
-ethnicity: West gaiyanese
-religion: "[[Reformed Armotism]]"
-enhanced: false
+ethnicity: West Gaiyanese
+religion: Reformed Armotism
 education:
   - degree: Bachelor in Law
-    institution:
-      - - Imperial University of Duolij
+    institution: "[[University of Duolij]]"
     year: 1948
+occupation:
+  - Politician
+  - Lawyer
+party: "[[Susian Democratic Union]]"
+political_alignment:
+organization:
+  - "[[Susian Democratic Union]]"
+known_for:
+historical_period:
+  - republican-era
+  - continental-divide
+  - post-war
+residence:
 written_works:
-  - title:
-    publication_date:
-    genre:
+spouse: "[[Yavna Matri]]"
+children: Two (unnamed)
+criminal_charges:
+total_sentence:
+enhanced: false
+offices:
+  - title: Governor of Postia
+    employer: "[[Government of Postia]]"
+    start: 1954
+    end: 1962
+    appointer:
+    party: "[[Susian Democratic Union]]"
+    notes:
+  - title: Senator for Postia
+    employer: "[[Susian Senate]]"
+    start: 1962
+    end: 1966
+    appointer:
+    party: "[[Susian Democratic Union]]"
+    notes:
+  - title: Secretary of Justice
+    employer: "[[Susian Federal Government]]"
+    start: 1966
+    end: 1970
+    appointer: "[[Serčev Fimžer]]"
+    party: "[[Susian Democratic Union]]"
+    notes:
+  - title: Senator for Postia
+    employer: "[[Susian Senate]]"
+    start: 1970
+    end: 1974
+    appointer:
+    party: "[[Susian Democratic Union]]"
+    notes:
+  - title: Vice President of Susia
+    employer: "[[Susian Federal Government]]"
+    start: 1974
+    end: 1982
+    appointer:
+    party: "[[Susian Democratic Union]]"
+    notes:
+  - title: President of Susia
+    employer: "[[Susian Federal Government]]"
+    start: 1982
+    end: 1986
+    appointer:
+    party: "[[Susian Democratic Union]]"
     notes:
 awards:
   - title:
@@ -42,175 +94,63 @@ awards:
     granted_by:
     country:
     notes:
-occupation:
-  - Politician
-  - Lawyer
-  - Businessman
-party:
-  - "[[Susian Democratic Union]]"
-  - "[[White Stork Party]]"
-political_alignment:
-  - 
-organization:
-  - 
-residence:
-family: "[[Matri Family]]"
-spouse: "[[Yavna Matri]]"
-children: Two (unamed)
-offices:
-  - title: Governor of Postia
-    start: 1954
-    end: 1962
-    party:
-      - - Susian Democratic Union
-  - title: Senator for Postia
-    start: 1962
-    end: 1966
-    party:
-      - - Susian Democratic Union
-  - title: Secretary of Justice
-    start: 1966
-    end: 1970
-    appointer:
-      - - Serčev Fimžer
-    party:
-      - - Susian Democratic Union
-    notes:
-  - title: Senator for Postia
-    start: 1970
-    end: 1974
-    appointer:
-    party:
-      - - Susian Democratic Union
-    notes:
-  - title: Vice President of Susia
-    start: 1974
-    end: 1982
-    appointer:
-    party:
-      - - Susian Democratic Union
-    notes:
-  - title: President of Susia
-    start: 1982
-    end: 1986
-    appointer:
-    party:
-      - - Susian Democratic Union
-    notes:
-total_sentence:
-criminal_charges:
-  - charge:
-    counts:
-    verdict:
-    sentence:
-    served:
-    in_absentia: false
-    notes:
-era:
-  - continental-divide
-  - continental-war
-  - post-war
-tags:
-  - diplomacy
-  - politics
-  - history
-  - labor
-  - law
 ---
 
-**Filevir Matri** (1924–2002) was a Susian lawyer, statesman, and politician who served as the fifth President of Susia from 1982 to 1986. He came to the presidency after a long career in Postian and federal politics: governor of [[Postia]] during the republic's founding decade, senator, [[Secretary of Justice]] under [[Serčev Fimžer]], and Vice President under [[Čalsor Bonár]]. He is generally remembered as a competent but unremarkable president, sandwiched between a war hero and an idealist, whose achievements were either attributed to his predecessor or claimed by administrations that came after him.
+**Filevir Matri** (1924–2002) was a Susian lawyer and politician who served as the fifth President of [[Susia]] from 1982 to 1986. Before the presidency, he held office as Governor of [[Postia]], Senator for Postia twice, [[Secretary of Justice]] under [[Serčev Fimžer]], and Vice President under [[Čalsor Bonár]]. He lost the 1986 election to [[Filňar Čantij]] and returned to private legal practice in [[Duolij]], where he remained until his death in 2002.
 
 ## Early Life and Education
 
-Matri was born in [[Duolij]] in 1924 to a middle-class family. His upbringing was comfortable without being privileged, and from an early age he understood that advancement required effort his background would not provide on its own. He studied law, graduating with distinction, and established himself in Duolij's legal and civic circles before entering politics at thirty.
-
-He cultivated the mannerisms of a class slightly above his own. He spoke formal Susian with precision, dressed carefully, and moved through rooms with the composed deliberateness of a man who had decided what impression he intended to make. Those who knew him well noted the effort behind the performance without finding it dishonest, it was simply who he was: a man who understood that in Susian political life, appearing to belong somewhere was most of the work of belonging there.
-
-His preferred arena was never the podium or the Senate floor. Matri did his politics at the [[Lobster table]], over [[Vitrikan wine]], in the kind of afternoon conversations that ended with a walk in the park and an understanding between gentlemen. He was a networker of exceptional skill, the sort of man who remembered birthdays, sent the right letter at the right moment, and knew which families needed to be brought together over dinner before a vote was called. His wife was central to this operation, managing relationships with other political families with the same quiet efficiency that Matri brought to legal briefs. He rarely discussed his family in public. He didn't need to. The family's presence in his political life was total and carefully managed.
+Matri was born in [[Duolij]] in 1924 and studied law at the [[University of Duolij]], graduating in 1948. He established himself in Duolij's legal and civic circles before entering politics.
 
 ## Governor of Postia (1954–1962)
 
-Matri was elected Governor of [[Postia]] in 1954, part of the founding generation that took charge of Susian institutions at an age that would have seemed impossibly young under the old imperial system. He was thirty years old. Postia was the republic's most economically significant state, and the job was not a ceremonial one.
+Matri was elected Governor of [[Postia]] for the [[Whi]] in 1954 at thirty years old, part of the first generation of politicians to hold office under the republic. His tenure was defined in its early years by the [[Minutemen]] crisis, in which anarcho-syndicalist cells conducted bombings and assassinations across [[Susia]]. The most consequential attack was the [[Neoveli Stock Exchange Bombing]] of 1955, which killed 43 people.
 
-His governorship was defined almost immediately by the [[Minutemen]] crisis. In the chaotic early years of the republic, anarcho-syndicalist cells operating under this name conducted a campaign of bombings and political assassinations across Susia. Their most notorious act was the [[Neoveli Stock Exchange Bombing]] of 1955, which killed 43 people and sent shockwaves through the republic's financial and political establishment. Postia, as the industrial and commercial heartland of the country, was a primary target.
-
-Matri's response was swift, unsentimental, and not entirely clean. He authorized aggressive union surveillance, mass arrests of suspected sympathizers, and crackdowns on labor organizations deemed too close to syndicalist ideology. Clashes between security forces and workers turned violent on multiple occasions. His methods drew sharp criticism from Postia's working class, who viewed him as using the bombings as a pretext to suppress legitimate labor organizing alongside genuine terrorism, a criticism that was not entirely without merit. He was unmoved by it. His position was simple and he stated it often: the syndicalists would exploit any tolerance shown to them.
-
-He was effective. By the late 1950s Postia was the most stable of Susia's major states, its syndicalist networks dismantled or driven underground, its institutions functioning. The working class never forgave him. The [[Susian Democratic Union|FVS]] establishment never forgot what he had done for them.
+Matri's response included the authorization of aggressive surveillance of union organizations and labor groups, mass arrests of suspected sympathizers, and crackdowns on organizations deemed connected to [[syndicalism|syndicalist]] networks. The measures drew sustained criticism from Postia|Postia's working class, who argued that legitimate [[labor|labor organizing]] was suppressed alongside genuine security threats. By the late 1950s Postia's syndicalist networks had been largely dismantled or driven underground.
 
 ## Senate and Federal Career (1962–1974)
 
-When [[Serčev Fimžer]] won the presidency in 1962 on the [[Susian Democratic Union|FVS]] ticket, Matri stepped down from the governorship and ran successfully for the [[Susian Senate|Senate]], representing Postia. The transition reflected a calculated decision: his record in Postia had given him a strong national profile within the party, and a Senate seat positioned him closer to federal power at a moment when the [[Continental Divide]] was shaping every dimension of Susian politics.
+Matri stepped down from the governorship when [[Serčev Fimžer]] won the presidency in 1962 and won election to the [[Susian Senate]] representing [[Postia]]. In 1966, Fimžer appointed him [[Secretary of Justice]], a position he held through the remainder of Fimžer's second term. He returned to the Senate in 1970.
 
-In 1966, Fimžer appointed him [[Secretary of Justice]], a natural fit for a lawyer with his background in security and institutional order. The appointment gave Matri four years of direct federal executive experience, overseeing law enforcement coordination and the legal machinery of a republic under continuous pressure from the [[Continental Divide]]. His tenure was unremarkable in the sense that nothing went wrong, which during the Fimžer years was itself an accomplishment. He returned to the Senate in 1970 following Fimžer' second term.
-
-His four years in the Senate under [[Ergagério Sienes]] were defined by growing frustration. Matri was a consistent and vocal critic of Sienes' [[Detente Policy|détente]] approach toward [[Confia]], arguing that negotiating with the Lorelaj government from a position of strategic weakness was not diplomacy but capitulation. When the [[Sutsa-Fuhu Civil War|Sutsa-Fuhu civil war]] unfolded and Sienes hesitated to intervene, Matri's position within the FVS hardened into something closer to contempt. He had spent his career arguing that any concession to syndicalism invited further encroachment. Sienes had offered years of concessions and received encirclement in return.
-
-By the time [[Čalsor Bonár]] was building his presidential campaign in 1974, Matri was one of the most recognizable FVS figures in federal politics: a former governor, a former cabinet secretary, a sitting senator, and a man whose anti-syndicalist record was unimpeachable. He was fifty years old. The man who had fought the syndicalists in Postia would now fight them on the continent.
+During the Sienes years, Matri was a consistent critic of [[Ergagério Sienes]]' [[Sienes Doctrine|détente policy]] toward [[Confia]], arguing that the approach was strategically counterproductive. The outcome of the [[Sutsa-Fuhu Civil War]] in 1973, which Susia did not contest, reinforced his position within the [[Susian Democratic Union]].
 
 ## Vice Presidency (1974–1982)
 
-Matri served as Bonár's Vice President through the entirety of one of the most consequential periods in Susian history: the final phase of the [[Continental Divide]], the [[Continental War]] (1975–1977), and the post-war reconstruction. His formal role was secondary to Bonár's in every meaningful sense. Bonár made the decisions. Matri managed the relationships, handled the legislative groundwork, kept the coalition intact, and attended the funerals of men who had died in a war his running mate had started and won.
-
-The two men were not close at first. They were politically compatible rather than personally warm, a partnership of mutual usefulness. What changed them was the war itself. The pressure of governing a republic through an existential conflict produced something between them that was not quite friendship but was more than professional respect. Bonár was demanding, blunt, and constitutionally incapable of pretending a situation was better than it was. Matri, who had spent his career managing appearances, found this quality simultaneously exhausting and clarifying. They drank together often. Bonár drank whiskey in quantities that alarmed even Matri, which was saying something.
-
-It was during the vice presidency that Matri's own drinking consolidated from a habit into something more structural. One to two bottles of wine per day, primarily from [[Vitrika]] and southern [[Postia]], whose vineyards he had developed strong opinions about over decades. The stress of the war years provided the occasion; the appetite had always been there. He never regarded it as a problem. He regarded it as one of the few remaining pleasures a man in his position could enjoy with complete sincerity.
-
-By the end of Bonár's presidency, Matri was publicly positioned as the natural successor. The war was won, the [[Flower Revolutions]] had reshaped the continent, and the post-war economic boom was running. The FVS established him as its candidate. Susia, it was assumed, would want continuity.
+Matri served as Vice President throughout [[Čalsor Bonár]]'s two terms, covering the final phase of the [[Continental Divide]], the [[Continental War]] (1975–1977), and the post-war reconstruction period. His formal role was secondary to the president's across all major decisions. He was publicly positioned as the natural successor within the [[Susian Democratic Union|FVS]] by the end of Bonár's presidency.
 
 ## Presidency (1982–1986)
 
-### The Weight of Succession
+### Confian diplomatic groundwork
 
-No Susian president has had the misfortune of following Čalsor Bonár without being diminished by the comparison, and Matri followed Bonár directly. Every decision he made was measured against a man whose defining act had been winning a continental war from a position of near encirclement. Matri's defining acts were procedural, diplomatic, and institutional. He was not wrong to pursue them. He was simply governing in a register that Susians, flushed with post-war confidence and Bonár's legend, had little patience for.
+Beginning in 1983, Matri opened back-channel diplomatic contact with [[Confia]]'s government under [[Boris Serec]], with the aim of establishing a framework for economic normalization between the two countries. The negotiations were conducted largely out of public view, through trade officials and legal representatives, and produced no signed agreement during his term. The framework developed during this period contributed to the [[Lasman Economic Initiative]], signed in 1995 under a subsequent administration.
 
-He was fifty-eight when he took office. He spoke in the careful, qualified sentences of a lawyer who had spent thirty years never saying more than he needed to. Journalists found him frustrating to quote. There was always a subordinate clause, always a condition, always a nuance that softened the headline. He was not performing evasion. He simply believed that imprecision was a kind of dishonesty, and that most political questions were more complicated than the answers politicians gave them.
+Matri met Serec at the [[Presidential Palace (Soiteslaj)|presidential palace]] on at least one occasion during this period.
 
-### The Lasman Groundwork
+### Ditanian Intervention
 
-Matri's most consequential act as president was one that would not be recognized as consequential for nearly a decade. Beginning in 1983 he opened back-channel diplomatic contact with [[Confia]]'s government under [[Boris Serec]], with the aim of establishing a framework for economic normalization. The [[Continental War]] had ended six years earlier. The [[Flower Revolutions]] had transformed Confia from an ideological adversary into a fragile democracy. Matri's legal instincts told him that the relationship needed formal architecture before it could bear real weight.
+Matri signed the [[Tekuri Ljas Accord]] authroizing Susian participation in a multilateral intervention in [[Ditania]] alongside [[Confia]], [[Pierej]], and [[Kapiogg]], in response to the civil collapse that followed the failed [[Tulip Revolution]] of 1981. The intervention's aims were contested among the four participating nations and its outcome was inconclusive.
 
-The negotiations were slow, technical, and almost entirely invisible to the Susian public. He made no speeches about historic reconciliation. He sent lawyers and trade officials to meet their Confian counterparts in conference rooms in [[Niqueparje]] and [[Imgospalje]]. He met Serec himself at the [[Presidential Palace (Soiteslaj)|presidential palace]] at least once, possibly more. What they discussed produced no signed agreement during his term. What they produced was the groundwork that, nine years later, became the [[Lasman Economic Initiative]].
+### The wine procurement controversy
 
-Matri knew he would not sign the treaty himself. He planted the tree.
+During his time at the [[Presidential Palace (Soiteslaj)|presidential palace]], Matri charged in excess of D$10,000 per month in [[Vitrikan wine|wine]] to public accounts, purchasing [[Vitrika|Vitrikan]] and southern [[Postia|Postian]] vintages. He also instructed palace staff to cover wine bottle labels before serving, keeping the better supply for himself while serving guests from cheaper stock. Among those served from the lesser supply was [[Boris Serec]], the [[Confian National Government|Confian]] prime minister whose government Matri was simultaneously cultivating as a diplomatic partner. The arrangement was disclosed after his term ended by a former palace staff member. Serec is reported to have said he could not tell the difference.
 
-### The Ditanian Intervention
+## Return to Private Life (1986–2002)
 
-Matri authorized Susia's participation in a multilateral intervention in [[Ditania]], alongside [[Confia]], [[Pierej]], and [[Kapiogg]], in response to the anarchy that had followed the failed [[Tulip Revolution]] of 1981. The intervention was messy in conception and messier in execution. Its aims were contested among the four participating nations, its mandate was unclear, and the situation on the ground resisted clean resolution. It was not Matri's finest hour, though it demonstrated something his detractors rarely acknowledged: getting newly democratic Confia to act jointly with Susia less than a decade after the Continental War required genuine diplomatic work.
-
-### The Presidential Palace
-
-The domestic record of Matri's presidency was steady: no dramatic failures, no transformative achievements, the boom continuing as it had under Bonár, the institutions functioning. He managed rather than led.
-
-What the historical record has preserved with greatest fidelity is the wine.
-
-Matri ordered in excess of D$10,000 worth of the finest Vitrikan and southern Postian vintages per month during his time at the [[Presidential Palace (Soiteslaj)|presidential palace]], charged to public accounts. He also instructed palace staff to cover wine bottle labels before serving and to present guests with a cheaper supply, keeping the better bottles for himself.
-
-The arrangement came to light after his term ended, disclosed by a palace staff member. Among the guests who had drunk from the cheaper supply was [[Boris Serec]], the Confian prime minister whose government Matri was at the same time cultivating as a diplomatic partner. When the account became public, Serec was reported to have said he could not tell the difference anyway.
-
-## Electoral Defeat and Return to Postia
-
-Matri sought re-election in 1986 and lost to [[Filňar Čantij]], the co-founder of the [[Susian Liberal Party]] whom [[Suizo Soites]] himself had sidelined during the founding era for being too rigid and too idealistic. Čantij had spent the better part of three decades outside government. He was awkward in public, constitutionally incapable of small talk, and gave speeches that were technically impeccable and personally compelling in inverse proportion. He won anyway.
-
-Matri's private response to the result was not directed at Čantij, whom he regarded without particular animus. It was directed at Susia. He had watched [[Ergagério Sienes|Sienes']] idealism produce the encirclement that nearly ended the republic. He had watched Bonár's hard-eyed pragmatism win the war that saved it. And now Susia had elected a man whose primary qualification was a philosophy that Soites himself had found unworkable in practice. Matri pitied the choice. He was a lawyer. He knew better than to argue with a verdict.
-
-He returned to [[Duolij]]. After a period of quiet he opened a corporate law firm, drawing on decades of contacts at the intersection of Postian business, federal regulation, and institutional knowledge that only comes from having been in the rooms where decisions were made. The firm was successful. He was by all accounts an excellent lawyer: precise, well-connected, and unsentimental about the gap between what the law said and what it did. His client list was never published. It did not need to be.
-
-In his private life, post-presidency, he drank openly and well. There were no labels to cover.
+Matri lost the 1986 presidential election to [[Filňar Čantij]] and returned to [[Duolij]], where he opened a corporate law firm. He drew on decades of contacts at the intersection of [[Postia|Postian]] business, federal regulation, and government service. He died in Duolij in 2002 at seventy-eight years old.
 
 ## Legacy
 
-Matri is generally remembered as a competent but unremarkable president. His achievements are either attributed to Bonár's foundation or claimed by later administrations that completed what he started. The [[Lasman Economic Initiative]], signed in 1995, is rarely associated with him in public memory despite the early groundwork his government laid. The [[Ditanian Intervention]] is recalled as a foreign policy muddle. The Serec wine story is in most of the surveys.
+Matri's political reputation has been shaped in part by the difficulty of assessing his record in isolation from the administrations that surrounded him. His early Confian diplomacy is infrequently credited in public memory despite its contribution to the [[Lasman Economic Initiative|Lasman Initiative]]. The [[Ditanian Intervention]] is generally recalled as inconclusive. His anti-syndicalist tenure in [[Postia]] remains contested in assessments of his overall record.
 
-The more considered assessment is that he governed adequately through a period that required management rather than vision, that his early Confian diplomacy was substantive if unglamorous, and that his anti-syndicalist record in Postia, whatever its methods, was effective at a moment when the republic's stability was not assured.
-
-Filevir Matri died in Duolij in 2002 at seventy-eight years old.
+He is consistently cited as a practitioner of the [[Lobster table|lobster table]] style of politics, conducting his political work through private meals and informal arrangements rather than floor advocacy or public argument.
 
 ## See Also
+
 - [[Čalsor Bonár]]
 - [[Filňar Čantij]]
-- [[Ergagério Sienes]]
 - [[Serčev Fimžer]]
+- [[Ergagério Sienes]]
+- [[Boris Serec]]
 - [[Postia]]
 - [[Susian Senate]]
 - [[Secretary of Justice]]
@@ -221,12 +161,22 @@ Filevir Matri died in Duolij in 2002 at seventy-eight years old.
 - [[Minutemen]]
 - [[Neoveli Stock Exchange Bombing]]
 - [[Susian Democratic Union]]
-- [[Detente Policy]]
+- [[Sienes Doctrine]]
 - [[Sutsa-Fuhu Civil War]]
 - [[Flower Revolutions]]
+- [[Tulip Revolution]]
+- [[Lobster table]]
 - [[Vitrikan wine]]
+- [[Presidential Palace (Soiteslaj)]]
+- [[University of Duolij]]
 
-
-
-
-
+%%
+FLAGS:
+- "Yavna Matri" (spouse): named in frontmatter of the existing article. No vault file confirmed for this person.
+- University of Duolij: referenced in existing frontmatter. No vault article confirmed. Stub candidate.
+- Minutemen: linked throughout vault articles. No body content confirmed in stub.
+- Neoveli Stock Exchange Bombing: linked in existing article. Stub candidate, no body confirmed.
+- Ditanian Intervention: linked in existing article. Stub candidate, no body confirmed.
+- The existing article contained a number of invented biographical details (drinking habits described at length, character descriptions, inner life) that have no source in the docs or vault. These have been removed.
+- The Sienes détente policy name remains "Sienes Doctrine" per the Continental Divide article frontmatter. The vault note flagging "Lasman Doctrine" as a leading candidate predates the Continental Divide article's frontmatter, which uses "Sienes Doctrine." Treated as resolved in favor of the vault article.
+%%
