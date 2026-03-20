@@ -38,7 +38,7 @@ Lischev-Verene occupies a distinct position among the Yarnojtes, defined in larg
 
 ### Lischev Pharmaceuticals (1962–2065)
 
-[[Lischev Pharmaceuticals]] was founded in 1962 in [[Vitrika]], named after [[Apostle Lichev]], the healer figure in [[Armotism|Armotist]] tradition. The name was chosen for marketing reasons rather than religious conviction. For most of its history, Lischev operated as a conventional pharmaceutical manufacturer focused on pain management and disease treatment. It was publicly traded and headquartered in [[Kruie ro Yietre]] throughout its independent existence.
+[[Lischev Pharmaceuticals]] was founded in 1962 in [[Vitrika]], named after [[Apostle Lichev]], the healer figure in [[Armotism|Armotist]] tradition. The name was chosen for marketing reasons rather than religious conviction. For most of its history, Lischev operated as a conventional pharmaceutical manufacturer focused on pain management and disease treatment. It was publicly traded and headquartered in [[Vitrika]] throughout its independent existence.
 
 By the 2050s, Lischev was losing market share to competitors better positioned to capitalize on the [[Cognitive enhancement|enhancement boom]] that followed the [[Cognitive Rights Act of 2061]]. The company had no meaningful enhancement pipeline and lacked the research infrastructure to develop one rapidly.
 
@@ -48,7 +48,9 @@ By the 2050s, Lischev was losing market share to competitors better positioned t
 
 ### The Merger (2065)
 
-The merger was driven by complementary deficiencies. Verene had the research and clinical pipeline; Lischev had the manufacturing infrastructure and distribution network. The resulting entity was incorporated as a standard public corporation, eliminating Verene's Public Benefit Corporation status. Lischev, as the larger and more established partner, contributed the dominant corporate culture. Verene's more idealistic institutional character was largely absorbed into Lischev's professional and pragmatic orientation, a transition that caused significant attrition among Verene's research staff in the first years following the merger. [[Red Iron]] led the merger's financial structuring.
+The merger was driven by complementary deficiencies. Verene had the research and clinical pipeline; Lischev had the manufacturing infrastructure and distribution network. The resulting entity was incorporated as a standard public corporation, eliminating Verene's Public Benefit Corporation status. Lischev, as the larger and more established partner, contributed the dominant corporate culture. Verene's more idealistic institutional character was largely absorbed into Lischev's professional and pragmatic orientation, a transition that caused significant attrition among Verene's research staff in the first years following the merger.
+
+[[Red Iron]] led the merger's financial structuring.
 
 ### Yarnojte Status (2073)
 
@@ -61,6 +63,12 @@ Lischev-Verene was granted [[Yarnojte]] status in 2073, eight years after the me
 Lischev-Verene's core product lines span three domains. In pharmaceuticals, it manufactures pain management compounds, disease treatments, and the biological compatibility drugs used in cognitive enhancement procedures. In enhancement and life extension, it performs enhancement procedures using its own less invasive biological approach, develops genetic therapies, and administers the [[VITAKEI]] life extension and health monitoring system. In healthcare services, it operates clinics and provides coverage at D$800 per month for full healthcare with genetic data sharing, or D$2,000 per month without.
 
 Among the company's documented medical achievements as of 2090 are the near-elimination in [[Susia]] of breast, prostate, colorectal, stomach, and lung cancer; effective treatments for [[Tarlanna's disease|Tarlanna's disease]] and [[Jashevor's disease]]; and treatment for osteoporosis and several forms of dementia. Residents of the [[Garden of Latice FEZ]] have documented lifespans of 120 to 140 years under the full life extension program.
+
+### Agricultural Biotechnology
+
+Lischev-Verene is [[Susia]]'s largest exporter of genetically modified seeds. As of 2080, 34% of Susian agricultural seeds are licensed directly by the company, and approximately 60% of all Susian seeds in circulation are genetically modified, including both current LV-licensed varieties and older designs whose patents have expired and entered common use through independent biolaboratories and agricultural suppliers. The company exports seeds to [[Confia]], [[Kamino]], [[Zaphonia]], and [[Pierej]], making it a significant presence in the agricultural economies of several [[ONDD]] member and partner states.
+
+The agricultural division operates largely independently of the company's healthcare and enhancement work in terms of day-to-day operations, though it draws on the same underlying genetic research infrastructure. LV's position in the seed market is a consequence of its early investment in genetic modification technology during the [[Verene Biosciences]] period, when agricultural applications were developed alongside medical ones as a commercial hedge.
 
 ### The LV Compact
 
@@ -78,7 +86,7 @@ The [[Garden of Latice FEZ]] is located in [[Sužielaj]] and houses approximatel
 
 ## Corporate Culture
 
-Lischev-Verene's internal culture is described consistently by employees and observers as transactional. The company does not cultivate community among its workforce or its patients. Its stated orientation is professional: services are provided, treatments are administered, relationships end when the clinical interaction ends. This stance is captured in the informal internal phrase attributed to LV management: "I'm your doctor, not your friend."
+Lischev-Verene's internal culture is described consistently by employees and observers as transactional. The company does not cultivate community among its workforce or its patients. Its stated orientation is professional: services are provided, treatments are administered, relationships end when the clinical interaction ends. This stance is captured in the informal internal phrase attributed to LV management: "You're here to get treatment and then leave. I'm your doctor, not your friend."
 
 The culture reflects the dominance of Lischev's corporate character over Verene's in the merger. Where Verene had operated as a mission-driven PBC with an institutional identity built around the company's purpose, the merged entity prioritizes operational efficiency and professional opacity. Standard medical and legal jargon is used throughout communications. The company does not lie about its practices, but it does not explain them beyond what is required.
 
@@ -92,7 +100,7 @@ LV frames itself as a counterweight to TU's post-human trajectory. In practice, 
 
 LV's public position on cognitive enhancement is complex. The company offers its own enhancement procedures, framed as less invasive and more health-oriented than TU's approach, and competes directly with TU in the enhancement market. It simultaneously maintains reservations about the pace of enhancement adoption and argues, without scientific consensus support as of 2080, that long-term enhancement effects on personality and emotional regulation may be reversible through pharmaceutical intervention.
 
-The company formally opposes the organ trade and has publicly denounced [[Rǎz Lizňir|Rǎz Lizňir]]'s operations as incompatible with its principles. The two companies nonetheless cooperate occasionally on research related to organ viability and preservation techniques, where their commercial incentives align regardless of their ethical positions.
+The company formally opposes the organ trade and has publicly denounced [[Rǎz Lizňir]]'s operations as incompatible with its principles. The two companies nonetheless cooperate occasionally on research related to organ viability and preservation techniques, where their commercial incentives align regardless of their ethical positions.
 
 ## Notable Controversies
 
@@ -106,7 +114,15 @@ The [[Federal Authority of Commerce and Competition]] launched an investigation,
 
 The finding that Lischev-Verene was not manipulating VITAKEI resolved the specific allegation while surfacing a more unsettling implication. VITAKEI generates predictions about when residents and employees will die, those predictions demonstrably affect behavior, and neither the company nor any external body has reliable authority over what the system produces. The override capabilities identified by the former developer exist; they are simply not the mechanism by which the outputs are shaped. The outputs are shaped by the system itself, operating on continuous biological surveillance data, within margins that the company acknowledges it cannot fully account for.
 
-### Experimental Wellness Programs
+### Seed Patent Litigation
+
+Lischev-Verene enforces its agricultural patents through litigation against individual farmers. The company's position is that any crop grown from a licensed seed whose genetic material propagates into subsequent generations without a new license constitutes infringement, regardless of whether the farmer deliberately replicated the protected variety or acquired the genetic material through natural seed drift from neighboring farms.
+
+The litigation pattern has drawn sustained criticism from agricultural communities in [[Misocévia]], [[Troli]], [[Sužielaj]], and [[Vitrika]], where small-scale farming is common and the distinction between deliberate replanting of licensed seed and incidental genetic contamination is frequently contested. The [[Federal Authority of Commerce and Competition]] has reviewed the company's enforcement practices on several occasions. No successful regulatory action has been taken, as LV's licensing agreements are structured to meet the requirements of existing patent law.
+
+Critics argue that the practical effect of the enforcement program is to make small farmers financially dependent on annual seed purchases from LV regardless of their intentions. The company maintains that patent enforcement is a necessary condition of continued investment in seed development and that farmers who do not wish to use licensed varieties retain the legal right to source unmodified seed from other suppliers.
+
+### Experimental Treatment
 
 Lischev-Verene's experimental treatment program operates in a legal gray zone produced by the distinction in Susian law between an "experimental treatment" and a "clinical trial." Participants in experimental treatments are classified as "patients receiving care" rather than "test subjects," which subjects the program to a different and less demanding regulatory framework than formal clinical trials.
 
@@ -123,7 +139,7 @@ The program has not been the subject of a successful regulatory action as of 208
 - [[Cognitive enhancement]]
 - [[Cognitive Rights Act of 2061]]
 - [[Troli Ustaras]]
-- [[Rǎz Lizňir]]
+- [[Rǎz Lizňir Corporation]]
 - [[Lischev Pharmaceuticals]]
 - [[Verene Biosciences]]
 - [[Federal Authority of Commerce and Competition]]
@@ -136,16 +152,20 @@ The program has not been the subject of a successful regulatory action as of 208
 - [[Red Iron]]
 - [[Tarlanna's disease]]
 - [[VITAKEI Manipulation Scandal]]
+- [[Misocévia]]
+- [[Troli]]
+- [[Confia]]
+- [[Kamino]]
+- [[Zaphonia]]
+- [[Pierej]]
+- [[ONDD]]
 
 %%
 FLAGS:
-- Lischev Pharmaceuticals and Verene Biosciences: both linked as stub candidates. No vault articles confirmed for either.
-- Apostle Lichev: referenced in source doc and vault stub as the Armotist healer figure the company is named after. No vault article confirmed. Stub candidate.
-- Verene (goddess): referenced in source doc and vault stub. No vault article confirmed. Stub candidate.
-- Garden of Latice (religious concept): distinct from the Garden of Latice FEZ. The FEZ takes its name from the religious concept. No vault article confirmed for the religious concept.
-- VITAKEI Manipulation Scandal: created as a main article link per style guide, since the controversy is substantial enough to warrant its own article. No vault article currently exists.
 - "Parkinson's disease": used plain text rather than an in-world name. The vault has Tarlanna's disease as the in-world equivalent for Alzheimer's. No in-world name for Parkinson's has been established. Flagged for Martín to decide whether an equivalent should be created.
 - Founding place listed as Sužielaj City in the frontmatter (per existing vault stub). The source doc lists headquarters as Garden of Latice FEZ. These are not in conflict: the merger was finalized in Sužielaj City; HQ moved to the FEZ upon its establishment in 2073.
 - Employee count (880k) and market cap (D$3.2 trillion) sourced from both the vault stub and the source doc, which agree.
 - The source doc describes the experimental wellness program but cuts off before completing the "Legal Gray Zone" section. The article treats what is present as complete canon and does not speculate about the truncated content.
+- Agricultural biotechnology section: figures (34% licensed, 60% GMO total) and export markets sourced from session canon. No source doc or vault article previously established this. Recorded here as session-decided canon.
+- The connection between Verene Biosciences' agricultural work and LV's current seed market position is a reasonable inference from the merger timeline and Verene's stated focus on genetic research. Flagged as inferred bridging detail.
 %%
