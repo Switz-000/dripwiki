@@ -58,6 +58,7 @@ Do not place definite or indefinite articles (the, a, and an) at the beginning o
 - Standard sections for state files: intro paragraph, Identity, Geography, Economy, FEZs (if applicable), Major Cities, Politics.
 - The intro paragraph should identify what the subject is, its key facts, and its significance in one to three sentences. No dramatic framing.
 - Personal Life should be its own section in character files, not folded into the main narrative, unless the personal details are directly politically relevant.
+- ALWAYS, fill the YALM with the most information available and use the most recent templates. Read the YALM and Tags guide as well
 
 
 ---
