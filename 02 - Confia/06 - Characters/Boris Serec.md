@@ -49,7 +49,7 @@ criminal_charges:
   - Mishandling of the means of production
 enhanced: false
 offices:
-  - title: President of the United Syndicates of Confia
+  - title: President of the Confian Nation
     employer: "[[Confian National Government]]"
     start: 1987
     end: 1996
@@ -57,7 +57,7 @@ offices:
     party:
       - - Armotist Democratic Party|ALjP
     notes:
-  - title: President of the Council of Comissars of the United Syndicates of Confia
+  - title: President of the Council of Commissars of the United Syndicates of Confia
     employer: "[[Confian National Government]]"
     start: 1983
     end: 1987
