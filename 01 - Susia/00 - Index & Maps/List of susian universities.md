@@ -10,4 +10,4 @@
 | [[Kolkov Institute for Innovation]]            | [[Neoveli]]   | [[Dripia]]           | Private | [[Troli Ustaras]]                                | 2002    |
 | [[University of Duolij]]                       | [[Duolij]]    | [[Postia]]           |         |                                                  |         |
 | [[University of New Duloc]]                    | [[New Duloc]] | [[Postia]]           |         |                                                  |         |
-|                                                |               |                      |         |                                                  |         |
+| [[Susian Academy of Sciences and Engineering]] |               |                      |         |                                                  |         |
