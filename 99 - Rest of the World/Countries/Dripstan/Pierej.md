@@ -27,6 +27,7 @@ borders_north:
   - "[[Kapiogg]]"
 borders_south:
   - "[[Kamino]]"
+flag: "![[armotoslandia.png]]"
 ---
 
-
+![[armotoslandia.png]]
