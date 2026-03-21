@@ -7,6 +7,7 @@ goverment_type:
   - Contrafederalist
   - Presidential
   - Authoritarian
+  - Confessional
 population_2070:
 population_2000:
 population_1970:
