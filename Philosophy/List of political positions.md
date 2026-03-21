@@ -63,7 +63,7 @@ The position, derived from [[Yário Kolkov|Kolkov]], that multiple governance mo
 
 ### Technocracy
 
-Governance by credentialed experts rather than elected representatives. In Susia, institutionalized in the [[Chamber of Experts]] and the [[Secretariat of Efficiency]].
+Governance by credentialed experts rather than elected representatives. In Susia, institutionalized in the [[Chamber of Experts]] and the [[Secretariat of Efficiency]]. Applied to the fullest extent in [[Ashgerad]]
 
 ### Meritocracy
 
