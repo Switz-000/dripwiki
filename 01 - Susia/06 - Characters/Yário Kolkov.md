@@ -89,7 +89,7 @@ tags:
   - corporate
   - history
 ---
-
+![[Susia Modernista Mapa.png]]
 ## Quotes
 
 “Nayotai taught me that efficiency is tyranny with a stopwatch. Every moment optimized, every second accounted for, every thought channeled toward production. Even my body had become a component.”  
