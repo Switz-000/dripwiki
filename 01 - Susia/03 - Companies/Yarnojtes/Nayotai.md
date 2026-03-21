@@ -2,7 +2,7 @@
 type: company
 company_name: Nayotai Corporation
 native_company_name:
-company_type: Public Corporation
+company_type: Public corporation
 founded: 1909
 founding_place: "[[Duolij]]"
 headquarters: "[[Postia Manufacturing Center]]"

@@ -5,7 +5,7 @@ aliases:
 type: company
 company_name: Lischev-Verene Biomedical Corporation
 native_company_name:
-company_type: Public Corporation
+company_type: Public corporation
 founded: 2065
 founding_place: "[[Sužielaj City]]"
 headquarters: "[[Garden of Latice FEZ]]"

@@ -1,6 +1,6 @@
 ---
 type: company
-company_name: Atompron Corporation
+company_name: Atompron corporation
 native_company_name:
 company_type: Government-Sponsored Enterprise
 founded: 1979

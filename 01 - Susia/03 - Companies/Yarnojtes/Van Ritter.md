@@ -4,7 +4,7 @@ aliases:
 type: company
 company_name: Van Ritter Incorporated
 native_company_name:
-company_type: Public Corporation
+company_type: Public corporation
 founded: 1923
 founding_place: "[[Lore-Kurji]]"
 headquarters: "[[Eastern Industrial Complex FEZ]]"
