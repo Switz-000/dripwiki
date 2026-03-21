@@ -5,7 +5,7 @@ native_company_name: Făzmelj
 company_type: Public corporation
 founded: 1980
 founded_by:
-founding_place:
+founding_place: "[[Neoveli]]"
 headquarters:
 market_cap:
 yarnojte: false
