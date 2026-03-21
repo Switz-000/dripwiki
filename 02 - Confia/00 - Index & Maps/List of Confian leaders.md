@@ -1,0 +1,33 @@
+Presidents of the Council of Commissars of the United Syndicates of Confia (Prime Ministers)
+
+| No. |                Name                |    Term     |                  Party                  |                                   Election(s)                                    |
+| :-: | :--------------------------------: | :---------: | :-------------------------------------: | :------------------------------------------------------------------------------: |
+|  1  |         [[Lensek Bӑrboz]]          | 1956 - 1958 |    [[Union of Confian Syndicalists]]    |                     [[1956 Confian general election\|1956]]                      |
+|  -  |        *position abolished*        | 1958 - 1977 |                   N/A                   |                                                                                  |
+|  2  |      [[Lenseka Japlenowina]]       | 1978 - 1980 |    [[Progressive Republican Party]]     |                     [[1978 Confian general election\|1978]]                      |
+|  -  |  *[[Genrih Maskernie]]* (interim)  |    1980     | [[Movement for Syndicalist Renovation]] |                         [[1980 Confian confidence vote]]                         |
+|  3  |       [[Senjap Kunsekowić]]        | 1980 - 1982 |        [[Confian Liberal Party]]        |                     [[1980 Confian general election\|1980]]                      |
+|  4  |          [[Boris Serec]]           | 1983 - 1987 |      [[Armotist Democratic Party]]      | [[1982 Confian general election\|1982]], [[1986 Confian general election\|1986]] |
+|  5  |          [[Japlen Razol]]          | 1987 - 1990 |      [[Armotist Democratic Party]]      |                         *elected by governing coalition*                         |
+|  6  | [[Katerina Armoljubca Nožeslawna]] | 1990 - 1996 |         [[Syndicalist League]]          | [[1990 Confian general election\|1990]], [[1994 Confian general election\|1994]] |
+|  -  |   *[[Noljež Teššan]]* (interim)    |    1996     |         [[Syndicalist League]]          |                         [[1996 Confian confidence vote]]                         |
+|  7  |         [[Noljež Teššan]]          | 1996 - 2000 |         [[Syndicalist League]]          |                     [[1996 Confian general election\|1996]]                      |
+|  8  |       [[Gravolja Lasmanna]]        | 2000 - 2002 |             [[Independent]]             |                                                                                  |
+Presidents of the Confian Nation (President of the Nation/President)
+
+| No. |                Name                |    Term     |                                                                                Party                                                                                 |                   Election                   |
+| :-: | :--------------------------------: | :---------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------: |
+|  1  |        [[Lorelaj Paulowić]]        | 1956 - 1958 |                                                                  [[Union of Confian Syndicalists]]                                                                   | [[1956 Confian presidential election\|1956]] |
+|  -  |        *position abolished*        | 1958 - 1977 |                                                                                 N/A                                                                                  |                                              |
+|  2  |         [[Mariana Torres]]         | 1978 - 1986 | [[Progressive Republican Party\|Progressive Republican Party (1978-1980)]], [[Movement for Syndicalist Renovation\|Movement for Syndicalist Renovation (1980-1986)]] | [[1977 Confian presidential election\|1977]] |
+|  -  |         [[Mariana Torres]]         |    1987     |                                                               [[Movement for Syndicalist Renovation]]                                                                | [[1986 Confian presidential election\|1986]] |
+|  3  |          [[Boris Serec]]           | 1987 - 1994 |                                                                    [[Armotist Democratic Party]]                                                                     | [[1987 Confian presidential election\|1987]] |
+|  -  |          [[Boris Serec]]           | 1995 - 1998 |                                                                    [[Armotist Democratic Party]]                                                                     | [[1994 Confian presidential election\|1994]] |
+|  4  | [[Katerina Armoljubca Nožeslawna]] | 1998 - 2000 |                                                                        [[Syndicalist League]]                                                                        | [[1998 Confian presidential election\|1998]] |
+|  -  | [[Katerina Armoljubca Nožeslawna]] | 2001 - 2006 |                                                                        [[Syndicalist League]]                                                                        | [[2000 Confian presidential election\|2000]] |
+Leader of the Nation
+
+| No. |              Name              |    Term     |               Party               |        Election        |
+| :-: | :----------------------------: | :---------: | :-------------------------------: | :--------------------: |
+|  1  |      [[Lorelaj Paulowić]]      | 1958 - 1977 | [[Union of Confian Syndicalists]] | [[Enabling Amendment]] |
+|  -  | *[[Mariana Torres]] (interim)* |    1977     | [[Progressive Republican Party]]  | [[Bayonet Revolution]] |
