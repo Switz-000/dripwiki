@@ -10,7 +10,7 @@ population_2070: 122890904
 population_2000: 82235974
 population_1970: 61231000
 population_1954: 47514314
-religion: Armotism
+religion: "[[Armotism]]"
 languages: Confian
 currency: New Swobo (H¢)
 international_organizations:

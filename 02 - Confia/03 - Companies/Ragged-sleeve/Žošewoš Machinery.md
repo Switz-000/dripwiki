@@ -15,4 +15,4 @@ fez_locations:
 sector:
   - Industrials
 ---
-**Žošewoš Machinery** (Confian: Žošewošei Weriesse/Жошевошей Верьессе) was a Confian [[Ragged-sleeve|ragged-sleeve]] enterprise that existed between 1852 and 1999, when it declared bankruptcy.
+**Žošewoš Machinery** (Confian: Žošewošei Weriesse/Жошевошей Верьессе) was a Confian [[Ragged-sleeve|ragged-sleeve]] enterprise that existed between 1852 and 1999, when it declared bankruptcy. It operated in the automobile and capital goods production sector.
