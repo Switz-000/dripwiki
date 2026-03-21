@@ -19,5 +19,5 @@ Revised Syndicalism is a variety of syndicalism based on the Six Points of Torre
 ### New Syndicalism
 
 New Syndicalism, formerly known as Moderate Syndicalism, rejects the syndicalist economic framework of self-management entirely, postulating that syndicates should focus on improving working conditions and securing benefits and good wages for workers.
-Liberal Syndicalism is a variant of New Syndicalism that emphasized economic freedom and entrepeneurship as the main driver of economic growth and prosperity while sheltering the necessity for collective bargaining institutions.
+Liberal Syndicalism is a variant of New Syndicalism that emphasizes economic freedom and entrepreneurship as the main driver of economic growth and prosperity while sheltering the necessity for collective bargaining institutions.
 ### Progressivism
