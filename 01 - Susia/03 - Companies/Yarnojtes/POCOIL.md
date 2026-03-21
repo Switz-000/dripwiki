@@ -2,7 +2,7 @@
 type: company
 company_name: Postian Company of Lubricants and Oil
 native_company_name:
-company_type: Public Corporation
+company_type: Public corporation
 founded: 1888
 founding_place: "[[New Duloc]]"
 headquarters: "[[Duolij]]"

@@ -4,7 +4,7 @@ aliases:
 type: company
 company_name: Vandernij & Milier
 native_company_name:
-company_type: Private Corporation
+company_type: Private corporation
 founded:
 founding_place:
 headquarters:
