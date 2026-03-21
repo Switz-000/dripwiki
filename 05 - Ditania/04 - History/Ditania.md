@@ -8,8 +8,8 @@ goverment_type:
   - Consociationalist
 population_2070:
 population_2000:
-population_1970:
-population_1954: 11000000
+population_1970: 13000000
+population_1954: 8000000
 religion: Consociationalist state
 languages:
   - Standard Wai
