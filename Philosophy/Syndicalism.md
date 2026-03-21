@@ -16,7 +16,7 @@ Orthodox Syndicalism was nominally pursued by the Paulowić regime during its in
 The **Paulowić model** is not a set doctrine of ideas, but the particular policies carried out during [[Lorelaj Paulowić]]'s rule in Confia. As such, its supporters do not see themselves as members of a particular current of syndicalism and refer to it as "Syndicalism as pragmatically applied", often self-identifying as Orthodox Syndicalism.
 ### Revised Syndicalism
 
-**Revised Syndicalism** is a variety of syndicalism based on the Six Points of Torres, a revised version of the [[Union of Confian Syndicalists]]' ten-point program. It accepts limited private participation in some markets
+**Revised Syndicalism** is a variety of syndicalism based on the **Six Points of [[Mariana Torres|Torres]]**, a revised version of the [[Union of Confian Syndicalists]]' ten-point program. It accepts limited private participation in some markets, while balancing them with cooperative ownership in smaller businesses and state ownership of major utilities.
 ### New Syndicalism
 
 **New Syndicalism**, initially known as **Moderate Syndicalism**, rejects the syndicalist economic framework of self-management entirely, postulating that syndicates should focus on improving working conditions and securing benefits and good wages for workers.

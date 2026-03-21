@@ -28,9 +28,9 @@ ethnicity: "[[East Gaiyanese]]"
 religion: "[[Armotist Church of the Confian Synod]]"
 enhanced: false
 education:
-  - degree:
-    institution:
-    year:
+  - degree: Civil Engineering
+    institution: [[Polytechnic Institute of Koštanože]] 
+    year: 1920
 written_works:
   - title: On fighting in the streets
     publication_date: 1979
@@ -49,7 +49,7 @@ party:
   - "[[Movement for Syndicalist Renovation|Movement for Syndicalist Renovation (1980-)]]"
   - "[[Progressive Republican Party|Progressive Republican Party (1954-1980)]]"
 political_alignment:
-  - 
+  - [[Syndicalism#Revised Syndicalism|Six Points of Torres]]
 organization:
   - 
 residence:
@@ -85,7 +85,7 @@ criminal_charges:
     verdict: guilty
     sentence: Unlimited hard labour
     served: No, self-exile for 19 years then overthrew government
-    in_absentia: false
+    in_absentia: true
     notes: Signed own amnesty
 era:
 tags:
