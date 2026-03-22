@@ -1,18 +1,18 @@
 Presidents of the Council of Commissars of the United Syndicates of Confia (Prime Ministers)
 
-| No. |                Name                |    Term     |                  Party                  |                                   Election(s)                                    |
-| :-: | :--------------------------------: | :---------: | :-------------------------------------: | :------------------------------------------------------------------------------: |
-|  1  |         [[Lensek Bӑrboz]]          | 1956 - 1958 |    [[Union of Confian Syndicalists]]    |                     [[List of Confian elections#1956 Confian general election\|1956]]                      |
-|  -  |        *position abolished*        | 1958 - 1977 |                   N/A                   |                                                                                  |
-|  2  |      [[Lenseka Japlenowina]]       | 1978 - 1980 |    [[Progressive Republican Party]]     |                     [[List of Confian elections#1978 Confian general election\|1978]]                      |
-|  -  |  *[[Genrih Maskernie]]* (interim)  |    1980     | [[Movement for Syndicalist Renovation]] |                         [[List of Confian elections#1980 Confian confidence vote]]                         |
-|  3  |       [[Senjap Kunsekowić]]        | 1980 - 1982 |        [[Confian Liberal Party]]        |                     [[List of Confian elections#1980 Confian general election\|1980]]                      |
+| No. |                Name                |    Term     |                  Party                  |                                                             Election(s)                                                              |
+| :-: | :--------------------------------: | :---------: | :-------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
+|  1  |         [[Lensek Bӑrboz]]          | 1956 - 1958 |    [[Union of Confian Syndicalists]]    |                                  [[List of Confian elections#1956 Confian general election\|1956]]                                   |
+|  -  |        *position abolished*        | 1958 - 1977 |                   N/A                   |                                                                                                                                      |
+|  2  |      [[Lenseka Japlenowina]]       | 1978 - 1980 |    [[Progressive Republican Party]]     |                                  [[List of Confian elections#1978 Confian general election\|1978]]                                   |
+|  -  |  *[[Genrih Maskernie]]* (interim)  |    1980     | [[Movement for Syndicalist Renovation]] |                       [[List of Confian elections#1980 Confian confidence vote\|1980 Confian confidence vote]]                       |
+|  3  |       [[Senjap Kunsekowić]]        | 1980 - 1982 |        [[Confian Liberal Party]]        |                                  [[List of Confian elections#1980 Confian general election\|1980]]                                   |
 |  4  |          [[Boris Serec]]           | 1983 - 1987 |      [[Armotist Democratic Party]]      | [[List of Confian elections#1982 Confian general election\|1982]], [[List of Confian elections#1986 Confian general election\|1986]] |
-|  5  |          [[Japlen Razol]]          | 1987 - 1990 |      [[Armotist Democratic Party]]      |                         *elected by governing coalition*                         |
-|  6  | [[Katerina Armoljubca Nožeslawna]] | 1990 - 1996 |         [[Syndicalist League]]          | [[1990 Confian general election\|1990]], [[List of Confian elections#1994 Confian general election\|1994]] |
-|  -  |   *[[Noljež Teššan]]* (interim)    |    1996     |         [[Syndicalist League]]          |                         [[List of Confian elections#1996 Confian confidence vote]]                         |
-|  7  |         [[Noljež Teššan]]          | 1996 - 2000 |         [[Syndicalist League]]          |                     [[List of Confian elections#1996 Confian general election\|1996]]                      |
-|  8  |       [[Gravolja Lasmanna]]        | 2000 - 2002 |             [[Independent]]             |                                                                                  |
+|  5  |          [[Japlen Razol]]          | 1987 - 1990 |      [[Armotist Democratic Party]]      |                                                   *elected by governing coalition*                                                   |
+|  6  | [[Katerina Armoljubca Nožeslawna]] | 1990 - 1996 |         [[Syndicalist League]]          |              [[1990 Confian general election\|1990]], [[List of Confian elections#1994 Confian general election\|1994]]              |
+|  -  |   *[[Noljež Teššan]]* (interim)    |    1996     |         [[Syndicalist League]]          |                       [[List of Confian elections#1996 Confian confidence vote\|1996 Confian confidence vote]]                       |
+|  7  |         [[Noljež Teššan]]          | 1996 - 2000 |         [[Syndicalist League]]          |                                  [[List of Confian elections#1996 Confian general election\|1996]]                                   |
+|  8  |       [[Gravolja Lasmanna]]        | 2000 - 2002 |              *Independent*              |                                                                                                                                      |
 Presidents of the Confian Nation (President of the Nation/President)
 
 | No. |                Name                |    Term     |                                                                                Party                                                                                 |                                Election                                |
