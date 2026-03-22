@@ -91,4 +91,4 @@ era:
 tags:
   -
 ---
-**Mariana Marianowina Turreš Ljeranna** (Racpalian Alphabet: Марьана Мариановина Турреш Љеранна) was a Confian civil engineer, revolutionary guerilla fighter and politician that served as the 2nd President of the [[Confia|United Syndicates of Confia]].
+**Mariana Marianowina Turreš Ljeranna** (Racpalian Alphabet: Марьана Марьановина Турреш Љеранна) was a Confian civil engineer, revolutionary guerilla fighter and politician that served as the 2nd President of the [[Confia|United Syndicates of Confia]].

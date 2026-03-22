@@ -26,3 +26,4 @@ Caveat 2: If the President vacates the office mid-term, snap elections are calle
 
 # See also
 [[List of Confian elections]]
+[[List of Confian leaders]]
