@@ -9,9 +9,20 @@ The President is elected to rigidly fixed terms defined by the Confian election 
 
 ## Prime Minister
 
-The **Prime Minister** (Confian: Zăr(i/a) Haliosolec(a)/3ър(и/а) Хальесолец) of Confia, oficially the **President of the Council of Commissars of the United Syndicates of Confia** (Confian: Razawec(a) Mižessa Haliosolecih Săhnih Syndăkacam Końfiï/Разавец(а) Мижесса Халиосолецих Съхних Сындъкацам Коњфії) is the head of state of the United Syndicates of Confia. They are picked by the National Assembly of Confian Syndicates and confirmed by the President, though in practice they are the leader or leading candidate of the party with the largest amount of votes.
+The **Prime Minister** (Confian: Zăr(i/a) Haliosolec(a)/3ър(и/а) Хальесолец) of Confia, oficially the **President of the Council of Commissars of the United Syndicates of Confia** (Confian: Razawec(a) Mižessa Haliosolecih Săhnih Syndăkacam Końfiï/Разавец(а) Мижесса Халиосолецих Съхних Сындъкацам Коњфії) is the head of state of the United Syndicates of Confia. 
+They are picked by the National Assembly of Confian Syndicates and confirmed by the President, though in practice they are the leader or leading candidate of the party with the largest amount of votes.
 
 # Elections
 Both the Confian constitution of 1956 and that of 2009 define strict two-year intervals for national elections as follows:
-Cycle 1: Presidential elections, parliamentary elections
-Cycle 2: Confidence vote against Prime Minister
+Cycle 1: Presidential elections and parliamentary elections.
+Cycle 2: Confidence vote against Prime Minister.
+Cycle 3: Parliamentary elections.
+Cycle 4: Confidence vote against Prime Minister.
+Caveat 1: If the confidence vote is failed, snap elections are triggered. The most infamous example is the [[1996 coup]] against [[Katerina Armoljubca Nožeslawna|KAN]], but the 1980 destitution or [[Lenseka Japlenowina]] is also an example.
+Caveat 2: If the President vacates the office mid-term, snap elections are called. The successor serves within the rigidity of the cycles. Here, the resignation of [[Mariana Torres]] due to declining health and [[Boris Serec]]'s resignation due to corruption allegations can be cited, having triggered the 1987 and 199.
+
+
+
+
+# See also
+[[List of Confian elections]]
