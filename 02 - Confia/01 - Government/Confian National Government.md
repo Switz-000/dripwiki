@@ -12,6 +12,6 @@ The President is elected to rigidly fixed terms defined by the Confian election 
 The **Prime Minister** (Confian: Zăr(i/a) Haliosolec(a)/3ър(и/а) Хальесолец) of Confia, oficially the **President of the Council of Commissars of the United Syndicates of Confia** (Confian: Razawec(a) Mižessa Haliosolecih Săhnih Syndăkacam Końfiï/Разавец(а) Мижесса Халиосолецих Съхних Сындъкацам Коњфії) is the head of state of the United Syndicates of Confia. They are picked by the National Assembly of Confian Syndicates and confirmed by the President, though in practice they are the leader or leading candidate of the party with the largest amount of votes.
 
 # Elections
-Both the Confian constitution of 1956 and that of 2009 define strict two-year intervals for elections as follows:
-Cycle 1: Presidential elections 
-Cycle 2: Parliamentary elections, vote
+Both the Confian constitution of 1956 and that of 2009 define strict two-year intervals for national elections as follows:
+Cycle 1: Presidential elections, parliamentary elections
+Cycle 2: Confidence vote against Prime Minister
