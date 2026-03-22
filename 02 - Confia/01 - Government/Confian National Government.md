@@ -13,3 +13,5 @@ The **Prime Minister** (Confian: Zăr(i/a) Haliosolec(a)/3ър(и/а) Халье
 
 # Elections
 Both the Confian constitution of 1956 and that of 2009 define strict two-year intervals for elections as follows:
+Cycle 1: Presidential elections 
+Cycle 2: Parliamentary elections, vote
