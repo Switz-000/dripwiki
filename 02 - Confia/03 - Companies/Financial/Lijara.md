@@ -2,7 +2,7 @@
 type: company
 company_name: Vine Bank
 native_company_name: Ploít Lijara
-company_type: Public Corporation
+company_type: Public corporation
 founded: 1883
 founded_by:
 founding_place:
