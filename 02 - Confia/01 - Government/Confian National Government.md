@@ -18,7 +18,7 @@ Cycle 1: Presidential elections and parliamentary elections.
 Cycle 2: Confidence vote against Prime Minister.
 Cycle 3: Parliamentary elections.
 Cycle 4: Confidence vote against Prime Minister.
-Caveat 1: If the confidence vote is failed, snap elections are triggered. The most infamous example is the [[1996 coup]] against [[Katerina Armoljubca Nožeslawna|KAN]], but the 1980 destitution or [[Lenseka Japlenowina]] is also an appropriate example.
+Caveat 1: If the confidence vote is failed, snap elections are triggered. The most infamous occurence is the [[1996 coup]] against [[Katerina Armoljubca Nožeslawna|KAN]], but the 1980 destitution or [[Lenseka Japlenowina]] is also an appropriate example.
 Caveat 2: If the President vacates the office mid-term, snap elections are called. The successor serves within the rigidity of the cycles. Here, the resignation of [[Mariana Torres]] due to declining health and [[Boris Serec]]'s resignation due to corruption allegations can be cited, having triggered the 1987 and 1998 presidential elections respectively..
 
 
