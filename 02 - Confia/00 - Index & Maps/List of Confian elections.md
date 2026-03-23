@@ -11,5 +11,6 @@ It was won by [[Mariana Torres]].
 
 ## 1985 Confian general election
 
+
 ## Presidential election of 1986
 It was won by [[Boris Serec]] following [[Mariana Torres]]' resignation due to cognitive decline.
