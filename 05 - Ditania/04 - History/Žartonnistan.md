@@ -28,4 +28,3 @@ borders_south:
   - "[[Yakiria]]"
 ---
 
-
