@@ -7,7 +7,7 @@ lusitanized_name: Čalsor Bonar
 summary:
 known_for:
   - 
-sex:
+sex: male
 birth_year:
 birth_city:
 birth_state:

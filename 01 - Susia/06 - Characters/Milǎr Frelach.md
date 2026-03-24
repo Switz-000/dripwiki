@@ -7,7 +7,7 @@ lusitanized_name: Milar Frélach
 summary:
 known_for:
   - 
-sex:
+sex: male
 birth_year:
 birth_city:
 birth_state:
