@@ -28,7 +28,6 @@ tags:
   - technology
   - culture
 ---
-
 **Nayotai Corporation** is a [[Susia|Susian]] multinational corporation and one of the nation's six active [[Yarnojte|Yarnojtes]]. Founded in 1909 in [[Duolij]] through the merger of three engineering firms, Nayotai is Susia's primary manufacturer of transportation vehicles and infrastructure systems and one of the largest infrastructure contractors on the [[Dripstan]] continent. The company is headquartered at the [[Postia Manufacturing Center]] in [[Postia]] and employs approximately 700,000 people worldwide. As of 2080, its market capitalization is D$2.2 trillion. Its motto is "On Time, All the Time."
 
 Nayotai holds [[Yarnojte]] status granted in 2050 and operates two [[Free Economic Zone|Free Economic Zones]]: the [[Postia Manufacturing Center]] in [[Postia]] and the [[Sužielaj Industrial Park]] in [[Sužielaj]]. The company is publicly respected for the reliability of its engineering work and publicly criticized for the conditions under which that work is produced.
