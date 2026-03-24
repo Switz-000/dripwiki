@@ -6,7 +6,7 @@ lusitanized_name: Ergagério Sienes
 summary:
 known_for:
   - 
-sex: Male
+sex: male
 birth_year:
 birth_city: "[[Duolij]]"
 birth_state: "[[Postia]]"

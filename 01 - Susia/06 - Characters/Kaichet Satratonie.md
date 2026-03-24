@@ -7,7 +7,7 @@ summary:
 known_for:
   - "[[Liberal Revolts]]"
   - Treason
-sex: Male
+sex: male
 birth_year: 1809
 birth_city: "[[Lore-Kurji]]"
 birth_state: "[[Misocévia]]"

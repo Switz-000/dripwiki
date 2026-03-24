@@ -9,7 +9,7 @@ known_for:
   - "[[Letters to a Dead Republic]]"
   - "[[Evolution of Governance]]"
   - "[[The Great Transition]]"
-sex: Male
+sex: mele
 birth_year: 1960
 birth_city: "[[New Duloc]]"
 birth_state: "[[Postia]]"
