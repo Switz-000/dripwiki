@@ -17,8 +17,11 @@ capital: Legterpali
 major_cities:
 continent: Dripstan
 borders_east:
+  - "[[Kapiogg]]"
 borders_west:
+  - "[[Susia]]"
 borders_north:
+  - "[[Celiolaj]]"
 borders_south:
   - "[[Confia]]"
 ---
