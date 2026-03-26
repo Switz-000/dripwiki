@@ -1,4 +1,4 @@
-Presidents of the Council of Commissars of the United Syndicates of Confia (Prime Ministers)
+Presidents of the Council of Commissars of the United Syndicates of Confia (Prime Minister)
 
 | No. |                Name                |    Term     |           Party and coalition           |                                                             Election(s)                                                              |
 | :-: | :--------------------------------: | :---------: | :-------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
@@ -11,8 +11,8 @@ Presidents of the Council of Commissars of the United Syndicates of Confia (Prim
 |  5  |          [[Japlen Razol]]          | 1986 - 1990 |      [[Armotist Democratic Party]]      |                                                   *elected by governing coalition*                                                   |
 |  6  | [[Katerina Armoljubca Nožeslawna]] | 1990 - 1996 |         [[Syndicalist League]]          | [[List of Confian elections#1989 Confian general election\|1989]], [[List of Confian elections#1993 Confian general election\|1993]] |
 |  -  |   *[[Noljež Teššan]]* (interim)    |    1996     |         [[Syndicalist League]]          |                                          [[List of Confian elections#1996 coup\|1996 coup]]                                          |
-|  7  |         [[Noljež Teššan]]          | 1996 - 2000 |         [[Syndicalist League]]          | [[List of Confian elections#1996 Confian general election\|1996]], [[List of Confian elections#1997 Confian general election\|1997]] |
-|  8  |       [[Gravolja Lasmanna]]        | 2000 - 2002 |              *Independent*              |                                                                                                                                      |
+|  7  |         [[Noljež Teššan]]          | 1996 - 1999 |         [[Syndicalist League]]          | [[List of Confian elections#1996 Confian general election\|1996]], [[List of Confian elections#1997 Confian general election\|1997]] |
+|  8  |       [[Gravolja Lasmanna]]        | 1999 - 2001 |              *Independent*              |                                                                                                                                      |
 Presidents of the Confian Nation (President of the Nation/President)
 
 | No. |                Name                |    Term     |                                                                                Party                                                                                 |                                Election                                |
@@ -24,7 +24,7 @@ Presidents of the Confian Nation (President of the Nation/President)
 |  3  |          [[Boris Serec]]           | 1986 - 1993 |                                                                    [[Armotist Democratic Party]]                                                                     | [[List of Confian elections#1986 Confian presidential election\|1986]] |
 |  -  |          [[Boris Serec]]           | 1994 - 1998 |                                                                    [[Armotist Democratic Party]]                                                                     | [[List of Confian elections#1993 Confian presidential election\|1993]] |
 |  4  | [[Katerina Armoljubca Nožeslawna]] | 1998 - 2000 |                                                                        [[Syndicalist League]]                                                                        | [[List of Confian elections#1998 Confian presidential election\|1998]] |
-|  -  | [[Katerina Armoljubca Nožeslawna]] | 2001 - 2006 |                                                                        [[Syndicalist League]]                                                                        | [[List of Confian elections#2000 Confian presidential election\|2000]] |
+|  -  | [[Katerina Armoljubca Nožeslawna]] | 2001 - 2008 |                                                                        [[Syndicalist League]]                                                                        | [[List of Confian elections#2000 Confian presidential election\|2000]] |
 Leader of the Nation
 
 | No. |              Name              |    Term     |               Party               |        Election        |
