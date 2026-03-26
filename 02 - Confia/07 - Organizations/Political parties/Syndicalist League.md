@@ -9,6 +9,7 @@ aliases:
 status: Active
 founded_by:
   - "[[Katerina Armoljubca Nožeslawna|KAN]]"
+  - "[[Eriežera Lensekowina]]"
 founded: 1979
 dissolved:
 merger_of:
@@ -22,7 +23,7 @@ think_tank: Eriežera Lensekowina Foundation
 youth_wing: Young Syndicalists of Confia
 paramilitary:
 ideology:
-  - New Syndicalism
+  - "[[Syndicalism#New Syndicalism|New Syndicalism]]"
 political_position:
   - Centre-left
 wings:

@@ -1,1 +1,1 @@
-parasitas de merda
+**Ragged-sleeve** (Confian: Zapartej-zilo/Запартей-зило) is an informal term for a particular class of rentier capitalists active in [[Confia]].
