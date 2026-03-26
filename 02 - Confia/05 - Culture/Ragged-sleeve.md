@@ -1,1 +1,1 @@
-**Ragged-sleeve** (Confian: Zapartej-zilo/Запартей-зило) is an informal term for a particular class of rentier capitalists active in [[Confia]].
+**Ragged-sleeve** (Confian: Zapartej-zilo/Запартей-зило) is an informal term for a particular class of rent-seeking capitalists active in [[Confia]].
