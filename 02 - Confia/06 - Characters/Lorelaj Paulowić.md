@@ -30,8 +30,8 @@ occupation:
   - 
 party: "[[Union of Confian Syndicalists]]"
 political_alignment:
-  - "[[Orthodox Syndicalism]]"
-  - "[[Paulowić Model]]"
+  - "[[Syndicalism#Orthodox Syndicalism|Orthodox Syndicalism]]"
+  - "[[Syndicalism#Paulowić Model|Paulowić Model]]"
 organization:
   - 
 known_for:
