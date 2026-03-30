@@ -38,7 +38,7 @@ known_for:
   - "[[Sturdy Industry]]"
 historical_period:
   - post-war
-spouse: "[[Gravolja Sereca]]"
+spouse: "[[Grawolja Sereca]]"
 children: 3 (unnamed)
 criminal_charges:
   - Passive corruption

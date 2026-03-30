@@ -12,7 +12,7 @@ Presidents of the Council of Commissars of the United Syndicates of Confia (Prim
 |  6  | [[Katerina Armoljubca Nožeslawna]] | 1990 - 1996 |         [[Syndicalist League]]          | [[List of Confian elections#1989 Confian general election\|1989]], [[List of Confian elections#1993 Confian general election\|1993]] |
 |  -  |   *[[Noljež Teššan]]* (interim)    |    1996     |         [[Syndicalist League]]          |                                          [[List of Confian elections#1996 coup\|1996 coup]]                                          |
 |  7  |         [[Noljež Teššan]]          | 1996 - 1999 |         [[Syndicalist League]]          | [[List of Confian elections#1996 Confian general election\|1996]], [[List of Confian elections#1997 Confian general election\|1997]] |
-|  8  |       [[Gravolja Lasmanna]]        | 1999 - 2001 |              *Independent*              |                                                                                                                                      |
+|  8  |       [[Grawolja Lasmanna]]        | 1999 - 2001 |              *Independent*              |                                                                                                                                      |
 Presidents of the Confian Nation (President of the Nation/President)
 
 | No. |                Name                |    Term     |                                                                                Party                                                                                 |                                Election                                |

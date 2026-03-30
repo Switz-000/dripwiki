@@ -32,6 +32,7 @@ key_figures:
   - "[[Mikheli Kinpaum]]"
   - "[[Ganzir Ništanaen]]"
   - "[[Sarže Saron]]"
+  - "[[Pade Maluni]]"
 outcome: Victory for the ONDD liberal-capitalist bloc; collapse of the syndicalist bloc; Confian hard-line government overthrown; Flower Revolutions bring democratic transitions across the continent
 cause:
   - "[[Tahuni Accords]]"

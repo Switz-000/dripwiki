@@ -1,6 +1,6 @@
 ---
 type: person
-native_name: Gravolja Seriewina Lasmanna
+native_name: Grawolja Seriewina Lasmanna
 lusitanized_name:
 aliases:
   - Lasmanna
