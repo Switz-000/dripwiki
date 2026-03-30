@@ -6,7 +6,7 @@ aliases:
   - Torres
 summary:
 known_for:
-  - "[[Bayonet Revolution]]"
+  - "[[-Repo/02 - Confia/04 - History/Bayonet Revolution]]"
   - "[[Carlotopolis Uprising]]"
 sex: female
 birth_year: 1896
@@ -29,7 +29,8 @@ religion: "[[Armotist Church of the Confian Synod]]"
 enhanced: false
 education:
   - degree: Civil Engineering
-    institution: [[Polytechnic Institute of Koštanože]] 
+    institution:
+      - - Polytechnic Institute of Koštanože
     year: 1920
 written_works:
   - title: On fighting in the streets
@@ -49,7 +50,7 @@ party:
   - "[[Movement for Syndicalist Renovation|Movement for Syndicalist Renovation (1980-)]]"
   - "[[Progressive Republican Party|Progressive Republican Party (1954-1980)]]"
 political_alignment:
-  - [[Syndicalism#Revised Syndicalism|Six Points of Torres]]
+  - - - Syndicalism#Revised Syndicalism|Six Points of Torres
 organization:
   - 
 residence:
@@ -75,7 +76,7 @@ offices:
     employer: "[[Confian National Government]]"
     start: 1977
     end: 1977
-    appointer: "[[Bayonet Revolution]]"
+    appointer: "[[-Repo/02 - Confia/04 - History/Bayonet Revolution]]"
     party: "[[Progressive Republican Party]]"
     notes: Interim
 total_sentence:
@@ -89,6 +90,6 @@ criminal_charges:
     notes: Signed own amnesty
 era:
 tags:
-  -
+  - 
 ---
 **Mariana Marianowina Turreš Ljeranna** (Racpalian Alphabet: Марьана Марьановина Турреш Љеранна) was a Confian civil engineer, revolutionary guerilla fighter and politician that served as the 2nd President of the [[Confia|United Syndicates of Confia]].
