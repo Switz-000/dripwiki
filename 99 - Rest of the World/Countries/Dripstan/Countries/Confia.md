@@ -36,8 +36,7 @@ The territory where Confia is currently located began to be occupied by Racpalia
 
 After the end of the period of anarchy, in year 1956, the United Syndicates of Confia were created. The country was created as the first syndicalist state in the world, existing from 1956 to 1977 as a one-party state under the control of the dictator [[Lorelaj Paulowić]], of the [[Union of Confian Syndicalists]]. The brutality of this regime caused armed dissent, especially after the [[Second War of the Forest]], where the Confian intervention was seen by some as brutal and unnecessary. During the [[Continental War]], syndicalist and liberal guerrilla groups led by Mariana Torres organized a [[Bayonet Revolution|nationwide revolution]] and overthrew the SKS government.
 
-Following the revolution and the subsequent elections, the two main components of the NBSIH, the LjWP and KNP, formed a coalition that came to form the first Confia ngovernment after the revolution. The government, which became known as the "Orange Coalition," was headed by then Prime Minister [[Lenseka Japlenowina]]. Japlenowina's government fell and was temporarily replaced by [[Senjap Kunsekowić]] and finally by [[Boris Serec]], who governed for five years until being elected president.
-
+Following the revolution and the subsequent elections, Confia endured several democratically elected governments with peaceful power transitions and tranquil instances of cohabitation.
 # History
 ## Pre-Dripstanian history
 
@@ -52,6 +51,13 @@ During the occupation period, families from the lower Dripstanian aristocracy so
 ### Dripstanian Period (1786 - 1927)
 
 After the gradual occupation of Confian territory, in 1786 the General Government of the Lands of Confia was established as a way to administer the conquered territories more efficiently. The governor was directly appointed by the Empress, as there were no native aristocrats. As a General Government and not a captaincy or province, Confia did not participate in the Dripstanian Senate, but the governor possessed a degree of autonomy in issuing decrees. This administration was quickly taken over by the mežnuci, who used their negotiation and entrepreneurial skills to expand their businesses and monopolize industries.
+
+## War of Confian Secession (1927-1950) and the last days of the Empire (1950-1954)
+> Main article: [[War of Confian Secession]]
+
+
+## The Confian Anarchy (1954-1956)
+
 
 ## The Paulowić Era (1956-1977)
 
@@ -88,7 +94,7 @@ The labour camp known as the [[Talfaslaž]], a symbol of the General Government'
 
 ### The Continental War and the Bayonets Revolution (1975-1977)
 
-During the end days of the [[Continental War]], the NBSIH took Imgospalje, marching towards the [[Palace of the Revolution]]. Finding it empty, the end of the Paulowić government was declared. [[Mariana Torres]] was granted the title of interim leader.
+During the end days of the [[Continental War]], the RBWIZ took Imgospalje, marching towards the [[Palace of the Revolution]]. Finding it empty, the end of the Paulowić government was declared. [[Mariana Torres]] was granted the title of interim leader.
 
 ## Syndicalist Republic (1977-2009)
 
@@ -99,7 +105,7 @@ The period between the Bayonet Revolution and the *WIP 2009 event* became known 
 
 ### The Torres Provisional government (1977)
 
-As leader of the NSBIH, Mariana Torres was installed as the interim leader, temporarily occupying the role of Leader of the Nation, created by the [[Enabling Amendment]]. The Torres Government set out a transition timeline and new elections for late 1977, with the next government taking power in 1978. The 1956 Confian syndicalist constitution would be mostly restored to its original state by then, therefore removing the [[Enabling Amendment]] and other constitutional measures taken by Paulowić. The only change from the original text was the abrogation of Article 3, which strictly defined cooperative and state ownership as the only legitimate forms of property.
+As leader of the RBWIZ, Mariana Torres was installed as the interim leader, temporarily occupying the role of Leader of the Nation, created by the [[Enabling Amendment]]. The Torres Government set out a transition timeline and new elections for late 1977, with the next government taking power in 1978. The 1956 Confian syndicalist constitution would be mostly restored to its original state by then, therefore removing the [[Enabling Amendment]] and other constitutional measures taken by Paulowić. The only change from the original text was the abrogation of Article 3, which strictly defined cooperative and state ownership as the only legitimate forms of property.
  
 Economically, the transition government carried out a series of hasty privatizations to pay off war debts and in an unsuccessful attempt to dismantle the ragged-sleeve power structure.
 
