@@ -21,7 +21,7 @@ tags:
   - politics
   - culture
 ---
-TRANSCRIPT BEGINS
+ TRANSCRIPT BEGINS
 
 *Kolkov is already smoking when I arrive. The apartment is small, cramped, books stacked on every surface, papers scattered across a table that looks like it came from a salvage yard, ashtray overflowing with [[Vitrika|vitrikan]] cigarette butts. Through the window, I can see the [[Nayotai]] factory complex a few blocks away. The walls are bare except for a faded poster from a union rally.*
 
