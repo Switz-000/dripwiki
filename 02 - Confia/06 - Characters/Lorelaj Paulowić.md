@@ -5,7 +5,7 @@ lusitanized_name:
 aliases:
   - Paulović
 sex: male
-birth_year: 1912
+birth_year: 1909
 birth_city: "[[Gražža Erjogala]]"
 birth_state: "[[Koštanože]]"
 birth_country: "[[Dripstanian Empire]]"
