@@ -1,7 +1,7 @@
 ---
 type: person
-native_name:
-lusitanized_name: Vernoique Yatovar
+native_name: Veronique Yatovar
+lusitanized_name:
 aliases:
 summary:
 known_for:
@@ -9,21 +9,18 @@ known_for:
   - Crushing the Babalist Revolt
   - Colonization of Confia
   - Creation of the Dripstanian Army
-
 birth_year: 1720
 birth_city: "[[Duolij]]"
 birth_state: "[[Postia]]"
 birth_country: "[[Dripstanian Empire]]"
 citizenship: "[[Dripstanian Empire|Dripstanian]]"
 nationality: "[[Dripstanian Empire|Dripstanian]]"
-
 death_year: 1787
 death_city: "[[Duolij]]"
 death_state: "[[Postia]]"
 death_country: "[[Dripstanian Empire]]"
 death_cause: Gastric ulcer
-
-familiy: 
+familiy:
 parents:
   - "[[Emperor Agamilos|Agamilos]]"
 spouse: "[[Faranes the Feared]]"
@@ -33,10 +30,8 @@ children:
   - "[[Princess Natesse|Natesse]]"
   - "[[Prince Capraže|Capraže]]"
   - "[[Countess Valista|Valista]]"
-
 ethnicity: West gaiyanese
 religion: Armotism
-
 occupation:
   - Emperor
   - Military Officer
@@ -46,10 +41,8 @@ organization:
   - 
 historical_period:
   - 
-
 criminal_charges:
 enhanced: false
-
 education:
   - degree:
     institution:
