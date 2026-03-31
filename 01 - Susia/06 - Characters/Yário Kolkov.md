@@ -52,7 +52,7 @@ written_works:
     publication_date: 2006
     genre: Political philosophy
     notes: Critique of rigid institutional systems. Warns against the transformation of living philosophy into dead doctrine.
-  - title: "[[Democracy as Organism]]"
+  - title: "[[Democracy as an Organism]]"
     publication_date: 2008
     genre: Political philosophy
     notes: Final completed book before his death.
@@ -115,9 +115,6 @@ tags:
 “There is no correct system. There is only the system that survives long enough to be wrong in new ways.”  
 ― Yário Kolkov, [[Evolution of Governance]] (1997)
 
-“Show me an organism that doesn't change and I will show you a corpse”  
-― Yário Kolkov, [[Evolution of Governance]] (1997)
-
 “Do not ask what your system believes. Ask what it does when it is wrong.”  
 ― Yário Kolkov, [[Evolution of Governance]] (1997)
 
@@ -127,8 +124,14 @@ tags:
 “Beware anyone who turns thinkers into icons, for icons don't argue back. Beware anyone who takes living philosophy and makes it dead doctrine. And beware especially the organizations that need prophets more than they need truth.”  
 ― Yário Kolkov, [[The Tyranny of Order]] (2006)
 
+“Show me an organism that doesn't change and I will show you a corpse”  
+― Yário Kolkov, [[Democracy as an Organism]] (2008)
+
 “Honoring? For fuck's sake. They're not honoring me, Professor. They're necrophiliacs. They're fucking my corpse before I'm even dead.”  
 ― Yário Kolkov, [[Kolkov Interview 2009|Interview]] (2009)
 
 “...Because that's what believers do. They don't follow prophet, they make them. They need prophets to legitimate their faith. And if the prophet says 'I'm not your prophet', they just say 'look how humble he is!'”  
 ― Yário Kolkov, [[Kolkov Interview 2009|Interview]] (2009)
+
+“Here lies Yário Kolkov who died of lung cancer from cheap cigarettes because even he couldn't adapt to his own stupid choices”  
+― Yário Kolkov, [[Dead Man's Wit]]
