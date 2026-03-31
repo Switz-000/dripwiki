@@ -8,7 +8,7 @@ capital: "[[Kloshijie]]"
 largest_city: "[[Kloshijie]]"
 cities:
   - "[[Kloshijie]]"
-population_2080: 8300000000
+population_2080: 8300000
 population_2000:
 population_1970:
 hemisphere: western

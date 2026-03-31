@@ -5,14 +5,14 @@ native_company_name:
 company_type: Public corporation
 founded: 1909
 founding_place: "[[Duolij]]"
-headquarters: "[[Postia Manufacturing Center]]"
+headquarters: "[[Postia Manufacturing Center FEZ]]"
 market_cap: 2200000000000
 yarnojte: true
 yarnojte_granted: "2050"
 yarnojte_revoked:
 fez_locations:
-  - "[[Postia Manufacturing Center]]"
-  - "[[Sužielaj Industrial Park]]"
+  - "[[Postia Manufacturing Center FEZ]]"
+  - "[[Sužielaj Industrial Park FEZ]]"
 sector:
   - Industrials
 era:
@@ -28,7 +28,7 @@ tags:
   - technology
   - culture
 ---
-**Nayotai Corporation** is a [[Susia|Susian]] multinational corporation and one of the nation's six active [[Yarnojte|Yarnojtes]]. Founded in 1909 in [[Duolij]] through the merger of three engineering firms, Nayotai is Susia's primary manufacturer of transportation vehicles and infrastructure systems and one of the largest infrastructure contractors on the [[Dripstan]] continent. The company is headquartered at the [[Postia Manufacturing Center]] in [[Postia]] and employs approximately 700,000 people worldwide. As of 2080, its market capitalization is D$2.2 trillion. Its motto is "On Time, All the Time."
+**Nayotai Corporation** is a [[Susia|Susian]] multinational corporation and one of the nation's six active [[Yarnojte|Yarnojtes]]. Founded in 1909 in [[Duolij]] through the merger of three engineering firms, Nayotai is Susia's primary manufacturer of transportation vehicles and infrastructure systems and one of the largest infrastructure contractors on the [[Dripstan]] continent. The company is headquartered at the [[Postia Manufacturing Center FEZ]] in [[Postia]] and employs approximately 700,000 people worldwide. As of 2080, its market capitalization is D$2.2 trillion. Its motto is "On Time, All the Time."
 
 Nayotai holds [[Yarnojte]] status granted in 2050 and operates two [[Free Economic Zone|Free Economic Zones]]: the [[Postia Manufacturing Center]] in [[Postia]] and the [[Sužielaj Industrial Park]] in [[Sužielaj]]. The company is publicly respected for the reliability of its engineering work and publicly criticized for the conditions under which that work is produced.
 
@@ -60,10 +60,10 @@ Following the resolution of that crisis, Nayotai stabilized under new leadership
 
 #### Free Economic Zones
 
-> *Main article: [[Postia Manufacturing Center]]*
+> *Main article: [[Postia Manufacturing Center FEZ]]*
 > *Main article: [[Sužielaj Industrial Park]]*
 
-Nayotai's domestic manufacturing base is concentrated in its two Free Economic Zones. The [[Postia Manufacturing Center]], located two hours east of [[New Duloc]], is the company's global headquarters and primary production facility, housing approximately 82,000 residents. The [[Sužielaj Industrial Park]], located two hours north of [[Sužielaj City]], houses approximately 33,000 residents and specializes in rail systems and precision manufacturing. Both zones integrate residential, transit, and production infrastructure under unified management.
+Nayotai's domestic manufacturing base is concentrated in its two Free Economic Zones. The [[Postia Manufacturing Center FEZ]], located two hours east of [[New Duloc]], is the company's global headquarters and primary production facility, housing approximately 82,000 residents. The [[Sužielaj Industrial Park]], located two hours north of [[Sužielaj City]], houses approximately 33,000 residents and specializes in rail systems and precision manufacturing. Both zones integrate residential, transit, and production infrastructure under unified management.
 
 #### Independent Susia
 
@@ -131,7 +131,7 @@ Nayotai sponsors the [[Nayotai Motors (Crolball team)|Nayotai Motors]] [[Crolbal
 
 - [[Yarnojte]]
 - [[Free Economic Zone]]
-- [[Postia Manufacturing Center]]
+- [[Postia Manufacturing Center FEZ]]
 - [[Sužielaj Industrial Park]]
 - [[Lasman Economic Initiative]]
 - [[Kolkov Line]]

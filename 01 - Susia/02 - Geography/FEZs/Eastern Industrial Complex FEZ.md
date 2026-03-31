@@ -1,0 +1,1 @@
+The **Eastern Industrial Complex** is a [[Free Economic Zone|FEZ]] operated by [[Van Ritter]] in [[Misocévia]], located two hours south of [[Lore-Kurji]].

@@ -2,7 +2,9 @@
 aliases:
   - Soites FFTZ
   - SFFTZ
+abbreviation: SFFTZ
 ---
+The **Soites Federal Free Trade Zone** is a [[Free Economic Zone|FEZ]] operated by the [[Soites Group]]]] in [[Postia]], located two hours south of [[Duolij]]
 ## The core concept:
 
 - No sales taxes within Soites FFTZ: Get an instant 8% rebate at the register (Soites eats the cost, worth it for the foot traffic)

@@ -61,7 +61,7 @@ The [[Lasman River]] crosses the state from east to west before emptying into th
 
 ## Economy
 
-Dripia is the highest GDP per capita state in [[Susia]] at D$160,000 per capita as of 2070. Its economy is built on four pillars: finance and banking, centered in [[Neoveli]]; technology and research, concentrated at the [[Susian Innovation Center]] and [[New Kentu]]'s universities; forest products and paper manufacturing, historically important in the north; and higher education, which draws students and researchers from across the country.
+Dripia is the highest GDP per capita state in [[Susia]] at D$320,000 per capita as of 2080. Its economy is built on four pillars: finance and banking, centered in [[Neoveli]]; technology and research, concentrated at the [[Susian Innovation Center]] and [[New Kentu]]'s universities; forest products and paper manufacturing, historically important in the north; and higher education, which draws students and researchers from across the country.
 
 The [[Kolkov line]] high-speed rail connection to [[Postia]] has deepened economic integration between the two states, linking Neoveli to [[Duolij]] and the [[Soites Federal Free Trade Zone]] and reducing travel times that previously discouraged daily commerce.
 

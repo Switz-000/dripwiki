@@ -26,7 +26,7 @@ enhanced: false
 education:
   - degree: Political Science
     institution: "[[University of New Kentu]]"
-    year: 1984
+    year: 1992
 written_works:
   - title:
     publication_date:

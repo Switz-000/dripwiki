@@ -30,9 +30,13 @@ rivers:
 gdp_per_capita_2080: 205000
 has_fez: true
 yarnojtes_fez:
+  - "[[POCOIL]]"
   - "[[Vandernij & Milier|V&M]]"
   - "[[Van Ritter]]"
-  - "[[POCOIL]]"
+fez_locations:
+  - "[[Pounnun Oil Zone FEZ]]"
+  - "[[Donetruže Mineral Reserve FEZ]]"
+  - "[[Aerospecial Test Center FEZ]]"
 ---
 
 

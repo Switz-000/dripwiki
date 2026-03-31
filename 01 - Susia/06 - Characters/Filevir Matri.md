@@ -2,6 +2,7 @@
 type: person
 full_name: Filevir Matri
 aliases:
+  - Matri
 summary: Susian lawyer and politician; fifth President of Susia (1982–1986); also served as Governor of Postia, Senator, Secretary of Justice, and Vice President under Čalsor Bonár; known for early diplomatic groundwork toward the Lasman Economic Initiative and for his lobster table style of politics.
 sex: male
 birth_year: 1924
@@ -28,7 +29,9 @@ education:
 occupation:
   - Politician
   - Lawyer
-party: "[[Susian Democratic Union]]"
+party:
+  - "[[Susian Democratic Union]]"
+  - "[[White Stork Party]]"
 political_alignment:
 organization:
   - "[[Susian Democratic Union]]"
@@ -96,7 +99,7 @@ awards:
     notes:
 ---
 
-**Filevir Matri** (1924–2002) was a Susian lawyer and politician who served as the fifth President of [[Susia]] from 1982 to 1986. Before the presidency, he held office as Governor of [[Postia]], Senator for Postia twice, [[Secretary of Justice]] under [[Serčev Fimžer]], and Vice President under [[Čalsor Bonar]]. He lost the 1986 election to [[Filňar Čantij]] and returned to private legal practice in [[Duolij]], where he remained until his death in 2002.
+**Filevir Matri** (1924–2002) was a Susian lawyer and politician who served as the fifth President of [[Susia]] from 1982 to 1986. Before the presidency, he held office as Governor of [[Postia]], Senator for Postia twice, [[Secretary of Justice]] under [[Serčev Fimžer]], and Vice President under [[Čalsor Bonár]]. He lost the 1986 election to [[Filňar Čantij]] and returned to private legal practice in [[Duolij]], where he remained until his death in 2002.
 
 ## Early Life and Education
 
@@ -104,19 +107,19 @@ Matri was born in [[Duolij]] in 1924 and studied law at the [[University of Duol
 
 ## Governor of Postia (1954–1962)
 
-Matri was elected Governor of [[Postia]] for the [[Whi]] in 1954 at thirty years old, part of the first generation of politicians to hold office under the republic. His tenure was defined in its early years by the [[Minutemen]] crisis, in which anarcho-syndicalist cells conducted bombings and assassinations across [[Susia]]. The most consequential attack was the [[Neoveli Stock Exchange Bombing]] of 1955, which killed 43 people.
+Matri was elected Governor of [[Postia]] for the [[White Stork Party]] in 1954 at thirty years old, part of the first generation of politicians to hold office under the republic. His tenure was defined in its early years by the [[Minutemen]] crisis, in which anarcho-syndicalist cells conducted bombings and assassinations across [[Susia]]. The most consequential attack was the [[Neoveli Stock Exchange Bombing]] of 1955, which killed 43 people.
 
 Matri's response included the authorization of aggressive surveillance of union organizations and labor groups, mass arrests of suspected sympathizers, and crackdowns on organizations deemed connected to [[syndicalism|syndicalist]] networks. The measures drew sustained criticism from Postia|Postia's working class, who argued that legitimate [[labor|labor organizing]] was suppressed alongside genuine security threats. By the late 1950s Postia's syndicalist networks had been largely dismantled or driven underground.
 
 ## Senate and Federal Career (1962–1974)
 
-Matri stepped down from the governorship when [[Serčev Fimžer]] won the presidency in 1962 and won election to the [[Susian Senate]] representing [[Postia]]. In 1966, Fimžer appointed him [[Secretary of Justice]], a position he held through the remainder of Fimžer's second term. He returned to the Senate in 1970.
+In 1962 Matri couldn't run for another term as governor of Postia so he ran and won the election to the [[Susian Senate]] representing [[Postia]]. In 1966, Fimžer appointed him [[Secretary of Justice]], a position he held through the remainder of Fimžer's second term. He returned to the Senate in 1970.
 
 During the Sienes years, Matri was a consistent critic of [[Ergagério Sienes]]' [[Sienes Doctrine|détente policy]] toward [[Confia]], arguing that the approach was strategically counterproductive. The outcome of the [[Sutsa-Fuhu Civil War]] in 1973, which Susia did not contest, reinforced his position within the [[Susian Democratic Union]].
 
 ## Vice Presidency (1974–1982)
 
-Matri served as Vice President throughout [[Čalsor Bonar]]'s two terms, covering the final phase of the [[Continental Divide]], the [[Continental War]] (1975–1977), and the post-war reconstruction period. His formal role was secondary to the president's across all major decisions. He was publicly positioned as the natural successor within the [[Susian Democratic Union|FVS]] by the end of Bonár's presidency.
+Matri served as Vice President throughout [[Čalsor Bonár]]'s two terms, covering the final phase of the [[Continental Divide]], the [[Continental War]] (1975–1977), and the post-war reconstruction period. His formal role was secondary to the president's across all major decisions. He was publicly positioned as the natural successor within the [[Susian Democratic Union|FVS]] by the end of Bonár's presidency.
 
 ## Presidency (1982–1986)
 
@@ -146,7 +149,7 @@ He is consistently cited as a practitioner of the [[Lobster table|lobster table]
 
 ## See Also
 
-- [[Čalsor Bonar]]
+- [[Čalsor Bonár]]
 - [[Filňar Čantij]]
 - [[Serčev Fimžer]]
 - [[Ergagério Sienes]]

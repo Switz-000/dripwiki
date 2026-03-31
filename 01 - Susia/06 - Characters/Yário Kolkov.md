@@ -3,13 +3,14 @@ type: person
 native_name: Yaroch Kolkov
 lusitanized_name: Yário Kolkov
 aliases:
+  - Kolkov
 summary: Susian philosopher and engineer (1960–2011) born in New Duloc, Postia, whose theory of democracy as a living adaptive system became the intellectual foundation of the Great Transition and the techno-federative constitution. He worked at Nayotai (1982–1987) and Troli Ustaras (1987–1989) before beginning his writing career, and spent his later years warning against the institutional capture of his own ideas by the corporations he had criticized. He died of lung cancer in 2011.
 known_for:
   - "[[Kolkovianism]]"
   - "[[Letters to a Dead Republic]]"
   - "[[Evolution of Governance]]"
   - "[[The Great Transition]]"
-sex: mele
+sex: Male
 birth_year: 1960
 birth_city: "[[New Duloc]]"
 birth_state: "[[Postia]]"
