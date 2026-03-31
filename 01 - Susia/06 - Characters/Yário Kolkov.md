@@ -109,6 +109,18 @@ tags:
 “At Nayotai, they made us into cogs. At TU, they made us into believers. Which is worse? The cog knows it's being used. The believer thinks exploitation is enlightenment.”  
 ― Yário Kolkov, [[Letters to a Dead Republic]] (1990)
 
+“Susia died the day bureaucrats learnt they could bribe the public with the public's money.”  
+― Yário Kolkov, [[Food for the Fools]] (1994)
+
+“When the masses yearn for the impossible, only liars will quench their thirst.”  
+― Yário Kolkov, [[Food for the Fools]] (1994)
+
+“A man who cries for his leader has forgotten what tears are for.”  
+― Yário Kolkov, [[Food for the Fools]] (1994)
+
+“We, the most opulent society in human existence, will be the first destroyed not by scarcity, but by its only true rival: infinite desires and the limited supply of lies to satisfy them”  
+― Yário Kolkov, [[Food for the Fools]] (1994)
+
 “The perfect democracy would be the death of democracy, for perfection cannot adapt. Our goal is not perfect system but perfectly adaptive system.”  
 ― Yário Kolkov, [[Evolution of Governance]] (1997)
 
@@ -134,4 +146,7 @@ tags:
 ― Yário Kolkov, [[Kolkov Interview 2009|Interview]] (2009)
 
 “Here lies Yário Kolkov who died of lung cancer from cheap cigarettes because even he couldn't adapt to his own stupid choices”  
-― Yário Kolkov, [[Dead Man's Wit]]
+― Yário Kolkov, [[Dead Man's Wit]] 
+
+"I was right about everything. It made no difference. I am still deciding which of two is worse."
+― Yário Kolkov, [[Dead Man's Wit]] 
