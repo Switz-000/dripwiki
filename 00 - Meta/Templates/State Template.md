@@ -7,7 +7,7 @@ state_animal:
 capital:
 largest_city:
 cities:
-population_2070:
+population_2080:
 population_2000:
 population_1970:
 hemisphere:
@@ -20,7 +20,7 @@ landlocked:
 climate:
 topography:
 rivers:
-gdp_per_capita_2070:
+gdp_per_capita_2080:
 has_fez:
 yarnojtes_fez:
 ---

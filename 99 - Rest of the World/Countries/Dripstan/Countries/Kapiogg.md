@@ -5,7 +5,7 @@ goverment_type:
   - Parliamentary
   - Monarchy
   - Unitary
-population_2070: 78000000
+population_2080: 78000000
 population_2000: 65000000
 population_1970:
 population_1954: 37000000

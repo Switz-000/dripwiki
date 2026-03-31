@@ -37,7 +37,7 @@ borders_north:
 borders_south:
   - "[[Astofayan]]"
   - "[[Sutsa-Fuhu]]"
-gdp_per_capita_2070: 251000
+gdp_per_capita_2080: 251000
 gdp_2080: 62521000000000
 ---
 

@@ -2,7 +2,7 @@
 type: city
 country: "[[Susia]]"
 state: "[[Orlítia]]"
-population_2070: 1200000
+population_2080: 1200000
 population_2000:
 population_1970:
 landlocked: true

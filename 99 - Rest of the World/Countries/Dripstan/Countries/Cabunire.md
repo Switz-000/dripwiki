@@ -5,7 +5,7 @@ goverment_type:
   - Republic
   - Unitary
   - Hybrid regime
-population_2070:
+population_2080:
 population_2000:
 population_1970:
 population_1954:

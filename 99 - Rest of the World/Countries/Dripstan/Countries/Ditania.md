@@ -6,7 +6,7 @@ goverment_type:
   - Republic
   - Presidential
   - Consociationalist
-population_2070:
+population_2080:
 population_2000:
 population_1970: 13000000
 population_1954: 8000000

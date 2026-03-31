@@ -2,7 +2,7 @@
 type: city
 country: "[[Susia]]"
 state: "[[Misocévia]]"
-population_2070: 300000
+population_2080: 300000
 population_2000:
 population_1970:
 landlocked: true
