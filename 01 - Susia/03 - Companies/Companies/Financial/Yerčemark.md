@@ -15,6 +15,7 @@ sector:
   - Financials
 aliases:
   - Yerčemark Corporation
+founded_by: "[[Venvek Rashira]]"
 ---
 Marketshare:
 - Retail (12%): Growing fast popular with young people
