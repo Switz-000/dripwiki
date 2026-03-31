@@ -7,8 +7,8 @@
 |  3  |    [[Empress Veronique]]    | 1740 - 1787 |                                                                                     |
 |  4  |     [[Empress Yaneoli]]     | 1787 - 1815 |                                                                                     |
 |  -  |    *[[Empress Prazde]]*     | 1815 - 1823 |                Reign disputed throughout, [[Dripstanian Civil War]]                 |
-|  6  |        [[Jartes I]]         | 1823 - 1837 |                                                                                     |
-|  -  |        [[Jartes II]]        | 1837 - 1882 |                                                                                     |
-|  5  |     [[Emperor Soliman]]     | 1882 - 1950 |                                                                                     |
-|  6  |   *[[Filevir Gatojete]]*    | 1950 - 1954 |                           Served as Regent until collapse                           |
+|  5  |        [[Jartes I]]         | 1823 - 1837 |                                                                                     |
+|  6  |        [[Jartes II]]        | 1837 - 1882 |                                                                                     |
+|  7  |     [[Emperor Soliman]]     | 1882 - 1950 |                                                                                     |
+|  -  |   *[[Filevir Gatojete]]*    | 1950 - 1954 |                           Served as Regent until collapse                           |
 
