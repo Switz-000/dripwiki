@@ -7,7 +7,7 @@ state_animal:
 capital: "[[Detujehar]]"
 largest_city: "[[Detujehar]]"
 cities:
-population_2070:
+population_2080:
 population_2000:
 population_1970:
 hemisphere:
@@ -21,7 +21,7 @@ climate:
 topography: hills
 rivers:
   - "[[Lasman River]]"
-gdp_per_capita_2070:
+gdp_per_capita_2080:
 has_fez:
 yarnojtes_fez:
 ---

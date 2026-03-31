@@ -4,7 +4,7 @@ country: "[[Susia]]"
 state: "[[Neutral District]]"
 founded: 1874
 founded_by: "[[Jartes II]]"
-population_2070: 2500000
+population_2080: 2500000
 population_2000:
 population_1970:
 landlocked: true

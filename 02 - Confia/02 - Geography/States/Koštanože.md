@@ -7,7 +7,7 @@ state_animal:
 capital: "[[Saint Feriol]]"
 largest_city: "[[Imgospalje]]"
 cities:
-population_2070:
+population_2080:
 population_2000:
 population_1970:
 hemisphere: eastern
@@ -25,7 +25,7 @@ landlocked: true
 climate:
 topography:
 rivers:
-gdp_per_capita_2070:
+gdp_per_capita_2080:
 has_fez: false
 yarnojtes_fez:
 ---
