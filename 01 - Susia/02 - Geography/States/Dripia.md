@@ -79,7 +79,7 @@ Operated by [[Troli Ustaras]], located approximately one hour north of [[Neoveli
 - [[Vassénia]] (340k): Forest products and paper manufacturing. Strong union tradition, known for the [[Parhaj National Forest]].
 - [[Arkaime]] (210k): Major port on the [[Sea of Galil]], connected to [[Duolij]] by the [[Arkaime Bridge]]. Part of the [[Neoveli metropolitan area]].
 - [[Poremoj]] (180k): Part of the [[Neoveli metropolitan area]].
-- [[Forchev]] (95k): First imperial settlement site, protected historical city, home to the cathedral where Emperor Saint Mantichev was crowned.
+- [[Forchev]] (95k): First imperial settlement site, protected historical city, home to the cathedral where [[Saint Emperor Mantichev]] was crowned.
 - [[Jaffnidia]] (32k): Border town on the [[Lasman River]], site of [[Kaichet Satratonie|Satratonie]]'s betrayal during the [[Liberal Revolts]].
 
 ## Politics
