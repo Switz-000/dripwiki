@@ -6,7 +6,7 @@ location:
 rebellious_participants:
 legalist_participants:
 key_figures:
-outcome:
 cause:
+outcome:
 related_events:
 ---
