@@ -40,6 +40,10 @@ written_works:
     publication_date: 1990
     genre: Philosophy
     notes: First major work. Drew on his experiences at Nayotai and Troli Ustaras. Established his critique of corporate culture as a form of ideological capture.
+  - title: "[[Food for the Fools]]"
+    publication_date: 1994
+    genre: Political philosophy
+    notes: Essay on political demagogues, attacking not the demagogues but the audience who feeds from them and the institutions that allow them. Considered controversial at its time.
   - title: "[[Evolution of Governance]]"
     publication_date: 1997
     genre: Political philosophy
@@ -52,6 +56,10 @@ written_works:
     publication_date: 2008
     genre: Political philosophy
     notes: Final completed book before his death.
+  - title: "[[Dead Man's Wit]]"
+    publication_date: 2014
+    genre: Philosophy
+    notes: Kolkov's unfinished manuscripted, published years after his death. He kept revising and never released it. Three years later, a former student stumbled upon it in the University of New Kentu's archives, publishing it online.
 awards:
 occupation:
   - Philosopher
