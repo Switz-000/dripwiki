@@ -19,7 +19,7 @@ citizenship:
 nationality:
   - "[[Dripstanian Empire|Dripstanian]]"
   - "[[Confia|Confian]]"
-death_year: "1988"
+death_year: 1988
 death_city: "[[Carlotopolis]]"
 death_state: "[[Karlotopol']]"
 death_country: "[[Confia]]"

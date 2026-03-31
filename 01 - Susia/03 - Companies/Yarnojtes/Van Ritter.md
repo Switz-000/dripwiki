@@ -15,7 +15,6 @@ yarnojte_revoked:
 fez_locations:
   - "[[Eastern Industrial Complex FEZ]]"
   - "[[Aerospecial Test Center FEZ]]"
-  - "[[Harioslaj Naval Station FEZ]]"
 sector:
   - Industrials
 era:

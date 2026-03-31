@@ -6,7 +6,7 @@ native_name: Foren Virkrotoy Sužietich
 abbreviation: FVS
 status: Dissolved
 founded_by:
-founded:
+founded: 195
 dissolved:
 merger_of:
 split_from:
@@ -31,3 +31,5 @@ international_affiliation:
 national_affiliation:
 regional_affiliation:
 ---
+
+The **Susian Democratic Union** is a [[Party Federation]] in Susia that existed from 1954 until the [[The Great Transition|The Great Transition of 2038]] when it was dissolved with most of its constituent state parties joining the [[Coalition of State's Rights]] or the [[Democratic-Federalist Party]]

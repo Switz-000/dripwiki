@@ -20,7 +20,7 @@ death_year: 2034
 death_city:
 death_state:
 death_country:
-  - - Susia
+  - "[[Susia]]"
 death_cause: Natural causes
 ethnicity: West gaiyanese
 religion: "[[Reformed Armotism]]"

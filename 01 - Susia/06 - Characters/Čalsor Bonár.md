@@ -1,9 +1,8 @@
 ---
 aliases:
-  - Cássio Bonfim
 type: person
 native_name: Čǎlsor Bonňár
-lusitanized_name: Čalsor Bonar
+lusitanized_name: Čalsor Bonár
 summary:
 known_for:
   - 

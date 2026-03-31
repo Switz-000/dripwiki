@@ -38,9 +38,13 @@ yarnojtes_fez:
   - "[[Soites Group]]"
   - "[[Nayotai]]"
   - "[[POCOIL]]"
-  - "[[Vandernij & Milier|V&M]]"
 aliases:
   - Postian
+fez_locations:
+  - "[[Soites Federal Free Trade Zone|Soites FFTZ]]"
+  - "[[Postia Manufacturing Center FEZ]]"
+  - "[[Harioslaj Oil Zones FEZ]]"
+  - "[[Postia Manufacturing Center FEZ]]"
 ---
 
 

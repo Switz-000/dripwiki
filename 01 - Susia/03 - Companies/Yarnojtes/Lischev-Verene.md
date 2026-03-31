@@ -48,7 +48,7 @@ By the 2050s, Lischev was losing market share to competitors better positioned t
 
 ### The Merger (2065)
 
-The merger was driven by complementary deficiencies. Verene had the research and clinical pipeline; Lischev had the manufacturing infrastructure and distribution network. The resulting entity was incorporated as a standard public corporation, eliminating Verene's Public Benefit Corporation status. Lischev, as the larger and more established partner, contributed the dominant corporate culture. Verene's more idealistic institutional character was largely absorbed into Lischev's professional and pragmatic orientation, a transition that caused significant attrition among Verene's research staff in the first years following the merger.
+The merger was driven by complementary deficiencies. Verene had the research and clinical pipeline; Lischev had the manufacturing infrastructure and distribution network. The resulting entity was incorporated in [[Sužielaj City]] as a standard public corporation, eliminating Verene's Public Benefit Corporation status. Lischev, as the larger and more established partner, contributed the dominant corporate culture. Verene's more idealistic institutional character was largely absorbed into Lischev's professional and pragmatic orientation, a transition that caused significant attrition among Verene's research staff in the first years following the merger.
 
 [[Red Iron]] led the merger's financial structuring.
 
@@ -162,8 +162,6 @@ The program has not been the subject of a successful regulatory action as of 208
 
 %%
 FLAGS:
-- "Parkinson's disease": used plain text rather than an in-world name. The vault has Tarlanna's disease as the in-world equivalent for Alzheimer's. No in-world name for Parkinson's has been established. Flagged for Martín to decide whether an equivalent should be created.
-- Founding place listed as Sužielaj City in the frontmatter (per existing vault stub). The source doc lists headquarters as Garden of Latice FEZ. These are not in conflict: the merger was finalized in Sužielaj City; HQ moved to the FEZ upon its establishment in 2073.
 - Employee count (880k) and market cap (D$3.2 trillion) sourced from both the vault stub and the source doc, which agree.
 - The source doc describes the experimental wellness program but cuts off before completing the "Legal Gray Zone" section. The article treats what is present as complete canon and does not speculate about the truncated content.
 - Agricultural biotechnology section: figures (34% licensed, 60% GMO total) and export markets sourced from session canon. No source doc or vault article previously established this. Recorded here as session-decided canon.
