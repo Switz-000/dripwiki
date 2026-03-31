@@ -8,7 +8,7 @@ capital: "[[Donetruže]]"
 largest_city: "[[Donetruže]]"
 cities:
   - "[[Donetruže]]"
-population_2070: 35000000
+population_2080: 35000000
 population_2000:
 population_1970:
 hemisphere: eastern
@@ -27,7 +27,7 @@ landlocked: true
 climate:
 topography:
 rivers:
-gdp_per_capita_2070: "103000"
+gdp_per_capita_2080: 205000
 has_fez: true
 yarnojtes_fez:
   - "[[Vandernij & Milier|V&M]]"

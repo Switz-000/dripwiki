@@ -6,10 +6,10 @@ goverment_type:
   - Techno-Corporate
   - Presidential
   - Republic
-population_2070: 247140394
-population_2000: 168903014
-population_1970: 93403910
-population_1954: 74598676
+population_2080: 247140000
+population_2000: 168903000
+population_1970: 93403000
+population_1954: 74598000
 religion: "[[Reformed Armotism]]"
 languages: "[[Susian language|Susian]]"
 currency: "[[Susian monetary system|Federal and Transactional Drip]]"
@@ -37,6 +37,8 @@ borders_north:
 borders_south:
   - "[[Astofayan]]"
   - "[[Sutsa-Fuhu]]"
+gdp_per_capita_2070: 251000
+gdp_2080: 62521000000000
 ---
 
 

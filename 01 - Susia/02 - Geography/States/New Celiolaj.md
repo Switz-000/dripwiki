@@ -8,7 +8,7 @@ capital: "[[Unarete]]"
 largest_city: "[[Unarete]]"
 cities:
   - "[[Unarete]]"
-population_2070: 5500000
+population_2080: 5500000
 population_2000:
 population_1970:
 hemisphere: eastern
@@ -29,7 +29,7 @@ landlocked: false
 climate: boreal
 topography:
 rivers:
-gdp_per_capita_2070: "72000"
+gdp_per_capita_2080: 155000
 has_fez: true
 yarnojtes_fez:
   - "[[Atompron]]"
