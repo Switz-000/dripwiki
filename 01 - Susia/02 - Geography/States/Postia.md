@@ -11,7 +11,7 @@ cities:
   - "[[Nikuria]]"
   - "[[New Duloc]]"
   - "[[Noňofriye]]"
-population_2070: 45000000
+population_2080: 45000000
 population_2000:
 population_1970:
 hemisphere: western
@@ -32,7 +32,7 @@ landlocked: false
 climate:
 topography:
 rivers:
-gdp_per_capita_2070: "150000"
+gdp_per_capita_2080: 289000
 has_fez: true
 yarnojtes_fez:
   - "[[Soites Group]]"

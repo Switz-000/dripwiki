@@ -10,7 +10,7 @@ cities:
   - "[[Niqueparje]]"
   - "[[Yatovarlaj]]"
   - "[[Lore-Kurji]]"
-population_2070: 25000000
+population_2080: 25000000
 population_2000:
 population_1970:
 hemisphere: eastern
@@ -30,7 +30,7 @@ climate: oceanic
 topography: plains
 rivers:
   - "[[Lasman River]]"
-gdp_per_capita_2070:
+gdp_per_capita_2080: 195000
 has_fez: true
 yarnojtes_fez:
   - "[[Van Ritter]]"

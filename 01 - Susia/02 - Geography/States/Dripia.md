@@ -14,7 +14,7 @@ cities:
   - "[[Poremoj]]"
   - "[[Forchev]]"
   - "[[Jaffnidia]]"
-population_2070: 40000000
+population_2080: 40000000
 population_2000:
 population_1970:
 hemisphere: western
@@ -35,7 +35,7 @@ climate: oceanic
 topography: plains
 rivers:
   - "[[Lasman River]]"
-gdp_per_capita_2070: "160000"
+gdp_per_capita_2080: 320000
 has_fez: true
 yarnojtes_fez:
   - "[[Troli Ustaras]]"

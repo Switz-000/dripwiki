@@ -10,7 +10,7 @@ cities:
   - "[[Hǎvesna]]"
   - "[[Velúria]]"
   - "[[Razrij]]"
-population_2070: 27000000
+population_2080: 27000000
 population_2000:
 population_1970:
 hemisphere: western
@@ -30,7 +30,7 @@ landlocked: false
 climate:
 topography:
 rivers:
-gdp_per_capita_2070: "108000"
+gdp_per_capita_2080: 185000
 has_fez: false
 yarnojtes_fez:
 ---

@@ -8,7 +8,7 @@ capital: "[[Soiteslaj]]"
 largest_city: "[[Soiteslaj]]"
 cities:
   - "[[Soiteslaj]]"
-population_2070: 2800000
+population_2080: 2800000
 population_2000:
 population_1970:
 hemisphere: eastern
@@ -26,7 +26,7 @@ climate: oceanic
 topography: plains
 rivers:
   - None
-gdp_per_capita_2070: "220000"
+gdp_per_capita_2080: 607000
 has_fez: false
 yarnojtes_fez:
 ---

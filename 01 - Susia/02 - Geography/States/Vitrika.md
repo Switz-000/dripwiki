@@ -8,7 +8,7 @@ capital: "[[Kruie ro Yietre]]"
 largest_city: "[[Kruie ro Yietre]]"
 cities:
   - "[[Kruie ro Yietre]]"
-population_2070: 15000000
+population_2080: 15000000
 population_2000:
 population_1970:
 hemisphere: western
@@ -27,7 +27,7 @@ landlocked: false
 climate:
 topography:
 rivers:
-gdp_per_capita_2070: "83000"
+gdp_per_capita_2080: 170000
 has_fez: false
 yarnojtes_fez:
 aliases:
