@@ -23,9 +23,9 @@ Stances marked _(historical)_ are no longer active positions in mainstream polit
 
 ### Sapientism
 
-%%In this world, due to the %%
+%%In this world, the word "human" is avoided due to the anatomic differences between genuses the word "sapient" is more utilized. %%
 
-The position that moral and political consideration is owed to all beings capable of knowing choice, regardless of species or origin. Includes [[Tekur|Tekurs]], [[Gaiyanese (race)|Gaiyaneses]], [[Ariwaroid (race)|Ariwaroids]], and any other sapient peoples.
+The position that moral and political consideration is owed to all beings fully capable of sapience: self-awareness, abstract reasoning, complex language, moral reasoning, meta cognition and cumulative knowledge, regardless of genus or origin. Includes [[Tekur|Tekurs]], [[Gaiyanese (race)|Gaiyaneses]], [[Ariwaroid (race)|Ariwaroids]], and any other sapient peoples.
 
 ### Cosmopolitanism
 
@@ -37,19 +37,13 @@ The position that technological modification of human biology and cognition is a
 
 ### Bio-Conservatism
 
-The position that the unmodified human form has intrinsic value and that technological alteration of cognition or biology carries risks that justify caution or outright opposition. Not necessarily religious in origin. In the enhancement era, bio-conservatives argue that enhancement violates the "natural" human condition. Present across the [[Coalition of State's Rights]] and in religiously conservative communities in Susia.
-
-### Natural Rights
-
-The position, derived from [[Armadesh Versij]], that rights are discovered through reason rather than granted by government. Rights are pre-political, inalienable, and universal. Government's role is to recognize and protect them, not create them. The foundational philosophical stance of the Susian republic. Versij's "Recognition Doctrine" holds that government is a mirror reflecting natural rights, not a sun creating them.
-
-### Negative Rights
-
-The position that rights guarantee freedom from interference, not entitlements to outcomes. In Versij's formulation, there is no natural right to employment, only to offer labor freely; no natural right to bread, only to pursue it without interference. A right that requires violating another's rights is not a right at all. This stance opposes positive rights, which it characterizes as requiring others' labor. The philosophical basis of Susian skepticism toward welfarism and redistributionism in their stronger forms.
+The position that the unmodified human form has intrinsic value and that technological alteration of cognition or biology carries risks that justify caution or outright opposition. Not necessarily religious in origin. In the enhancement era, bio-conservatives argue that enhancement violates the natural human condition. Present across the [[Coalition of State's Rights]] and in religiously conservative communities in Susia.
 
 ### Susian Exceptionalism
 
-_(Susia-specific)_ The belief that [[Susia]] and its civilization occupy a qualitatively distinct place in history: that Susian values, institutions, and national experience represent a superior model whose survival and spread are of universal significance. The narrative is organized around a founding myth: persecuted settlers who crossed an ocean, built the largest empire in world history, dissolved it peacefully into a democracy, defended it against syndicalism, and reformed it through the [[The Great Transition|Great Transition]]. Three philosophical sources feed the position: [[Armotism|Armotist]] theology (the settlement as divine refuge), [[Armadesh Versij|Versij's]] natural rights philosophy (the republic as founded on discovered truths), and [[Suizo Soites|Soites']] pragmatic liberalism (the institutions work and their record justifies confidence). [[Yário Kolkov|Kolkov's]] competitive governance theory added a fourth strand: the claim that the Great Transition demonstrated democracy's capacity for self-improvement. Taught in every Susian civics curriculum, present across the political spectrum, and intensified by the [[Ashgerad]] cold war, where losing would, in this framework, prove the national narrative was wrong.
+> *Main article: [[Susian Exceptionalism]]*
+
+_(Susia-specific)_ The belief that [[Susia]] and its civilization occupy a qualitatively distinct place in history: that Susian values, institutions, and national experience represent a superior model whose survival and spread are of universal significance. The narrative is organized around a founding myth: persecuted settlers who crossed an ocean, built the largest empire in world history, dissolved it peacefully into a democracy, defended it against syndicalism, and reformed it through the [[The Great Transition|Great Transition]]. Three philosophical sources feed the position: [[Armotism|Armotist]] theology (the settlement as divine refuge), [[Armadesh Versij|Versij's]] natural rights philosophy (the republic as founded on discovered truths), and [[Suizo Soites|Soites']] pragmatic liberalism (the institutions work and their record justifies confidence). [[Yário Kolkov|Kolkov's]] competitive governance theory added a fourth strand: the claim that the Great Transition demonstrated democracy's capacity for self-improvement.
 
 ---
 
@@ -63,21 +57,20 @@ The distribution of sovereign authority between the national government and subn
 
 The concentration of governing authority in the national government. The operating mode of the [[Lorelaj Paulowić|Paulović]] government in Confia, where SUPOPLAN directed the economy under Mixed Planning, and of most imperial administrations across Dripstanian history.
 
-### States' Rights
+### Localism
 
-The position that subnational governments are the primary locus of legitimate authority and that national power should be narrow and strictly enumerated. In Susia, the defining constitutional stance of the [[Coalition of State's Rights]] and during the pre-transition era, the [[Susian Liberal Party]]. Strongest in the rural and southern states of [[Vitrika]], [[Nessel]], and [[Troli]].
-
+The position that subnational governments are the primary locus of legitimate authority and that national power should be narrow and strictly enumerated. In Susia, the defining constitutional stance of the [[Coalition of State's Rights]] and during the pre-transition era, the [[Susian Liberal Party]].
 ### Regionalism
 
 The position that distinct geographic, cultural, or economic regions within a nation deserve meaningful political autonomy or formal representation as regions rather than as administrative subdivisions. Distinct from separatism in that it seeks power within the existing state rather than outside it. Active in Susian states, in Zaphonian regional politics, and historically in the captaincy rivalries of the [[Dripstanian Empire]].
 
 ### Competitive Federalism
 
-The position, derived from [[Yário Kolkov|Kolkov]], that multiple governance models should coexist and compete for citizens, with mobility between them as the primary accountability mechanism. The theoretical basis of the Susian [[Free Economic Zone|FEZ system]]. Different governance approaches compete; citizens vote with their feet; best practices emerge through selection. Critics argue it masks corporate power; defenders argue it internalizes chaos productively.
+The position, derived from [[Yário Kolkov|Kolkov]], that multiple governance models should coexist and compete for citizens, with mobility between them as the primary accountability mechanism. The theoretical basis of the Susian [[Free Economic Zone|FEZ system]]. Different governance approaches compete; citizens vote with their feet; best practices emerge through selection.
 
 ### Technocracy
 
-Governance by credentialed experts rather than elected representatives. In Susia, institutionalized in the [[Chamber of Experts]] and the [[Secretariat of Efficiency]]. Applied to the fullest extent in [[Ashgerad]], through the [[NTechnical Exams of the Land of Ashgerad]], the [[Technical Chamber]] and the [[National Technical Administrative Council]]. Ashgerad's technocracy represents the antithesis of Susian democratic governance, making the stance a central axis of the civilizational cold war.
+Governance by credentialed experts rather than elected representatives. In Susia, institutionalized in the [[Chamber of Experts]] and the [[Secretariat of Efficiency]]. Applied to the fullest extent in [[Ashgerad]], through the [[Technical Exams of the Land of Ashgerad]], the [[Technical Chamber]] and the [[National Technical Administrative Council]].
 
 ### Meritocracy
 
@@ -89,7 +82,7 @@ The concentration of effective political power in a small group, typically defin
 
 ### Corporatocracy
 
-The position that corporations are legitimate governance actors with territorial authority. The Susian FEZ system is its partial institutional expression; critics apply the label pejoratively to the same arrangement. The [[Modernist Alliance]]'s corporate modernist faction reads [[Yário Kolkov|Kolkov's]] work as justification for expanded corporate autonomy, though whether this represents a faithful reading or intellectual capture is contested.
+The position that corporations are legitimate governance actors with territorial authority. The Susian FEZ system is its partial institutional expression; critics apply the label pejoratively to the same arrangement. The [[Modernist Alliance]]'s corporate modernist faction reads [[Yário Kolkov|Kolkov's]] work as justification for expanded corporate autonomy, though whether this represents a faithful reading is contested.
 
 ### Republicanism
 
@@ -101,7 +94,7 @@ The position that enforceable legal limits on state power are a precondition for
 
 ### Presidentialism
 
-The concentration of executive authority in a directly elected president with a strong independent mandate. The Susian system is presidentialist in structure, modified by confidence votes, the [[Chamber of Experts]] and the [[Susian Senate]]. Grounded in the "Great Executive Theory," which holds that the president embodies the nation as a whole and derives legitimacy directly from the people, not from the legislature. The Susian president cannot be affiliated with a political party.
+The concentration of executive authority in a directly elected president with a strong independent mandate. The Susian system is presidentialist in structure, modified by confidence votes, the [[Chamber of Experts]] and the [[Susian Senate]]. Grounded in the "Great Executive Theory," which holds that the president embodies the nation as a whole and derives legitimacy directly from the people, not from the legislature. 
 
 ### Parliamentarism
 
@@ -133,7 +126,7 @@ The position that long-term sustainability of public finances requires restraint
 
 ### Industrialism
 
-The position that industrial production is the foundation of national wealth, power, and social progress, and that policy should actively promote it. Distinct from developmentalism in that it does not require state leadership; private industrial expansion is equally acceptable. The background economic assumption of the Dripstanian Empire and of most Dripstanian states through the twentieth century.
+The position that industrial production is the foundation of national wealth, power, and social progress, and that policy should actively promote it. Distinct from developmentalism in that it does not require state leadership; private industrial expansion is equally acceptable. The background economic assumption of the Dripstanian Empire and of most Dripstanian states through the new century.
 
 ### Dirigisme
 
@@ -165,11 +158,6 @@ National economic strategy built on resource extraction for export. The dominant
 
 Worker ownership and management of the means of production through syndicates. The founding economic model of Confia; survived in institutional form after 1977 despite the retreat of its economic content. Originated in the mid-1800s Confian urbanization boom when [[Ganzer Kieronne]], an [[Analyticalism|analyticalist]] writer, argued that profit is theft and ownership of the means of production by any apart from those who work in them is illegitimate. Kieronne's vision was for syndicates to function as economic and political control structures electing councils from local to national level. His work carried a [[Wanašer Gerzăn|Gerzanian]] interpretation, treating syndicates as a uniquely Confian and Racpalian expression. The stance has produced several major variants:
 
-- **Orthodox Syndicalism** (Kieronnean Syndicalism): the strictest form, calling for direct collective control over all industries and all levels of government. Nominally pursued by the Paulowić regime during its initial years but abandoned for Mixed Planning by 1960.
-- **Revised Syndicalism**: based on the Six Points of [[Mariana Torres|Torres]], accepts limited private participation in some markets while balancing cooperative ownership in smaller businesses and state ownership of major utilities. The stance of the [[Movement for Syndicalist Renovation]].
-- **New Syndicalism** (Moderate Syndicalism): rejects the syndicalist economic framework of self-management entirely, postulating that syndicates should focus on improving working conditions and securing benefits and good wages for workers. Systematized by [[Eriežera Lensekowina]]. The stance of the [[Syndicalist League]].
-- **Liberal Syndicalism**: a variant of New Syndicalism that emphasizes economic freedom and entrepreneurship as the main driver of economic growth and prosperity while sheltering the necessity for collective bargaining institutions.
-
 ### Anti-Syndicalism
 
 The position that syndicalist governance and economics represent a fundamental threat to individual liberty and economic prosperity, and should be opposed both domestically and abroad. The defining foreign policy orientation of Susia during the [[Continental Divide]] (1957–1977), when syndicalism spreading across the continent was treated as an existential threat. Domestically, the stance justified the [[MAGEN act]] of 1975, which restricted left-wing parties, and the [[Federal Loyalty Act]]. Present as an explicit ideology of Susian conservative parties such as the [[White Stork Party]] and historically across the [[Susian Democratic Union]]. The stance lost its primary target after the [[Continental War]] but its institutional legacy, including the [[ONDD]], the [[Frumentarze]]'s expanded powers, and the [[Fortress Complex]] orientation, persisted well beyond the conflict.
@@ -188,7 +176,7 @@ The position that technological abundance can eliminate material want as a socia
 
 ### Universal Income
 
-Unconditional cash transfers to all citizens regardless of employment status. Proposed by the Modernist Alliance's utopian faction in Susia; not enacted as of 2080.
+Unconditional cash transfers to all citizens regardless of employment status. Proposed by the Modernist Alliance's Utopian faction in Susia; not enacted as of 2080.
 
 ### Privatization
 

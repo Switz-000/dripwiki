@@ -151,7 +151,7 @@ tags:
 
 **RAROSKA:** Can I ask about your current work?
 
-**KOLKOV:** I'm writing about [[Competitive federalism]]. How to structure systems where different governance models compete without one dominating. Corporate zones, traditional states, experimental communities-all coexisting, all competing for residents, all forced to improve because people can leave.
+**KOLKOV:** I'm writing about [[List of political positions#Competitive Federalism|Competitive Federalism]]. How to structure systems where different governance models compete without one dominating. Corporate zones, traditional states, experimental communities-all coexisting, all competing for residents, all forced to improve because people can leave.
 
 **RAROSKA:** That sounds like it would appeal to TU.
 
