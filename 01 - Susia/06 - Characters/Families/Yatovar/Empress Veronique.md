@@ -82,9 +82,9 @@ Aware that much of the population was apprehensive about a woman ruling, Veroniq
 
 The Babalists, furious at the Senate reform — which they saw as an attack on the [[Armotism|Armotist]]-guided imperial structure — organized an armed revolt in 1750 to depose Veronique in favor of her brother Babal. Around 2,000 rebels seized [[Nessel]] and took the daughter of the Marquis of Nessel hostage.
 
-Veronique's response was overwhelming. She recruited peasants from across the captaincies, assembling an army of over 50,000 men — unprecedented in scale on the continent — over eight months. When her forces entered Nessel, the rebels surrendered immediately upon seeing the army's size. Veronique nevertheless ordered her soldiers to shoot anyone wearing the Babalists' green hoods, killing 680 men on the first day. After a week-long hunt, 387 remaining captives were promised amnesty and resettlement on the island of Povebe and instructed to board a barge bound for the island.
+Veronique's response was overwhelming. She recruited peasants from across the captaincies, assembling an army of over 50,000 men — unprecedented in scale on the continent — over eight months. When her forces entered Nessel, the rebels surrendered immediately upon seeing the army's size. Veronique nevertheless ordered her soldiers to shoot anyone wearing the Babalists' green hoods, killing 680 men on the first day. After a week-long hunt, 387 remaining captives were promised amnesty and resettlement on the ficticious island of [[Povebe]] and instructed to board a barge bound for the island.
 
-When the barge was approximately 100 meters from the port of [[Postia]], Veronique ordered cannons to fire incendiary rounds at it. The barge burned. Everyone aboard drowned or burned. The crowd cheered.
+When the barge was approximately 100 meters from the port of [[Duolij]], Veronique ordered cannons to fire incendiary rounds at it. The barge burned. Everyone aboard drowned or burned. The crowd cheered.
 
 The episode transformed public perception of Veronique's rule. The brutality was not condemned — it was celebrated as proof of her competence. It paved the way for later gender equality reforms by demonstrating that a woman could govern without mercy.
 
