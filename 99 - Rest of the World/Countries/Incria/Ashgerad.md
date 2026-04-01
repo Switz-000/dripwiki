@@ -1,13 +1,14 @@
 ---
-official_name: Technate of the Lands of Ashgerad
+official_name: Technate of the Land of Ashgerad
 full_official_name: Eternally and Naturally Graced by the Primary Goddess Ryо̄žža, Bearer of Wisdom and Supreme Guide of Justice, the Technate of the Land of Ashgerad
 type: country
 goverment_type:
   - Technate
   - Contrafederalist
-  - Presidential
   - Authoritarian
   - Confessional
+  - Collective leadership
+  - Parliamentary
 population_2080:
 population_2000:
 population_1970:
