@@ -170,7 +170,7 @@ The combination of economic isolation, northern attrition, and the collapse of t
 
 ## Aftermath
 
-The post-war [[Flower Revolutions]] brought democratic governments to Confia and several formerly syndicalist-aligned states across the continent. Confia's transition from adversary to partner proceeded through the following decades: the [[Lasman Economic Initiative]] of 1995 established a customs union between the two states, and Confia joined the ONDD in 1998.
+The post-war [[Flower Revolutions]] brought democratic governments to Confia and several formerly syndicalist-aligned states across the continent. Confia's transition from adversary to partner proceeded through the following decades: Confia joined the ONDD in 1993, and the [[Lasman Economic Initiative]] of 2000 established a customs union between the two states.
 
 The ONDD itself evolved from an anti-syndicalist alliance into a broader democratic security structure, reorienting toward the containment of [[Ashgerad]] as the primary threat of the following century.
 

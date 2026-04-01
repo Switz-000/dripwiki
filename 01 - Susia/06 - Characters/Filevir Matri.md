@@ -125,7 +125,7 @@ Matri served as Vice President throughout [[Čalsor Bonár]]'s two terms, coveri
 
 ### Confian diplomatic groundwork
 
-Beginning in 1983, Matri opened back-channel diplomatic contact with [[Confia]]'s government under [[Boris Serec]], with the aim of establishing a framework for economic normalization between the two countries. The negotiations were conducted largely out of public view, through trade officials and legal representatives, and produced no signed agreement during his term. The framework developed during this period contributed to the [[Lasman Economic Initiative]], signed in 1995 under a subsequent administration.
+Beginning in 1983, Matri opened back-channel diplomatic contact with [[Confia]]'s government under [[Boris Serec]], with the aim of establishing a framework for economic normalization between the two countries. The negotiations were conducted largely out of public view, through trade officials and legal representatives, and produced no signed agreement during his term. The framework developed during this period contributed to the [[Lasman Economic Initiative]], signed in 2000 under a subsequent administration.
 
 Matri met Serec at the [[Presidential Palace (Soiteslaj)|presidential palace]] on at least one occasion during this period.
 
