@@ -12,7 +12,7 @@ population_1970:
 population_1954:
 religion: "[[Armotist Church of the Confian Synod]]"
 languages: Confian
-currency:
+currency: Piereji Kesma (K$)
 international_organizations:
   - "[[ONDD]]"
   - "[[Tekuri Ljas Accord]]"
