@@ -43,7 +43,7 @@ tags:
 
 ### Founding and early development (1959–1977)
 
-Troli Ustaras was founded in 1959 in [[Donetruže]], in the eastern state of [[Troli]], during the early years of the [[Continental Divide]]. The company's initial focus was computing and automation research. Its founding coincided with the rapid industrialization of the post-[[Tahuni Accords|independence]] period and the federal government's growing interest in technology as a strategic asset against [[Confia]]'s syndicalist bloc.
+Troli Ustaras was founded in 1959 in [[Donetruže]], in the eastern state of [[Troli]], during the early years of the [[Continental Divide]]. The company's initial focus was computing research. Its founding coincided with the rapid industrialization of the post-[[Tahuni Accords|independence]] period and the federal government's growing interest in technology as a strategic asset against [[Confia]]'s syndicalist bloc.
 
 %% TODO: Founding figures and early leadership %%
 
@@ -101,13 +101,13 @@ Cognitive enhancement hardware is manufactured exclusively by TU under a mandate
 
 ### Outside the FEZ
 
-TU maintains a substantial presence in independent Susia through offices, research campuses, and manufacturing facilities concentrated in [[Dripia]] and [[Postia]]. Employment outside the FEZ carries high salaries and benefits relative to the broader Susian market, though not at FEZ levels. The company's selectivity is notable: TU hires from the top tier of Susian graduates, and placement within the [[Susian Innovation Center]] is considered the most competitive employment outcome in the Susian technology sector.
+TU maintains a substantial presence in independent Susia through offices, research campuses, and manufacturing facilities concentrated in [[Dripia]] and [[Postia]]. Employment outside the FEZ carries high salaries and benefits relative to the broader Susian market, though not at FEZ levels. The company's selectivity is notable: TU hires from the top tier of Susian graduates, and placement within the [[Susian Innovation Center]] is considered the most competitive employment outcome in the Susian technology sector. The company also operates some of the most prestigious universities in Susia such as the [[Kolkov Institute for Innovation]] in [[Neoveli]], the [[Capital Institute of Technology and Policy]] in [[Soiteslaj]], the [[Southern Technical College]] in [[Donetruže]] and the [[Apaj College of Sciences and Engineering]] 
 
 ## Free Economic Zone
 
 > *Main article: [[Susian Innovation Center]]*
 
-The [[Susian Innovation Center]] FEZ in [[Dripia]] is TU's sole FEZ and its global headquarters. As of 2080, the zone houses approximately 180,000 residents. It integrates research and development facilities, manufacturing, residential infrastructure, schools from primary through university level, healthcare, and recreational amenities under unified TU administration.
+The [[Susian Innovation Center]] FEZ in [[Dripia]] is TU's sole FEZ and its global headquarters. As of 2080, the zone houses approximately 180,000 residents. It integrates research and development facilities, manufacturing, residential infrastructure, schools from primary through university level, healthcare, and recreational amenities under unified TU administration. TU also operates inside the FEZ the
 
 The zone is the most selective residential community in Susia by employment criteria. Residents are predominantly current TU employees and their families. Housing, healthcare, and education are provided by TU as components of the employment relationship. The zone's infrastructure is extensively monitored through smart city systems.
 
@@ -137,7 +137,7 @@ TU's attempted bribery of a Secretariat of Efficiency member in 2047 resulted in
 
 ## In popular culture
 
-TU is the subject of sustained public ambivalence in Susian culture. The company's products are used by nearly all Susians. Its FEZ is simultaneously aspirational, regarded as the most intellectually serious workplace in the country, and unsettling, regarded as the clearest example of what total corporate integration of daily life produces. The phrase "going TU" is used in colloquial Susian to describe someone who has become so absorbed in a project or institution that they have lost perspective on the outside world.
+TU is the subject of sustained public ambivalence in Susian culture. The company's products are used by nearly all Susians. Its FEZ is simultaneously aspirational, regarded as the most intellectually serious workplace in the country, and unsettling, regarded as the clearest example of what total corporate integration of daily life produces.
 
 TU sponsors the [[TU Innovators]] [[Crolball|crolball]] team in the [[Susian National Crolball League]]. The team occupies the ambivalent position common to corporate-sponsored clubs: it draws a consistent audience from the TU employee community but lacks the civic roots of the league's most popular teams.
 
@@ -168,10 +168,6 @@ The [[Kolkov Learning Center]] at TU's [[Donetruže]] headquarters opened in 200
 
 %%
 FLAGS:
-- Founding description conflict: source docs describe TU as founded "as a computer firm" in one location and "as an automation research firm" in another. Both are in the docs, not resolved by the vault stub. Article uses "computing and automation research" as a compromise. Confirm canonical founding description.
-- Founding figures: unknown. No source establishes the founders of TU. Left blank in frontmatter and omitted from the history section. Stub candidate.
-- Yarnojte_revoked field: the vault Yarnojte article establishes revocation in 2047 and re-granting in 2051. The frontmatter field yarnojte_revoked is left blank because TU's status is currently active. If the schema intends this field to record historical revocations, it should be updated. Confirm intended schema behavior.
-- Source docs state Yarnojte status was "regranted in 2050." The vault Yarnojte article states status was regranted in 2051 following restructuring. Vault article takes precedence. 2051 used throughout.
 - Susian Innovation Center FEZ article: referenced throughout. The existing vault stub has frontmatter but no body content confirmed. Stub candidate for expansion.
 - TU university: the docs establish TU operates a university within the FEZ. No vault article confirmed for this institution.
 - Kolkov Learning Center: referenced in the Kolkov Interview 2009 vault document. No dedicated vault article confirmed. Stub candidate.
