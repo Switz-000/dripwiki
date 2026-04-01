@@ -13,4 +13,3 @@
 | [[Apaj Academy of Sciences and Engineering]]   | [[Susian Innovation Center]] | [[Dripia]]           | Private | [[Troli Ustaras]]                                 | 2046    |
 | [[Lasman Valley State University]]             | [[Lore-Kurji]]               | [[Misocévia]]        | Public  | [[Misocévia\|State of Misocévia]]                 | 1974    |
 | [[Neoveli School of Finance and Economics]]    | [[Neoveli]]                  | [[Dripia]]           | Private |                                                   | 1901    |
-|                                                |                              |                      |         |                                                   |         |
