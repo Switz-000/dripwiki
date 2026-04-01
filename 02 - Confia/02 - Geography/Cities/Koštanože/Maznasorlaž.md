@@ -8,4 +8,4 @@ population_1975:
 population_1970:
 landlocked: true
 ---
-**Maznasorlaž** (Confian with the Racpalian Alphabet: Мазнасорлаж; Pažen Susian: Meznessorlaj) is a Pažen settlement in [[Koštanože]]
+**Maznasorlaž** (Confian with the Racpalian Alphabet: Мазнасорлаж; Pažen Susian: Meznessorlaj) is a Pažen settlement in [[Koštanože]].
