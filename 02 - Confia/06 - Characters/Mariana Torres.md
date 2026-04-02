@@ -6,7 +6,7 @@ aliases:
   - Torres
 summary:
 known_for:
-  - "[[-Repo/02 - Confia/04 - History/Bayonet Revolution]]"
+  - "[[Bayonet Revolution]]"
   - "[[Carlotopolis Uprising]]"
 sex: female
 birth_year: 1896
@@ -50,7 +50,7 @@ party:
   - "[[Movement for Syndicalist Renovation|Movement for Syndicalist Renovation (1980-)]]"
   - "[[Progressive Republican Party|Progressive Republican Party (1954-1980)]]"
 political_alignment:
-  - - - Syndicalism#Revised Syndicalism|Six Points of Torres
+  - "[[Syndicalism#Revised Syndicalism|Six Points of Torres]]"
 organization:
   - 
 residence:
