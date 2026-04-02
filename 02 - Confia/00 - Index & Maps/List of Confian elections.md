@@ -6,7 +6,7 @@ It followed the [[Bayonet Revolution]]. It was won by [[Mariana Torres]].
 
 ## 1980 Confian confidence vote
 
-Japlenowina lost with 83% of the seats.
+	Japlenowina lost, with 83% of the seats voting against.
 
 ## 1985 Confian general election
 
