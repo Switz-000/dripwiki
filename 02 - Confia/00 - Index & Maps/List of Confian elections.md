@@ -2,7 +2,14 @@
 This was the first election for head of state in the history of independent Confia. It was also the only presidential election in Confian history to be held indirectly, citing lack of civilian infrastructure for vote collecting for an universal suffrage vote. The only two candidates were [[Lorelaj Paulowić]] of the [[Union of Confian Syndicalists]] and [[Mariana Torres]] of the [[Progressive Republican Party]]. The former was victorious and went on to institute the [[Enabling Amendment]].
 
 ## Presidential election of 1977
-It followed the [[-Repo/02 - Confia/04 - History/Bayonet Revolution]]. It was won by [[Mariana Torres]].
+It followed the [[Bayonet Revolution]]. It was won by [[Mariana Torres]].
+
+## 1980 Confian confidence vote
+
+Japlenowina lost with 83% of the seats.
+
+## 1985 Confian general election
+
 
 ## 1985 presidential election
 It was won by [[Mariana Torres]].
