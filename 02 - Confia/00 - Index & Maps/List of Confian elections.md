@@ -67,6 +67,7 @@ It was won by [[Boris Serec]] following [[Mariana Torres]]' resignation due to c
 | :-------------------------------------: | :-------------------------------------: | :-------: | :-------: |
 |             [[Boris Serec]]             |      [[Armotist Democratic Party]]      |   44.1%   | 2nd round |
 | [[Katerina Armoljubca Nožeslawna\|KAN]] |         [[Syndicalist League]]          |   27.4%   | 2nd round |
+|          [[Saserna Kašdunna]]           |        [[Confian Liberal Party]]        |   9.1%    | Defeated  |
 |          [[Genrih Maskernie]]           | [[Movement for Syndicalist Renovation]] |   0.4%    | Defeated  |
 2nd round
 
