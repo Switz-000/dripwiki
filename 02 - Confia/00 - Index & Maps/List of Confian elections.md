@@ -79,9 +79,13 @@ It was won by [[Boris Serec]] following [[Mariana Torres]]' resignation due to c
 
 ## 1989 Confian general election
 
+
 ## 1993 Confian general election
 
 
+## 1996 Confian confidence vote
+
+Japlenowina lost, with 83% of the seats voting against her permanence.
 ## 1996 Confian general election
 
 
