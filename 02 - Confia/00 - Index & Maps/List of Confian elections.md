@@ -13,7 +13,7 @@ This was the first election for head of state in the history of independent Conf
 | :------------------: | :-------------------------------: | :---------: | :------: |
 | [[Lorelaj Paulowić]] | [[Union of Confian Syndicalists]] | *227 seats* | Elected  |
 |  [[Mariana Torres]]  | [[Progressive Republican Party]]  | *123 seats* | Defeated |
-## Presidential election of 1977
+## 1977 Confian presidential election
 It followed the [[Bayonet Revolution]]. It was won by [[Mariana Torres]].
 
 |       Candidate       |               Party               | Votes (%) |  Status  |
@@ -60,7 +60,7 @@ Second round:
 
 ## 1985 Confian general election
 
-## Presidential election of 1986
+## 1986 Presidential election
 It was won by [[Boris Serec]] following [[Mariana Torres]]' resignation due to cognitive decline.
 
 |                Candidate                |                  Party                  | Votes (%) |  Status   |
@@ -83,9 +83,13 @@ It was won by [[Boris Serec]] following [[Mariana Torres]]' resignation due to c
 ## 1993 Confian general election
 
 
+## 1983 Confian presidential election
+
+
 ## 1996 Confian confidence vote
 
-Japlenowina lost, with 83% of the seats voting against her permanence.
+
+
 ## 1996 Confian general election
 
 
