@@ -49,7 +49,7 @@ It was won by [[Mariana Torres]].
 |           [[Mariana Torres]]            | [[Movement for Syndicalist Renovation]] |   41.6%   | 2nd round |
 |             [[Boris Serec]]             |      [[Armotist Democratic Party]]      |   37.1%   | 2nd round |
 | [[Katerina Armoljubca Nožeslawna\|KAN]] |         [[Syndicalist League]]          |   10.4%   | Defeated  |
-|                                         |                                         |           |           |
+|          [[Saserna Kašdunna]]           |        [[Confian Liberal Party]]        |           |           |
 |                                         |                                         |           |           |
 Second round:
 
@@ -83,8 +83,22 @@ It was won by [[Boris Serec]] following [[Mariana Torres]]' resignation due to c
 ## 1993 Confian general election
 
 
-## 1983 Confian presidential election
+## 1993 Confian presidential election
 
+It was won by [[Boris Serec]] following [[Mariana Torres]]' resignation due to cognitive decline.
+
+|                Candidate                |                  Party                  | Votes (%) |  Status   |
+| :-------------------------------------: | :-------------------------------------: | :-------: | :-------: |
+|             [[Boris Serec]]             |      [[Armotist Democratic Party]]      |   44.1%   | 2nd round |
+| [[Katerina Armoljubca Nožeslawna\|KAN]] |         [[Syndicalist League]]          |   27.4%   | 2nd round |
+|          [[Saserna Kašdunna]]           |        [[Confian Liberal Party]]        |   9.1%    | Defeated  |
+|          [[Genrih Maskernie]]           | [[Movement for Syndicalist Renovation]] |   0.4%    | Defeated  |
+2nd round
+
+|                Candidate                |             Party             | Votes (%) |  Status  |
+| :-------------------------------------: | :---------------------------: | :-------: | :------: |
+|             [[Boris Serec]]             | [[Armotist Democratic Party]] |   66.1%   | Elected  |
+| [[Katerina Armoljubca Nožeslawna\|KAN]] |    [[Syndicalist League]]     |   33.9%   | Defeated |
 
 ## 1996 Confian confidence vote
 
