@@ -8,7 +8,7 @@ status: Active
 founded_by:
   - "[[Boris Serec]]"
 founded: 1980
-dissolved:
+dissolved: 2000
 merger_of:
 split_from: "[[Confian Liberal Party]]"
 merged_into:
