@@ -43,11 +43,12 @@ awards:
     country:
     notes:
 occupation:
-  - 
+  - Military Officer
+  - Politician
 party:
-  - 
+  - Independent
 political_alignment:
-  - 
+  - Right-wing
 organization:
   - 
 residence:

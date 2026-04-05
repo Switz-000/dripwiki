@@ -100,7 +100,7 @@ Economically, the transition government carried out a series of hasty privatizat
 
 ### The Making of the Torres Era and the Orange Coalition (1978-1980)
 
-Following the elections of the year 1977, the newly reformed [[Progressive Republican Party|LjWP]] formed a government with the [[Confian LIberal Party|KNP]], appointing [[Lenseka Japlenowina]] as the first democratically elected Confian prime minister after the end of the Paulowić era. Japlenowina's government, was known as the "Orange Coalition" (iConfian: Ražawna Halja/).
+Following the elections of the year 1977, the newly reformed [[Progressive Republican Party|LjWP]] formed a government with the [[Confian Liberal Party|KNP]], appointing [[Lenseka Japlenowina]] as the first democratically elected Confian prime minister after the end of the Paulowić era. Japlenowina's government, was known as the "Orange Coalition" (iConfian: Ražawna Halja/).
 
 #### The Roškoša Plans
 
