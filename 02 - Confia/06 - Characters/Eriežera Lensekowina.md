@@ -75,4 +75,4 @@ era:
 tags:
   -
 ---
-**Eriežera Lensekowina Kasselja** (Racpalian Alphabet: Ерьежера Ленсековина Кассеља) was a Confian philosopher and writer. 
+**Eriežera Lensekowina Kasselja** (Racpalian Alphabet: Ерьежера Ленсековина Кассеља) was a Confian syndicalist philosopher, writer and anti-[[Paulowić regime]] activist. She is credited with the philosophical foundations of what would later become [[Syndicalism#New Syndicalism|New Syndicalism]].
