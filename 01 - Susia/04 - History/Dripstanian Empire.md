@@ -1,4 +1,5 @@
 ---
 aliases:
   - Dripstanian
+type: country
 ---
