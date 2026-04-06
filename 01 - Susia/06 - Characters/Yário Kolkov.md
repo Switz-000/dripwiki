@@ -136,7 +136,7 @@ tags:
 “Beware anyone who turns thinkers into icons, for icons don't argue back. Beware anyone who takes living philosophy and makes it dead doctrine. And beware especially the organizations that need prophets more than they need truth.”  
 ― Yário Kolkov, [[The Tyranny of Order]] (2006)
 
-“Show me an organism that doesn't change and I will show you a corpse”  
+“Show me an organism that doesn't change and I will show you a corpse.”  
 ― Yário Kolkov, [[Democracy as an Organism]] (2008)
 
 “Honoring? For fuck's sake. They're not honoring me, Professor. They're necrophiliacs. They're fucking my corpse before I'm even dead.”  
