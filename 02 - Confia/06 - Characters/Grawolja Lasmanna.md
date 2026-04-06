@@ -74,3 +74,9 @@ era:
 tags:
   -
 ---
+**Grawolja Seriewina Lasmanna** (Racpalian Alphabet: Борис Родочевич Серец) is a Confian economist and banker that served as the 6th Prime Minister of the [[Confia|United Syndicates of Confia]], as well as the 2nd Director of its Central Bank. 
+
+
+## Quotes
+
+> Some ask me if I'd rather be feared or loved. I don't mind either. I would rather do what's necessary. If I'm loved for it, good for them. If I'm feared for it, that's a shame. If they'l
