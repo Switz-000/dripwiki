@@ -80,4 +80,4 @@ awards:
     country:
     notes:
 ---
-**Boris Rodočewić Serec** (Racpalian Alphabet: Борис Родочевич Серец) is a Confian labour rights lawyer and politician that served as the 6th Prime Minister and 2nd President of the [[Confia|United Syndicates of Confia]].
+**Boris Rodočewić Serec** (Racpalian Alphabet: Борис Родочевіч Серец) is a Confian labour rights lawyer and politician that served as the 6th Prime Minister and 2nd President of the [[Confia|United Syndicates of Confia]].
