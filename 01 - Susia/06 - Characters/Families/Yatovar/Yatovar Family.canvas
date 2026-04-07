@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"8b137d148092fb11","x":-380,"y":-300,"width":400,"height":400,"type":"file","file":"-Repo/01 - Susia/06 - Characters/Families/Yatovar/Empress Veronique.md"},
-		{"id":"2d85ddee54e77a86","x":600,"y":-300,"width":400,"height":400,"type":"file","file":"-Repo/01 - Susia/06 - Characters/Families/Faranes the Feared.md"}
-	],
-	"edges":[
-		{"id":"4ea3c3f10163b80b","fromNode":"8b137d148092fb11","fromSide":"right","toNode":"2d85ddee54e77a86","toSide":"left","fromEnd":"arrow","label":"Marrige"}
-	]
-}
