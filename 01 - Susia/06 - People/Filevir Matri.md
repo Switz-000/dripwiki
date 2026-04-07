@@ -5,16 +5,6 @@ aliases:
   - Matri
 summary: Susian lawyer and politician; fifth President of Susia (1982–1986); also served as Governor of Postia, Senator, Secretary of Justice, and Vice President under Čalsor Bonár; known for early diplomatic groundwork toward the Lasman Economic Initiative and for his lobster table style of politics.
 sex: male
-birth_year: 1924
-birth_city: "[[Duolij]]"
-birth_state: "[[Postia]]"
-birth_country: "[[Dripstanian Empire]]"
-citizenship:
-  - "[[Dripstanian Empire|Dripstanian]]"
-  - "[[Susia|Susian]]"
-nationality:
-  - "[[Susia|Susian]]"
-  - "[[Dripstanian Empire|Dripstanian]]"
 death_year: 2002
 death_city: "[[Duolij]]"
 death_state: "[[Postia]]"
@@ -90,13 +80,10 @@ offices:
     appointer:
     party: "[[Susian Democratic Union]]"
     notes:
-awards:
-  - title:
-    awarded:
-    posthumous:
-    granted_by:
-    country:
-    notes:
+birth_year: 1924
+birth_city: "[[Duolij]]"
+birth_state: "[[Postia]]"
+birth_country: "[[Dripstanian Empire]]"
 ---
 
 **Filevir Matri** (1924–2002) was a Susian lawyer and politician who served as the fifth President of [[Susia]] from 1982 to 1986. Before the presidency, he held office as Governor of [[Postia]], Senator for Postia twice, [[Secretary of Justice]] under [[Serčev Fimžer]], and Vice President under [[Čalsor Bonár]]. He lost the 1986 election to [[Filňar Čantij]] and returned to private legal practice in [[Duolij]], where he remained until his death in 2002.
