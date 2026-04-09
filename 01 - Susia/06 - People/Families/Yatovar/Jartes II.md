@@ -50,7 +50,7 @@ After the revolts, Jartes enacted limited political reforms, including universal
 
 > *Main article: [[Agamilos Račev]]*
 
-Jartes II was personally fascinated with [[Incria]] and reversed [[Empress Veronique|Veronique]]'s policy of non-interference with the continent. He befriended the explorer [[Agamilos Račev]], who established the first imperial embassy in [[Ashgerad]]. Račev and his teams signed unequal treaties with Incrian tribes — treaties that in practice declared those tribes subjects of Jartes II, authorizing tribute collection.
+Jartes II was personally fascinated with [[Incria]] and reversed [[Empress Veronique|Veronique]]'s policy of non-interference with the continent. He befriended the explorer [[Agamilos Račev]], who established the first imperial embassy in [[Ashgerad]]. Račev and his teams signed unequal treaties with Incrian tribes, treaties that in practice declared those tribes subjects of Jartes II, authorizing tribute collection.
 
 Jartes II then established the **Public Order Force of the General Government of Incria**, which functioned as a combined army, police, and resource extraction organ. It operated through quotas imposed on local tribes, enforced with torture, kidnappings, sexual violence, and murder.
 
