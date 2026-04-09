@@ -103,6 +103,30 @@ Executive authority derived from and accountable to the legislature. The dominan
 ### Separatism
 
 The position that a region, people, or community should form an independent state outside the existing political structure. Distinct from regionalism, which seeks power within the state. Present in Susian politics primarily as [[List of political stances#Tekur Separatism|Tekur Separatism]] in [[New Celiolaj]]; historically associated with secession movements during the dissolution of the [[Dripstanian Empire]].
+### Multiple Party System (MPS)
+
+A system where an individual can be part of multiple political parties with non-overlapping issue positions, organized by "phases" of particular topics. Present historically in the [[General Government of Confia]], with the Economic, Social and National phases. Not to be confused with a multiparty system.
+
+### Single Party System (SPS)
+
+A system where an individual can only be a part of a single political party, which aim to have positions on issues that contradict each other. Present in virtually every country with a multiparty system, the exeption having been the [[General Government of Confia]]. Not to be confused with a one-party system.
+
+### One-party system
+
+A system where only one party is allowed to exist, is constitutionally linked to the state or is otherwise the only viable option for political participation. Present in [[Confia]] during the [[Paulowić regime]] and many of its aligned syndicalist dictatorships. Not to be confused with a Single Party System (SPS).
+
+### Multiparty system
+
+A system where multiple parties are allowed. Present in virtually every democratic country, most notably in the [[Confia|Confian]] Syndicalist Republic.  Not to be confused with a Multiple Party System (MPS).
+
+### Household suffrage
+
+(*Confia-specific*) A manner of suffrage distribution that assigns one vote per household, thus disproportionately enfranchising older women. Present in the [[General Government of Confia]] until 1845.
+
+### Per-capita suffrage
+
+(*Confia-specific*) A manner of suffrage distribution that assigns one vote per household, enfranchising younger citizens as opposed to household suffrage. Implemented in 1845. Standard way of suffrage distribution outside of Confia.
+
 
 ---
 
@@ -156,7 +180,7 @@ National economic strategy built on resource extraction for export. The dominant
 
 > _Main article: [[Syndicalism]]_
 
-Worker ownership and management of the means of production through syndicates. The founding economic model of Confia; survived in institutional form after 1977 despite the retreat of its economic content. Originated in the mid-1800s Confian urbanization boom when [[Ganzer Kieronne]], an [[Analyticalism|analyticalist]] writer, argued that profit is theft and ownership of the means of production by any apart from those who work in them is illegitimate. Kieronne's vision was for syndicates to function as economic and political control structures electing councils from local to national level. His work carried a [[Wanašer Gerzăn|Gerzanian]] interpretation, treating syndicates as a uniquely Confian and Racpalian expression. The stance has produced several major variants:
+Worker ownership and management of the means of production through syndicates. The founding economic model of Confia; survived in institutional form after 1977 despite the retreat of its economic content. Originated in the mid-1800s Confian urbanization boom when [[Ganzer Kieronne]], an [[Analyticalism|analyticalist]] writer, argued that profit is theft and ownership of the means of production by any apart from those who work in them is illegitimate. Kieronne's vision was for syndicates to function as economic and political control structures electing councils from local to national level. The stance has produced several major variants.
 
 ### Anti-Syndicalism
 
@@ -241,6 +265,14 @@ _(Susia-specific)_ Autonomous or independent Tekur political institutions. A min
 ### Cognitive Libertarianism
 
 _(Susia-specific)_ The position that individuals have a fundamental right to modify their own cognition, and that cognitive enhancement is a matter of personal autonomy rather than public policy. The [[Cognitive Rights Act]] frames enhancement choice as a natural right. The [[Modernist Alliance]] has proposed legislation to subsidize enhancement procedures by 30% to 50% based on income level to increase access. Distinct from Enhancement Advocacy in its grounding: cognitive libertarianism is a rights claim; enhancement advocacy is a social goods claim.
+
+### Tissanism
+
+*(Confia-specific)* From "Tissana/Тиссана", meaning "woman". The belief that a woman's natural duty as a homemaker is to be the head of her household and that a husband should be the working breadwinner, submissive to his wife. This nuclear family model is the driving force behind Confian conservatism, held by parties such as the [[Armotist Democratic Party]] and [[Democracy!]].
+
+
+
+
 
 ---
 
@@ -374,7 +406,7 @@ The defense of fossil fuel industries as economically and strategically essentia
 
 ### Nuclearism
 
-Active advocacy for nuclear energy expansion as the correct and morally positive energy source. Near-consensus in Susian energy policy since the post-war boom; rare elsewhere in Dripstan where nuclear infrastructure is less developed. [[Atompron]]'s FEZs are the institutional expression of this stance.
+Active advocacy for nuclear energy expansion as the correct and morally positive energy source. Near-consensus in Susian energy policy since the post-war boom; rare elsewhere in Dripstan where nuclear infrastructure is less developed. [[Atompron]]'s FEZs are the institutional expression of this stance. Present in [[Confia]], namely in the [[Atom Party]].
 
 ### Energy Nationalism
 
