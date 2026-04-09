@@ -268,9 +268,7 @@ _(Susia-specific)_ The position that individuals have a fundamental right to mod
 
 ### Tissanism
 
-*(Confia-specific)* From "Tissana/Тиссана", meaning "woman". The belief that a woman's natural duty as a homemaker is to be the head of her household and that a husband should be the working breadwinner, submissive to his wife. This nuclear family model is the driving force behind Confian conservatism, held by parties such as the [[Armotist Democratic Party]] and [[Democracy!]].
-
-
+*(Confia-specific)* From "Tissana/Тиссана", meaning "woman". The belief that a woman's natural duty as a homemaker is to be the head of her household and that a husband should be the working breadwinner, submissive to his wife. Originated the from [[Racpalian]] tradition of women who would wait for men come back from long trading voyages and were forced to administer their own families and communities in the men's stead. This traditional nuclear family model is the driving force behind Confian conservatism, held by parties such as the [[Armotist Democratic Party]] and [[Democracy!]]. Distinct and often diametrically opposed to feminism.
 
 
 
