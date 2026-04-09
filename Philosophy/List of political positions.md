@@ -121,7 +121,7 @@ A system where multiple parties are allowed. Present in virtually every democrat
 
 ### Household suffrage
 
-(*Confia-specific*) A manner of suffrage distribution that assigns one vote per household, thus disproportionately enfranchising older women. Present in the [[General Government of Confia]] until 1845.
+(*Confia-specific*) A manner of suffrage distribution that assigns one vote per household, thus disproportionately enfranchising older women. Based on Tissanism, it was present in the [[General Government of Confia]] until 1845. Its last election, that of 1843, had women as 73.4% of registered voters.
 
 ### Per-capita suffrage
 
