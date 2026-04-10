@@ -13,7 +13,7 @@ merger_of:
 split_from:
 merged_into: "[[Mi, Niteraljci!]]"
 banned_by: "[[Lorelaj Paulowić]]"
-legalized_by: "[[-Repo/02 - Confia/04 - History/Bayonet Revolution]]"
+legalized_by: "[[Bayonet Revolution]]"
 headquarters:
 newspaper:
 think_tank:

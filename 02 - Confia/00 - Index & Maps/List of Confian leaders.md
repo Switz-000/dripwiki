@@ -30,4 +30,4 @@ Leader of the Nation
 | No. |              Name              |    Term     |               Party               |        Election        |
 | :-: | :----------------------------: | :---------: | :-------------------------------: | :--------------------: |
 |  1  |      [[Lorelaj Paulowić]]      | 1958 - 1977 | [[Union of Confian Syndicalists]] | [[Enabling Amendment]] |
-|  -  | *[[Mariana Torres]] (interim)* |    1977     | [[Progressive Republican Party]]  | [[-Repo/02 - Confia/04 - History/Bayonet Revolution]] |
+|  -  | *[[Mariana Torres]] (interim)* |    1977     | [[Progressive Republican Party]]  | [[Bayonet Revolution]] |
