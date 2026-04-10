@@ -30,7 +30,7 @@ occupation:
   - Politician
 party: "[[Armotist Democratic Party|ALjP]]"
 political_alignment:
-  - "[[Armotist Democracy]]"
+  - "[[Armotist democracy]]"
 organization:
   - "[[Confederation of the Industries of the Confian Nation|CICN]]"
 known_for:
