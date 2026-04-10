@@ -4,7 +4,7 @@ organizer: "[[Frumentarze]]"
 contractor: "[[Van Ritter|Van Ritter]]"
 funding: "[[Susian Federal Government|Federal Goverment]]"
 status: discontinued
-classified_status: partially_declassified
+classified_status: classified
 objective: Maintain government function during thermonuclear war
 date_start: 2077
 date_end: 2084
