@@ -76,7 +76,6 @@ tags:
 ---
 **Grawolja Seriewina Lasmanna** (Racpalian Alphabet: Гравоља Серьевіна Ласманна) is a Confian economist and banker that served as the 6th Prime Minister of the [[Confia|United Syndicates of Confia]], as well as the 2nd Director of its Central Bank. 
 
-
 ## Quotes
 
 > "Throughout my tenure as Director of the Central Bank, I have made consistent demands to the [[Confian National Government#Prime Minister|Palace of the Revolution]]: **Fiscal surpluses, freedom in external commerce, and impartiality for internal businesses.** With these three precepts, there is stability for consumers and providers, workers and investors alike. For the past two decades, the Confian people have been robbed of these basic precepts any economy should follow to aim for a healthy market. **One should not expect my premiership to deviate from said ever-going suggestions.** [[Syndicalist League|Neither]] [[Armotist Democratic Party|party]] has made the reforms necessary to change the main problems of Confia, and these problems have built up over the years into a large impending catastrophe. The following years will be some of the hardest in this country's history. **The solution will be ugly, but I trust you to be adults and do what adults do: accept short-term pain leading long-term success over short-term comfort leading to long-term disaster.**"
