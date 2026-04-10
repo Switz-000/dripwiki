@@ -27,4 +27,4 @@ borders_south:
   - "[[Balsheck]]"
   - "[[Yakiria]]"
 ---
-
+The **Nirchalespruje of Ditania** (Ditanian: Nirjalespoj Ditene), informally referred to as Žartonnistan (Ditanian: Jartonapalie) is a rump state formed from the [[Multinational Democratizing Force in Ditania]]. Compared to its northern counterpart, the [[Ditania|Ditanian Republic]], it has a modestly higher standard of living and much more efficient democratic institutions.
