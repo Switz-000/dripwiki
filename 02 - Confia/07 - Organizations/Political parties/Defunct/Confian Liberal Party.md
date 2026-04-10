@@ -20,8 +20,8 @@ think_tank:
 youth_wing:
 paramilitary:
 ideology:
-  - Armotist democracy (1930-1949)
-  - Liberal constitutionalism (1949-1996)
+  - "[[Armotist democracy|Armotist democracy (1930-1949)]]"
+  - "[[Liberal constitutionalism|Liberal constitutionalism (1949-1996)]]"
 political_position:
   - Right
 wings:

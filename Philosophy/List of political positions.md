@@ -96,7 +96,7 @@ The position that enforceable legal limits on state power are a precondition for
 
 The concentration of executive authority in a directly elected president with a strong independent mandate. The Susian system is presidentialist in structure, modified by confidence votes, the [[Chamber of Experts]] and the [[Susian Senate]]. Grounded in the "Great Executive Theory," which holds that the president embodies the nation as a whole and derives legitimacy directly from the people, not from the legislature. 
 
-### Parliamentarism
+### Parliamentarianism
 
 Executive authority derived from and accountable to the legislature. The dominant model in post-war Confia and in Kapiogg following its constitutional transition.
 
@@ -105,11 +105,11 @@ Executive authority derived from and accountable to the legislature. The dominan
 The position that a region, people, or community should form an independent state outside the existing political structure. Distinct from regionalism, which seeks power within the state. Present in Susian politics primarily as [[List of political stances#Tekur Separatism|Tekur Separatism]] in [[New Celiolaj]]; historically associated with secession movements during the dissolution of the [[Dripstanian Empire]].
 ### Multiple Party System (MPS)
 
-A system where an individual can be part of multiple political parties with non-overlapping issue positions, organized by "phases" of particular topics. Present historically in the [[General Government of Confia]], with the Economic, Social and National phases. Not to be confused with a multiparty system.
+A system where an individual can be part of multiple political parties with non-overlapping issue positions, organized by "phases" of particular topics. Not to be confused with a multiparty system.
 
 ### Single Party System (SPS)
 
-A system where an individual can only be a part of a single political party, which aim to have positions on issues that contradict each other. Present in virtually every country with a multiparty system, the exeption having been the [[General Government of Confia]]. Not to be confused with a one-party system.
+A system where an individual can only be a part of a single political party, which aim to have positions on issues that contradict each other. Present in virtually every country with one or more parties. Not to be confused with a one-party system.
 
 ### One-party system
 

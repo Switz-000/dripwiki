@@ -16,7 +16,7 @@ merged_into:
 split_into:
   - "[[Shield!]]"
   - "[[Armotist Democracy (Confian party, 2000)]]"
-  - 
+  - "[[Confian Democratic Party]]"
 banned_by:
 legalized_by:
 headquarters: "[[Imgospalje]]"
@@ -25,7 +25,7 @@ think_tank:
 youth_wing:
 paramilitary:
 ideology:
-  - Armotist Democracy
+  - "[[Armotist democracy]]"
 political_position:
   - Centre-right
 wings:
