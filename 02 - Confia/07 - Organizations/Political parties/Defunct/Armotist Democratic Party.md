@@ -12,6 +12,11 @@ dissolved: 2000
 merger_of:
 split_from: "[[Confian Liberal Party]]"
 merged_into:
+  - "[[Democracy!|Democracy! (some members)]]"
+split_into:
+  - "[[Shield!]]"
+  - "[[Armotist Democracy (Confian party, 2000)]]"
+  - 
 banned_by:
 legalized_by:
 headquarters: "[[Imgospalje]]"

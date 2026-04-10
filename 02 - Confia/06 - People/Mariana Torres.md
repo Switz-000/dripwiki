@@ -76,7 +76,7 @@ offices:
     employer: "[[Confian National Government]]"
     start: 1977
     end: 1977
-    appointer: "[[-Repo/02 - Confia/04 - History/Bayonet Revolution]]"
+    appointer: "[[Bayonet Revolution]]"
     party: "[[Progressive Republican Party]]"
     notes: Interim
 total_sentence:
