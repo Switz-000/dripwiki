@@ -9,6 +9,7 @@ type: company
 type: person
 type: institution
 type: law
+type: project
 type: treaty
 type: event
 type: war

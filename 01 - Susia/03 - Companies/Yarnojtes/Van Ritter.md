@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Van Ritter
 type: company
 company_name: Van Ritter Incorporated
 native_company_name:

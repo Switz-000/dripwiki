@@ -5,6 +5,7 @@ aliases:
   - Soites Experimenter
   - The Experimenter Program
   - Experimenters
+type: project
 ---
 ## The Pitch:
 
