@@ -34,3 +34,10 @@ Leader of the Nation
 |  -  | *[[Mariana Torres]] (interim)* |    1977     | [[Progressive Republican Party]]  | [[Bayonet Revolution]] |
 
 Director of the Central Bank of the Confian Nation
+
+
+| No. |              Name              |    Term     |            Appointer             |
+| :-: | :----------------------------: | :---------: | :------------------------------: |
+|  1  |        [[Teah Hanować]]        | 1970 - 1980 |       [[Lorelaj Paulowić]]       |
+|  -  | *[[Mariana Torres]] (interim)* | 1980 - 1987 | [[Progressive Republican Party]] |
+|     |                                |             |                                  |
