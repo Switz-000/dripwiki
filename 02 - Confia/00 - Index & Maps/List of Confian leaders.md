@@ -25,9 +25,12 @@ Presidents of the Confian Nation (President of the Nation/President)
 |  -  |          [[Boris Serec]]           | 1994 - 1998 |                                                                    [[Armotist Democratic Party]]                                                                     | [[List of Confian elections#1993 Confian presidential election\|1993]] |
 |  4  | [[Katerina Armoljubca Nožeslawna]] | 1998 - 2000 |                                                                        [[Syndicalist League]]                                                                        | [[List of Confian elections#1998 Confian presidential election\|1998]] |
 |  -  | [[Katerina Armoljubca Nožeslawna]] | 2001 - 2008 |                                                                        [[Syndicalist League]]                                                                        | [[List of Confian elections#2000 Confian presidential election\|2000]] |
+
 Leader of the Nation
 
 | No. |              Name              |    Term     |               Party               |        Election        |
 | :-: | :----------------------------: | :---------: | :-------------------------------: | :--------------------: |
 |  1  |      [[Lorelaj Paulowić]]      | 1958 - 1977 | [[Union of Confian Syndicalists]] | [[Enabling Amendment]] |
 |  -  | *[[Mariana Torres]] (interim)* |    1977     | [[Progressive Republican Party]]  | [[Bayonet Revolution]] |
+
+Director of the Central Bank of the Confian Nation
