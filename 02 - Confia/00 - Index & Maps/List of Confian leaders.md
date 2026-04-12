@@ -36,8 +36,8 @@ Leader of the Nation
 Director of the Central Bank of the Confian Nation
 
 
-| No. |              Name              |    Term     |            Appointer             |
-| :-: | :----------------------------: | :---------: | :------------------------------: |
-|  1  |        [[Teah Hanować]]        | 1970 - 1980 |       [[Lorelaj Paulowić]]       |
-|  -  | *[[Mariana Torres]] (interim)* | 1980 - 1987 | [[Progressive Republican Party]] |
-|     |                                |             |                                  |
+| No. |         Name          |    Term     |       Appointer       |
+| :-: | :-------------------: | :---------: | :-------------------: |
+|  1  |   [[Teah Hanować]]    | 1960 - 1970 | [[Lorelaj Paulowić]]  |
+|  2  |  [[Katerina Ilioža]]  | 1970 - 1980 | [[Lorelaj Paulowić]]  |
+|  3  | [[Grawolja Lasmanna]] | 1980 - 1987 | [[Senjap Kunsekowić]] |
