@@ -3,7 +3,7 @@ type: event
 event_name: Continental Divide
 aliases:
   - The Divide
-date_start: 1957
+date_start: 1956
 date_end: 1977
 duration: 20 years
 location:
@@ -30,7 +30,6 @@ key_figures:
   - "[[Serčev Fimžer]]"
   - "[[Lorelaj Paulowić]]"
   - "[[Mikheli Kinpaum]]"
-  - "[[Ganzir Ništanaen]]"
   - "[[Sarže Saron]]"
   - "[[Pade Maluni]]"
 outcome: Victory for the ONDD liberal-capitalist bloc; collapse of the syndicalist bloc; Confian hard-line government overthrown; Flower Revolutions bring democratic transitions across the continent

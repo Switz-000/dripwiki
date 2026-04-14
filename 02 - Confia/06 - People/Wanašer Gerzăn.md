@@ -45,7 +45,7 @@ awards:
 occupation:
   - Philosopher
 party:
-  - "[[Confian Nation Party (1871)]]"
+  - "[[Confian Nation Party (1841)]]"
 political_alignment:
   - Nationalist
 organization:

@@ -19,7 +19,8 @@ think_tank:
 youth_wing: Confian Conservative Youth
 paramilitary:
 ideology:
-  - 
+  - Conservatism 
+  - Agrarian interests
 political_position:
   - Right
 wings:
