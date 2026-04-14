@@ -1,11 +1,11 @@
 
 ## 1956 Confian general election
 
-|               Party               |        Leader         | Seats (%) | Votes (%) |       Status        |
-| :-------------------------------: | :-------------------: | :-------: | :-------: | :-----------------: |
-| [[Union of Confian Syndicalists]] | [[Lorelaj Paulowić]]  |           |           |     Government      |
-| [[Progressive Republican Party]]  |  [[Mariana Torres]]   |           |           |     Opposition      |
-|     [[Confian Liberal Party]]     | [[Senjap Kunsekowić]] |           |           | Extra-parliamentary |
+|               Party               |        Leader        | Seats (%) | Votes (%) |   Status   |
+| :-------------------------------: | :------------------: | :-------: | :-------: | :--------: |
+| [[Union of Confian Syndicalists]] | [[Lorelaj Paulowić]] |           |           | Government |
+| [[Progressive Republican Party]]  |  [[Mariana Torres]]  |           |           | Opposition |
+
 ## 1956 Confian presidential election
 This was the first election for head of state in the history of independent Confia. It was also the only presidential election in Confian history to be held indirectly, citing lack of civilian infrastructure for vote collecting for an universal suffrage vote. The only two candidates were [[Lorelaj Paulowić]] of the [[Union of Confian Syndicalists]] and [[Mariana Torres]] of the [[Progressive Republican Party]]. The former was victorious and went on to institute the [[Enabling Amendment]].
 
@@ -22,6 +22,7 @@ It followed the [[Bayonet Revolution]]. It was won by [[Mariana Torres]].
 | [[Senjap Kunsekowić]] |     [[Confian Liberal Party]]     |   21.1%   | Defeated |
 |   [[Lensek Bӑrboz]]   | [[Union of Confian Syndicalists]] |   3.4%    | Defeated |
 ## 1980 Confian confidence vote
+
 
 Japlenowina lost, with 83% of the seats voting against her permanence.
 ## 1980 Confian general election
@@ -49,7 +50,7 @@ It was won by [[Mariana Torres]].
 |           [[Mariana Torres]]            | [[Movement for Syndicalist Renovation]] |   41.6%   | 2nd round |
 |             [[Boris Serec]]             |      [[Armotist Democratic Party]]      |   37.1%   | 2nd round |
 | [[Katerina Armoljubca Nožeslawna\|KAN]] |         [[Syndicalist League]]          |   10.4%   | Defeated  |
-|          [[Saserna Kašdunna]]           |        [[Confian Liberal Party]]        |           |           |
+|          [[Saserna Kašdunna]]           |        [[Confian Liberal Party]]        |           | Defeated  |
 |                                         |                                         |           |           |
 Second round:
 
@@ -102,7 +103,7 @@ It was won by [[Boris Serec]] following [[Mariana Torres]]' resignation due to c
 
 ## 1996 Confian confidence vote
 
-
+Often called the 1996 coup.
 
 ## 1996 Confian general election
 
