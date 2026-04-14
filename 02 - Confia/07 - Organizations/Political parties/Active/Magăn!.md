@@ -1,27 +1,25 @@
 ---
 type: organization
-name: Confian Nation Party
-native_name: Parcesse Konfiskei Wjaze
-abbreviation: WJAZA
+name: Shield! The Confian Conservative Party
+native_name: Magăn! Konfiskei Ciseljickej Parcesse
+abbreviation: M!
 aliases:
-status:
+status: Active
 founded_by:
-founded:
+founded: 2000
 dissolved:
-preceded_by: "[[Confian Nation Party (1871)|Confian Nation Party (self-claimed)]]"
 merger_of:
-split_from:
+split_from: "[[Armotist Democratic Party]]"
 merged_into:
-  - "[[Democracy!]]"
 banned_by:
 legalized_by:
 headquarters:
 newspaper:
 think_tank:
-youth_wing:
+youth_wing: Confian Conservative Youth
 paramilitary:
 ideology:
-  - "[[Wanašer Gerzăn|Gerzanian nationalism]]"
+  - 
 political_position:
   - Right
 wings:
