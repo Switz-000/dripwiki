@@ -8,7 +8,7 @@ status:
 founded_by:
 founded:
 dissolved:
-preceded_by: "[[Confian Nation Party (1871)|Confian Nation Party (self-claimed)]]"
+preceded_by: "[[Confian Nation Party (1841)|Confian Nation Party (self-claimed)]]"
 merger_of:
 split_from:
 merged_into:
