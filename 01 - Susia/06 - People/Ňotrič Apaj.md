@@ -5,10 +5,10 @@ aliases:
   - Apaj
 summary: Susian philosopher, journalist, and war correspondent born in Misocévia, whose essay "War, Pestilence and Famine" (1983) and book "After Scarcity" (1985) established the framework for post-scarcity cosmopolitan thought in Susia.
 known_for:
-  - "[[War Pestilence and Famine]]"
+  - "[[War, Pestilence and Famine]]"
 sex: Male
 birth_year: 1951
-birth_city:
+birth_city: "[[Yatovarlaj]]"
 birth_state: "[[Misocévia]]"
 birth_country: "[[Susia]]"
 death_year: 2042
@@ -18,10 +18,11 @@ death_country: "[[Susia]]"
 death_cause: Old age
 citizenship:
   - "[[Susia|Susian]]"
+  - "[[Dripstanian Empire|Dripstanian]]"
 nationality:
   - "[[Susia|Susian]]"
 ethnicity: Misocévian
-religion: Secular
+religion: 
 enhanced: false
 education:
   - degree: Journalism
@@ -53,7 +54,7 @@ organization:
 offices:
   - title: Journalist
     organization: "[[Dripia State University Press]]"
-    start: 1975
+    start: 1977
     end: 1988
     notes: Covered economics, social policy, and politics during the post-Continental War boom years. War correspondent in Ditania 1983. His journalism is competent but unremarkable until Ditania; the essay transforms both his reputation and his sense of what writing is for.
   - title: Philosophical Advisor
@@ -67,18 +68,18 @@ military_service:
     end: 1977
     role: Non-combat
     notes: Drafted during the Continental War. Served in a non-combat administrative role.
-family:
   spouse:
     name: "[[Veska Apaj]]"
-    birth_country: "[[Zaphonia]]"
     notes: Zaphonian by birth, emigrated to Susia following the Daisy Revolution of 1977. Met Apaj in Ditania in 1983 during the civil war, where she was working in an aid capacity. Shares his cosmopolitan worldview but arrived at it through lived experience of syndicalist collapse, civil war, and displacement rather than philosophical reasoning. Died within a short period after Apaj, old age. The marriage was genuine and sustaining.
-  children:
-    notes: Two children. Both entered TU's professional world as adults, one working within the Susian Innovation Center. Apaj regarded this as evidence the mission was working.
+children:
+	notes: Two children. Both entered TU's professional world as adults, one working within the Susian Innovation Center. Apaj regarded this as evidence the mission was working.
 
 era:
+  - continental-divide
   - post-war
   - great-transition
   - new-age
+  - techno-federative-era
 tags:
   - philosophy
   - journalism
@@ -86,7 +87,6 @@ tags:
   - politics
   - culture
   - history
-  - cosmopolitanism
 ---
 
 ## Quotes
@@ -106,8 +106,7 @@ tags:
 ## Notes
 
 %%
-- Wife's full name: Veska Apaj (née TBD — Zaphonian naming conventions needed)
-- Exact death year flexible within early-to-mid 2070s
+- Wife's full name: Veska Apaj (née TBD Zaphonian naming conventions needed)
 - The unsent letter to Kolkov is a potential primary document stub
 - Children's names and specific TU roles undeveloped — expand when relevant
 - Early nationalist journalism from the post-Continental War period potentially exists as a document stub — embarrassing to his later reputation, occasionally cited by critics
