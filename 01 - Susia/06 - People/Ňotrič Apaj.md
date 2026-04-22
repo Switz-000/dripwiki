@@ -3,9 +3,9 @@ type: person
 native_name: Ňotrič Apaj
 aliases:
   - Apaj
-summary: Susian philosopher, journalist, and war correspondent born in Misocévia, whose essay "War, Pestilence and Famine" (1983) and book "After Scarcity" (1985) established the framework for post-scarcity cosmopolitan thought in Susia.
+summary: Susian philosopher, journalist, and war correspondent born in Yatovarlaj, Misocévia,  whose essay "War, Pestilence and Famine" and book "After Scarcity" established the framework for post-scarcity cosmopolitan thought in Susia.
 known_for:
-  - "[[War, Pestilence and Famine]]"
+  - "[[War Pestilence and Famine]]"
 sex: Male
 birth_year: 1951
 birth_city: "[[Yatovarlaj]]"
@@ -21,7 +21,7 @@ citizenship:
   - "[[Dripstanian Empire|Dripstanian]]"
 nationality:
   - "[[Susia|Susian]]"
-ethnicity: Misocévian
+ethnicity: 
 religion: 
 enhanced: false
 education:
@@ -34,11 +34,11 @@ education:
 written_works:
   - title: "War, Pestilence and Famine"
     publication_date: 1983
-    genre: Essay
+    genre: Political Philosophy
     notes: Written immediately after his return from Ditania. Argues that hunger, disease, resource competition, was the structural engine of most organized human violence across history, and that its effective elimination in the modern era means all contemporary conflict is now entirely a product of human construction: nations, ideologies, religion, political identity. Made him famous in Susian intellectual circles and fueled the techno-optimism of the post war boom.
   - title: "[[After Scarcity]]"
     publication_date: 1985
-    genre: Philosophy
+    genre: Political Philosophy
     notes: Expands the essay's argument into a full philosophical vision. If material scarcity is no longer the organizing principle of civilization, what should replace it? Apaj proposes a cosmopolitan post-politics grounded not in abstract rights but in the shared universal facts of being human: consciousness, suffering, curiosity, mortality. Argues that a rational civilization would redirect resources currently consumed by armies, bureaucracies, and political competition toward the expansion of knowledge, reduction of suffering, and improvement of human existence. Explicitly utopian. Became the moral vocabulary of the Modernist Alliance's utopian faction and the philosophical foundation TU would build its corporate culture upon.
   - title: "Children of the same mother"
     publication_date: 1992
@@ -68,11 +68,8 @@ military_service:
     end: 1977
     role: Non-combat
     notes: Drafted during the Continental War. Served in a non-combat administrative role.
-  spouse:
-    name: "[[Veska Apaj]]"
-    notes: Zaphonian by birth, emigrated to Susia following the Daisy Revolution of 1977. Met Apaj in Ditania in 1983 during the civil war, where she was working in an aid capacity. Shares his cosmopolitan worldview but arrived at it through lived experience of syndicalist collapse, civil war, and displacement rather than philosophical reasoning. Died within a short period after Apaj, old age. The marriage was genuine and sustaining.
-children:
-	notes: Two children. Both entered TU's professional world as adults, one working within the Susian Innovation Center. Apaj regarded this as evidence the mission was working.
+spouse: "[[Veska Apaj]]"
+children: Two (unamed)
 
 era:
   - continental-divide
@@ -111,4 +108,8 @@ tags:
 - Children's names and specific TU roles undeveloped — expand when relevant
 - Early nationalist journalism from the post-Continental War period potentially exists as a document stub — embarrassing to his later reputation, occasionally cited by critics
 - His relationship to Versij's natural rights tradition is implicit throughout his work but he rarely engages Versij directly, possibly deliberately
+
+Wife is Zaphonian by birth, emigrated to Susia following the Daisy Revolution of 1977. Met Apaj in Ditania in 1983 during the civil war, where she was working in an aid capacity. Shares his cosmopolitan worldview but arrived at it through lived experience of syndicalist collapse, civil war, and displacement rather than philosophical reasoning. Died within a short period after Apaj, old age. The marriage was genuine and sustaining.
+
+Apaj had two children. Both entered TU's professional world as adults, one working within the Susian Innovation Center. Apaj regarded this as evidence the mission was working.
 %%
