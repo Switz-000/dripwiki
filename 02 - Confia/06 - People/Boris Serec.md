@@ -55,22 +55,21 @@ offices:
     end: 1996
     appointer: "[[1987 Confian presidential election]]"
     party:
-      - - Armotist Democratic Party|ALjP
+      - "[[Armotist Democratic Party|ALjP]]"
     notes:
   - title: President of the Council of Commissars of the United Syndicates of Confia
     employer: "[[Confian National Government]]"
     start: 1983
     end: 1987
     appointer: "[[National Assembly of Confian Syndicates]]"
-    party:
-      - - Armotist Democratic Party|ALjP
+    party: "[[Armotist Democratic Party|ALjP]]"
     notes:
   - title: Commissar of Education
     employer: "[[Confian National Government]]"
     start: 1978
     end: 1982
     appointer: "[[Senjap Kunsekowić]]"
-    party: "[Confian Liberal Party|KNP]"
+    party: "[[Confian Liberal Party|KNP]]"
     notes:
 awards:
   - title:
@@ -80,4 +79,8 @@ awards:
     country:
     notes:
 ---
+
+%%
+ganhou o premio "mico ladrão safado - o animal mais protegido de confia"
+%%
 **Boris Rodočewić Serec** (Racpalian Alphabet: Борис Родочевіч Серец) is a Confian labour rights lawyer and politician that served as the 6th Prime Minister and 2nd President of the [[Confia|United Syndicates of Confia]].

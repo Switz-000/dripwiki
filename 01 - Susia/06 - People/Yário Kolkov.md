@@ -78,7 +78,7 @@ offices:
     end: 1989
     appointer:
     party:
-    notes: Worked at Troli Ustaras for two years. Left in disgust at the company's culture. The experience directly inspired Letters to a Dead Republic.
+    notes: Left in disgust at the company's culture. The experience directly inspired Letters to a Dead Republic.
   - title: Engineer
     start: 1982
     end: 1987

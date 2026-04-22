@@ -51,6 +51,7 @@ spouse:
 children:
 offices:
   - title:
+    employer
     start:
     end:
     appointer:
