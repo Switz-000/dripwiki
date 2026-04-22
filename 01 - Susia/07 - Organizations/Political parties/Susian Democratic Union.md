@@ -6,7 +6,7 @@ native_name: Foren Virkrotoy Sužietich
 abbreviation: FVS
 status: Dissolved
 founded_by:
-founded: 195
+founded: 1954
 dissolved:
 merger_of:
 split_from:
