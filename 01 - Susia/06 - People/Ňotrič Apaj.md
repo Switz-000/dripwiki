@@ -3,7 +3,7 @@ type: person
 native_name: Ňotrič Apaj
 aliases:
   - Apaj
-summary: Susian philosopher, journalist, and war correspondent born in Yatovarlaj, Misocévia,  whose essay "War, Pestilence and Famine" and book "After Scarcity" established the framework for post-scarcity cosmopolitan thought in Susia.
+summary: 'Susian philosopher, journalist, and war correspondent born in Yatovarlaj, Misocévia, whose essay "War, Pestilence and Famine" and book "After Scarcity" established the framework for post-scarcity cosmopolitan thought in Susia.'
 known_for:
   - "[[War Pestilence and Famine]]"
 sex: Male
@@ -27,10 +27,10 @@ enhanced: false
 education:
   - degree: Journalism
     institution: "[[Dripia State University]]"
-    year:
+    year: null
   - degree: Philosophy
     institution: "[[Dripia State University]]"
-    year:
+    year: null
 written_works:
   - title: "War, Pestilence and Famine"
     publication_date: 1983
@@ -69,7 +69,8 @@ military_service:
     role: Non-combat
     notes: Drafted during the Continental War. Served in a non-combat administrative role.
 spouse: "[[Veska Apaj]]"
-children: Two (unamed)
+children:
+  - "Two (unnamed)"
 
 era:
   - continental-divide
