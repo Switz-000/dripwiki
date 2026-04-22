@@ -1,5 +1,5 @@
 ---
-type: project
+Class: project
 organizer:
   - "[[Frumentarze]]"
 contractor: "[[Van Ritter|Van Ritter]]"
