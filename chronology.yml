@@ -1,0 +1,44 @@
+name: Generate Chronology
+
+on:
+  push:
+    branches: [main, master]
+    paths:
+      - "**.md"          # only runs when markdown files change
+      - ".github/workflows/chronology.yml"
+      - "generate_chronology.py"
+
+  workflow_dispatch:     # lets you trigger it manually from GitHub UI
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write    # needed to push CHRONOLOGY.md back to the repo
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Generate CHRONOLOGY.md
+        env:
+          VAULT_ROOT: "."
+        run: python generate_chronology.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add CHRONOLOGY.md
+          # only commit if there's actually a diff
+          git diff --cached --quiet || git commit -m "chore: update CHRONOLOGY.md [skip ci]"
+          git push
