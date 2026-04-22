@@ -2,9 +2,6 @@
 
 > Auto-generated from vault frontmatter. Do not edit manually.
 
-## 195
-- **Founded** — [[Susian Democratic Union]]
-
 ## 1720
 - **Birth** — [[Empress Veronique]] born in [[Duolij]], [[Postia]]
 
@@ -91,6 +88,9 @@
 - **Birth** — [[Lorelaj Paulowić]] born in [[Gražža Erjogala]], [[Koštanože]]
 - **Founded** — [[Nayotai]]
 
+## 1912
+- **Birth** — [[Suizo Soites]] born in [[Sužielaj City]], [[Sužielaj]]
+
 ## 1917
 - **Birth** — [[Senjap Kunsekowić]] born in [[Carlotopolis]], [[Karlotopol']]
 
@@ -99,7 +99,6 @@
 
 ## 1921
 - **Birth** — [[Boris Serec]] born in [[Jagansk]], [[Karlotopol']]
-- **Birth** — [[Suizo Soites]] born in [[Sužielaj City]], [[Sužielaj]]
 
 ## 1923
 - **Founded** — [[Van Ritter]]
@@ -113,14 +112,14 @@
 ## 1932
 - **Founded** — [[Postian Free Farmers]]
 
+## 1933
+- **Graduation** — [[Suizo Soites]] — Economics at [[University of New Kentu]]
+
 ## 1938
 - **Founded** — [[Końteraf]]
 
 ## 1942
 - **Founded** — [[White Stork Party]]
-
-## 1943
-- **Graduation** — [[Suizo Soites]] — Economics at [[University of New Kentu]]
 
 ## 1946
 - **Birth** — [[Katerina Armoljubca Nožeslawna]] born in [[Saint Meshon]], [[Karlotopol']]
@@ -138,6 +137,7 @@
 - **Appointment** — [[Filevir Matri]] becomes Governor of Postia at ?
 - **Appointment** — [[Suizo Soites]] becomes President of Susia at ?
 - **End of tenure** — [[Suizo Soites]] leaves Delegate, Constitutional Convention at ?
+- **Founded** — [[Susian Democratic Union]]
 - **Founded** — [[Union of Confian Syndicalists]]
 
 ## 1955
