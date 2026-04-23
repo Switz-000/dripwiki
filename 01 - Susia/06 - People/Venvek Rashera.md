@@ -19,7 +19,7 @@ death_year: 2063
 death_city: "[[Velúria]]"
 death_state: "[[Orlítia]]"
 death_country: "[[Susia]]"
-death_cause:
+death_cause: Drug overdose
 ethnicity: West Gaiyanese
 religion: Atheist
 enhanced: false

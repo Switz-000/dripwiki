@@ -22,7 +22,7 @@ death_year: 1873
 death_city:
 death_state:
 death_country:
-death_cause: Cyanide poisoning (self-inflicted)
+death_cause: Suicide (Cyanide poisoning)
 ethnicity: "[[East Gaiyanese]]"
 religion: "[[Armotist Church of the Confian Synod]]"
 enhanced: false
@@ -73,5 +73,5 @@ criminal_charges:
 era:
   - 
 tags:
-  - 
+  -
 ---
