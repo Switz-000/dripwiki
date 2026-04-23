@@ -57,7 +57,7 @@
 - **Death** — [[Kaichet Satratonie]] died in [[Unknown]] (Unknown)
 
 ## 1873
-- **Death** — [[Wanašer Gerzăn]] died in ? (Cyanide poisoning (self-inflicted))
+- **Death** — [[Wanašer Gerzăn]] died in ? (Suicide (Cyanide poisoning))
 
 ## 1874
 - **Founded** — [[Soiteslaj]]
@@ -327,7 +327,7 @@
 - **Death** — [[Yavna Raroska]] died in [[Dripia]] (Natural causes)
 
 ## 2063
-- **Death** — [[Venvek Rashera]] died in [[Orlítia]] (unknown cause)
+- **Death** — [[Venvek Rashera]] died in [[Orlítia]] (Drug overdose)
 
 ## 2065
 - **Founded** — [[Lischev-Verene]]
