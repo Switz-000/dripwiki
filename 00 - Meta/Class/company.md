@@ -79,7 +79,22 @@ fields:
         "1": Public corporation
     path: ""
     id: 6QJJ2a
-version: "2.24"
+  - name: company_name
+    type: Input
+    options: {}
+    path: ""
+    id: epbVSN
+  - name: native_company_name
+    type: Input
+    options: {}
+    path: ""
+    id: OcALKs
+  - name: market_cap
+    type: Number
+    options: {}
+    path: ""
+    id: qH42SK
+version: "2.36"
 limit: 20
 mapWithTag: false
 icon: package
@@ -91,6 +106,8 @@ extends:
 savedViews: []
 favoriteView:
 fieldsOrder:
+  - epbVSN
+  - OcALKs
   - 6QJJ2a
   - UcImzz
   - TK39lV
@@ -102,5 +119,6 @@ fieldsOrder:
   - Wgfr8x
   - RAFYOY
   - 6Qnhss
+  - qH42SK
   - V94QT9
 ---
