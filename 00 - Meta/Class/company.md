@@ -21,7 +21,7 @@ fields:
     options: {}
     path: tk4QXB
     id: RAFYOY
-  - name: yarnojte
+  - name: yarnojte_status
     type: Object
     options:
       displayTemplate: ""
@@ -78,6 +78,8 @@ fields:
       valuesList:
         "1": Public Corporation
         "2": Public Benefit Corporation
+        "3": Government-Sponsored Enterprise
+        "4": Multinational Conglomerate
     path: ""
     id: 6QJJ2a
   - name: company_name
@@ -95,7 +97,7 @@ fields:
     options: {}
     path: ""
     id: qH42SK
-version: "2.37"
+version: "2.40"
 limit: 20
 mapWithTag: false
 icon: package
