@@ -10,9 +10,6 @@ founded_by:
 founding_place: "[[Donetruže]]"
 headquarters: "[[Susian Innovation Center]]"
 market_cap: 23000000000000
-yarnojte: true
-yarnojte_granted: 2041
-yarnojte_revoked:
 fez_locations:
   - "[[Susian Innovation Center]]"
 sector:
