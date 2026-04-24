@@ -14,12 +14,10 @@ yarnojte_revoked:
 fez_locations:
 
 yarnojte:
-  - title: Secretary of Justice
-    employer: "[[Susian Federal Government]]"
-    start: 1966
-    end: 1970
-    appointer: "[[Serčev Fimžer]]"
-    party: "[[Susian Democratic Union]]"
+  - status:
+    granted: 1966
+    revoked: 1970
+    fez_locations:
     notes:
 sector:
 ---
