@@ -76,10 +76,10 @@ fields:
     options:
       sourceType: ValuesList
       valuesList:
-        "1": Public Corporation
+        "1": Public corporation
     path: ""
     id: 6QJJ2a
-version: "2.23"
+version: "2.24"
 limit: 20
 mapWithTag: false
 icon: package
