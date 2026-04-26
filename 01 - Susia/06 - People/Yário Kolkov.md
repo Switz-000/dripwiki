@@ -19,7 +19,6 @@ citizenship:
   - "[[Susia|Susian]]"
 nationality:
   - "[[Susia|Susian]]"
-  - "[[Confia|Confian]]"
 death_year: 2011
 death_city: "[[New Duloc]]"
 death_state: "[[Postia]]"
