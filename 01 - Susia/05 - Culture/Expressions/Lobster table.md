@@ -10,7 +10,7 @@ aliases:
   - lobster table
 ---
 
-**Lobster table** is a Susian political expression referring to a meeting, setting, or pattern of decision-making in which consequential political or economic outcomes are determined outside legitimate democratic channels, typically through private meals or informal arrangements among executives and officials. The expression derives from the [[Duolij Lobster]], a prestige seafood dish native to [[Postia]] that functions as the standard centerpiece of corporate power lunches nationwide.
+**Lobster table** is a Susian political expression referring to a meeting, setting, or pattern of decision-making in which consequential political or economic outcomes are determined outside legitimate democratic channels, typically through private meals or informal arrangements among executives and officials. The expression derives from the [[Galil lobster#Duolij lobster]|Duolij lobster]], a prestige seafood dish native to [[Postia]] that functions as the standard centerpiece of corporate power lunches nationwide.
 
 The phrase is used both descriptively and critically. Descriptively, it refers to any instance of significant political or economic business conducted through private social arrangements rather than formal institutional process. Critically, it implies that outcomes reached at the lobster table displace or preempt outcomes that should properly be reached through legislative or democratic means.
 
@@ -24,7 +24,7 @@ The phrase acquires additional resonance in the context of [[Yarnojte]] corporat
 
 ## See Also
 
-- [[Duolij Lobster]]
+- [[Galil lobster]]
 - [[Filevir Matri]]
 - [[Yarnojte]]
 - [[Free Economic Zone]]
