@@ -3,7 +3,7 @@ type: state
 country: "[[Susia]]"
 state_name: Orlítia
 demonym: Orlítian
-state_animal: Armadillo
+state_animal: "[[Galil lobster]]"
 capital: "[[Hǎvesna]]"
 largest_city: "[[Velúria]]"
 cities:
