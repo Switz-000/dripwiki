@@ -10,6 +10,15 @@ founded_by:
 founding_place: "[[Donetruže]]"
 headquarters: "[[Susian Innovation Center]]"
 market_cap: 23000000000000
+yarnojte_status: 
+	- status: Revoked
+	  granted: 2041
+	  revoked: 2047
+	  notes: Revoked due to the Troli Ustaras corruption scandal
+	- status: Active
+	  granted: 2051
+	  notes: Restored after company wide restructuring
+
 sector:
   - Technology
 era:
@@ -30,14 +39,6 @@ tags:
   - politics
   - economy
   - medicine
-yarnojte_status: 
-	- status: Revoked
-	  granted: 2041
-	  revoked: 2047
-	  notes: Revoked due to the Troli Ustaras corruption scandal
-	- status: Active
-	  granted: 2051
-	  notes: Revoked due to the Troli Ustaras corruption scandal
 ---
 
 **Troli Ustaras** (TU) is a Susian technology corporation founded in 1959 in [[Donetruže]], [[Troli]], and the largest company by market capitalization in [[Susia]] as of 2080, with a market cap of D$23 trillion. TU holds [[Yarnojte]] status, granted in 2041 and restored in 2051 following revocation during the [[Troli Ustaras Corruption Scandal (2047)|corruption scandal of 2047]], and governs the [[Susian Innovation Center]] Free Economic Zone in [[Dripia]]. Its primary sectors are artificial intelligence, robotics, automation, computing, and cognitive enhancement hardware. TU employs approximately 800,000 people, including FEZ residents.
