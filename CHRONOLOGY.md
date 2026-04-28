@@ -156,7 +156,6 @@
 ## 1959
 - **Atrocity begins** — [[Legrinpija Massacre]]
 - **Atrocity ends** — [[Legrinpija Massacre]]
-- **Founded** — [[Troli Ustaras]]
 
 ## 1960
 - **Birth** — [[Yário Kolkov]] born in [[New Duloc]], [[Postia]]
