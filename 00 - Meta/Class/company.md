@@ -97,7 +97,34 @@ fields:
     options: {}
     path: ""
     id: qH42SK
-version: "2.40"
+  - name: fez
+    type: ObjectList
+    options:
+      displayTemplate: ""
+      itemDisplayTemplate: ""
+    path: ""
+    id: bYk8pL
+  - name: name
+    type: File
+    options: {}
+    path: bYk8pL
+    id: XIqgt1
+  - name: state
+    type: File
+    options: {}
+    path: bYk8pL
+    id: prRUhL
+  - name: creation
+    type: Number
+    options: {}
+    path: bYk8pL
+    id: AqcfmB
+  - name: dissolution
+    type: Number
+    options: {}
+    path: bYk8pL
+    id: lZcSoq
+version: "2.53"
 limit: 20
 mapWithTag: false
 icon: package
@@ -109,6 +136,11 @@ extends:
 savedViews: []
 favoriteView:
 fieldsOrder:
+  - bYk8pL
+  - XIqgt1
+  - prRUhL
+  - lZcSoq
+  - AqcfmB
   - epbVSN
   - OcALKs
   - 6QJJ2a
