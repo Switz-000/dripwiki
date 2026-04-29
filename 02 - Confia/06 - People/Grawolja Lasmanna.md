@@ -47,6 +47,7 @@ occupation:
 party:
   - Independent
 political_alignment:
+  - Technocratic
 organization:
   - 
 residence:
@@ -84,10 +85,8 @@ tags:
 > "Some ask if one would rather be feared or loved. I don't mind either, but I believe **the real question is whether you would rather enjoy a comfortable love than take the risk of being hated.** [[Boris Serec|Serec]], of course, was corrupted to the core, but [[Japlen Razol|Baljueewić]] could have cut the [[Ragged-sleeve|ragged-sleeves]]' main paypigs, opened up trade, ended [[Sturdy Industry]], but he preferred reliance on Serec's popularity from those unsustainable practices... Even [[Katerina Armoljubca Nožeslawna|Kateljuba]] didn't cut it fully, for [[Armotos]]' sake! No, as for me... **I would rather do what is necessary. If I am to be loved for it, good for them. If I am to be hated, it is, frankly, a shame, but they ought to come around to it.** Four more years of [[Matetije Teššan|Teššan]] and we would have destroyed any credibility [[Confia|we]] could have ever had in the international stage... Do you see the [[Lasman Economic Initiative|Initiative]] being signed by Matetije Teššan? Or [[Teššan family|any Teššan]], for that matter? No, that little interim, those three years we had to slay that [[Confia#Syndicalist Republic (1977-2009)|disgusting hybrid Torres birthed]] were crucial in showing and practicing real change, and we needed someone competent in charge, modesty aside."
    ― Grawolja Lasmanna, [[Grawolja Lasmanna with the Five of Goretopol'|Interview]] (2005)
 
-
-> "[[Žošewoš|Žošewošians]] don't deserve to choose even what they're having for dinner."
+> "[[Žošewoš|Žošewošians]] are not deserving of choosing even what they will have for dinner."
 > ― Grawolja Lasmanna, [[Grawolja Lasmanna with the Five of Goretopol'|Interview]] (2005)
-
 
 > "I would bring back Soliman from Kalti's chamber if it meant I could replace him with [[Olga Karwenna|Olga]]."
 > ― Grawolja Lasmanna, [[Grawolja Lasmanna with the Five of Goretopol'|Interview]] (2005)
