@@ -9,6 +9,18 @@ headquarters: "[[Eastern Industrial Complex FEZ]]"
 market_cap: 1400000000000
 yarnojte: true
 yarnojte_granted: "2044"
+fez: 
+	- name: "[[Eastern Industrial Complex FEZ]]"
+	  state: "[[Misocévia]]"
+	  creation: 2044
+yarnojte_status: 
+	- status: Revoked
+	  granted: 2041
+	  revoked: 2047
+	  notes: Revoked due to the Troli Ustaras corruption scandal
+	- status: Active
+	  granted: 2051
+	  notes: Restored after company wide restructuring
 yarnojte_revoked:
 fez_locations:
   - "[[Eastern Industrial Complex FEZ]]"

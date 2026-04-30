@@ -10,15 +10,18 @@ founded_by:
 founding_place: "[[Donetruže]]"
 headquarters: "[[Susian Innovation Center]]"
 market_cap: 23000000000000
+fez:
+  - name: "[[Susian Innovation Center]]"
+    state: "[[Dripia]]"
+    creation: 2044
 yarnojte_status: 
-	- status: Revoked
+    - status: Revoked
 	  granted: 2041
 	  revoked: 2047
 	  notes: Revoked due to the Troli Ustaras corruption scandal
 	- status: Active
 	  granted: 2051
 	  notes: Restored after company wide restructuring
-
 sector:
   - Technology
 era:
