@@ -3,7 +3,7 @@ type: person
 native_name: Ňotrič Apaj
 aliases:
   - Apaj
-summary: 'Susian philosopher, journalist, and war correspondent born in Yatovarlaj, Misocévia, whose essay "War, Pestilence and Famine" and book "After Scarcity" established the framework for post-scarcity cosmopolitan thought in Susia.'
+summary: Susian philosopher, journalist, and war correspondent born in Yatovarlaj, Misocévia, whose essay "War, Pestilence and Famine" and book "After Scarcity" established the framework for post-scarcity cosmopolitan thought in Susia.
 known_for:
   - "[[War Pestilence and Famine]]"
 sex: Male
@@ -21,29 +21,29 @@ citizenship:
   - "[[Dripstanian Empire|Dripstanian]]"
 nationality:
   - "[[Susia|Susian]]"
-ethnicity: 
-religion: 
+ethnicity:
+religion:
 enhanced: false
 education:
   - degree: Journalism
     institution: "[[Dripia State University]]"
-    year: null
+    year:
   - degree: Philosophy
     institution: "[[Dripia State University]]"
-    year: null
+    year:
 written_works:
-  - title: "War, Pestilence and Famine"
+  - title: War, Pestilence and Famine
     publication_date: 1983
     genre: Political Philosophy
-    notes: Written immediately after his return from Ditania. Argues that hunger, disease, resource competition, was the structural engine of most organized human violence across history, and that its effective elimination in the modern era means all contemporary conflict is now entirely a product of human construction: nations, ideologies, religion, political identity. Made him famous in Susian intellectual circles and fueled the techno-optimism of the post war boom.
+    notes: "Written immediately after his return from Ditania. Argues that hunger, disease, resource competition, was the engine of most organized human violence across history, and that its effective elimination in the modern era means all contemporary conflict is now entirely a product of human construction: nations, ideologies, religion, political identity. Made him famous in Susian intellectual circles and fueled the techno-optimism of the post war boom."
   - title: "[[After Scarcity]]"
     publication_date: 1985
     genre: Political Philosophy
-    notes: Expands the essay's argument into a full philosophical vision. If material scarcity is no longer the organizing principle of civilization, what should replace it? Apaj proposes a cosmopolitan post-politics grounded not in abstract rights but in the shared universal facts of being human: consciousness, suffering, curiosity, mortality. Argues that a rational civilization would redirect resources currently consumed by armies, bureaucracies, and political competition toward the expansion of knowledge, reduction of suffering, and improvement of human existence. Explicitly utopian. Became the moral vocabulary of the Modernist Alliance's utopian faction and the philosophical foundation TU would build its corporate culture upon.
-  - title: "Children of the same mother"
+    notes: "Expands the essay's argument into a full philosophical vision. If material scarcity is no longer the organizing principle of civilization, what should replace it? Apaj proposes a cosmopolitan post-politics grounded not in abstract rights but in the shared universal facts of being human: consciousness, suffering, curiosity, mortality. Argues that a rational civilization would redirect resources currently consumed by armies, bureaucracies, and political competition toward the expansion of knowledge, reduction of suffering, and improvement of human existence. Explicitly utopian. Became the moral vocabulary of the Modernist Alliance's utopian faction and the philosophical foundation TU would build its corporate culture upon."
+  - title: Children of the same mother
     publication_date: 1992
     genre: Philosophy
-    notes: Written after joining TU as Philosophical Advisor. Attempts to ground cosmopolitan ethics in biological and historical universals. His most systematic work and his least-read. Kolkov received a copy and did not respond.
+    notes: Written after joining TU as Philosophical Advisor. Attempts to ground cosmopolitan ethics in biological and historical universals. His most systematic work and his least-read.
 occupation:
   - Journalist
   - Philosopher
@@ -56,12 +56,12 @@ offices:
     organization: "[[Dripia State University Press]]"
     start: 1977
     end: 1988
-    notes: Covered economics, social policy, and politics during the post-Continental War boom years. War correspondent in Ditania 1983. His journalism is competent but unremarkable until Ditania; the essay transforms both his reputation and his sense of what writing is for.
+    notes: Covered economics, social policy, and politics during the post-Continental War boom years. War correspondent in Ditania 1983. His journalism is competent but unremarkable until Ditania
   - title: Philosophical Advisor
     organization: "[[Troli Ustaras]]"
     start: 1988
-    end: 2075
-    notes: A title deliberately unusual in structure. No management role, no board seat, no quarterly responsibilities. Writes, advises on ethical policy, and serves as a living philosophical presence within TU. Attended major conferences and events including the inauguration of the Kolkov Learning Center. Shaped TU's ethical vocabulary without ever being submerged in its culture.
+    end: 2042
+    notes: Writes, advises on ethical policy, and serves as a living philosophical presence within TU. Attended major conferences and events including the inauguration of the Kolkov Learning Center. Shaped TU's ethical vocabulary without ever being submerged in its culture.
 military_service:
   - branch: "[[Susian Air Force]]"
     start: 1975
@@ -70,8 +70,7 @@ military_service:
     notes: Drafted during the Continental War. Served in a non-combat administrative role.
 spouse: "[[Veska Apaj]]"
 children:
-  - "Two (unnamed)"
-
+  - Two (unnamed)
 era:
   - continental-divide
   - post-war
