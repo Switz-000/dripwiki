@@ -135,10 +135,49 @@ fields:
     options: {}
     path: QiIJj5
     id: 0hYoc2
-version: "2.106"
+  - name: branch
+    type: Input
+    options: {}
+    path: r9QxJ9
+    id: 95IT9x
+  - name: military_service
+    type: ObjectList
+    options:
+      displayTemplate: ""
+      itemDisplayTemplate: ""
+    path: ""
+    id: jvFCxw
+  - name: notes
+    type: Input
+    options: {}
+    path: jvFCxw
+    id: Em2LsP
+  - name: start
+    type: Number
+    options: {}
+    path: jvFCxw
+    id: vmin2w
+  - name: branch
+    type: Input
+    options: {}
+    path: jvFCxw
+    id: ZsvTc2
+  - name: end
+    type: Number
+    options: {}
+    path: jvFCxw
+    id: JOtZrT
+  - name: role
+    type: Select
+    options:
+      sourceType: ValuesList
+      valuesList: {}
+    path: jvFCxw
+    id: EouDZY
+version: "2.122"
 limit: 20
 mapWithTag: false
-icon: package
+icon: user
 tagNames:
 filesPaths:
 bookmarksGroups:
@@ -147,25 +186,32 @@ extends:
 savedViews: []
 favoriteView:
 fieldsOrder:
+  - FD6DmF
+  - gIhhzJ
+  - xTbTyt
+  - DG9t8d
+  - C1B5sj
+  - LDM6ib
+  - lFkjOS
+  - FktkIf
+  - PxI0ug
+  - p2s0R1
+  - xDyU8y
+  - RfUN7o
+  - TlUofS
   - QiIJj5
   - E8ieMD
+  - Eg61ao
   - M4zzzF
   - 0tiOoG
   - UGUlgE
   - njihot
   - 0hYoc2
-  - Eg61ao
-  - TlUofS
-  - xTbTyt
-  - FD6DmF
-  - gIhhzJ
-  - DG9t8d
-  - C1B5sj
-  - LDM6ib
-  - PxI0ug
-  - xDyU8y
-  - FktkIf
-  - lFkjOS
-  - p2s0R1
-  - RfUN7o
+  - 95IT9x
+  - jvFCxw
+  - Em2LsP
+  - vmin2w
+  - ZsvTc2
+  - EouDZY
+  - JOtZrT
 ---
