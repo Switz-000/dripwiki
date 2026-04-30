@@ -39,9 +39,9 @@ Lischev-Verene occupies a distinct position among the Yarnojtes, defined in larg
 
 By the 2050s, Lischev was losing market share to competitors better positioned to capitalize on the [[Cognitive enhancement|enhancement boom]] that followed the [[Cognitive Rights Act of 2061]]. The company had no meaningful enhancement pipeline and lacked the research infrastructure to develop one rapidly.
 
-### Verene Biosciences (2001–2065)
+### Verene Biosciences (2047–2065)
 
-[[Verene Biosciences]] was founded in 2001 in [[Damčev]], [[Sužielaj]], structured as a Public Benefit Corporation. It was named after [[Verene]], the goddess of rest and caretaker of the [[Garden of Latice]] in [[Armotism|Armotist]] religious tradition. Its research focus was genetic therapy, regenerative medicine, and enhancement procedures. By the 2060s, as demand for enhancement procedures expanded rapidly following the passage of the [[Cognitive Rights Act of 2061]], Verene had developed credible clinical capacity but lacked the manufacturing scale to meet demand.
+[[Verene Biosciences]] was founded in 2047 in [[Damčev]], [[Sužielaj]], structured as a Public Benefit Corporation. It was named after [[Verene]], the goddess of rest and caretaker of the [[Garden of Latice]] in [[Armotism|Armotist]] religious tradition. Its research focus was genetic therapy, regenerative medicine, and enhancement procedures. By the 2060s, as demand for enhancement procedures expanded rapidly following the passage of the [[Cognitive Rights Act of 2061]], Verene had developed credible clinical capacity but lacked the manufacturing scale to meet demand.
 
 ### The Merger (2065)
 
