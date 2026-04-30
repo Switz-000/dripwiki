@@ -1,11 +1,12 @@
 ---
 type: organization
 name: Confian Nation Party
-native_name: Parcesse Konfiskei Wjaze
+native_name: Parcesse Końfiskei Wjaže
 abbreviation: WJAZA
 aliases:
 status:
 founded_by:
+  - "[[Wanašer Gerzăn]]"
 founded:
 dissolved:
 preceded_by: "[[Confian Nation Party (1841)|Confian Nation Party (self-claimed)]]"
