@@ -100,9 +100,6 @@
 ## 1921
 - **Birth** — [[Boris Serec]] born in [[Jagansk]], [[Karlotopol']]
 
-## 1923
-- **Founded** — [[Van Ritter]]
-
 ## 1924
 - **Birth** — [[Filevir Matri]] born in [[Duolij]], [[Postia]]
 
@@ -126,6 +123,9 @@
 
 ## 1948
 - **Graduation** — [[Filevir Matri]] — Bachelor in Law at [[University of Duolij]]
+
+## 1951
+- **Birth** — [[Ňotrič Apaj]] born in [[Yatovarlaj]], [[Misocévia]]
 
 ## 1952
 - **Birth** — [[Chedji Soites]] born in [[Neoveli]], [[Dripia]]
@@ -185,11 +185,16 @@
 - **End of tenure** — [[Filevir Matri]] leaves Senator for Postia at ?
 - **Graduation** — [[Chedji Soites]] — Finance at [[Belluni College]]
 
+## 1975
+- **Enlists** — [[Ňotrič Apaj]] in [[Susian Air Force]] (Non-combat)
+
 ## 1976
 - **Appointment** — [[Chedji Soites]] becomes Board Member at ?
 
 ## 1977
 - **Appointment** — [[Mariana Torres]] becomes Leader of the Confian Nation at ?
+- **Appointment** — [[Ňotrič Apaj]] becomes Journalist at [[Dripia State University Press]]
+- **Discharge** — [[Ňotrič Apaj]] from [[Susian Air Force]]
 - **End of tenure** — [[Lorelaj Paulowić]] leaves First Secretary of the Union of Confian Syndicalists at ?
 - **End of tenure** — [[Lorelaj Paulowić]] leaves Leader of the Confian Nation at ?
 - **End of tenure** — [[Mariana Torres]] leaves Leader of the Confian Nation at ?
@@ -235,9 +240,13 @@
 
 ## 1983
 - **Appointment** — [[Boris Serec]] becomes President of the Council of Commissars of the United Syndicates of Confia at ?
+- **Publication** — *War, Pestilence and Famine* by [[Ňotrič Apaj]]
 
 ## 1984
 - **Death** — [[Eriežera Lensekowina]] died in [[Koštanože]] (Natural causes)
+
+## 1985
+- **Publication** — *[[After Scarcity]]* by [[Ňotrič Apaj]]
 
 ## 1986
 - **Appointment** — [[Mariana Torres]] becomes President of the Confian Nation at ?
@@ -254,7 +263,9 @@
 - **End of tenure** — [[Yário Kolkov]] leaves Engineer at ?
 
 ## 1988
+- **Appointment** — [[Ňotrič Apaj]] becomes Philosophical Advisor at [[Troli Ustaras]]
 - **Death** — [[Mariana Torres]] died in [[Karlotopol']] ([[Tarlanna's disease]])
+- **End of tenure** — [[Ňotrič Apaj]] leaves Journalist at [[Dripia State University Press]]
 
 ## 1989
 - **End of tenure** — [[Yário Kolkov]] leaves Engineer at ?
@@ -271,6 +282,7 @@
 - **Dissolved** — [[Confian Liberal Party]]
 - **Founded** — [[Mi, Niteraljci!]]
 - **Graduation** — [[Yavna Raroska]] — Political Science at [[University of New Kentu]]
+- **Publication** — *Children of the same mother* by [[Ňotrič Apaj]]
 
 ## 1994
 - **Dissolved** — [[Postian Free Farmers]]
@@ -324,6 +336,8 @@
 
 ## 2042
 - **Death** — [[Yavna Raroska]] died in [[Dripia]] (Natural causes)
+- **Death** — [[Ňotrič Apaj]] died in [[Dripia]] (Old age)
+- **End of tenure** — [[Ňotrič Apaj]] leaves Philosophical Advisor at [[Troli Ustaras]]
 
 ## 2063
 - **Death** — [[Venvek Rashera]] died in [[Orlítia]] (Drug overdose)
