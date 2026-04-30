@@ -284,6 +284,9 @@
 - **Graduation** — [[Yavna Raroska]] — Political Science at [[University of New Kentu]]
 - **Publication** — *Children of the same mother* by [[Ňotrič Apaj]]
 
+## 1993
+- **Founded** — [[KSH]]
+
 ## 1994
 - **Dissolved** — [[Postian Free Farmers]]
 - **Publication** — *[[Food for the Fools]]* by [[Yário Kolkov]]
@@ -310,6 +313,9 @@
 
 ## 2003
 - **Founded** — [[Red Iron]]
+
+## 2005
+- **Document recorded** — [[Grawolja Lasmanna with the Five of Goretopol']] (interview)
 
 ## 2006
 - **Publication** — *[[The Tyranny of Order]]* by [[Yário Kolkov]]
