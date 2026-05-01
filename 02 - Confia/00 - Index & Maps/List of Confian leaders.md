@@ -53,12 +53,12 @@ President Director of the Free Confian Republic
 |  2  |  [[Lorelaj Paulowić]]   | 1941 - 1950 |
 Governor-General of the Land of Confia
 
-| No. |             Name              |    Term     |       Appointer       |      Organization      | Notes |
-| :-: | :---------------------------: | :---------: | :-------------------: | :--------------------: | ----- |
-|  1  |       [[Eriežer Razi]]        | 1786 - 1795 | [[Empress Veronique]] |           -            |       |
-|  2  |       [[Jagan Sariol]]        |    1795     |                       |           -            |       |
-|  3  |     [[Lajala Kasteewina]]     | 1795 - 1796 |                       |           -            |       |
-|  4  | [[Jagan Mantišew Peskilonni]] |    1797     |                       |           -            |       |
-|  5  |   [[Grawolja Tekurubićna]]    | 1797 - 1814 |  [[Empress Prazde]]   | [[Tekurubićni Patrol]] |       |
-|  -  |                               |             |                       |                        |       |
-|  6  |                               |             |                       |                        |       |
+| No. |             Name              |    Term     |       Appointer       |      Organization      | Notes | Reason for leaving office |
+| :-: | :---------------------------: | :---------: | :-------------------: | :--------------------: | ----- | :-----------------------: |
+|  1  |       [[Eriežer Razi]]        | 1786 - 1795 | [[Empress Veronique]] |           -            |       |           Death           |
+|  2  |       [[Jagan Sariol]]        |    1795     |                       |           -            |       |         Dismissal         |
+|  3  |     [[Lajala Kasteewina]]     | 1795 - 1796 |                       |           -            |       |         Dismisal          |
+|  4  | [[Jagan Mantišew Peskilonni]] |    1797     |                       |           -            |       |         Dismissal         |
+|  5  |   [[Grawolja Tekurubićna]]    | 1797 - 1814 |  [[Empress Prazde]]   | [[Tekurubićni Patrol]] |       |        Resignation        |
+| ... |                               |             |                       |                        |       |                           |
+|  9  |       [[Jagan Lostan]]        | 1845 - 1849 |                       |                        |       |        Resignation        |
