@@ -23,11 +23,10 @@ It followed the [[Bayonet Revolution]]. It was won by [[Mariana Torres]].
 |   [[Lensek Bӑrboz]]   | [[Union of Confian Syndicalists]] |   3.4%    | Defeated |
 ## 1980 Confian confidence vote
 
-
 Japlenowina lost, with 83% of the seats voting against her permanence.
 ## 1980 Confian general election
 
-It was a snap election held after Japlenowina's destitution. 
+A snap election held after Japlenowina's destitution. It produced a KNP majority government.
 
 |                         Party                         | Leader | Seats (%) | Votes (%) | Status |
 | :---------------------------------------------------: | :----: | :-------: | :-------: | :----: |
@@ -83,7 +82,16 @@ It was won by [[Boris Serec]] following [[Mariana Torres]]' resignation due to c
 
 ## 1993 Confian general election
 
+Standard election. Produced a SF minority government with LjF toleration.
 
+|                  Party                  | Leader | Seats (%) | Votes (%) | Status |
+| :-------------------------------------: | :----: | :-------: | :-------: | :----: |
+|         [[Syndicalist League]]          |        |           |           |        |
+|      [[Armotist Democratic Party]]      |        |           |           |        |
+|             [[Democracy!]]              |        |           |           |        |
+|          [[Democratic League]]          |        |           |           |        |
+|        [[Confian Liberal Party]]        |        |           |           |        |
+| [[Movement for Syndicalist Renovation]] |        |           |           |        |
 ## 1993 Confian presidential election
 
 It was won by [[Boris Serec]] following [[Mariana Torres]]' resignation due to cognitive decline.
@@ -92,7 +100,7 @@ It was won by [[Boris Serec]] following [[Mariana Torres]]' resignation due to c
 | :-------------------------------------: | :-------------------------------------: | :-------: | :-------: |
 |             [[Boris Serec]]             |      [[Armotist Democratic Party]]      |   44.1%   | 2nd round |
 | [[Katerina Armoljubca Nožeslawna\|KAN]] |         [[Syndicalist League]]          |   27.4%   | 2nd round |
-|          [[Saserna Kašdunna]]           |        [[Confian Liberal Party]]        |   9.1%    | Defeated  |
+|          [[Saserna Kašdunna]]           |           [[Mi, Niteraljci!]]           |   9.1%    | Defeated  |
 |          [[Genrih Maskernie]]           | [[Movement for Syndicalist Renovation]] |   0.4%    | Defeated  |
 2nd round
 
@@ -108,3 +116,13 @@ Often called the 1996 coup.
 ## 1996 Confian general election
 
 
+## 1997 Confian general election
+
+
+## 1998 Confian general election
+
+Snap election called after Boris Serec's resignation. Uniquely produced a technocratic government under [[Grawolja Lasmanna]] with SF and MN toleration.
+
+## 2001 Confian general election
+
+Standard election. First election after the collapse of the [[Armotist Democratic Party]]. Produced a SF-MN coalition with KLjP toleration.
