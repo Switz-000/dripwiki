@@ -28,13 +28,13 @@ Japlenowina lost, with 83% of the seats voting against her permanence.
 
 A snap election held after Japlenowina's destitution. It produced a KNP majority government.
 
-|                         Party                         | Leader | Seats (%) | Votes (%) | Status |
-| :---------------------------------------------------: | :----: | :-------: | :-------: | :----: |
-|               [[Confian Liberal Party]]               |        |           |           |        |
-|        [[Movement for Syndicalist Renovation]]        |        |           |           |        |
-|                [[Syndicalist League]]                 |        |           |           |        |
-|           [[Progressive Republican Party]]            |        |           |           |        |
-| [[Confian Nation Party (1977)\|Confian Nation Party]] |        |           |           |        |
+|                         Party                         | Leader | Seats (%) | Votes (%) |   Status   |
+| :---------------------------------------------------: | :----: | :-------: | :-------: | :--------: |
+|               [[Confian Liberal Party]]               |        |           |           | Government |
+|        [[Movement for Syndicalist Renovation]]        |        |           |           | Opposition |
+|                [[Syndicalist League]]                 |        |           |           | Opposition |
+|           [[Progressive Republican Party]]            |        |           |           | Opposition |
+| [[Confian Nation Party (1977)\|Confian Nation Party]] |        |           |           | Opposition |
 
 ## 1981 Confian general election
 
@@ -49,7 +49,7 @@ It was won by [[Mariana Torres]].
 |           [[Mariana Torres]]            | [[Movement for Syndicalist Renovation]] |   41.6%   | 2nd round |
 |             [[Boris Serec]]             |      [[Armotist Democratic Party]]      |   37.1%   | 2nd round |
 | [[Katerina Armoljubca Nožeslawna\|KAN]] |         [[Syndicalist League]]          |   10.4%   | Defeated  |
-|          [[Saserna Kašdunna]]           |        [[Confian Liberal Party]]        |           | Defeated  |
+|          [[Saserna Kašdunna]]           |        [[Confian Liberal Party]]        |   5.2%    | Defeated  |
 |                                         |                                         |           |           |
 Second round:
 

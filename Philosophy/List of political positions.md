@@ -121,11 +121,11 @@ A system where multiple parties are allowed. Present in virtually every democrat
 
 ### Household suffrage
 
-(*Confia-specific*) A manner of suffrage distribution that assigns one vote per household, thus disproportionately enfranchising older women. Based on Tissanism, it was present in the [[General Government of Confia]] until 1845. Its last election, that of 1843, had women as 73.4% of registered voters.
+(*Confia-specific*) A manner of suffrage distribution that assigns one vote per household, thus, in the Confian context, disproportionately enfranchising older women. Based on Tissanism, it was present in the [[General Government of Confia]] until 1845. Its last election, that of 1843, had women as 73.4% of registered voters.
 
 ### Per-capita suffrage
 
-(*Confia-specific*) A manner of suffrage distribution that assigns one vote per household. Within the Confian context, this enfranchied younger citizens, particularly young men, as opposed to household suffrage. Implemented in 1845. Standard way of suffrage distribution outside of Confia.
+(*Confia-specific*) A manner of suffrage distribution that assigns one vote per household. Within the Confian context, this enfranchized younger citizens, particularly young men, as opposed to household suffrage. Implemented in 1845. Standard way of suffrage distribution outside of Confia.
 
 
 ---
@@ -268,7 +268,7 @@ _(Susia-specific)_ The position that individuals have a fundamental right to mod
 
 ### Tissanism
 
-*(Confia-specific)* From "Tissana/Тиссана", meaning "woman". The belief that a woman's natural duty as a homemaker is to be the head of her household and that a husband should be the working breadwinner, submissive to his wife. Originated the from [[Racpalia]] tradition of women who would wait for men come back from long trading voyages and were forced to administer their own families and communities in the men's stead. This traditional nuclear family model is the driving force behind Confian conservatism, held by parties such as the [[Armotist Democratic Party]] and [[Democracy!]]. Distinct and often diametrically opposed to feminism.
+*(Confia-specific)* From "Tissana/Тиссана", meaning "woman". The belief that a woman's natural duty as a homemaker is to be the head of her household and that a husband should be the working breadwinner, submissive to his wife. Originated the from [[Racpalia|Racpalian]] tradition of women who would wait for men come back from long trading voyages and were forced to administer their own families and communities in the men's stead. This traditional nuclear family model is the driving force behind Confian conservatism, held by parties such as the [[Armotist Democratic Party]] and [[Democracy!]]. Distinct and often diametrically opposed to feminism.
 
 
 
