@@ -6,9 +6,8 @@ abbreviation: WJAZA
 aliases:
 status:
 founded_by:
-  - "[[Wanašer Gerzăn]]"
-founded:
-dissolved:
+founded: 1977
+dissolved: 1981
 preceded_by: "[[Confian Nation Party (1841)|Confian Nation Party (self-claimed)]]"
 merger_of:
 split_from:
