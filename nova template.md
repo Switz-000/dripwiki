@@ -6,7 +6,7 @@ lusitanized_name: null
 aliases:
   - Serec
 enhanced: false
-summary: ""
+summary:
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: Male
