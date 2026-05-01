@@ -11,8 +11,9 @@ Presidents of the Council of Commissars of the United Syndicates of Confia (Prim
 |  5  |          [[Japlen Razol]]          | 1986 - 1990 |      [[Armotist Democratic Party]]      |                                                   *elected by governing coalition*                                                   |
 |  6  | [[Katerina Armoljubca Nožeslawna]] | 1990 - 1996 |         [[Syndicalist League]]          | [[List of Confian elections#1989 Confian general election\|1989]], [[List of Confian elections#1993 Confian general election\|1993]] |
 |  -  |   *[[Noljež Teššan]]* (interim)    |    1996     |         [[Syndicalist League]]          |                                          [[List of Confian elections#1996 coup\|1996 coup]]                                          |
-|  7  |         [[Noljež Teššan]]          | 1996 - 1999 |         [[Syndicalist League]]          | [[List of Confian elections#1996 Confian general election\|1996]], [[List of Confian elections#1997 Confian general election\|1997]] |
-|  8  |       [[Grawolja Lasmanna]]        | 1999 - 2001 |              *Independent*              |                                                                                                                                      |
+|  7  |         [[Noljež Teššan]]          | 1996 - 1998 |         [[Syndicalist League]]          | [[List of Confian elections#1996 Confian general election\|1996]], [[List of Confian elections#1997 Confian general election\|1997]] |
+|  8  |       [[Grawolja Lasmanna]]        | 1998 - 2001 |              *Independent*              |                                  [[List of Confian elections#1998 Confian general election\|1998]]                                   |
+|  9  |        [[Granzer Teahowić]]        | 2001 - 2009 |         [[Syndicalist League]]          |                                  [[List of Confian elections#2000 Confian general election\|2000]]                                   |
 Presidents of the Confian Nation (President of the Nation/President)
 
 | No. |                Name                |    Term     |                                                                                Party                                                                                 |                                Election                                |
