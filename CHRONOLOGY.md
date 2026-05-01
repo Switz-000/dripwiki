@@ -20,9 +20,6 @@
 ## 1791
 - **Founded** — [[PIKW]]
 
-## 1801
-- **Birth** — [[Armadesh Versij]] born in [[Kruie ro Yietre]], [[Vitrika]]
-
 ## 1809
 - **Birth** — [[Kaichet Satratonie]] born in [[Lore-Kurji]], [[Misocévia]]
 
@@ -43,7 +40,6 @@
 - **Founded** — [[Confian Nation Party (1841)]]
 
 ## 1844
-- **Death** — [[Armadesh Versij]] died in [[Dripia]] (Hanging)
 - **End of tenure** — [[Armadesh Versij]] leaves Member of the General Government of the Federated Provinces of Galil at ?
 - **End of tenure** — [[Armadesh Versij]] leaves Presiding Councillor of the Federated Provinces of Galil at ?
 
