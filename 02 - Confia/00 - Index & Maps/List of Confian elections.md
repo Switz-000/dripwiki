@@ -30,7 +30,7 @@ A snap election held after Japlenowina's destitution. It produced a KNP majority
 
 |                         Party                         | Leader | Seats (%) | Votes (%) |   Status   |
 | :---------------------------------------------------: | :----: | :-------: | :-------: | :--------: |
-|               [[Confian Liberal Party]]               |        |           |           | Government |
+|               [[Confian Liberal Party]]               |        |           |   43.1%   | Government |
 |        [[Movement for Syndicalist Renovation]]        |        |           |           | Opposition |
 |                [[Syndicalist League]]                 |        |           |           | Opposition |
 |           [[Progressive Republican Party]]            |        |           |           | Opposition |
