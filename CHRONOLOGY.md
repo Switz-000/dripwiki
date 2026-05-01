@@ -39,6 +39,9 @@
 - **Appointment** — [[Armadesh Versij]] becomes Member of the General Government of the Federated Provinces of Galil at ?
 - **Appointment** — [[Armadesh Versij]] becomes Presiding Councillor of the Federated Provinces of Galil at ?
 
+## 1841
+- **Founded** — [[Confian Nation Party (1841)]]
+
 ## 1844
 - **Death** — [[Armadesh Versij]] died in [[Dripia]] (Hanging)
 - **End of tenure** — [[Armadesh Versij]] leaves Member of the General Government of the Federated Provinces of Galil at ?
@@ -111,6 +114,9 @@
 
 ## 1933
 - **Graduation** — [[Suizo Soites]] — Economics at [[University of New Kentu]]
+
+## 1937
+- **Dissolved** — [[Confian Nation Party (1841)]]
 
 ## 1938
 - **Founded** — [[Końteraf]]
