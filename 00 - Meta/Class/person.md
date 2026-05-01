@@ -135,11 +135,6 @@ fields:
     options: {}
     path: QiIJj5
     id: 0hYoc2
-  - name: branch
-    type: Input
-    options: {}
-    path: r9QxJ9
-    id: 95IT9x
   - name: military_service
     type: ObjectList
     options:
@@ -174,7 +169,7 @@ fields:
       valuesList: {}
     path: jvFCxw
     id: EouDZY
-version: "2.122"
+version: "2.135"
 limit: 20
 mapWithTag: false
 icon: user
@@ -201,13 +196,12 @@ fieldsOrder:
   - TlUofS
   - QiIJj5
   - E8ieMD
-  - Eg61ao
   - M4zzzF
   - 0tiOoG
   - UGUlgE
   - njihot
   - 0hYoc2
-  - 95IT9x
+  - Eg61ao
   - jvFCxw
   - Em2LsP
   - vmin2w
