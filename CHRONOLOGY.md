@@ -56,7 +56,7 @@
 - **Death** — [[Kaichet Satratonie]] died in [[Unknown]] (Unknown)
 
 ## 1873
-- **Death** — [[Wanašer Gerzăn]] died in ? (Suicide (Cyanide poisoning))
+- **Death** — [[Wanašer Gerzăn]] died in ? (Tuberculosis under state custody)
 
 ## 1874
 - **Founded** — [[Soiteslaj]]
@@ -203,6 +203,7 @@
 - **Event begins** — [[Bayonet Revolution]]
 - **Event ends** — [[Bayonet Revolution]]
 - **Event ends** — [[Continental Divide]]
+- **Founded** — [[Confian Nation Party (1977)]]
 
 ## 1978
 - **Appointment** — [[Boris Serec]] becomes Commissar of Education at ?
@@ -228,6 +229,7 @@
 ## 1981
 - **Appointment** — [[Chedji Soites]] becomes CEO at ?
 - **Appointment** — [[Katerina Armoljubca Nožeslawna]] becomes Member of the National Assembly of Confian Syndicates at ?
+- **Dissolved** — [[Confian Nation Party (1977)]]
 - **End of tenure** — [[Chedji Soites]] leaves Regional Operations Manager, Central-East at ?
 - **End of tenure** — [[Suizo Soites]] leaves CEO at ?
 
