@@ -100,7 +100,7 @@ Veronique oversaw the formal colonization of the western territories that would 
 
 The Konph people — the indigenous inhabitants of the region — resisted settlement. Veronique responded with the **Tekur Territory Act**, authorizing the forced removal of Konphs to the Tekur Territory (now [[Nessel]] and [[New Celiolaj]]). She then implemented a segregated road system, destroying traditional Konph roads to disrupt coordination between villages while building new roads Konphs were forbidden to use.
 
-Near the end of her reign, former army officers formed the **Tekurubicni Patrol** — the Anti-Konph Ethno-National Defense Patrol — a paramilitary organization that pledged to destroy one Konph village for every act of road sabotage. Its operations were notoriously brutal, involving torture, murder, looting, and rape. Veronique neither officially sanctioned nor suppressed it.
+Near the end of her reign, former army officers formed the **Tekurubićni Patrol** — the Anti-Konph Ethno-National Defense Patrol — a paramilitary organization that pledged to destroy one Konph village for every act of road sabotage. Its operations were notoriously brutal, involving torture, murder, looting, and rape. Veronique neither officially sanctioned nor suppressed it.
 
 ## Personal Life
 
@@ -112,6 +112,6 @@ Veronique died of a gastric ulcer at the age of 67 in 1787.
 
 Veronique is among the most consequential figures in Dripstanian history, and among the most difficult to assess cleanly. She created the Senate, the professional army, and the colonial administrative apparatus — institutions that defined the empire for the next two centuries. Her crushing of the Babalists legitimized female rule and opened the door to later gender equality reforms.
 
-She also presided over the ethnic cleansing of the Konph people, the forced displacement of hundreds of thousands, and the creation of the colonial infrastructure that would fuel Dripstanian expansion for generations. The Tekurubicni Patrol — which she neither ordered nor stopped — wiped villages off the map under her watch.
+She also presided over the ethnic cleansing of the Konph people, the forced displacement of hundreds of thousands, and the creation of the colonial infrastructure that would fuel Dripstanian expansion for generations. The Tekurubićni Patrol — which she neither ordered nor stopped — wiped villages off the map under her watch.
 
 In contemporary [[Susia]], Veronique occupies an uncomfortable place in the historical memory: too important to ignore, too brutal to celebrate uncritically.
