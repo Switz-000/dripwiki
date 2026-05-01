@@ -35,7 +35,6 @@ Leader of the Nation
 
 Director of the Central Bank of the Confian Nation
 
-
 | No. |         Name          |    Term     |                Appointer                |                            Notes                             |
 | :-: | :-------------------: | :---------: | :-------------------------------------: | :----------------------------------------------------------: |
 |  1  |   [[Teah Hanować]]    | 1960 - 1970 |          [[Lorelaj Paulowić]]           |                    Appointed on creation                     |
@@ -45,3 +44,21 @@ Director of the Central Bank of the Confian Nation
 |  5  |  [[Beatrix Sartnär]]  | 1991 - 1996 | [[Katerina Armoljubca Nožeslawna\|KAN]] |            First Director of [[Tekur]] ethnicity             |
 |  -  |  [[Beatrix Sartnär]]  | 1996 - 2001 | [[Katerina Armoljubca Nožeslawna\|KAN]] | Reappointed. Not replaced after 1999 CBCN independence ACCN. |
 |  6  |  [[Eriežer Lasman]]   | 2001 - 2006 |          [[Grawolja Lasmanna]]          |       First Director after restoration of independence       |
+
+President Director of the Free Confian Republic
+
+| No. |          Name           |    Term     |
+| :-: | :---------------------: | :---------: |
+|  1  | [[Armoljub Gireshenko]] | 1937 - 1941 |
+|  2  |  [[Lorelaj Paulowić]]   | 1941 - 1950 |
+Governor-General of the Land of Confia
+
+| No. |             Name              |    Term     |       Appointer       |      Organization      | Notes |
+| :-: | :---------------------------: | :---------: | :-------------------: | :--------------------: | ----- |
+|  1  |       [[Eriežer Razi]]        | 1786 - 1795 | [[Empress Veronique]] |           -            |       |
+|  2  |       [[Jagan Sariol]]        |    1795     |                       |           -            |       |
+|  3  |     [[Lajala Kasteewina]]     | 1795 - 1796 |                       |           -            |       |
+|  4  | [[Jagan Mantišew Peskilonni]] |    1797     |                       |           -            |       |
+|  5  |   [[Grawolja Tekurubićna]]    | 1797 - 1814 |  [[Empress Prazde]]   | [[Tekurubićni Patrol]] |       |
+|  -  |                               |             |                       |                        |       |
+|  6  |                               |             |                       |                        |       |
