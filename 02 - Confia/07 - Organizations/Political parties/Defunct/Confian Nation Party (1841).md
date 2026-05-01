@@ -6,12 +6,13 @@ abbreviation: CNP
 aliases:
 status:
 founded_by:
-founded:
-dissolved:
+  - "[[Wanašer Gerzăn]]"
+founded: 1841
+dissolved: 1937
 merger_of:
 split_from:
 merged_into:
-banned_by:
+banned_by: "[[Armoljub Gireshenko]]"
 legalized_by:
 headquarters:
 newspaper:
@@ -19,9 +20,9 @@ think_tank:
 youth_wing:
 paramilitary:
 ideology:
-  - 
+  - "[[Wanašer Gerzăn|Gerzanian nationalism]]"
 political_position:
-  - 
+  - Nationalist
 wings:
   - 
 area_served:
