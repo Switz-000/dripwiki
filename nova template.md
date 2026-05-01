@@ -1,7 +1,6 @@
 ---
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
-slug: boris-rodocewiic-serec          # id para paginas
 native_name: Boris Rodočewić Serec
 lusitanized_name: null
 aliases:
