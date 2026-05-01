@@ -77,6 +77,6 @@ era:
 tags:
   -
 ---
-**Grawolja Marianowina Tekurubićna** () was a Racpalian-born Confian paramilitary leader and politician that served as the 5th Governor-General of the Land of Confia. A prominent figure in the [[Tekurubićni Patrol]] who would later lead it, she was responsible for instituting the "Our Own First" policy, which in practice gave state authorization and backing to violent attacks against [[Konph]] villages to make way for Racpalian settlements.
+**Grawolja Marianowina Tekurubićna** (Racpalian Alphabet: Мариановіна Текурубічна) was a Racpalian-born Confian paramilitary leader and politician that served as the 5th Governor-General of the Land of Confia. A prominent figure in the [[Tekurubićni Patrol]] who would later lead it, she was responsible for instituting the "Our Own First" policy, which in practice gave state authorization and backing to violent attacks against [[Konph]] villages to make way for Racpalian settlements.
 
-Tekurubićna was born Grawolja Marianowina Razastuha and changed her last name upon accession to the Patrol. During her time in the Patrol, she earned the nickname "Inkriska Grawi", meaning "Incrian Grawi", in reference to her red hair, similar to that of [[Ashgerad|Ashgeradis]].
+Tekurubićna was born **Grawolja Marianowina Razastuha**, but changed her last name upon accession to the Patrol. During her time in the Patrol, she earned the nickname "Inkriska Grawi", meaning "Incrian Grawi", in reference to her red hair, similar to that of [[Ashgerad|Ashgeradis]].
