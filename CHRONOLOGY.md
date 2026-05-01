@@ -99,6 +99,7 @@
 
 ## 1921
 - **Birth** — [[Boris Serec]] born in [[Jagansk]], [[Karlotopol']]
+- **Birth** — [[Test]] born in [[Jagansk]], [[Karlotopol']]
 
 ## 1924
 - **Birth** — [[Filevir Matri]] born in [[Duolij]], [[Postia]]
@@ -257,6 +258,7 @@
 ## 1987
 - **Appointment** — [[Boris Serec]] becomes President of the Confian Nation at ?
 - **Appointment** — [[Katerina Armoljubca Nožeslawna]] becomes Member of the National Assembly of Confian Syndicates at ?
+- **Appointment** — [[Test]] becomes President of the Confian Nation at ?
 - **Appointment** — [[Yário Kolkov]] becomes Engineer at ?
 - **End of tenure** — [[Boris Serec]] leaves President of the Council of Commissars of the United Syndicates of Confia at ?
 - **End of tenure** — [[Mariana Torres]] leaves President of the Confian Nation at ?
@@ -273,6 +275,7 @@
 ## 1990
 - **Appointment** — [[Katerina Armoljubca Nožeslawna]] becomes President of the Council of Commissars of the United Syndicates of Confia at ?
 - **End of tenure** — [[Katerina Armoljubca Nožeslawna]] leaves Member of the National Assembly of Confian Syndicates at ?
+- **Publication** — *[[Letters to a Dead Republic]]* by [[Test]]
 - **Publication** — *[[Letters to a Dead Republic]]* by [[Yário Kolkov]]
 
 ## 1991
@@ -298,6 +301,7 @@
 - **Appointment** — [[Lenseka Japlenowina]] becomes Mayor of Imgospalje at ?
 - **End of tenure** — [[Boris Serec]] leaves President of the Confian Nation at ?
 - **End of tenure** — [[Katerina Armoljubca Nožeslawna]] leaves President of the Council of Commissars of the United Syndicates of Confia at ?
+- **End of tenure** — [[Test]] leaves President of the Confian Nation at ?
 
 ## 1997
 - **Publication** — *[[Evolution of Governance]]* by [[Yário Kolkov]]
