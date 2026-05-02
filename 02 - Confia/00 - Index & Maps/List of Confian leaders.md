@@ -13,7 +13,7 @@ Presidents of the Council of Commissars of the United Syndicates of Confia (Prim
 |  -  |   *[[Noljež Teššan]]* (interim)    |    1996     |         [[Syndicalist League]]          |                                          [[List of Confian elections#1996 coup\|1996 coup]]                                          |
 |  7  |         [[Noljež Teššan]]          | 1996 - 1998 |         [[Syndicalist League]]          | [[List of Confian elections#1996 Confian general election\|1996]], [[List of Confian elections#1997 Confian general election\|1997]] |
 |  8  |       [[Grawolja Lasmanna]]        | 1998 - 2001 |              *Independent*              |                                  [[List of Confian elections#1998 Confian general election\|1998]]                                   |
-|  9  |        [[Granzer Teahowić]]        | 2001 - 2009 |         [[Syndicalist League]]          |                                  [[List of Confian elections#2000 Confian general election\|2000]]                                   |
+|  9  |        [[Ganzer Teahowić]]         | 2001 - 2009 |         [[Syndicalist League]]          |                                  [[List of Confian elections#2000 Confian general election\|2000]]                                   |
 Presidents of the Confian Nation (President of the Nation/President)
 
 | No. |                Name                |    Term     |                                                                                Party                                                                                 |                                Election                                |
