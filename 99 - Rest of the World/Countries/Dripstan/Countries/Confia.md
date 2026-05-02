@@ -8,7 +8,7 @@ goverment_type:
   - Republic
 population_2080: 122890904
 population_2000: 82235974
-population_1970: 61231000
+population_1970: 61231007
 population_1954: 47514314
 religion: "[[Armotism]]"
 languages: Confian
