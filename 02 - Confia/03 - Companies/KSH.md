@@ -14,7 +14,6 @@ yarnojte: false
 yarnojte_granted:
 yarnojte_revoked:
 fez_locations:
-sector:
-  - Media and telecommunications
+sector: Telecomm
 ---
 
