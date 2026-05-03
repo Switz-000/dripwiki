@@ -30,7 +30,7 @@ borders_north:
 borders_south:
   - "[[Zaphonia]]"
 ---
-**Confia** (Confian: Końfija/Коњфія), officially The United Syndicates of Confia (in Confianian: Săhni Syndăkaci Końfiï/Съхні Сындъкаци Коњфії), also known as Confia, is a country located in the center of the [[Dripstanian Continent]] , bisected by the [[Confian Highlands]]. Confia borders [[Susia]] to the west, [[Pierej]] to the east, [[Kapiogg]] to the northwest, [[Zaphonia]] to the south, and shares a small border with [[Kamino]] to the southeast. The country is composed of ten states. The capital and largest commercial center of the country is [[Imgospalje]], while the largest city by area and population is [[Carlotopolis]].
+**Confia** (Confian: Końfija/Коњфія), officially the **Confian Social Republic** and known until 2009 as the **United Syndicates of Confia** (in Confian: Săhni Syndăkaci Końfiï/Съхні Сындъкаци Коњфії), also known as Confia, is a country located in the center of the [[Dripstanian Continent]] , bisected by the [[Confian Highlands]]. Confia borders [[Susia]] to the west, [[Pierej]] to the east, [[Kapiogg]] to the northwest, [[Zaphonia]] to the south, and shares a small border with [[Kamino]] to the southeast. The country is composed of ten states. The capital and largest commercial center of the country is [[Imgospalje]], while the largest city by area and population is [[Carlotopolis]].
 
 The territory where Confia is currently located began to be occupied by Racpalians (East Gaiyanese) from the Second Gaiyan Migration in the late 1780s and early 1800s, following the [[Rural Properties Act]], sanctioned by [[Empress Veronique]]. With the gradual occupation of the territory west of the mountains, the [[General Government of Confia]] was established, a new territory directly controlled by the Empress.
 
@@ -87,7 +87,7 @@ During the end days of the [[Continental War]], the RBWIZ took Imgospalje, march
 
 ## Syndicalist Republic (1977-2009)
 
-The period between the Bayonet Revolution and the *WIP 2009 event* became known as the Syndicalist Republic.
+The period between the Bayonet Revolution and the promulgation of the 2009 constitution is known as the Syndicalist Republic.
 
 > "We are longer quite a traditional Syndicalist state, and we are not quite a traditional democratic republic. **Confia currently stands a Syndicalist Republic**, and only the future will tell if such an idiosyncratic arrangement resists time like the syndicates did."
 > - [[Mariana Torres]] after sanctioning the [[Labour and Capital Reform ACCN]]
