@@ -1,5 +1,5 @@
 ---
-official_name: United Syndicates of Confia
+official_name: Confian Social Republic
 type: country
 goverment_type:
   - Unitary
