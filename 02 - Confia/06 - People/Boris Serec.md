@@ -54,8 +54,7 @@ offices:
     start: 1987
     end: 1996
     appointer: "[[1987 Confian presidential election]]"
-    party:
-      - "[[Armotist Democratic Party|ALjP]]"
+    party: "[[Armotist Democratic Party|ALjP]]"
     notes:
   - title: President of the Council of Commissars of the United Syndicates of Confia
     employer: "[[Confian National Government]]"
