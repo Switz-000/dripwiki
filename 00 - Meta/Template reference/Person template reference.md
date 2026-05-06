@@ -1,50 +1,68 @@
+### Qualities
+
+An article's YALM may have three level of qualities
+
+1 - Stub: These are articles that don't have all required fields met
+2 - Incomplete: These are articles that have all (Required) fields but not all of the (Recommended)
+3 - Complete: These are articles that have all of the (Recommended) and (Required) fields met, satisfying the basic quality criteria. 
+
+Optional fields do not count for any of these
 ### Identity
 
-**`type`** — always `person`. Required on every file.
+**`type`** — always `person`. (Required).
 
-**`full_name`** — full legal or formal name as it would appear in an official document. Required.
+**`native_name`** — name of this character in its native language. (Recommended)
 
-**`aliases`** — common short names, nicknames, titles, or alternate spellings used in prose. Obsidian uses these for link resolution, so include any form another article might link by. Examples: `Versij`, `KAN`, `Chediji J. Soites`.
+**`aliases`** — common short names, nicknames, titles, or alternate spellings used in prose. Examples: `Versij`, `KAN`, `Chediji J. Soites`.  (Optional)
 
-**`summary`** — one to two sentence plain-prose description of who this person is and why they matter. Written for RAG retrieval, not for display. Should name the person, their role, their dates, and their primary significance. Required on all non-stub files.
+**`summary`** — one to two sentence plain-prose description of who this person is and why they matter. Should name the person, their role and their primary significance. (Required)
 
-**`known_for`** — structured list of wikilinks or plain text items representing the person's primary historical significance. Used by Dataview to create queryable associations between persons and events, laws, institutions, and concepts. Keep to three to five items. Examples: `"[[Liberal Revolts]]"`, `"[[Architecture of Freedom]]"`.
+**`known_for`** — structured list of wikilinks or plain text items representing the person's primary historical significance. Keep from three to five items. Examples: `"[[Liberal Revolts]]"`, `"[[Architecture of Freedom]]"`. (Recommended)
 
 ---
 
-### Vital statistics
+### Birth and Death
 
-**`sex`** — `Male` or `Female`. Plain text.
+you know the deal. use wki
 
-**`birth_year`** / **`death_year`** — four-digit integer. No quotes. Leave `death_year` blank for living characters.
+`birth:`
+  `year:`
+  `city:`
+  `state:`
+  `country:`
 
-**`birth_city`** / **`death_city`** — wikilink to city article.
-
-**`birth_state`** / **`death_state`** — wikilink to state, province, or equivalent subdivision article.
-
-**`birth_country`** / **`death_country`** — wikilink to country article. For anyone born before 1954, this is always `"[[Dripstanian Empire]]"`. Never use `"[[Susia]]"` for a pre-1954 birth country.
+death:
+  year:
+  city:
+  state:
+  country:
+  cause:
 
 **`death_cause`** — plain text. Use consistent phrasing across files. Examples: `Natural causes`, `Hanging`, `Lung cancer`, `Disappeared`, `Unknown`.
 
 ---
 
-### Identity and background
+### Demographics
 
-**`citizenship`** — legal status in a state. List. Use wikilinks with display text. Examples: `"[[Susia|Susian]]"`, `"[[Dripstanian Empire|Dripstanian]]"`. A person can hold multiple citizenships. Leave blank if unknown or not applicable.
+**`sex`** — `Male` or `Female`. Plain text.  (Required).
 
-**`nationality`** — cultural or national belonging. Distinct from citizenship: a person born in the Dripstanian Empire may have Susian nationality through cultural identity even before Susia existed as a state. List. Same wikilink format as citizenship. See the YAML and Tags file for the canonical comparison table.
+**`citizenship`** — legal status in a state. List. Use wikilinks for `type: country` articles. A person can hold multiple citizenships. (Required).
 
-**`ethnicity`** — ancestral and ethnic origin. Plain text. Examples: `West Gaiyanese`, `East Gaiyanese`. Not a wikilink unless the ethnic group has a dedicated article.
+**`nationality`** — cultural or national belonging. Distinct from citizenship: a person born in the Dripstanian Empire may have Susian nationality through cultural identity even before Susia existed as a state. List. Use wikilinks for `type: country` articles. A person can hold multiple citizenships. (Required).
 
-**`religion`** — wikilink if the religion has an article. Plain text if not. Examples: `"[[Reformed Armotism]]"`, `"[[Armotist Church of the Confian Synod]]"`.
+**`ethnicity`** — ancestral and ethnic origin. Plain text. Examples: `West Gaiyanese`, `East Gaiyanese`. (Required).
 
-**`enhanced`** — boolean. Whether the person has undergone cognitive enhancement. Always included. Defaults to `false`.
+**`religion`** — wikilink of the religion of this character. `"[[Reformed Armotism]]"`, `"[[Armotist Church of the Confian Synod]]"`. (Recommended)
+
+**`enhanced`** — boolean. Whether the person has undergone cognitive enhancement. Always included. Defaults to `false`. (Required).
 
 ---
 
 ### Education
 
-**`education`** — list of degree entries. Each entry has three subfields:
+(Recommended)
+
+**`education`** — list of degree entries. Each entry has three subfields: 
 
 - `degree` — field of study, not the credential type. Example: `Finance`, `Law`, `Economics`.
 - `institution` — wikilink to the institution article.
