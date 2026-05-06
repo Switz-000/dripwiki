@@ -5,7 +5,6 @@ native_name:
 lusitanized_name:
 aliases:
   -
-enhanced: false
 summary:
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
@@ -13,9 +12,10 @@ sex:
 ethnicity:
 religion:
 citizenship:
-  - "[[Confia]]"
+  -
 nationality:
-  - "[[Confia]]"
+  -
+enhanced: false
 
 # ── BIRTH ───────────────────────────────────────────────────────────────────
 birth:
@@ -86,14 +86,6 @@ written_works:
     genre: Philosophy
     notes: ""
 
-# ── AWARDS ──────────────────────────────────────────────────────────────────
-awards:
-  - title
-    awarded_year:
-    posthumous: false
-    granted_by:
-    country:
-    notes: null
 
 # ── CRIMINAL RECORD ─────────────────────────────────────────────────────────
 criminal_charges:
@@ -110,6 +102,14 @@ criminal_charges:
 known_for:
   - item:
     notes:
+
+awards:
+  - title:
+    awarded_year:
+    posthumous: false
+    granted_by:
+    country:
+    notes: null
 
 historical_period:
   -
