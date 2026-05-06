@@ -17,14 +17,13 @@ nationality:
   -
 enhanced: false
 
-# ── BIRTH ───────────────────────────────────────────────────────────────────
+# ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
 birth:
   year:
   city:
   state:
   country:
 
-# ── DEATH ───────────────────────────────────────────────────────────────────
 death:
   year:
   city:
@@ -81,21 +80,23 @@ offices:
 
 # ── WRITTEN WORKS ───────────────────────────────────────────────────────────
 written_works:
-  - title: "[[Letters to a Dead Republic]]"
-    publication_year: 1990
-    genre: Philosophy
-    notes: ""
+  - title:
+    publication_year:
+    genre:
+    notes:
 
 
 # ── CRIMINAL RECORD ─────────────────────────────────────────────────────────
 criminal_charges:
   - charge:
     counts:
+    charged_year:
     plea:
     verdict:
+    verdict_year:
     sentence:
     served:
-    in_absentia: true
+    in_absentia:
     notes:
 
 # ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
@@ -109,9 +110,9 @@ awards:
     posthumous: false
     granted_by:
     country:
-    notes: null
+    notes:
 
-historical_period:
+era:
   -
 
 # ── META ────────────────────────────────────────────────────────────────────
