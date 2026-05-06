@@ -246,7 +246,7 @@
 - [[Katerina Armoljubca Nožeslawna]] — Member of the National Assembly of Confian Syndicates — [[Syndicalist League]]
 
 - **Appointment** — [[Filevir Matri]] becomes President of Susia at ?
-- **Appointment** — [[Yário Kolkov]] becomes Engineer at ? — *Worked at Nayotai after graduating. Left after five years.*
+- **Appointment** — [[Yário Kolkov]] becomes Engineer at ?
 - **End of tenure** — [[Boris Serec]] leaves Commissar of Education at ?
 - **End of tenure** — [[Filevir Matri]] leaves Vice President of Susia at ?
 - **End of tenure** — [[Katerina Armoljubca Nožeslawna]] leaves Member of the National Assembly of Confian Syndicates at ?
@@ -277,10 +277,10 @@
 ### [[1987 Confian presidential election]]
 - [[Boris Serec]] — President of the Confian Nation — [[Armotist Democratic Party|ALjP]]
 
-- **Appointment** — [[Yário Kolkov]] becomes Engineer at ? — *Left in disgust at the company's culture. The experience directly inspired Letters to a Dead Republic.*
+- **Appointment** — [[Yário Kolkov]] becomes Engineer at ? — *Left in disgust at the company's culture.*
 - **End of tenure** — [[Boris Serec]] leaves President of the Council of Commissars of the United Syndicates of Confia at ?
 - **End of tenure** — [[Mariana Torres]] leaves President of the Confian Nation at ?
-- **End of tenure** — [[Yário Kolkov]] leaves Engineer at ? — *Worked at Nayotai after graduating. Left after five years.*
+- **End of tenure** — [[Yário Kolkov]] leaves Engineer at ?
 
 ## 1988
 - **Appointment** — [[Ňotrič Apaj]] becomes Philosophical Advisor at [[Troli Ustaras]] — *Writes, advises on ethical policy, and serves as a living philosophical presence within TU. Attended major conferences and events including the inauguration of the Kolkov Learning Center. Shaped TU's ethical vocabulary without ever being submerged in its culture.*
@@ -288,7 +288,7 @@
 - **End of tenure** — [[Ňotrič Apaj]] leaves Journalist at [[Dripia State University Press]] — *Covered economics, social policy, and politics during the post-Continental War boom years. War correspondent in Ditania 1983. His journalism is competent but unremarkable until Ditania*
 
 ## 1989
-- **End of tenure** — [[Yário Kolkov]] leaves Engineer at ? — *Left in disgust at the company's culture. The experience directly inspired Letters to a Dead Republic.*
+- **End of tenure** — [[Yário Kolkov]] leaves Engineer at ? — *Left in disgust at the company's culture.*
 
 ## 1990
 - **Appointment** — [[Katerina Armoljubca Nožeslawna]] becomes President of the Council of Commissars of the United Syndicates of Confia at ?, appointed by [[National Assembly of Confian Syndicates]]
