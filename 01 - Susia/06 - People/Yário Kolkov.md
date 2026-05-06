@@ -73,17 +73,19 @@ spouse:
 children:
 offices:
   - title: Engineer
+    employer: [[Troli Ustaras]]
     start: 1987
     end: 1989
     appointer:
     party:
-    notes: Left in disgust at the company's culture. The experience directly inspired Letters to a Dead Republic.
+    notes: Left in disgust at the company's culture.
   - title: Engineer
+    employer: [[Nayotai]]
     start: 1982
     end: 1987
     appointer:
     party:
-    notes: Worked at Nayotai after graduating. Left after five years.
+    notes:
 total_sentence:
 criminal_charges:
 era:
