@@ -1,128 +1,122 @@
 ---
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
-native_name: Boris Rodočewić Serec
-lusitanized_name: null
+native_name:
+lusitanized_name:
 aliases:
-  - Serec
+  -
 enhanced: false
 summary:
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
-sex: Male
-ethnicity: "[[East Gaiyanese]]"
-religion: "[[Reformed Armotism]]"
+sex:
+ethnicity:
+religion:
 citizenship:
-  - "[[Dripstanian Empire]]"
   - "[[Confia]]"
 nationality:
   - "[[Confia]]"
 
 # ── BIRTH ───────────────────────────────────────────────────────────────────
 birth:
-  year: 1921
-  city: "[[Jagansk]]"
-  state: "[[Karlotopol']]"
-  country: "[[Dripstanian Empire]]"
+  year:
+  city:
+  state:
+  country:
 
 # ── DEATH ───────────────────────────────────────────────────────────────────
 death:
-  year: null
-  city: null
-  state: null
-  country: null
-  cause: null
+  year:
+  city:
+  state:
+  country:
+  cause:
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
-spouse: "[[Grawolja Sereca]]"
-children_count: 3          # use um NÚMERO
+spouse:
+children_count:         # use um NÚMERO
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree: null
-    institution: null
-    year: null
+  - degree:
+    institution:
+    year:
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
-  - title: Lawyer
-    start_year: null
-    end_year: null
-  - title: Politician
-    start_year: null
-    end_year: null
+  - title:
+    start_year:
+    end_year:
 
 military_service:
   - allegiance:
-    branch: null
-    rank: null
-    start_year: null
-    end_year: null
+    branch: 
+    rank:
+    start_year:
+    end_year:
     conflicts:
-      - null
+      -
     notes: null
 
 political_alignment:
-  - "[[Armotist democracy]]"
+  -
 
-party: "[[Armotist Democratic Party]]"         # principal partido, ou partido atual
+party:        # principal partido, ou partido atual
 parties:                                        # partidos que ela ja pertenceu
-  - "[[Armotist Democratic Party]]"
+  -
 
 organizations:
-  - "[[Confederation of the Industries of the Confian Nation]]"
+  -
 
 # ── OFFICES ─────────────────────────────────────────────────────────────────
 offices:
   - title: President of the Confian Nation
-    employer: "[[Confian National Government]]"
+    employer:
     start_year: 1987
     end_year: 1996
-    appointer: "[[1987 Confian presidential election]]"
+    appointer:
     parties:
-      - "[[Armotist Democratic Party]]"
-    notes: null
+      -
+    notes:
 
 # ── WRITTEN WORKS ───────────────────────────────────────────────────────────
 written_works:
   - title: "[[Letters to a Dead Republic]]"
     publication_year: 1990
     genre: Philosophy
-    notes: >
-      First major work. Drew on his experiences at Nayotai and Troli Ustaras.
-      Established his critique of corporate culture as ideological capture.
+    notes: ""
 
 # ── AWARDS ──────────────────────────────────────────────────────────────────
 awards:
-  - title: Some Award
-    awarded_year: 1990
+  - title
+    awarded_year:
     posthumous: false
-    granted_by: "[[Some Institution]]"
-    country: "[[Confia]]"
+    granted_by:
+    country:
     notes: null
 
 # ── CRIMINAL RECORD ─────────────────────────────────────────────────────────
 criminal_charges:
-  - charge: a
-    counts: 1
-    plea: No Contest
-    verdict: Guilty
-    sentence: s
-    served: 1
+  - charge:
+    counts:
+    plea:
+    verdict:
+    sentence:
+    served:
     in_absentia: true
-    notes: a
+    notes:
 
 # ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
-  - item: "[[New Oil Agreement]]"
-    notes: null
+  - item:
+    notes:
 
 historical_period:
-  - post-war
+  -
 
 # ── META ────────────────────────────────────────────────────────────────────
 tags:
-  - economy
+  -
 
 meta:
   stub: true
