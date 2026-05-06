@@ -33,8 +33,8 @@
 - **Founded** — [[Ražaw]] in [[Imgospalje]]
 
 ## 1840
-- **Appointment** — [[Armadesh Versij]] becomes Member of the General Government of the Federated Provinces of Galil at ?
-- **Appointment** — [[Armadesh Versij]] becomes Presiding Councillor of the Federated Provinces of Galil at ?
+- **Appointment** — [[Armadesh Versij]] becomes Member of the General Government of the Federated Provinces of Galil at ?, appointed by [[General Government of the Federated Provinces of Galil]]
+- **Appointment** — [[Armadesh Versij]] becomes Presiding Councillor of the Federated Provinces of Galil at ?, appointed by [[General Government of the Federated Provinces of Galil]]
 
 ## 1841
 - **Founded** — [[Confian Nation Party (1841)]] by [[['[[Wanašer Gerzăn]]']]]
@@ -133,131 +133,167 @@
 - **Birth** — [[Chedji Soites]] born in [[Neoveli]], [[Dripia]]
 
 ## 1953
-- **Appointment** — [[Suizo Soites]] becomes Delegate, Constitutional Convention at ?
+- **Appointment** — [[Suizo Soites]] becomes Delegate, Constitutional Convention at ?, appointed by [[National Agreement]] — *Led negotiations between former imperial provinces.*
 
 ## 1954
+### [[1954 Susian presidential election]]
+- [[Suizo Soites]] — President of Susia — [[Susian Liberal Party]]
+
 - **Appointment** — [[Filevir Matri]] becomes Governor of Postia at ?
+- **End of tenure** — [[Suizo Soites]] leaves Delegate, Constitutional Convention at ? — *Led negotiations between former imperial provinces.*
 - **Founded** — [[Susian Democratic Union]]
 - **Founded** — [[Union of Confian Syndicalists]] by [[['[[Lorelaj Paulowić]]', '[[Lensek Bӑrboz]]']]]
-- **Transition** — [[Suizo Soites]] leaves Delegate, Constitutional Convention at ? and becomes President of Susia at ?
 
 ## 1955
-- **Appointment** — [[Lorelaj Paulowić]] becomes First Secretary of the Union of Confian Syndicalists at ?
+- **Appointment** — [[Lorelaj Paulowić]] becomes First Secretary of the Union of Confian Syndicalists at ?, appointed by [[Union of Confian Syndicalists]]
 
 ## 1956
-- **Appointment** — [[Lorelaj Paulowić]] becomes President of the Confian Nation at ?
+- **Appointment** — [[Lorelaj Paulowić]] becomes President of the Confian Nation at ?, appointed by [[National Assembly of Confian Syndicates]]
 - **Event begins** — [[Continental Divide]]
 
 ## 1958
-- **Transition** — [[Lorelaj Paulowić]] leaves President of the Confian Nation at ? and becomes Leader of the Confian Nation at ?
-- **Transition** — [[Suizo Soites]] leaves President of Susia at ? and becomes President of Susia at ?
+### [[1958 Susian presidential election]]
+- [[Suizo Soites]] — President of Susia — [[Susian Liberal Party]]
+
+- **Appointment** — [[Lorelaj Paulowić]] becomes Leader of the Confian Nation at ?, appointed by [[Enabling Amendment]]
+- **End of tenure** — [[Lorelaj Paulowić]] leaves President of the Confian Nation at ?
+- **End of tenure** — [[Suizo Soites]] leaves President of Susia at ?
 
 ## 1959
-- **Atrocity** — [[Legrinpija Massacre]]
+- **Atrocity begins** — [[Legrinpija Massacre]]
+- **Atrocity ends** — [[Legrinpija Massacre]]
 
 ## 1960
 - **Birth** — [[Yário Kolkov]] born in [[New Duloc]], [[Postia]]
 
 ## 1962
+- **Appointment** — [[Filevir Matri]] becomes Senator for Postia at ?
+- **End of tenure** — [[Filevir Matri]] leaves Governor of Postia at ?
 - **End of tenure** — [[Suizo Soites]] leaves President of Susia at ?
-- **Transition** — [[Filevir Matri]] leaves Governor of Postia at ? and becomes Senator for Postia at ?
 
 ## 1966
-- **Transition** — [[Filevir Matri]] leaves Senator for Postia at ? and becomes Secretary of Justice at ?
+- **Appointment** — [[Filevir Matri]] becomes Secretary of Justice at ?, appointed by [[Serčev Fimžer]]
+- **End of tenure** — [[Filevir Matri]] leaves Senator for Postia at ?
 
 ## 1968
 - **Birth** — [[Yavna Raroska]] born in [[Arkaime]], [[Dripia]]
 
 ## 1969
-- **Appointment** — [[Suizo Soites]] becomes CEO at ?
+- **Appointment** — [[Suizo Soites]] becomes CEO at ?, appointed by [[Self-founded]] — *Founded the Soites Group in Neoveli. Retired from active management in 1981.*
 - **Founded** — [[Soites Group]] by [[Suizo Soites]] in [[Neoveli]]
 
 ## 1970
-- **Transition** — [[Filevir Matri]] leaves Secretary of Justice at ? and becomes Senator for Postia at ?
+- **Appointment** — [[Filevir Matri]] becomes Senator for Postia at ?
+- **End of tenure** — [[Filevir Matri]] leaves Secretary of Justice at ?
 
 ## 1974
+- **Appointment** — [[Filevir Matri]] becomes Vice President of Susia at ?
+- **End of tenure** — [[Filevir Matri]] leaves Senator for Postia at ?
 - **Graduation** — [[Chedji Soites]] — Finance at [[Belluni College]]
-- **Transition** — [[Filevir Matri]] leaves Senator for Postia at ? and becomes Vice President of Susia at ?
 
 ## 1975
-- **Appointment** — [[Ňotrič Apaj]] becomes Non-combat at [[Susian Air Force]]
+- **Enlists** — [[Ňotrič Apaj]] in [[Susian Air Force]] (Non-combat) — *Drafted during the Continental War. Served in a non-combat administrative role.*
 
 ## 1976
-- **Appointment** — [[Chedji Soites]] becomes Board Member at ?
+- **Appointment** — [[Chedji Soites]] becomes Board Member at ?, appointed by [[Suizo Soites]]
 
 ## 1977
+- **Appointment** — [[Mariana Torres]] becomes Leader of the Confian Nation at ?, appointed by [[Bayonet Revolution]] — *Interim*
+- **Appointment** — [[Ňotrič Apaj]] becomes Journalist at [[Dripia State University Press]] — *Covered economics, social policy, and politics during the post-Continental War boom years. War correspondent in Ditania 1983. His journalism is competent but unremarkable until Ditania*
+- **Discharge** — [[Ňotrič Apaj]] from [[Susian Air Force]] — *Drafted during the Continental War. Served in a non-combat administrative role.*
 - **End of tenure** — [[Lorelaj Paulowić]] leaves First Secretary of the Union of Confian Syndicalists at ?
 - **End of tenure** — [[Lorelaj Paulowić]] leaves Leader of the Confian Nation at ?
+- **End of tenure** — [[Mariana Torres]] leaves Leader of the Confian Nation at ? — *Interim*
+- **Event begins** — [[Bayonet Revolution]]
+- **Event ends** — [[Bayonet Revolution]]
 - **Event ends** — [[Continental Divide]]
-- **Event** — [[Bayonet Revolution]]
 - **Founded** — [[Confian Nation Party (1977)]]
-- **Transition** — [[Mariana Torres]] leaves Leader of the Confian Nation at ? and becomes Leader of the Confian Nation at ?
-- **Transition** — [[Ňotrič Apaj]] leaves Non-combat at [[Susian Air Force]] and becomes Journalist at [[Dripia State University Press]]
 
 ## 1978
-- **Appointment** — [[Boris Serec]] becomes Commissar of Education at ?
-- **Appointment** — [[Lenseka Japlenowina]] becomes President of the Council of Commissars of the United Syndicates of Confia at ?
-- **Appointment** — [[Mariana Torres]] becomes President of the Confian Nation at ?
+### [[1978 Confian presidential election]]
+- [[Mariana Torres]] — President of the Confian Nation — [[Movement for Syndicalist Renovation]] — *Left LjWP to found DSN in 1980*
+
+- **Appointment** — [[Boris Serec]] becomes Commissar of Education at ?, appointed by [[Senjap Kunsekowić]]
+- **Appointment** — [[Lenseka Japlenowina]] becomes President of the Council of Commissars of the United Syndicates of Confia at ?, appointed by [[National Assembly of Confian Syndicates]]
 
 ## 1979
+- **Appointment** — [[Chedji Soites]] becomes Regional Operations Manager, Central-East at ?, appointed by [[Suizo Soites]] — *Oversaw Sužielaj, Misocévia, and the Neutral District. Regional strategy later adopted nationwide.*
 - **Death** — [[Lensek Bӑrboz]] died in [[Koštanože]] (Assassination by gunshot)
 - **Dissolved** — [[Union of Confian Syndicalists]]
+- **End of tenure** — [[Chedji Soites]] leaves Board Member at ?
 - **Founded** — [[Atompron]] by [[['[[Susian Federal Government]]']]] in [[Niqueparje]]
 - **Founded** — [[Syndicalist League]] by [[['[[Katerina Armoljubca Nožeslawna|KAN]]', '[[Eriežera Lensekowina]]']]]
 - **Publication** — *On fighting in the streets* by [[Mariana Torres]]
-- **Transition** — [[Chedji Soites]] leaves Board Member at ? and becomes Regional Operations Manager, Central-East at ?
 
 ## 1980
-- **Appointment** — [[Senjap Kunsekowić]] becomes President of the Council of Commissars of the United Syndicates of Confia at ?
+- **Appointment** — [[Senjap Kunsekowić]] becomes President of the Council of Commissars of the United Syndicates of Confia at ?, appointed by [[National Assembly of Confian Syndicates]]
 - **End of tenure** — [[Lenseka Japlenowina]] leaves President of the Council of Commissars of the United Syndicates of Confia at ?
 - **Founded** — [[Armotist Democratic Party]] by [[['[[Boris Serec]]']]]
 - **Founded** — [[Făzmelj]] in [[Neoveli]]
 - **Founded** — [[Movement for Syndicalist Renovation]] by [[['[[Mariana Torres]]', '[[Genrih Maskernie]]']]]
 
 ## 1981
-- **Appointment** — [[Katerina Armoljubca Nožeslawna]] becomes Member of the National Assembly of Confian Syndicates at ?
+### [[1980 Confian general election]]
+- [[Katerina Armoljubca Nožeslawna]] — Member of the National Assembly of Confian Syndicates — [[Syndicalist League]]
+
+- **Appointment** — [[Chedji Soites]] becomes CEO at ?, appointed by [[Suizo Soites]] — *Assumed role upon Suizo's retirement from active management*
 - **Dissolved** — [[Confian Nation Party (1977)]]
-- **End of tenure** — [[Suizo Soites]] leaves CEO at ?
-- **Transition** — [[Chedji Soites]] leaves Regional Operations Manager, Central-East at ? and becomes CEO at ?
+- **End of tenure** — [[Chedji Soites]] leaves Regional Operations Manager, Central-East at ? — *Oversaw Sužielaj, Misocévia, and the Neutral District. Regional strategy later adopted nationwide.*
+- **End of tenure** — [[Suizo Soites]] leaves CEO at ? — *Founded the Soites Group in Neoveli. Retired from active management in 1981.*
 
 ## 1982
-- **Appointment** — [[Yário Kolkov]] becomes Engineer at ?
+### [[1982 Confian general election]]
+- [[Katerina Armoljubca Nožeslawna]] — Member of the National Assembly of Confian Syndicates — [[Syndicalist League]]
+
+- **Appointment** — [[Filevir Matri]] becomes President of Susia at ?
+- **Appointment** — [[Yário Kolkov]] becomes Engineer at ? — *Worked at Nayotai after graduating. Left after five years.*
 - **End of tenure** — [[Boris Serec]] leaves Commissar of Education at ?
+- **End of tenure** — [[Filevir Matri]] leaves Vice President of Susia at ?
+- **End of tenure** — [[Katerina Armoljubca Nožeslawna]] leaves Member of the National Assembly of Confian Syndicates at ?
 - **End of tenure** — [[Senjap Kunsekowić]] leaves President of the Council of Commissars of the United Syndicates of Confia at ?
-- **Transition** — [[Filevir Matri]] leaves Vice President of Susia at ? and becomes President of Susia at ?
-- **Transition** — [[Katerina Armoljubca Nožeslawna]] leaves Member of the National Assembly of Confian Syndicates at ? and becomes Member of the National Assembly of Confian Syndicates at ?
 
 ## 1983
-- **Appointment** — [[Boris Serec]] becomes President of the Council of Commissars of the United Syndicates of Confia at ?
-- **Publication** — *War, Pestilence and Famine* by [[Ňotrič Apaj]]
+- **Appointment** — [[Boris Serec]] becomes President of the Council of Commissars of the United Syndicates of Confia at ?, appointed by [[National Assembly of Confian Syndicates]]
+- **Publication** — *War, Pestilence and Famine* by [[Ňotrič Apaj]] — *Written immediately after his return from Ditania. Argues that hunger, disease, resource competition, was the engine of most organized human violence across history, and that its effective elimination in the modern era means all contemporary conflict is now entirely a product of human construction: nations, ideologies, religion, political identity. Made him famous in Susian intellectual circles and fueled the techno-optimism of the post war boom.*
 
 ## 1984
 - **Death** — [[Eriežera Lensekowina]] died in [[Koštanože]] (Natural causes)
 
 ## 1985
-- **Publication** — *[[After Scarcity]]* by [[Ňotrič Apaj]]
+- **Publication** — *[[After Scarcity]]* by [[Ňotrič Apaj]] — *Expands the essay's argument into a full philosophical vision. If material scarcity is no longer the organizing principle of civilization, what should replace it? Apaj proposes a cosmopolitan post-politics grounded not in abstract rights but in the shared universal facts of being human: consciousness, suffering, curiosity, mortality. Argues that a rational civilization would redirect resources currently consumed by armies, bureaucracies, and political competition toward the expansion of knowledge, reduction of suffering, and improvement of human existence. Explicitly utopian. Became the moral vocabulary of the Modernist Alliance's utopian faction and the philosophical foundation TU would build its corporate culture upon.*
 
 ## 1986
+### [[1986 Confian presidential election]]
+- [[Mariana Torres]] — President of the Confian Nation — [[Movement for Syndicalist Renovation]]
+
 - **End of tenure** — [[Filevir Matri]] leaves President of Susia at ?
 - **End of tenure** — [[Katerina Armoljubca Nožeslawna]] leaves Member of the National Assembly of Confian Syndicates at ?
-- **Transition** — [[Mariana Torres]] leaves President of the Confian Nation at ? and becomes President of the Confian Nation at ?
+- **End of tenure** — [[Mariana Torres]] leaves President of the Confian Nation at ? — *Left LjWP to found DSN in 1980*
 
 ## 1987
-- **Appointment** — [[Katerina Armoljubca Nožeslawna]] becomes Member of the National Assembly of Confian Syndicates at ?
+### [[1986 Confian general election]]
+- [[Katerina Armoljubca Nožeslawna]] — Member of the National Assembly of Confian Syndicates — [[Syndicalist League]]
+
+### [[1987 Confian presidential election]]
+- [[Boris Serec]] — President of the Confian Nation — [[Armotist Democratic Party|ALjP]]
+
+- **Appointment** — [[Yário Kolkov]] becomes Engineer at ? — *Left in disgust at the company's culture. The experience directly inspired Letters to a Dead Republic.*
+- **End of tenure** — [[Boris Serec]] leaves President of the Council of Commissars of the United Syndicates of Confia at ?
 - **End of tenure** — [[Mariana Torres]] leaves President of the Confian Nation at ?
-- **Transition** — [[Boris Serec]] leaves President of the Council of Commissars of the United Syndicates of Confia at ? and becomes President of the Confian Nation at ?
-- **Transition** — [[Yário Kolkov]] leaves Engineer at ? and becomes Engineer at ?
+- **End of tenure** — [[Yário Kolkov]] leaves Engineer at ? — *Worked at Nayotai after graduating. Left after five years.*
 
 ## 1988
+- **Appointment** — [[Ňotrič Apaj]] becomes Philosophical Advisor at [[Troli Ustaras]] — *Writes, advises on ethical policy, and serves as a living philosophical presence within TU. Attended major conferences and events including the inauguration of the Kolkov Learning Center. Shaped TU's ethical vocabulary without ever being submerged in its culture.*
 - **Death** — [[Mariana Torres]] died in [[Karlotopol']] ([[Tarlanna's disease]])
-- **Transition** — [[Ňotrič Apaj]] leaves Journalist at [[Dripia State University Press]] and becomes Philosophical Advisor at [[Troli Ustaras]]
+- **End of tenure** — [[Ňotrič Apaj]] leaves Journalist at [[Dripia State University Press]] — *Covered economics, social policy, and politics during the post-Continental War boom years. War correspondent in Ditania 1983. His journalism is competent but unremarkable until Ditania*
 
 ## 1989
-- **End of tenure** — [[Yário Kolkov]] leaves Engineer at ?
+- **End of tenure** — [[Yário Kolkov]] leaves Engineer at ? — *Left in disgust at the company's culture. The experience directly inspired Letters to a Dead Republic.*
 
 ## 1990
-- **Publication** — *[[Letters to a Dead Republic]]* by [[Yário Kolkov]]
-- **Transition** — [[Katerina Armoljubca Nožeslawna]] leaves Member of the National Assembly of Confian Syndicates at ? and becomes President of the Council of Commissars of the United Syndicates of Confia at ?
+- **Appointment** — [[Katerina Armoljubca Nožeslawna]] becomes President of the Council of Commissars of the United Syndicates of Confia at ?, appointed by [[National Assembly of Confian Syndicates]]
+- **End of tenure** — [[Katerina Armoljubca Nožeslawna]] leaves Member of the National Assembly of Confian Syndicates at ?
+- **Publication** — *[[Letters to a Dead Republic]]* by [[Yário Kolkov]] — *First major work. Drew on his experiences at Nayotai and Troli Ustaras. Established his critique of corporate culture as a form of ideological capture.*
 
 ## 1991
 - **Founded** — [[PSP]] by [[['[[Confian National Government]]', '[[Katerina Armoljubca Nožeslawna|KAN]]']]] in [[Imgospalje]]
@@ -266,25 +302,27 @@
 - **Dissolved** — [[Confian Liberal Party]]
 - **Founded** — [[Mi, Niteraljci!]] by [[['[[Lenseka Japlenowina]]', '[[Saserna Kašdunna\xa0]]']]]
 - **Graduation** — [[Yavna Raroska]] — Political Science at [[University of New Kentu]]
-- **Publication** — *Children of the same mother* by [[Ňotrič Apaj]]
+- **Publication** — *Children of the same mother* by [[Ňotrič Apaj]] — *Written after joining TU as Philosophical Advisor. Attempts to ground cosmopolitan ethics in biological and historical universals. His most systematic work and his least-read.*
 
 ## 1993
 - **Founded** — [[KSH]] by [[['[[Confian National Government]]', '[[Katerina Armoljubca Nožeslawna|KAN]]']]]
 
 ## 1994
 - **Dissolved** — [[Postian Free Farmers]]
-- **Publication** — *[[Food for the Fools]]* by [[Yário Kolkov]]
+- **Publication** — *[[Food for the Fools]]* by [[Yário Kolkov]] — *Essay on political demagogues, attacking not the demagogues but the audience who feeds from them and the institutions that allow them. Considered controversial at its time.*
 
 ## 1995
 - **Death** — [[Suizo Soites]] died in [[Orlítia]] (Natural causes)
 
 ## 1996
-- **Appointment** — [[Lenseka Japlenowina]] becomes Mayor of Imgospalje at ?
+### [[1996 Imgospalje mayoral elections]]
+- [[Lenseka Japlenowina]] — Mayor of Imgospalje — [[Mi, Niteraljci!]]
+
 - **End of tenure** — [[Boris Serec]] leaves President of the Confian Nation at ?
 - **End of tenure** — [[Katerina Armoljubca Nožeslawna]] leaves President of the Council of Commissars of the United Syndicates of Confia at ?
 
 ## 1997
-- **Publication** — *[[Evolution of Governance]]* by [[Yário Kolkov]]
+- **Publication** — *[[Evolution of Governance]]* by [[Yário Kolkov]] — *Central statement of Kolkovianism. Argues democracy is an evolutionary organism rather than a fixed structure. Became assigned reading at multiple universities and the text most cited by the Modernist Alliance.*
 
 ## 2000
 - **Dissolved** — [[Armotist Democratic Party]]
@@ -302,11 +340,11 @@
 - **Document recorded** — [[Grawolja Lasmanna with the Five of Goretopol']] (interview)
 
 ## 2006
-- **Publication** — *[[The Tyranny of Order]]* by [[Yário Kolkov]]
+- **Publication** — *[[The Tyranny of Order]]* by [[Yário Kolkov]] — *Critique of rigid institutional systems. Warns against the transformation of living philosophy into dead doctrine.*
 
 ## 2008
 - **Founded** — [[Astralis Banking Group]] in [[Sužielaj City]]
-- **Publication** — *[[Democracy as an Organism]]* by [[Yário Kolkov]]
+- **Publication** — *[[Democracy as an Organism]]* by [[Yário Kolkov]] — *Final completed book before his death.*
 
 ## 2009
 - **Document recorded** — [[Kolkov Interview 2009]] (interview)
@@ -315,10 +353,10 @@
 - **Death** — [[Yário Kolkov]] died in [[Postia]] (Lung cancer)
 
 ## 2014
-- **Publication** — *[[Dead Man's Wit]]* by [[Yário Kolkov]]
+- **Publication** — *[[Dead Man's Wit]]* by [[Yário Kolkov]] — *Kolkov's unfinished manuscript, kept private through the final years of his life and never submitted for publication. Recovered from the University of New Kentu archives by a former student in 2014 and published online. More personal and less systematic than his other work.*
 
 ## 2031
-- **End of tenure** — [[Chedji Soites]] leaves CEO at ?
+- **End of tenure** — [[Chedji Soites]] leaves CEO at ? — *Assumed role upon Suizo's retirement from active management*
 - **Founded** — [[Yerčemark]] by [[Venvek Rashera]] in [[New Kentu]]
 - **Yarnojte granted** — [[POCOIL]]
 
@@ -331,7 +369,7 @@
 ## 2042
 - **Death** — [[Yavna Raroska]] died in [[Dripia]] (Natural causes)
 - **Death** — [[Ňotrič Apaj]] died in [[Dripia]] (Old age)
-- **End of tenure** — [[Ňotrič Apaj]] leaves Philosophical Advisor at [[Troli Ustaras]]
+- **End of tenure** — [[Ňotrič Apaj]] leaves Philosophical Advisor at [[Troli Ustaras]] — *Writes, advises on ethical policy, and serves as a living philosophical presence within TU. Attended major conferences and events including the inauguration of the Kolkov Learning Center. Shaped TU's ethical vocabulary without ever being submerged in its culture.*
 
 ## 2050
 - **Yarnojte granted** — [[Nayotai]]
