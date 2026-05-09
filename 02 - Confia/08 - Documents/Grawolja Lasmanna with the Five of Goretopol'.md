@@ -16,4 +16,4 @@ location:
 published_by: "[[KSH]]"
 ---
 
-
+In 2005, former Confian Prime Minister and Central Bank director [[Grawolja Lasmanna]] gave an interview in the [[KSH]] show [[Five of Goretopol']].
