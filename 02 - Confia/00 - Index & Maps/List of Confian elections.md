@@ -88,7 +88,7 @@ Standard election. Produced a SF minority government with LjF toleration.
 | :-------------------------------------: | :----: | :-------: | :-------: | :----: |
 |         [[Syndicalist League]]          |        |           |           |        |
 |      [[Armotist Democratic Party]]      |        |           |           |        |
-|             [[Democracy!]]              |        |           |           |        |
+|             [[Ljudewlaš!]]              |        |           |           |        |
 |          [[Democratic League]]          |        |           |           |        |
 |        [[Confian Liberal Party]]        |        |           |           |        |
 | [[Movement for Syndicalist Renovation]] |        |           |           |        |

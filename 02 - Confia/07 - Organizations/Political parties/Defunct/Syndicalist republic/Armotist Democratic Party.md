@@ -12,7 +12,7 @@ dissolved: 2000
 merger_of:
 split_from: "[[Confian Liberal Party]]"
 merged_into:
-  - "[[Democracy!|Democracy! (some members)]]"
+  - "[[Ljudewlaš!|Democracy! (some members)]]"
 split_into:
   - "[[Magăn!]]"
   - "[[Armotist Democracy (Confian party, 2000)|Armotist Democracy]]"
