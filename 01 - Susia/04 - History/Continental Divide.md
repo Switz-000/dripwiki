@@ -26,7 +26,7 @@ participants:
 key_figures:
   - "[[Ergagério Sienes]]"
   - "[[Suizo Soites]]"
-  - "[[Čalsor Bonár]]"
+  - "[[Čalsor Boňár]]"
   - "[[Serčev Fimžer]]"
   - "[[Lorelaj Paulowić]]"
   - "[[Mikheli Kinpaum]]"
@@ -187,7 +187,7 @@ The domestic legislation of the divide had an uneven legacy. The MAGEN Act was p
 - [[Frumentarze]]
 - [[Suizo Soites]]
 - [[Ergagério Sienes]]
-- [[Čalsor Bonár]]
+- [[Čalsor Boňár]]
 - [[Filevir Matri]]
 - [[Detente Policy]]
 - [[Sutsa-Fuhu Civil War]]
