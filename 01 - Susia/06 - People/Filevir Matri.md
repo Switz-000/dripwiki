@@ -92,7 +92,7 @@ offices:
     notes:
 ---
 
-**Filevir Matri** (1924–2002) was a Susian lawyer and politician who served as the fifth President of [[Susia]] from 1982 to 1986. Before the presidency, he held office as Governor of [[Postia]], Senator for Postia twice, [[Secretary of Justice]] under [[Serčev Fimžer]], and Vice President under [[Čalsor Bonár]]. He lost the 1986 election to [[Filňar Čantij]] and returned to private legal practice in [[Duolij]], where he remained until his death in 2002.
+**Filevir Matri** (1924–2002) was a Susian lawyer and politician who served as the fifth President of [[Susia]] from 1982 to 1986. Before the presidency, he held office as Governor of [[Postia]], Senator for Postia twice, [[Secretary of Justice]] under [[Serčev Fimžer]], and Vice President under [[Čalsor Boňár]]. He lost the 1986 election to [[Filňar Čantij]] and returned to private legal practice in [[Duolij]], where he remained until his death in 2002.
 
 ## Early Life and Education
 
@@ -112,7 +112,7 @@ During the Sienes years, Matri was a consistent critic of [[Ergagério Sienes]]'
 
 ## Vice Presidency (1974–1982)
 
-Matri served as Vice President throughout [[Čalsor Bonár]]'s two terms, covering the final phase of the [[Continental Divide]], the [[Continental War]] (1975–1977), and the post-war reconstruction period. His formal role was secondary to the president's across all major decisions. He was publicly positioned as the natural successor within the [[Susian Democratic Union|FVS]] by the end of Bonár's presidency.
+Matri served as Vice President throughout [[Čalsor Boňár]]'s two terms, covering the final phase of the [[Continental Divide]], the [[Continental War]] (1975–1977), and the post-war reconstruction period. His formal role was secondary to the president's across all major decisions. He was publicly positioned as the natural successor within the [[Susian Democratic Union|FVS]] by the end of Bonár's presidency.
 
 ## Presidency (1982–1986)
 
@@ -142,7 +142,7 @@ He is consistently cited as a practitioner of the [[Lobster table|lobster table]
 
 ## See Also
 
-- [[Čalsor Bonár]]
+- [[Čalsor Boňár]]
 - [[Filňar Čantij]]
 - [[Serčev Fimžer]]
 - [[Ergagério Sienes]]
