@@ -110,19 +110,23 @@ In 1962 Matri couldn't run for another term as governor of Postia so he ran and 
 
 During the Sienes years, Matri was a consistent critic of [[Ergagério Sienes]]' [[Sienes Doctrine|détente policy]] toward [[Confia]], arguing that the approach was strategically counterproductive. The outcome of the [[Sutsa-Fuhu Civil War]] in 1973, which Susia did not contest, reinforced his position within the [[Susian Democratic Union]].
 
-## Vice Presidency (1974–1982)
+## Vice Presidency (1974–1984)
 
-Matri served as Vice President throughout [[Čalsor Boňár]]'s two terms, covering the final phase of the [[Continental Divide]], the [[Continental War]] (1975–1977), and the post-war reconstruction period. His formal role was secondary to the president's across all major decisions. He was publicly positioned as the natural successor within the [[Susian Democratic Union|FVS]] by the end of Bonár's presidency.
+Matri served as Vice President throughout [[Čalsor Boňár]]'s three terms, covering the final phase of the [[Continental Divide]], the [[Continental War]] (1975–1977), and the post-war reconstruction period. His formal role was secondary to the president's across all major decisions. He was publicly positioned as the natural successor within the [[Susian Democratic Union|FVS]] by the end of Bonár's presidency.
 
-## Presidency (1982–1986)
+## Presidency (1984–1986)
+
+After the death of [[Čalsor Boňár]] in 1984, Matri assumed the presidency becoming Susia's 5th president.
 
 ### Confian diplomatic groundwork
 
-Beginning in 1983, Matri opened back-channel diplomatic contact with [[Confia]]'s government under [[Boris Serec]], with the aim of establishing a framework for economic normalization between the two countries. The negotiations were conducted largely out of public view, through trade officials and legal representatives, and produced no signed agreement during his term. The framework developed during this period contributed to the [[Lasman Economic Initiative]], signed in 2000 under a subsequent administration.
+Beginning in 1985, Matri opened diplomatic contact with [[Confia]]'s government under [[Boris Serec]], with the aim of establishing economic normalization between the two countries. The negotiations were conducted largely out of public view, through trade officials and legal representatives, and produced no signed agreement during his term. The framework developed during this period contributed to the [[Lasman Economic Initiative]], signed in 2000 under a subsequent administration.
 
 Matri met Serec at the [[Presidential Palace (Soiteslaj)|presidential palace]] on at least one occasion during this period.
 
 ### Ditanian Intervention
+
+> [[Ditanian Intervention]]
 
 Matri signed the [[Tekuri Ljas Accord]] authroizing Susian participation in a multilateral intervention in [[Ditania]] alongside [[Confia]], [[Pierej]], and [[Kapiogg]], in response to the civil collapse that followed the failed [[Tulip Revolution]] of 1981. The intervention's aims were contested among the four participating nations and its outcome was inconclusive.
 
