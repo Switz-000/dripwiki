@@ -9,6 +9,6 @@
 |  4  |   [[Čalsor Boňár]]   | 1974 - 1978 | [[Susian Democratic Union]] |  [[Filevir Matri]]   |                |
 |  -  |   [[Čalsor Boňár]]   | 1978 - 1982 | [[Susian Democratic Union]] |  [[Filevir Matri]]   |                |
 |  -  |   [[Čalsor Boňár]]   | 1982 - 1984 | [[Susian Democratic Union]] |  [[Filevir Matri]]   | Died in office |
-|  5  |  [[Filevir Matri]]   | 1985 - 1986 | [[Susian Democratic Union]] |          ?           |                |
+|  5  |  [[Filevir Matri]]   | 1984 - 1986 | [[Susian Democratic Union]] |          ?           |                |
 |  6  |  [[Filňar Čantij]]   | 1986 - 1990 |  [[Susian Liberal Party]]   |          ?           |                |
 |  -  |  [[Filňar Čantij]]   | 1990 - 1994 |  [[Susian Liberal Party]]   |          -           |                |
