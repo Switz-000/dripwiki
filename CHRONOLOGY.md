@@ -356,6 +356,9 @@
 ## 2014
 - **Publication** — *[[Dead Man's Wit]]* by [[Yário Kolkov]] — *Kolkov's unfinished manuscript, kept private through the final years of his life and never submitted for publication. Recovered from the University of New Kentu archives by a former student in 2014 and published online. More personal and less systematic than his other work.*
 
+## 2024
+- **Death** — [[Boris Serec]] died in [[Karlotopol']] (Natural causes)
+
 ## 2031
 - **End of tenure** — [[Chedji Soites]] leaves CEO at ? — *Assumed role upon Suizo's retirement from active management*
 - **Founded** — [[Yerčemark]] by [[Venvek Rashera]] in [[New Kentu]]
