@@ -4,7 +4,7 @@ name: Armotist Democratic Party
 native_name: Armockei Ljudewlaššen Parcesse
 abbreviation: ALjP
 aliases:
-status: Active
+status: Defunct
 founded_by:
   - "[[Boris Serec]]"
 founded: 1980
