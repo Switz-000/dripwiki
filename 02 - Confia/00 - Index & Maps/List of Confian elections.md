@@ -88,7 +88,7 @@ Standard election. Produced a SF minority government with LjF toleration.
 | :-------------------------------------: | :----: | :-------: | :-------: | :----: |
 |         [[Syndicalist League]]          |        |           |           |        |
 |      [[Armotist Democratic Party]]      |        |           |           |        |
-|             [[Democracy!]]              |        |           |           |        |
+|             [[Ljudewlaš!]]              |        |           |           |        |
 |          [[Democratic League]]          |        |           |           |        |
 |        [[Confian Liberal Party]]        |        |           |           |        |
 | [[Movement for Syndicalist Renovation]] |        |           |           |        |
@@ -115,13 +115,22 @@ Often called the 1996 coup.
 
 ## 1996 Confian general election
 
-
+Triggered by the 1996 confidence vote. Resulted in an SF majority government.
 ## 1997 Confian general election
 
-
+Standard election. It resulted in an SF minority government with MN toleration.
 ## 1998 Confian general election
 
 Snap election called after Boris Serec's resignation. Uniquely produced a technocratic government under [[Grawolja Lasmanna]] with SF and MN toleration.
+
+## 1998 Confian presidential election
+
+|                Candidate                |                  Party                  | Votes (%) |         Status         |
+| :-------------------------------------: | :-------------------------------------: | :-------: | :--------------------: |
+| [[Katerina Armoljubca Nožeslawna\|KAN]] |         [[Syndicalist League]]          |   58.2%   |        Elected         |
+|            [[Japlen Razol]]             |      [[Armotist Democratic Party]]      |   11.9%   |        Defeated        |
+|          [[Saserna Kašdunna]]           |           [[Mi, Niteraljci!]]           |     -     | Withdrew, endorsed KAN |
+|          [[Genrih Maskernie]]           | [[Movement for Syndicalist Renovation]] |   0.2%    |        Defeated        |
 
 ## 2001 Confian general election
 

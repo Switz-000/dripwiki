@@ -240,6 +240,7 @@
 - **Dissolved** — [[Confian Nation Party (1977)]]
 - **End of tenure** — [[Chedji Soites]] leaves Regional Operations Manager, Central-East at ? — *Oversaw Sužielaj, Misocévia, and the Neutral District. Regional strategy later adopted nationwide.*
 - **End of tenure** — [[Suizo Soites]] leaves CEO at ? — *Founded the Soites Group in Neoveli. Retired from active management in 1981.*
+- **Founded** — [[Ljudewlaš!]]
 
 ## 1982
 ### [[1982 Confian general election]]
@@ -354,6 +355,9 @@
 
 ## 2014
 - **Publication** — *[[Dead Man's Wit]]* by [[Yário Kolkov]] — *Kolkov's unfinished manuscript, kept private through the final years of his life and never submitted for publication. Recovered from the University of New Kentu archives by a former student in 2014 and published online. More personal and less systematic than his other work.*
+
+## 2024
+- **Death** — [[Boris Serec]] died in [[Karlotopol']] (Natural causes)
 
 ## 2031
 - **End of tenure** — [[Chedji Soites]] leaves CEO at ? — *Assumed role upon Suizo's retirement from active management*
