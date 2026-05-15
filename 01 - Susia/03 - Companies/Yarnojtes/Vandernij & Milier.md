@@ -15,3 +15,6 @@ yarnojte_revoked: true
 fez_locations:
 defunct: true
 ---
+# Miscellaneous Information
+
+Vitamin D deficiency is common among [[Poceiros]]. Corporate provides daily supplements alongside meals.
