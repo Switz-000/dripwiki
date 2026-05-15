@@ -123,6 +123,15 @@ Standard election. It resulted in an SF minority government with MN toleration.
 
 Snap election called after Boris Serec's resignation. Uniquely produced a technocratic government under [[Grawolja Lasmanna]] with SF and MN toleration.
 
+## 1998 Confian presidential election
+
+|                Candidate                |                  Party                  | Votes (%) |         Status         |
+| :-------------------------------------: | :-------------------------------------: | :-------: | :--------------------: |
+| [[Katerina Armoljubca Nožeslawna\|KAN]] |         [[Syndicalist League]]          |   58.2%   |        Elected         |
+|            [[Japlen Razol]]             |      [[Armotist Democratic Party]]      |   11.9%   |        Defeated        |
+|          [[Saserna Kašdunna]]           |           [[Mi, Niteraljci!]]           |     -     | Withdrew, endorsed KAN |
+|          [[Genrih Maskernie]]           | [[Movement for Syndicalist Renovation]] |   0.2%    |        Defeated        |
+
 ## 2001 Confian general election
 
 Standard election. First election after the collapse of the [[Armotist Democratic Party]]. Produced a SF-MN coalition with KLjP toleration.
