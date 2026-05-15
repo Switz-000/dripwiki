@@ -1,0 +1,1 @@
+Fought between [[Kapiogg]] and the [[Confederation of Drippalia]]. Dolly failed at annexing the confederation.

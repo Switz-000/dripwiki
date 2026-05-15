@@ -14,11 +14,12 @@ citizenship:
   - "[[Confia|Confian]]"
 nationality:
   - "[[Confia|Confian]]"
-death_year:
-death_city:
-death_state:
+death_year: 2024
+death_city: "[[Carlotopolis State Prison]]"
+death_state: "[[Karlotopol']]"
 death_country:
-death_cause:
+  - "[[Confia]]"
+death_cause: Natural causes
 ethnicity: "[[East Gaiyanese]]"
 religion: "[[Reformed Armotism]]"
 education:
