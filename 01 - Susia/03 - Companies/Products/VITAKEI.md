@@ -1,1 +1,1 @@
-VITAKEI is a AI powered system developed by [[Lischev-Verene]]
+VITAKEI is a AI powered health prediction system developed by [[Lischev-Verene]].
