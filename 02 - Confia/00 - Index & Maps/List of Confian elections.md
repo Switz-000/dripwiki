@@ -115,10 +115,10 @@ Often called the 1996 coup.
 
 ## 1996 Confian general election
 
-
+Triggered by the 1996 confidence vote. Resulted in an SF majority government.
 ## 1997 Confian general election
 
-
+Standard election. It resulted in an SF minority government with MN toleration.
 ## 1998 Confian general election
 
 Snap election called after Boris Serec's resignation. Uniquely produced a technocratic government under [[Grawolja Lasmanna]] with SF and MN toleration.
