@@ -240,7 +240,7 @@
 - **Dissolved** — [[Confian Nation Party (1977)]]
 - **End of tenure** — [[Chedji Soites]] leaves Regional Operations Manager, Central-East at ? — *Oversaw Sužielaj, Misocévia, and the Neutral District. Regional strategy later adopted nationwide.*
 - **End of tenure** — [[Suizo Soites]] leaves CEO at ? — *Founded the Soites Group in Neoveli. Retired from active management in 1981.*
-- **Founded** — [[Ljudewlaš!]]
+- **Founded** — [[Ljudewlaš!]] by [[['Laus Darizel']]]
 
 ## 1982
 ### [[1982 Confian general election]]
