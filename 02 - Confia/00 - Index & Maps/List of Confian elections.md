@@ -84,14 +84,14 @@ It was won by [[Boris Serec]] following [[Mariana Torres]]' resignation due to c
 
 Standard election. Produced a SF minority government with LjF toleration.
 
-|                  Party                  | Leader | Seats (%) | Votes (%) | Status |
-| :-------------------------------------: | :----: | :-------: | :-------: | :----: |
-|         [[Syndicalist League]]          |        |           |           |        |
-|      [[Armotist Democratic Party]]      |        |           |           |        |
-|             [[Ljudewlaš!]]              |        |           |           |        |
-|          [[Democratic League]]          |        |           |           |        |
-|        [[Confian Liberal Party]]        |        |           |           |        |
-| [[Movement for Syndicalist Renovation]] |        |           |           |        |
+|                  Party                  | Leader | Seats (%) | Votes (%) |   Status   |
+| :-------------------------------------: | :----: | :-------: | :-------: | :--------: |
+|         [[Syndicalist League]]          |        |           |           | Government |
+|      [[Armotist Democratic Party]]      |        |           |           | Opposition |
+|             [[Ljudewlaš!]]              |        |           |           | Opposition |
+|          [[Democratic League]]          |        |           |           | Toleration |
+|        [[Confian Liberal Party]]        |        |           |           | Opposition |
+| [[Movement for Syndicalist Renovation]] |        |           |           | Opposition |
 ## 1993 Confian presidential election
 
 It was won by [[Boris Serec]] following [[Mariana Torres]]' resignation due to cognitive decline.
