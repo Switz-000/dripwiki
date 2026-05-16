@@ -7,6 +7,7 @@ aliases:
   - Ljudewlaš
 status: active
 founded_by:
+  - Laus Darizel
 founded: 1981
 dissolved:
 merger_of:
