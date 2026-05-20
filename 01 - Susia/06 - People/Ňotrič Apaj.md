@@ -107,7 +107,6 @@ tags:
 - The unsent letter to Kolkov is a potential primary document stub
 - Children's names and specific TU roles undeveloped — expand when relevant
 - Early nationalist journalism from the post-Continental War period potentially exists as a document stub — embarrassing to his later reputation, occasionally cited by critics
-- His relationship to Versij's natural rights tradition is implicit throughout his work but he rarely engages Versij directly, possibly deliberately
 
 Wife is Zaphonian by birth, emigrated to Susia following the Daisy Revolution of 1977. Met Apaj in Ditania in 1983 during the civil war, where she was working in an aid capacity. Shares his cosmopolitan worldview but arrived at it through lived experience of syndicalist collapse, civil war, and displacement rather than philosophical reasoning. Died within a short period after Apaj, old age. The marriage was genuine and sustaining.
 
