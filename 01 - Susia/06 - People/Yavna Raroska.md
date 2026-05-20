@@ -15,7 +15,7 @@ citizenship:
   - "[[Susia|Susian]]"
 nationality:
   - "[[Susia|Susian]]"
-death_year: 2042
+death_year: 2037
 death_city: "[[Neoveli]]"
 death_state: "[[Dripia]]"
 death_country: "[[Susia]]"
