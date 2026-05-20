@@ -1,29 +1,41 @@
 ---
+# ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Ňotrič Apaj
+lusitanized_name: null
 aliases:
   - Apaj
-summary: Susian philosopher, journalist, and war correspondent born in Yatovarlaj, Misocévia, whose essay "War, Pestilence and Famine" and book "After Scarcity" established the framework for post-scarcity cosmopolitan thought in Susia.
-known_for:
-  - "[[War Pestilence and Famine]]"
+summary: Susian philosopher, journalist, and war correspondent whose essay "War, Pestilence and Famine" and book "After Scarcity" established the framework for post-scarcity cosmopolitan thought in Susia. His work became the ethical foundation of Troli Ustaras and a primary moral source for the Modernist Alliance's utopian faction.
+
+# ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: Male
-birth_year: 1951
-birth_city: "[[Yatovarlaj]]"
-birth_state: "[[Misocévia]]"
-birth_country: "[[Susia]]"
-death_year: 2042
-death_city:
-death_state: "[[Dripia]]"
-death_country: "[[Susia]]"
-death_cause: Old age
+ethnicity: West Gaiyanese
+religion: Irreligious
 citizenship:
   - "[[Susia|Susian]]"
-  - "[[Dripstanian Empire|Dripstanian]]"
 nationality:
   - "[[Susia|Susian]]"
-ethnicity:
-religion:
 enhanced: false
+
+# ── BIRTH AND DEATH ─────────────────────────────────────────────────────────
+birth:
+  year: 1951
+  city: "[[Yatovarlaj]]"
+  state: "[[Misocévia]]"
+  country: "[[Susia]]"
+
+death:
+  year: 2042
+  city: "[[Neoveli]]"
+  state: "[[Dripia]]"
+  country: "[[Susia]]"
+  cause: Kashovne's syndrome
+
+# ── FAMILY ──────────────────────────────────────────────────────────────────
+spouse: "[[Veska Apaj]]"
+children_count: 2
+
+# ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
   - degree: Journalism
     institution: "[[Dripia State University]]"
@@ -31,52 +43,99 @@ education:
   - degree: Philosophy
     institution: "[[Dripia State University]]"
     year:
-written_works:
-  - title: War, Pestilence and Famine
-    publication_date: 1983
-    genre: Political Philosophy
-    notes: "Written immediately after his return from Ditania. Argues that hunger, disease, resource competition, was the engine of most organized human violence across history, and that its effective elimination in the modern era means all contemporary conflict is now entirely a product of human construction: nations, ideologies, religion, political identity. Made him famous in Susian intellectual circles and fueled the techno-optimism of the post war boom."
-  - title: "[[After Scarcity]]"
-    publication_date: 1985
-    genre: Political Philosophy
-    notes: "Expands the essay's argument into a full philosophical vision. If material scarcity is no longer the organizing principle of civilization, what should replace it? Apaj proposes a cosmopolitan post-politics grounded not in abstract rights but in the shared universal facts of being human: consciousness, suffering, curiosity, mortality. Argues that a rational civilization would redirect resources currently consumed by armies, bureaucracies, and political competition toward the expansion of knowledge, reduction of suffering, and improvement of human existence. Explicitly utopian. Became the moral vocabulary of the Modernist Alliance's utopian faction and the philosophical foundation TU would build its corporate culture upon."
-  - title: Children of the same mother
-    publication_date: 1992
-    genre: Philosophy
-    notes: Written after joining TU as Philosophical Advisor. Attempts to ground cosmopolitan ethics in biological and historical universals. His most systematic work and his least-read.
+
+# ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
-  - Journalist
-  - Philosopher
-  - War correspondent
-organization:
+  - title: Journalist
+    start_year: 1977
+    end_year: 1988
+  - title: War Correspondent
+    start_year: 1983
+    end_year: 1983
+  - title: Philosopher
+    start_year: 1983
+    end_year: 2042
+  - title: Philosophical Advisor
+    start_year: 1988
+    end_year: 2042
+
+military_service:
+  - allegiance: "[[Susia]]"
+    branch: "[[Susian Air Force]]"
+    rank: null
+    start_year: 1975
+    end_year: 1977
+    conflicts:
+      - "[[Continental War]]"
+    notes: Drafted. Served in a non-combat administrative role.
+
+political_alignment:
+  - Cosmopolitan
+  - Post-nationalist
+
+party: null
+parties: null
+
+organizations:
   - "[[Dripia State University]]"
   - "[[Troli Ustaras]]"
+
+# ── OFFICES ─────────────────────────────────────────────────────────────────
 offices:
   - title: Journalist
-    organization: "[[Dripia State University Press]]"
-    start: 1977
-    end: 1988
-    notes: Covered economics, social policy, and politics during the post-Continental War boom years. War correspondent in Ditania 1983. His journalism is competent but unremarkable until Ditania
+    employer: "[[Dripia State University Press]]"
+    start_year: 1977
+    end_year: 1988
+    appointer: null
+    parties: null
+    notes: Covered economics, social policy, and politics during the post-Continental War boom years. War correspondent in Ditania 1983.
   - title: Philosophical Advisor
-    organization: "[[Troli Ustaras]]"
-    start: 1988
-    end: 2042
-    notes: Writes, advises on ethical policy, and serves as a living philosophical presence within TU. Attended major conferences and events including the inauguration of the Kolkov Learning Center. Shaped TU's ethical vocabulary without ever being submerged in its culture.
-military_service:
-  - branch: "[[Susian Air Force]]"
-    start: 1975
-    end: 1977
-    role: Non-combat
-    notes: Drafted during the Continental War. Served in a non-combat administrative role.
-spouse: "[[Veska Apaj]]"
-children:
-  - Two (unnamed)
+    employer: "[[Troli Ustaras]]"
+    start_year: 1988
+    end_year: 2042
+    appointer: null
+    parties: null
+    notes: Shaped TU's ethical vocabulary and corporate culture. Authored TU's ethical constitution covering AI and speculative future technology. Never lived within the corporate culture he helped create.
+
+# ── WRITTEN WORKS ────────────────────────────────────────────────────────────
+written_works:
+  - title: "[[War, Pestilence and Famine]]"
+    publication_year: 1983
+    genre: Political philosophy
+    notes: Written immediately after his return from Ditania. Argues that material scarcity was the engine of most organized human violence across history, and that its effective elimination means all contemporary conflict is a product of human construction.
+  - title: "[[After Scarcity]]"
+    publication_year: 1985
+    genre: Political philosophy
+    notes: Expands the essay's argument into a full philosophical vision. Proposes a cosmopolitan post-politics grounded in universal facts of consciousness, suffering, curiosity, and mortality. Became the moral vocabulary of the Modernist Alliance's utopian faction and the ethical foundation TU built its corporate culture upon.
+  - title: "[[Children of the Same Mother]]"
+    publication_year: 1992
+    genre: Philosophy
+    notes: Attempts to ground cosmopolitan ethics in biological and historical universals. His most systematic work and his least-read.
+
+# ── CRIMINAL RECORD ──────────────────────────────────────────────────────────
+criminal_charges: null
+
+# ── ASSOCIATIONS & LEGACY ────────────────────────────────────────────────────
+known_for:
+  - item: "[[War, Pestilence and Famine]]"
+    notes: The essay that established his reputation and introduced the Scarcity Ladder framework.
+  - item: "[[After Scarcity]]"
+    notes: His central work. The philosophical foundation of TU's corporate culture and the Modernist Alliance's utopian wing.
+  - item: "[[Apajianism]]"
+    notes: The intellectual current tracing its historical analysis and moral framework to his work.
+  - item: "[[Troli Ustaras]]"
+    notes: Served as Philosophical Advisor from 1988 until his death. Authored the company's ethical constitution.
+
+awards: null
+
 era:
   - continental-divide
   - post-war
-  - great-transition
   - new-age
+  - great-transition
   - techno-federative-era
+
+# ── META ─────────────────────────────────────────────────────────────────────
 tags:
   - philosophy
   - journalism
@@ -84,6 +143,11 @@ tags:
   - politics
   - culture
   - history
+
+meta:
+  stub: false
+  verified: false
+  image: null
 ---
 
 ## Quotes
