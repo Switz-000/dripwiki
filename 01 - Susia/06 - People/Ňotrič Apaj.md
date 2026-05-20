@@ -35,15 +35,15 @@ education:
     institution: "[[Dripia State University]]"
     year:
 occupation:
+  - title: Philosopher
+    start_year: 1983
+    end_year: 2042
   - title: Journalist
     start_year: 1977
     end_year: 1988
   - title: War Correspondent
     start_year: 1983
     end_year: 1983
-  - title: Philosopher
-    start_year: 1983
-    end_year: 2042
   - title: Philosophical Advisor
     start_year: 1988
     end_year: 2042
