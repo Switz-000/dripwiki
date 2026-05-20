@@ -246,15 +246,15 @@
 ### [[1982 Confian general election]]
 - [[Katerina Armoljubca Nožeslawna]] — Member of the National Assembly of Confian Syndicates — [[Syndicalist League]]
 
-- **Appointment** — [[Filevir Matri]] becomes President of Susia at ?
 - **Appointment** — [[Yário Kolkov]] becomes Engineer at ?
 - **End of tenure** — [[Boris Serec]] leaves Commissar of Education at ?
-- **End of tenure** — [[Filevir Matri]] leaves Vice President of Susia at ?
 - **End of tenure** — [[Katerina Armoljubca Nožeslawna]] leaves Member of the National Assembly of Confian Syndicates at ?
 - **End of tenure** — [[Senjap Kunsekowić]] leaves President of the Council of Commissars of the United Syndicates of Confia at ?
 
 ## 1983
 - **Appointment** — [[Boris Serec]] becomes President of the Council of Commissars of the United Syndicates of Confia at ?, appointed by [[National Assembly of Confian Syndicates]]
+- **Appointment** — [[Filevir Matri]] becomes President of Susia at ? — *Became president after Boňár's death*
+- **End of tenure** — [[Filevir Matri]] leaves Vice President of Susia at ?
 - **Publication** — *War, Pestilence and Famine* by [[Ňotrič Apaj]] — *Written immediately after his return from Ditania. Argues that hunger, disease, resource competition, was the engine of most organized human violence across history, and that its effective elimination in the modern era means all contemporary conflict is now entirely a product of human construction: nations, ideologies, religion, political identity. Made him famous in Susian intellectual circles and fueled the techno-optimism of the post war boom.*
 
 ## 1984
@@ -267,7 +267,7 @@
 ### [[1986 Confian presidential election]]
 - [[Mariana Torres]] — President of the Confian Nation — [[Movement for Syndicalist Renovation]]
 
-- **End of tenure** — [[Filevir Matri]] leaves President of Susia at ?
+- **End of tenure** — [[Filevir Matri]] leaves President of Susia at ? — *Became president after Boňár's death*
 - **End of tenure** — [[Katerina Armoljubca Nožeslawna]] leaves Member of the National Assembly of Confian Syndicates at ?
 - **End of tenure** — [[Mariana Torres]] leaves President of the Confian Nation at ? — *Left LjWP to found DSN in 1980*
 
