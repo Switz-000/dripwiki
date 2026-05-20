@@ -102,7 +102,7 @@ Matri was born in [[Duolij]] in 1924 and studied law at the [[University of Duol
 
 Matri was elected Governor of [[Postia]] for the [[White Stork Party]] in 1954 at thirty years old, part of the first generation of politicians to hold office under the republic. His tenure was defined in its early years by the [[Minutemen]] crisis, in which anarcho-syndicalist cells conducted bombings and assassinations across [[Susia]]. The most consequential attack was the [[Neoveli Stock Exchange Bombing]] of 1955, which killed 43 people.
 
-Matri's response included the authorization of aggressive surveillance of union organizations and labor groups, mass arrests of suspected sympathizers, and crackdowns on organizations deemed connected to [[syndicalism|syndicalist]] networks. The measures drew sustained criticism from Postia|Postia's working class, who argued that legitimate [[labor|labor organizing]] was suppressed alongside genuine security threats. By the late 1950s Postia's syndicalist networks had been largely dismantled or driven underground.
+Matri's response included the authorization of aggressive surveillance of union organizations and labor groups, mass arrests of suspected sympathizers, and crackdowns on organizations deemed connected to [[Syndicalism|syndicalist]] networks. The measures drew sustained criticism from Postia|Postia's working class, who argued that legitimate [[labor|labor organizing]] was suppressed alongside genuine security threats. By the late 1950s Postia's syndicalist networks had been largely dismantled or driven underground.
 
 ## Senate and Federal Career (1962–1974)
 

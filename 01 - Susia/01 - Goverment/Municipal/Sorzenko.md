@@ -31,7 +31,7 @@ The political significance of Sorzenkos became explicit during the reign of [[Ja
 
 When the [[Liberal Revolts]] broke out in 1840, smaller towns organized around surviving or reconstituted Sorzenkos, declared allegiance to the [[Federated Provinces of Galil]], and contributed militia forces to the republican army. The revolts ultimately failed, in part because the suppression had been effective enough to prevent the coordinated armed resistance that Sorzenkos would otherwise have enabled. [[Armadesh Versij|Versij's]] famous statement at his execution, that his fellows would not have been disarmed had he lived, became the defining articulation of this interpretation, though historians continue to debate whether the revolts could have succeeded regardless.
 
-The [[Susian Federal Government|Susian constitution]] enshrined the [[Right to Rebel|right to rebel]] partly in direct response to Jartes II's disarmament campaign, treating armed civic capacity as a structural guarantee against future tyranny.
+The [[Susian Federal Government|Susian constitution]] enshrined the [[Right to rebel|right to rebel]] partly in direct response to Jartes II's disarmament campaign, treating armed civic capacity as a structural guarantee against future tyranny.
 
 ### The Techno-Federative Era
 
@@ -69,7 +69,7 @@ The institution's long-term trajectory within FEZ territories is uncertain. As F
 
 - [[Hăjaven]]
 - [[Gun Culture in Susia]]
-- [[Right to Rebel]]
+- [[Right to rebel]]
 - [[Cericeiro]]
 - [[Liberal Revolts]]
 - [[National Guard]]
