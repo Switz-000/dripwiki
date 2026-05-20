@@ -367,11 +367,13 @@
 ## 2034
 - **Death** — [[Chedji Soites]] died in ? (Natural causes)
 
+## 2037
+- **Death** — [[Yavna Raroska]] died in [[Dripia]] (Natural causes)
+
 ## 2041
 - **Yarnojte granted** — [[Atompron]]
 
 ## 2042
-- **Death** — [[Yavna Raroska]] died in [[Dripia]] (Natural causes)
 - **Death** — [[Ňotrič Apaj]] died in [[Dripia]] (Old age)
 - **End of tenure** — [[Ňotrič Apaj]] leaves Philosophical Advisor at [[Troli Ustaras]] — *Writes, advises on ethical policy, and serves as a living philosophical presence within TU. Attended major conferences and events including the inauguration of the Kolkov Learning Center. Shaped TU's ethical vocabulary without ever being submerged in its culture.*
 
