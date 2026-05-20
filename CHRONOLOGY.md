@@ -126,9 +126,6 @@
 ## 1948
 - **Graduation** — [[Filevir Matri]] — Bachelor in Law at [[University of Duolij]]
 
-## 1951
-- **Birth** — [[Ňotrič Apaj]] born in [[Yatovarlaj]], [[Misocévia]]
-
 ## 1952
 - **Birth** — [[Chedji Soites]] born in [[Neoveli]], [[Dripia]]
 
@@ -191,16 +188,11 @@
 - **End of tenure** — [[Filevir Matri]] leaves Senator for Postia at ?
 - **Graduation** — [[Chedji Soites]] — Finance at [[Belluni College]]
 
-## 1975
-- **Enlists** — [[Ňotrič Apaj]] in [[Susian Air Force]] (Non-combat) — *Drafted during the Continental War. Served in a non-combat administrative role.*
-
 ## 1976
 - **Appointment** — [[Chedji Soites]] becomes Board Member at ?, appointed by [[Suizo Soites]]
 
 ## 1977
 - **Appointment** — [[Mariana Torres]] becomes Leader of the Confian Nation at ?, appointed by [[Bayonet Revolution]] — *Interim*
-- **Appointment** — [[Ňotrič Apaj]] becomes Journalist at [[Dripia State University Press]] — *Covered economics, social policy, and politics during the post-Continental War boom years. War correspondent in Ditania 1983. His journalism is competent but unremarkable until Ditania*
-- **Discharge** — [[Ňotrič Apaj]] from [[Susian Air Force]] — *Drafted during the Continental War. Served in a non-combat administrative role.*
 - **End of tenure** — [[Lorelaj Paulowić]] leaves First Secretary of the Union of Confian Syndicalists at ?
 - **End of tenure** — [[Lorelaj Paulowić]] leaves Leader of the Confian Nation at ?
 - **End of tenure** — [[Mariana Torres]] leaves Leader of the Confian Nation at ? — *Interim*
@@ -255,13 +247,9 @@
 - **Appointment** — [[Boris Serec]] becomes President of the Council of Commissars of the United Syndicates of Confia at ?, appointed by [[National Assembly of Confian Syndicates]]
 - **Appointment** — [[Filevir Matri]] becomes President of Susia at ? — *Became president after Boňár's death*
 - **End of tenure** — [[Filevir Matri]] leaves Vice President of Susia at ?
-- **Publication** — *War, Pestilence and Famine* by [[Ňotrič Apaj]] — *Written immediately after his return from Ditania. Argues that hunger, disease, resource competition, was the engine of most organized human violence across history, and that its effective elimination in the modern era means all contemporary conflict is now entirely a product of human construction: nations, ideologies, religion, political identity. Made him famous in Susian intellectual circles and fueled the techno-optimism of the post war boom.*
 
 ## 1984
 - **Death** — [[Eriežera Lensekowina]] died in [[Koštanože]] (Natural causes)
-
-## 1985
-- **Publication** — *[[After Scarcity]]* by [[Ňotrič Apaj]] — *Expands the essay's argument into a full philosophical vision. If material scarcity is no longer the organizing principle of civilization, what should replace it? Apaj proposes a cosmopolitan post-politics grounded not in abstract rights but in the shared universal facts of being human: consciousness, suffering, curiosity, mortality. Argues that a rational civilization would redirect resources currently consumed by armies, bureaucracies, and political competition toward the expansion of knowledge, reduction of suffering, and improvement of human existence. Explicitly utopian. Became the moral vocabulary of the Modernist Alliance's utopian faction and the philosophical foundation TU would build its corporate culture upon.*
 
 ## 1986
 ### [[1986 Confian presidential election]]
@@ -284,9 +272,7 @@
 - **End of tenure** — [[Yário Kolkov]] leaves Engineer at ?
 
 ## 1988
-- **Appointment** — [[Ňotrič Apaj]] becomes Philosophical Advisor at [[Troli Ustaras]] — *Writes, advises on ethical policy, and serves as a living philosophical presence within TU. Attended major conferences and events including the inauguration of the Kolkov Learning Center. Shaped TU's ethical vocabulary without ever being submerged in its culture.*
 - **Death** — [[Mariana Torres]] died in [[Karlotopol']] ([[Tarlanna's disease]])
-- **End of tenure** — [[Ňotrič Apaj]] leaves Journalist at [[Dripia State University Press]] — *Covered economics, social policy, and politics during the post-Continental War boom years. War correspondent in Ditania 1983. His journalism is competent but unremarkable until Ditania*
 
 ## 1989
 - **End of tenure** — [[Yário Kolkov]] leaves Engineer at ? — *Left in disgust at the company's culture.*
@@ -303,7 +289,6 @@
 - **Dissolved** — [[Confian Liberal Party]]
 - **Founded** — [[Mi, Niteraljci!]] by [[['[[Lenseka Japlenowina]]', '[[Saserna Kašdunna\xa0]]']]]
 - **Graduation** — [[Yavna Raroska]] — Political Science at [[University of New Kentu]]
-- **Publication** — *Children of the same mother* by [[Ňotrič Apaj]] — *Written after joining TU as Philosophical Advisor. Attempts to ground cosmopolitan ethics in biological and historical universals. His most systematic work and his least-read.*
 
 ## 1993
 - **Founded** — [[KSH]] by [[['[[Confian National Government]]', '[[Katerina Armoljubca Nožeslawna|KAN]]']]]
@@ -372,10 +357,6 @@
 
 ## 2041
 - **Yarnojte granted** — [[Atompron]]
-
-## 2042
-- **Death** — [[Ňotrič Apaj]] died in [[Dripia]] (Old age)
-- **End of tenure** — [[Ňotrič Apaj]] leaves Philosophical Advisor at [[Troli Ustaras]] — *Writes, advises on ethical policy, and serves as a living philosophical presence within TU. Attended major conferences and events including the inauguration of the Kolkov Learning Center. Shaped TU's ethical vocabulary without ever being submerged in its culture.*
 
 ## 2050
 - **Yarnojte granted** — [[Nayotai]]
