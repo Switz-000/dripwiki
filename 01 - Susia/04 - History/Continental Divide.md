@@ -69,7 +69,7 @@ tags:
   - intelligence
   - law
 ---
-The **Continental Divide** (1957–1977) was a cold war between [[Susia]]'s liberal-capitalist bloc and [[Confia]]'s authoritarian syndicalist bloc, constituting the defining geopolitical conflict of Susia's early republican period. The divide shaped two decades of Susian domestic policy, foreign alliances, and institutional development before culminating in the [[Continental War]] (1975–1977) and the defeat of the syndicalist bloc. Its institutional legacy persisted well beyond the conflict itself, embedding the [[Fortress Complex]] orientation in Susian political culture and producing the foreign policy architecture that governed the post-war era.
+The **Continental Divide** (1957–1977) was a cold war between [[Susia]]'s liberal-capitalist bloc and [[Confia]]'s authoritarian syndicalist bloc, constituting the defining geopolitical conflict of Susia's early republican period. The divide shaped two decades of Susian domestic policy, foreign alliances, and institutional development before culminating in the [[Continental War]] (1975–1977) and the defeat of the syndicalist bloc. Its institutional legacy persisted well beyond the conflict itself, embedding the [[Fortress complex]] orientation in Susian political culture and producing the foreign policy architecture that governed the post-war era.
 
 ## Background
 
@@ -193,7 +193,7 @@ The domestic legislation of the divide had an uneven legacy. The MAGEN Act was p
 - [[Sutsa-Fuhu Civil War]]
 - [[Zaphonian Civil War]]
 - [[Flower Revolutions]]
-- [[Fortress Complex]]
+- [[Fortress complex]]
 - [[Democratic evangelism]]
 [[Lorelaj Paulowić]]e in Susia]]
 - [[Lasman Economic Initiative]]

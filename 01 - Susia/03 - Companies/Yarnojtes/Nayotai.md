@@ -52,7 +52,7 @@ In the years preceding the [[The Great Transition|Great Transition]], Nayotai wa
 
 Nayotai received Yarnojte status in 2050, concurrent with [[Soites Group]]. In the same year, responding to the precedent set by the [[Troli Ustaras Corruption Scandal (2047)|TU corruption scandal of 2047]] and the subsequent empowerment of the [[Federal Authority of Commerce and Competition]], the company implemented a radical internal transparency initiative. The initiative and its consequences are described in the [[#The transparency crisis (2050–2057)|section below]].
 
-Following the resolution of that crisis, Nayotai stabilized under new leadership and resumed growth. The primary contractor role on the [[Kolkov Line]] high-speed rail network, connecting [[Postia]] and [[Dripia]]'s major cities, was among the most significant federal contracts of the post-transition period.
+Following the resolution of that crisis, Nayotai stabilized under new leadership and resumed growth. The primary contractor role on the [[Kolkov line]] high-speed rail network, connecting [[Postia]] and [[Dripia]]'s major cities, was among the most significant federal contracts of the post-transition period.
 
 ## Operations
 
@@ -67,7 +67,7 @@ Nayotai's domestic manufacturing base is concentrated in its two Free Economic Z
 
 #### Independent Susia
 
-Outside its FEZs, Nayotai's domestic operations are concentrated in [[Postia]] and [[Sužielaj]], with a lighter project-based presence across the remaining states. The company holds recurring federal contracts for road, bridge, port, and rail construction and operates as the primary contractor on several of Susia's most significant infrastructure projects. These include the [[Arkaime Bridge]], the [[Kolkov Line]] high-speed rail network, and numerous urban transit systems across the country's major cities.
+Outside its FEZs, Nayotai's domestic operations are concentrated in [[Postia]] and [[Sužielaj]], with a lighter project-based presence across the remaining states. The company holds recurring federal contracts for road, bridge, port, and rail construction and operates as the primary contractor on several of Susia's most significant infrastructure projects. These include the [[Arkaime Bridge]], the [[Kolkov line]] high-speed rail network, and numerous urban transit systems across the country's major cities.
 
 ### Confia
 
@@ -134,7 +134,7 @@ Nayotai sponsors the [[Nayotai Motors (Crolball team)|Nayotai Motors]] [[Crolbal
 - [[Postia Manufacturing Center FEZ]]
 - [[Sužielaj Industrial Park]]
 - [[Lasman Economic Initiative]]
-- [[Kolkov Line]]
+- [[Kolkov line]]
 - [[Arkaime Bridge]]
 - [[Troli Ustaras Corruption Scandal (2047)]]
 - [[Federal Authority of Commerce and Competition]]
