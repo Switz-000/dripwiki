@@ -26,7 +26,7 @@ Throughout the imperial era, military service remained a feature of Susian life,
 
 > _Main article: [[Liberal Revolts]]_
 
-The political meaning of civilian military capacity became explicit during [[Jartes II]]'s reign. His suppression of Sorzenkos and restriction of civilian firearms ownership preceded his broader crackdown on liberal movements, and the failure of the [[Federated Provinces of Galil]] in 1844 was widely attributed in subsequent Susian memory to the effectiveness of that disarmament. The [[Susian Constitution]] enshrined the [[Right to Rebel|right to rebel]] in direct response, treating organized civilian military capacity as a structural safeguard against future tyranny. [[Armadesh Versij|Versij's]] argument that rights which cannot be defended are privileges waiting to be revoked became the philosophical foundation for this position.
+The political meaning of civilian military capacity became explicit during [[Jartes II]]'s reign. His suppression of Sorzenkos and restriction of civilian firearms ownership preceded his broader crackdown on liberal movements, and the failure of the [[Federated Provinces of Galil]] in 1844 was widely attributed in subsequent Susian memory to the effectiveness of that disarmament. The [[Susian Constitution]] enshrined the [[Right to rebel|right to rebel]] in direct response, treating organized civilian military capacity as a structural safeguard against future tyranny. [[Armadesh Versij|Versij's]] argument that rights which cannot be defended are privileges waiting to be revoked became the philosophical foundation for this position.
 
 ### Reinstatement Under the Republic
 
@@ -46,7 +46,7 @@ Citizens may alternatively choose to serve two years in a non-combat role. Non-c
 
 ### Skills and Civic Function
 
-Regardless of track, service produces a population with baseline competence in firearms handling, physical fitness, organizational discipline, and emergency response. This distributed competence is what Susian constitutional scholars describe as making the [[Right to Rebel|right of rebellion]] practically credible: organized civilian militia capacity exists at the level of the general population, not merely as a constitutional provision.
+Regardless of track, service produces a population with baseline competence in firearms handling, physical fitness, organizational discipline, and emergency response. This distributed competence is what Susian constitutional scholars describe as making the [[Right to rebel|right of rebellion]] practically credible: organized civilian militia capacity exists at the level of the general population, not merely as a constitutional provision.
 
 The cross-class character of service is noted consistently in political commentary. A factory worker from [[Sužielaj]] and a [[Troli Ustaras|TU]] FEZ resident from [[Dripia]] are assigned to the same unit, eat the same food, and depend on each other in the same conditions. The [[Sorzenko]] system and the [[Hăjaven]] festival produce similar bonds at the local level; mandatory service extends them nationally.
 
@@ -77,7 +77,7 @@ Enhancement in the context of mandatory service is more limited. Conscripts serv
 - [[Sorzenko]]
 - [[National Guard]]
 - [[Van Ritter]]
-- [[Right to Rebel]]
+- [[Right to rebel]]
 - [[Susian Gun Culture]]
 - [[Army Structuring Act]]
 - [[Liberal Revolts]]
