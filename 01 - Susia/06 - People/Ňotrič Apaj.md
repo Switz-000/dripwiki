@@ -29,7 +29,7 @@ death:
   city: "[[Neoveli]]"
   state: "[[Dripia]]"
   country: "[[Susia]]"
-  cause: Kashovne's syndrome
+  cause: "[[Kashovne's syndrome]]"
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
 spouse: "[[Veska Apaj]]"
@@ -149,6 +149,48 @@ meta:
   verified: false
   image: null
 ---
+
+Ňotrič Apaj (1951–2042) was a Susian philosopher, journalist, and war correspondent whose work established the dominant framework for post-scarcity cosmopolitan thought in Susia. Born in [[Yatovarlaj]], [[Misocévia]], he came to prominence following his coverage of the [[Ditanian Civil War]] in 1983, which produced the essay "[[War, Pestilence and Famine]]" and, two years later, the book "[[After Scarcity]]." Both works argued that the defeat of material scarcity had rendered traditional forms of political organization obsolete and that a rational civilization would reorganize itself around universal principles derivable from consciousness and reason alone. Hired by [[Troli Ustaras]] as Philosophical Advisor in 1988, he shaped the company's ethical culture for over five decades from the outside, with very little real contact. He died in [[Neoveli]] in 2042 from [[Kashovne's syndrome]], a progressive neurological disease.
+
+### Early Life
+
+Apaj was born in 1951 in [[Yatovarlaj]], a mid-sized city in [[Misocévia]] known for its Cericeiro heritage, its sizable Confian refugee community. He grew up during the [[Continental Divide]], the cold war between Susia and [[Confia]]'s syndicalist bloc that shaped the political atmosphere of his childhood and adolescence.
+
+In 1975 he was drafted into the [[Susian Air Force]] serving in a non-combat administrative role in the [[Continental War]] until his discharge in 1977.
+
+He studied journalism and philosophy at [[Dripia State University]] in [[New Kentu]], graduating into the early years of the post-[[Continental War]] economic boom. The Susia he encountered as a young adult was optimistic and expanding, convinced that the defeat of syndicalism had validated the liberal-capitalist model and that technology and prosperity would continue to reduce the conditions that had historically produced conflict. Apaj absorbed this atmosphere. His early intellectual formation was shaped by the philosophy of [[Armadesh Versij]], particularly the [[Versijian Self-Axiom]], which he would later use as the singular foundation for his cosmopolitan ethics.
+
+### Journalism
+
+Apaj joined the [[Dripia State University Press]] in 1977, covering economics, social policy, and domestic politics during the post-war boom years. He covered the Susian technology sector's early expansion and the political landscape of the [[Čalsor Boňár]] administration. His work from this period focused on domestic affairs. 
+
+#### War correspondent
+
+
+In 1983 Apaj traveled to [[Ditania]] as a war correspondent, covering the collapse that had followed the failed [[Tulip Revolution]] of 1981. The central government had dissolved. Former military officers held territory across the country. Separatist regions had declared independence. The internationally recognized [[Government of National Salvation]], backed by Susia and its allies under the [[Tekuri Ljas Accord]], had not consolidated power.
+
+Among the factions he documented were the [[Wai Republican Army]], operating under radical [[Jaikaism]]; the [[Jadir Front]], pursuing ethnic unification; the [[Alsei Liberation Army]], seeking independence for a minority population; and the [[Alliance for the Self-Defence of Communities and Traditions]]. He remained in Ditania through the early years of the multinational intervention. He met [[Veska Apaj|Veska]], a Zaphonian aid worker, during this period. His observations in Ditania became the primary material for "[[War, Pestilence and Famine]]," published upon his return.
+
+### Philosophy
+
+> _Main article: [[Apajian Analysis of History]], [[Apajianism]]_
+
+#### War, Pestilence and Famine (1983)
+
+"[[War, Pestilence and Famine]]" argued that material scarcity had been the primary driver of organized human violence across history. Major institutions, religious, political, and cultural, were in Apaj's account downstream of competition over limited resources. The industrial revolution represented, in his framework, the first point at which material scarcity became solvable rather than inevitable.
+
+The essay used the [[Ditanian Civil War]] as its central case. Apaj argued that the conflict could not be explained by resource competition and that this indicated a broader historical shift: contemporary conflict, unlike its historical predecessors, was produced by human construction rather than material necessity. The essay was published in 1983 and received significant attention in Susian intellectual circles.
+
+#### After Scarcity (1985)
+
+"[[After Scarcity]]" expanded the essay's argument into a framework organized around what Apaj called the [[Scarcity Ladder]]. Scarcity, he proposed, operates in layers. Material scarcity, covering food, shelter, and medicine, had been largely addressed in developed societies. Security scarcity, meaning freedom from arbitrary violence, had been partially addressed by rule of law. What remained was existential scarcity: meaning, identity, belonging, and purpose.
+
+His prescription followed from this diagnosis. Institutions built to manage material scarcity, including the nation-state, organized religion, and political ideology, had in his view outlived their primary function. A rational civilization would reorganize around a post-national order grounded in universal principles derivable from consciousness and reason. The foundation he proposed was the [[Versijian Self-Axiom]].
+
+The book acknowledged that the transition to such an order was unresolved. Apaj did not propose a mechanism, only a direction.
+
+"After Scarcity" became associated with the [[Modernist Alliance]]'s utopian faction and was adopted as the primary ethical framework by [[Troli Ustaras]].
+
 
 ## Quotes
 

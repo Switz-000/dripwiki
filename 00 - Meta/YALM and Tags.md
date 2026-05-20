@@ -82,6 +82,7 @@ tags:
   - economy
   - corporate
   - law
+  - journalism
   - intelligence
   - philosophy
   - religion
