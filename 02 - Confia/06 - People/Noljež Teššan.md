@@ -40,7 +40,7 @@ awards:
 occupation:
   - 
 party:
-  - "[[Union of Confian Syndicalists]]"
+  - "[[Syndicalist League]]"
 political_alignment:
   - "[[Syndicalism#New Syndicalism|New Syndicalism]]"
 organization:
