@@ -16,7 +16,7 @@ tags:
   - intelligence
 ---
 
-**Democratic evangelism** is the position in Susian foreign policy thought that Susia bears a moral obligation to actively spread democracy and liberal values beyond its borders. It encompasses support for pro-democracy movements in foreign nations, covert and overt regime change operations, and the conditioning of foreign aid and trade agreements on democratic reforms. The position is rooted in [[Susian Exceptionalism|Susian exceptionalist]] ideology and the Versijian argument that natural rights are universal and therefore their denial abroad is a wrong that Susia has standing to address. It is distinct from the purely defensive orientation of the [[Fortress Complex]], though the two frequently operate together in practice.
+**Democratic evangelism** is the position in Susian foreign policy thought that Susia bears a moral obligation to actively spread democracy and liberal values beyond its borders. It encompasses support for pro-democracy movements in foreign nations, covert and overt regime change operations, and the conditioning of foreign aid and trade agreements on democratic reforms. The position is rooted in [[Susian Exceptionalism|Susian exceptionalist]] ideology and the Versijian argument that natural rights are universal and therefore their denial abroad is a wrong that Susia has standing to address. It is distinct from the purely defensive orientation of the [[Fortress complex]], though the two frequently operate together in practice.
 
 ## Origins
 
@@ -52,12 +52,12 @@ The position retains political support across most of the Susian spectrum, thoug
 
 ## Tension with the Fortress Complex
 
-Democratic evangelism and the [[Fortress Complex]] are not identical and are not always compatible. The Fortress Complex orients Susian policy toward defense of what exists. Democratic evangelism orients it toward expansion of the model into territory it does not yet hold. In practice, the two have usually coexisted because the Confian case made both positions look like the same policy: defending the republic required defeating syndicalism, and defeating syndicalism required democratic transitions in formerly hostile states. The Ashgerad cold war makes the tension more visible, because Ashgerad cannot be defeated in the way Confia was, and expanding the democratic model into Ashgeradn spheres of influence carries risks that the earlier interventionist tradition did not face.
+Democratic evangelism and the [[Fortress complex]] are not identical and are not always compatible. The Fortress Complex orients Susian policy toward defense of what exists. Democratic evangelism orients it toward expansion of the model into territory it does not yet hold. In practice, the two have usually coexisted because the Confian case made both positions look like the same policy: defending the republic required defeating syndicalism, and defeating syndicalism required democratic transitions in formerly hostile states. The Ashgerad cold war makes the tension more visible, because Ashgerad cannot be defeated in the way Confia was, and expanding the democratic model into Ashgeradn spheres of influence carries risks that the earlier interventionist tradition did not face.
 
 ## See Also
 
 - [[Susian Exceptionalism]]
-- [[Fortress Complex]]
+- [[Fortress complex]]
 - [[Armadesh Versij]]
 - [[Continental Divide]]
 - [[Continental War]]

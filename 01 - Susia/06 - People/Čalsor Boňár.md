@@ -23,7 +23,7 @@ birth:
   country:
     - - Dripstanian Empire
 death:
-  year: 1984
+  year: 1983
   city:
     - - Soiteslaj
   state:
@@ -63,7 +63,7 @@ offices:
     employer:
       - - Susian Federal Government
     start_year: 1982
-    end_year: 1984
+    end_year: 1983
     appointer:
       - - 1982 Susian presidential election
     parties:

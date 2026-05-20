@@ -3,7 +3,7 @@ type: person
 full_name: Filevir Matri
 aliases:
   - Matri
-summary: Susian lawyer and politician; fifth President of Susia (1982–1986); also served as Governor of Postia, Senator, Secretary of Justice, and Vice President under Čalsor Bonár; known for early diplomatic groundwork toward the Lasman Economic Initiative and for his lobster table style of politics.
+summary: Susian lawyer and politician; fifth President of Susia (1984–1986); also served as Governor of Postia, Senator, Secretary of Justice, and Vice President under Čalsor Bonár; known for the Ditanian Intervention, the Confian reaprochment and for his lobster table style of politics.
 sex: male
 birth_year: 1924
 birth_city: "[[Duolij]]"
@@ -79,20 +79,20 @@ offices:
   - title: Vice President of Susia
     employer: "[[Susian Federal Government]]"
     start: 1974
-    end: 1982
+    end: 1983
     appointer:
     party: "[[Susian Democratic Union]]"
     notes:
   - title: President of Susia
     employer: "[[Susian Federal Government]]"
-    start: 1982
+    start: 1983
     end: 1986
     appointer:
     party: "[[Susian Democratic Union]]"
-    notes:
+    notes: Became president after Boňár's death
 ---
 
-**Filevir Matri** (1924–2002) was a Susian lawyer and politician who served as the fifth President of [[Susia]] from 1982 to 1986. Before the presidency, he held office as Governor of [[Postia]], Senator for Postia twice, [[Secretary of Justice]] under [[Serčev Fimžer]], and Vice President under [[Čalsor Boňár]]. He lost the 1986 election to [[Filňar Čantij]] and returned to private legal practice in [[Duolij]], where he remained until his death in 2002.
+**Filevir Matri** (1924–2002) was a Susian lawyer and politician who served as the fifth President of [[Susia]] from 1983 to 1986. Before the presidency, he held office as Governor of [[Postia]], Senator for Postia twice, [[Secretary of Justice]] under [[Serčev Fimžer]], and Vice President under [[Čalsor Boňár]]. He lost the 1986 election to [[Filňar Čantij]] and returned to private legal practice in [[Duolij]], where he remained until his death in 2002.
 
 ## Early Life and Education
 
@@ -110,13 +110,13 @@ In 1962 Matri couldn't run for another term as governor of Postia so he ran and 
 
 During the Sienes years, Matri was a consistent critic of [[Ergagério Sienes]]' [[Sienes Doctrine|détente policy]] toward [[Confia]], arguing that the approach was strategically counterproductive. The outcome of the [[Sutsa-Fuhu Civil War]] in 1973, which Susia did not contest, reinforced his position within the [[Susian Democratic Union]].
 
-## Vice Presidency (1974–1984)
+## Vice Presidency (1974–1983)
 
 Matri served as Vice President throughout [[Čalsor Boňár]]'s three terms, covering the final phase of the [[Continental Divide]], the [[Continental War]] (1975–1977), and the post-war reconstruction period. His formal role was secondary to the president's across all major decisions. He was publicly positioned as the natural successor within the [[Susian Democratic Union|FVS]] by the end of Bonár's presidency.
 
-## Presidency (1984–1986)
+## Presidency (1983–1986)
 
-After the death of [[Čalsor Boňár]] in 1984, Matri assumed the presidency becoming Susia's 5th president.
+After the death of [[Čalsor Boňár]] in 1983, Matri assumed the presidency becoming Susia's 5th president.
 
 ### Confian diplomatic groundwork
 
@@ -128,7 +128,7 @@ Matri met Serec at the [[Presidential Palace (Soiteslaj)|presidential palace]] o
 
 > [[Ditanian Intervention]]
 
-Matri signed the [[Tekuri Ljas Accord]] authroizing Susian participation in a multilateral intervention in [[Ditania]] alongside [[Confia]], [[Pierej]], and [[Kapiogg]], in response to the civil collapse that followed the failed [[Tulip Revolution]] of 1981. The intervention's aims were contested among the four participating nations and its outcome was inconclusive.
+Matri signed the [[Tekuri Ljas Accord]] in 1983 authroizing Susian participation in a multilateral intervention in [[Ditania]] alongside [[Confia]], [[Pierej]], and [[Kapiogg]], in response to the civil collapse that followed the failed [[Tulip Revolution]] of 1981.
 
 ### The wine procurement controversy
 

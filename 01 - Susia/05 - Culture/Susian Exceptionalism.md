@@ -57,7 +57,7 @@ Critics within Susia argue that this civilizational framing makes the republic b
 - [[Reconciliation Act]]
 - [[Ashgerad]]
 - [[The Great Transition]]
-- [[Fortress Complex]]
+- [[Fortress complex]]
 - [[Democratic evangelism]]
 - [[MAGEN act]]
 - [[Frumentarze]]

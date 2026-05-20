@@ -57,7 +57,7 @@ Rǎz Lizňir's client base is concentrated among populations facing acute financ
 - Debt refugees sheltering in [[Velúria]]
 - Individuals in acute moral or financial distress seeking a definitive resolution
 
-The company's [[Velúria]] headquarters is not coincidental. The city's concentration of people seeking fresh starts, combined with its legal environment and the anonymity afforded by the [[Velúrian Identity|Velúria ID system]], makes it the primary recruitment ground for new contracts.
+The company's [[Velúria]] headquarters is not coincidental. The city's concentration of people seeking fresh starts, combined with its legal environment and the anonymity afforded by the [[Velúrian identity|Velúria ID system]], makes it the primary recruitment ground for new contracts.
 
 ## Relationship with Lischev-Verene
 
