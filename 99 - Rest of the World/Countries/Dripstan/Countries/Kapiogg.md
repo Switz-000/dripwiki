@@ -21,6 +21,8 @@ borders_east:
 borders_west:
 borders_north:
 borders_south:
+aliases:
+  - Kingdom of Kapiogg
 ---
 ### Brief History
 

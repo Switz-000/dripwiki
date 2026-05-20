@@ -191,18 +191,18 @@ Following the [[Troli Ustaras Corruption Scandal (2047)]] and the subsequent cor
 ## Quotes
 
 *"For four thousand years the engine beneath our suffering was the same: there was not enough. Not enough land, not enough food, not enough water. Not enough of whatever it was that the man across the valley had and you did not."*
-— Ňotrič Apaj, "War, Pestilence and Famine" (1983)
+— Ňotrič Apaj, "[[War, Pestilence and Famine]]" (1983)
 
 *"I have seen men kill each other over the name of a river. Not the river itself. Not the water, not the land along its banks, not any resource it provided. The name."*
-— Ňotrič Apaj, "War, Pestilence and Famine" (1983)
+— Ňotrič Apaj, "[[War, Pestilence and Famine]]" (1983)
 
 *"The material conditions that produced four thousand years of organized human violence have been largely defeated. We won. And yet in Ditania in 1983, men were burning each other's homes."*
-— Ňotrič Apaj, "War, Pestilence and Famine" (1983)
+— Ňotrič Apaj, "[[War, Pestilence and Famine]]" (1983)
 
 *"This is not proof that we are irredeemably violent. It is proof that we are, for the first time in history, choosing to be."*
-— Ňotrič Apaj, "After Scarcity" (1985)
+— Ňotrič Apaj, "[[After Scarcity]]" (1985)
 
 %% FLAGS:
 - Reburial date: post-2051, after TU restructuring. Exact year not established. Left vague deliberately.
 - Second child: unnamed, specific TU role undeveloped. Flagged for expansion when relevant.
-%
+%%
