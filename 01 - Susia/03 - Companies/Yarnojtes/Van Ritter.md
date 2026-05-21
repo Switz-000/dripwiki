@@ -168,9 +168,10 @@ Cognitive enhancement adoption among Van Ritter employees reached approximately 
 Van Ritter occupies a stable but ambivalent position in Susian public culture. Supporters treat it as the institutional expression of the [[Fortress complex]]: the company that stands between [[Susia]] and [[Ashgerad]], doing necessary work under necessary conditions. Critics describe it as a surveillance apparatus that has turned employment into a form of monitored captivity and whose black project portfolio operates outside meaningful democratic oversight. Both characterizations reflect accurate observations about different aspects of the same institution.
 
 The [[Van Ritter Patriots]] [[Crolball|crolball]] team participates in the [[Susian National Crolball League]], one of three corporate-sponsored clubs in the league. The team's fanbase is largely concentrated among Van Ritter employees and their families, and it is regarded by the broader Susian public with the same mixture of respect and wariness that attaches to the company itself.
-## Trivia
+## Miscellaneous Information
 
-[[Armotism|Armotist]] priests often bless server rooms as a way to prevent them from ever shutting down
+- Susians often joke that Van Ritter loves Susia so they'd turn it into [[Ashgerad]] in order to defend it. 
+- [[Armotism|Armotist]] priests bless new server rooms as a way to prevent them from ever shutting down
 
 ## See Also
 
