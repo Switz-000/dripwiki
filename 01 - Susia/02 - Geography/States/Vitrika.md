@@ -36,3 +36,6 @@ aliases:
 ---
 
 
+## Miscellaneous Information
+
+- Up untill 1963, Vitrikan children were served wine at school on lunch breaks

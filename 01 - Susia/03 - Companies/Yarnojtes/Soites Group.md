@@ -80,7 +80,7 @@ Unlike most Yarnojtes that cultivate elite exclusivity, Soites embraces mass acc
 - "Whatever, Whenever, Wherever" (Soites FFTZ)
 - “Always there when it counts” ([[Soitescard]])
 - “Everything You Need, Nothing You Don’t” (Soitesmart)
-- "" (Soites' Selection)
+- "" ([[Sisra]])
 - “Fast Isn’t Fast Enough” (Soitesexpress)
 - “Just live. We'll handle the rest” ([[Soites Experimenter Program|Experimenter Program]] Recruitment)
 - “Why Drive, When You Can Soar?” ([[Kolkov line]] Era)
@@ -96,6 +96,9 @@ Unlike most Yarnojtes that cultivate elite exclusivity, Soites embraces mass acc
 [[Yepodij Soites]] (2052 - 2068)
 [[Natesse Soites]] (2068 - present)
 
+## Miscellaneous Information
+
+- Since 1974, every time Soitesmart opens a new location,
 ## See Also
 
 - [[Yarnojtes]]
