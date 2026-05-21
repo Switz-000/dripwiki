@@ -75,12 +75,13 @@ This anti-paternalistic stance has particular appeal in a society where [[Troli 
 Unlike most Yarnojtes that cultivate elite exclusivity, Soites embraces mass accessibility. The Central Cafeteria's class mixing, where executives eat beside retail workers and tourists, is deliberately cultivated. This populist positioning helps Soites avoid the "arrogant elite" criticism that plagues TU and Van Ritter.
 ### Corporate Slogans
 
-- “Your Life, Your Way” “You In Control” “The World At Your Fingertips” (Independence)
-- “Life Made Simple” "Whatever, Whenever, Wherever" (Convenience)
+- “Your Life, Your Way” (General / Anti-paternalism)
+- "You decide what we know." (Privacy campaign)
+- "Whatever, Whenever, Wherever" (Soites FFTZ)
 - “The Card That Works For You” ([[Soitescard]])
 - “Everything You Need, Nothing You Don’t” (Soitesmart)
 - “Fast Isn’t Fast Enough” (Soitesexpress)
-- “Consume, Create, Inspire” ([[Soites Experimenter Program|Experimenter Program]] Recruitment)
+- “Just live. We'll handle the rest” ([[Soites Experimenter Program|Experimenter Program]] Recruitment)
 - “Why Drive, When You Can Soar?” ([[Kolkov line]] Era)
 - "Technology Serves You, Not The Other Way Around" (Competitor Jabbing [[Troli Ustaras|TU]])
 - "We Don't Need Your DNA, Just Your Shopping List" (Competitor Jabbing LV)
