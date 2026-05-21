@@ -98,7 +98,8 @@ Unlike most Yarnojtes that cultivate elite exclusivity, Soites embraces mass acc
 
 ## Miscellaneous Information
 
-- Since 1974, every time Soitesmart opens a new location,
+- Since 1979, every time Soitesmart opens a new location in a small city they schedule a large event with live bands, staff dancing and many attractions. With visitors reaching up to tens of thousands. Probably the most interesting thing happening in a 30 km radius in five years.
+- Soitesmart sells "banana-a-day" packs, with seven bananas, one being ready for today, the next ready to ripe tomorrow and so forth. These are packaged in clear plastic trays. Loved by single, peforming-to-be-fit office workers.
 ## See Also
 
 - [[Yarnojtes]]
