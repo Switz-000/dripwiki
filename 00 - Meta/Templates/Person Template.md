@@ -40,6 +40,7 @@ education:
   - degree:
     institution:
     year:
+  - 
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
