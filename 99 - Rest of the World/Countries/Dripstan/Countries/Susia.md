@@ -166,7 +166,7 @@ Two corporations have had Yarnojte status revoked: [[Vandernij & Milier]] in 208
 
 #### Finance
 
-The [[Neoveli Stock Exchange]], based in [[Neoveli]], is the country's primary securities market. Major financial institutions include [[Nassoj Holdings]], [[Triževa Bank]], [[Yerčemark Corporation]], [[Silver Coast Bank]], [[Astralis Banking Group]], and [[Red Iron Incorporated]]. [[Nassoj Holdings]], founded in 1883, holds the largest share of corporate and investment banking and is the primary institution for [[Free Economic Zone|FEZ]] lease financing and infrastructure bonds. [[Triževa Bank]], founded in 1869, serves the broadest share of the retail market.
+The [[Neoveli Stock Exchange]], based in [[Neoveli]], is the country's primary securities market. Major financial institutions include [[Nassoj Holdings]], [[Triževa Bank]], [[Yerčemark]], [[Silver Coast Bank]], [[Astralis Banking Group]], and [[Red Iron|Red Iron Incorporated]]. [[Nassoj Holdings]], founded in 1883, holds the largest share of corporate and investment banking and is the primary institution for [[Free Economic Zone|FEZ]] lease financing and infrastructure bonds. [[Triževa Bank]], founded in 1869, serves the broadest share of the retail market.
 
 #### Regional economic variation
 
