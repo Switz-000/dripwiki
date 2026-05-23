@@ -171,3 +171,135 @@ The [[Neoveli Stock Exchange]], based in [[Neoveli]], is the country's primary s
 #### Regional economic variation
 
 GDP per capita varies substantially across states. [[Dripia]] holds the highest figure at D$320,000, anchored by finance and technology. [[Postia]] follows at D$289,000, driven by shipping, corporate headquarters, and manufacturing. The [[Neutral District]] records D$607,000 per capita, reflecting its concentration of federal government employment and ancillary services. The southern and northern states record lower figures, with [[Nessel]] at D$140,000 and [[Vitrika]] at D$170,000, both economies oriented toward primary sectors and tourism respectively.
+
+### Military
+
+> _Main article: [[Military Service in Susia]]_
+
+#### Structure
+
+The Susian armed forces operate under the [[Secretary of Defense]] as part of the federal executive. The professional military is a volunteer career force. It is supplemented by the [[National Guard]], a state-level reserve force with dual activation authority: state governors may activate it for natural disasters and public disorder, and the federal government may activate it for foreign missions.
+
+[[Van Ritter]] is Susia's primary defense contractor, producing fighter aircraft, bombers, missiles, armored vehicles, military satellites, electronic warfare systems, and nuclear-powered submarines in partnership with [[Atompron]]. Government cybersecurity and intelligence technology, including AI-powered threat detection developed jointly with [[Troli Ustaras]], is also produced under Van Ritter contracts. The company holds Yarnojte status and operates the [[Eastern Industrial Complex FEZ]] in [[Misocévia]] as its primary production base.
+
+Susia developed nuclear weapons after the [[Continental War]]. The development program did not conclude in time for wartime use.
+
+#### Mandatory service
+
+All Susian citizens are required to complete national service upon reaching adulthood. Citizens may choose a combat track, requiring one year of service in a military role, or a non-combat track, requiring two years in logistics, medical support, infrastructure, communications, or civil defense roles. Mandatory service was reinstated in 1959 by President [[Serčev Fimžer]] at the start of the [[Continental Divide]].
+
+The service requirement produces a civilian population with baseline competence in firearms handling, physical fitness, and emergency response. Conscripts are assigned to units drawn from across the country, placing people from different states, economic backgrounds, and FEZ or non-FEZ origins in shared conditions. This cross-class mixing is a recognized civic function of the institution in Susian political culture.
+
+#### Civic arms tradition
+
+> _Main article: [[Gun Culture in Susia]]_
+
+The [[Susian Constitution]] guarantees the right to bear arms and includes an explicit [[Right to rebel|right of rebellion]], permitting citizens to take up arms against a government that systematically violates constitutionally recognized natural rights. Both provisions trace directly to the [[Liberal Revolts]] of 1840 to 1844, in which [[Jartes II]]'s disarmament of the population preceded his suppression of the [[Federated Provinces of Galil]].
+
+[[Sorzenko|Sorzenkos]], civic shooting clubs with roots in the early settlement period, remain active across Susia, particularly in rural areas and the eastern states. Gun safety is a mandatory component of the civics curriculum in all Susian middle and high schools. The [[Hăjaven]] festival, organized through Sorzenkos, involves a communal hunt and shared meal and is observed nationally.
+
+### Foreign relations
+
+> _Main article: [[Democratic evangelism]]_
+
+Susian foreign policy is organized around three overlapping orientations: the [[Fortress complex]], which treats the maintenance of territorial and institutional security as the governing priority; [[Democratic evangelism]], which holds that Susia has an interest in the spread of democratic governance across the continent and beyond; and the [[Continental Fortress Doctrine]], which frames the [[Dripstanian Continent]] as Susia's primary defensive perimeter against [[Ashgerad]].
+
+#### ONDD
+
+> _Main article: [[ONDD]]_
+
+The [[ONDD]] (Organization of the Democratic Dripstanian Nations) is the primary vehicle of Susian foreign policy. Founded in 1961 as an anti-syndicalist military alliance, it has evolved into a broader democratic security structure reoriented toward the containment of [[Ashgerad]]. Current members are Susia (1961), [[Kapiogg]] (1961), [[Astofayan]] (1962), [[Pierej]] (1970), [[Dripland]] (1981), [[Kamino]] (1986), and [[Confia]] (1998).
+
+#### Confia
+
+Susia and [[Confia]] share the longest and most consequential bilateral relationship on the continent. The two countries fought an active cold war from 1957 to 1975 and a direct war from 1975 to 1977. Following the [[Bayonet Revolution]] and the democratic transition in Confia, the relationship normalized over the following two decades. Confia joined the ONDD in 1998 and entered the [[Lasman Economic Initiative]] customs union with Susia in 2000, named for the [[Lasman River]] that crosses both countries. Susian companies, including [[Nayotai]] and [[Soites Group]], operate in Confia, and [[Troli Ustaras]] recruits from Confian universities.
+
+#### Economic agreements
+
+The [[Lasman Economic Initiative]], signed in 1995 and in force from 2000, established a customs union between Susia and Confia. The [[Transcontinental Trade and Developmental Organization]] (TTDO), founded in 2002, facilitates trade and monetary exchange among a broader group including Susia, [[Kapiogg]], [[Astofayan]], [[Pierej]], [[Dripland]], [[Confia]], [[Kamino]], [[Balcheque]], and [[Macoxile]]. Susia is also a signatory to the [[Tekuri Ljas Accord]], which authorized multilateral intervention in [[Ditania]] in 1983.
+
+#### Ashgerad
+
+> _Main article: [[Ashgerad]]_
+
+The cold war with [[Ashgerad]], a technate located on the continent of [[Incria]], has been the defining foreign policy challenge since 2006. The two civilizations developed in isolation and share no cultural, historical, religious, or philosophical common ground. The [[War of Arempur]] (2012), a proxy conflict fought overseas, ended in a Susian defeat. The ongoing competition shapes Susian defense investment, intelligence operations, and the domestic framing of the [[The Great Transition|Great Transition]] itself, whose institutional reforms were partly justified as a response to Ashgeradn technological pressure.
+
+Contemporary Susian foreign policy toward Ashgerad operates through the [[ONDD]] alliance, covert support for democratic movements in states where Ashgeradn influence is growing, and conditions attached to trade and aid agreements. The [[Frumentarze]]'s [[Foreign Operations Division]] runs classified programs in this area.
+
+### Culture
+
+#### Religion
+
+> _Main article: [[Reformed Armotism]]_
+
+[[Reformed Armotism]] is the predominant religion of Susia, practiced by the majority of the population. It derives from [[Armotism]], the faith brought by the original settlers from [[Gaiyan]], and developed into its reformed variant through the theological revisions of the imperial and early republican periods. [[Nessel]] is an exception, where [[Doremojism]] is the majority practice.
+
+#### Philosophy and civic identity
+
+> _Main articles: [[Armadesh Versij]], [[Susian Exceptionalism]]_
+
+Susian civic identity is organized around three intellectual traditions that are taught in the national civics curriculum and present across political discourse. [[Armadesh Versij]]'s natural rights philosophy, developed in [[Architecture of Freedom]] and other works, holds that rights are discovered through reason and exist independent of government recognition. [[Suizo Soites]]' pragmatic liberalism treats institutions as tools to be evaluated by their practical outcomes. [[Yário Kolkov]]'s competitive governance theory, the most recent of the three, argues that healthy political systems require multiple competing governance forms to avoid calcification.
+
+These traditions do not always agree, and the disputes between their adherents form a recurring axis of Susian political and cultural debate. They share a common commitment to procedural values: how a society governs is treated as more fundamental than what it believes.
+
+[[Susian Exceptionalism]], the position that Susia's institutions represent a distinct historical achievement worth defending and spreading, draws on all three traditions and is present across the ideological spectrum. Its components range from the Armotist theological framing of the settlement as a divinely guided refuge to the Soitesian argument that the institutions simply work.
+
+#### Civic traditions
+
+> _Main articles: [[Sorzenko]], [[Hăjaven]], [[Cericeiro]]_
+
+The [[Sorzenko]] system, a network of civic shooting clubs with roots in the settlement era, remains active across Susia, particularly in rural areas and the eastern states. Sorzenkos provide firearms training, organize communal defense, and function as cross-class social institutions. [[Hăjaven]], a federal public holiday at the start of winter, originated in the Sorzenko militia tradition as a communal hunt followed by a shared meal. It is observed nationally, in urban areas through household dinners and in rural communities through the traditional organized hunt.
+
+The [[Cericeiro]] tradition, associated with the frontier horsemen who settled the eastern states, remains a strong marker of regional identity in [[Misocévia]], [[Sužielaj]], and [[Troli]], expressed through festivals, civic organizations, and popular culture.
+
+#### Sport
+
+> _Main article: [[Crolball]]_
+
+[[Crolball]] is the most popular sport in Susia and is played across much of the [[Dripstanian Continent]]. The game originated during the imperial era and is organized domestically through the [[Susian National Crolball League]]. It is played between two teams of eight players, with scoring determined by holding possession in the opposing team's dead zone through a thirty-second contested period known as the Breči, during which unrestricted physical contact is permitted.
+
+#### Language and demography
+
+Susian is spoken by approximately 94% of the population. The [[Tekur people]] constitute a minority concentrated primarily in [[New Celiolaj]], where they represent approximately 40% of the state population. The [[Tekur people|Tekur]] were granted citizenship in 1997 under the [[Reconciliation Act]].
+
+#### Cognitive enhancement
+
+> _Main article: [[Cognitive enhancement]]_
+
+[[Cognitive enhancement]], commercially available since the 2060s, has become a defining social division of the contemporary era. As of 2080, approximately 17% of the Susian population has undergone procedures. Enhanced individuals earn between 200% and 300% more than unenhanced individuals in comparable roles, producing economic stratification that cuts across existing class and regional lines. Adoption rates range from 98% within [[Troli Ustaras]]' FEZ to 16% in independent Susia. The long-term effects of enhancement on personality, mood, and sense of self remain contested in the scientific literature.
+
+#### Public holidays
+
+> _Main article: [[List of susian holidays]]_
+
+Federal public holidays include [[Hăjaven]], [[Versij Day]] (marking [[Armadesh Versij]]'s execution in 1844), [[Foundation Day]] (commemorating the [[Tahuni Accords]] of 1954), [[Liberation Day]] (marking the end of the [[Continental War]] in 1977), [[Reconciliation Day]] (marking [[Tekur people|Tekur]] citizenship in 1997), [[Saint Mantichev Day]], [[Veteran's Day]], and [[Democracy Day]].
+
+### See also
+
+- [[Dripstanian Empire]]
+- [[Tahuni Accords]]
+- [[The Great Transition]]
+- [[Susian Constitution]]
+- [[Susian Federal Government]]
+- [[ONDD]]
+- [[Lasman Economic Initiative]]
+- [[Yarnojte]]
+- [[Free Economic Zone]]
+- [[Secretariat of Efficiency]]
+- [[Frumentarze]]
+- [[Continental Divide]]
+- [[Continental War]]
+- [[Ashgerad]]
+- [[Armadesh Versij]]
+- [[Suizo Soites]]
+- [[Yário Kolkov]]
+- [[Reformed Armotism]]
+- [[Sorzenko]]
+- [[Cericeiro]]
+- [[Tekur people]]
+- [[Cognitive enhancement]]
+- [[Crolball]]
+- [[Susian language]]
+- [[Fortress complex]]
+- [[Democratic evangelism]]
+- [[Susian Exceptionalism]]
