@@ -1,73 +1,126 @@
 ---
+# ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name:
 lusitanized_name:
 aliases:
+  -
 summary:
-known_for:
-  - 
+
+# ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex:
-birth_year:
-birth_city:
-birth_state:
-birth_country:
-citizenship:
-nationality:
-death_year:
-death_city:
-death_state:
-death_country:
-death_cause:
 ethnicity:
 religion:
+citizenship:
+  -
+nationality:
+  -
 enhanced: false
+
+# ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
+birth:
+  year:
+  city:
+  state:
+  country:
+
+death:
+  year:
+  city:
+  state:
+  country:
+  cause:
+
+# ── FAMILY ──────────────────────────────────────────────────────────────────
+spouse:
+children_count:         # use um NÚMERO
+
+# ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
   - degree:
     institution:
     year:
+
+# ── CAREER ──────────────────────────────────────────────────────────────────
+occupation:
+  - title:
+    start_year:
+    end_year:
+
+military_service:
+  - allegiance:
+    branch: 
+    rank:
+    start_year:
+    end_year:
+    conflicts:
+      -
+    notes: null
+
+political_alignment:
+  -
+
+party:        # principal partido, ou partido atual
+parties:                                        # partidos que ela ja pertenceu
+  -
+
+organizations:
+  -
+
+# ── OFFICES ─────────────────────────────────────────────────────────────────
+offices:
+  - title: President of the Confian Nation
+    employer:
+    start_year: 1987
+    end_year: 1996
+    appointer:
+    parties:
+      -
+    notes:
+
+# ── WRITTEN WORKS ───────────────────────────────────────────────────────────
 written_works:
   - title:
-    publication_date:
+    publication_year:
     genre:
     notes:
-awards:
-  - title:
-    awarded:
-    posthumous:
-    granted_by:
-    country:
-    notes:
-occupation:
-  - 
-party:
-  - 
-political_alignment:
-  - 
-organization:
-  - 
-residence:
-family:
-spouse:
-children:
-offices:
-  - title:
-    employer
-    start:
-    end:
-    appointer:
-    party:
-    notes:
-total_sentence:
+
+
+# ── CRIMINAL RECORD ─────────────────────────────────────────────────────────
 criminal_charges:
   - charge:
     counts:
+    charged_year:
+    plea:
     verdict:
+    verdict_year:
     sentence:
     served:
-    in_absentia: false
+    in_absentia:
     notes:
+
+# ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
+known_for:
+  - item:
+    notes:
+
+awards:
+  - title:
+    awarded_year:
+    posthumous: false
+    granted_by:
+    country:
+    notes:
+
 era:
-  - 
+  -
+
+# ── META ────────────────────────────────────────────────────────────────────
 tags:
   -
+
+meta:
+  stub: true
+  verified: false
+  image: null
 ---
