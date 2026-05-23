@@ -17,7 +17,6 @@ tags:
   - culture
   - philosophy
 ---
-
 A **Free Economic Zone** (FEZ) is a city-scale territory within [[Susia]] leased by the federal government to a [[Yarnojte]], a corporation granted strategic status by the [[Secretariat of Efficiency]], which governs the zone in place of a conventional municipal or state authority. FEZs were created by the [[Susian Constitution|constitution of 2038]] as part of the [[The Great Transition|Great Transition]] and are the structural core of the [[Susia|Techno-Federative Republic]]'s distinctive governing model. Within their boundaries, the governing Yarnojte provides housing, healthcare, education, infrastructure, and internal law enforcement. Residents retain full federal constitutional protections. Participation is voluntary: no Susian is required to live or work in a FEZ.
 
 As of 2080, approximately 0.25% of the Susian population lives inside a FEZ. [[Yarnojte|Yarnojtes]] and their subsidiaries employ roughly 3% of the total Susian workforce, the majority of whom live and work in independent Susia rather than inside the zones themselves.
