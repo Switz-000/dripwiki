@@ -18,7 +18,7 @@ birth:
   year: 1951
   city: "[[Yatovarlaj]]"
   state: "[[Misocévia]]"
-  country: "[[Susia]]"
+  country: "[[Dripstanian Empire]]"
 death:
   year: 2042
   city: "[[Neoveli]]"
