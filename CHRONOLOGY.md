@@ -85,7 +85,7 @@
 
 ## 1909
 - **Birth** — [[Lorelaj Paulowić]] born in [[Gražža Erjogala]], [[Koštanože]]
-- **Founded** — [[Nayotai]] in [[Duolij]] (Susia) (Election) (Company)
+- **Founded** — [[Nayotai]] in [[Duolij]]
 
 ## 1912
 - **Birth** — [[Suizo Soites]] born in [[Sužielaj City]], [[Sužielaj]]
