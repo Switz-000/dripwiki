@@ -191,7 +191,13 @@ meta:
 “When the masses yearn for the impossible, only liars will quench their thirst.”  
 ― Yário Kolkov, [[Food for the Fools]] (1994)
 
+"Every tyrant in Susian history had the decency to die and stay dead. Versij died and became one."
+― Yário Kolkov, [[Food for the Fools]] (1994)
+
 “A man who cries for his leader has forgotten what tears are for.”  
+― Yário Kolkov, [[Food for the Fools]] (1994)
+
+"Everyone wants a cathedral. Nobody wants to admit a cathedral is just a very tall way of telling poor people to kneel."
 ― Yário Kolkov, [[Food for the Fools]] (1994)
 
 “We, the most opulent society in human existence, will be the first destroyed not by scarcity, but by its only true rival: infinite desires and the limited supply of lies to satisfy them”  
@@ -211,6 +217,7 @@ meta:
 
 “Do not ask what your system believes. Ask what it does when it is wrong.”  
 ― Yário Kolkov, [[Evolution of Governance]] (1997)
+
 
 "Syndicalists dream of perfect equality. Capitalists dream of perfect market. Nationalists dream of perfect unity. All fools, fruits from the same tree." 
 ― Yário Kolkov, [[Evolution of Governance]] (1997)
