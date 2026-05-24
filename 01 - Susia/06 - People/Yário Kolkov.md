@@ -200,6 +200,9 @@ meta:
 "You cannot bribe a man who wants nothing. This is why every government's first project is to teach you to want."
 ― Yário Kolkov, [[Food for the Fools]] (1994)
 
+"The first to go leave with flags, on the marching tunes of the old. The last to come arrive on cargo planes, in bodybags. Patriotism is cheering the first and looking away from the second."
+― Yário Kolkov, [[Food for the Fools]] (1994)
+
 “The perfect democracy would be the death of democracy, for perfection cannot adapt. Our goal is not perfect system but perfectly adaptive system.”  
 ― Yário Kolkov, [[Evolution of Governance]] (1997)
 
