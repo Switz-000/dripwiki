@@ -1,103 +1,178 @@
 ---
+# ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Yaroch Kolkov
 lusitanized_name: Yário Kolkov
 aliases:
   - Kolkov
 summary: Susian philosopher and engineer born in New Duloc, Postia, whose theory of democracy as a living adaptive system became the foundation of the Great Transition and the techno-federative constitution. He worked at Nayotai and Troli Ustaras before beginning his writing career, and spent his later years warning against the institutional capture of ideas.
-known_for:
-  - "[[Kolkovianism]]"
-  - "[[Letters to a Dead Republic]]"
-  - "[[Evolution of Governance]]"
-  - "[[The Great Transition]]"
+
+# ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: Male
-birth_year: 1960
-birth_city: "[[New Duloc]]"
-birth_state: "[[Postia]]"
-birth_country: "[[Susia]]"
+ethnicity: East Gaiyanese
+religion: 
 citizenship:
   - "[[Susia|Susian]]"
 nationality:
   - "[[Susia|Susian]]"
-death_year: 2011
-death_city: "[[New Duloc]]"
-death_state: "[[Postia]]"
-death_country: "[[Susia]]"
-death_cause: Lung cancer
-ethnicity: East Gaiyanese
-religion:
 enhanced: false
+
+# ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
+birth:
+  year: 1960
+  city: "[[New Duloc]]"
+  state: "[[Postia]]"
+  country: "[[Susia]]"
+
+death:
+  year: 2011
+  city: "[[New Duloc]]"
+  state: "[[Postia]]"
+  country: "[[Susia]]"
+  cause: Lung cancer
+
+# ── FAMILY ──────────────────────────────────────────────────────────────────
+spouse: 
+children_count:         # use um NÚMERO
+
+# ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
   - degree: Engineering
     institution: "[[University of New Duloc]]"
-    year:
+    year: 
   - degree: Philosophy
     institution: "[[University of New Duloc]]"
-    year:
+    year: 
+  - 
+
+# ── CAREER ──────────────────────────────────────────────────────────────────
+occupation:
+  - title: Philosopher
+    start_year:
+    end_year:
+  - title: Engineer
+    start_year:
+    end_year:
+  - title: Academic
+    start_year:
+    end_year:
+
+military_service:
+  - allegiance:
+    branch: 
+    rank:
+    start_year:
+    end_year:
+    conflicts:
+      -
+    notes: null
+
+political_alignment:
+  -
+
+party:         # principal partido, ou partido atual
+parties:                                        # partidos que ela ja pertenceu
+  -
+
+organizations:
+  -
+
+# ── OFFICES ─────────────────────────────────────────────────────────────────
+offices:
+  - title: Engineer
+    employer: Troli Ustaras
+    start_year: 1987
+    end_year: 1989
+    appointer: 
+    parties:
+      -
+    notes: Left in disgust at the company's culture.
+  - title: Engineer
+    employer: Nayotai
+    start_year: 1982
+    end_year: 1987
+    appointer: 
+    parties:
+      -
+    notes: 
+
+# ── WRITTEN WORKS ───────────────────────────────────────────────────────────
 written_works:
   - title: "[[Letters to a Dead Republic]]"
-    publication_date: 1990
+    publication_year: 1990
     genre: Philosophy
     notes: First major work. Drew on his experiences at Nayotai and Troli Ustaras. Established his critique of corporate culture as a form of ideological capture.
   - title: "[[Food for the Fools]]"
-    publication_date: 1994
+    publication_year: 1994
     genre: Political philosophy
     notes: Essay on political demagogues, attacking not the demagogues but the audience who feeds from them and the institutions that allow them. Considered controversial at its time.
   - title: "[[Evolution of Governance]]"
-    publication_date: 1997
+    publication_year: 1997
     genre: Political philosophy
     notes: Central statement of Kolkovianism. Argues democracy is an evolutionary organism rather than a fixed structure. Became assigned reading at multiple universities and the text most cited by the Modernist Alliance.
   - title: "[[The Tyranny of Order]]"
-    publication_date: 2006
+    publication_year: 2006
     genre: Political philosophy
     notes: Critique of rigid institutional systems. Warns against the transformation of living philosophy into dead doctrine.
   - title: "[[Democracy as an Organism]]"
-    publication_date: 2008
+    publication_year: 2008
     genre: Political philosophy
     notes: Final completed book before his death.
   - title: "[[Dead Man's Wit]]"
-    publication_date: 2014
+    publication_year: 2014
     genre: Philosophy
     notes: Kolkov's unfinished manuscript, kept private through the final years of his life and never submitted for publication. Recovered from the University of New Kentu archives by a former student in 2014 and published online. More personal and less systematic than his other work.
-awards:
-occupation:
-  - Philosopher
-  - Engineer
-  - Academic
-party:
-political_alignment:
-organization:
-residence: "[[New Duloc]]"
-family:
-spouse:
-children:
-offices:
-  - title: Engineer
-    employer: [[Troli Ustaras]]
-    start: 1987
-    end: 1989
-    appointer:
-    party:
-    notes: Left in disgust at the company's culture.
-  - title: Engineer
-    employer: [[Nayotai]]
-    start: 1982
-    end: 1987
-    appointer:
-    party:
-    notes:
-total_sentence:
+
+
+# ── CRIMINAL RECORD ─────────────────────────────────────────────────────────
 criminal_charges:
+  - charge:
+    counts:
+    charged_year:
+    plea:
+    verdict:
+    verdict_year:
+    sentence:
+    served:
+    in_absentia:
+    notes:
+
+# ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
+known_for:
+  - item: "[[Kolkovianism]]"
+    notes:
+  - item: "[[Letters to a Dead Republic]]"
+    notes:
+  - item: "[[Evolution of Governance]]"
+    notes:
+  - item: "[[The Great Transition]]"
+    notes:
+
+awards:
+  - title:
+    awarded_year:
+    posthumous: false
+    granted_by:
+    country:
+    notes:
+
 era:
   - post-war
   - new-age
   - great-transition
+
+# ── META ────────────────────────────────────────────────────────────────────
 tags:
   - philosophy
   - politics
   - labor
   - corporate
   - history
+
+meta:
+  stub: true
+  verified: false
+  image: null
 ---
 ## Quotes
 

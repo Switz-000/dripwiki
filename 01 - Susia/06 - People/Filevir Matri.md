@@ -1,95 +1,177 @@
 ---
+# ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
-full_name: Filevir Matri
+native_name: Filevir Matri
+lusitanized_name: 
 aliases:
   - Matri
 summary: Susian lawyer and politician; fifth President of Susia (1984–1986); also served as Governor of Postia, Senator, Secretary of Justice, and Vice President under Čalsor Bonár; known for the Ditanian Intervention, the Confian reaprochment and for his lobster table style of politics.
+
+# ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: male
-birth_year: 1924
-birth_city: "[[Duolij]]"
-birth_state: "[[Postia]]"
-birth_country: "[[Dripstanian Empire]]"
+ethnicity: West Gaiyanese
+religion: Reformed Armotism
 citizenship:
   - "[[Dripstanian Empire|Dripstanian]]"
   - "[[Susia|Susian]]"
 nationality:
   - "[[Susia|Susian]]"
   - "[[Dripstanian Empire|Dripstanian]]"
-death_year: 2002
-death_city: "[[Duolij]]"
-death_state: "[[Postia]]"
-death_country: "[[Susia]]"
-death_cause: Natural causes
-ethnicity: West Gaiyanese
-religion: Reformed Armotism
+enhanced: false
+
+# ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
+birth:
+  year: 1924
+  city: "[[Duolij]]"
+  state: "[[Postia]]"
+  country: "[[Dripstanian Empire]]"
+
+death:
+  year: 2002
+  city: "[[Duolij]]"
+  state: "[[Postia]]"
+  country: "[[Susia]]"
+  cause: Natural causes
+
+# ── FAMILY ──────────────────────────────────────────────────────────────────
+spouse: "[[Yavna Matri]]"
+children_count: Two (unnamed)         # use um NÚMERO
+
+# ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
   - degree: Bachelor in Law
     institution: "[[University of Duolij]]"
     year: 1948
+  - 
+
+# ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
-  - Politician
-  - Lawyer
-party:
+  - title: Politician
+    start_year:
+    end_year:
+  - title: Lawyer
+    start_year:
+    end_year:
+
+military_service:
+  - allegiance:
+    branch: 
+    rank:
+    start_year:
+    end_year:
+    conflicts:
+      -
+    notes: null
+
+political_alignment:
+  -
+
+party: "[[Susian Democratic Union]]"        # principal partido, ou partido atual
+parties:                                        # partidos que ela ja pertenceu
   - "[[Susian Democratic Union]]"
   - "[[White Stork Party]]"
-political_alignment:
-organization:
+
+organizations:
   - "[[Susian Democratic Union]]"
-known_for:
-historical_period:
-  - republican-era
-  - continental-divide
-  - post-war
-residence:
-written_works:
-spouse: "[[Yavna Matri]]"
-children: Two (unnamed)
-criminal_charges:
-total_sentence:
-enhanced: false
+
+# ── OFFICES ─────────────────────────────────────────────────────────────────
 offices:
   - title: Governor of Postia
     employer: "[[Government of Postia]]"
-    start: 1954
-    end: 1962
-    appointer:
-    party: "[[Susian Democratic Union]]"
-    notes:
+    start_year: 1954
+    end_year: 1962
+    appointer: 
+    parties:
+      - "[[Susian Democratic Union]]"
+    notes: 
   - title: Senator for Postia
     employer: "[[Susian Senate]]"
-    start: 1962
-    end: 1966
-    appointer:
-    party: "[[Susian Democratic Union]]"
-    notes:
+    start_year: 1962
+    end_year: 1966
+    appointer: 
+    parties:
+      - "[[Susian Democratic Union]]"
+    notes: 
   - title: Secretary of Justice
     employer: "[[Susian Federal Government]]"
-    start: 1966
-    end: 1970
+    start_year: 1966
+    end_year: 1970
     appointer: "[[Serčev Fimžer]]"
-    party: "[[Susian Democratic Union]]"
-    notes:
+    parties:
+      - "[[Susian Democratic Union]]"
+    notes: 
   - title: Senator for Postia
     employer: "[[Susian Senate]]"
-    start: 1970
-    end: 1974
-    appointer:
-    party: "[[Susian Democratic Union]]"
-    notes:
+    start_year: 1970
+    end_year: 1974
+    appointer: 
+    parties:
+      - "[[Susian Democratic Union]]"
+    notes: 
   - title: Vice President of Susia
     employer: "[[Susian Federal Government]]"
-    start: 1974
-    end: 1983
-    appointer:
-    party: "[[Susian Democratic Union]]"
-    notes:
+    start_year: 1974
+    end_year: 1983
+    appointer: 
+    parties:
+      - "[[Susian Democratic Union]]"
+    notes: 
   - title: President of Susia
     employer: "[[Susian Federal Government]]"
-    start: 1983
-    end: 1986
-    appointer:
-    party: "[[Susian Democratic Union]]"
+    start_year: 1983
+    end_year: 1986
+    appointer: 
+    parties:
+      - "[[Susian Democratic Union]]"
     notes: Became president after Boňár's death
+
+# ── WRITTEN WORKS ───────────────────────────────────────────────────────────
+written_works:
+  - title:
+    publication_year:
+    genre:
+    notes:
+
+
+# ── CRIMINAL RECORD ─────────────────────────────────────────────────────────
+criminal_charges:
+  - charge:
+    counts:
+    charged_year:
+    plea:
+    verdict:
+    verdict_year:
+    sentence:
+    served:
+    in_absentia:
+    notes:
+
+# ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
+known_for:
+  - item:
+    notes:
+
+awards:
+  - title:
+    awarded_year:
+    posthumous: false
+    granted_by:
+    country:
+    notes:
+
+era:
+  - republican-era
+  - continental-divide
+  - post-war
+
+# ── META ────────────────────────────────────────────────────────────────────
+tags:
+  -
+
+meta:
+  stub: true
+  verified: false
+  image: null
 ---
 
 **Filevir Matri** (1924–2002) was a Susian lawyer and politician who served as the fifth President of [[Susia]] from 1983 to 1986. Before the presidency, he held office as Governor of [[Postia]], Senator for Postia twice, [[Secretary of Justice]] under [[Serčev Fimžer]], and Vice President under [[Čalsor Boňár]]. He lost the 1986 election to [[Filňar Čantij]] and returned to private legal practice in [[Duolij]], where he remained until his death in 2002.

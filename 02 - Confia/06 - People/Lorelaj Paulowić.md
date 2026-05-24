@@ -1,81 +1,179 @@
 ---
+# ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Lorelaj Paulowić Roždawoenni
-lusitanized_name:
+lusitanized_name: 
 aliases:
   - Paulović
+summary: 
+
+# ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: male
-birth_year: 1909
-birth_city: "[[Gražža Erjogala]]"
-birth_state: "[[Koštanože]]"
-birth_country: "[[Dripstanian Empire]]"
+ethnicity: "[[East Gaiyanese]]"
+religion: "[[Armotist Church of the Confian Synod]]"
 citizenship:
   - "[[Dripstanian Empire|Dripstanian]]"
   - "[[Confia|Confian]]"
 nationality:
   - "[[Dripstanian Empire|Dripstanian]]"
   - "[[Confia|Confian]]"
-death_year: Disappeared 1977
-death_city: Whereabouts unknown
-death_state: Whereabouts unknown
-death_country: Whereabouts unknown
-death_cause: Disappeared
-ethnicity: "[[East Gaiyanese]]"
-religion: "[[Armotist Church of the Confian Synod]]"
+enhanced: false
+
+# ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
+birth:
+  year: 1909
+  city: "[[Gražža Erjogala]]"
+  state: "[[Koštanože]]"
+  country: "[[Dripstanian Empire]]"
+
+death:
+  year: Disappeared 1977
+  city: Whereabouts unknown
+  state: Whereabouts unknown
+  country: Whereabouts unknown
+  cause: Disappeared
+
+# ── FAMILY ──────────────────────────────────────────────────────────────────
+spouse: 
+children_count:         # use um NÚMERO
+
+# ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree:
-    institution:
-    year:
-occupation:
+  - degree: 
+    institution: 
+    year: 
   - 
-party: "[[Union of Confian Syndicalists]]"
+
+# ── CAREER ──────────────────────────────────────────────────────────────────
+occupation:
+  - title:
+    start_year:
+    end_year:
+
+military_service:
+  - allegiance:
+    branch: 
+    rank:
+    start_year:
+    end_year:
+    conflicts:
+      -
+    notes: null
+
 political_alignment:
   - "[[Syndicalism#Orthodox Syndicalism|Orthodox Syndicalism]]"
   - "[[Syndicalism#Paulowić Model|Paulowić Model]]"
-organization:
-  - 
-known_for:
-  - Dictator of Confia during the Continental Divide
-historical_period:
-  - late-imperial
-  - continental-divide
-spouse:
-children:
-criminal_charges:
-  - Treason (tried in absentia)
-  - Conspiracy to commit murder (29441 counts, tried in absentia)
-  - Perversion of the office of Prime Minister (tried in absentia)
-  - Perversion of the office of President of the Confian Nation (tried in absentia)
-enhanced: false
+
+party: "[[Union of Confian Syndicalists]]"        # principal partido, ou partido atual
+parties:                                        # partidos que ela ja pertenceu
+  - "[[Union of Confian Syndicalists]]"
+
+organizations:
+  -
+
+# ── OFFICES ─────────────────────────────────────────────────────────────────
 offices:
   - title: Leader of the Confian Nation
     employer: "[[Confian National Government]]"
-    start: 1958
-    end: 1977
+    start_year: 1958
+    end_year: 1977
     appointer: "[[Enabling Amendment]]"
-    party: "[[Union of Confian Syndicalists]]"
-    notes:
+    parties:
+      - "[[Union of Confian Syndicalists]]"
+    notes: 
   - title: President of the Confian Nation
     employer: "[[Confian National Government]]"
-    start: 1956
-    end: 1958
+    start_year: 1956
+    end_year: 1958
     appointer: "[[National Assembly of Confian Syndicates]]"
-    party: "[[Union of Confian Syndicalists]]"
-    notes:
+    parties:
+      - "[[Union of Confian Syndicalists]]"
+    notes: 
   - title: First Secretary of the Union of Confian Syndicalists
     employer: "[[Union of Confian Syndicalists]]"
-    start: 1955
-    end: 1977
+    start_year: 1955
+    end_year: 1977
     appointer: "[[Union of Confian Syndicalists]]"
-    party: "[[Union of Confian Syndicalists]]"
+    parties:
+      - "[[Union of Confian Syndicalists]]"
+    notes: 
+
+# ── WRITTEN WORKS ───────────────────────────────────────────────────────────
+written_works:
+  - title:
+    publication_year:
+    genre:
     notes:
+
+
+# ── CRIMINAL RECORD ─────────────────────────────────────────────────────────
+criminal_charges:
+  - charge: Treason (tried in absentia)
+    counts:
+    charged_year:
+    plea:
+    verdict:
+    verdict_year:
+    sentence:
+    served:
+    in_absentia: false
+    notes:
+  - charge: Conspiracy to commit murder (29441 counts, tried in absentia)
+    counts:
+    charged_year:
+    plea:
+    verdict:
+    verdict_year:
+    sentence:
+    served:
+    in_absentia: false
+    notes:
+  - charge: Perversion of the office of Prime Minister (tried in absentia)
+    counts:
+    charged_year:
+    plea:
+    verdict:
+    verdict_year:
+    sentence:
+    served:
+    in_absentia: false
+    notes:
+  - charge: Perversion of the office of President of the Confian Nation (tried in absentia)
+    counts:
+    charged_year:
+    plea:
+    verdict:
+    verdict_year:
+    sentence:
+    served:
+    in_absentia: false
+    notes:
+
+# ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
+known_for:
+  - item: Dictator of Confia during the Continental Divide
+    notes:
+
 awards:
   - title:
-    awarded:
-    posthumous:
+    awarded_year:
+    posthumous: false
     granted_by:
     country:
     notes:
+
+era:
+  - late-imperial
+  - continental-divide
+
+# ── META ────────────────────────────────────────────────────────────────────
+tags:
+  -
+
+meta:
+  stub: true
+  verified: false
+  image: null
 ---
 
  **Lorelaj Paulowić Roždawoenni** (Racpalian Alphabet: Лорелай Пауловіч Рождавоенни), is a Confian disappeared revolutionary politician that served as the 1st Prime Minister and the only Leader of the Nation of the [[Confia|United Syndicates of Confia]]. He ruled Confia as a totalitarian dictatorship from 1956 until 1977, when his government was deposed by the [[Bayonet Revolution]].

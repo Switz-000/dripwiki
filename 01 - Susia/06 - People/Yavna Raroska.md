@@ -1,80 +1,135 @@
 ---
+# ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
-native_name:
+native_name: 
 lusitanized_name: "[[Yavna Raroska]]"
 aliases:
-summary:
-known_for:
-  - "[[Kolkov Interview 2009]]"
+  -
+summary: 
+
+# ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: female
-birth_year: 1968
-birth_city: "[[Arkaime]]"
-birth_state: "[[Dripia]]"
-birth_country: "[[Susia]]"
+ethnicity: West Gaiyanese
+religion: "[[Reformed Armotism]]"
 citizenship:
   - "[[Susia|Susian]]"
 nationality:
   - "[[Susia|Susian]]"
-death_year: 2037
-death_city: "[[Neoveli]]"
-death_state: "[[Dripia]]"
-death_country: "[[Susia]]"
-death_cause: Natural causes
-ethnicity: West Gaiyanese
-religion: "[[Reformed Armotism]]"
 enhanced: false
+
+# ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
+birth:
+  year: 1968
+  city: "[[Arkaime]]"
+  state: "[[Dripia]]"
+  country: "[[Susia]]"
+
+death:
+  year: 2037
+  city: "[[Neoveli]]"
+  state: "[[Dripia]]"
+  country: "[[Susia]]"
+  cause: Natural causes
+
+# ── FAMILY ──────────────────────────────────────────────────────────────────
+spouse: 
+children_count:         # use um NÚMERO
+
+# ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
   - degree: Political Science
     institution: "[[University of New Kentu]]"
     year: 1992
-written_works:
-  - title:
-    publication_date:
-    genre:
-    notes:
-awards:
-  - title:
-    awarded:
-    posthumous:
-    granted_by:
-    country:
-    notes:
+  - 
+
+# ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
-  - Academic
-  - Researcher
-party:
-  - 
+  - title: Academic
+    start_year:
+    end_year:
+  - title: Researcher
+    start_year:
+    end_year:
+
+military_service:
+  - allegiance:
+    branch: 
+    rank:
+    start_year:
+    end_year:
+    conflicts:
+      -
+    notes: null
+
 political_alignment:
-  - 
-organization:
-  - 
-residence:
-family:
-spouse:
-children:
+  -
+
+party:         # principal partido, ou partido atual
+parties:                                        # partidos que ela ja pertenceu
+  -
+
+organizations:
+  -
+
+# ── OFFICES ─────────────────────────────────────────────────────────────────
 offices:
   - title:
-    start:
-    end:
+    employer:
+    start_year:
+    end_year:
     appointer:
-    party:
+    parties:
+      -
     notes:
-total_sentence:
+
+# ── WRITTEN WORKS ───────────────────────────────────────────────────────────
+written_works:
+  - title:
+    publication_year:
+    genre:
+    notes:
+
+
+# ── CRIMINAL RECORD ─────────────────────────────────────────────────────────
 criminal_charges:
   - charge:
     counts:
+    charged_year:
+    plea:
     verdict:
+    verdict_year:
     sentence:
     served:
-    in_absentia: false
+    in_absentia:
     notes:
+
+# ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
+known_for:
+  - item: "[[Kolkov Interview 2009]]"
+    notes:
+
+awards:
+  - title:
+    awarded_year:
+    posthumous: false
+    granted_by:
+    country:
+    notes:
+
 era:
   - post-war
   - new-age
   - global-cold-war
+
+# ── META ────────────────────────────────────────────────────────────────────
 tags:
   - philosophy
   - politics
+
+meta:
+  stub: true
+  verified: false
+  image: null
 ---
 
 

@@ -1,85 +1,141 @@
 ---
+# ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Kaichet Satratonie
 lusitanized_name: Kaichet Satratonie
 aliases:
-summary:
-known_for:
-  - "[[Liberal Revolts]]"
-  - Treason
+  -
+summary: 
+
+# ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: male
-birth_year: 1809
-birth_city: "[[Lore-Kurji]]"
-birth_state: "[[Misocévia]]"
-birth_country: "[[Dripstanian Empire]]"
+ethnicity: West Gaiyanese
+religion: "[[Reformed Armotism]]"
 citizenship:
   - "[[Dripstanian Empire|Dripstanian]]"
 nationality:
   - "[[Dripstanian Empire|Dripstanian]]"
   - "[[Susia|Susian]]"
-death_year: 1872
-death_city: Unknown
-death_state: Unknown
-death_country: Unknown
-death_cause: Unknown
-ethnicity: West Gaiyanese
-religion: "[[Reformed Armotism]]"
 enhanced: false
+
+# ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
+birth:
+  year: 1809
+  city: "[[Lore-Kurji]]"
+  state: "[[Misocévia]]"
+  country: "[[Dripstanian Empire]]"
+
+death:
+  year: 1872
+  city: Unknown
+  state: Unknown
+  country: Unknown
+  cause: Unknown
+
+# ── FAMILY ──────────────────────────────────────────────────────────────────
+spouse: 
+children_count: None         # use um NÚMERO
+
+# ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree:
+  - degree: 
     institution: "[[Military Academy of Niqueparj]]"
-    year:
-written_works:
-  - title:
-    publication_date:
-    genre:
-    notes:
-awards:
-  - title:
-    awarded:
-    posthumous:
-    granted_by:
-    country:
-    notes:
+    year: 
+  - 
+
+# ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
-  - Military Officer
-  - Politician
-party:
-  - 
+  - title: Military Officer
+    start_year:
+    end_year:
+  - title: Politician
+    start_year:
+    end_year:
+
+military_service:
+  - allegiance:
+    branch: 
+    rank:
+    start_year:
+    end_year:
+    conflicts:
+      -
+    notes: null
+
 political_alignment:
-  - 
-organization:
+  -
+
+party:         # principal partido, ou partido atual
+parties:                                        # partidos que ela ja pertenceu
+  -
+
+organizations:
   - "[[Federated Provinces of Galil]]"
-residence:
-family:
-spouse:
-children: None
+
+# ── OFFICES ─────────────────────────────────────────────────────────────────
 offices:
   - title:
-    start:
-    end:
+    employer:
+    start_year:
+    end_year:
     appointer:
-    party:
+    parties:
+      -
     notes:
-total_sentence:
+
+# ── WRITTEN WORKS ───────────────────────────────────────────────────────────
+written_works:
+  - title:
+    publication_year:
+    genre:
+    notes:
+
+
+# ── CRIMINAL RECORD ─────────────────────────────────────────────────────────
 criminal_charges:
   - charge:
     counts:
+    charged_year:
+    plea:
     verdict:
+    verdict_year:
     sentence:
     served:
-    in_absentia: false
+    in_absentia:
     notes:
+
+# ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
+known_for:
+  - item: "[[Liberal Revolts]]"
+    notes:
+  - item: Treason
+    notes:
+
+awards:
+  - title:
+    awarded_year:
+    posthumous: false
+    granted_by:
+    country:
+    notes:
+
 era:
   - late-imperial
   - imperial-era
   - high-imperial
   - liberal-revolts
+
+# ── META ────────────────────────────────────────────────────────────────────
 tags:
   - culture
   - history
   - military
   - politics
+
+meta:
+  stub: true
+  verified: false
+  image: null
 ---
 
 

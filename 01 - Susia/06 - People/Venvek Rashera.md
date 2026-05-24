@@ -1,81 +1,135 @@
 ---
+# ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Venvek Rashera
-lusitanized_name:
+lusitanized_name: 
 aliases:
-summary:
-known_for:
-  - "[[Yerčemark]]"
+  -
+summary: 
+
+# ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: male
-birth_year: 2002
-birth_city: "[[Damčev]]"
-birth_state: "[[Sužielaj]]"
-birth_country: "[[Susia]]"
+ethnicity: West Gaiyanese
+religion: Atheist
 citizenship:
   - "[[Susia|Susian]]"
 nationality:
   - "[[Susia|Susian]]"
-death_year: 2063
-death_city: "[[Velúria]]"
-death_state: "[[Orlítia]]"
-death_country: "[[Susia]]"
-death_cause: Drug overdose
-ethnicity: West Gaiyanese
-religion: Atheist
 enhanced: false
+
+# ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
+birth:
+  year: 2002
+  city: "[[Damčev]]"
+  state: "[[Sužielaj]]"
+  country: "[[Susia]]"
+
+death:
+  year: 2063
+  city: "[[Velúria]]"
+  state: "[[Orlítia]]"
+  country: "[[Susia]]"
+  cause: Drug overdose
+
+# ── FAMILY ──────────────────────────────────────────────────────────────────
+spouse: 
+children_count: 1         # use um NÚMERO
+
+# ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree:
-    institution:
-    year:
-written_works:
-  - title:
-    publication_date:
-    genre:
-    notes:
-awards:
-  - title:
-    awarded:
-    posthumous:
-    granted_by:
-    country:
-    notes:
+  - degree: 
+    institution: 
+    year: 
+  - 
+
+# ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
-  - Entrepreneur
-  - Executive
-party:
-  - 
+  - title: Entrepreneur
+    start_year:
+    end_year:
+  - title: Executive
+    start_year:
+    end_year:
+
+military_service:
+  - allegiance:
+    branch: 
+    rank:
+    start_year:
+    end_year:
+    conflicts:
+      -
+    notes: null
+
 political_alignment:
-  - 
-organization:
-  - 
-residence:
-family:
-spouse:
-children:
-  - Circa of 112 children
+  -
+
+party:         # principal partido, ou partido atual
+parties:                                        # partidos que ela ja pertenceu
+  -
+
+organizations:
+  -
+
+# ── OFFICES ─────────────────────────────────────────────────────────────────
 offices:
   - title:
-    start:
-    end:
+    employer:
+    start_year:
+    end_year:
     appointer:
-    party:
+    parties:
+      -
     notes:
-total_sentence:
+
+# ── WRITTEN WORKS ───────────────────────────────────────────────────────────
+written_works:
+  - title:
+    publication_year:
+    genre:
+    notes:
+
+
+# ── CRIMINAL RECORD ─────────────────────────────────────────────────────────
 criminal_charges:
   - charge:
     counts:
+    charged_year:
+    plea:
     verdict:
+    verdict_year:
     sentence:
     served:
-    in_absentia: false
+    in_absentia:
     notes:
+
+# ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
+known_for:
+  - item: "[[Yerčemark]]"
+    notes:
+
+awards:
+  - title:
+    awarded_year:
+    posthumous: false
+    granted_by:
+    country:
+    notes:
+
 era:
   - techno-federative-era
   - new-age
   - republican-era
+
+# ── META ────────────────────────────────────────────────────────────────────
 tags:
   - corporate
   - politics
+
+meta:
+  stub: true
+  verified: false
+  image: null
 ---
 **Venvek Rashera** was an technology entrepreneur and founder of [[Yerčemark|Yerčemark Corporation]] and co-founder of [[Verene Biosciences]].
 
