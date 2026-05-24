@@ -127,3 +127,11 @@ meta:
   verified: false
   image:
 ---
+**Čalsor Boňár** (1912–1983) was a Susian general and politician who served as the fourth President of [[Susia]] from 1974 to 1983. He led Susia through the [[Continental War]] and the post-war reconstruction, founded the state energy company [[Atompron]], and expanded the powers of the federal government. His presidency realigned the Susian party system and reshaped the [[Susian Democratic Union]] around his political program. He died in office in 1983.
+### Early Life
+
+Čalsor Boňár was born in 1912 in [[St. Yepodij]], [[Troli]], then part of the [[Dripstanian Empire]]. The Boňár family were large landowners in Troli, established since the mid-imperial period.
+
+Boňár served in the [[War of Confian Secession]] (1927–1950), a prolonged guerrilla conflict fought to hold the Dripstanian Empire against the secessionist [[Free Confian Republic]]. Many Susians were conscripted into the war, and its length and conduct contributed to Susian disaffection with imperial rule. Boňár was decorated for his service. A practice common among soldiers during the war held that mixing liquor into water of uncertain quality would make it safe to drink; Boňár's drinking, which continued throughout his life, is generally traced to this period.
+
+During the negotiations that produced the [[Tahuni Accords]] and the founding of [[Susia]], the [[Boňár family]] was among the landed families that ceded large portions of their holdings and pledged their support to the new republic in exchange for concessions. Among the concessions granted to the Boňár family were positions in the Susian military. Boňár entered the army through this arrangement.
