@@ -197,6 +197,12 @@ meta:
 “We, the most opulent society in human existence, will be the first destroyed not by scarcity, but by its only true rival: infinite desires and the limited supply of lies to satisfy them”  
 ― Yário Kolkov, [[Food for the Fools]] (1994)
 
+"You cannot bribe a man who wants nothing. This is why every government's first project is to teach you to want."
+― Yário Kolkov, [[Food for the Fools]] (1994)
+
+"It is terrible to remember how few politicians are hanged"
+― Yário Kolkov, [[Food for the Fools]] (1994)
+
 “The perfect democracy would be the death of democracy, for perfection cannot adapt. Our goal is not perfect system but perfectly adaptive system.”  
 ― Yário Kolkov, [[Evolution of Governance]] (1997)
 
