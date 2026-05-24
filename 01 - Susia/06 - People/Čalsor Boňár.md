@@ -131,14 +131,19 @@ awards:
     notes:
 
 era:
+  - republican-era
   - continental-divide
   - continental-war
   - post-war
-  - republican-era
 
 # ── META ────────────────────────────────────────────────────────────────────
 tags:
-  -
+  - politics
+  - military
+  - intelligence
+  - diplomacy
+  - energy
+
 
 meta:
   stub: true
@@ -190,3 +195,57 @@ Boňár's presidency realigned the Susian party system. The [[Continental War]] 
 _Main article: [[Susian party system]]_
 
 %% TODO: The realignment from the first to the second Susian party system is a fact about the party system as a whole and requires its own article. Boňár's role is its cause; the full account belongs elsewhere. %%
+
+### Personal Life
+
+Boňár married and had three children.
+
+%% TODO: Name of spouse and details of family undefined in canon. %%
+
+In his youth Boňár played [[Crolball|crolball]] at a competitive level and was offered a place with the [[Niqueparj Badgers]], which he declined.
+
+Boňár was a heavy drinker and smoker throughout his life. He drank prodigiously and smoked [[Kamino|Kaminoan]] cigarettes in large quantities, habits that became part of his public image. His drinking dated to his service in the [[War of Confian Secession]], where a common belief among soldiers held that adding liquor to unclean water would make it safe to drink.
+
+His relationship with [[Filevir Matri]], his vice president across all three terms, was initially distant but became close over the course of their years in office. The two men were associated in the public mind, and were mocked by the press and by political opponents as "the general and his little sommelier."
+
+%% TODO: Spouse name, children's names, and further family detail undefined in canon. %%
+
+### Legacy
+
+Boňár was the longest-serving president in Susian history and the central political figure of the post-war period. The [[Susian Democratic Union]] that followed him was substantially his creation, organized around the program of centralization, federal power, and foreign-policy assertiveness that he had established.
+
+He remains a contested figure. To his critics, particularly within the [[Susian Liberal Party]] and associated with [[Ergagério Sienes]], Boňár represented the blurring of civil and military authority that marked the Continental Divide. A general who had never held civil office, he became president, served longer than any other, expanded the military and the federal state, and retained emergency measures that his critics held had outlasted their justification. The expansion of federal power over a constitutional order designed to limit it was, in this view, a departure from the principles on which the republic was founded.
+
+Boňár's conception of Susia as the dominant civilization of the continent later resurfaced in the idea of Susia integrating its former adversaries into a liberal order, a development that took place after his presidency.
+
+Boňár was an influence on the later [[Modernism|modernist movement]], which drew on aspects of his approach to government, including long-horizon planning, the proposal of ten-year presidential terms, and state-directed economic development.
+
+%% TODO: Modernist adoption of ten-year terms, long-term planning, and dirigisme as influences from Boňár. Connection established this session; the modernist movement's own article should carry the full account. %%
+
+### See also
+
+- [[Continental War]]
+- [[Continental Divide]]
+- [[Atompron]]
+- [[Filevir Matri]]
+- [[Susian Democratic Union]]
+- [[MAGEN Act]]
+- [[Pierej Crisis]]
+- [[War of Confian Secession]]
+- [[Cericeiro Doctrine]]
+- [[Susian party system]]
+- [[Modernism|Modernist movement]]
+
+%% FLAGS:
+
+- SNP/SLP terminology: existing vault articles (presidents list, Continental Divide, Matri) use "Susian Liberal Party" / SLP. User states the canonical in-world acronym is SNP. Linked here as [[Susian Liberal Party|SNP]] to preserve the link to the existing page. Naming to be resolved vault-wide later.
+- Presidents-table date conflict: the List of Susian Presidents gives Boňár's third term as 1982-1984 and Matri's term as 1984-1986. The Boňár stub frontmatter, the chronology, and the Matri article give Boňár's death and Matri's succession as 1983. Treated 1983 as canonical per three concurring sources. Table requires correction.
+- Bonfim to Boňár name lineage: "Cassio Bonfim" in older worldbuilding notes is an earlier draft name for Čalsor Boňár. Confirmed this session.
+- Frontmatter migrated from the old stub schema to the current Person template reference schema. Legacy fields (lusitanized_name, nested list-of-lists birth/death) removed.
+- Session canon needing dedicated articles: National Agreement land-for-military-positions concessions (belongs in a Tahuni Accords / National Agreement article); the first-to-second party system realignment (belongs in a Susian party system article); Federal Loyalty Act endorsement (cross-link from that article).
+- Stub candidates introduced this session: [[Chongzha]], [[Hários Tollini]], [[Cericeiro Doctrine]], [[Susian party system]], and the War of Confian Secession currently exists only in a loose founding document.
+- TODOs in body: Chongzha specifics; Cericeiro Doctrine and Susian exceptionalism content; modernist movement adoption of Boňár's ideas; spouse and children's names; rank and branch; pre-1950 military entry route.
+- era values inferred from the prior stub. tags left blank: the controlled vocabulary in the YAML and tags reference file has not been read this session.
+- meta.stub left true / verified false: military_service rank and branch and tags are incomplete, so the article does not yet meet the Complete criteria.
+
+%%
