@@ -1,77 +1,127 @@
 ---
+# ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
-native_name:
-lusitanized_name:
+native_name: 
+lusitanized_name: 
 aliases:
-summary:
-known_for:
-  - 
+  -
+summary: 
+
+# ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: Male
-birth_year: 1731
-birth_city:
-birth_state:
-birth_country:
+ethnicity: 
+religion: 
 citizenship:
+  -
 nationality:
-death_year: 1782
-death_city:
-death_state:
-death_country:
-death_cause:
-ethnicity:
-religion:
+  -
 enhanced: false
-education:
-  - degree:
-    institution:
-    year:
-written_works:
-  - title:
-    publication_date:
-    genre:
-    notes:
-awards:
-  - title:
-    awarded:
-    posthumous:
-    granted_by:
-    country:
-    notes:
-occupation:
-  - 
-party:
-  - 
-political_alignment:
-  - 
-organization:
-  - 
-residence:
-family:
+
+# ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
+birth:
+  year: 1731
+  city: 
+  state: 
+  country: 
+
+death:
+  year: 1782
+  city: 
+  state: 
+  country: 
+  cause: 
+
+# ── FAMILY ──────────────────────────────────────────────────────────────────
 spouse: "[[Empress Veronique]]"
-children:
-  - "[[Countess Valista|Valista]]"
-  - "[[Prince Capraže|Capraže]]"
-  - "[[King Colin|Colin]]"
-  - "[[Empress Yaneoli|Yaneoli]]"
-  - "[[Princess Natesse|Natesse]]"
+children_count: 5         # use um NÚMERO
+
+# ── EDUCATION ───────────────────────────────────────────────────────────────
+education:
+  - degree: 
+    institution: 
+    year: 
+  - 
+
+# ── CAREER ──────────────────────────────────────────────────────────────────
+occupation:
+  - title:
+    start_year:
+    end_year:
+
+military_service:
+  - allegiance:
+    branch: 
+    rank:
+    start_year:
+    end_year:
+    conflicts:
+      -
+    notes: null
+
+political_alignment:
+  -
+
+party:         # principal partido, ou partido atual
+parties:                                        # partidos que ela ja pertenceu
+  -
+
+organizations:
+  -
+
+# ── OFFICES ─────────────────────────────────────────────────────────────────
 offices:
   - title:
-    start:
-    end:
+    employer:
+    start_year:
+    end_year:
     appointer:
-    party:
+    parties:
+      -
     notes:
-total_sentence:
+
+# ── WRITTEN WORKS ───────────────────────────────────────────────────────────
+written_works:
+  - title:
+    publication_year:
+    genre:
+    notes:
+
+
+# ── CRIMINAL RECORD ─────────────────────────────────────────────────────────
 criminal_charges:
   - charge:
     counts:
+    charged_year:
+    plea:
     verdict:
+    verdict_year:
     sentence:
     served:
-    in_absentia: false
+    in_absentia:
     notes:
+
+# ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
+known_for:
+  - item:
+    notes:
+
+awards:
+  - title:
+    awarded_year:
+    posthumous: false
+    granted_by:
+    country:
+    notes:
+
 era:
-  - 
+  -
+
+# ── META ────────────────────────────────────────────────────────────────────
 tags:
   -
+
+meta:
+  stub: true
+  verified: false
+  image: null
 ---

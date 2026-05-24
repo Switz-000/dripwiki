@@ -1,30 +1,127 @@
 ---
+# ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Ganzer Teahowić Dasunah
-lusitanized_name:
+lusitanized_name: 
 aliases:
   - Teahowić
-enhanced:
-demographics:
+summary: 
+
+# ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
+sex: 
+ethnicity: 
+religion: 
+citizenship:
+  -
+nationality:
+  -
+enhanced: false
+
+# ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
 birth:
-death: "2009"
-spouse:
-children_count:
+  year: 
+  city: 
+  state: 
+  country: 
+
+death:
+  year: 2009
+  city: 
+  state: 
+  country: 
+  cause: 
+
+# ── FAMILY ──────────────────────────────────────────────────────────────────
+spouse: 
+children_count:         # use um NÚMERO
+
+# ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
+  - degree:
+    institution:
+    year:
+  - 
+
+# ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
+  - title:
+    start_year:
+    end_year:
+
 military_service:
+  - allegiance:
+    branch: 
+    rank:
+    start_year:
+    end_year:
+    conflicts:
+      -
+    notes: null
+
 political_alignment:
-party:
+  -
+
+party: "[[Syndicalist League]]"        # principal partido, ou partido atual
+parties:                                        # partidos que ela ja pertenceu
   - "[[Syndicalist League]]"
-parties:
+
 organizations:
+  -
+
+# ── OFFICES ─────────────────────────────────────────────────────────────────
 offices:
+  - title:
+    employer:
+    start_year:
+    end_year:
+    appointer:
+    parties:
+      -
+    notes:
+
+# ── WRITTEN WORKS ───────────────────────────────────────────────────────────
 written_works:
-awards:
+  - title:
+    publication_year:
+    genre:
+    notes:
+
+
+# ── CRIMINAL RECORD ─────────────────────────────────────────────────────────
 criminal_charges:
+  - charge:
+    counts:
+    charged_year:
+    plea:
+    verdict:
+    verdict_year:
+    sentence:
+    served:
+    in_absentia:
+    notes:
+
+# ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
-historical_period:
-meta:
+  - item:
+    notes:
+
+awards:
+  - title:
+    awarded_year:
+    posthumous: false
+    granted_by:
+    country:
+    notes:
+
+era:
+  -
+
+# ── META ────────────────────────────────────────────────────────────────────
 tags:
-summary:
+  -
+
+meta:
+  stub: true
+  verified: false
+  image: null
 ---

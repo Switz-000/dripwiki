@@ -1,81 +1,133 @@
 ---
+# ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Grawolja Marianowina Tekurubićna
-lusitanized_name:
+lusitanized_name: 
 aliases:
   - Grawi Inkriska
   - Incrian Grawi
   - The Incrian
-summary:
-known_for:
-  - "[[First Our Own policy]]"
+summary: 
+
+# ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: female
-birth_year:
-birth_city: "[[Kiorisk City]]"
-birth_state: "[[Kiorisk]]"
-birth_country: "[[-Repo/99 - Rest of the World/Countries/Gaiyan/Racpalia]]"
+ethnicity: 
+religion: 
 citizenship:
+  -
 nationality:
   - "[[Dripstanian Empire|Dripstanian]]"
   - "[[Confia|Confian]]"
   - "[[Racpalia|Racpalian]]"
-death_year:
-death_city:
-death_state:
-death_country:
-death_cause:
-ethnicity:
-religion:
 enhanced: false
+
+# ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
+birth:
+  year: 
+  city: "[[Kiorisk City]]"
+  state: "[[Kiorisk]]"
+  country: "[[-Repo/99 - Rest of the World/Countries/Gaiyan/Racpalia]]"
+
+death:
+  year: 
+  city: 
+  state: 
+  country: 
+  cause: 
+
+# ── FAMILY ──────────────────────────────────────────────────────────────────
+spouse: 
+children_count:         # use um NÚMERO
+
+# ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree:
-    institution:
-    year:
-written_works:
-  - title:
-    publication_date:
-    genre:
-    notes:
-awards:
-  - title:
-    awarded:
-    posthumous:
-    granted_by:
-    country:
-    notes:
+  - degree: 
+    institution: 
+    year: 
+  - 
+
+# ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
-  - 
-party:
-  - 
+  - title:
+    start_year:
+    end_year:
+
+military_service:
+  - allegiance:
+    branch: 
+    rank:
+    start_year:
+    end_year:
+    conflicts:
+      -
+    notes: null
+
 political_alignment:
-  - 
-organization:
-  - 
-residence:
-family:
-spouse:
-children:
+  -
+
+party:         # principal partido, ou partido atual
+parties:                                        # partidos que ela ja pertenceu
+  -
+
+organizations:
+  -
+
+# ── OFFICES ─────────────────────────────────────────────────────────────────
 offices:
   - title:
     employer:
-    start:
-    end:
+    start_year:
+    end_year:
     appointer:
-    party:
+    parties:
+      -
     notes:
-total_sentence:
+
+# ── WRITTEN WORKS ───────────────────────────────────────────────────────────
+written_works:
+  - title:
+    publication_year:
+    genre:
+    notes:
+
+
+# ── CRIMINAL RECORD ─────────────────────────────────────────────────────────
 criminal_charges:
   - charge:
     counts:
+    charged_year:
+    plea:
     verdict:
+    verdict_year:
     sentence:
     served:
-    in_absentia: false
+    in_absentia:
     notes:
+
+# ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
+known_for:
+  - item: "[[First Our Own policy]]"
+    notes:
+
+awards:
+  - title:
+    awarded_year:
+    posthumous: false
+    granted_by:
+    country:
+    notes:
+
 era:
   - early-imperial
+
+# ── META ────────────────────────────────────────────────────────────────────
 tags:
   -
+
+meta:
+  stub: true
+  verified: false
+  image: null
 ---
 **Grawolja Marianowina Tekurubićna** (Racpalian Alphabet: Гравоља Мариановіна Текурубічна) was a Racpalian-born Confian paramilitary leader and politician that served as the 5th Governor-General of the Land of Confia. A prominent figure in the [[Tekurubićni Patrol]] who would later lead it, she was responsible for instituting the "Our Own First" policy, which in practice gave state authorization and backing to violent attacks against [[Konph]] villages to make way for Racpalian settlements.
 

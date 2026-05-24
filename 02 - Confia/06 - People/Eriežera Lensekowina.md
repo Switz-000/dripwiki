@@ -1,78 +1,131 @@
 ---
+# ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Eriežera Lensekowina Kasselja
-lusitanized_name:
+lusitanized_name: 
 aliases:
-summary:
-known_for:
-  - Systematization of New Syndicalism
+  -
+summary: 
+
+# ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: female
-birth_year: 1900
-birth_city: "[[Imgospalje]]"
-birth_state: "[[Koštanože]]"
-birth_country: "[[Dripstanian Empire]]"
+ethnicity: "[[East Gaiyanese]]"
+religion: "[[Armotist Church of the Confian Synod]]"
 citizenship:
   - "[[Dripstanian Empire|Dripstanian]]"
   - "[[Confia|Confian]]"
 nationality:
   - "[[Dripstanian Empire|Dripstanian]]"
   - "[[Confia|Confian]]"
-death_year: 1984
-death_city: "[[Imgospalje]]"
-death_state: "[[Koštanože]]"
-death_country: "[[Confia]]"
-death_cause: Natural causes
-ethnicity: "[[East Gaiyanese]]"
-religion: "[[Armotist Church of the Confian Synod]]"
 enhanced: false
+
+# ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
+birth:
+  year: 1900
+  city: "[[Imgospalje]]"
+  state: "[[Koštanože]]"
+  country: "[[Dripstanian Empire]]"
+
+death:
+  year: 1984
+  city: "[[Imgospalje]]"
+  state: "[[Koštanože]]"
+  country: "[[Confia]]"
+  cause: Natural causes
+
+# ── FAMILY ──────────────────────────────────────────────────────────────────
+spouse: 
+children_count:         # use um NÚMERO
+
+# ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree:
-    institution:
-    year:
-written_works:
-  - title:
-    publication_date:
-    genre:
-    notes:
-awards:
-  - title:
-    awarded:
-    posthumous:
-    granted_by:
-    country:
-    notes:
-occupation:
+  - degree: 
+    institution: 
+    year: 
   - 
-party:
-  - "[[Union of Confian Syndicalists]]"
-  - "[[Syndicalist League]]"
+
+# ── CAREER ──────────────────────────────────────────────────────────────────
+occupation:
+  - title:
+    start_year:
+    end_year:
+
+military_service:
+  - allegiance:
+    branch: 
+    rank:
+    start_year:
+    end_year:
+    conflicts:
+      -
+    notes: null
+
 political_alignment:
   - "[[Syndicalism#New Syndicalism|New Syndicalism]]"
-organization:
-  - 
-residence:
-family:
-spouse:
-children:
+
+party: "[[Union of Confian Syndicalists]]"        # principal partido, ou partido atual
+parties:                                        # partidos que ela ja pertenceu
+  - "[[Union of Confian Syndicalists]]"
+  - "[[Syndicalist League]]"
+
+organizations:
+  -
+
+# ── OFFICES ─────────────────────────────────────────────────────────────────
 offices:
   - title:
-    start:
-    end:
+    employer:
+    start_year:
+    end_year:
     appointer:
-    party:
+    parties:
+      -
     notes:
-total_sentence:
+
+# ── WRITTEN WORKS ───────────────────────────────────────────────────────────
+written_works:
+  - title:
+    publication_year:
+    genre:
+    notes:
+
+
+# ── CRIMINAL RECORD ─────────────────────────────────────────────────────────
 criminal_charges:
   - charge:
     counts:
+    charged_year:
+    plea:
     verdict:
+    verdict_year:
     sentence:
     served:
-    in_absentia: false
+    in_absentia:
     notes:
+
+# ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
+known_for:
+  - item: Systematization of New Syndicalism
+    notes:
+
+awards:
+  - title:
+    awarded_year:
+    posthumous: false
+    granted_by:
+    country:
+    notes:
+
 era:
-  - 
+  -
+
+# ── META ────────────────────────────────────────────────────────────────────
 tags:
   -
+
+meta:
+  stub: true
+  verified: false
+  image: null
 ---
 **Eriežera Lensekowina Kasselja** (Racpalian Alphabet: Ерьежера Ленсековіна Кассеља) was a Confian syndicalist philosopher, writer and anti-[[Paulowić regime]] activist. She is credited with the philosophical foundations of what would later become [[Syndicalism#New Syndicalism|New Syndicalism]].

@@ -1,29 +1,138 @@
 ---
+# ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
-person_name: "[[Jartes II]]"
-birth_year: 1818
-birth_place:
-  - "[[Duolij]]"
-  - "[[Postia]]"
-  - "[[Dripstanian Empire]]"
+native_name: Jartes II
+lusitanized_name: 
+aliases:
+  -
+summary: 
+
+# ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
+sex: 
+ethnicity: 
+religion: 
 citizenship:
   - Dripstanian
 nationality:
   - Dripstanian
-death_year: 1882
-death_cause: Unknown
-known_for:
-  - "[[Liberal Revolts]]"
-  - Disarmament of the population
-  - Colonization of Incria
-  - Construction of Saint Mantichev City
+enhanced: false
+
+# ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
+birth:
+  year: 1818
+  city: "[[Duolij]]"
+  state: "[[Postia]]"
+  country: "[[Dripstanian Empire]]"
+
+death:
+  year: 1882
+  city: 
+  state: 
+  country: 
+  cause: Unknown
+
+# ── FAMILY ──────────────────────────────────────────────────────────────────
+spouse: 
+children_count:         # use um NÚMERO
+
+# ── EDUCATION ───────────────────────────────────────────────────────────────
+education:
+  - degree:
+    institution:
+    year:
+  - 
+
+# ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
-  - Emperor
-  - Military Officer
-organization:
+  - title: Emperor
+    start_year:
+    end_year:
+  - title: Military Officer
+    start_year:
+    end_year:
+
+military_service:
+  - allegiance: "[[Dripstanian Empire]]"
+    branch: 
+    rank: 
+    start_year: 
+    end_year: 
+    conflicts:
+      -
+    notes: null
+
+political_alignment:
+  -
+
+party:         # principal partido, ou partido atual
+parties:                                        # partidos que ela ja pertenceu
+  -
+
+organizations:
   - "[[Dripstanian Empire]]"
-allegiance:
-  - "[[Dripstanian Empire]]"
+
+# ── OFFICES ─────────────────────────────────────────────────────────────────
+offices:
+  - title:
+    employer:
+    start_year:
+    end_year:
+    appointer:
+    parties:
+      -
+    notes:
+
+# ── WRITTEN WORKS ───────────────────────────────────────────────────────────
+written_works:
+  - title:
+    publication_year:
+    genre:
+    notes:
+
+
+# ── CRIMINAL RECORD ─────────────────────────────────────────────────────────
+criminal_charges:
+  - charge:
+    counts:
+    charged_year:
+    plea:
+    verdict:
+    verdict_year:
+    sentence:
+    served:
+    in_absentia:
+    notes:
+
+# ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
+known_for:
+  - item: "[[Liberal Revolts]]"
+    notes:
+  - item: Disarmament of the population
+    notes:
+  - item: Colonization of Incria
+    notes:
+  - item: Construction of Saint Mantichev City
+    notes:
+
+awards:
+  - title:
+    awarded_year:
+    posthumous: false
+    granted_by:
+    country:
+    notes:
+
+era:
+  -
+
+# ── META ────────────────────────────────────────────────────────────────────
+tags:
+  -
+
+meta:
+  stub: true
+  verified: false
+  image: null
 ---
 
 Jartes II was the Emperor of the [[Dripstanian Empire]] from 1837 to 1882, son of [[Jartes I]]. He is remembered in [[Susia]] as the archetypical tyrant: the emperor who disarmed the people, crushed the [[Liberal Revolts]], and publicly executed [[Armadesh Versij]] and [[Zagoste Paroska]]. His name is synonymous with oppression in Susian political culture.

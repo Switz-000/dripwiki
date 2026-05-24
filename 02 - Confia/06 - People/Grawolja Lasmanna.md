@@ -1,79 +1,131 @@
 ---
+# ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Grawolja Seriewina Lasmanna
-lusitanized_name:
+lusitanized_name: 
 aliases:
   - Lasmanna
-summary:
-known_for:
-  - 
+summary: 
+
+# ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: female
-birth_year:
-birth_city: "[[Carlotopolis]]"
-birth_state: "[[Karlotopol']]"
-birth_country: "[[Confia]]"
+ethnicity: "[[East Gaiyanese]]"
+religion: "[[Armotist Church of the Confian Synod]]"
 citizenship:
   - "[[Dripstanian Empire|Dripstanian]]"
   - "[[Confia|Confian]]"
 nationality:
   - Dripstanian
   - "[[Confia|Confian]]"
-death_year:
-death_city:
-death_state:
-death_country:
-death_cause:
-ethnicity: "[[East Gaiyanese]]"
-religion: "[[Armotist Church of the Confian Synod]]"
 enhanced: false
+
+# ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
+birth:
+  year: 
+  city: "[[Carlotopolis]]"
+  state: "[[Karlotopol']]"
+  country: "[[Confia]]"
+
+death:
+  year: 
+  city: 
+  state: 
+  country: 
+  cause: 
+
+# ── FAMILY ──────────────────────────────────────────────────────────────────
+spouse: 
+children_count:         # use um NÚMERO
+
+# ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree:
-    institution:
-    year:
-written_works:
-  - title:
-    publication_date:
-    genre:
-    notes:
-awards:
-  - title:
-    awarded:
-    posthumous:
-    granted_by:
-    country:
-    notes:
-occupation:
+  - degree: 
+    institution: 
+    year: 
   - 
-party:
-  - Independent
+
+# ── CAREER ──────────────────────────────────────────────────────────────────
+occupation:
+  - title:
+    start_year:
+    end_year:
+
+military_service:
+  - allegiance:
+    branch: 
+    rank:
+    start_year:
+    end_year:
+    conflicts:
+      -
+    notes: null
+
 political_alignment:
   - Technocratic
-organization:
-  - 
-residence:
-family:
-spouse:
-children:
+
+party: Independent        # principal partido, ou partido atual
+parties:                                        # partidos que ela ja pertenceu
+  - Independent
+
+organizations:
+  -
+
+# ── OFFICES ─────────────────────────────────────────────────────────────────
 offices:
   - title:
-    start:
-    end:
+    employer:
+    start_year:
+    end_year:
     appointer:
-    party:
+    parties:
+      -
     notes:
-total_sentence:
+
+# ── WRITTEN WORKS ───────────────────────────────────────────────────────────
+written_works:
+  - title:
+    publication_year:
+    genre:
+    notes:
+
+
+# ── CRIMINAL RECORD ─────────────────────────────────────────────────────────
 criminal_charges:
   - charge:
     counts:
+    charged_year:
+    plea:
     verdict:
+    verdict_year:
     sentence:
     served:
-    in_absentia: false
+    in_absentia:
     notes:
+
+# ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
+known_for:
+  - item:
+    notes:
+
+awards:
+  - title:
+    awarded_year:
+    posthumous: false
+    granted_by:
+    country:
+    notes:
+
 era:
-  - 
+  -
+
+# ── META ────────────────────────────────────────────────────────────────────
 tags:
   -
+
+meta:
+  stub: true
+  verified: false
+  image: null
 ---
 **Grawolja Seriewina Lasmanna** (Racpalian Alphabet: Гравоља Серьевіна Ласманна) is a Confian economist and banker that served as the 6th Prime Minister of the [[Confia|United Syndicates of Confia]], as well as the 2nd Director of its Central Bank. 
 ## Quotes

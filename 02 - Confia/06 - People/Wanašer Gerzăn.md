@@ -1,78 +1,131 @@
 ---
+# ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Wanašer Armoljubowić Gerzăn
-lusitanized_name:
+lusitanized_name: 
 aliases:
   - Gerzăn
   - Gerzănian
   - Gerzanian
-summary:
-known_for:
-  - "[[On Nations]]"
+summary: 
+
+# ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: male
-birth_year: 1789
-birth_city:
-birth_state:
-birth_country: "[[Dripstanian Empire]]"
+ethnicity: "[[East Gaiyanese]]"
+religion: "[[Armotist Church of the Confian Synod]]"
 citizenship:
+  -
 nationality:
   - "[[Dripstanian Empire|Dripstanian]]"
   - "[[Confia|Confian]]"
-death_year: 1873
-death_city:
-death_state:
-death_country:
-death_cause: Tuberculosis under state custody
-ethnicity: "[[East Gaiyanese]]"
-religion: "[[Armotist Church of the Confian Synod]]"
 enhanced: false
+
+# ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
+birth:
+  year: 1789
+  city: 
+  state: 
+  country: "[[Dripstanian Empire]]"
+
+death:
+  year: 1873
+  city: 
+  state: 
+  country: 
+  cause: Tuberculosis under state custody
+
+# ── FAMILY ──────────────────────────────────────────────────────────────────
+spouse: 
+children_count:         # use um NÚMERO
+
+# ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree:
-    institution:
-    year:
-written_works:
-  - title:
-    publication_date:
-    genre:
-    notes:
-awards:
-  - title:
-    awarded:
-    posthumous:
-    granted_by:
-    country:
-    notes:
+  - degree: 
+    institution: 
+    year: 
+  - 
+
+# ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
-  - Philosopher
-party:
-  - "[[Confian Nation Party (1841)]]"
+  - title: Philosopher
+    start_year:
+    end_year:
+
+military_service:
+  - allegiance:
+    branch: 
+    rank:
+    start_year:
+    end_year:
+    conflicts:
+      -
+    notes: null
+
 political_alignment:
   - Nationalist
-organization:
-  - 
-residence:
-family:
-spouse:
-children:
+
+party: "[[Confian Nation Party (1841)]]"        # principal partido, ou partido atual
+parties:                                        # partidos que ela ja pertenceu
+  - "[[Confian Nation Party (1841)]]"
+
+organizations:
+  -
+
+# ── OFFICES ─────────────────────────────────────────────────────────────────
 offices:
   - title:
-    start:
-    end:
+    employer:
+    start_year:
+    end_year:
     appointer:
-    party:
+    parties:
+      -
     notes:
-total_sentence:
+
+# ── WRITTEN WORKS ───────────────────────────────────────────────────────────
+written_works:
+  - title:
+    publication_year:
+    genre:
+    notes:
+
+
+# ── CRIMINAL RECORD ─────────────────────────────────────────────────────────
 criminal_charges:
   - charge:
     counts:
+    charged_year:
+    plea:
     verdict:
+    verdict_year:
     sentence:
     served:
-    in_absentia: false
+    in_absentia:
     notes:
+
+# ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
+known_for:
+  - item: "[[On Nations]]"
+    notes:
+
+awards:
+  - title:
+    awarded_year:
+    posthumous: false
+    granted_by:
+    country:
+    notes:
+
 era:
-  - 
+  -
+
+# ── META ────────────────────────────────────────────────────────────────────
 tags:
   -
+
+meta:
+  stub: true
+  verified: false
+  image: null
 ---
 **Wanašer Gerzăn** was a [[Confia|confian]] philosopher, writer and politician, known for his ethnonationalist theories that became the foundation of the Confian national identity

@@ -1,10 +1,13 @@
 ---
+# ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Ňotrič Apaj
-lusitanized_name:
+lusitanized_name: 
 aliases:
   - Apaj
 summary: Susian philosopher, journalist, and war correspondent whose essay "War, Pestilence and Famine" and book "After Scarcity" established the framework for post-scarcity cosmopolitan thought in Susia. His work became the ethical foundation of Troli Ustaras and a primary moral source for the Modernist Alliance's utopian faction.
+
+# ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: male
 ethnicity: West Gaiyanese
 religion: Irreligious
@@ -14,26 +17,36 @@ citizenship:
 nationality:
   - "[[Susia|Susian]]"
 enhanced: false
+
+# ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
 birth:
   year: 1951
   city: "[[Yatovarlaj]]"
   state: "[[Misocévia]]"
   country: "[[Dripstanian Empire]]"
+
 death:
   year: 2042
   city: "[[Neoveli]]"
   state: "[[Dripia]]"
   country: "[[Susia]]"
   cause: "[[Kashovne's syndrome]]"
+
+# ── FAMILY ──────────────────────────────────────────────────────────────────
 spouse: "[[Veska Apaj]]"
-children_count: 2
+children_count: 2         # use um NÚMERO
+
+# ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
   - degree: Journalism
     institution: "[[Dripia State University]]"
-    year:
+    year: 
   - degree: Philosophy
     institution: "[[Dripia State University]]"
-    year:
+    year: 
+  - 
+
+# ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
   - title: Philosopher
     start_year: 1983
@@ -47,38 +60,49 @@ occupation:
   - title: Philosophical Advisor
     start_year: 1988
     end_year: 2042
+
 military_service:
   - allegiance: "[[Susia]]"
     branch: "[[Susian Air Force]]"
-    rank:
+    rank: 
     start_year: 1975
     end_year: 1977
     conflicts:
       - "[[Continental War]]"
     notes: Drafted. Served in a non-combat administrative role.
+
 political_alignment:
   - Cosmopolitan
   - Post-nationalist
-party:
-parties:
+
+party:         # principal partido, ou partido atual
+parties:                                        # partidos que ela ja pertenceu
+  -
+
 organizations:
   - "[[Dripia State University]]"
   - "[[Troli Ustaras]]"
+
+# ── OFFICES ─────────────────────────────────────────────────────────────────
 offices:
   - title: Journalist
     employer: "[[Dripia State University Press]]"
     start_year: 1977
     end_year: 1988
-    appointer:
+    appointer: 
     parties:
+      -
     notes: Covered economics, social policy, and politics during the post-Continental War boom years. War correspondent in Ditania 1983.
   - title: Philosophical Advisor
     employer: "[[Troli Ustaras]]"
     start_year: 1988
     end_year: 2042
-    appointer:
+    appointer: 
     parties:
+      -
     notes: Shaped TU's ethical vocabulary and corporate culture. Authored TU's ethical constitution covering AI and speculative future technology. Never lived within the corporate culture he helped create.
+
+# ── WRITTEN WORKS ───────────────────────────────────────────────────────────
 written_works:
   - title: "[[War, Pestilence and Famine]]"
     publication_year: 1983
@@ -92,7 +116,22 @@ written_works:
     publication_year: 1992
     genre: Philosophy
     notes: Attempts to ground cosmopolitan ethics in biological and historical universals. His most systematic work and his least-read.
+
+
+# ── CRIMINAL RECORD ─────────────────────────────────────────────────────────
 criminal_charges:
+  - charge:
+    counts:
+    charged_year:
+    plea:
+    verdict:
+    verdict_year:
+    sentence:
+    served:
+    in_absentia:
+    notes:
+
+# ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
   - item: "[[War, Pestilence and Famine]]"
     notes: The essay that established his reputation and introduced the Scarcity Ladder framework.
@@ -102,13 +141,23 @@ known_for:
     notes: The intellectual current tracing its historical analysis and moral framework to his work.
   - item: "[[Troli Ustaras]]"
     notes: Served as Philosophical Advisor from 1988 until his death. Authored the company's ethical constitution.
+
 awards:
+  - title:
+    awarded_year:
+    posthumous: false
+    granted_by:
+    country:
+    notes:
+
 era:
   - continental-divide
   - post-war
   - new-age
   - great-transition
   - techno-federative-era
+
+# ── META ────────────────────────────────────────────────────────────────────
 tags:
   - philosophy
   - journalism
@@ -116,10 +165,11 @@ tags:
   - politics
   - culture
   - history
+
 meta:
   stub: false
   verified: false
-  image:
+  image: null
 ---
 
 Ňotrič Apaj (1951–2042) was a Susian philosopher, journalist, and war correspondent whose work established the dominant framework for post-scarcity cosmopolitan thought in Susia. Born in [[Yatovarlaj]], [[Misocévia]], he came to prominence following his coverage of the [[Ditanian Civil War]] in 1983, which produced the essay "[[War, Pestilence and Famine]]" and, two years later, the book "[[After Scarcity]]." Both works argued that the defeat of material scarcity had rendered traditional forms of political organization obsolete and that a rational civilization would reorganize itself around universal principles derivable from consciousness and reason alone. Hired by [[Troli Ustaras]] as Philosophical Advisor in 1988, he shaped the company's ethical culture for over five decades from the outside, with very little real contact. He died in [[Neoveli]] in 2042 from [[Kashovne's syndrome]], a progressive neurological disease.
