@@ -118,7 +118,7 @@ The Chamber of Experts holds 350 seats, filled through a national examination pr
 
 #### Judiciary
 
-The [[Susian Supreme Court]] interprets the constitution, resolves interstate disputes, and may strike down legislation that violates constitutional rights. It provides judicial review over both legislative acts and [[Secretariat of Efficiency]] decisions.
+The [[Supreme Court of Susia]] interprets the constitution, resolves interstate disputes, and may strike down legislation that violates constitutional rights. It provides judicial review over both legislative acts and [[Secretariat of Efficiency]] decisions.
 
 #### Secretariat of Efficiency
 
