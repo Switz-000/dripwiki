@@ -43,6 +43,8 @@
 - **Founded** — [[Nayotai]] in [[Duolij]]
 
 ## 1920
+- **Event begins** — [[Carlotopolis Uprising]]
+- **Event ends** — [[Carlotopolis Uprising]]
 - **Graduation** — [[Mariana Torres]] — Civil Engineering at [[Polytechnic Institute of Koštanože]]
 
 ## 1930
