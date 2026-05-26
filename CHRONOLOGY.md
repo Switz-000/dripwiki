@@ -81,7 +81,9 @@
 - **Founded** — [[Moviment of New Susians]]
 
 ## 1958
+- **Event begins** — [[Matri assasination attempt]]
 - **Event begins** — [[New Duloc riot]]
+- **Event ends** — [[Matri assasination attempt]]
 - **Event ends** — [[New Duloc riot]]
 
 ## 1959
