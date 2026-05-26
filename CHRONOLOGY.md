@@ -69,6 +69,7 @@
 - **Graduation** — [[Filevir Matri]] — Bachelor in Law at [[University of Duolij]]
 
 ## 1954
+- **Event begins** — [[Ant wars]]
 - **Founded** — [[Knights of the Republic]]
 - **Founded** — [[Pačese ro Virspruje]]
 - **Founded** — [[Supreme Court of Susia]]
@@ -86,6 +87,7 @@
 ## 1959
 - **Atrocity begins** — [[Legrinpija Massacre]]
 - **Atrocity ends** — [[Legrinpija Massacre]]
+- **Event ends** — [[Ant wars]]
 
 ## 1969
 - **Founded** — [[Soites Group]] by [[Suizo Soites]] in [[Neoveli]]
