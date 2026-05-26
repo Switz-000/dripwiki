@@ -69,6 +69,7 @@
 - **Graduation** — [[Filevir Matri]] — Bachelor in Law at [[University of Duolij]]
 
 ## 1954
+- **Founded** — [[Knights of the Republic]]
 - **Founded** — [[Supreme Court of Susia]]
 - **Founded** — [[Susian Democratic Union]]
 - **Founded** — [[Union of Confian Syndicalists]] by [[['[[Lorelaj Paulowić]]', '[[Lensek Bӑrboz]]']]]
