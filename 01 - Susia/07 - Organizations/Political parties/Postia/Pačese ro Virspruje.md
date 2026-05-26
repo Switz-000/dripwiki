@@ -1,8 +1,7 @@
 ---
----
 type: organization
-name: Party of the Republic
-native_name: Pačese ro Virspruje
+name: Pačese ro Virspruje
+native_name:
 abbreviation: PrV
 aliases:
   - Party of the Republic
