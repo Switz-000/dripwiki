@@ -79,6 +79,10 @@
 - **Event begins** — [[Continental Divide]]
 - **Founded** — [[Moviment of New Susians]]
 
+## 1958
+- **Event begins** — [[New Duloc riot]]
+- **Event ends** — [[New Duloc riot]]
+
 ## 1959
 - **Atrocity begins** — [[Legrinpija Massacre]]
 - **Atrocity ends** — [[Legrinpija Massacre]]
