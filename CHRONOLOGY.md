@@ -75,6 +75,7 @@
 
 ## 1956
 - **Event begins** — [[Continental Divide]]
+- **Founded** — [[Moviment of New Susians]]
 
 ## 1959
 - **Atrocity begins** — [[Legrinpija Massacre]]
