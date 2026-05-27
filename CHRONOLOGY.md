@@ -77,8 +77,10 @@
 - **Founded** — [[Union of Confian Syndicalists]] by [[['[[Lorelaj Paulowić]]', '[[Lensek Bӑrboz]]']]]
 
 ## 1956
-- **Event begins** — [[Continental Divide]]
 - **Founded** — [[Moviment of New Susians]]
+
+## 1957
+- **Event begins** — [[Continental Divide]]
 
 ## 1958
 - **Event begins** — [[Matri assasination attempt]]
