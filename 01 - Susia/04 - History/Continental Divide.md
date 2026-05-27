@@ -3,7 +3,7 @@ type: event
 event_name: Continental Divide
 aliases:
   - The Divide
-date_start: 1956
+date_start: 1957
 date_end: 1977
 duration: 20 years
 location:
