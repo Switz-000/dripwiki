@@ -71,7 +71,7 @@ The performance did not translate into political protection. [[Filevir Matri|Mat
 
 ## Federal Loyalty Act and aftermath
 
-The movement's position deteriorated sharply after 1961, when the [[Federal Loyalty Act]] reframed Confian immigrants as a potential security risk following evidence of [[Lorelaj Paulović|Paulović's]] infiltration of Susian institutions. An organized, armed network of Confian nationals in a port city was difficult to treat as politically neutral once the geopolitical context shifted. Organizations that had operated legally and defensibly during the Ant Wars were subjected to ongoing surveillance regardless of their record.
+The movement's position deteriorated sharply after 1961, when the [[Federal Loyalty Act]] reframed Confian immigrants as a potential security risk following evidence of [[Lorelaj Paulowić|Paulowić's]] infiltration of Susian institutions. An organized, armed network of Confian nationals in a port city was difficult to treat as politically neutral once the geopolitical context shifted. Organizations that had operated legally and defensibly during the Ant Wars were subjected to ongoing surveillance regardless of their record.
 
 ## See also
 
