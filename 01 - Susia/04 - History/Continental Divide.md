@@ -73,7 +73,7 @@ The **Continental Divide** (1957–1977) was a cold war between [[Susia]]'s libe
 
 ## Background
 
-The [[Tahuni Accords]] of 1954 dissolved the [[Dripstanian Empire]] and granted independence to Susia and [[Confia]] as successor states. The two states inherited a shared continent, a shared imperial history, and an immediate ideological divergence. In 1957 [[Confia]] was established under an authoritarian syndicalist government led by [[Lorelaj Paulović]] marking the start of the Continental Divide. Susia, founded under [[Suizo Soites]] on the natural rights philosophy of [[Armadesh Versij]], organized as a liberal-capitalist republic and regarded the Confian model as an existential challenge to its own foundations. The competition between the two successor states had intensified into a structured continental rivalry, dividing the continent into two opposing blocs.
+The [[Tahuni Accords]] of 1954 dissolved the [[Dripstanian Empire]] and granted independence to Susia and [[Confia]] as successor states. The two states inherited a shared continent, a shared imperial history, and an immediate ideological divergence. In 1957 [[Confia]] was established under an authoritarian syndicalist government led by [[Lorelaj Paulowić]] marking the start of the Continental Divide. Susia, founded under [[Suizo Soites]] on the natural rights philosophy of [[Armadesh Versij]], organized as a liberal-capitalist republic and regarded the Confian model as an existential challenge to its own foundations. The competition between the two successor states had intensified into a structured continental rivalry, dividing the continent into two opposing blocs.
 
 ## The two blocs
 
@@ -147,7 +147,7 @@ Bonár, a general and sponsor of the [[Federal Loyalty Act]], won the 1974 elect
 
 In 1974, Susia started a immense military buildup, coordinating with others [[ONDD]] allies, resumed support for anti-syndicalists in countries like Zaphonia, Ariwaro and Garecia, and most importantly planing what would've become [[Operation Red Sand]].
 
-In 1975, [[Lorelaj Paulović]] caught notice of Susia's actions and sent a ultimatum: Cease all operations in Syndicalist nations, halt ONDD military buildup, or in 100 days, Confia would take military action. Summits were held in Kamino, between the two blocs, hopefully to find a compromise. While Paulowić attended these summits, Bonár refused to show up and negotiations soon collapsed. 
+In 1975, [[Lorelaj Paulowić]] caught notice of Susia's actions and sent a ultimatum: Cease all operations in Syndicalist nations, halt ONDD military buildup, or in 100 days, Confia would take military action. Summits were held in Kamino, between the two blocs, hopefully to find a compromise. While Paulowić attended these summits, Bonár refused to show up and negotiations soon collapsed. 
 
 Susia's st[[Lorelaj Paulowić]]onfia's bluff with a quick and decisive operation, capturing the de facto confian military governor of Zaphonia, [[Pjetrik Purpić]]. Then, allowing the anti-syndicalist brigades in Zaphonia to overwhelm the poorly organized zaphonian army in Tahuni and take back control. After Zaphonia fell, Confia would be completely encircled by the [[ONDD]] and hopefully would back down, agreeing to Susian demands. As a three front war would be suicidal to Confia.
 
@@ -155,13 +155,13 @@ The day before the confian ultimatum expired, [[Operation Red Sand]] took place,
 
 > _Main article: [[Operation Red Sand]], [[Zaphonian Civil War]]_
 
-In the morning Bonár went to national television and broadcasted his demands to Paulović. Four hous later, Confia declared war, starting the Continental war.
+In the morning Bonár went to national television and broadcasted his demands to Paulowić. Four hous later, Confia declared war, starting the Continental war.
 
 ## The Continental War (1975–1977)
 
 > *Main article: [[Continental War]]*
 
-The immediate trigger for open war was Susia's direct kidnapping [[Pjetrik Purpić]] of  intervention in the [[Zaphonian Civil War]], committing forces rather than proxies to support the syndicalist faction. It was Confia, not Susia, that formally declared war, with [[Lorelaj Paulović]] delivering the declaration in a public address. Paulowić had by this period exhibited signs of significant mental deterioration over the preceding years; those present at the declaration described the address itself as unusually lucid and deliberate, a quality that observers found more unsettling than a deteriorated performance would have been.
+The immediate trigger for open war was Susia's direct kidnapping [[Pjetrik Purpić]] of  intervention in the [[Zaphonian Civil War]], committing forces rather than proxies to support the syndicalist faction. It was Confia, not Susia, that formally declared war, with [[Lorelaj Paulowić]] delivering the declaration in a public address. Paulowić had by this period exhibited signs of significant mental deterioration over the preceding years; those present at the declaration described the address itself as unusually lucid and deliberate, a quality that observers found more unsettling than a deteriorated performance would have been.
 
 Bonár's go[[Lorelaj Paulowić]]ilitarily. The Susian strategic approach centered on economic strangulation rather than direct territorial assault on Confia. By seizing [[Sutsa-Fuhu]] and [[Zaphonia]], Susia aimed to sever Confia's primary economic corridors and isolate the syndicalist government from its regional supply chains. While this southern and eastern pressure tightened Confia's position, [[Kapiogg]] and [[Pierej]] pinned Confian forces in extended trench warfare along the northern front, preventing redeployment.
 
@@ -179,7 +179,7 @@ The domestic legislation of the divide had an uneven legacy. The MAGEN Act was p
 
 - [[Continental War]]
 - [[Confia]]
-- [[Lorelaj Paulović]]
+- [[Lorelaj Paulowić]]
 - [[ONDD]]
 - [[Pact of Imgospalje]]
 - [[MAGEN act]]

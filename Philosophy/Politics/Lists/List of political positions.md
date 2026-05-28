@@ -55,7 +55,7 @@ The distribution of sovereign authority between the national government and subn
 
 ### Centralism
 
-The concentration of governing authority in the national government. The operating mode of the [[Lorelaj Paulowić|Paulović]] government in Confia, where SUPOPLAN directed the economy under Mixed Planning, and of most imperial administrations across Dripstanian history.
+The concentration of governing authority in the national government. The operating mode of the [[Lorelaj Paulowić|Paulowić]] government in Confia, where SUPOPLAN directed the economy under Mixed Planning, and of most imperial administrations across Dripstanian history.
 
 ### Localism
 

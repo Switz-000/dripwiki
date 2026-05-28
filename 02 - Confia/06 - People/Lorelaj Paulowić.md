@@ -4,7 +4,7 @@ type: person
 native_name: Lorelaj Paulowić Roždawoenni
 lusitanized_name: 
 aliases:
-  - Paulović
+  - Paulowić
 summary: 
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
