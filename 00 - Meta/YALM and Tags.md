@@ -63,7 +63,7 @@ era:
 			- fraternal-war # 1815–1823
 		- late-imperial # 1837–1954, Jartes II through dissolution
 			- aiding_state # 1845-1922
-			- home_rule # 1922–1937, Rule from Suzielaj
+			- home_rule # 1922–1937, Rule from St. Mantichev City
 			- secession_war # 1937-1950
 			- state_of_confia # 1950-1953
 			- confian_anarchy # 1954-1956
