@@ -130,10 +130,10 @@ Snap election called after Boris Serec's resignation.
 
 |                Candidate                |                  Party                  | Votes (%) |         Status         |
 | :-------------------------------------: | :-------------------------------------: | :-------: | :--------------------: |
-| [[Katerina Armoljubca Nožeslawna\|KAN]] |         [[Syndicalist League]]          |   58.2%   |        Elected         |
-|            [[Laus Darizel]]             |             [[Ljudewlaš!]]              |   15.9%   |        Defeated        |
-|            [[Japlen Razol]]             |      [[Armotist Democratic Party]]      |   11.9%   |        Defeated        |
-|          [[Genrih Maskernie]]           | [[Movement for Syndicalist Renovation]] |   0.2%    |        Defeated        |
+| [[Katerina Armoljubca Nožeslawna\|KAN]] |         [[Syndicalist League]]          |   58.5%   |        Elected         |
+|            [[Laus Darizel]]             |             [[Ljudewlaš!]]              |   21.8%   |        Defeated        |
+|            [[Japlen Razol]]             |      [[Armotist Democratic Party]]      |   17.9%   |        Defeated        |
+|          [[Genrih Maskernie]]           | [[Movement for Syndicalist Renovation]] |   0.8%    |        Defeated        |
 |          [[Saserna Kašdunna]]           |           [[Mi, Niteraljci!]]           |     -     | Withdrew, endorsed KAN |
 
 ## 2001 Confian general election
