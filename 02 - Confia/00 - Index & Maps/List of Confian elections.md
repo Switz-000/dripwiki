@@ -126,6 +126,8 @@ Snap election called after Boris Serec's resignation. Uniquely produced a techno
 
 ## 1998 Confian presidential election
 
+Snap election called after Boris Serec's resignation.
+
 |                Candidate                |                  Party                  | Votes (%) |         Status         |
 | :-------------------------------------: | :-------------------------------------: | :-------: | :--------------------: |
 | [[Katerina Armoljubca Nožeslawna\|KAN]] |         [[Syndicalist League]]          |   58.2%   |        Elected         |
