@@ -14,7 +14,7 @@ split_from: "[[Confian Liberal Party]]"
 merged_into:
   - "[[Ljudewlaš!|Democracy! (some members)]]"
 split_into:
-  - "[[Magăn!]]"
+  - "[[Shield!]]"
   - "[[Armotist Democracy (Confian party, 2000)|Armotist Democracy]]"
   - "[[Confian Democratic Party]]"
 banned_by:
