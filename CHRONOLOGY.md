@@ -135,7 +135,7 @@
 
 ## 2000
 - **Dissolved** — [[Armotist Democratic Party]]
-- **Founded** — [[Magăn!]]
+- **Founded** — [[Shield!]]
 
 ## 2003
 - **Founded** — [[Red Iron]] in [[Neoveli]]
