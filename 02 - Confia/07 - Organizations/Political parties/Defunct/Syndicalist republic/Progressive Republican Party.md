@@ -1,37 +1,33 @@
 ---
 type: organization
-name:
+name: Progressive Republican Party
 native_name:
 abbreviation:
 aliases:
-
 status:
 founded_by:
-founded:
-dissolved:
-
+  - "[[Mariana Torres]]"
+  - "[[Genrih Maskernie]]"
+founded: 1954
+dissolved: "1990"
 merger_of:
 split_from:
 merged_into:
-
-banned_by:
-legalized_by:
-
+  - "[[Mi, Niteraljci!]]"
+banned_by: "[[Lorelaj Paulowić]]"
+legalized_by: "[[Bayonet Revolution]]"
 headquarters:
 newspaper:
 think_tank:
 youth_wing:
 paramilitary:
-
 ideology:
--
+  - 
 political_position:
--
+  - 
 wings:
--
-
+  - 
 area_served:
-
 international_affiliation:
 national_affiliation:
 regional_affiliation:
