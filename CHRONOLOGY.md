@@ -72,6 +72,7 @@
 - **Event begins** — [[Ant wars]]
 - **Founded** — [[Knights of the Republic]]
 - **Founded** — [[Pačese ro Virspruje]]
+- **Founded** — [[Progressive Republican Party]] by [[['[[Mariana Torres]]', '[[Genrih Maskernie]]']]]
 - **Founded** — [[Supreme Court of Susia]]
 - **Founded** — [[Susian Democratic Union]]
 - **Founded** — [[Union of Confian Syndicalists]] by [[['[[Lorelaj Paulowić]]', '[[Lensek Bӑrboz]]']]]
@@ -119,6 +120,9 @@
 - **Dissolved** — [[Confian Nation Party (1977)]]
 - **Founded** — [[Ljudewlaš!]] by [[['Laus Darizel']]]
 
+## 1990
+- **Dissolved** — [[Progressive Republican Party]]
+
 ## 1991
 - **Founded** — [[PSP]] by [[['[[Confian National Government]]', '[[Katerina Armoljubca Nožeslawna|KAN]]']]] in [[Imgospalje]]
 
@@ -135,7 +139,7 @@
 
 ## 2000
 - **Dissolved** — [[Armotist Democratic Party]]
-- **Founded** — [[Magăn!]]
+- **Founded** — [[Shield!]]
 
 ## 2003
 - **Founded** — [[Red Iron]] in [[Neoveli]]

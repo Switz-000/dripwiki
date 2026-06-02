@@ -29,7 +29,7 @@ The response to this first siege established the structural template that subseq
 
 > *Main article: [[Continental Divide]]*
 
-The [[Continental Divide]] framed the early republic as a liberal-democratic enclave under ideological pressure from [[Confia]]'s authoritarian syndicalist government under [[Lorelaj Paulović]]. The threat was un[[Lorelaj Paulowić]]as military but as civilizational: a competing model of social organization backed by proxy conflicts across the continent, active infiltration of Susian institutions, and eventually direct military confrontation in the [[Continental War]] (1975–1977). The [[MAGEN act]] of 1975, which restricted domestic left-wing parties, applied the fortress logic inward, treating ideological contamination as a form of internal siege.
+The [[Continental Divide]] framed the early republic as a liberal-democratic enclave under ideological pressure from [[Confia]]'s authoritarian syndicalist government under [[Lorelaj Paulowić]]. The threat was un[[Lorelaj Paulowić]]as military but as civilizational: a competing model of social organization backed by proxy conflicts across the continent, active infiltration of Susian institutions, and eventually direct military confrontation in the [[Continental War]] (1975–1977). The [[MAGEN act]] of 1975, which restricted domestic left-wing parties, applied the fortress logic inward, treating ideological contamination as a form of internal siege.
 
 The Continental War's successful outcome did not dissolve the Fortress Complex. It confirmed it: the threat had been real, the vigilance had been necessary, and the institutions built to address it were vindicated.
 

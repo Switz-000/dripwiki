@@ -135,3 +135,5 @@ meta:
   verified: false
   image: null
 ---
+**Lenseka Japlenowina Katinnaja** (Racpalian Alphabet: Ленсека Япленовіна Катинная) is a Confian economist and politician who served as the 2nd Prime Minister of the [[Confia|United Syndicates of Confia]].
+
