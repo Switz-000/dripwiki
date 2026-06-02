@@ -212,7 +212,7 @@ The [[ONDD]] (Organization of the Democratic Dripstanian Nations) is the primary
 
 #### Confia
 
-Susia and [[Confia]] share the longest and most consequential bilateral relationship on the continent. The two countries fought an active cold war from 1957 to 1975 and a direct war from 1975 to 1977. Following the [[Bayonet Revolution]] and the democratic transition in Confia, the relationship normalized over the following two decades. Confia joined the ONDD in 1998 and entered the [[Lasman Economic Initiative]] customs union with Susia in 2000, named for the [[Lasman River]] that crosses both countries. Susian companies, including [[Nayotai]] and [[Soites Group]], operate in Confia, and [[Troli Ustaras]] recruits from Confian universities.
+Susia and [[Confia]] share the longest and most consequential bilateral relationship on the continent. The two countries fought an active cold war from 1957 to 1975 and a direct war from 1975 to 1977. Following the [[Bayonet Revolution]] and the democratic transition in Confia, the relationship normalized over the following two decades. Confia joined the ONDD in 1993 and entered the [[Lasman Economic Initiative]] customs union with Susia in 2000, named for the [[Lasman River]] that crosses both countries. Susian companies, including [[Nayotai]] and [[Soites Group]], operate in Confia, and [[Troli Ustaras]] recruits from Confian universities.
 
 #### Economic agreements
 
