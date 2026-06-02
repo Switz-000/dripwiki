@@ -130,3 +130,7 @@ meta:
 ---
 **Eriežera Lensekowina Kasselja** (Racpalian Alphabet: Ерьежера Ленсековіна Кассеља) was a Confian syndicalist philosopher, writer and anti-[[Paulowić regime]] activist. She is credited with the philosophical foundations of what would later become [[Syndicalism#New Syndicalism|New Syndicalism]].
 
+## Quotes
+
+>In truth, history makes the clear case that the path towards achieving the goals of syndicalism can only be fulfilled through the adoption of private property - that is, a rejection of Orthodoxy itself.
+>― Eriežera Lensekowina, [[Rethinking Syndicalism (disambiguation)]] (1959)
