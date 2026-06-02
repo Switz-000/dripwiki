@@ -98,7 +98,6 @@ the callout even if the target page does not yet exist.
 - Years are always numerals: *the 1977 ceasefire*, *born in 2031*.
 - Approximate dates in prose use *circa* or *around*: *around 1820*, 
   *circa 1740*. Do not use *c.* abbreviation in body text.
-- Approximate dates in frontmatter use the `~` prefix: `~1820`.
 - The Susian currency is the drip. Symbol: D$. Example: *D$6.2 trillion*.
 - All market caps and undated economic figures are as of 2080 unless a 
   specific year is stated.
