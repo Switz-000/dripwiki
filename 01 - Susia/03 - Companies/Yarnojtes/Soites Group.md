@@ -83,7 +83,7 @@ Unlike most Yarnojtes that cultivate elite exclusivity, Soites embraces mass acc
 - "" ([[Sisra]])
 - “Fast Isn’t Fast Enough” (Soitesexpress)
 - “Just live. We'll handle the rest” ([[Soites Experimenter Program|Experimenter Program]] Recruitment)
-- “Why Drive, When You Can Soar?” ([[Kolkov line]] Era)
+- “Why Drive, When You Can Soar?” ([[Kolkov line]] - [[Soites Federal Free Trade Zone|Soites FFTZ]])
 - "Technology Serves You, Not The Other Way Around" (Competitor Jabbing [[Troli Ustaras|TU]])
 - "We Don't Need Your DNA, Just Your Shopping List" (Competitor Jabbing LV)
 - "No Clearance Required" (Competitor Jabbing [[Van Ritter]])
