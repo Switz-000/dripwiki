@@ -26,7 +26,6 @@ tags:
 yarnojte_status: 
   fez_locations: 
 ---
-
 **Lischev-Verene Biomedical Corporation** (commonly known as **LV** or **LV Biomedical**) is a [[Susia|Susian]] multinational corporation and one of the nation's six active [[Yarnojte|Yarnojtes]]. Formed in 2065 through the merger of [[Lischev Pharmaceuticals]] and [[Verene Biosciences]], the company operates in cognitive enhancement procedures, life extension programs, pharmaceuticals, and healthcare services. It is headquartered at the [[Garden of Latice FEZ]] in [[Sužielaj]] and employs approximately 880,000 people. Its market capitalization is D$3.2 trillion as of 2080. [[Yarnojte]] status was granted in 2073.
 
 Lischev-Verene occupies a distinct position among the Yarnojtes, defined in large part by its philosophical opposition to the post-human trajectory associated with [[Troli Ustaras]]. Where TU treats the human body as a platform to be upgraded, LV treats it as the irreducible substrate of consciousness, to be preserved, optimized, and extended rather than transcended. This distinction is the basis of both the companies' mandated partnership and their sustained institutional hostility.
