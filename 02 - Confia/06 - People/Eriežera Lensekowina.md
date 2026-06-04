@@ -1,13 +1,10 @@
 ---
-# ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Eriežera Lensekowina Kasselja
-lusitanized_name: 
+lusitanized_name:
 aliases:
-  -
-summary: 
-
-# ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
+  - 
+summary:
 sex: female
 ethnicity: "[[East Gaiyanese]]"
 religion: "[[Armotist Church of the Confian Synod]]"
@@ -18,60 +15,45 @@ nationality:
   - "[[Dripstanian Empire|Dripstanian]]"
   - "[[Confia|Confian]]"
 enhanced: false
-
-# ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
 birth:
   year: 1900
   city: "[[Imgospalje]]"
   state: "[[Koštanože]]"
   country: "[[Dripstanian Empire]]"
-
 death:
   year: 1984
   city: "[[Imgospalje]]"
   state: "[[Koštanože]]"
   country: "[[Confia]]"
   cause: Natural causes
-
-# ── FAMILY ──────────────────────────────────────────────────────────────────
-spouse: 
-children_count:         # use um NÚMERO
-
-# ── EDUCATION ───────────────────────────────────────────────────────────────
+spouse:
+children_count:
 education:
-  - degree: 
-    institution: 
-    year: 
+  - degree:
+    institution:
+    year:
   - 
-
-# ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
   - title:
     start_year:
     end_year:
-
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:
     conflicts:
-      -
-    notes: null
-
+      - 
+    notes:
 political_alignment:
   - "[[Syndicalism#New Syndicalism|New Syndicalism]]"
-
-party: "[[Union of Confian Syndicalists]]"        # principal partido, ou partido atual
-parties:                                        # partidos que ela ja pertenceu
+party: "[[Union of Confian Syndicalists]]"
+parties:
   - "[[Union of Confian Syndicalists]]"
   - "[[Syndicalist League]]"
-
 organizations:
-  -
-
-# ── OFFICES ─────────────────────────────────────────────────────────────────
+  - 
 offices:
   - title:
     employer:
@@ -79,18 +61,13 @@ offices:
     end_year:
     appointer:
     parties:
-      -
+      - 
     notes:
-
-# ── WRITTEN WORKS ───────────────────────────────────────────────────────────
 written_works:
   - title:
     publication_year:
     genre:
     notes:
-
-
-# ── CRIMINAL RECORD ─────────────────────────────────────────────────────────
 criminal_charges:
   - charge:
     counts:
@@ -102,12 +79,9 @@ criminal_charges:
     served:
     in_absentia:
     notes:
-
-# ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
   - item: Systematization of New Syndicalism
     notes:
-
 awards:
   - title:
     awarded_year:
@@ -115,22 +89,21 @@ awards:
     granted_by:
     country:
     notes:
-
 era:
-  -
-
-# ── META ────────────────────────────────────────────────────────────────────
+  - 
 tags:
-  -
-
+  - philosophy
+  - politics
 meta:
   stub: true
   verified: false
-  image: null
+  image:
 ---
 **Eriežera Lensekowina Kasselja** (Racpalian Alphabet: Ерьежера Ленсековіна Кассеља) was a Confian syndicalist philosopher, writer and anti-[[Paulowić regime]] activist. She is credited with the philosophical foundations of what would later become [[Syndicalism#New Syndicalism|New Syndicalism]].
 
 ## Quotes
 
->In truth, history makes the clear case that the path towards achieving the goals of syndicalism can only be fulfilled through the adoption of private property - that is, a rejection of Orthodoxy itself.
+>The path of the [[Paulowić regime|New Confia]] is forged by a double-edged sword: blind faith in [[Ganzer Kieronne|Kieronne]]'s words for the economic and blind faith in [[Lorelaj Paulowić|Roždawoenni's]] words for the political―
+
+> In truth, history makes the clear case that the path towards achieving the goals of [[Syndicalism|syndicalism]] can only be fulfilled through the adoption of private property― a rejection of [[Syndicalism#Orthodox Syndicalism|Orthodoxy]] itself, and of syndicalism as we know it.
 >― Eriežera Lensekowina, [[Rethinking Syndicalism (disambiguation)]] (1959)
