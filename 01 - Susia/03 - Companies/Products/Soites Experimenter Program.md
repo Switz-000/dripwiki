@@ -29,3 +29,9 @@ type: project
 ## The Fall: Living hell after tasting heaven
 
 - Drunk on popularity: After five years, Soites noticed how Experimenters get accustomed to the life style, as expected, but some develop 
+
+
+## Miscellaneous Information
+
+- "ghost status" experimenters still have badge access to all the parties. They are not stopped at the door. Yet almost none of them go.
+- 
