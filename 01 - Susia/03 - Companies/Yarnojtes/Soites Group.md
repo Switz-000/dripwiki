@@ -99,8 +99,11 @@ Unlike most Yarnojtes that cultivate elite exclusivity, Soites embraces mass acc
 ## Miscellaneous Information
 
 - Since 1979, every time Soitesmart opens a new location in a small city they schedule a large event with live bands, staff dancing and many attractions. With visitors reaching up to tens of thousands. Probably the most interesting thing happening in a 30 km radius in five years.
+	- The longest-tenured local employee cuts the ribbon, not an executive. In small towns this is a genuine honor and people cry. It also produces a perfect local-news photo.
 - Soitesmart sells "banana-a-day" packs, with seven bananas, one being ready for today, the next ready to ripe tomorrow and so forth. These are packaged in clear plastic trays. Loved by single, peforming-to-be-fit office workers.
-- The place where [[Armadesh Versij]] wrote [[Architecture of Freedom]] is now a [[Soitesmart]]. A little sign in white arial is put in honor of the maryrt of susian liberty
+- The place where [[Armadesh Versij]]'s house in [[Neoveli]] is now a [[Soitesmart]]. The upstairs portion of the house is a dedicated museum.
+- [[Suizo Soites]]'s personal annotated copy of Versij's _Architecture of Freedom_ is displayed under glass in the FFTZ's main concourse
+- Every Soitesmart plays the same gentle two-note chime at closing, the one [[Chedji Soites|Chediji J. Soites]] supposedly hummed. Employees who've worked there for years say they hear it in their sleep. They say this affectionately.
 ## See Also
 
 - [[Yarnojtes]]
