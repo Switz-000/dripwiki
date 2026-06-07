@@ -173,6 +173,9 @@
 ## 2077
 - **Project begins** — [[Presidential Continuity Program]] (organized by [[Frumentarze]])
 
+## 2080
+- **Document recorded** — [[Vitakei statement]] (report)
+
 ## 2084
 - **Project ends** — [[Presidential Continuity Program]] — Officially ended due to “ethical concerns” but most likely was due to technical limitations
 
