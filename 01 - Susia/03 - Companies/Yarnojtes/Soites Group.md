@@ -20,7 +20,7 @@ sector:
 ---
 **Soites Group** (commonly known as **Soites**) is a [[Susia|Susian]] multinational conglomerate and one of the nation's six [[Yarnojte|Yarnojtes]]. Founded in 1969 as a discount retail chain, Soites has evolved into a diversified empire spanning retail, logistics, financial services, entertainment, data analytics, and advertising. The company is headquartered at the [[Soites Federal Free Trade Zone]] (FFTZ) in [[Postia]] and employs approximately 2.4 million people worldwide.
 
-With a market capitalization of D$3.8 trillion as of 2070, Soites is one of Susia's most valuable and ubiquitous corporations. The company's motto, "Whatever, Whenever, Wherever," reflects its mission to provide comprehensive consumer convenience while operating what has been called "the panopticon with a smile", a massive data collection infrastructure disguised as customer service.
+With a market capitalization of D$3.8 trillion as of 2080, Soites is one of Susia's most valuable and ubiquitous corporations. The company's motto, "Whatever, Whenever, Wherever," reflects its mission to provide comprehensive consumer convenience while operating what has been called "the panopticon with a smile", a massive data collection infrastructure disguised as customer service.
 
 The company is named after **[[Suizo Soites]]** (1921-1995), Susia's founding president and a prominent proponent of pragmatic liberalism, who retired from politics to establish the business that would become the modern Soites Group.   
 ## History
