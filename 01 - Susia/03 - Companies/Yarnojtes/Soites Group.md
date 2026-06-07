@@ -101,9 +101,10 @@ Unlike most Yarnojtes that cultivate elite exclusivity, Soites embraces mass acc
 - Since 1979, every time Soitesmart opens a new location in a small city they schedule a large event with live bands, staff dancing and many attractions. With visitors reaching up to tens of thousands. Probably the most interesting thing happening in a 30 km radius in five years.
 	- The longest-tenured local employee cuts the ribbon, not an executive. In small towns this is a genuine honor and people cry. It also produces a perfect local-news photo.
 - Soitesmart sells "banana-a-day" packs, with seven bananas, one being ready for today, the next ready to ripe tomorrow and so forth. These are packaged in clear plastic trays. Loved by single, peforming-to-be-fit office workers.
-- The place where [[Armadesh Versij]]'s house in [[Neoveli]] is now a [[Soitesmart]]. The upstairs portion of the house is a dedicated museum.
+- [[Armadesh Versij]]'s house in [[Neoveli]] is now a [[Soitesmart]]. The upstairs portion of the house is a dedicated museum. The museum is free, since it shares an entrance with the Soitesmart. so you walk through the store to reach it and through the store to leave, might as well take something on your way out.
 - [[Suizo Soites]]'s personal annotated copy of Versij's _Architecture of Freedom_ is displayed under glass in the FFTZ's main concourse
-- Every Soitesmart plays the same gentle two-note chime at closing, the one [[Chedji Soites|Chediji J. Soites]] supposedly hummed. Employees who've worked there for years say they hear it in their sleep. They say this affectionately.
+- Every Soitesmart plays the same gentle two-note chime at closing, the one [[Chedji Soites|Chediji J. Soites]] supposedly hummed. Employees who've worked there for years say they hear it in their sleep, it snoozes them.
+- New hires at the FFTZ get a card on their first day with a handwritten welcome from their store manager. The handwriting is a font. It's a good font; most people don't notice.
 ## See Also
 
 - [[Yarnojtes]]
