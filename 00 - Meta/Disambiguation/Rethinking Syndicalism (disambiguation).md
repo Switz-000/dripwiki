@@ -1,0 +1,3 @@
+**Rethinking Syndicalism** (Confian: Šezalinde Syndakalisma) is the title of two different books.
+- [[Rethinking Syndicalism (1959)]], a book by [[Eriežera Lensekowina]] and the founding text of [[Syndicalism#New Syndicalism|New Syndicalism]].
+- [[Rethinking Syndicalism (1961)]], a book by [[Lorelaj Paulowić]] which described the pursuit of Mixed Planning and marked the divergence of the [[Paulowić regime]] from [[Syndicalism#Orthodox Syndicalism|Syndicalist Orthodoxy]]. The book was purposefully given the exact same title as Lensekowina's book in an attempt to confuse procurement for the latter.

@@ -31,7 +31,7 @@ Political parties formed eossajs as paramilitary wings. These organizations para
 
 The eossaj landscape was not a simple division between left and right. The [[Knights of the Republic]] were civic republicans grounded in the philosophy of [[Armadesh Versij]], restrained in conduct but willing to retaliate when provoked, and they fought both syndicalist eossajs and, increasingly, the state itself. The syndicalist eossajs were more openly aggressive, treating the republic as structurally unjust. The [[Minutemen]] stood apart from the eossaj system entirely: an anarchist network that conducted bombings and targeted assassinations rather than street demonstrations, responsible for the [[Neoveli Stock Exchange Bombing]] of 1955.
 
-The labor movement added a further dimension through strikes and workplace standoffs at the docks and factories of [[New Duloc]]. The [[Movement of New Susians]], composed largely of veterans of the [[Confian secession war]], confined itself to defending immigrant neighborhoods and deliberately avoided both the labor movement and partisan politics, a stance that drew resentment from a native working class that viewed Confian labor as undercutting strikes.
+The labor movement added a further dimension through strikes and workplace standoffs at the docks and factories of [[New Duloc]]. The [[Movement of New Susians]], composed largely of veterans of the [[War of Confian Secession]], confined itself to defending immigrant neighborhoods and deliberately avoided both the labor movement and partisan politics, a stance that drew resentment from a native working class that viewed Confian labor as undercutting strikes.
 
 ## The New Duloc riot
 

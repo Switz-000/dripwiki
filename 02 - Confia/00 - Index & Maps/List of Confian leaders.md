@@ -36,15 +36,15 @@ Leader of the Nation
 
 Director of the Central Bank of the Confian Nation
 
-| No. |         Name          |    Term     |                Appointer                |                            Notes                             |
-| :-: | :-------------------: | :---------: | :-------------------------------------: | :----------------------------------------------------------: |
-|  1  |   [[Teah Hanować]]    | 1960 - 1970 |          [[Lorelaj Paulowić]]           |                    Appointed on creation                     |
-|  2  |  [[Katerina Ilioža]]  | 1970 - 1980 |          [[Lorelaj Paulowić]]           |   Sided with revolutionaries during [[Bayonet Revolution]]   |
-|  3  | [[Grawolja Lasmanna]] | 1980 - 1986 |          [[Senjap Kunsekowić]]          |       Replaced after Central Bank independence revoked       |
-|  4  | [[Kukan Peskilonni]]  | 1986 - 1991 |             [[Boris Serec]]             |                                                              |
-|  5  |  [[Beatrix Sartnär]]  | 1991 - 1996 | [[Katerina Armoljubca Nožeslawna\|KAN]] |            First Director of [[Tekur]] ethnicity             |
-|  -  |  [[Beatrix Sartnär]]  | 1996 - 2001 | [[Katerina Armoljubca Nožeslawna\|KAN]] | Reappointed. Not replaced after 1999 CBCN independence ACCN. |
-|  6  |  [[Eriežer Lasman]]   | 2001 - 2006 |          [[Grawolja Lasmanna]]          |       First Director after restoration of independence       |
+| No. |         Name          |    Term     |                Appointer                |                              Notes                               |
+| :-: | :-------------------: | :---------: | :-------------------------------------: | :--------------------------------------------------------------: |
+|  1  |   [[Teah Hanować]]    | 1960 - 1970 |          [[Lorelaj Paulowić]]           |                      Appointed on creation                       |
+|  2  |  [[Katerina Ilioža]]  | 1970 - 1980 |          [[Lorelaj Paulowić]]           |     Sided with revolutionaries during [[Bayonet Revolution]]     |
+|  3  | [[Grawolja Lasmanna]] | 1980 - 1986 |          [[Senjap Kunsekowić]]          |         Replaced after Central Bank independence revoked         |
+|  4  | [[Kukan Peskilonni]]  | 1986 - 1991 |             [[Boris Serec]]             |                                                                  |
+|  5  |  [[Beatrix Sartnär]]  | 1991 - 1996 | [[Katerina Armoljubca Nožeslawna\|KAN]] |              First Director of [[Tekur]] ethnicity               |
+|  -  |  [[Beatrix Sartnär]]  | 1996 - 2001 | [[Katerina Armoljubca Nožeslawna\|KAN]] |   Reappointed. Not replaced after 1999 CBCN independence ACCN.   |
+|  6  |  [[Eriežer Lasman]]   | 2001 - 2006 |          [[Grawolja Lasmanna]]          | First Director appointed after restoration of  CBCN independence |
 
 President Director of the Free Confian Republic
 
