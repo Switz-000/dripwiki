@@ -96,7 +96,6 @@
 
 ## 1969
 - **Founded** — [[Soites Group]] by [[Suizo Soites]] in [[Neoveli]]
-- **Founded** — [[Untitled]] by [[Suizo Soites]] in [[Neoveli]]
 
 ## 1974
 - **Graduation** — [[Chedji Soites]] — Finance at [[Belluni College]]
@@ -164,7 +163,6 @@
 ## 2050
 - **Yarnojte granted** — [[Nayotai]]
 - **Yarnojte granted** — [[Soites Group]]
-- **Yarnojte granted** — [[Untitled]]
 
 ## 2065
 - **Founded** — [[Lischev-Verene]] in [[Sužielaj City]]
