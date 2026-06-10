@@ -153,6 +153,32 @@ Record the following when applicable:
 If there is nothing to flag, write `FLAGS: None.`
 
 ---
+## Voiced sections
+
+The neutral register is the default for all article prose. Two exceptions are 
+permitted, where the wiki's narrator may carry a voice:
+
+1. **Miscellaneous Information** sections in any article type. Optional. Placed last 
+   before See Also.
+2. **Index and list files** of cultural material, such as the list of Susian 
+   foods and drinks.
+
+Rules for voiced sections:
+
+- Facts in voiced sections are canon. The voice changes the telling, not the 
+  truth value.
+- The register is dry and deadpan: asides, parenthetical verdicts, and 
+  commentary attached to a fact stated straight. The list of Susian foods and 
+  drinks is the reference for tone.
+- A fact whose value survives neutral prose belongs in the body. A fact whose 
+  value is partly in the telling belongs in Miscellaneous. Do not place a 
+  fact in both.
+- Voiced sections do not carry load-bearing facts: nothing in them should be 
+  required to understand the subject's history, structure, or significance.
+- Editorializing remains confined to these sections and to Notable 
+  Controversies content with in-world attribution. Body prose stays neutral.
+
+---
 
 ## Editorial discipline
 

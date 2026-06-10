@@ -21,7 +21,7 @@ enhanced: false
 
 # ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
 birth:
-  year: 1912
+  year: 1911
   city: "[[Sužielaj City]]"
   state: "[[Sužielaj]]"
   country: "[[Dripstanian Empire]]"
