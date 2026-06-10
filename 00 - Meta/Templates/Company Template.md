@@ -13,7 +13,7 @@ yarnojte_granted:
 yarnojte_revoked:
 fez_locations:
 
-yarnojte:
+*yarnojte*:
   - status:
     granted: 1966
     revoked: 1970
