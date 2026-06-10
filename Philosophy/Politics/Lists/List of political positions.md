@@ -154,7 +154,7 @@ The position that industrial production is the foundation of national wealth, po
 
 ### Dirigisme
 
-Active state direction of the economy through planning, industrial policy, and strategic investment. The operating mode of Confia's Mixed Planning era under [[Lorelaj Paulowić|Paulowić]], where SUPOPLAN directed the economy through centrally planned conglomerates. Present in softer forms across most Dripstanian development economies. The highest echelons of SUPOPLAN were dominated by the elite and their cronies, leading to the cartelization and monopolization of the economy by industrial cliques.
+Active state direction of the economy through planning, industrial policy, and strategic investment. The operating mode of Confia's Mixed Planning era under [[Lorelaj Paulowić|Paulowić]], where SUPOPLAN directed the economy through centrally planned conglomerates. Present in softer forms across most Dripstanian development economies.
 
 ### Developmentalism
 
