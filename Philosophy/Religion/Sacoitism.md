@@ -1,4 +1,4 @@
----
+	---
 type: religion
 aliases:
   - Sacoitist
