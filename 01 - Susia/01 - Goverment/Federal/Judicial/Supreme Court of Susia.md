@@ -3,6 +3,7 @@ type: institution
 native_name:
 abbreviation:
 aliases:
+  - Susian supreme court
 summary: The highest court of Susia and final interpreter of the Susian Constitution. It sits rarely, hears only foundational constitutional questions, and rules as a single unsigned institutional voice.
 nature: Supreme court
 founded: 1954

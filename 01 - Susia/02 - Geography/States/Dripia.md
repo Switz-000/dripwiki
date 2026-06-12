@@ -91,3 +91,7 @@ Dripia leans toward the [[Modernist Alliance]] in urban areas, driven by [[Neove
 | Modernist Alliance | 45% |
 | Democratic Federalist | 35% |
 | Coalition of State's Rights | 20% |
+
+## Miscellaneous
+
+- Since 2052, dripian state public healthcare covers hair loss treatment for male baldness as a way to combat low fertility rates in the state. This policy got copied into states like [[Postia]] and [[Sužielaj]].
