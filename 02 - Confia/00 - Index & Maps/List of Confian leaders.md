@@ -29,10 +29,10 @@ Presidents of the Confian Nation (President of the Nation/President)
 
 Leader of the Nation
 
-| No. |              Name              |    Term     |               Party               |        Election        |
-| :-: | :----------------------------: | :---------: | :-------------------------------: | :--------------------: |
-|  1  |      [[Lorelaj Paulowić]]      | 1958 - 1977 | [[Union of Confian Syndicalists]] | [[Enabling Amendment]] |
-|  -  | *[[Mariana Torres]] (interim)* |    1977     | [[Progressive Republican Party]]  | [[Bayonet Revolution]] |
+| No. |              Name              |    Term     |               Party               |        Appointing        |
+| :-: | :----------------------------: | :---------: | :-------------------------------: | :----------------------: |
+|  1  |      [[Lorelaj Paulowić]]      | 1958 - 1977 | [[Union of Confian Syndicalists]] |  [[Enabling Amendment]]  |
+|  -  | *[[Mariana Torres]] (interim)* |    1977     | [[Progressive Republican Party]]  | *[[Bayonet Revolution]]* |
 
 Director of the Central Bank of the Confian Nation
 
