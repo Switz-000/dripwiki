@@ -226,6 +226,10 @@ Matri's political reputation has been shaped in part by the difficulty of assess
 
 He is consistently cited as a practitioner of the [[Lobster table|lobster table]] style of politics, conducting his political work through private meals and informal arrangements rather than floor advocacy or public argument.
 
+## Miscellaneous
+
+- After three assassination attempts, Matri grew increasingly paranoid, one of his most characteristic mannerisms is not being able to walk in straight line, it is speculated that this is his way to make him a harder target. Giving origin to the popular susian expression *Lasprer*, which is often translated to "Zig-zagining" which referes to a overly paranoid person who refuses to admit so.
+
 ## See Also
 
 - [[Čalsor Boňár]]

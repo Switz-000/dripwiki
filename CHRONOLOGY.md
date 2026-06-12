@@ -84,9 +84,9 @@
 - **Event begins** — [[Continental Divide]]
 
 ## 1958
-- **Event begins** — [[Matri assasination attempt]]
+- **Event begins** — [[Matri assasination attempt (1958)]]
 - **Event begins** — [[New Duloc riot]]
-- **Event ends** — [[Matri assasination attempt]]
+- **Event ends** — [[Matri assasination attempt (1958)]]
 - **Event ends** — [[New Duloc riot]]
 
 ## 1959
