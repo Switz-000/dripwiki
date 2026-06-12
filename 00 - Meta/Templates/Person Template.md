@@ -70,10 +70,10 @@ organizations:
 
 # ── OFFICES ─────────────────────────────────────────────────────────────────
 offices:
-  - title: President of the Confian Nation
+  - title:
     employer:
-    start_year: 1987
-    end_year: 1996
+    start_year: 
+    end_year: 
     appointer:
     parties:
       -
