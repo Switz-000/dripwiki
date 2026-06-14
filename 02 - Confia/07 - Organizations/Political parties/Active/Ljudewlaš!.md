@@ -5,6 +5,7 @@ native_name: Ljudewlaš!
 abbreviation: Lj
 aliases:
   - Ljudewlaš
+  - Democracy!
 status: active
 founded_by:
   - Laus Darizel
@@ -23,7 +24,7 @@ paramilitary:
 ideology:
   - 
 political_position:
-  - 
+  - Right
 wings:
   - 
 area_served:
