@@ -5,7 +5,7 @@ Each theme must live in _furniture and behaviour_, never in commentary. These ar
 # Susia
 
 - **Logical steps to an irrational outcome.** Build monstrous or absurd results out of small, individually reasonable decisions. Walk each sensible step, then pull back to show the collective thing nobody designed and no one can be singularly blamed for.
-	- **Exemples: [[Continental Divide]], [[Soites Group]], [[Free Economic Zone|FEZ system]].**
+	- **Exemples: [[Continental Divide]]'s 100 day crisis, [[Soites Group]], [[Free Economic Zone|FEZ system]].**
 
 - **How ideas distort through interpretation.** Senate floor, denominational schism, geopolitical reality, corporate co-optation. An idea never survives contact with the people who need it to mean something for them.
 	- **Exemples: [[Kolkovianism]], [[Apajianism]], [[Suizo Soites]].**
