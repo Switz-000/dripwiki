@@ -10,7 +10,7 @@ status: active
 founded_by:
   - Laus Darizel
 founded: 1981
-dissolved: "2014"
+dissolved: "2013"
 merger_of:
 split_from:
 merged_into:
