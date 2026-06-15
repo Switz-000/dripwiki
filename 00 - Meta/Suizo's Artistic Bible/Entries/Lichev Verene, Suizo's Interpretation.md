@@ -1,4 +1,3 @@
-
 This is my interpretation and the narrative logic I use to make [[Lischev-Verene]]
 
 LV is a benevolent actor whose benevolence is the problem. There is no mask to peel back (the cures are real, the care is sincere) and nothing to vindicate (the care costs you the burden of being a person, and you hand it over gladly). You cannot hate it and cannot trust it.
