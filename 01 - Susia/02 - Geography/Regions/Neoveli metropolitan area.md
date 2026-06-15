@@ -1,4 +1,5 @@
 ---
+type: region
 aliases:
   - The Silver Coast
   - Silver Coast
