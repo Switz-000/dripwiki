@@ -10,10 +10,11 @@ status: active
 founded_by:
   - Laus Darizel
 founded: 1981
-dissolved:
+dissolved: "2014"
 merger_of:
 split_from:
 merged_into:
+  - "[[Republican Promise]]"
 banned_by:
 legalized_by:
 headquarters:
@@ -32,3 +33,4 @@ international_affiliation:
 national_affiliation:
 regional_affiliation:
 ---
+**Democracy!**, known until 1999 as the **Democratic Right**, was a Confian right-wing political party led by former governor of [[Ewonogija]] and National Representative [[Laus Darizel]].
