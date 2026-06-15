@@ -6,6 +6,8 @@ population_2080: 580000
 population_2000:
 population_1970:
 landlocked: true
+aliases:
+  - Răz Kentu
 ---
 - State Capital, university town, research, education hub
 - Home to four major universities: [[Dripia State University]], [[Federal Institute of Technology]], [[University of New Kentu]] and [[Belluni College]]. Intense rivalry between the four.
