@@ -153,6 +153,9 @@
 ## 2009
 - **Document recorded** — [[Kolkov Interview 2009]] (interview)
 
+## 2014
+- **Dissolved** — [[Ljudewlaš!]]
+
 ## 2031
 - **Founded** — [[Yerčemark]] by [[Venvek Rashera]] in [[New Kentu]]
 - **Yarnojte granted** — [[POCOIL]]
