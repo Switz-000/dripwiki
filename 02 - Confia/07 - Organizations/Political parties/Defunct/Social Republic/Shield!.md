@@ -7,10 +7,11 @@ aliases:
 status: Active
 founded_by:
 founded: 2000
-dissolved:
+dissolved: "2013"
 merger_of:
 split_from: "[[Armotist Democratic Party]]"
 merged_into:
+  - "[[Republican Promise]]"
 banned_by:
 legalized_by:
 headquarters:
@@ -20,7 +21,6 @@ youth_wing: Confian Conservative Youth
 paramilitary:
 ideology:
   - Conservatism 
-  - Agrarian interests
 political_position:
   - Right
 wings:
