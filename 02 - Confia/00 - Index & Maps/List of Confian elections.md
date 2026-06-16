@@ -38,14 +38,16 @@ It followed the [[Bayonet Revolution]]. It was won by [[Mariana Torres]].
 
 A snap election held after Japlenowina's destitution. It produced a KNP majority government. Turnout mantained its post-revolution momentum at 87.4%.
 
-|                         Party                         |               Leader               |    Seats (%)    | Votes (%) |    Status    |
-| :---------------------------------------------------: | :--------------------------------: | :-------------: | :-------: | :----------: |
-|               [[Confian Liberal Party]]               |       [[Senjap Kunsekowić]]        | 198/354 (55,9%) |   43.1%   |  Government  |
-|        [[Movement for Syndicalist Renovation]]        |         [[Mariana Torres]]         |                 |   22.3%   |  Opposition  |
-|                [[Syndicalist League]]                 | [[Katerina Armoljubca Nožeslawna]] |                 |   9.8%    |  Opposition  |
-|           [[Progressive Republican Party]]            |      [[Lenseka Japlenowina]]       |                 |   4.2%    |  Opposition  |
-| [[Confian Nation Party (1977)\|Confian Nation Party]] |          [[Kariz Jalnet]]          |  4/354 (1.1%)   |   15.2%   |  Opposition  |
-|                        Others                         |                *—*                 |                 |           | *Opposition* |
+|                         Party                         |               Leader               |     Seats (%)      |        Votes (%)        |    Status    |
+| :---------------------------------------------------: | :--------------------------------: | :----------------: | :---------------------: | :----------: |
+|               [[Confian Liberal Party]]               |       [[Senjap Kunsekowić]]        |  198/354 (55.9%)   |  16.7 million (43.1%)   |  Government  |
+|        [[Movement for Syndicalist Renovation]]        |         [[Mariana Torres]]         |   92/354 (26.0%)   |   8.6 million (22.3%)   |  Opposition  |
+|                [[Syndicalist League]]                 | [[Katerina Armoljubca Nožeslawna]] |   20/354 (5.6%)    |   3.8 million (9.8%)    |  Opposition  |
+|           [[Progressive Republican Party]]            |      [[Lenseka Japlenowina]]       |   12/354 (3.4%)    |   1.6 million (4.2%)    |  Opposition  |
+| [[Confian Nation Party (1977)\|Confian Nation Party]] |          [[Kariz Jalnet]]          |    4/354 (1.1%)    |   5.9 million (15.2%)   |  Opposition  |
+|                 [[Democratic League]]                 |        [[Sataria Terhalja]]        |   19/354 (5.4%)    |   1.3 million (3.4%)    | Opposition   |
+|                        Others                         |                *—*                 |    7/354 (2.6%)    |   0.8 million (2.0%)    | *Opposition* |
+|                       **Total**                       |              **N/A**               | **354/354 (100%)** | **38.7 million (100%)** |   **N/A**    |
 
 ## 1981 Confian general election
 
