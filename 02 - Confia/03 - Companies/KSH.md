@@ -10,10 +10,6 @@ founded_by:
 founding_place:
 headquarters: "[[Goretopol']]"
 market_cap:
-yarnojte: false
-yarnojte_granted:
-yarnojte_revoked:
-fez_locations:
 sector: Telecomm
 ---
 
