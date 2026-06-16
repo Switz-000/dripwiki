@@ -19,6 +19,5 @@ The **Paulowić model** is not a set doctrine of ideas, but the particular polic
 **Revised Syndicalism** is a variety of syndicalism based on the **Six Points of [[Mariana Torres|Torres]]**, a revised version of the [[Union of Confian Syndicalists]]' ten-point program. It accepts limited private participation in some markets, while balancing them with cooperative ownership in smaller businesses and state ownership of major utilities.
 ### New Syndicalism
 
-**New Syndicalism**, initially known as **Moderate Syndicalism**, rejects the syndicalist economic framework of self-management entirely, postulating that syndicates should focus on improving working conditions and securing benefits and good wages for workers.
+**New Syndicalism**, initially known as **Moderate Syndicalism**, rejects the syndicalist economic framework of self-management entirely, postulating that syndicates should focus on improving working conditions and securing benefits and living wages for workers.
 **Liberal Syndicalism** is a variant of New Syndicalism that emphasizes economic freedom and entrepreneurship as the main driver of economic growth and prosperity while sheltering the necessity for collective bargaining institutions.
-### Progressivism
