@@ -155,6 +155,8 @@
 
 ## 2013
 - **Dissolved** — [[Ljudewlaš!]]
+- **Dissolved** — [[Shield!]]
+- **Founded** — [[Republican Promise]] by [[['[[Nisa Peskilonna]]']]]
 
 ## 2031
 - **Founded** — [[Yerčemark]] by [[Venvek Rashera]] in [[New Kentu]]
