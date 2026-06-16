@@ -13,6 +13,16 @@ The first election for head of state in the history of independent Confia. It wa
 | :------------------: | :-------------------------------: | :---------: | :------: |
 | [[Lorelaj Paulowić]] | [[Union of Confian Syndicalists]] | *227 seats* | Elected  |
 |  [[Mariana Torres]]  | [[Progressive Republican Party]]  | *123 seats* | Defeated |
+## 1977 Confian general election
+
+The first nationwide democratic parliamentary election with universal suffrage in Confian history. it followed the [[Bayonet Revolution]]. It produced a KNP-LjWP coalition. Turnout was 85.1%
+
+|                         Party                         |          Leader           | Seats (%) | Votes (%) |   Status   |
+| :---------------------------------------------------: | :-----------------------: | :-------: | :-------: | :--------: |
+|               [[Confian Liberal Party]]               |   [[Senjap Kunsekowić]]   |           |           | Government |
+|           [[Progressive Republican Party]]            |    [[Mariana Torres]]     |           |           | Government |
+| [[Confian Nation Party (1977)\|Confian Nation Party]] |     [[Kariz Jalnet]]      |           |           | Opposition |
+|                [[Syndicalist League]]                 | [[Armoljubca Dardezanna]] |           |           | Opposition |
 ## 1977 Confian presidential election
 It followed the [[Bayonet Revolution]]. It was won by [[Mariana Torres]].
 
@@ -23,18 +33,19 @@ It followed the [[Bayonet Revolution]]. It was won by [[Mariana Torres]].
 |   [[Lensek Bӑrboz]]   | [[Union of Confian Syndicalists]] |   3.4%    | Defeated |
 ## 1980 Confian confidence vote
 
-Japlenowina lost, with 83% of the seats voting against her permanence.
+[[Lenseka Japlenowina]] lost, with 83% of the seats voting against her permanence.
 ## 1980 Confian general election
 
-A snap election held after Japlenowina's destitution. It produced a KNP majority government.
+A snap election held after Japlenowina's destitution. It produced a KNP majority government. Turnout mantained its post-revolution momentum at 87.4%.
 
-|                         Party                         | Leader | Seats (%) | Votes (%) |   Status   |
-| :---------------------------------------------------: | :----: | :-------: | :-------: | :--------: |
-|               [[Confian Liberal Party]]               |        |           |   43.1%   | Government |
-|        [[Movement for Syndicalist Renovation]]        |        |           |           | Opposition |
-|                [[Syndicalist League]]                 |        |           |           | Opposition |
-|           [[Progressive Republican Party]]            |        |           |           | Opposition |
-| [[Confian Nation Party (1977)\|Confian Nation Party]] |        |           |           | Opposition |
+|                         Party                         |               Leader               |    Seats (%)    | Votes (%) |    Status    |
+| :---------------------------------------------------: | :--------------------------------: | :-------------: | :-------: | :----------: |
+|               [[Confian Liberal Party]]               |       [[Senjap Kunsekowić]]        | 198/354 (55,9%) |   43.1%   |  Government  |
+|        [[Movement for Syndicalist Renovation]]        |         [[Mariana Torres]]         |                 |   22.3%   |  Opposition  |
+|                [[Syndicalist League]]                 | [[Katerina Armoljubca Nožeslawna]] |                 |   9.8%    |  Opposition  |
+|           [[Progressive Republican Party]]            |      [[Lenseka Japlenowina]]       |                 |   4.2%    |  Opposition  |
+| [[Confian Nation Party (1977)\|Confian Nation Party]] |          [[Kariz Jalnet]]          |  4/354 (1.1%)   |   15.2%   |  Opposition  |
+|                        Others                         |                *—*                 |                 |           | *Opposition* |
 
 ## 1981 Confian general election
 
