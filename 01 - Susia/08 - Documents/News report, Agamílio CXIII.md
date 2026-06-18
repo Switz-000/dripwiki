@@ -1,5 +1,5 @@
 
-[[Razrij|Razrijian]] man goes viral after using 63 cold-stunned iguanas as 'blanket' in parking lot
+[[Razrij|Razrijian]] retiree goes viral after using 63 cold-stunned iguanas as 'blanket' in parking lot
 
 [[Troli|Trolijian]] journalist charged with acting as unregistered agent for [[Ashgerad]]
 
@@ -25,7 +25,7 @@ A [[Zaphonia|zaphonian]] mayor suffers internet backlash after delivering fish t
 
 [[Daričoy]] startup pulls its meeting-assistant app after it kept advising users to quit their jobs
 
-Beaver wanders into [[Poremoj|poremojian]] supermarket and drinks two bottles of liquor, locals in shock.
+Beaver wanders into [[Poremoj|Poremojian]] Soitesmart, passes the imports, drinks two bottles of [[Sisra]]. Competitors claim it was a publicity stunt
 
 [[Misocévia|Misocévian]] county voids its annual badger count after officials concede they may have recorded the same badger four times.
 
