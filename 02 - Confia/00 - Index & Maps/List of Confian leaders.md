@@ -63,3 +63,6 @@ Governor-General of the Land of Confia
 |  5  |   [[Grawolja Tekurubićna]]    | 1797 - 1814 |  [[Empress Prazde]]   | [[Tekurubićni Patrol]] |       |        Resignation        |
 | ... |                               |             |                       |                        |       |                           |
 |  9  |       [[Jagan Lostan]]        | 1845 - 1849 |                       |                        |       |        Resignation        |
+## See also
+[[List of Confian elections]]
+[[Confian National Government]]
