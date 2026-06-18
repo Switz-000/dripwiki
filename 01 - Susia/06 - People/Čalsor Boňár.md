@@ -45,9 +45,12 @@ education:
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
-  - title: 
-    start_year: 
-    end_year: 
+  - title: Military Officer
+    start_year: 1956
+    end_year: 1970
+  - title: Politician
+    start_year: 1974
+    end_year: 1983
 
 military_service:
   - allegiance:

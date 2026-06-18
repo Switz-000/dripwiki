@@ -54,11 +54,8 @@ occupation:
   - title: Journalist
     start_year: 1977
     end_year: 1988
-  - title: War Correspondent
+  - title: Author
     start_year: 1983
-    end_year: 1983
-  - title: Philosophical Advisor
-    start_year: 1988
     end_year: 2042
 
 military_service:
