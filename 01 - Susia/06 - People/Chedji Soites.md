@@ -10,7 +10,7 @@ aliases:
 summary: 
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
-sex: 
+sex: Male
 ethnicity: West gaiyanese
 religion: "[[Reformed Armotism]]"
 citizenship:
@@ -30,14 +30,14 @@ birth:
 
 death:
   year: 2034
-  city: 
-  state: 
+  city: [[Neoveli]]
+  state: [[Dripia]]
   country: "[[Susia]]"
   cause: Natural causes
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
 spouse: 
-children_count: "[[Yepodij Soites]]"         # use um NÚMERO
+children_count: 1
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:

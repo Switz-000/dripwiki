@@ -98,7 +98,7 @@ offices:
     end_year: 1962
     appointer: "[[1958 Susian presidential election]]"
     parties:
-      - Susian Liberal Party
+      - [[Susian Liberal Party]]
     notes: 
   - title: President of Susia
     employer: 
@@ -106,7 +106,7 @@ offices:
     end_year: 1958
     appointer: "[[1954 Susian presidential election]]"
     parties:
-      - Susian Liberal Party
+      - [[Susian Liberal Party]]
     notes: 
   - title: Delegate, Constitutional Convention
     employer: 
@@ -114,7 +114,7 @@ offices:
     end_year: 1954
     appointer: "[[National Agreement]]"
     parties:
-      - Susian Liberal Party
+      - [[Susian Liberal Party]]
     notes: Led negotiations between former imperial provinces.
 
 # ── WRITTEN WORKS ───────────────────────────────────────────────────────────

@@ -35,7 +35,7 @@ death:
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
 spouse: "[[Yavna Matri]]"
-children_count: Two (unnamed)         # use um NÚMERO
+children_count: 2
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
