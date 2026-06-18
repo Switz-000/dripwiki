@@ -29,7 +29,16 @@ allegiance:
 organization:
   - 
 criminal_charges:
-  - Treason
+  - charge: Treason
+    counts: 22
+    charged_year: 
+    plea: Not Guilty
+    verdict: Guilty
+    verdict_year: 
+    sentence: Death
+    served: 
+    in_absentia: false
+    notes: 
 ---
 
 
