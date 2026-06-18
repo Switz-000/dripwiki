@@ -48,14 +48,14 @@ education:
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
   - title: Philosopher
-    start_year:
-    end_year:
+    start_year: 1989
+    end_year: 2011
   - title: Engineer
-    start_year:
-    end_year:
-  - title: Academic
-    start_year:
-    end_year:
+    start_year: 1982
+    end_year: 1989
+  - title: Author
+    start_year: 1989
+    end_year: 2011
 
 military_service:
   - allegiance:
