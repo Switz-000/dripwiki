@@ -36,7 +36,7 @@ Care falling outside the covered standard, including rare-disease treatment and 
 
 ## Controversy
 
-The Act was among the contested elements of Boňár's expansion of federal power, which his critics held to be a departure from the limited-government design of the constitution. Because the constitution assigns the duty to provide healthcare to the states, opponents argued that a federal insurance program extended federal authority into a domain the states were meant to govern. Opposition was concentrated in the [[Susian Liberal Party]]] and among figures associated with [[Filňar Čantij]]. The Act was defended as an exercise of the federal taxation and spending power rather than a federal assumption of the states' service obligation.
+The Act was among the contested elements of Boňár's expansion of federal power, which his critics held to be a departure from the limited-government design of the constitution. Because the constitution assigns the duty to provide healthcare to the states, opponents argued that a federal insurance program extended federal authority into a domain the states were meant to govern. Opposition was concentrated in the [[Susian Liberal Party]] and among figures associated with [[Filňar Čantij]]. The Act was defended as an exercise of the federal taxation and spending power rather than a federal assumption of the states' service obligation.
 
 ## See Also
 
