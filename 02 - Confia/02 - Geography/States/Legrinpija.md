@@ -11,7 +11,7 @@ population_2080:
 population_2000:
 population_1970:
 hemisphere:
-latitude_region:
+macroregion: northest
 borders_north:
   - "[[Drippalia]]"
 borders_east:
