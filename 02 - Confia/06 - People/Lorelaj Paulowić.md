@@ -108,45 +108,45 @@ written_works:
 
 # ── CRIMINAL RECORD ─────────────────────────────────────────────────────────
 criminal_charges:
-  - charge: Treason (tried in absentia)
-    counts:
+  - charge: Treason
+    counts: 
     charged_year:
     plea:
-    verdict:
+    verdict: Guilty
     verdict_year:
     sentence:
     served:
-    in_absentia: false
+    in_absentia: true
     notes:
-  - charge: Conspiracy to commit murder (29441 counts, tried in absentia)
-    counts:
+  - charge: Conspiracy to commit murder
+    counts: 29441
     charged_year:
     plea:
-    verdict:
+    verdict: Guilty
     verdict_year:
     sentence:
     served:
-    in_absentia: false
+    in_absentia: true
     notes:
-  - charge: Perversion of the office of Prime Minister (tried in absentia)
+  - charge: Perversion of the office of Prime Minister
     counts:
     charged_year:
     plea:
-    verdict:
+    verdict: Guilty
     verdict_year:
     sentence:
     served:
-    in_absentia: false
+    in_absentia: true
     notes:
-  - charge: Perversion of the office of President of the Confian Nation (tried in absentia)
+  - charge: Perversion of the office of President of the Confian Nation
     counts:
     charged_year:
     plea:
-    verdict:
+    verdict: Guilty
     verdict_year:
     sentence:
     served:
-    in_absentia: false
+    in_absentia: true
     notes:
 
 # ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
