@@ -1,5 +1,5 @@
 
-[[Razrij|Razrijian]] retiree goes viral after using 63 cold-stunned iguanas as 'blanket' in parking lot
+[[Razrij|Razrijian]] retiree filmed sheltering under 63 cold-stunned iguanas during the town's first hard freeze on record. A local firm has already registered the image as a trademark for 300 thousand drips.
 
 [[Troli|Trolijian]] journalist charged with acting as unregistered agent for [[Ashgerad]]
 
