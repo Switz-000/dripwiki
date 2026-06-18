@@ -50,6 +50,12 @@ occupation:
     end_year: 
   - title: Politician
     start_year: 
+    end_year:
+  - title: Philosopher
+    start_year: 
+    end_year: 
+  - title: Author
+    start_year: 
     end_year: 
 
 military_service:
