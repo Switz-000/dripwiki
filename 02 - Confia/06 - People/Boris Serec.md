@@ -113,7 +113,7 @@ criminal_charges:
     counts:
     charged_year:
     plea:
-    verdict:
+    verdict: Guilty
     verdict_year:
     sentence:
     served:
@@ -123,7 +123,7 @@ criminal_charges:
     counts:
     charged_year:
     plea:
-    verdict:
+    verdict: Guilty
     verdict_year:
     sentence:
     served:
@@ -133,7 +133,7 @@ criminal_charges:
     counts:
     charged_year:
     plea:
-    verdict:
+    verdict: Guilty
     verdict_year:
     sentence:
     served:
@@ -143,7 +143,7 @@ criminal_charges:
     counts:
     charged_year:
     plea:
-    verdict:
+    verdict: Guilty
     verdict_year:
     sentence:
     served:
@@ -153,7 +153,7 @@ criminal_charges:
     counts:
     charged_year:
     plea:
-    verdict:
+    verdict: Guilty
     verdict_year:
     sentence:
     served:
@@ -163,7 +163,7 @@ criminal_charges:
     counts:
     charged_year:
     plea:
-    verdict:
+    verdict: Guilty
     verdict_year:
     sentence:
     served:
