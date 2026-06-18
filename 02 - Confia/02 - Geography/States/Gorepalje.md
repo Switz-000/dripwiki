@@ -18,7 +18,7 @@ borders_south:
 borders_west:
 landlocked:
 climate:
-topography:
+topography: mountainous
 rivers:
 gdp_per_capita_2080:
 has_fez:
