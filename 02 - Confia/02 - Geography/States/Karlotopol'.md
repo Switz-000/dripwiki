@@ -14,7 +14,7 @@ population_2080:
 population_2000:
 population_1970:
 hemisphere:
-latitude_region:
+macroregion: northwest
 borders_north:
   - "[[Legrinpija]]"
 borders_east:
