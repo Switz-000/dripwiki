@@ -134,3 +134,4 @@ meta:
 **Senjap Kunsekowić Žiwoj** (Racpalian Alphabet: Сеняп Кунсековіч Живой) is a Confian economist and politician that served as the 4th Prime Minister of the [[Confia|United Syndicates of Confia]]. 
 
 ## Early life 
+
