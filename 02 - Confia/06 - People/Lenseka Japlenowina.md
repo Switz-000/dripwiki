@@ -1,13 +1,10 @@
 ---
-# ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
-native_name: 
+native_name:
 lusitanized_name: Lenseka Japlenowina Katinnaja
 aliases:
   - Japlenowina
-summary: 
-
-# ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
+summary:
 sex: female
 ethnicity: "[[East Gaiyanese]]"
 religion: "[[Armotist Church of the Confian Synod]]"
@@ -18,59 +15,44 @@ nationality:
   - "[[Dripstanian Empire|Dripstanian]]"
   - "[[Confia|Confian]]"
 enhanced: false
-
-# ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
 birth:
-  year: 
+  year: 1941
   city: Imgospalje
   state: "[[Koštanože]]"
   country: "[[Dripstanian Empire]]"
-
 death:
-  year: 
-  city: 
-  state: 
-  country: 
-  cause: 
-
-# ── FAMILY ──────────────────────────────────────────────────────────────────
-spouse: 
-children_count:         # use um NÚMERO
-
-# ── EDUCATION ───────────────────────────────────────────────────────────────
+  year:
+  city:
+  state:
+  country:
+  cause:
+spouse: "[[Ljubca]]"
+children_count:
 education:
-  - degree: 
-    institution: 
-    year: 
+  - degree:
+    institution:
+    year:
   - 
-
-# ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
   - title:
     start_year:
     end_year:
-
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:
     conflicts:
-      -
-    notes: null
-
+      - 
+    notes:
 political_alignment:
   - "[[Social democracy]]"
-
-party: "[[Progressive Republican Party]]"        # principal partido, ou partido atual
-parties:                                        # partidos que ela ja pertenceu
+party: "[[Progressive Republican Party]]"
+parties:
   - "[[Progressive Republican Party]]"
-
 organizations:
-  -
-
-# ── OFFICES ─────────────────────────────────────────────────────────────────
+  - 
 offices:
   - title: President of the Council of Commissars of the United Syndicates of Confia
     employer: "[[Confian National Government]]"
@@ -79,7 +61,7 @@ offices:
     appointer: "[[National Assembly of Confian Syndicates]]"
     parties:
       - "[[Progressive Republican Party]]"
-    notes: 
+    notes:
   - title: Mayor of Imgospalje
     employer: "[[Imgospalje|Imgospalje City Government]]"
     start_year: 1996
@@ -87,17 +69,12 @@ offices:
     appointer: "[[1996 Imgospalje mayoral elections]]"
     parties:
       - "[[Mi, Niteraljci!]]"
-    notes: 
-
-# ── WRITTEN WORKS ───────────────────────────────────────────────────────────
+    notes:
 written_works:
   - title:
     publication_year:
     genre:
     notes:
-
-
-# ── CRIMINAL RECORD ─────────────────────────────────────────────────────────
 criminal_charges:
   - charge:
     counts:
@@ -109,12 +86,9 @@ criminal_charges:
     served:
     in_absentia:
     notes:
-
-# ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
   - item: "[[Roškoša Plans]]"
     notes:
-
 awards:
   - title:
     awarded_year:
@@ -122,18 +96,14 @@ awards:
     granted_by:
     country:
     notes:
-
 era:
-  -
-
-# ── META ────────────────────────────────────────────────────────────────────
+  - 
 tags:
-  -
-
+  - 
 meta:
   stub: true
   verified: false
-  image: null
+  image:
 ---
-**Lenseka Japlenowina Katinnaja** (Racpalian Alphabet: Ленсека Япленовіна Катинная) is a Confian economist and politician who served as the 2nd Prime Minister of the [[Confia|United Syndicates of Confia]].
+**Lenseka Japlenowina Katinnaja** (Racpalian Alphabet: Ленсека Япленовіна Катинная) is a Confian economist and politician who served as the 2nd Prime Minister of the [[Confia|United Syndicates of Confia]] and the 59th mayor of [[Imgospalje]]. 
 
