@@ -125,3 +125,4 @@ meta:
   verified: false
   image: null
 ---
+**Ganzer Teahowić Dasunah** was a [[Confia|Confian]] hospital administrator, trade unionist and politician who served as the 9th and last Prime Minister of the United Syndicates of Confia, as well as the 1st president of the Confian Social Republic.
