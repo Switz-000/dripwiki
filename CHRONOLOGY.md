@@ -119,6 +119,7 @@
 ## 1981
 - **Dissolved** — [[Confian Nation Party (1977)]]
 - **Founded** — [[Ljudewlaš!]] by [[['Laus Darizel']]]
+- **Founded** — [[San'motko]]
 
 ## 1990
 - **Dissolved** — [[Progressive Republican Party]]
