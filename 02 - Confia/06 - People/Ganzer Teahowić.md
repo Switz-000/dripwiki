@@ -19,7 +19,7 @@ enhanced: false
 
 # ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
 birth:
-  year: 
+  year: 1959
   city: 
   state: 
   country: 
