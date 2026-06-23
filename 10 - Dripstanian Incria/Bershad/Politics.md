@@ -12,7 +12,7 @@ Sanye, Baya, Haiel, Yokno, Bokta, Dripstanians (armotist, wealthier, educated, i
 Anti-goverment ethnicities
 Parund, Daiko, Kadus, Mtole, Xaya, Buta (isolated, pagan, poorer, explored)
 
-## First president: Umbata Zambar (1955-1962)
+## Umbata Zambar (1955 - 1962)
 ethnicity: Sanye, armotist
 
 Promoted a one party system, saying that if the republic became a multiparty democracy it would fragment along ethnic lines. created the United Independence Party
@@ -26,15 +26,16 @@ ethnicity: Parund, Pagan
 Parund was born in a small village in inland Parund territory, he served as a public order officer in the general govt
 
 rose to power as the opposite of Zambar, Native nationalism and his campaign was to "de-colonize" Bershad from Dripstanian influence.
+### (1962)
 
-
-(1962)
-After being elected, 
+Elected on a native-nationalist platform
 
 (1963)
 
-Nguan noticed an decline on his mental health, him and his aid made a secret trip to [[Neoveli]] in order to visit a psychiatrist. Not much is known about the treatment he went through, but Nguan later started a started a sorophine dependency, which might be related to the medication he was pescripted.
 With the Buta Genocide in Yar-Firol, over one million Buta would flee Yar-Firol and seek refugee in Bershad in the following years. Ethnic tensions between the Parund and Buta increased, with ethnically motivated murders soaring.
+
+(1965)
+Nguan noticed an decline on his mental health, him and his aid made a secret trip to [[Neoveli]] in order to visit a psychiatrist. Not much is known about the treatment he went through, but Nguan later started a started a sorophine dependency, which might be related to the medication he was pescripted.
 
 (1966)
 
