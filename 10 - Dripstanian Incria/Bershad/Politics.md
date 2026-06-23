@@ -26,7 +26,7 @@ ethnicity: Parund, Pagan
 
 Parund was born in a small village in inland Parund territory, he served as an 
 
-a fucking maniac, rose to power as the opposite of Zambar, Native nationalism and his campaign was to "de-colonize" Bershad from Dripstanian influence.
+rose to power as the opposite of Zambar, Native nationalism and his campaign was to "de-colonize" Bershad from Dripstanian influence.
 
 
 (1962)
