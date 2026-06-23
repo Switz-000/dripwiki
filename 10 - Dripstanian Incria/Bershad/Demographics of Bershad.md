@@ -37,7 +37,7 @@ Ritualistic: Eaten with a cerimony or not
 | ------- | ----------- | ----------- | --------------- | ----- | ---- | ---------------------------------------- |
 | Parund  | Yes         | Very Common | Yes             | No    | Yes  | As superioty                             |
 | Mtole   | No          | Common      | Yes             | Yes   | Yes  | As normal food                           |
-| Daiko   | Yes         | Common      | No              | No    | Yes  | As medicine and as a mesure for survivle |
+| Daiko   | Yes         | Common      | No              | Yes   | Yes  | As medicine and as a mesure for survivle |
 | Xaya    | Yes         | Rare        | No              | Yes   | No   | As a rite of passing                     |
 | Baya    | Yes         | Seasonal    | No              | Yes   | No   | Historical                               |
 
