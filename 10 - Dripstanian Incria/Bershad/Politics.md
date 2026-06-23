@@ -1,4 +1,4 @@
-~Soliman runs a referendum in 1950 in each of the colonies to see if they want to continue to be part of the empire. Almost all of them vote Yes. dosent matter, the empire is going to colapse either way
+~filevir gayget runs a referendum in 1950 in each of the colonies to see if they want to continue to be part of the empire. Almost all of them vote Yes. (only creoles and dripstanian could vote) dosent matter, the empire is going to colapse either way
 
 Yar-Firol -> genocidal aparthaid like state, prosperous, lots of violent ethnic conflict, eventually try to genocide the Buta out of the face of the earth.
 
@@ -10,9 +10,9 @@ Pro-goverment ethnicities:
 Sanye, Baya, Haiel, Yokno, Bokta, Dripstanians (armotist, wealthier, educated, integrated into the system)
 
 Anti-goverment ethnicities
-Parund, Daiko, Kadus, Mtole, Xalax (isolated, pagan, poorer, explored)
+Parund, Daiko, Kadus, Mtole, Xaya, Buta (isolated, pagan, poorer, explored)
 
-First president: Umbata Zambar (1955-1962)
+## First president: Umbata Zambar (1955-1962)
 ethnicity: Sanye, armotist
 
 Promoted a one party system, saying that if the republic became a multiparty democracy it would fragment along ethnic lines. created the United Independence Party
@@ -21,10 +21,9 @@ Zambar is couped and the Republic dissoluted. Bershad becomes its own country
 
 ## Boe Nguan (1962 - 1973)
 
-
 ethnicity: Parund, Pagan
 
-Parund was born in a small village in inland Parund territory, he served as an 
+Parund was born in a small village in inland Parund territory, he served as a public order officer in the general govt
 
 rose to power as the opposite of Zambar, Native nationalism and his campaign was to "de-colonize" Bershad from Dripstanian influence.
 
