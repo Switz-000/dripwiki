@@ -27,11 +27,11 @@ birth:
   country: "[[Dripstanian Empire]]"
 
 death:
-  year: 
-  city: 
-  state: 
-  country: 
-  cause: 
+  year: 2012
+  city: [[Saint Feriol]]
+  state: [[Koštanože]]
+  country: [[Confia]]
+  cause: Natural causes
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
 spouse: 
