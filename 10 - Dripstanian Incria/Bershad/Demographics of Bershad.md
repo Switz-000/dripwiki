@@ -32,13 +32,13 @@ Gastronomic: Human flesh eaten for its flavor or in the same manner as the flesh
 
 Ritualistic: Eaten with a cerimony or not
 
-| Culture | Ritualistic | Frequency   | Human Predation | Endo- | Exo- | Notes                                    |
+| Culture | Frequency   | Ritualistic | Human Predation | Endo- | Exo- | Notes                                    |
 | ------- | ----------- | ----------- | --------------- | ----- | ---- | ---------------------------------------- |
-| Parund  | Yes         | Very Common | Yes             | No    | Yes  | As superioty                             |
-| Mtole   | No          | Common      | Yes             | Yes   | Yes  | As normal food                           |
-| Daiko   | Yes         | Common      | No              | Yes   | Yes  | As medicine and as a mesure for survivle |
-| Xaya    | Yes         | Rare        | No              | Yes   | No   | As a rite of passing                     |
-| Baya    | Yes         | Seasonal    | No              | Yes   | No   | Historical                               |
+| Parund  | Very Common | Yes         | Yes             | No    | Yes  | As superioty                             |
+| Mtole   | Common      | No          | Yes             | Yes   | Yes  | As normal food                           |
+| Daiko   | Common      | Yes         | No              | Yes   | Yes  | As medicine and as a mesure for survivle |
+| Xaya    | Rare        | Yes         | No              | Yes   | No   | As a rite of passing                     |
+| Baya    | Seasonal    | Yes         | No              | Yes   | No   | Historical                               |
 
 As the Parund and Mtole peoples were concentrated in the coast, they are historically better fed and hence often physically larger and stronger than tose living inland, they "raided inland 'bush' people with impunity and little care" as one dripstanian account goes. Primarly the Kadus, Daiko and Yokno peoples. The Parund and Mtole hunted humans for food even when game was plentiful.
 
