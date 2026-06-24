@@ -1,74 +1,58 @@
 ---
-# ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Ganzer Teahowić Dasunah
-lusitanized_name: 
+lusitanized_name:
 aliases:
   - Teahowić
-summary: 
-
-# ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
-sex: 
-ethnicity: 
-religion: 
+summary:
+sex: Male
+ethnicity: "[[East Gaiyanese]]"
+religion: "[[Armotist Church of the Confian Synod]]"
 citizenship:
-  -
+  - "[[Dripstanian Empire|Dripstanian]]"
+  - "[[Confia|Confian]]"
 nationality:
-  -
+  - "[[Dripstanian Empire|Dripstanian]]"
+  - "[[Confia|Confian]]"
 enhanced: false
-
-# ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
 birth:
   year: 1959
-  city: 
-  state: 
-  country: 
-
+  city:
+  state:
+  country:
 death:
   year: 2009
-  city: 
-  state: 
-  country: 
-  cause: 
-
-# ── FAMILY ──────────────────────────────────────────────────────────────────
-spouse: 
-children_count:         # use um NÚMERO
-
-# ── EDUCATION ───────────────────────────────────────────────────────────────
+  city:
+  state:
+  country:
+  cause:
+spouse:
+children_count:
 education:
   - degree:
     institution:
     year:
   - 
-
-# ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
   - title:
     start_year:
     end_year:
-
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:
     conflicts:
-      -
-    notes: null
-
+      - 
+    notes:
 political_alignment:
-  -
-
-party: "[[Syndicalist League]]"        # principal partido, ou partido atual
-parties:                                        # partidos que ela ja pertenceu
+  - 
+party: "[[Syndicalist League]]"
+parties:
   - "[[Syndicalist League]]"
-
 organizations:
-  -
-
-# ── OFFICES ─────────────────────────────────────────────────────────────────
+  - 
 offices:
   - title:
     employer:
@@ -76,18 +60,13 @@ offices:
     end_year:
     appointer:
     parties:
-      -
+      - 
     notes:
-
-# ── WRITTEN WORKS ───────────────────────────────────────────────────────────
 written_works:
   - title:
     publication_year:
     genre:
     notes:
-
-
-# ── CRIMINAL RECORD ─────────────────────────────────────────────────────────
 criminal_charges:
   - charge:
     counts:
@@ -99,12 +78,9 @@ criminal_charges:
     served:
     in_absentia:
     notes:
-
-# ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
   - item:
     notes:
-
 awards:
   - title:
     awarded_year:
@@ -112,17 +88,13 @@ awards:
     granted_by:
     country:
     notes:
-
 era:
-  -
-
-# ── META ────────────────────────────────────────────────────────────────────
+  - 
 tags:
-  -
-
+  - 
 meta:
   stub: true
   verified: false
-  image: null
+  image:
 ---
 **Ganzer Teahowić Dasunah** was a [[Confia|Confian]] hospital administrator, trade unionist and politician who served as the 9th and last Prime Minister of the United Syndicates of Confia, as well as the 1st president of the Confian Social Republic.
