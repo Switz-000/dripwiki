@@ -18,7 +18,7 @@ tags:
   - philosophy
   - history
 ---
-A **Yarnojte** is a corporation granted strategic status by the [[Susian Federal Government]], conferring the authority to govern [[Free Economic Zone|Free Economic Zones]] (FEZs) and participate in federal economic planning. The Yarnojte system was created as part of the [[The Great Transition|Great Transition]] of 2038, establishing the constitutional framework of the [[Susia|Techno-Federative Republic of Susia]]. As of 2080, six corporations hold active Yarnojte status, while three former Yarnojtes have had their status revoked.
+A **Yarnojte** is a corporation granted strategic status by the [[Susian Federal Government]], conferring the authority to govern city sized zones ([[Free Economic Zone|FEZs]]) and participate in federal economic planning. The Yarnojte system was created as part of the [[The Great Transition|Great Transition]] of 2038, establishing the constitutional framework of the [[Susia|Techno-Federative Republic of Susia]]. As of 2080, six corporations hold active Yarnojte status, while three former Yarnojtes have had their status revoked.
 
 ## Origins
 
@@ -28,11 +28,11 @@ The Yarnojte system emerged from the constitutional reforms of 2036 to 2038, but
 
 ### Kolkov's Philosophy
 
-> *Main article: [[Yário Kolkov]]*
+> *Main article: [[Yário Kolkov]]*, [[Kolkovianism]]
 
-[[Yário Kolkov]]'s political philosophy, developed across works including [[Evolution of Governance]] and [[Democracy as Organism]], was not a blueprint for corporate governance. It was a theory of competitive institutional pluralism: the argument that healthy political systems require multiple competing forms of governance, including but not limited to corporations, traditional democratic states, experimental communities, and other arrangements, all coexisting, competing for residents, and forced to adapt or lose population. Kolkov's central concern was adaptability. He argued that any single governance model, whether democratic, corporate, or otherwise, would calcify without competitive pressure from alternatives.
+[[Yário Kolkov]]'s political philosophy, developed across works including [[Evolution of Governance]] and [[Democracy as Organism]], was not a blueprint for corporate governance, instead, he proposed a theory of competitive institutional pluralism: the argument that healthy political systems require multiple competing forms of governance, including but not limited to corporations, traditional democratic states, experimental communities, and other arrangements, all coexisting, competing for residents, and forced to adapt or lose population. Kolkov's central concern was adaptability. He argued that any single governance model, whether democratic, corporate, or otherwise, would calcify without competitive pressure from alternatives.
 
-His work was deliberately non-prescriptive and, by his own admission, at times vague and internally contradictory. He was skeptical of anyone who claimed to have derived a clean ideology from it. The [[Kolkov Interview 2009|2009 interview]] conducted by [[Yavna Raroska]] documents his awareness that [[Troli Ustaras]] was already selectively quoting his work to legitimize corporate autonomy, stripping out the competition, oversight, and exit mechanisms he considered essential.
+His work was deliberately non-prescriptive and, by critics, at times vague and internally contradictory. He was extremely skeptical of anyone who claimed to have derived a clean ideology from it. The [[Kolkov Interview 2009|2009 interview]] conducted by [[Yavna Raroska]] documents his awareness that [[Troli Ustaras]] was already selectively quoting his work to legitimize corporate autonomy, stripping out the competition, oversight, and exit mechanisms he considered essential.
 
 ### The Modernist Alliance's Reading
 
