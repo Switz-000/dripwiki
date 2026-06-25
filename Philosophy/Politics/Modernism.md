@@ -92,3 +92,4 @@ meta:
   image: null
 ---
 
+Modernism is a [[Susia|Susian]] political ideology that developed in 1990s to 2000s, drawing primarily from the political philosophy of [[Yário Kolkov]] and the post-scarcity ethics of [[Ňotrič Apaj]]. The term covers a family of sub-ideologies, including [[Technocratic utopianism]], [[Federalist reformism]], [[Corporate modernism]], and [[Social modernism]], united by shared commitments to competitive governance, technocratic reform, and cognitive enhancement. Modernism provided the intellectual foundation for the [[Modernist Alliance]] and the constitutional reforms of [[The Great Transition|the Great Transition]] of 2038.
