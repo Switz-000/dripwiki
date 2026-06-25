@@ -24,6 +24,7 @@ type: religion
 type: sport
 type: index
 type: meta
+type: ideology
 ```
 
 Era: What historical period the article primarily belongs to. Can take multiple values. If a person only lived like two years in the late imperial period as a baby don't bother adding them to that period. Only add war / revolts eras if a person was directly influncing it otherwise only include broader ones: post war, continental divide
