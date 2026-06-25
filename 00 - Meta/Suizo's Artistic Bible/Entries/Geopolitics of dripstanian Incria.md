@@ -1,0 +1,3 @@
+
+**The mirror effect**  
+[[Yar-Firol]] and [[Bershad]] each justify themselves by pointing at the other, and each side's accurate description of the other is empirically correct. The [[Buta]] genocide really is a successor-state operation in continuity with GGI methods. The [[Bershad|Bershadi]] predation really is pre-imperial Parund hierarchy scaled to state power. Neither side is lying about the other. The lie is that either side's accurate description of the other justifies its own program.
