@@ -68,7 +68,7 @@ The position that distinct geographic, cultural, or economic regions within a na
 
 The position, derived from [[Yário Kolkov|Kolkov]], that multiple governance models should coexist and compete for citizens, with mobility between them as the primary accountability mechanism. The theoretical basis of the Susian [[Free Economic Zone|FEZ system]]. Different governance approaches compete; citizens vote with their feet; best practices emerge through selection.
 
-### Technocracy
+	### Technocracy
 
 Governance by credentialed experts rather than elected representatives. In Susia, institutionalized in the [[Chamber of Experts]] and the [[Secretariat of Efficiency]]. Applied to the fullest extent in [[Ashgerad]], through the [[Technical Exams of the Land of Ashgerad]], the [[Technical Chamber]] and the [[National Technical Administrative Council]].
 
