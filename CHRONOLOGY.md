@@ -122,8 +122,8 @@
 - **Founded** — [[San'motko]]
 
 ## 1986
-- **Atrocity begins** — [[Nar Liewati massacre]]
-- **Atrocity ends** — [[Nar Liewati massacre]]
+- **Atrocity begins** — [[Nar Liewati Massacre]]
+- **Atrocity ends** — [[Nar Liewati Massacre]]
 
 ## 1990
 - **Dissolved** — [[Progressive Republican Party]]
