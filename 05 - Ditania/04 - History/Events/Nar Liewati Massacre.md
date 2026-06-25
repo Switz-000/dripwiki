@@ -11,12 +11,15 @@ attack_type: Genocidal massacre
 perpetrators:
   - "[[Government of National Salvation]]"
   - "[[Raen Beinofa]]"
+  - "[[Kazier Group]]"
+  - "[[Len Kazier]]"
 motivation:
   - Anti-Kaner sentiment
   - Collective punishment
 related_events:
   - "[[Fall of Nar Liewati]]"
   - DMFD-GSN split
+  - "[[Majile killings]]"
 ---
-The **Nar Liewati Massacre** was the intentional, sectarian killing of 900-1,300 Kaner men, women and child
+The **Nar Liewati massacre** (Ditanian: Ista Nar Liewati, "Nar Liewati Tragedy"; Peste ji Nar Liewati, "Sequence of events at Nar Liewati") was the intentional, pre-meditated sectarian killing of 900-1,300 Kaner men, women and children by the
 The massacre is officially denied by the government of [[Ditania|Ditanian Republic]] to the present day, claiming the deaths were the result of a "property dispute" between refugees.
