@@ -1,4 +1,4 @@
-The [[Roškoša Plans]], officially the **Urgent Measures for Economic Stabilization** were economic measures taken by [[Lenseka Japlenowina]] during the post-war Hard Times economic crisis in [[Confia]].
+The **Roškoša Plans**, officially the **Urgent Measures for Economic Stabilization**, were economic measures taken by [[Lenseka Japlenowina]] during the post-war Hard Times economic crisis in [[Confia]].
 
 # History
 
@@ -13,4 +13,4 @@ The Roškoša II Plan was launched in Vartelian (7) of 1978. This plan involved 
 
 The Roškoša III Plan was launched in Doremojian (3) 1979. The plan involved cutting an aditional zero from the Confian currency, creating the sovereign swobo (S$), as well as an 8.5% increase in the base interest rate, resulting in a rate of 15.25%. This continued to increase unemployment, which reached 19.3% by the end of the year.
 
-In the end, the Roškoša plans failed to control inflation. In 1977, a year before Japlenowina took office, the accumulated annual inflation was 83%. In 1978, the accumulated inflation by Veroniquean (6), more than doubled this number, reaching 204%. By the end of the year, it would reach 304%. Japlenowina left the Palace of the Revolution with inflation in 1980 at 278%
+In the end, the Roškoša plans failed to control inflation. In 1977, a year before Japlenowina took office, the accumulated annual inflation was 83%. In 1978, the accumulated inflation by Veroniquean (6), more than doubled this number, reaching 204%. By the end of the year, it would reach 304%. Japlenowina left the Palace of the Revolution with inflation in 1980 at 278%.
