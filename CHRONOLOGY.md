@@ -94,6 +94,9 @@
 - **Atrocity ends** — [[Legrinpija Massacre]]
 - **Event ends** — [[Ant wars]]
 
+## 1966
+- **Founded** — [[San'motko]]
+
 ## 1969
 - **Founded** — [[Soites Group]] by [[Suizo Soites]] in [[Neoveli]]
 
@@ -119,7 +122,6 @@
 ## 1981
 - **Dissolved** — [[Confian Nation Party (1977)]]
 - **Founded** — [[Ljudewlaš!]] by [[['Laus Darizel']]]
-- **Founded** — [[San'motko]]
 
 ## 1986
 - **Atrocity begins** — [[Nar Liewati Massacre]]
