@@ -6,7 +6,7 @@ abbreviation: S'M
 aliases:
 status: Active
 founded_by:
-founded: 1981
+founded: 1966
 dissolved:
 merger_of:
 split_from:
