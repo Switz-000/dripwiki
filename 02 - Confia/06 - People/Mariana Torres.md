@@ -147,3 +147,11 @@ meta:
   image: null
 ---
 **Mariana Marianowina Turreš Ljeranna** (Racpalian Alphabet: Марьана Марьановіна Турреш Љеранна) was a Confian civil engineer, revolutionary guerilla fighter and politician that served as the 2nd President of the [[Confia|United Syndicates of Confia]].
+
+
+
+### Provisional Leader of Confia (1977)
+
+As leader of the RBWIZ, Mariana Torres was installed as the interim leader, temporarily occupying the role of Leader of the Nation, created by the [[Enabling Amendment]]. The Torres Government set out a transition timeline and new elections for late 1977, with the next government taking power in 1978. The 1956 Confian syndicalist constitution would be mostly restored to its original state by then, therefore removing the [[Enabling Amendment]] and other constitutional measures taken by Paulowić. The only change from the original text was the abrogation of Article 3, which strictly defined cooperative and state ownership as the only legitimate forms of property.
+ 
+Economically, the transition government carried out a series of hasty privatizations to pay off war debts and in an unsuccessful attempt to dismantle the ragged-sleeve power structure.
