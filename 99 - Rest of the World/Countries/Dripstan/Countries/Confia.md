@@ -107,7 +107,6 @@ Following the elections of the year 1977, the newly reformed [[Progressive Repub
 The Japlenowina's government was marked by the [[Roškoša Plans]], a series of economic plans aimed at controlling the inflationary crisis that had occurred after the opening of the economy. The plans mixed orthodox and heterodox economic elements, and thus gained the popular name derived from the *roškoša* (Racpalian Alphabet: рошкоша), a Confian dish consisting of a mixture of lamb and various diced vegetables. The plans severely exacerbated the crisis, nearly tripling inflation at the cost of higher unemployment and interest rates.
 
 
-
 Japlenowina was dismissed from office in the confidence vote of the year 1980. The Zošewoš Tribune newspaper reported the event with the following headline: "Weseognala se roškošata" (the roškoša burned). In the same edition, a cartoon of Japlenowina as a cook who had just blown up her stove was published.
 
 ### The Kunsekowić Government (1980-1982)
