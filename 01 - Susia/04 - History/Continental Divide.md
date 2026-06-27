@@ -195,7 +195,7 @@ The domestic legislation of the divide had an uneven legacy. The MAGEN Act was p
 - [[Flower Revolutions]]
 - [[Fortress complex]]
 - [[Democratic evangelism]]
-[[Lorelaj Paulowić]]e in Susia]]
+- [[Lorelaj Paulowić]]
 - [[Lasman Economic Initiative]]
 - [[Operation Red Sand]]
 - [[Parzde Brigade]]

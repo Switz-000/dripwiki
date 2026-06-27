@@ -21,7 +21,7 @@ birth:
   state: "[[North Nijbania]]"
   country: "[[Confia]]"
 death:
-  year: 2009
+  year: 2011
   city: "[[Imgospalje]"
   state: "[[Koštanože]]"
   country: "[[Confia]]"
@@ -54,11 +54,27 @@ parties:
 organizations:
   - "[[Federation of Confian Syndicates]]"
 offices:
-  - title: Minister of Health 
+  - title: President of the Confian Social Republic
+    employer: "[[Confian National Government]]"
+    start_year: 2009
+    end_year: 2011
+    appointer: "[[List of Confian elections|2009 Confian presidential election]]"
+    parties:
+      - "[[Syndicalist League]]"
+    notes:
+  - title: President of the Council of Commissars of the United Syndicates of Confia
+    employer: "[[Confian National Government]]"
+    start_year: 2001
+    end_year: 2009
+    appointer: "[[National Assembly of Confian Syndicates]]"
+    parties:
+      - "[[Syndicalist League]]"
+    notes:
+  - title: Minister of Health
     employer: "[[North Nijbania]]"
-    start_year: 1988
-    end_year: 1992
-    appointer: "[[List of Confian elections|1988 gubernatorial elections in Confia]]"
+    start_year: 1996
+    end_year: 1998
+    appointer: "[[List of Confian elections|1988 Confian gubernatorial elections]]"
     parties:
       - "[[Syndicalist League]]"
     notes:
@@ -113,4 +129,4 @@ meta:
   verified: false
   image:
 ---
-**Ganzer Teahowić Dasunah** was a [[Confia|Confian]] hospital administrator, trade unionist and politician who served as the 9th and last Prime Minister of the United Syndicates of Confia, as well as the 1st President of the Confian Social Republic.
+**Ganzer Teahowić Dasunah** was a [[Confia|Confian]] hospital administrator, trade unionist and politician who served as the 9th and last Prime Minister of the United Syndicates of Confia, as well as the 1st President of the Confian Social Republic under the 2009 constitution.
