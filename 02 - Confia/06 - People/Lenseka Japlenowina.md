@@ -107,3 +107,12 @@ meta:
 ---
 **Lenseka Japlenowina Katinnaja** (Racpalian Alphabet: Ленсека Япленовіна Катинная) is a Confian economist and politician who served as the 2nd Prime Minister of the [[Confia|United Syndicates of Confia]] and the 59th mayor of [[Imgospalje]]. 
 
+## Prime Minister of Confia (1978–1980)
+
+Following the elections of the year 1977, the newly reformed [[Progressive Republican Party|LjWP]] formed a government with the [[Confian Liberal Party|KNP]], appointing [[Lenseka Japlenowina]] as the first democratically elected Confian prime minister after the end of the Paulowić era. Japlenowina's government, was known as the "Orange Coalition" (Confian: Ražawna Halja/Ражавна Хаља).
+
+#### The Roškoša Plans
+
+The Japlenowina's government was marked by the [[Roškoša Plans]], a series of economic plans aimed at controlling the inflationary crisis that had occurred after the opening of the economy. The plans mixed orthodox and heterodox economic elements, and thus gained the popular name derived from the *roškoša* (Racpalian Alphabet: рошкоша), a Confian dish consisting of a mixture of lamb and various diced vegetables. The plans severely exacerbated the crisis, nearly tripling inflation at the cost of higher unemployment and interest rates.
+
+Japlenowina was dismissed from office in the confidence vote of the year 1980. The Zošewoš Tribune newspaper reported the event with the following headline: "Weseognala se roškošata" (the roškoša burned). In the same edition, a cartoon of Japlenowina as a cook who had just blown up her stove was published.
