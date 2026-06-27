@@ -56,7 +56,7 @@ organizations:
 offices:
   - title: President of the Confian Social Republic
     employer: "[[Confian National Government]]"
-    start_year: 2009
+    start_year: 2010
     end_year: 2011
     appointer: "[[List of Confian elections|2009 Confian presidential election]]"
     parties:

@@ -92,52 +92,18 @@ The period between the Bayonet Revolution and the promulgation of the 2009 const
 > "We are longer quite a traditional Syndicalist state, and we are not quite a traditional democratic republic. **Confia currently stands a Syndicalist Republic**, and only the future will tell if such an idiosyncratic arrangement resists time like the syndicates did."
 > - [[Mariana Torres]] after sanctioning the [[Labour and Capital Reform ACCN]]
 
-### The Torres Provisional government (1977)
+### Post-war instability and the failure of stabilization
 
-As leader of the RBWIZ, Mariana Torres was installed as the interim leader, temporarily occupying the role of Leader of the Nation, created by the [[Enabling Amendment]]. The Torres Government set out a transition timeline and new elections for late 1977, with the next government taking power in 1978. The 1956 Confian syndicalist constitution would be mostly restored to its original state by then, therefore removing the [[Enabling Amendment]] and other constitutional measures taken by Paulowić. The only change from the original text was the abrogation of Article 3, which strictly defined cooperative and state ownership as the only legitimate forms of property.
- 
-Economically, the transition government carried out a series of hasty privatizations to pay off war debts and in an unsuccessful attempt to dismantle the ragged-sleeve power structure.
+The end of the [[Continental War]] left Confia with a devastated economy, a discredited institutional structure, and an inflation crisis inherited from the final years of the [[Paulowić regime]]. The [[Bayonet Revolution|revolutionary]] transition government under [[Mariana Torres]] undertook rapid privatizations to service war debts and attempted to dismantle the [[Ragged-sleeve|ragged-sleeve]] industrial network, but the pace and execution of both efforts produced more disruption than reform. By the time the [[Orange Coalition]] under [[Lenseka Japlenowina]] took office in 1978, accumulated annual inflation stood at 83%.
 
-### The Making of the Torres Era and the Orange Coalition (1978-1980)
+> _Main article: [[Lenseka Japlenowina]]_
 
-Following the elections of the year 1977, the newly reformed [[Progressive Republican Party|LjWP]] formed a government with the [[Confian Liberal Party|KNP]], appointing [[Lenseka Japlenowina]] as the first democratically elected Confian prime minister after the end of the Paulowić era. Japlenowina's government, was known as the "Orange Coalition" (Confian: Ražawna Halja/Ражавна Хаља).
+The Japlenowina government's attempts to bring inflation under control through the [[Roškoša Plans]] proved counterproductive. Three successive stabilization packages between 1978 and 1979 combined price freezes, currency replacements, subsidy programs, and steep import tariffs. Each measure generated new distortions: product shortages followed the price controls, currency replacements failed to arrest price growth, and the tariffs triggered a capital exodus. Inflation reached 304% by the end of 1978 and unemployment climbed from 5% to 19.3% over two years. Japlenowina was removed from office by a confidence vote in 1980 with 83% of seats voting against her.
 
-#### The Roškoša Plans
+### Stabilization and structural reform
 
-The Japlenowina's government was marked by the [[Roškoša Plans]], a series of economic plans aimed at controlling the inflationary crisis that had occurred after the opening of the economy. The plans mixed orthodox and heterodox economic elements, and thus gained the popular name derived from the *roškoša* (Racpalian Alphabet: рошкоша), a Confian dish consisting of a mixture of lamb and various diced vegetables. The plans severely exacerbated the crisis, nearly tripling inflation at the cost of higher unemployment and interest rates.
+> _Main article: [[Senjap Kunsekowić]]_
 
-
-Japlenowina was dismissed from office in the confidence vote of the year 1980. The Zošewoš Tribune newspaper reported the event with the following headline: "Weseognala se roškošata" (the roškoša burned). In the same edition, a cartoon of Japlenowina as a cook who had just blown up her stove was published.
-
-### The Kunsekowić Government (1980-1982)
-
-Following the snap general election of 1980, the KNP obtained majority of seats, thus electing [[Senjap Kunsekowić]] as Prime Minister of Confia. The Kunsekowić government was marked by a series of reforms and vital changes in the way Confia's government functioned, reorienting it from syndicalism in a number of aspects.
-
-#### The New Torch Plan
-
-The New Torch Plan was the main stabilization measure taken by the Kunsekowić government. The plan broke the backbone of hyperinflation by creating a new currency - the new swobo (H¢) - and pegging it to the Susian drip at a rate of 2:1. In addition, the government reduced H¢500 billion in spending by canceling the subsidies implemented by the Roškoša II Plan, achieving a fiscal surplus.
-
-#### Human Capital Initiatives
-
-In 1981, Comissar for Education [[Boris Serec]] launched the National Program for Industrial Education and Qualification (Confian acronym: SOPROWIK). This program aimed to qualify the workforce in order to develop industries requiring a higher level of qualification, such as petrochemicals and electronics, as well as to expand the workforce available to existing steel and manufacturing industries. The plan was a resounding success, managing to qualify more than 7.4 million young people in various fields between 1981 and 1990.
-
-However, this was the only social program launched by the government, due to the climate of austerity following the recently defeated rampant inflation. Kunsekowić refused to add further expenses he deemed unnecessary, citing the poor state of the economy and stating that economic stabilization was required before establishing a welfare state. There was an attempt, albeit unsuccessful, to remove the GANTAR program, which was maintained through a hard struggle by the progressive wings of the KNP.
-
-The government received criticism from the left, even from Armotist Democrats within the KNP itself, most notably Boris Serec, who highlighted that "Armotos came to earth to, among other things, teach us the value of solidarity. We should not leave it only to the churches if the State can also contribute to a more just society."
-
-#### Labour and Capital Reforms
-
-The Kunsekowić government was behind Labour and Capital Reforms, a package of laws that aimed to challenge Confia's syndicate-based institutions and structure it around a liberal democratic republic.
-
-The Flexibilization Act altered the Rabošna Karta (Charter of Labour) to establish hiring by private businesses as the "the main concern of this act" instead of self-managed or collectively managed workplaces. The act also ended mandatory syndicate membership, though the KNP wished to end mandatory dues and allow non-syndicate members to benefit from syndicate benefits (e.g. pension funds, unemployment benefits, CBAs).
-
-The Labour and Capital Reform ACCN (Amendment to the Constitution of the Confian Nation) was a landmark amendment to the 1956 constitution. It altered the functioning of how local municipalities were elected from indirect syndicate elections to direct voting.
-
-#### Čirwašata and the fall of Kunsekowić
-
-On 31 Mantichevian (2) of 1982, an audio recording of a vulgar private conversation of Kunsekowić leaked to the public. In the tapes, he insulted Armotism and called its followers "inept jellybean munchers" (in reference to the particular sweets consumed during temple service)  among other things. 
-The scandal, which became known as "Čirwašata/ЧірваШата" (translated roughly to "Church Tapes"), spurred a massive rejection of Kunsekowić, in addition to undoing the KNP's reputational work of shedding its anti-clerical past. The audio exacerbated the already existing infighting within the KNP and split the party, with a large portion of its members joining Serec in his newly-formed [[ALjP]], the Armotist Democratic Party. In the 32nd elections, Serec and his party achieved an overwhelming victory, with 49.73% of the vote. Thus, Serec became the first head of government to profess Reformed Armotism, being a member of the Church of the Five Scriptures.
-
-### The Armotist Democratic governments (1983-1990)
+The snap elections of 1980 produced a [[Confian Liberal Party]] majority government under [[Senjap Kunsekowić]]. The [[New Torch Plan]] broke the backbone of inflation through a new currency pegged to the Susian drip and a fiscal surplus achieved by cancelling Japlenowina-era subsidies. Structural reforms to the syndicate-based electoral and labour system followed. The government collapsed in 1982 following the [[Čirwašata]] scandal, fracturing the [[Confian Liberal Party]] and clearing the path for [[Boris Serec]]'s [[Armotist Democratic Party]].
 
 
