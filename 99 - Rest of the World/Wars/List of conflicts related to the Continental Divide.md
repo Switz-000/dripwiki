@@ -9,14 +9,14 @@
 | [[Pierej Crisis]]                   | 1969        | Diplomatic and economic crisis followed by military coup | [[Pierej]]                | [[Pierej Armed Forces]] under [[Sărže Saron]]      | [[Pierej\|Piereji]] government under [[Ganzir Ništanaen]]    |                                                                          | Coup successful                                                             |
 | [[Zaphonist Revolt]]                | 1971        | Rebellion followed by military invasion                  | [[Zaphonia]]              |                                                    | [[Union of Zaphonian Syndicates\| Red Zaphonia]], [[Confia]] | Zaphonist rebels of the [[Syndicate of the Oil Workers (Zaphonia)\|SKT]] | [[Confian Diplomatic-Military Institutional Mission]] established           |
 | [[Sutsa-Fuhu Civil War]]            | 1972-1973   | Civil war                                                | [[Sutsa-Fuhu]]            | Despotic government, Sutsa-Fuhu contras            | [[SFSB]] under [[Ronali Romen]]                              |                                                                          | SFSB victory                                                                |
-| [[Continental War]]                 | 1975-1977   | Conventional war                                         | [[Dripstanian Continent]] | [[ONDD]]                                           | [[Pact of Imgospalje]]                                       |                                                                          | ONDD victory                                                                |
+| [[Continental War]]                 | 1975-1977   | Conventional war                                         | [[Dripstanian Continent]] | [[ONDD]]                                           | [[Pact of Imgospalje]]                                       |                                                                          | ONDD victory, fall of PoI govts                                             |
 
 # Post-War Flower Revolutions: (1977-1981)
 
 ---
 
-| Conflict               | Year | Type                 | Theatre      | Result                                                                          |
-| ---------------------- | ---- | -------------------- | ------------ | ------------------------------------------------------------------------------- |
-| [[Bayonet Revolution]] | 1977 | Revolution           | [[Confia]]   | Successful, overthrew the [[Lorelaj Paulowić\|Lorelaj regime]]                  |
-| [[Daisy Revolution]]   | 1977 | Revolution           | [[Zaphonia]] | Successful, the [[Confia\|Confian]] “Diplomatic-Military Institutional Mission” |
-| [[Lily Revolution]]    | 1979 | Bloodless revolution | [[Zaphonia]] | Successful, overthrew Algyn’s son.                                              |
+| Conflict               | Year | Type                 | Theatre      | Result                                                                                    |
+| ---------------------- | ---- | -------------------- | ------------ | ----------------------------------------------------------------------------------------- |
+| [[Bayonet Revolution]] | 1977 | Revolution           | [[Confia]]   | Successful, overthrew the [[Lorelaj Paulowić\|Lorelaj regime]]                            |
+| [[Daisy Revolution]]   | 1977 | Revolution           | [[Zaphonia]] | Successful, overthrew the [[Confia\|Confian]] “Diplomatic-Military Institutional Mission” |
+| [[Lily Revolution]]    | 1979 | Bloodless revolution | [[Zaphonia]] | Successful, overthrew Jedre Algyn                                                         |
