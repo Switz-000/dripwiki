@@ -122,5 +122,5 @@ Japlenowina was dismissed from office in the confidence vote of the year 1980. T
 
 ### Political pariah (1980–1988)
 
-### Mayor of Imgospalje (1990–1998)
+### Mayor of Imgospalje (1988–1996)
 
