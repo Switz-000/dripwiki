@@ -47,20 +47,36 @@ military_service:
       - 
     notes:
 political_alignment:
-  - 
+  - "[[Syndicalism#New Syndicalism|Liberal Syndicalism]]"
 party: "[[Syndicalist League]]"
 parties:
-  - "[[Syndicalist League]]"
-organizations:
   - 
+organizations:
+  - "[[Federation of Confian Syndicates]]"
 offices:
-  - title:
-    employer:
-    start_year:
-    end_year:
-    appointer:
+  - title: Minister of Health 
+    employer: "[[North Nijbania]]"
+    start_year: 1988
+    end_year: 1992
+    appointer: "[[List of Confian elections|1988 gubernatorial elections in Confia]]"
     parties:
-      - 
+      - "[[Syndicalist League]]"
+    notes:
+  - title: State Governor of North Nijbania
+    employer: "[[North Nijbania]]"
+    start_year: 1992
+    end_year: 1996
+    appointer: "[[List of Confian elections|1992 gubernatorial elections in Confia]]"
+    parties:
+      - "[[Syndicalist League]]"
+    notes:
+  - title: State Governor of North Nijbania
+    employer: "[[North Nijbania]]"
+    start_year: 1988
+    end_year: 1992
+    appointer: "[[List of Confian elections|1988 gubernatorial elections in Confia]]"
+    parties:
+      - "[[Syndicalist League]]"
     notes:
 written_works:
   - title:
