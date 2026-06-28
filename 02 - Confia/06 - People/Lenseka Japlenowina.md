@@ -109,7 +109,7 @@ meta:
 
 ## Early life
 
-## Political carreer
+## Political career
 ### Prime Minister of Confia (1978–1980)
 
 Following the elections of the year 1977, the newly reformed [[Progressive Republican Party|LjWP]] formed a government with the [[Confian Liberal Party|KNP]], appointing [[Lenseka Japlenowina]] as the first democratically elected Confian prime minister after the end of the Paulowić era. Japlenowina's government, was known as the "Orange Coalition" (Confian: Ražawna Halja/Ражавна Хаља).
