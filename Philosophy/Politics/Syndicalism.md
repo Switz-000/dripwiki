@@ -2,9 +2,11 @@
 
 # History
 
+## Early syndicalism
 As unions and syndicates began forming in [[Confia]] during the urbanization boom of the mid-1800s, [[Ganzer Kieronne]], an [[Analyticalism|analyticalist]] writer, utilized logic to assert that profit is theft and ownership of the means of production by any apart from those who work in them is illegitimate. He saw the syndicates in a hopeful, almost romantic light, seeing them as a beautiful, organic institution to, in his words "delegate worker's powers back to them". He theorized a system for Confia where syndicates would not simply be organizations for collective negotiation, but economic and political control structures that could elect local councils that would send delegates to higher levels until a National Assembly of Syndicates. 
-A little discussed factor about Kieronne's writings is his [[Wanašer Gerzăn|Gerzanian]] interpretation of syndicates, stating they were a uniquely Confian and Racpalian expression. His work on the syndicalist model was focused on applying and adjusting it to Confian material realities.
+A little discussed factor about Kieronne's writings is his [[Wanašer Gerzăn|Gerzănian]] interpretation of syndicates, stating they were a uniquely Confian and Racpalian expression. His work on the syndicalist model was focused on applying and adjusting it to Confian material realities. Despite this, Confian syndicalists of all stripes often rebuke Gerzăn's ideas as racist and ethnocentric, while syndicalists abroad seek to implement this purportedly uniquely Confian movement in their homelands.
 
+## 
 # Variants
 
 ### Orthodox Syndicalism
