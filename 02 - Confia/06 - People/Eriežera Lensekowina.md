@@ -1,7 +1,6 @@
 ---
 type: person
 native_name: Eriežera Lensekowina Kasselja
-lusitanized_name:
 aliases:
   - 
 summary:
@@ -17,7 +16,7 @@ nationality:
 enhanced: false
 birth:
   year: 1900
-  city: "[[Imgospalje]]"
+  city: "[[Saint Eriogala]]"
   state: "[[Koštanože]]"
   country: "[[Dripstanian Empire]]"
 death:
