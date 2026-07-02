@@ -15,7 +15,7 @@ An atomic vocabulary of political positions used across [[Dripstan]]. Each stanc
 
 Link to individual stances using heading anchors: `[[List of political stances#Civic Armament]]`.
 
-Stances marked _(historical)_ are no longer active positions in mainstream politics but appear in historical contexts. Stances marked _(Susia-specific)_ have no close equivalent elsewhere in Dripstan.
+Stances marked _(historical)_ are no longer active positions in mainstream politics but appear in historical contexts. Stances marked _(Susia-specific)_ and _(Confia-specific)_ have no close equivalent elsewhere in Dripstan.
 
 ---
 
@@ -408,7 +408,7 @@ Active advocacy for nuclear energy expansion as the correct and morally positive
 
 ### Energy Nationalism
 
-The position that strategic energy resources should be under state control or subject to state direction. Active in Zaphonian politics around the oil industry; present in the histories of Confia's [[Końteraf]] and Susia's POCOIL.
+The position that strategic energy resources should be under state control or subject to state direction. Active in Zaphonian politics around the oil industry; present in the histories of Confia's [[Końteraf]] and Susia's [[POCOIL]].
 
 ### Environmentalism
 
