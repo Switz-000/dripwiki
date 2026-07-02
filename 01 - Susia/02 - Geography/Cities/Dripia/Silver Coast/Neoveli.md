@@ -3,8 +3,9 @@ type: city
 country: "[[Susia]]"
 state: "[[Dripia]]"
 population_2080: 5800000
-population_2000:
-population_1970:
+population_2000: 4300000
+population_1970: 2600000
+population_1950: "1700000"
 landlocked: false
 ---
 - The second largest city in [[Susia]], finance hub, cosmopolitan culture, old money meets new money

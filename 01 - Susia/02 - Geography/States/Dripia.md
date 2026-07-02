@@ -70,7 +70,7 @@ The [[Kolkov line]] high-speed rail connection to [[Postia]] has deepened econom
 ### Susian Innovation Center
 > *Main article: [[Susian Innovation Center]]*
 
-Operated by [[Troli Ustaras]], located approximately one hour north of [[Neoveli]]. The largest and most prestigious of TU's FEZ operations, housing around 180,000 residents. The FEZ functions as TU's global headquarters and primary research and development campus, concentrating work in artificial intelligence, automation, quantum computing, and cognitive enhancement. It is widely described as the most insular FEZ in [[Susia]], with residents largely socializing, educating their children, and spending their leisure time within TU's managed environment.
+Operated by [[Troli Ustaras]], located approximately one hour north of [[Neoveli]]. The largest and most prestigious of TU's FEZ operations, housing around 60,000 residents. The FEZ functions as TU's global headquarters and primary research and development campus, concentrating work in artificial intelligence, automation, quantum computing, and cognitive enhancement. It is widely described as the most insular FEZ in [[Susia]], with residents largely socializing, educating their children, and spending their leisure time within TU's managed environment.
 
 ## Major Cities
 
