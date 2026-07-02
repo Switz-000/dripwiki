@@ -33,3 +33,4 @@ international_affiliation:
 national_affiliation:
 regional_affiliation:
 ---
+**Us, Liberals!** (Confian: Mi, Niteraljci!) is a [[Confia|Confian]] left-liberal political party. 
