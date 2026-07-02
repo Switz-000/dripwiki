@@ -70,12 +70,12 @@
 
 ## 1954
 - **Event begins** — [[Ant wars]]
+- **Founded** — [[Confian Syndicalist Union]] by [[['[[Lorelaj Paulowić]]', '[[Lensek Bӑrboz]]']]]
 - **Founded** — [[Knights of the Republic]]
 - **Founded** — [[Pačese ro Virspruje]]
 - **Founded** — [[Progressive Republican Party]] by [[['[[Mariana Torres]]', '[[Genrih Maskernie]]']]]
 - **Founded** — [[Supreme Court of Susia]]
 - **Founded** — [[Susian Democratic Union]]
-- **Founded** — [[Confian Syndicalist Union]] by [[['[[Lorelaj Paulowić]]', '[[Lensek Bӑrboz]]']]]
 
 ## 1956
 - **Founded** — [[Moviment of New Susians]]
