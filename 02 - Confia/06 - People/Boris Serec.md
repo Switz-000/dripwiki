@@ -110,61 +110,61 @@ written_works:
 # ── CRIMINAL RECORD ─────────────────────────────────────────────────────────
 criminal_charges:
   - charge: Passive corruption
-    counts:
-    charged_year:
-    plea:
+    counts: 21
+    charged_year: 1999
+    plea: Not Guilty
     verdict: Guilty
-    verdict_year:
+    verdict_year: 1998
     sentence:
     served:
     in_absentia: false
     notes:
   - charge: Active corruption
     counts:
-    charged_year:
-    plea:
+    charged_year: 1998
+    plea: Not Guilty
     verdict: Guilty
-    verdict_year:
+    verdict_year: 1999
     sentence:
     served:
     in_absentia: false
     notes:
   - charge: Conspiracy to commit crimes
     counts:
-    charged_year:
-    plea:
+    charged_year: 1998
+    plea: Not Guilty
     verdict: Guilty
-    verdict_year:
+    verdict_year: 1999
     sentence:
     served:
     in_absentia: false
     notes:
   - charge: Cartel formation
     counts:
-    charged_year:
-    plea:
+    charged_year: 1998
+    plea: Not Guilty
     verdict: Guilty
-    verdict_year:
+    verdict_year: 1999
     sentence:
     served:
     in_absentia: false
     notes:
   - charge: Perversion of the office of Prime Minister
     counts:
-    charged_year:
-    plea:
+    charged_year: 1998
+    plea: Not Guilty
     verdict: Guilty
-    verdict_year:
+    verdict_year: 1999
     sentence:
     served:
     in_absentia: false
     notes:
   - charge: Mishandling of the means of production
     counts:
-    charged_year:
-    plea:
+    charged_year: 1998
+    plea: Not Guilty
     verdict: Guilty
-    verdict_year:
+    verdict_year: 1999
     sentence:
     served:
     in_absentia: false
@@ -201,4 +201,4 @@ meta:
 %%
 ganhou o premio "mico ladrão safado - o animal mais protegido de confia"
 %%
-**Boris Rodočewić Serec** (Racpalian Alphabet: Борис Родочевіч Серец) is a Confian labour rights lawyer and politician that served as the 6th Prime Minister and 2nd President of the [[Confia|United Syndicates of Confia]].
+**Boris Rodočewić Serec** (Racpalian Alphabet: Борис Родочевіч Серец) is a Confian labour rights lawyer and politician who served as the 6th Prime Minister and 2nd President of the [[Confia|United Syndicates of Confia]].

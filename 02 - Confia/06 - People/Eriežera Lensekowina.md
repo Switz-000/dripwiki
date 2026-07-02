@@ -47,9 +47,9 @@ military_service:
     notes:
 political_alignment:
   - "[[Syndicalism#New Syndicalism|New Syndicalism]]"
-party: "[[Union of Confian Syndicalists]]"
+party: "[[Confian Syndicalist Union]]"
 parties:
-  - "[[Union of Confian Syndicalists]]"
+  - "[[Confian Syndicalist Union]]"
   - "[[Syndicalist League]]"
 organizations:
   - 
@@ -63,9 +63,10 @@ offices:
       - 
     notes:
 written_works:
-  - title:
-    publication_year:
-    genre:
+  - 
+  - title: Rethinking Syndicalism (1959)
+    publication_year: 1959
+    genre: Non-fiction
     notes:
 criminal_charges:
   - charge:
@@ -102,7 +103,7 @@ meta:
 
 ## Quotes
 
->The path of the [[Paulowić regime|New Confia]] is forged by a double-edged sword: blind faith in [[Ganzer Kieronne|Kieronne]]'s words for the economic and blind faith in [[Lorelaj Paulowić|Roždawoenni's]] words for the political. What matters today for policymaking is not the strife of the worker, but a word in a piece of paper, whether written by a philosopher long ago or 
+>The path of the [[Paulowić regime|New Confia]] is forged by a double-edged sword: blind faith in [[Ganzer Kieron|Kieronne]]'s words for the economic and blind faith in [[Lorelaj Paulowić|Roždawoenni's]] words for the political. What matters today for policymaking is not the strife of the worker, but a word in a piece of paper, whether written by a philosopher long ago or 
 
 > In truth, history makes the clear case that the path towards achieving the goals of [[Syndicalism|syndicalism]] can only be fulfilled through the adoption of private property―a rejection of [[Syndicalism#Orthodox Syndicalism|Orthodoxy]] itself, and of syndicalism as we know it. Thus, **i propose the creation of a new syndicalism, one where wealth is encouraged in its creation, not seized upon completion.**
 >― Eriežera Lensekowina, [[Rethinking Syndicalism (1959)]]

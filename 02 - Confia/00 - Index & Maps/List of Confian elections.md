@@ -3,15 +3,15 @@
 
 |               Party               |        Leader        | Seats (%) | Votes (%) |   Status   |
 | :-------------------------------: | :------------------: | :-------: | :-------: | :--------: |
-| [[Union of Confian Syndicalists]] | [[Lorelaj Paulowić]] |           |           | Government |
+| [[Confian Syndicalist Union]] | [[Lorelaj Paulowić]] |           |           | Government |
 | [[Progressive Republican Party]]  |  [[Mariana Torres]]  |           |           | Opposition |
 
 ## 1956 Confian presidential election
-The first election for head of state in the history of independent Confia. It was also the only presidential election in Confian history to be held indirectly, citing lack of civilian infrastructure for vote collecting for an universal suffrage vote. The only two candidates were [[Lorelaj Paulowić]] of the [[Union of Confian Syndicalists]] and [[Mariana Torres]] of the [[Progressive Republican Party]]. The former was victorious and went on to institute the [[Enabling Amendment]].
+The first election for head of state in the history of independent Confia. It was also the only presidential election in Confian history to be held indirectly, citing lack of civilian infrastructure for vote collecting for an universal suffrage vote. The only two candidates were [[Lorelaj Paulowić]] of the [[Confian Syndicalist Union]] and [[Mariana Torres]] of the [[Progressive Republican Party]]. The former was victorious and went on to institute the [[Presidential Empowerment Amendment]].
 
 |      Candidate       |               Party               |  Votes (%)  |  Status  |
 | :------------------: | :-------------------------------: | :---------: | :------: |
-| [[Lorelaj Paulowić]] | [[Union of Confian Syndicalists]] | *227 seats* | Elected  |
+| [[Lorelaj Paulowić]] | [[Confian Syndicalist Union]] | *227 seats* | Elected  |
 |  [[Mariana Torres]]  | [[Progressive Republican Party]]  | *123 seats* | Defeated |
 ## 1977 Confian general election
 
@@ -30,7 +30,7 @@ It followed the [[Bayonet Revolution]]. It was won by [[Mariana Torres]].
 | :-------------------: | :-------------------------------: | :-------: | :------: |
 |  [[Mariana Torres]]   | [[Progressive Republican Party]]  |   51.4%   | Elected  |
 | [[Senjap Kunsekowić]] |     [[Confian Liberal Party]]     |   21.1%   | Defeated |
-|   [[Lensek Bӑrboz]]   | [[Union of Confian Syndicalists]] |   3.4%    | Defeated |
+|   [[Lensek Bӑrboz]]   | [[Confian Syndicalist Union]] |   3.4%    | Defeated |
 ## 1980 Confian confidence vote
 
 [[Lenseka Japlenowina]] lost, with 83% of the seats voting against her permanence.
@@ -52,6 +52,15 @@ A snap election held after Japlenowina's destitution. It produced a KNP majority
 ## 1981 Confian general election
 
 A standard general election. It produced an ALjP majority government.
+
+|                  Party                  | Leader | Seats (%) | Votes (%) |   Status   |
+| :-------------------------------------: | :----: | :-------: | :-------: | :--------: |
+|      [[Armotist Democratic Party]]      |        |           |           | Government |
+|         [[Syndicalist League]]          |        |           |           | Opposition |
+|             [[Ljudewlaš!]]              |        |           |           | Opposition |
+|          [[Democratic League]]          |        |           |           | Opposition |
+|        [[Confian Liberal Party]]        |        |           |           | Opposition |
+| [[Movement for Syndicalist Renovation]] |        |           |           | Opposition |
 ## 1985 Confian general election
 
 A standard general election, the first under Serec's 1983 electoral reform, which transitioned the electoral system of Confia from First Past The Post to Mixed Proportional Representation, with two-round voting for local constituencies. It produced an ALjP-LjF coalition.
