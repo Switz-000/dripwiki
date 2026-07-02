@@ -2,9 +2,6 @@
 
 > Auto-generated from vault frontmatter. Do not edit manually.
 
-## 1791
-- **Founded** — [[PIKW]]
-
 ## 1826
 - **Graduation** — [[Armadesh Versij]] — Law at [[University of New Kentu]]
 
@@ -16,6 +13,7 @@
 
 ## 1841
 - **Founded** — [[Confian Nation Party (1841)]] by [[['[[Wanašer Gerzăn]]']]]
+- **Founded** — [[PIKW]]
 
 ## 1852
 - **Founded** — [[Žošewoš Machinery]] by [[Jagan Iliož]] in [[Detujehar]]
