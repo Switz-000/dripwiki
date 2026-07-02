@@ -2,7 +2,7 @@ Presidents of the Council of Commissars of the United Syndicates of Confia (Prim
 
 | No. |                Name                |    Term     |           Party and coalition           |                                                             Election(s)                                                              |
 | :-: | :--------------------------------: | :---------: | :-------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
-|  1  |         [[Lensek Bӑrboz]]          | 1956 - 1958 |    [[Union of Confian Syndicalists]]    |                                  [[List of Confian elections#1956 Confian general election\|1956]]                                   |
+|  1  |         [[Lensek Bӑrboz]]          | 1956 - 1958 |    [[Confian Syndicalist Union]]    |                                  [[List of Confian elections#1956 Confian general election\|1956]]                                   |
 |  -  |        *position abolished*        | 1958 - 1977 |                   N/A                   |                                                                                                                                      |
 |  2  |      [[Lenseka Japlenowina]]       | 1978 - 1980 |    [[Progressive Republican Party]]     |                                  [[List of Confian elections#1977 Confian general election\|1977]]                                   |
 |  -  |  *[[Genrih Maskernie]]* (interim)  |    1980     | [[Movement for Syndicalist Renovation]] |                       [[List of Confian elections#1980 Confian confidence vote\|1980 Confian confidence vote]]                       |
@@ -18,7 +18,7 @@ Presidents of the Confian Nation (President of the Nation/President)
 
 | No. |                Name                |    Term     |                                                                                Party                                                                                 |                                Election                                |
 | :-: | :--------------------------------: | :---------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------: |
-|  1  |        [[Lorelaj Paulowić]]        | 1956 - 1958 |                                                                  [[Union of Confian Syndicalists]]                                                                   | [[List of Confian elections#1956 Confian presidential election\|1956]] |
+|  1  |        [[Lorelaj Paulowić]]        | 1956 - 1958 |                                                                  [[Confian Syndicalist Union]]                                                                   | [[List of Confian elections#1956 Confian presidential election\|1956]] |
 |  -  |        *position abolished*        | 1958 - 1977 |                                                                                 N/A                                                                                  |                         [[Enabling Amendment]]                         |
 |  2  |         [[Mariana Torres]]         | 1978 - 1985 | [[Progressive Republican Party\|Progressive Republican Party (1978-1980)]], [[Movement for Syndicalist Renovation\|Movement for Syndicalist Renovation (1980-1986)]] | [[List of Confian elections#1977 Confian presidential election\|1977]] |
 |  -  |         [[Mariana Torres]]         |    1986     |                                                               [[Movement for Syndicalist Renovation]]                                                                | [[List of Confian elections#1985 Confian presidential election\|1985]] |
@@ -31,7 +31,7 @@ Leader of the Nation
 
 | No. |              Name              |    Term     |               Party               |        Appointing        |
 | :-: | :----------------------------: | :---------: | :-------------------------------: | :----------------------: |
-|  1  |      [[Lorelaj Paulowić]]      | 1958 - 1977 | [[Union of Confian Syndicalists]] |  [[Enabling Amendment]]  |
+|  1  |      [[Lorelaj Paulowić]]      | 1958 - 1977 | [[Confian Syndicalist Union]] |  [[Enabling Amendment]]  |
 |  -  | *[[Mariana Torres]] (interim)* |    1977     | [[Progressive Republican Party]]  | *[[Bayonet Revolution]]* |
 
 Director of the Central Bank of the Confian Nation

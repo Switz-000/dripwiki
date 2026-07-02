@@ -13,7 +13,7 @@ founded_by:
 founded: 1979
 dissolved:
 merger_of:
-split_from: "[[Union of Confian Syndicalists]]"
+split_from: "[[Confian Syndicalist Union]]"
 merged_into:
 banned_by:
 legalized_by:

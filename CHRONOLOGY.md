@@ -75,7 +75,7 @@
 - **Founded** — [[Progressive Republican Party]] by [[['[[Mariana Torres]]', '[[Genrih Maskernie]]']]]
 - **Founded** — [[Supreme Court of Susia]]
 - **Founded** — [[Susian Democratic Union]]
-- **Founded** — [[Union of Confian Syndicalists]] by [[['[[Lorelaj Paulowić]]', '[[Lensek Bӑrboz]]']]]
+- **Founded** — [[Confian Syndicalist Union]] by [[['[[Lorelaj Paulowić]]', '[[Lensek Bӑrboz]]']]]
 
 ## 1956
 - **Founded** — [[Moviment of New Susians]]
@@ -110,7 +110,7 @@
 - **Founded** — [[Confian Nation Party (1977)]]
 
 ## 1979
-- **Dissolved** — [[Union of Confian Syndicalists]]
+- **Dissolved** — [[Confian Syndicalist Union]]
 - **Founded** — [[Atompron]] by [[['[[Susian Federal Government]]']]] in [[Niqueparje]]
 - **Founded** — [[Syndicalist League]] by [[['[[Katerina Armoljubca Nožeslawna|KAN]]', '[[Eriežera Lensekowina]]']]]
 
