@@ -8,6 +8,9 @@
 ## 1826
 - **Graduation** — [[Armadesh Versij]] — Law at [[University of New Kentu]]
 
+## 1829
+- **Founded** — [[Union of Confian Syndicalists]]
+
 ## 1830
 - **Founded** — [[Ražaw]] in [[Imgospalje]]
 
