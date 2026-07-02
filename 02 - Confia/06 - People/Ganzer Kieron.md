@@ -99,3 +99,4 @@ meta:
   verified: false
   image:
 ---
+**Ganzer Nisewić Kieron** was a [[Confia|Confian]] philosopher, writer and politician.
