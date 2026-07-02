@@ -3,8 +3,9 @@ type: city
 country: "[[Susia]]"
 state: "[[Dripia]]"
 population_2080: 580000
-population_2000:
-population_1970:
+population_2000: 430000
+population_1970: 210000
+population_1950: "130000"
 landlocked: true
 aliases:
   - Răz Kentu
