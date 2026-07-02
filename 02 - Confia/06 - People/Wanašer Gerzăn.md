@@ -128,4 +128,4 @@ meta:
   verified: false
   image: null
 ---
-**Wanašer Gerzăn** was a [[Confia|Confian]] philosopher, writer and politician, known for his ethnonationalist theories that became the foundation of the Confian national identity
+**Wanašer Gerzăn** was a [[Confia|Confian]] philosopher, writer and politician, known for his ethnonationalist theories that became the foundation of the Confian national identity. His philosophy purported to divide humanity into linguistically, ethnically, culturally, and geographically contiguous metaphysical entities known as 'nations', which he sharply distinguished from purely political 'countries'.
