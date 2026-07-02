@@ -69,7 +69,7 @@ era:
 			- state_of_confia # 1950-1953
 			- confian_anarchy # 1954-1956
 	- united_syndicates # 1956–2009, Proclamation to 2009 constitution
-		- paulowic_regime # 1956–1977, Enabling Act to Bayonet Revolution
+		- paulowic_regime # 1956–1977, Presidential Empowerment Amendment to Bayonet Revolution
 			- continental-war # 1975–1977, hot war
 		- syndicalist_republic # 1977–2009
 	- social_republic # 2009-present 

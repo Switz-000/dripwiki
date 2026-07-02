@@ -59,7 +59,7 @@ offices:
     employer: "[[Confian National Government]]"
     start_year: 1958
     end_year: 1977
-    appointer: "[[Enabling Amendment]]"
+    appointer: "[[Presidential Empowerment Amendment]]"
     parties:
       - "[[Confian Syndicalist Union]]"
     notes:

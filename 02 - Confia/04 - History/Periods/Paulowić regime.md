@@ -1,4 +1,4 @@
-From the [[Enabling Amendment]] in Vartelian 21st, 1958 to the [[Bayonet Revolution]] in Verenian 2nd, 1977, Confia was under a totalitarian dictatorship led by [[Lorelaj Paulowić]].
+From the [[Presidential Empowerment Amendment]] in Vartelian 21st, 1958 to the [[Bayonet Revolution]] in Verenian 2nd, 1977, Confia was under a totalitarian dictatorship led by [[Lorelaj Paulowić]].
 
 # History
 
@@ -6,7 +6,7 @@ From the [[Enabling Amendment]] in Vartelian 21st, 1958 to the [[Bayonet Revolut
 
 The Paulowić government was marked by severe political repression in all spheres of public life. 
 
-De jure, the government structure was reasonably democratic, with each syndicate electing its local leaders, who then elected their state and [[National Assembly of Confian Syndicates|national representatives]]. However, elections within the syndicates were dominated by the ragged-sleeve elite, who always had their candidates victorious. After the [[Enabling Amendment]], the [[Confian Syndicalist Union]] was the only legal party, with all other organizations banned and persecuted, most notably the [[Progressive Republican Party]].
+De jure, the government structure was reasonably democratic, with each syndicate electing its local leaders, who then elected their state and [[National Assembly of Confian Syndicates|national representatives]]. However, elections within the syndicates were dominated by the ragged-sleeve elite, who always had their candidates victorious. After the [[Presidential Empowerment Amendment]], the [[Confian Syndicalist Union]] was the only legal party, with all other organizations banned and persecuted, most notably the [[Progressive Republican Party]].
 These elections were riddled with electoral fraud and intimidation, with non-ragged-sleeve candidates having their lives and those of their families threatened by the state apparatus. Votes were not secret, and ballot-box intimidation was widespread. Thus, the ragged-sleeves oversaw an ongoing concentration of their power, particularly in low-income industrial districts such as [[Saint Eriogala]], forming electoral strongholds that persisted even after the fall of the Syndicalist government.
 ### Political repression
 

@@ -3,15 +3,11 @@ aliases:
   - Ditanian Democratizing Army
 ---
 Type: Foreign volunteer contingent for [[Government of National Salvation|GNS]] (1981-1986) Warlord rump state (1986-1994)
-
 Leader: [[Sataria Žartonna|Sataria Kunsekowina Žartonna]] (1983-1994)
-
 Ideology: N/A (1983-1986) [[Versijism]] (1986-1994)
-
 Goals: Aid to GNS (1983-1986) Reunification (1986-1994)
 
 Allies:
-
 - State:
 	- [[Confia|United Syndicates of Confia]] (1983-1994)
 	- [[Susia|Federative Republic of Susia]] (1983-1994)
