@@ -1,30 +1,34 @@
 ---
 type: person
-native_name: Lensek Matetijewic Bӑrboz
+native_name: Ganzer Nisewić Kieron
 lusitanized_name:
 aliases:
-  - Bӑrboz
+  - Kieronne
+  - Kieronnean
 summary:
-sex: male
+sex: Male
 ethnicity: "[[East Gaiyanese]]"
-religion: "[[Armotist Church of the Confian Synod]]"
+religion:
 citizenship:
-  - 
+  - "[[Dripstanian Empire|Dripstanian]]"
 nationality:
-  - 
+  - "[[Dripstanian Empire|Dripstanian]]"
 enhanced: false
 birth:
-  year:
+  year: 1799
   city:
+    - - Imgospalje
   state:
+    - - Koštanože
   country:
+    - - General Government of Confia
 death:
-  year: 1979
-  city: "[[Imgospalje]]"
-  state: "[[Koštanože]]"
-  country: "[[Confia]]"
-  cause: Assassination by gunshot
-spouse:
+  year: 1854
+  city: "[[Carlotopolis]]"
+  state: "[[Karlotopol']]"
+  country: "[[General Government of Confia]"
+  cause: Tuberculosis
+spouse: Sataria Kieronna
 children_count:
 education:
   - degree:
@@ -45,10 +49,10 @@ military_service:
       - 
     notes:
 political_alignment:
-  - Far-left
-party: "[[Confian Syndicalist Union]]"
+  - 
+party: "[[Union of Confian Syndicalists]]"
 parties:
-  - "[[Confian Syndicalist Union]]"
+  - 
 organizations:
   - 
 offices:
@@ -95,3 +99,4 @@ meta:
   verified: false
   image:
 ---
+**Ganzer Nisewić Kieron** was a [[Confia|Confian]] philosopher, writer and politician.

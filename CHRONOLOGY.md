@@ -2,17 +2,18 @@
 
 > Auto-generated from vault frontmatter. Do not edit manually.
 
-## 1791
-- **Founded** — [[PIKW]]
-
 ## 1826
 - **Graduation** — [[Armadesh Versij]] — Law at [[University of New Kentu]]
+
+## 1829
+- **Founded** — [[Union of Confian Syndicalists]]
 
 ## 1830
 - **Founded** — [[Ražaw]] in [[Imgospalje]]
 
 ## 1841
 - **Founded** — [[Confian Nation Party (1841)]] by [[['[[Wanašer Gerzăn]]']]]
+- **Founded** — [[PIKW]]
 
 ## 1852
 - **Founded** — [[Žošewoš Machinery]] by [[Jagan Iliož]] in [[Detujehar]]
@@ -70,12 +71,12 @@
 
 ## 1954
 - **Event begins** — [[Ant wars]]
+- **Founded** — [[Confian Syndicalist Union]] by [[['[[Lorelaj Paulowić]]', '[[Lensek Bӑrboz]]']]]
 - **Founded** — [[Knights of the Republic]]
 - **Founded** — [[Pačese ro Virspruje]]
 - **Founded** — [[Progressive Republican Party]] by [[['[[Mariana Torres]]', '[[Genrih Maskernie]]']]]
 - **Founded** — [[Supreme Court of Susia]]
 - **Founded** — [[Susian Democratic Union]]
-- **Founded** — [[Union of Confian Syndicalists]] by [[['[[Lorelaj Paulowić]]', '[[Lensek Bӑrboz]]']]]
 
 ## 1956
 - **Founded** — [[Moviment of New Susians]]
@@ -110,7 +111,7 @@
 - **Founded** — [[Confian Nation Party (1977)]]
 
 ## 1979
-- **Dissolved** — [[Union of Confian Syndicalists]]
+- **Dissolved** — [[Confian Syndicalist Union]]
 - **Founded** — [[Atompron]] by [[['[[Susian Federal Government]]']]] in [[Niqueparje]]
 - **Founded** — [[Syndicalist League]] by [[['[[Katerina Armoljubca Nožeslawna|KAN]]', '[[Eriežera Lensekowina]]']]]
 

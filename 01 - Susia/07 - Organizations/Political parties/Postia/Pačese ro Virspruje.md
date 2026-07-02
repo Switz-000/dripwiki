@@ -53,6 +53,12 @@ The **Pačese ro Virspruje** (PrV, Party of the Republic) was a civic republican
 
 The PrV was founded in 1954 simultaneously with the ratification of the Susian constitution, a timing that defined its character. It did not seek to restore a prior order or advance a programmatic transformation of society. It sought to make the republic's founding promises real. Drawing directly on the philosophy of [[Armadesh Versij]], the party treated the constitution as a supreme and living instrument requiring constant defense, and the right to rebel as an obligation rather than a last resort.
 
+%%
+And this gets to the heart to where PrV becomes something no other party ever became. 
+It did not just seek to restore a prior order—it sought to make the republic's founding promises real. 
+And honestly? That's growth.
+%%
+
 Party leadership was drawn from intellectuals, lawyers, journalists, and university figures. Its base was broader, encompassing civil organizers, anti-imperial activists, and others who had agitated against the [[Dripstanian Empire]] during the [[dissolution]] period. The party's newspaper, [[The Versijian]], articulated its constitutional positions, while the [[Young Versijians]] served as its youth organization.
 
 ## Paramilitary wing

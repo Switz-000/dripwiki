@@ -180,7 +180,7 @@ National economic strategy built on resource extraction for export. The dominant
 
 > _Main article: [[Syndicalism]]_
 
-Worker ownership and management of the means of production through syndicates. The founding economic model of Confia; survived in institutional form after 1977 despite the retreat of its economic content. Originated in the mid-1800s Confian urbanization boom when [[Ganzer Kieronne]], an [[Analyticalism|analyticalist]] writer, argued that profit is theft and ownership of the means of production by any apart from those who work in them is illegitimate. Kieronne's vision was for syndicates to function as economic and political control structures electing councils from local to national level. The stance has produced several major variants.
+Worker ownership and management of the means of production through syndicates. The founding economic model of Confia; survived in institutional form after 1977 despite the retreat of its economic content. Originated in the mid-1800s Confian urbanization boom when [[Ganzer Kieron]], an [[Analyticalism|analyticalist]] writer, argued that profit is theft and ownership of the means of production by any apart from those who work in them is illegitimate. Kieronne's vision was for syndicates to function as economic and political control structures electing councils from local to national level. The stance has produced several major variants.
 
 ### Anti-Syndicalism
 

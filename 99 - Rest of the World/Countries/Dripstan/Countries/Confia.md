@@ -34,7 +34,7 @@ borders_south:
 
 The territory where Confia is currently located began to be occupied by Racpalians (East Gaiyanese) from the Second Gaiyan Migration in the late 1780s and early 1800s, following the [[Rural Properties Act]], sanctioned by [[Empress Veronique]]. With the gradual occupation of the territory west of the mountains, the [[General Government of Confia]] was established, a new territory directly controlled by the Empress.
 
-After the end of the period of anarchy, in year 1956, the United Syndicates of Confia were created. The country was created as the first syndicalist state in the world, existing from 1956 to 1977 as a one-party state under the control of the dictator [[Lorelaj Paulowić]], of the [[Union of Confian Syndicalists]]. The brutality of this regime caused armed dissent. During the [[Continental War]], syndicalist and liberal guerrilla groups led by Mariana Torres organized a [[Bayonet Revolution|nationwide revolution]] and overthrew the SKS government.
+After the end of the period of anarchy, in year 1956, the United Syndicates of Confia were created. The country was created as the first syndicalist state in the world, existing from 1956 to 1977 as a one-party state under the control of the dictator [[Lorelaj Paulowić]], of the [[Confian Syndicalist Union]]. The brutality of this regime caused armed dissent. During the [[Continental War]], syndicalist and liberal guerrilla groups led by Mariana Torres organized a [[Bayonet Revolution|nationwide revolution]] and overthrew the KSS government.
 
 Following the revolution and the subsequent elections, Confia endured several democratically elected governments with peaceful power transitions and tranquil instances of cohabitation. It formally joined the ODDN in 1993, formed the [[Lasman Economic Initiative]] customs union with Susia in 2000.
 # History
@@ -61,7 +61,7 @@ After the gradual occupation of Confian territory, in 1786 the General Governmen
 
 ## The Paulowić Era (1956-1977)
 
-After the [[Enabling Amendment]], Paulowić effectively consolidated his power as a dictator, merging the roles of Prime Minister and President into the Leader of the Nation.
+After the [[Presidential Empowerment Amendment]], Paulowić effectively consolidated his power as a dictator, merging the roles of Prime Minister and President into the Leader of the Nation.
 
 The Paulowić era was marked by the [[Continental Divide]] against Susia, where both countries attempted to spread their ideological ideals throughout the world, primarily through proxy wars. The main conflicts include the [[Bridge War]], the [[Sutsa-Fuhu Civil War]], and the [[Pierej Crisis]].
 
@@ -104,6 +104,6 @@ The Japlenowina government's attempts to bring inflation under control through t
 
 > _Main article: [[Senjap Kunsekowić]]_
 
-The snap elections of 1980 produced a [[Confian Liberal Party]] majority government under [[Senjap Kunsekowić]]. The [[New Torch Plan]] broke the backbone of inflation through a new currency pegged to the Susian drip and a fiscal surplus achieved by cancelling Japlenowina-era subsidies. Structural reforms to the syndicate-based electoral and labour system followed. The government collapsed in 1982 following the [[Čirwašata]] scandal, fracturing the [[Confian Liberal Party]] and clearing the path for [[Boris Serec]]'s [[Armotist Democratic Party]].
+The snap elections of 1980 produced a [[Confian Liberal Party]] majority government under [[Senjap Kunsekowić]]. The [[New Torch Plan]] broke the backbone of inflation through a new currency pegged to the Susian drip and a fiscal surplus achieved by cancelling multiple sectoral subsidies. [[Labour and Capital Reforms|Structural reforms]] to the syndicate-based electoral and labour system followed. The government collapsed in 1982 following the [[Čirwašata]] scandal, fracturing the [[Confian Liberal Party]] and clearing the path for [[Boris Serec]]'s [[Armotist Democratic Party]].
 
 

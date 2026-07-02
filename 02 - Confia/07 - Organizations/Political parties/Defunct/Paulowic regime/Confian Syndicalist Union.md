@@ -1,11 +1,11 @@
 ---
 type: organization
-name: Union of Confian Syndicalists
-native_name: Sǎh Końfiskih Syndăkalisci
-abbreviation: SKS
+name: Confian Syndicalist Union
+native_name: Końfiski Syndăkalicki Sǎh
+abbreviation: KSS
 aliases:
-  - SKS
-status: Defunct
+  - KSS
+status: Banned
 founded_by:
   - "[[Lorelaj Paulowić]]"
   - "[[Lensek Bӑrboz]]"
