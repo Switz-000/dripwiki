@@ -104,7 +104,7 @@ criminal_charges:
 
 # ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
-  - item: "[[Labour and Capital Reform Amendment]]"
+  - item: "[[Labour and Capital Reform ACCN]]"
     notes:
   - item: "[[New Torch Plan]]"
     notes:

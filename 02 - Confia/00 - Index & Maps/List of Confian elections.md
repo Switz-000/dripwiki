@@ -52,6 +52,15 @@ A snap election held after Japlenowina's destitution. It produced a KNP majority
 ## 1981 Confian general election
 
 A standard general election. It produced an ALjP majority government.
+
+|                  Party                  | Leader | Seats (%) | Votes (%) |   Status   |
+| :-------------------------------------: | :----: | :-------: | :-------: | :--------: |
+|      [[Armotist Democratic Party]]      |        |           |           | Government |
+|         [[Syndicalist League]]          |        |           |           | Opposition |
+|             [[Ljudewlaš!]]              |        |           |           | Opposition |
+|          [[Democratic League]]          |        |           |           | Opposition |
+|        [[Confian Liberal Party]]        |        |           |           | Opposition |
+| [[Movement for Syndicalist Renovation]] |        |           |           | Opposition |
 ## 1985 Confian general election
 
 A standard general election, the first under Serec's 1983 electoral reform, which transitioned the electoral system of Confia from First Past The Post to Mixed Proportional Representation, with two-round voting for local constituencies. It produced an ALjP-LjF coalition.

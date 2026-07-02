@@ -3,7 +3,7 @@ type: company
 company_name: Bank of the Confian Nation
 native_company_name: Ploít Konfiskae Wjaže
 company_type: Private corporation
-founded: 1791
+founded: 1841
 founding_place:
 headquarters: "[[Imgospalje]]"
 market_cap:
