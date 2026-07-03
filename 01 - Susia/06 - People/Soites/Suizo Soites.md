@@ -5,7 +5,7 @@ native_name:
 lusitanized_name: Suizo Soites
 aliases:
   -
-summary: Susian statesman, entrepreneur, and author (1911–1995) who led the constitutional convention that founded the Federative Republic of Susia in 1954 and served as its first president through two terms until 1962. A pragmatic liberal shaped by the philosophy of Armadesh Versij, he established foundational republican institutions before retiring from politics to found the Soites Group. He is considered the central figure in the formation of modern Susian national identity.
+summary: Susian statesman, entrepreneur, and author (1911–1995) who led the founding of Susia in 1954 and served as its first president through two terms before retiring from politics to found the Soites Group.
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: Male
