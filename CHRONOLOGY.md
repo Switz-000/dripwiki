@@ -156,7 +156,7 @@
 - **Document recorded** — [[Grawolja Lasmanna with the Five of Goretopol']] (interview)
 
 ## 2008
-- **Founded** — [[Astralis Banking Group]] in [[Sužielaj City]]
+- **Founded** — [[Astralis Banking Group]] in [[Sužielaj city]]
 
 ## 2009
 - **Document recorded** — [[Kolkov Interview 2009]] (interview)
@@ -178,7 +178,7 @@
 - **Yarnojte granted** — [[Soites Group]]
 
 ## 2065
-- **Founded** — [[Lischev-Verene]] in [[Sužielaj City]]
+- **Founded** — [[Lischev-Verene]] in [[Sužielaj city]]
 
 ## 2073
 - **Founded** — [[Rǎz Lizňir]] in [[Velúria]]

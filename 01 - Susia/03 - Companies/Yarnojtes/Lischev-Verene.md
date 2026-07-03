@@ -7,7 +7,7 @@ company_name: Lischev-Verene Biomedical Corporation
 native_company_name:
 company_type: Public corporation
 founded: 2065
-founding_place: "[[Sužielaj City]]"
+founding_place: "[[Sužielaj city]]"
 headquarters: "[[Garden of Latice FEZ]]"
 market_cap: 3200000000000
 sector:
@@ -23,8 +23,8 @@ tags:
   - science
   - technology
   - labor
-yarnojte_status: 
-  fez_locations: 
+yarnojte_status:
+  fez_locations:
 ---
 **Lischev-Verene Biomedical Corporation** (commonly known as **LV** or **LV Biomedical**) is a [[Susia|Susian]] multinational corporation and one of the nation's six active [[Yarnojte|Yarnojtes]]. Formed in 2065 through the merger of [[Lischev Pharmaceuticals]] and [[Verene Biosciences]], the company operates in cognitive enhancement procedures, life extension programs, pharmaceuticals, and healthcare services. It is headquartered at the [[Garden of Latice FEZ]] in [[Sužielaj]] and employs approximately 880,000 people. Its market capitalization is D$3.2 trillion as of 2080. [[Yarnojte]] status was granted in 2073.
 
@@ -44,7 +44,7 @@ By the 2050s, Lischev was losing market share to competitors better positioned t
 
 ### The Merger (2065)
 
-The merger was driven by complementary deficiencies. Verene had the research and clinical pipeline; Lischev had the manufacturing infrastructure and distribution network. The resulting entity was incorporated in [[Sužielaj City]] as a standard public corporation, eliminating Verene's Public Benefit Corporation status. Lischev, as the larger and more established partner, contributed the dominant corporate culture. Verene's more idealistic institutional character was largely absorbed into Lischev's professional and pragmatic orientation, a transition that caused significant attrition among Verene's research staff in the first years following the merger.
+The merger was driven by complementary deficiencies. Verene had the research and clinical pipeline; Lischev had the manufacturing infrastructure and distribution network. The resulting entity was incorporated in [[Sužielaj city]] as a standard public corporation, eliminating Verene's Public Benefit Corporation status. Lischev, as the larger and more established partner, contributed the dominant corporate culture. Verene's more idealistic institutional character was largely absorbed into Lischev's professional and pragmatic orientation, a transition that caused significant attrition among Verene's research staff in the first years following the merger.
 
 [[Red Iron]] led the merger's financial structuring.
 

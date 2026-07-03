@@ -21,7 +21,7 @@ capital: "[[Soiteslaj]]"
 major_cities:
   - "[[Neoveli]]"
   - "[[Duolij]]"
-  - "[[Sužielaj City]]"
+  - "[[Sužielaj city]]"
   - "[[Soiteslaj]]"
   - "[[New Duloc]]"
   - "[[Donetruže]]"
