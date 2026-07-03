@@ -5,7 +5,7 @@ state: "[[Orlítia]]"
 population_2080: 1200000
 population_2000:
 population_1970:
-landlocked: true
+landlocked: false
 ---
 The City of Reinvention
 
