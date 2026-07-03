@@ -4,10 +4,10 @@ country: "[[Susia]]"
 state_name: Sužielaj
 demonym: Sužielajian
 state_animal: Otter
-capital: "[[Sužielaj City]]"
-largest_city: "[[Sužielaj City]]"
+capital: "[[Sužielaj city]]"
+largest_city: "[[Sužielaj city]]"
 cities:
-  - "[[Sužielaj City]]"
+  - "[[Sužielaj city]]"
   - "[[Damčev]]"
 population_2080: 36000000
 population_2000:

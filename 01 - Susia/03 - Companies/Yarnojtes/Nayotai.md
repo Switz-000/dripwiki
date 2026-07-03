@@ -63,7 +63,7 @@ Following the resolution of that crisis, Nayotai stabilized under new leadership
 > *Main article: [[Postia Manufacturing Center FEZ]]*
 > *Main article: [[Sužielaj Industrial Park]]*
 
-Nayotai's domestic manufacturing base is concentrated in its two Free Economic Zones. The [[Postia Manufacturing Center FEZ]], located two hours east of [[New Duloc]], is the company's global headquarters and primary production facility, housing approximately 82,000 residents. The [[Sužielaj Industrial Park]], located two hours north of [[Sužielaj City]], houses approximately 33,000 residents and specializes in rail systems and precision manufacturing. Both zones integrate residential, transit, and production infrastructure under unified management.
+Nayotai's domestic manufacturing base is concentrated in its two Free Economic Zones. The [[Postia Manufacturing Center FEZ]], located two hours east of [[New Duloc]], is the company's global headquarters and primary production facility, housing approximately 82,000 residents. The [[Sužielaj Industrial Park]], located two hours north of [[Sužielaj city]], houses approximately 33,000 residents and specializes in rail systems and precision manufacturing. Both zones integrate residential, transit, and production infrastructure under unified management.
 
 #### Independent Susia
 

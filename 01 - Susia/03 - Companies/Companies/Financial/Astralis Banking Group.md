@@ -4,8 +4,8 @@ company_name: Astralis Banking Group
 native_company_name: Poč-Hoch Ňaržejoy
 company_type: Public Corporation
 founded: 2008
-founding_place: "[[Sužielaj City]]"
-headquarters: "[[Sužielaj City]]"
+founding_place: "[[Sužielaj city]]"
+headquarters: "[[Sužielaj city]]"
 market_cap: 322000000000
 yarnojte: false
 yarnojte_granted:
