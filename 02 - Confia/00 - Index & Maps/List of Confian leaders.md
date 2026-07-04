@@ -1,3 +1,6 @@
+
+# Syndicalist Republic (1977-2009)
+
 Presidents of the Council of Commissars of the United Syndicates of Confia (Prime Minister)
 
 | No. |                Name                |    Term     |           Party and coalition           |                                                             Election(s)                                                              |
@@ -26,6 +29,7 @@ Presidents of the Confian Nation (President of the Nation/President)
 |  -  |          [[Boris Serec]]           | 1994 - 1998 |                                                                    [[Armotist Democratic Party]]                                                                     | [[List of Confian elections#1993 Confian presidential election\|1993]] |                    Resignation                    |
 |  4  | [[Katerina Armoljubca Nožeslawna]] | 1998 - 2000 |                                                                        [[Syndicalist League]]                                                                        | [[List of Confian elections#1998 Confian presidential election\|1998]] |                     Term end                      |
 |  -  | [[Katerina Armoljubca Nožeslawna]] | 2001 - 2008 |                                                                        [[Syndicalist League]]                                                                        | [[List of Confian elections#2000 Confian presidential election\|2000]] |               [[2009 Constitution]]               |
+# Paulowic Regime (1958-1977)
 
 Leader of the Nation
 
@@ -33,6 +37,7 @@ Leader of the Nation
 | :-: | :----------------------------: | :---------: | :-------------------------------: | :----------------------: |
 |  1  |      [[Lorelaj Paulowić]]      | 1958 - 1977 | [[Confian Syndicalist Union]] |  [[Presidential Empowerment Amendment]]  |
 |  -  | *[[Mariana Torres]] (interim)* |    1977     | [[Progressive Republican Party]]  | *[[Bayonet Revolution]]* |
+# Other/historical
 
 Director of the Central Bank of the Confian Nation
 
