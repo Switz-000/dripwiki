@@ -2,19 +2,19 @@
 
 President of the Nation (President)
 
-| No. |        Name         |   Term    |         Party          | Vice President |     Notes      |
-| :-: | :-----------------: | :-------: | :--------------------: | :------------: | :------------: |
-|  1  | [[Ganzer Teahowić]] | 2009-2011 | [[Syndicalist League]] |                | Died in office |
-|  2  |                     | 2011-2013 | [[Syndicalist League]] |                |                |
-|  3  | [[Nisa Peskilonna]] | 2014-2018 | [[Republican Promise]] |                |                |
-|  -  | [[Nisa Peskilonna]] | 2019-2023 | [[Republican Promise]] |                |                |
-|  4  |                     |           |     *Independent*      |                |                |
-|  -  |                     |           |                        |                |                |
-|  -  |                     |           |                        |                |                |
-|  -  |                     |           |                        |                |                |
-|  -  |                     |           |                        |                |                |
-|  -  |                     |           |                        |                |                |
-|  -  |                     |           |                        |                |                |
+| No. |        Name         |   Term    |         Party          |  Vice President  |     Notes      |
+| :-: | :-----------------: | :-------: | :--------------------: | :--------------: | :------------: |
+|  1  | [[Ganzer Teahowić]] | 2009-2011 | [[Syndicalist League]] | [[Tegiron Hari]] | Died in office |
+|  2  |  [[Tegiron Hari]]   | 2011-2013 | [[Syndicalist League]] |                  |                |
+|  3  | [[Nisa Peskilonna]] | 2014-2018 | [[Republican Promise]] |                  |                |
+|  -  | [[Nisa Peskilonna]] | 2019-2023 | [[Republican Promise]] |                  |                |
+|  4  |                     |           |     *Independent*      |                  |                |
+|  -  |                     |           |                        |                  |                |
+|  -  |                     |           |                        |                  |                |
+|  -  |                     |           |                        |                  |                |
+|  -  |                     |           |                        |                  |                |
+|  -  |                     |           |                        |                  |                |
+|  -  |                     |           |                        |                  |                |
 # Syndicalist Republic (1977-2009)
 
 Presidents of the Council of Commissars of the United Syndicates of Confia (Prime Minister)
