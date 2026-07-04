@@ -161,3 +161,6 @@ Snap election called after Boris Serec's resignation.
 ## 2001 Confian general election
 
 Standard election. First election after the collapse of the [[Armotist Democratic Party]]. Produced an SF-MN-KLjP coalition.
+
+See also
+[[List of Confian leaders]]
