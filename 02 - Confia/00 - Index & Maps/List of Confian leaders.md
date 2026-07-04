@@ -1,11 +1,27 @@
+# Social Republic (2009-)
 
+President of the Nation (President)
+
+| No. |        Name         |   Term    |         Party          | Vice President |     Notes      |
+| :-: | :-----------------: | :-------: | :--------------------: | :------------: | :------------: |
+|  1  | [[Ganzer Teahowić]] | 2009-2011 | [[Syndicalist League]] |                | Died in office |
+|  2  |                     | 2011-2013 | [[Syndicalist League]] |                |                |
+|  3  | [[Nisa Peskilonna]] | 2014-2018 | [[Republican Promise]] |                |                |
+|  -  | [[Nisa Peskilonna]] | 2019-2023 | [[Republican Promise]] |                |                |
+|  4  |                     |           |                        |                |                |
+|  -  |                     |           |                        |                |                |
+|  -  |                     |           |                        |                |                |
+|  -  |                     |           |                        |                |                |
+|  -  |                     |           |                        |                |                |
+|  -  |                     |           |                        |                |                |
+|  -  |                     |           |                        |                |                |
 # Syndicalist Republic (1977-2009)
 
 Presidents of the Council of Commissars of the United Syndicates of Confia (Prime Minister)
 
 | No. |                Name                |    Term     |           Party and coalition           |                                                             Election(s)                                                              |
 | :-: | :--------------------------------: | :---------: | :-------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
-|  1  |         [[Lensek Bӑrboz]]          | 1956 - 1958 |    [[Confian Syndicalist Union]]    |                                  [[List of Confian elections#1956 Confian general election\|1956]]                                   |
+|  1  |         [[Lensek Bӑrboz]]          | 1956 - 1958 |      [[Confian Syndicalist Union]]      |                                  [[List of Confian elections#1956 Confian general election\|1956]]                                   |
 |  -  |        *position abolished*        | 1958 - 1977 |                   N/A                   |                                                                                                                                      |
 |  2  |      [[Lenseka Japlenowina]]       | 1978 - 1980 |    [[Progressive Republican Party]]     |                                  [[List of Confian elections#1977 Confian general election\|1977]]                                   |
 |  -  |  *[[Genrih Maskernie]]* (interim)  |    1980     | [[Movement for Syndicalist Renovation]] |                       [[List of Confian elections#1980 Confian confidence vote\|1980 Confian confidence vote]]                       |
