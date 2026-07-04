@@ -8,7 +8,7 @@ President of the Nation (President)
 |  2  |                     | 2011-2013 | [[Syndicalist League]] |                |                |
 |  3  | [[Nisa Peskilonna]] | 2014-2018 | [[Republican Promise]] |                |                |
 |  -  | [[Nisa Peskilonna]] | 2019-2023 | [[Republican Promise]] |                |                |
-|  4  |                     |           |                        |                |                |
+|  4  |                     |           |     *Independent*      |                |                |
 |  -  |                     |           |                        |                |                |
 |  -  |                     |           |                        |                |                |
 |  -  |                     |           |                        |                |                |
