@@ -81,7 +81,7 @@ The Paulowić government was marked by severe political repression in all sphere
 
 The labour camp known as the [[Talfaslaž]], a symbol of the General Government's repression in Confia, initially had all its prisoners released in 1956, but they were quickly replaced by captured members of the KWD and later by regime opponents. The People's Security Department transformed the former penal labor prison into a concentration camp, adding new forced labor facilities and torture chambers to keep the prisoners in line. Many government projects used forced labor from these prisoners to reduce construction costs. 
 
-### The Continental War and the Bayonets Revolution (1975-1977)
+### The Continental War and the Bayonet Revolution (1975-1977)
 
 During the end days of the [[Continental War]], the RBWIZ took Imgospalje, marching towards the [[Palace of the Revolution]]. Finding it empty, the end of the Paulowić government was declared. [[Mariana Torres]] was granted the title of interim leader.
 
