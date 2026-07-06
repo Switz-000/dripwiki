@@ -83,7 +83,7 @@ The labour camp known as the [[Talfaslaž]], a symbol of the General Government'
 
 ### The Continental War and the Bayonet Revolution (1975-1977)
 
-During the end days of the [[Continental War]], the RBWIZ took Imgospalje, marching towards the [[Palace of the Revolution]]. Finding it empty, the end of the Paulowić government was declared. [[Mariana Torres]] was granted the title of interim leader.
+During the end days of the [[Continental War]], the RBWIZ took [[Imgospalje]], marching towards the [[Palace of the Revolution]]. Finding it empty, the end of the [[Paulowić regime]] was declared. [[Mariana Torres]] was granted the title of interim leader.
 
 ## Syndicalist Republic (1977-2009)
 
