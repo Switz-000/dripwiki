@@ -5,7 +5,7 @@ subject:
   - "[[Grawolja Lasmanna]]"
   - "[[List of Confian governments#Lasmanna cabinet|Lasmanna's tenure as Prime Minister]]"
   - Central bank independence
-recorded_year: 2005
+recorded_year: 2009
 participants:
   - "[[Grawolja Lasmanna]]"
 location:
@@ -15,5 +15,4 @@ location:
   - "[[Confia]]"
 published_by: "[[KSH]]"
 ---
-
-In 2005, former Confian Prime Minister and Central Bank director [[Grawolja Lasmanna]] gave an interview in the [[KSH]] show [[Five of Goretopol']].
+In 2009, former Confian Prime Minister and Central Bank director [[Grawolja Lasmanna]] gave an interview in the [[KSH]] show [[Five of Goretopol']].

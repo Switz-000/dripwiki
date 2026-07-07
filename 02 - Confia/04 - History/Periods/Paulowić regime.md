@@ -6,13 +6,19 @@ From the [[Presidential Empowerment Amendment]] in Vartelian 21st, 1958 to the [
 
 The Paulowić government was marked by severe political repression in all spheres of public life. 
 
-De jure, the government structure was reasonably democratic, with each syndicate electing its local leaders, who then elected their state and [[National Assembly of Confian Syndicates|national representatives]]. However, elections within the syndicates were dominated by the ragged-sleeve elite, who always had their candidates victorious. After the [[Presidential Empowerment Amendment]], the [[Confian Syndicalist Union]] was the only legal party, with all other organizations banned and persecuted, most notably the [[Progressive Republican Party]].
-These elections were riddled with electoral fraud and intimidation, with non-ragged-sleeve candidates having their lives and those of their families threatened by the state apparatus. Votes were not secret, and ballot-box intimidation was widespread. Thus, the ragged-sleeves oversaw an ongoing concentration of their power, particularly in low-income industrial districts such as [[Saint Eriogala]], forming electoral strongholds that persisted even after the fall of the Syndicalist government.
+De jure, the government structure was reasonably democratic, with each syndicate electing its local leaders, who then elected their state and [[National Assembly of Confian Syndicates|national representatives]]. However, elections within the syndicates were dominated by the ragged-sleeve elite, who always had their candidates victorious. These elections were riddled with electoral fraud and intimidation, with non-ragged-sleeve candidates having their lives and those of their families threatened by the state apparatus. Votes were not secret, and ballot-box intimidation was widespread. Thus, the ragged-sleeves oversaw an ongoing concentration of their power, particularly in low-income industrial districts such as [[Saint Eriogala]], forming electoral strongholds that persisted even after the fall of the Syndicalist government.
+After the [[Presidential Empowerment Amendment]], the [[Confian Syndicalist Union]] was hastily made into the only legal party, with all other organizations banned and persecuted, most notably the [[Progressive Republican Party]]. 
+
 ### Political repression
 
 In 1962, the Department of Security of Expression was created, a censorship body that reviewed all content published by independent media. As this measure quickly became bureaucratic and unnecessary, in 1964 the government passed measures banning all forms of publication and public transmission of information not produced by the state or the party. Individuals accused of conspiring against the syndicalist order were arrested, often brutally tortured and killed, their bodies thrown into mass graves.
 
-The labour camp known as the [[Talfaslaž]], a symbol of the General Government's repression in Confia, initially had all its prisoners released in 1956, but they were quickly replaced by captured members of the KWD and later by regime opponents. The People's Security Department transformed the former penal labor prison into a concentration camp, adding new forced labor facilities and torture chambers to keep the prisoners in line. Many government projects used forced labor from these prisoners to reduce construction costs. Rapes, mutilations, and random executions were carried out by the guards. It is estimated that more than 53,000 individuals were detained at the facility, 13,400 of whom have been confirmed dead.
+#### Talfaslaž
+
+The labour camp known as the [[Talfaslaž]], a symbol of the General Government's repression in Confia, initially had all its prisoners released in 1956, but they were quickly replaced by captured members of the KWD and later by regime opponents. The People's Security Department transformed the former penal labor prison into a concentration camp, adding new forced labor facilities and torture chambers to keep the prisoners in line. Many government projects used forced labor from these prisoners to reduce construction costs. Rape, mutilation, and random executions were carried out by the guards. It is estimated that more than 53,000 individuals were detained at the facility, 13,400 of whom have been confirmed dead.
+
+#### Employment blacklisting
+
 
 # Economy
 
