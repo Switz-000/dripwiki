@@ -152,13 +152,11 @@
 ## 2003
 - **Founded** — [[Red Iron]] in [[Neoveli]]
 
-## 2005
-- **Document recorded** — [[Grawolja Lasmanna with the Five of Goretopol']] (interview)
-
 ## 2008
 - **Founded** — [[Astralis Banking Group]] in [[Sužielaj city]]
 
 ## 2009
+- **Document recorded** — [[Grawolja Lasmanna with the Five of Goretopol']] (interview)
 - **Document recorded** — [[Kolkov Interview 2009]] (interview)
 
 ## 2013
