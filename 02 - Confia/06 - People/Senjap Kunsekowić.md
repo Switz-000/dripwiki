@@ -135,7 +135,7 @@ meta:
 
 ## Early life 
 
-Kunsekowić was born to an upper-middle class family in [[Carlotopolis]] in Verenian 3rd, 1917. 
+Kunsekowić was born to an upper-middle class family in [[Carlotopolis]] in Verenian 3rd, 1917. He graduated in Economics in the [[University of New Kentu]] in 1940.
 ## Political career
 ### Prime Minister of Confia (1980–1982)
 
