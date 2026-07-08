@@ -64,7 +64,7 @@ A standard general election. It produced an ALjP majority government.
 ## 1985 Confian general election
 
 A standard general election, the first under Serec's 1983 electoral reform, which transitioned the electoral system of Confia from First Past The Post to Mixed Proportional Representation, with two-round voting for local constituencies. It produced an ALjP-LjF coalition.
-## 1985 presidential election
+## 1985 Confian presidential election
 It was won by [[Mariana Torres]].
 
 |                Candidate                |                  Party                  | Votes (%) |  Status   |
@@ -83,7 +83,7 @@ Second round:
 
 ## 1985 Confian general election
 
-## 1986 Presidential election
+## 1986 Confian presidential election
 It was won by [[Boris Serec]] following [[Mariana Torres]]' resignation due to cognitive decline.
 
 |                Candidate                |                  Party                  | Votes (%) |  Status   |
