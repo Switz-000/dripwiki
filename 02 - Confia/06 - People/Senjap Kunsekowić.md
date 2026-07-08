@@ -133,12 +133,11 @@ meta:
 ---
 **Senjap Kunsekowić Žiwoj** (Racpalian Alphabet: Сеняп Кунсековіч Живой) is a Confian economist and politician that served as the 4th Prime Minister of the [[Confia|United Syndicates of Confia]].
 
-## Early life 
+## Early life and education
 
-Kunsekowić was born to an upper-middle class family in [[Carlotopolis]] in Verenian 3rd, 1917. He graduated in Economics in the [[University of New Kentu]] in 1940.
+Kunsekowić was born to an upper-middle class family in [[Carlotopolis]] in Verenian 3rd, 1917. He fled Confia with his family in 1930, in the lead-up to the [[War of Confian Secession]], finishing his basic education in [[Neoveli]]. He graduated in Economics in the [[University of New Kentu]] in 1940.
 ## Political career
 ### Prime Minister of Confia (1980–1982)
-
 
 Following the snap general election of 1980, the KNP obtained majority of seats, thus electing [[Senjap Kunsekowić]] as Prime Minister of Confia. The Kunsekowić government was marked by a series of reforms and vital changes in the way Confia's government functioned, reorienting it from syndicalism in a number of aspects.
 #### The New Torch Plan
