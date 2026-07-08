@@ -108,7 +108,16 @@ meta:
 > In truth, history makes the clear case that the path towards achieving the goals of [[Syndicalism|syndicalism]] can only be fulfilled through the adoption of private property―a rejection of [[Syndicalism#Orthodox Syndicalism|Orthodoxy]] itself, and of syndicalism as we know it. Thus, **i propose the creation of a new syndicalism, one where wealth is encouraged in its creation, not seized upon completion.**
 >― Eriežera Lensekowina, [[Rethinking Syndicalism (1959)]]
 
->The success in the 
+>The categories of "exploited" and "unchained" worker were once the poetic ramblings of philosophers, and are now artifices of the regime. **The poorest pauper in a capitalist country leads a significantly better life than the average citizen of a syndicalist regime.**
+>― Eriežera Lensekowina, [[Susian Syndicalism (1964)]]
+
+>The distinction between syndicalism and capitalism is often presented to Susians as a no-brainer: capitalism leaves the population in squalor while empowering a small elite, while syndicalism purportedly abolishes inequalities and enables a true democracy. The truth is the very opposite; a poor 
+>― Eriežera Lensekowina, [[Susian Syndicalism (1964)]]
+
+>No fallacy is yet to cause greater harm than the conflation of poverty and inequality.
+>― Eriežera Lensekowina, [[Susian Syndicalism (1964)]]
+
+>If Susian workers led significantly worse lives than Confian workers, perhaps I would still defend [[Syndicalism#Orthodox Syndicalism|Orthodoxy]]. Luckily, that is not up for serious debate.
 >― Eriežera Lensekowina, [[Susian Syndicalism (1964)]]
 
 >Capitalism is not in opposition to New Syndicalism, nor something it seeks to 'reform' or 'revise', but its very engine 
