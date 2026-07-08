@@ -111,5 +111,8 @@ meta:
 >The success in the 
 >― Eriežera Lensekowina, [[Susian Syndicalism (1964)]]
 
+>Capitalism is not in opposition to New Syndicalism, nor something it seeks to 'reform' or 'revise', but its very engine 
+>― Eriežera Lensekowina, [[The New Syndicalist Manifesto (1977)]]
+
 >The mission of [[Syndicalist League|this party]], which we set out today to fulfill, is not poverty alleviation, and it is not poverty erradication. **The mission of the Syndicalist League is to render poverty meaningless as a social category.**
 >― Eriežera Lensekowina, Founding speech of the Syndicalist League (1979)
