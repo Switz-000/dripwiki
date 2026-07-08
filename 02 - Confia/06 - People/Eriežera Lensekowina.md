@@ -107,3 +107,9 @@ meta:
 
 > In truth, history makes the clear case that the path towards achieving the goals of [[Syndicalism|syndicalism]] can only be fulfilled through the adoption of private property―a rejection of [[Syndicalism#Orthodox Syndicalism|Orthodoxy]] itself, and of syndicalism as we know it. Thus, **i propose the creation of a new syndicalism, one where wealth is encouraged in its creation, not seized upon completion.**
 >― Eriežera Lensekowina, [[Rethinking Syndicalism (1959)]]
+
+>The success in the 
+>― Eriežera Lensekowina, [[Susian Syndicalism (1964)]]
+
+>The mission of [[Syndicalist League|this party]], which we set out today to fulfill, is not poverty alleviation, and it is not poverty erradication. **The mission of the Syndicalist League is to render poverty meaningless as a social category.**
+>― Eriežera Lensekowina, Founding speech of the Syndicalist League (1979)
