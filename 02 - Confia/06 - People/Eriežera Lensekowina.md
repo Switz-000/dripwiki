@@ -103,7 +103,8 @@ meta:
 
 ## Quotes
 
->The path of the [[Paulowić regime|New Confia]] is forged by a double-edged sword: blind faith in [[Ganzer Kieron|Kieronne]]'s words for the economic and blind faith in [[Lorelaj Paulowić|Roždawoenni's]] words for the political. What matters today for policymaking is not the strife of the worker, but a word in a piece of paper, whether written by a philosopher long ago or 
+>The path of the [[Paulowić regime|New Confia]] is forged by a double-edged sword: blind faith in [[Ganzer Kieron|Kieronne]]'s words for the economic and blind faith in [[Lorelaj Paulowić|Roždawoenni's]] words for the political. What matters today for policymaking is not the strife of the worker, but a word in a piece of paper, whether written by a philosopher long ago or by a general last week.
+>― Eriežera Lensekowina, [[Rethinking Syndicalism (1959)]]
 
 > In truth, history makes the clear case that the path towards achieving the goals of [[Syndicalism|syndicalism]] can only be fulfilled through the adoption of private property―a rejection of [[Syndicalism#Orthodox Syndicalism|Orthodoxy]] itself, and of syndicalism as we know it. Thus, **i propose the creation of a new syndicalism, one where wealth is encouraged in its creation, not seized upon completion.**
 >― Eriežera Lensekowina, [[Rethinking Syndicalism (1959)]]
@@ -120,7 +121,7 @@ meta:
 >If Susian workers led significantly worse lives than Confian workers, perhaps I would still defend [[Syndicalism#Orthodox Syndicalism|Orthodoxy]]. Luckily, that is not up for serious debate.
 >― Eriežera Lensekowina, [[Susian Syndicalism (1964)]]
 
->Capitalism is not in opposition to New Syndicalism, nor something it seeks to 'reform' or 'revise', but its very engine; the wealth created by capitalism is what allows society to
+>Capitalism is not in opposition to New Syndicalism, nor something it seeks to 'reform' or 'revise', but its very engine; the immense wealth created by capitalism is captured by society, and is what finances the framework of social equality.
 >― Eriežera Lensekowina, [[The New Syndicalist Manifesto (1977)]]
 
 >The mission of [[Syndicalist League|this party]], which we set out today to fulfill, is not poverty alleviation, and it is not poverty erradication. **The mission of the Syndicalist League is to render poverty meaningless as a social category.**
