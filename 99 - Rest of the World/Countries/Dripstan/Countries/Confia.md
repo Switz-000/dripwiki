@@ -107,3 +107,9 @@ The Japlenowina government's attempts to bring inflation under control through t
 The snap elections of 1980 produced a [[Confian Liberal Party]] majority government under [[Senjap Kunsekowić]]. The [[New Torch Plan]] broke the backbone of inflation through a new currency pegged to the Susian drip and a fiscal surplus achieved by cancelling multiple sectoral subsidies. [[Labour and Capital Reforms|Structural reforms]] to the syndicate-based electoral and labour system followed. The government collapsed in 1982 following the [[Čirwašata]] scandal, fracturing the [[Confian Liberal Party]] and clearing the path for [[Boris Serec]]'s [[Armotist Democratic Party]].
 
 
+
+# Government
+# Economy
+# Military
+# Foreign relations
+# Culture
