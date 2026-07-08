@@ -99,7 +99,7 @@ meta:
   verified: false
   image:
 ---
-**Eriežera Lensekowina Kasselja** (Racpalian Alphabet: Ерьежера Ленсековіна Кассеља) was a Confian syndicalist philosopher, writer and anti-[[Paulowić regime]] activist. She is credited with the philosophical foundations of what would later become [[Syndicalism#New Syndicalism|New Syndicalism]].
+**Darmaja Kunsekowina Kasselja** (Racpalian Alphabet: Дармая Кунсековіна Кассеља), better known by her pen name **Eriežera Lensekowina** (Racpalian Alphabet:  Ерьежера Ленсековіна) was a Confian syndicalist philosopher, writer and anti-[[Paulowić regime]] activist. She is credited with the philosophical foundations of what would later become [[Syndicalism#New Syndicalism|New Syndicalism]].
 
 ## Quotes
 
@@ -111,7 +111,7 @@ meta:
 >The categories of "exploited" and "unchained" worker were once the poetic ramblings of philosophers, and are now artifices of the regime. **The poorest pauper in a capitalist country leads a significantly better life than the average citizen of a syndicalist regime.**
 >― Eriežera Lensekowina, [[Susian Syndicalism (1964)]]
 
->The distinction between syndicalism and capitalism is often presented to Susians as a no-brainer: capitalism leaves the population in squalor while empowering a small elite, while syndicalism purportedly abolishes inequalities and enables a true democracy. The truth is the very opposite; a poor 
+>Syndicalism is often presented to Susians as a no-brainer: a system that purportedly abolishes inequalities and enables a true democracy. This follows reality in the most damning; syndicalism has made Confian equal―equal in squalor, equal in repression, equal in misery.
 >― Eriežera Lensekowina, [[Susian Syndicalism (1964)]]
 
 >No fallacy is yet to cause greater harm than the conflation of poverty and inequality.
@@ -120,7 +120,7 @@ meta:
 >If Susian workers led significantly worse lives than Confian workers, perhaps I would still defend [[Syndicalism#Orthodox Syndicalism|Orthodoxy]]. Luckily, that is not up for serious debate.
 >― Eriežera Lensekowina, [[Susian Syndicalism (1964)]]
 
->Capitalism is not in opposition to New Syndicalism, nor something it seeks to 'reform' or 'revise', but its very engine 
+>Capitalism is not in opposition to New Syndicalism, nor something it seeks to 'reform' or 'revise', but its very engine; the wealth created by capitalism is what allows society to
 >― Eriežera Lensekowina, [[The New Syndicalist Manifesto (1977)]]
 
 >The mission of [[Syndicalist League|this party]], which we set out today to fulfill, is not poverty alleviation, and it is not poverty erradication. **The mission of the Syndicalist League is to render poverty meaningless as a social category.**
