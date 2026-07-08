@@ -1,8 +1,9 @@
 ---
 type: person
-native_name: Eriežera Lensekowina Kasselja
+native_name: Darmaja Kunsekowina Kasselja
 aliases:
-  - 
+  - Eriežera Lensekowina
+  - Lensekowina
 summary:
 sex: female
 ethnicity: "[[East Gaiyanese]]"
