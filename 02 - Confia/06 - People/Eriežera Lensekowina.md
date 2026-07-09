@@ -28,30 +28,32 @@ death:
   cause: Natural causes
 spouse:
 children_count:
-education:
-  - degree:
-    institution:
-    year:
-  - 
+
 occupation:
-  - title: 
-    start_year: 
-    end_year:
-military_service:
-  - allegiance:
-    branch:
-    rank:
-    start_year:
-    end_year:
-    conflicts:
-      - 
-    notes:
+  - title: Philosopher
+    start_year: 1923
+    end_year: 1984
+  - title: Writer
+    start_year: 1959
+    end_year: 1983
+  - title: Journalist
+    start_year: 1951
+    end_year: 
+
+education:
+  - degree: Baccalaureate in Philosophy
+    institution: "[[Carlotopolis State University for the Humanities]]"
+    year: 1924
+  - degree: Baccalaureate in Journalism
+    institution: "[[Carlotopolis State University for the Humanities]]"
+    year: 1930
+ 
 political_alignment:
   - "[[Syndicalism#New Syndicalism|New Syndicalism]]"
 party:
-  - "[[Syndicalist League]]"
+  - "[[Syndicalist League (1979-1984)]]"
 parties:
-  - "[[Progressive Republican Party]]"
+  - "[[Progressive Republican Party|Progressive Republican Party (1954-1955)]]"
 organizations:
   - 
 offices:
@@ -64,7 +66,6 @@ offices:
       - 
     notes:
 written_works:
-  - 
   - title: Rethinking Syndicalism (1959)
     publication_year: 1959
     genre: Non-fiction
@@ -91,7 +92,7 @@ awards:
     country:
     notes:
 era:
-  - 
+  - paulowic_regime
 tags:
   - philosophy
   - politics
