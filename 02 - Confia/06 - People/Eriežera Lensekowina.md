@@ -113,7 +113,7 @@ meta:
 >The categories of "exploited" and "unchained" worker were once the poetic ramblings of philosophers, and are now artifices of the regime. **The poorest pauper in a capitalist country leads a significantly better life than the average citizen of a syndicalist regime.**
 >― Eriežera Lensekowina, [[Susian Syndicalism (1964)]]
 
->Syndicalism is often presented to Susians as a no-brainer: a system that purportedly abolishes inequalities and enables a true democracy. This follows reality in the most damning; syndicalism has made Confian equal―equal in squalor, equal in repression, equal in misery.
+>Syndicalism is often presented to Susians as the obvious solution: a system that purportedly abolishes inequalities and enables a true democracy. This follows reality in the most damning; syndicalism has made Confian equal―equal in squalor, equal in repression, equal in misery.
 >― Eriežera Lensekowina, [[Susian Syndicalism (1964)]]
 
 >No fallacy is yet to cause greater harm than the conflation of poverty and inequality.
