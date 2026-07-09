@@ -34,3 +34,5 @@ national_affiliation:
 regional_affiliation:
 ---
 The **Syndicalist League** (Confian: Syndăkalicka Fežka/Сындъкаліцка Фежка) is a major Confian centre-left party. It is based on the ideals of [[Syndicalism#New Syndicalism|New Syndicalism]].
+
+The party symbol is a two-bladed helix, usually coloured in red when alone or in gold when used against the red background of the party's flag.
