@@ -26,7 +26,7 @@ ideology:
 political_position:
   - Left
 wings:
-  - Kieronne Group
+  - Kieron Group
   - Six-pointers
 area_served:
 international_affiliation:
