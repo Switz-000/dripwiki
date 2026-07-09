@@ -34,8 +34,8 @@ education:
     year:
   - 
 occupation:
-  - title:
-    start_year:
+  - title: 
+    start_year: 
     end_year:
 military_service:
   - allegiance:
@@ -48,10 +48,10 @@ military_service:
     notes:
 political_alignment:
   - "[[Syndicalism#New Syndicalism|New Syndicalism]]"
-party: "[[Confian Syndicalist Union]]"
-parties:
-  - "[[Confian Syndicalist Union]]"
+party:
   - "[[Syndicalist League]]"
+parties:
+  - "[[Progressive Republican Party]]"
 organizations:
   - 
 offices:
@@ -100,7 +100,7 @@ meta:
   verified: false
   image:
 ---
-**Darmaja Kunsekowina Kasselja** (Racpalian Alphabet: Дармая Кунсековіна Кассеља), better known by her pen name **Eriežera Lensekowina** (Racpalian Alphabet:  Ерьежера Ленсековіна) was a Confian syndicalist philosopher, writer and anti-[[Paulowić regime]] activist. She is credited with the philosophical foundations of what would later become [[Syndicalism#New Syndicalism|New Syndicalism]].
+**Darmaja Kunsekowina Kasselja** (Racpalian Alphabet: Дармая Кунсековіна Кассеља), better known by her pen name **Eriežera Lensekowina** (Racpalian Alphabet: Ерьежера Ленсековіна) was a Confian syndicalist philosopher, writer and anti-[[Paulowić regime]] activist. She is credited with the philosophical foundations of what would later become [[Syndicalism#New Syndicalism|New Syndicalism]].
 
 ## Quotes
 
@@ -127,3 +127,6 @@ meta:
 
 >The mission of [[Syndicalist League|this party]], which we set out today to fulfill, is not poverty alleviation, and it is not poverty erradication. **The mission of the Syndicalist League is to render poverty meaningless as a social category.**
 >― Eriežera Lensekowina, Founding speech of the Syndicalist League (1979)
+
+>The "app" If in the year 2183 people ask "What would Eriežera think?" as a tautological defence for destructive policy, then you will know New Syndicalism has failed.
+>― Eriežera Lensekowina, [[On What Came Before Me And On What Comes After (1983)]]
