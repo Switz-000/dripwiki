@@ -51,7 +51,7 @@ education:
 political_alignment:
   - "[[Syndicalism#New Syndicalism|New Syndicalism]]"
 party:
-  - "[[Syndicalist League (1979-1984)]]"
+  - "[[Syndicalist League|Syndicalist League (1979-1984)]]"
 parties:
   - "[[Progressive Republican Party|Progressive Republican Party (1954-1955)]]"
 organizations:
