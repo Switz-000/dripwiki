@@ -48,8 +48,12 @@
 - **Event ends** — [[Carlotopolis Uprising]]
 - **Graduation** — [[Mariana Torres]] — Civil Engineering at [[Polytechnic Institute of Koštanože]]
 
+## 1924
+- **Graduation** — [[Eriežera Lensekowina]] — Baccalaureate in Philosophy at [[Carlotopolis State University for the Humanities]]
+
 ## 1930
 - **Founded** — [[Confian Liberal Party]] by [[['[[Zanja Banelužni]]']]]
+- **Graduation** — [[Eriežera Lensekowina]] — Baccalaureate in Journalism at [[Carlotopolis State University for the Humanities]]
 
 ## 1932
 - **Founded** — [[Postian Free Farmers]]
