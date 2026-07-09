@@ -62,7 +62,7 @@ Among the company's documented medical achievements as of 2090 are the near-elim
 
 ### Agricultural Biotechnology
 
-Lischev-Verene is [[Susia]]'s largest exporter of genetically modified seeds. As of 2080, 34% of Susian agricultural seeds are licensed directly by the company, and approximately 60% of all Susian seeds in circulation are genetically modified, including both current LV-licensed varieties and older designs whose patents have expired and entered common use through independent biolaboratories and agricultural suppliers. The company exports seeds to [[Confia]], [[Kamino]], [[Zaphonia]], and [[Pierej]], making it a significant presence in the agricultural economies of several [[ONDD]] member and partner states.
+Lischev-Verene is [[Susia]]'s largest exporter of genetically modified seeds. As of 2080, 34% of Susian agricultural seeds are licensed directly by the company, and approximately 60% of all Susian seeds in circulation are genetically modified, including both current LV-licensed varieties and older designs whose patents have expired and entered common use through independent biolaboratories and agricultural suppliers. The company exports seeds to [[Confia]], [[Kamino]], [[Zaphonia]], and [[Pierej]], making it a significant presence in the agricultural economies of several [[ODDN]] member and partner states.
 
 The agricultural division operates largely independently of the company's healthcare and enhancement work in terms of day-to-day operations, though it draws on the same underlying genetic research infrastructure. LV's position in the seed market is a consequence of its early investment in genetic modification technology during the [[Verene Biosciences]] period, when agricultural applications were developed alongside medical ones as a commercial hedge.
 
@@ -154,7 +154,7 @@ The program has not been the subject of a successful regulatory action as of 208
 - [[Kamino]]
 - [[Zaphonia]]
 - [[Pierej]]
-- [[ONDD]]
+- [[ODDN]]
 
 %%
 FLAGS:

@@ -38,7 +38,7 @@ occupation:
     end_year: 1983
   - title: Journalist
     start_year: 1951
-    end_year: 
+    end_year: 1977
 
 education:
   - degree: Baccalaureate in Philosophy
@@ -66,10 +66,20 @@ offices:
       - 
     notes:
 written_works:
+
+
   - title: Rethinking Syndicalism (1959)
     publication_year: 1959
     genre: Non-fiction
-    notes:
+    notes: First book, published in Confia. Called for the unification of the Moderate Syndicalist movement. First proposal of abandoning the economic self-management framework entirely from a syndicalist persepctive.
+  - title: Susian Syndicalism
+    publication_year: 1969
+    genre: Non-fiction
+    notes: A polemic comparative essay contrasting the achievements of Susia to those of Confia, claiming capitalism achieved syndicalism's stated goals before syndicalism did. Published at the height of the [[Pierej Crisis]] on a Susian newspaper.
+  - title: On What Came Before Me And On What Comes After
+    publication_year: 1983
+    genre: Memoir
+    notes: Lensekowina's lesser known memoir, her final book completed before passing.
 criminal_charges:
   - charge:
     counts:
@@ -108,20 +118,20 @@ meta:
 >The path of the [[Paulowić regime|New Confia]] is forged by a double-edged sword: blind faith in [[Ganzer Kieron|Kieron]]'s words for the economic and blind faith in [[Lorelaj Paulowić|Roždawoenni's]] words for the political. What matters today for policymaking is not the strife of the worker, but a word in a piece of paper, whether written by a philosopher long ago or by a general last week.
 >― Eriežera Lensekowina, [[Rethinking Syndicalism (1959)]]
 
-> In truth, history makes the clear case that the path towards achieving the goals of [[Syndicalism|syndicalism]] can only be fulfilled through the adoption of private property―a rejection of [[Syndicalism#Orthodox Syndicalism|Orthodoxy]] itself, and of syndicalism as we know it. Thus, **i propose the creation of a new syndicalism, one where wealth is encouraged in its creation, not seized upon completion.**
+> In truth, history makes the clear case that the path towards achieving the goals of [[Syndicalism|syndicalism]] can only be fulfilled through the adoption of private property―a rejection of [[Syndicalism#Orthodox Syndicalism|Orthodoxy]] itself, and of syndicalism as we know it. Thus, **I propose the creation of a new syndicalism, one where wealth is encouraged in its creation, not seized upon completion.**
 >― Eriežera Lensekowina, [[Rethinking Syndicalism (1959)]]
 
 >The categories of "exploited" and "unchained" worker were once the poetic ramblings of philosophers, and are now artifices of the regime. **The poorest pauper in a capitalist country leads a significantly better life than the average citizen of a syndicalist regime.**
->― Eriežera Lensekowina, [[Susian Syndicalism (1964)]]
+>― Eriežera Lensekowina, [[Susian Syndicalism]] (1969)
 
->Syndicalism is often presented to Susians as the obvious solution: a system that purportedly abolishes inequalities and enables a true democracy. This follows reality in the most damning; syndicalism has made Confian equal―equal in squalor, equal in repression, equal in misery.
->― Eriežera Lensekowina, [[Susian Syndicalism (1964)]]
+>Syndicalism is often presented to Susians as the obvious solution: a system that purportedly abolishes inequalities and enables a true democracy. This follows reality in the most damning; syndicalism has made Confians equal―equal in squalor, equal in repression, equal in misery.
+>― Eriežera Lensekowina, [[Susian Syndicalism (1969)]]
 
 >No fallacy is yet to cause greater harm than the conflation of poverty and inequality.
->― Eriežera Lensekowina, [[Susian Syndicalism (1964)]]
+>― Eriežera Lensekowina, [[Susian Syndicalism (1969)]]
 
 >If Susian workers led significantly worse lives than Confian workers, perhaps I would still defend [[Syndicalism#Orthodox Syndicalism|Orthodoxy]]. Luckily, that is not up for serious debate.
->― Eriežera Lensekowina, [[Susian Syndicalism (1964)]]
+>― Eriežera Lensekowina, [[Susian Syndicalism (1969)]]
 
 >Capitalism is not in opposition to New Syndicalism, nor something it seeks to 'reform' or 'revise', but its very engine; the immense wealth created by capitalism is captured by society, and is what finances the framework of social equality.
 >― Eriežera Lensekowina, [[The New Syndicalist Manifesto (1977)]]
@@ -129,5 +139,5 @@ meta:
 >The mission of [[Syndicalist League|this party]], which we set out today to fulfill, is not poverty alleviation, and it is not poverty erradication. **The mission of the Syndicalist League is to render poverty meaningless as a social category.**
 >― Eriežera Lensekowina, Founding speech of the Syndicalist League (1979)
 
->The "app" If in the year 2183 people ask "What would Eriežera think?" as a tautological defence for destructive policy, then you will know New Syndicalism has failed.
->― Eriežera Lensekowina, [[On What Came Before Me And On What Comes After (1983)]]
+>The "appeal to Kieron" is unfortunately still common from [[Movement for Syndicalist Renovation|the Orthodox party]]. A century and a half from now, the supporters of the League ask "What would Eriežera think?" as a tautological defence for a destructive policy the party has come to support, then burn all I've written―you will know New Syndicalism has failed.
+>― Eriežera Lensekowina, [[On What Came Before Me And On What Comes After]] (1983)

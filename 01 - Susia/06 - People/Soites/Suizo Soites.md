@@ -117,7 +117,7 @@ criminal_charges:
 known_for:
   - item: "[[Tahuni Accords]]"
     notes:
-  - item: "[[ONDD]]"
+  - item: "[[ODDN]]"
     notes:
   - item: "[[Soites Group]]"
     notes:

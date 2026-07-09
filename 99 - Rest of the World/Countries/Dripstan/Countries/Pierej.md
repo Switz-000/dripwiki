@@ -14,7 +14,7 @@ religion: "[[Armotist Church of the Confian Synod]]"
 languages: Confian
 currency: Piereji Kesma (K$)
 international_organizations:
-  - "[[ONDD]]"
+  - "[[ODDN]]"
   - "[[Tekuri Ljas Accord]]"
 capital: "[[Žobranpalje]]"
 major_cities: "[[Tekuri Ljas]]"

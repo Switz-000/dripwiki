@@ -75,7 +75,7 @@ Nayotai expanded its operations in [[Confia]] following the [[Lasman Economic In
 
 ### Other Dripstan nations
 
-Nayotai holds infrastructure and vehicle supply contracts across several [[ONDD]] member states, including [[Pierej]], [[Kamino]], and [[Kapiogg]]. Operations in these markets are primarily export-oriented, supplying vehicles and infrastructure materials rather than maintaining fixed local facilities.
+Nayotai holds infrastructure and vehicle supply contracts across several [[ODDN]] member states, including [[Pierej]], [[Kamino]], and [[Kapiogg]]. Operations in these markets are primarily export-oriented, supplying vehicles and infrastructure materials rather than maintaining fixed local facilities.
 
 ### Incria
 
