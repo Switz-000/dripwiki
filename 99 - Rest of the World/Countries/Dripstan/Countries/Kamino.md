@@ -37,7 +37,7 @@ Algyn’s Kamino:
     
 - Starts a war with [[Macoshill]]
     
-- Gets sanctioned to death by the [[ONDD]]
+- Gets sanctioned to death by the [[ODDN]]
     
 - Failed Invasion
     
@@ -48,7 +48,7 @@ The Lily Republic:
 
 - Establishment of free and democratic elections (1980)
     
-- Kamino Joins ONDD (1986)
+- Kamino Joins ODDN (1986)
     
 
 ### Other facts

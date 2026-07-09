@@ -32,7 +32,7 @@ key_figures:
   - "[[Mikheli Kinpaum]]"
   - "[[Sarže Saron]]"
   - "[[Pade Maluni]]"
-outcome: Victory for the ONDD liberal-capitalist bloc; collapse of the syndicalist bloc; Confian hard-line government overthrown; Flower Revolutions bring democratic transitions across the continent
+outcome: Victory for the ODDN liberal-capitalist bloc; collapse of the syndicalist bloc; Confian hard-line government overthrown; Flower Revolutions bring democratic transitions across the continent
 cause:
   - "[[Tahuni Accords]]"
   - "[[Syndicalism]]"
@@ -77,9 +77,9 @@ The [[Tahuni Accords]] of 1954 dissolved the [[Dripstanian Empire]] and granted 
 
 ## The two blocs
 
-> *Main article: [[ONDD]]*
+> *Main article: [[ODDN]]*
 
-Susia organized its allies into the [[ONDD]], founded in 1961 as a mutual defense and ideological alignment structure binding democratic states to Susian security guarantees. The ONDD functioned simultaneously as a military alliance and as the primary institutional vehicle for anti-syndicalist foreign policy, coordinating covert operations, economic pressure, and proxy support across the continent.
+Susia organized its allies into the [[ODDN]], founded in 1961 as a mutual defense and ideological alignment structure binding democratic states to Susian security guarantees. The ODDN functioned simultaneously as a military alliance and as the primary institutional vehicle for anti-syndicalist foreign policy, coordinating covert operations, economic pressure, and proxy support across the continent.
 
 > _Main article: [[Pact of Imgospalje]]_
 
@@ -105,7 +105,7 @@ The Continental Divide produced a sustained pattern of proxy competition across 
 
 > _Main article: [[Second War of the Forest]]_
 
-In 1958 [[Dripland]] invaded [[Kapiogg]] to reclaim the disputed provinces of [[Oesburg]] and [[Jaeregg]], initially advancing successfully. Dripland, trying to exploit Confia's unstable government invaded the [[Legrinpija]] region. Confian forces pushed back Dripland's advance and effectively split Dripland in two between Confia and Kapiogg. The war resulted in the annexation of Dripland and demonstrated Confia's willingness to use conventional military. Kapiogg subsequently joined the [[ONDD]] as a founding member in 1961, and Susia conditioned its entry on Kapiogg's gradual transition from absolute monarchy to parliamentary government.
+In 1958 [[Dripland]] invaded [[Kapiogg]] to reclaim the disputed provinces of [[Oesburg]] and [[Jaeregg]], initially advancing successfully. Dripland, trying to exploit Confia's unstable government invaded the [[Legrinpija]] region. Confian forces pushed back Dripland's advance and effectively split Dripland in two between Confia and Kapiogg. The war resulted in the annexation of Dripland and demonstrated Confia's willingness to use conventional military. Kapiogg subsequently joined the [[ODDN]] as a founding member in 1961, and Susia conditioned its entry on Kapiogg's gradual transition from absolute monarchy to parliamentary government.
 
 ### The Zaphonian Oil Workers' Petition (1960)
 
@@ -123,7 +123,7 @@ The First Zaphonian Republic, independent since 1954, had been internally divide
 
 > _Main article: [[Pierej Crisis]]_
 
-The pro-Confian government of [[Ganzir Ništanaen]] in [[Pierej]] re-monopolized the country's logging industry under the state-owned [[National Logging Consortium|NLC]], curtailed relations with Susia, and signed asymmetric trade agreements with Confia under the stated policy of "Realignment, At All Costs." Susia responded by sponsoring a military coup. General [[Sarže Saron]] overthrew Ništanaen's government and reoriented Pierej toward the ONDD bloc. Pierej formally joined the ONDD in 1970.
+The pro-Confian government of [[Ganzir Ništanaen]] in [[Pierej]] re-monopolized the country's logging industry under the state-owned [[National Logging Consortium|NLC]], curtailed relations with Susia, and signed asymmetric trade agreements with Confia under the stated policy of "Realignment, At All Costs." Susia responded by sponsoring a military coup. General [[Sarže Saron]] overthrew Ništanaen's government and reoriented Pierej toward the ODDN bloc. Pierej formally joined the ODDN in 1970.
 
 ### The Zaphonist Revolt and Purpić mission (1971)
 
@@ -145,11 +145,11 @@ By 1973 Susia was flanked by syndicalist-aligned states to the south and east, i
 
 Bonár, a general and sponsor of the [[Federal Loyalty Act]], won the 1974 election with an explicitly anti-syndicalist platform. His vice-presidential selection, [[Filevir Matri]] was another staunch anti-syndicalist and ex-governor of [[Postia]]. The [[Susian Senate]] elections were a landslide for Bonár's party, the [[Susian Democratic Union]]. Enabling him to enact special emergency powers and the [[MAGEN act]].
 
-In 1974, Susia started a immense military buildup, coordinating with others [[ONDD]] allies, resumed support for anti-syndicalists in countries like Zaphonia, Ariwaro and Garecia, and most importantly planing what would've become [[Operation Red Sand]].
+In 1974, Susia started a immense military buildup, coordinating with others [[ODDN]] allies, resumed support for anti-syndicalists in countries like Zaphonia, Ariwaro and Garecia, and most importantly planing what would've become [[Operation Red Sand]].
 
-In 1975, [[Lorelaj Paulowić]] caught notice of Susia's actions and sent a ultimatum: Cease all operations in Syndicalist nations, halt ONDD military buildup, or in 100 days, Confia would take military action. Summits were held in Kamino, between the two blocs, hopefully to find a compromise. While Paulowić attended these summits, Bonár refused to show up and negotiations soon collapsed. 
+In 1975, [[Lorelaj Paulowić]] caught notice of Susia's actions and sent a ultimatum: Cease all operations in Syndicalist nations, halt ODDN military buildup, or in 100 days, Confia would take military action. Summits were held in Kamino, between the two blocs, hopefully to find a compromise. While Paulowić attended these summits, Bonár refused to show up and negotiations soon collapsed. 
 
-Susia's st[[Lorelaj Paulowić]]onfia's bluff with a quick and decisive operation, capturing the de facto confian military governor of Zaphonia, [[Pjetrik Purpić]]. Then, allowing the anti-syndicalist brigades in Zaphonia to overwhelm the poorly organized zaphonian army in Tahuni and take back control. After Zaphonia fell, Confia would be completely encircled by the [[ONDD]] and hopefully would back down, agreeing to Susian demands. As a three front war would be suicidal to Confia.
+Susia's st[[Lorelaj Paulowić]]onfia's bluff with a quick and decisive operation, capturing the de facto confian military governor of Zaphonia, [[Pjetrik Purpić]]. Then, allowing the anti-syndicalist brigades in Zaphonia to overwhelm the poorly organized zaphonian army in Tahuni and take back control. After Zaphonia fell, Confia would be completely encircled by the [[ODDN]] and hopefully would back down, agreeing to Susian demands. As a three front war would be suicidal to Confia.
 
 The day before the confian ultimatum expired, [[Operation Red Sand]] took place, conducted by the [[Frumentarze]]'s [[Parzde Brigade]]. The operation was a success, extracting Purpić from his residence in [[Tahuni]] overnight and taking him into susian custody without friendly casualties. However, the anti-syndicalist attacks were underwhelming and the zaphonian army, assisted by confian advisors, proved competent enough to maintain control in the larger cities, starting a civil war
 
@@ -169,9 +169,9 @@ The combination of economic isolation, northern attrition, and the collapse of t
 
 ## Aftermath
 
-The post-war [[Flower Revolutions]] brought democratic governments to Confia and several formerly syndicalist-aligned states across the continent. Confia's transition from adversary to partner proceeded through the following decades: Confia joined the ONDD in 1993, and the [[Lasman Economic Initiative]] of 2000 established a customs union between the two states.
+The post-war [[Flower Revolutions]] brought democratic governments to Confia and several formerly syndicalist-aligned states across the continent. Confia's transition from adversary to partner proceeded through the following decades: Confia joined the ODDN in 1993, and the [[Lasman Economic Initiative]] of 2000 established a customs union between the two states.
 
-The ONDD itself evolved from an anti-syndicalist alliance into a broader democratic security structure, reorienting toward the containment of [[Ashgerad]] as the primary threat of the following century.
+The ODDN itself evolved from an anti-syndicalist alliance into a broader democratic security structure, reorienting toward the containment of [[Ashgerad]] as the primary threat of the following century.
 
 The domestic legislation of the divide had an uneven legacy. The MAGEN Act was phased out in stages, its party bans and strike restrictions unwound as the post-war political situation stabilized. The Federal Loyalty Act's apparatus was dismantled more slowly and less completely. The Frumentarze retained much of the institutional expansion it had undergone during the conflict, and its enlarged mandate outlasted the formal emergency powers that had initially authorized it.
 
@@ -180,7 +180,7 @@ The domestic legislation of the divide had an uneven legacy. The MAGEN Act was p
 - [[Continental War]]
 - [[Confia]]
 - [[Lorelaj Paulowić]]
-- [[ONDD]]
+- [[ODDN]]
 - [[Pact of Imgospalje]]
 - [[MAGEN act]]
 - [[Federal Loyalty Act]]

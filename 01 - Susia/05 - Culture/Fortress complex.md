@@ -45,7 +45,7 @@ The [[War of Arempur]] (2012), a proxy defeat overseas, demonstrated that the co
 
 The Fortress Complex is legible in several Susian institutions that would appear disproportionate to a nation without this orientation. Mandatory military service, reinstated in 1959 during the Continental Divide, is its most direct expression. The [[Frumentarze]]'s scale and mandate reflect the same logic applied to intelligence infrastructure. The [[Sorzenko]] system, the constitutional [[Right to rebel|right to rebel]], and the inclusion of firearms training in the civics curriculum connect the complex to individual civic identity through the Versijian argument that rights which cannot be defended are privileges waiting to be revoked.
 
-The [[ONDD]] alliance's evolution from anti-Confian instrument to anti-Ashgeradn perimeter, now described in Susian strategic doctrine as the "Continental Fortress," translates the complex directly into foreign policy architecture.
+The [[ODDN]] alliance's evolution from anti-Confian instrument to anti-Ashgeradn perimeter, now described in Susian strategic doctrine as the "Continental Fortress," translates the complex directly into foreign policy architecture.
 
 ## Criticisms
 
@@ -69,7 +69,7 @@ The Fortress Complex sits in tension with two related orientations in Susian nat
 - [[MAGEN act]]
 - [[Ashgerad]]
 - [[War of Arempur]]
-- [[ONDD]]
+- [[ODDN]]
 - [[The Great Transition]]
 - [[Frumentarze]]
 - [[Military Service in Susia]]

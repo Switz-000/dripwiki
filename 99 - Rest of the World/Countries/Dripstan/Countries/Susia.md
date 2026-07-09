@@ -14,7 +14,7 @@ religion: "[[Reformed Armotism]]"
 languages: "[[Susian language|Susian]]"
 currency: "[[Susian monetary system|Federal and Transactional Drip]]"
 international_organizations:
-  - "[[ONDD]]"
+  - "[[ODDN]]"
   - "[[Lasman Economic Initiative]]"
   - "[[Tekuri Ljas Accord]]"
 capital: "[[Soiteslaj]]"
@@ -40,7 +40,7 @@ borders_south:
 gdp_per_capita_2080: 251000
 gdp_2080: 62521000000000
 ---
-**Susia**, officially the **Techno-Federative Republic of Susia**, is a federal presidential republic located on the [[Dripstan]] continent, bordered by [[Confia]] to the east, [[Drippalia]] to the northeast, [[Zaphonia]] to the southeast, [[Astofayan]] and [[Sutsa-Fuhu]] to the south, and the [[Sea of Galil]] to the west and north. The country was established in 1954 following the dissolution of the [[Dripstanian Empire]] through the [[Tahuni Accords]], and adopted its current constitutional framework in 2038 following the [[The Great Transition|Great Transition]]. With a population of approximately 247 million and a GDP of D$62.5 trillion as of 2080, Susia is the most economically developed nation on the Dripstanian continent and the founder of the [[ONDD]] liberal-capitalist bloc.
+**Susia**, officially the **Techno-Federative Republic of Susia**, is a federal presidential republic located on the [[Dripstan]] continent, bordered by [[Confia]] to the east, [[Drippalia]] to the northeast, [[Zaphonia]] to the southeast, [[Astofayan]] and [[Sutsa-Fuhu]] to the south, and the [[Sea of Galil]] to the west and north. The country was established in 1954 following the dissolution of the [[Dripstanian Empire]] through the [[Tahuni Accords]], and adopted its current constitutional framework in 2038 following the [[The Great Transition|Great Transition]]. With a population of approximately 247 million and a GDP of D$62.5 trillion as of 2080, Susia is the most economically developed nation on the Dripstanian continent and the founder of the [[ODDN]] liberal-capitalist bloc.
 ### Geography
 
 Susia occupies the western portions of the [[Dripstan]] continent, covering nine states and one federal district. The [[Neutral District]], which contains the capital [[Soiteslaj]], is an enclave surrounded entirely by the state of [[Misocévia]].
@@ -75,7 +75,7 @@ Following the [[War of Confian Secession]] (1927–1950), the empire was partiti
 
 > _Main article: [[Continental Divide]]_
 
-The [[Tahuni Accords]] left Susia and Confia as neighboring states with incompatible political models. In 1957 [[Lorelaj Paulowić]] established an authoritarian syndicalist government in Confia, beginning the [[Continental Divide]]. Susia responded with the [[MAGEN act]], which banned left-wing parties domestically, built the [[ONDD]] alliance with [[Kapiogg]] and [[Astofayan]], and conducted a series of proxy interventions across the continent over the following two decades.
+The [[Tahuni Accords]] left Susia and Confia as neighboring states with incompatible political models. In 1957 [[Lorelaj Paulowić]] established an authoritarian syndicalist government in Confia, beginning the [[Continental Divide]]. Susia responded with the [[MAGEN act]], which banned left-wing parties domestically, built the [[ODDN]] alliance with [[Kapiogg]] and [[Astofayan]], and conducted a series of proxy interventions across the continent over the following two decades.
 
 Open war began in 1975 after Susia's direct intervention in the [[Zaphonian Civil War]]. The [[Continental War]] (1975–1977) ended with the defeat of the [[Pact of Imgospalje]] bloc and the overthrow of Paulowić's government. The subsequent [[Flower Revolutions]] produced democratic transitions in Confia and several formerly syndicalist states.
 
@@ -83,7 +83,7 @@ Open war began in 1975 after Susia's direct intervention in the [[Zaphonian Civi
 
 > _Main article: [[Post-war Susia]]_
 
-The post-war decades saw economic expansion, the growth of the corporations that would later become [[Yarnojte|Yarnojtes]], and the slow domestic unwinding of wartime legislation. The [[Tekur people|Tekur]] population, long economically marginalized and legally excluded, received citizenship in 1997. Susia developed nuclear weapons after the Continental War, though the technology arrived too late for wartime use; nuclear energy was adopted widely in the following decades. Confia joined the ONDD in 1993 and entered the [[Lasman Economic Initiative]] customs union with Susia in 2000.
+The post-war decades saw economic expansion, the growth of the corporations that would later become [[Yarnojte|Yarnojtes]], and the slow domestic unwinding of wartime legislation. The [[Tekur people|Tekur]] population, long economically marginalized and legally excluded, received citizenship in 1997. Susia developed nuclear weapons after the Continental War, though the technology arrived too late for wartime use; nuclear energy was adopted widely in the following decades. Confia joined the ODDN in 1993 and entered the [[Lasman Economic Initiative]] customs union with Susia in 2000.
 
 #### Global Cold War and the Great Transition (2006–2038)
 
@@ -204,15 +204,15 @@ The [[Susian Constitution]] guarantees the right to bear arms and includes an ex
 
 Susian foreign policy is organized around three overlapping orientations: the [[Fortress complex]], which treats the maintenance of territorial and institutional security as the governing priority; [[Democratic evangelism]], which holds that Susia has an interest in the spread of democratic governance across the continent and beyond; and the [[Continental Fortress Doctrine]], which frames the [[Dripstanian Continent]] as Susia's primary defensive perimeter against [[Ashgerad]].
 
-#### ONDD
+#### ODDN
 
-> _Main article: [[ONDD]]_
+> _Main article: [[ODDN]]_
 
-The [[ONDD]] (Organization of the Democratic Dripstanian Nations) is the primary vehicle of Susian foreign policy. Founded in 1961 as an anti-syndicalist military alliance, it has evolved into a broader democratic security structure reoriented toward the containment of [[Ashgerad]]. Current members are Susia (1961), [[Kapiogg]] (1961), [[Astofayan]] (1962), [[Pierej]] (1970), [[Dripland]] (1981), [[Kamino]] (1986), and [[Confia]] (1998).
+The [[ODDN]] (Organization of the Democratic Dripstanian Nations) is the primary vehicle of Susian foreign policy. Founded in 1961 as an anti-syndicalist military alliance, it has evolved into a broader democratic security structure reoriented toward the containment of [[Ashgerad]]. Current members are Susia (1961), [[Kapiogg]] (1961), [[Astofayan]] (1962), [[Pierej]] (1970), [[Dripland]] (1981), [[Kamino]] (1986), and [[Confia]] (1993).
 
 #### Confia
 
-Susia and [[Confia]] share the longest and most consequential bilateral relationship on the continent. The two countries fought an active cold war from 1957 to 1975 and a direct war from 1975 to 1977. Following the [[Bayonet Revolution]] and the democratic transition in Confia, the relationship normalized over the following two decades. Confia joined the ONDD in 1993 and entered the [[Lasman Economic Initiative]] customs union with Susia in 2000, named for the [[Lasman River]] that crosses both countries. Susian companies, including [[Nayotai]] and [[Soites Group]], operate in Confia, and [[Troli Ustaras]] recruits from Confian universities.
+Susia and [[Confia]] share the longest and most consequential bilateral relationship on the continent. The two countries fought an active cold war from 1957 to 1975 and a direct war from 1975 to 1977. Following the [[Bayonet Revolution]] and the democratic transition in Confia, the relationship normalized over the following two decades. Confia joined the ODDN in 1993 and entered the [[Lasman Economic Initiative]] customs union with Susia in 2000, named for the [[Lasman River]] that crosses both countries. Susian companies, including [[Nayotai]] and [[Soites Group]], operate in Confia, and [[Troli Ustaras]] recruits from Confian universities.
 
 #### Economic agreements
 
@@ -224,7 +224,7 @@ The [[Lasman Economic Initiative]], signed in 1995 and in force from 2000, estab
 
 The cold war with [[Ashgerad]], a technate located on the continent of [[Incria]], has been the defining foreign policy challenge since 2006. The two civilizations developed in isolation and share no cultural, historical, religious, or philosophical common ground. The [[War of Arempur]] (2012), a proxy conflict fought overseas, ended in a Susian defeat. The ongoing competition shapes Susian defense investment, intelligence operations, and the domestic framing of the [[The Great Transition|Great Transition]] itself, whose institutional reforms were partly justified as a response to Ashgeradn technological pressure.
 
-Contemporary Susian foreign policy toward Ashgerad operates through the [[ONDD]] alliance, covert support for democratic movements in states where Ashgeradn influence is growing, and conditions attached to trade and aid agreements. The [[Frumentarze]]'s [[Foreign Operations Division]] runs classified programs in this area.
+Contemporary Susian foreign policy toward Ashgerad operates through the [[ODDN]] alliance, covert support for democratic movements in states where Ashgeradn influence is growing, and conditions attached to trade and aid agreements. The [[Frumentarze]]'s [[Foreign Operations Division]] runs classified programs in this area.
 
 ### Culture
 
@@ -281,7 +281,7 @@ Federal public holidays include [[Hăjaven]], [[Versij Day]] (marking [[Armadesh
 - [[The Great Transition]]
 - [[Susian Constitution]]
 - [[Susian Federal Government]]
-- [[ONDD]]
+- [[ODDN]]
 - [[Lasman Economic Initiative]]
 - [[Yarnojte]]
 - [[Free Economic Zone]]

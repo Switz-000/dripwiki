@@ -184,7 +184,7 @@ Worker ownership and management of the means of production through syndicates. T
 
 ### Anti-Syndicalism
 
-The position that syndicalist governance and economics represent a fundamental threat to individual liberty and economic prosperity, and should be opposed both domestically and abroad. The defining foreign policy orientation of Susia during the [[Continental Divide]] (1957–1977), when syndicalism spreading across the continent was treated as an existential threat. Domestically, the stance justified the [[MAGEN act]] of 1975, which restricted left-wing parties, and the [[Federal Loyalty Act]]. Present as an explicit ideology of Susian conservative parties such as the [[White Stork Party]] and historically across the [[Susian Democratic Union]]. The stance lost its primary target after the [[Continental War]] but its institutional legacy, including the [[ONDD]], the [[Frumentarze]]'s expanded powers, and the [[Fortress complex]] orientation, persisted well beyond the conflict.
+The position that syndicalist governance and economics represent a fundamental threat to individual liberty and economic prosperity, and should be opposed both domestically and abroad. The defining foreign policy orientation of Susia during the [[Continental Divide]] (1957–1977), when syndicalism spreading across the continent was treated as an existential threat. Domestically, the stance justified the [[MAGEN act]] of 1975, which restricted left-wing parties, and the [[Federal Loyalty Act]]. Present as an explicit ideology of Susian conservative parties such as the [[White Stork Party]] and historically across the [[Susian Democratic Union]]. The stance lost its primary target after the [[Continental War]] but its institutional legacy, including the [[ODDN]], the [[Frumentarze]]'s expanded powers, and the [[Fortress complex]] orientation, persisted well beyond the conflict.
 
 ### Cooperativism
 
@@ -312,15 +312,15 @@ _(Susia-specific)_ The position that Susia represents a superior form of civiliz
 
 > _Main article: [[Democratic evangelism]]_
 
-_(Susia-specific)_ The position that Susia has a moral duty to actively spread democracy and liberal values beyond its borders, through support for pro-democracy movements, conditional aid, and where necessary regime change. Rooted in [[Susian Exceptionalism|Susian exceptionalist]] ideology and the Versijian argument that natural rights are universal and their denial abroad is a wrong Susia has standing to address. Evolved from anti-syndicalist interventionism during the [[Continental Divide]], when Susia funded opposition movements, ran covert operations, and organized the [[ONDD]] in 1961 as the vehicle for its anti-syndicalist alliance. The [[Continental War]] (1975–1977) was the most direct expression. In the Ashgerad era, the stance operates primarily through softer instruments: funding civil society organizations, conditioning trade agreements on governance reforms, and maintaining the ONDD as a demonstration that the democratic model produces stable alliances. The [[Frumentarze]]'s [[Foreign Operations Division]] runs covert support programs for democratic movements in states where Ashgeradn influence is growing. Retains support across most of the Susian spectrum, though interventionist and cautious wings disagree on its scope. Sits in tension with the [[Fortress complex]], which orients toward defense rather than expansion.
+_(Susia-specific)_ The position that Susia has a moral duty to actively spread democracy and liberal values beyond its borders, through support for pro-democracy movements, conditional aid, and where necessary regime change. Rooted in [[Susian Exceptionalism|Susian exceptionalist]] ideology and the Versijian argument that natural rights are universal and their denial abroad is a wrong Susia has standing to address. Evolved from anti-syndicalist interventionism during the [[Continental Divide]], when Susia funded opposition movements, ran covert operations, and organized the [[ODDN]] in 1961 as the vehicle for its anti-syndicalist alliance. The [[Continental War]] (1975–1977) was the most direct expression. In the Ashgerad era, the stance operates primarily through softer instruments: funding civil society organizations, conditioning trade agreements on governance reforms, and maintaining the ODDN as a demonstration that the democratic model produces stable alliances. The [[Frumentarze]]'s [[Foreign Operations Division]] runs covert support programs for democratic movements in states where Ashgeradn influence is growing. Retains support across most of the Susian spectrum, though interventionist and cautious wings disagree on its scope. Sits in tension with the [[Fortress complex]], which orients toward defense rather than expansion.
 
 ### Reconciliationism
 
-The position that former adversaries should be integrated into shared economic and security architecture rather than isolated or punished. The intellectual basis of the [[Lasman Economic Initiative]] and the expansion of the [[ONDD]] to include Confia and Kamino. As framed by its proponents: forgiveness strengthens; vengeance weakens.
+The position that former adversaries should be integrated into shared economic and security architecture rather than isolated or punished. The intellectual basis of the [[Lasman Economic Initiative]] and the expansion of the [[ODDN]] to include Confia and Kamino. As framed by its proponents: forgiveness strengthens; vengeance weakens.
 
 ### Continental Fortress Doctrine
 
-_(Susia-specific)_ The position that Susia must maintain military and economic dominance over the Dripstan continent as its primary defensive perimeter against Ashgerad. Justifies ONDD expansion, forward military presence in allied nations, and intervention in neighboring affairs when the continental balance is threatened. Views the continent as Susia's natural defensive perimeter. The [[ONDD]] alliance's evolution from anti-Confian instrument to anti-Ashgeradn perimeter, now described in Susian strategic doctrine as the "Continental Fortress," translates the [[Fortress complex]] directly into foreign policy architecture.
+_(Susia-specific)_ The position that Susia must maintain military and economic dominance over the Dripstan continent as its primary defensive perimeter against Ashgerad. Justifies ODDN expansion, forward military presence in allied nations, and intervention in neighboring affairs when the continental balance is threatened. Views the continent as Susia's natural defensive perimeter. The [[ODDN]] alliance's evolution from anti-Confian instrument to anti-Ashgeradn perimeter, now described in Susian strategic doctrine as the "Continental Fortress," translates the [[Fortress complex]] directly into foreign policy architecture.
 
 ### Pan-Continental Unity
 
@@ -336,7 +336,7 @@ The position that hostility between rival powers should be reduced through negot
 
 ### Interventionism
 
-The position that a nation should actively involve itself in the affairs of other states when its security, economic interests, or ideological commitments are at stake. Distinct from democratic evangelism in that it does not require a democratic justification: interventionism can be motivated by realpolitik as much as by principle. The operating stance of Susian foreign policy during the [[Continental Divide]], expressed through proxy wars, covert operations, and ultimately the [[Continental War]]. Institutionally embedded in the [[Frumentarze]] and the ONDD alliance structure.
+The position that a nation should actively involve itself in the affairs of other states when its security, economic interests, or ideological commitments are at stake. Distinct from democratic evangelism in that it does not require a democratic justification: interventionism can be motivated by realpolitik as much as by principle. The operating stance of Susian foreign policy during the [[Continental Divide]], expressed through proxy wars, covert operations, and ultimately the [[Continental War]]. Institutionally embedded in the [[Frumentarze]] and the ODDN alliance structure.
 
 ### Colonialism
 
@@ -344,7 +344,7 @@ _(Historical)_ The position that a nation has the right or duty to extend author
 
 ### Neo-Colonialism
 
-The use of economic leverage, debt, and asymmetric trade arrangements to exercise effective control over formally independent states without direct territorial administration. Critics apply the term to Confia's arrangements with Zaphonia under the New Oil Agreement and to some Susian Yarnojte operations in ONDD partner states.
+The use of economic leverage, debt, and asymmetric trade arrangements to exercise effective control over formally independent states without direct territorial administration. Critics apply the term to Confia's arrangements with Zaphonia under the New Oil Agreement and to some Susian Yarnojte operations in ODDN partner states.
 
 ---
 

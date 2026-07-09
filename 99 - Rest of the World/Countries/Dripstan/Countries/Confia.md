@@ -14,7 +14,7 @@ religion: "[[Armotism]]"
 languages: Confian
 currency: New Swobo (H¢)
 international_organizations:
-  - "[[ONDD]]"
+  - "[[ODDN]]"
   - "[[Lasman Economic Initiative]]"
   - "[[Tekuri Ljas Accord]]"
 capital: "[[Imgospalje]]"

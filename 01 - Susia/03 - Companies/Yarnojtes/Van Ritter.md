@@ -57,7 +57,7 @@ Van Ritter was founded in 1923 in [[Lore-Kurji]], [[Misocévia]], primarily as a
 
 ### Republican Era and the Continental Divide (1954–1977)
 
-The founding of the republic and the onset of the [[Continental Divide]] transformed Van Ritter from a military supplier into a strategic institution. The sustained proxy conflict with [[Confia]] and the creation of the [[ONDD]] drove rapid expansion of Susia's defense industrial base. Van Ritter was the primary beneficiary. The company expanded its product lines from aircraft into missiles, armored vehicles, military satellites, and electronic warfare systems during this period, and secured the federal contracts that would define its position for decades.
+The founding of the republic and the onset of the [[Continental Divide]] transformed Van Ritter from a military supplier into a strategic institution. The sustained proxy conflict with [[Confia]] and the creation of the [[ODDN]] drove rapid expansion of Susia's defense industrial base. Van Ritter was the primary beneficiary. The company expanded its product lines from aircraft into missiles, armored vehicles, military satellites, and electronic warfare systems during this period, and secured the federal contracts that would define its position for decades.
 
 ### Post-War and Global Cold War (1977–present)
 
@@ -111,7 +111,7 @@ Within this framework, the Van Ritter and TU rivalry is the most sustained and t
 
 The dynamic produces a structural irony. The two companies are also mandated partners on several federal programs, required by contract to share certain technical outputs while simultaneously running active intelligence operations against each other. Their engineers sometimes collaborate on joint deliverables in the morning and work in facilities designed to prevent the other company's agents from accessing their research in the afternoon.
 
-Van Ritter provides defense contracting and project management, military training and simulation, intelligence analysis, security consulting, and aerospace engineering services to the federal government and to [[ONDD]] allied states.
+Van Ritter provides defense contracting and project management, military training and simulation, intelligence analysis, security consulting, and aerospace engineering services to the federal government and to [[ODDN]] allied states.
 
 ## Free Economic Zones
 
@@ -189,7 +189,7 @@ The [[Van Ritter Patriots]] [[Crolball|crolball]] team participates in the [[Sus
 - [[Continental Divide]]
 - [[Continental War]]
 - [[Ashgerad]]
-- [[ONDD]]
+- [[ODDN]]
 - [[Misocévia]]
 - [[Troli]]
 - [[Postia]]

@@ -12,7 +12,7 @@ population_1954: 37000000
 religion: Tekur Polytheism
 languages:
 currency: K$
-international_organizations: "[[ONDD]]"
+international_organizations: "[[ODDN]]"
 capital:
 major_cities:
   - "[[Oesburg]]"
