@@ -110,6 +110,8 @@ The snap elections of 1980 produced a [[Confian Liberal Party]] majority governm
 
 # Government
 # Economy
+
 # Military
 # Foreign relations
 # Culture
+# See also
