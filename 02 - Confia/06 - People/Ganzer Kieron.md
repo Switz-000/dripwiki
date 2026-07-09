@@ -3,7 +3,7 @@ type: person
 native_name: Ganzer Nisewić Kieron
 lusitanized_name:
 aliases:
-  - Kieronne
+  - Kieron
   - Kieronnean
 summary:
 sex: Male
