@@ -18,7 +18,7 @@ merged_into:
 banned_by:
 legalized_by:
 headquarters: "[[Carlotopolis]]"
-newspaper: Voice of the Syndicate
+newspaper: Today's New Syndicalist
 think_tank: Eriežera Lensekowina Foundation
 youth_wing: Young Syndicalists of Confia
 paramilitary:
@@ -33,3 +33,4 @@ international_affiliation:
 national_affiliation:
 regional_affiliation:
 ---
+The **Syndicalist League** (Confian: Syndăkalicka Fežka/Сындъкаліцка Фежка) is a major Confian centre-left party. It is based on the ideals of [[Syndicalism#New Syndicalism|New Syndicalism]].
