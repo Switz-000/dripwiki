@@ -37,6 +37,8 @@ The territory where Confia is currently located began to be occupied by Racpalia
 After the end of the period of anarchy, in year 1956, the United Syndicates of Confia were created. The country was created as the first syndicalist state in the world, existing from 1956 to 1977 as a one-party state under the control of the dictator [[Lorelaj Paulowić]], of the [[Confian Syndicalist Union]]. The brutality of this regime caused armed dissent. During the [[Continental War]], syndicalist and liberal guerrilla groups led by Mariana Torres organized a [[Bayonet Revolution|nationwide revolution]] and overthrew the KSS government.
 
 Following the revolution and the subsequent elections, Confia endured several democratically elected governments with peaceful power transitions and tranquil instances of cohabitation. It formally joined the ODDN in 1993, formed the [[Lasman Economic Initiative]] customs union with Susia in 2000.
+
+Confia is often perceived as the "second-in-command" to [[Susia]] in continental geopolitics, having a developed economy that is the second largest in both nominal and per-capita terms. 
 # History
 ## Pre-Dripstanian history
 
@@ -111,6 +113,7 @@ The snap elections of 1980 produced a [[Confian Liberal Party]] majority governm
 # Government
 # Economy
 
+The Confian economy is the second largest in the Dripstanian continent both nominal (D$ 2.2 trillion) and per-capita terms. Since the 1990s, Confia has engaged in market-based reforms that tur
 # Military
 # Foreign relations
 # Culture
