@@ -12,7 +12,7 @@ President of the Nation (President)
 |  5  |                       | 2029-2033 |  [[Democratic Bloc]]   |                  |                |
 |  6  |                       | 2034-2036 |  [[The Confian Home]]  |                  |                |
 |  7  |                       | 2036-2038 |      [[Liberty!]]      |                  |                |
-|  -  | [[Kalsaper Jasretej]] | 2038-2042 |     [[Atom Party]]     |                  |                |
+|  8  | [[Kalsaper Jasretej]] | 2038-2042 |     [[Atom Party]]     |                  |                |
 |  -  |                       |           |                        |                  |                |
 |  -  |                       |           |                        |                  |                |
 # Syndicalist Republic (1977-2009)
