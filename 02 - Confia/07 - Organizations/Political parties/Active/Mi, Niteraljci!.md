@@ -4,6 +4,8 @@ name: Us, Liberals!
 native_name: Mi, Niteraljci!
 abbreviation: MN!
 aliases:
+  - MN!
+  - Us, Liberals!
 status: Active
 founded_by:
   - "[[Lenseka Japlenowina]]"

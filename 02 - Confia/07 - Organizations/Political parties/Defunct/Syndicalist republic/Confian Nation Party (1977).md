@@ -4,7 +4,7 @@ name: Confian Nation Party
 native_name: Parcesse Końfiskei Wjaže
 abbreviation: WJAZA
 aliases:
-status:
+status: Defunct
 founded_by:
 founded: 1977
 dissolved: 1981
