@@ -71,11 +71,11 @@ written_works:
   - title: Rethinking Syndicalism (1959)
     publication_year: 1959
     genre: Non-fiction
-    notes: First book, published in Confia. Called for the unification of the Moderate Syndicalist movement. First proposal of abandoning the economic self-management framework entirely from a syndicalist persepctive.
+    notes: First book, published in Confia. Called for the unification of the Moderate Syndicalist movement. First proposal of abandoning the economic self-management framework entirely from a syndicalist persepctive. Published as D. K. Kasselja
   - title: Susian Syndicalism
     publication_year: 1969
     genre: Non-fiction
-    notes: A polemic comparative essay contrasting the achievements of Susia to those of Confia, claiming capitalism achieved syndicalism's stated goals before syndicalism did. Published at the height of the [[Pierej Crisis]] on a Susian newspaper.
+    notes: A polemic comparative essay contrasting the achievements of Susia to those of Confia, claiming capitalism achieved syndicalism's stated goals before syndicalism did. Published at the height of the [[Pierej Crisis]] on a Susian newspaper. First major work published as Eriežera Lensekowina
   - title: On What Came Before Me And On What Comes After
     publication_year: 1983
     genre: Memoir

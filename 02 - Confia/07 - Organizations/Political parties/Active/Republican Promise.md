@@ -1,9 +1,10 @@
 ---
 type: organization
 name: Republican Promise
-native_name:
+native_name: Wirspružaja Kolaha
 abbreviation:
 aliases:
+  - Republican Oath
 status:
 founded_by:
   - "[[Nisa Peskilonna]]"
@@ -32,4 +33,4 @@ international_affiliation:
 national_affiliation:
 regional_affiliation:
 ---
-**Republican Promise**, alternatively translated as the **Repbulican Oath** is a Confian right-wing political party led by [[Nisa Peskilonna]]. The party was founded as **Republican Promise - Nisa Peskilonna List**, ahead of the 2013 legislative elections.
+**Republican Promise** (Confian: Wirspružaja Kolaha/Вірспружая Колаха), alternatively translated as the **Republican Oath** is a Confian right-wing political party led by [[Nisa Peskilonna]]. The party was founded as **Republican Promise - Nisa Peskilonna List**, ahead of the 2013 legislative elections.
