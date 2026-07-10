@@ -113,6 +113,10 @@ meta:
 ---
 **Darmaja Kunsekowina Kasselja** (Racpalian Alphabet: Дармая Кунсековіна Кассеља), better known by her pen name **Eriežera Lensekowina** (Racpalian Alphabet: Ерьежера Ленсековіна) was a Confian syndicalist philosopher, writer and anti-[[Paulowić regime]] activist. She is credited with the philosophical foundations of what would later become [[Syndicalism#New Syndicalism|New Syndicalism]].
 
+## Early life and education
+
+
+
 ## Quotes
 
 >The path of the [[Paulowić regime|New Confia]] is forged by a double-edged sword: blind faith in [[Ganzer Kieron|Kieron]]'s words for the economic and blind faith in [[Lorelaj Paulowić|Roždawoenni's]] words for the political. What matters today for policymaking is not the strife of the worker, but a word in a piece of paper, whether written by a philosopher long ago or by a general last week.
