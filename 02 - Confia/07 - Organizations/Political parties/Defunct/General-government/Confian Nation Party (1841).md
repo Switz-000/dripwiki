@@ -4,7 +4,7 @@ name: Confian Nation Party
 native_name: Parcesse Końfiskei Wjaže
 abbreviation: CNP
 aliases:
-status:
+status: Defunct
 founded_by:
   - "[[Wanašer Gerzăn]]"
 founded: 1841

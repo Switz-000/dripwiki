@@ -4,7 +4,8 @@ name: Movement for Syndicalist Renovation
 native_name: Daniesse kes Syndăkalicka Nirezzae
 abbreviation: DSN
 aliases:
-status:
+  - DSN
+status: Active
 founded_by:
   - "[[Mariana Torres]]"
   - "[[Genrih Maskernie]]"

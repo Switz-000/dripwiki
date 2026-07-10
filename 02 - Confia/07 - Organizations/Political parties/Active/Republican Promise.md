@@ -2,10 +2,11 @@
 type: organization
 name: Republican Promise
 native_name: Wirspružaja Kolaha
-abbreviation:
+abbreviation: WK
 aliases:
   - Republican Oath
-status:
+  - WK
+status: Active
 founded_by:
   - "[[Nisa Peskilonna]]"
 founded: 2013
@@ -13,15 +14,12 @@ dissolved:
 merger_of:
   - "[[Shield!]]"
   - "[[Ljudewlaš!]]"
-split_from:
 merged_into:
-banned_by:
 legalized_by:
 headquarters:
 newspaper:
 think_tank:
 youth_wing:
-paramilitary:
 ideology:
   - 
 political_position:

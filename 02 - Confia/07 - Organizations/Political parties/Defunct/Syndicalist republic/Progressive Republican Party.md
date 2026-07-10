@@ -4,7 +4,7 @@ name: Progressive Republican Party
 native_name:
 abbreviation:
 aliases:
-status:
+status: Defunct
 founded_by:
   - "[[Mariana Torres]]"
   - "[[Genrih Maskernie]]"

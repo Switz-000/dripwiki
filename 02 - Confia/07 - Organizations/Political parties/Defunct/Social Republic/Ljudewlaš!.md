@@ -6,7 +6,7 @@ abbreviation: Lj
 aliases:
   - Ljudewlaš
   - Democracy!
-status: active
+status: Active
 founded_by:
   - Laus Darizel
 founded: 1981
