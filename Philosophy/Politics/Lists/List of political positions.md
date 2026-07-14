@@ -398,7 +398,7 @@ The position that individuals or communities hold a primary right to control dat
 
 ## Energy and Environment
 
-### Fossil Fualism
+### Fossil Fuelism
 
 The defense of fossil fuel industries as economically and strategically essential. Associated with [[POCOIL]] and the Troli and Postia oil sectors in Susia; the dominant energy stance in Zaphonia and Sutsa-Fuhu. The Pounnun Oil Zone in [[Troli]] is a major POCOIL FEZ.
 
