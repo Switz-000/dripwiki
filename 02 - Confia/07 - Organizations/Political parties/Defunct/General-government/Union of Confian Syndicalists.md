@@ -20,9 +20,10 @@ think_tank:
 youth_wing:
 paramilitary:
 ideology:
-  - 
+  - "[[Syndicalism]]"
+  - "[[List of political positions#Nationalism]]"
 political_position:
-  - 
+  - Left-wing
 wings:
   - 
 area_served:

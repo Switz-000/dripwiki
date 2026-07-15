@@ -25,6 +25,8 @@ major_cities:
   - "[[Lacktaw]]"
 continent: Incria
 borders_east:
+  - "[[Bershad]]"
+  - "[[Yar-Firol]]"
 borders_west:
 borders_north:
   - "[[Pajanpar]]"

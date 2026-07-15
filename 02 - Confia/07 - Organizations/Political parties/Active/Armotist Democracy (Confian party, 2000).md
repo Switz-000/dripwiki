@@ -10,20 +10,18 @@ founded_by:
   - "[[Panož Zastranni]]"
 founded: 2000
 dissolved:
-merger_of:
-split_from:
+split_from: "[[Armotist Democratic Party]]"
 merged_into:
-banned_by:
-legalized_by:
 headquarters:
 newspaper:
 think_tank:
 youth_wing:
 paramilitary:
 ideology:
-  - 
+  - "[[Armotist democracy]]"
 political_position:
-  - 
+  - Right-wing (socially)
+  - Left-wing (economically)
 wings:
   - 
 area_served:
