@@ -15,7 +15,8 @@ The last census was conducted in 1950 by the [[General Government of Incria]] du
 | Dripstanian & Mixed | 3%                    | Major cities along the coast                             | 99% Armotist              | No, never practiced              |                                              |
 | Baya                | 2%                    | Eastern coast, Small spillover, border with [[Yarteroy]] | 74% Armotist<br>8% Pagan  | No, but used to until conversion | Trade, Conversion, Integration, Misigination |
 | Others              | 8%                    | Other ethnicities, specially in the west.                |                           | In the west, most do             |                                              |
-
+|                     |                       |                                                          |                           |                                  |                                              |
+Driostanians in bershad live in the urban centers alongside with mixed. natives in the interior. in Yar-Firol dripstanians live in the interior, with mixed living alongside the coast and cities.
 ## Canibalism in Bershad
 
 This is a summarized list of cannibalistic practices in the cultures that compose [[Bershad]]. This list refers to *institutionalized cannibalism* that is, cannibal acts that are accepted by the culture in which they occur. These do not include acts committed under starvation to ensure one's immediate survival or those committed by isolated individuals considered criminal and often pathological by society at large.
