@@ -16,10 +16,10 @@ A little discussed factor about Kieron's writings is his [[Wanašer Gerzăn|Gerz
 ### Orthodox Syndicalism
 
 **Orthodox Syndicalism**, also known as **Kieronnean Syndicalism**, **Syndicalist Orthodoxy** or simply **Orthodoxy**, it is the strictest form of syndicalism, calling for direct collective control over all industries and all levels of government. 
-Orthodox Syndicalism was nominally pursued by the Paulowić regime during its initial years, but this de jure denomination was under heavy criticism from Orthodox Syndicalists, albeit repressed, due to Paulowić's use of ragged-sleeve state companies, whereas they preferred full collective management. Eventually, Paulowić broke from Orthodoxy and opted for Mixed Planning.
+Orthodox Syndicalism was nominally pursued by the Paulowić regime during its initial years despite heavy criticism from Orthodox Syndicalists due to Paulowić's use of ragged-sleeve state companies, whereas they preferred full collective management. Eventually, Paulowić broke from Orthodoxy and opted for Mixed Planning.
 ## Paulowić model
 
-The **Paulowić model** is not a set doctrine of ideas, but the particular policies carried out during [[Lorelaj Paulowić]]'s rule in Confia. As such, its supporters do not see themselves as members of a particular current of syndicalism and refer to it as "Syndicalism as pragmatically applied", often self-identifying as Orthodox Syndicalism.
+The **Paulowić model** is not a set doctrine of ideas, but the particular policies carried out during [[Lorelaj Paulowić]]'s rule in Confia. As such, its supporters do not see themselves as members of a particular current of syndicalism and refer to it as **"Syndicalism as pragmatically applied"**, often self-identifying as Orthodox Syndicalism.
 ### Revised Syndicalism
 
 **Revised Syndicalism** is a variety of syndicalism based on the **Six Points of [[Mariana Torres|Torres]]**, a revised version of the [[Confian Syndicalist Union]]'s ten-point program. It accepts limited private participation in some markets, while balancing them with cooperative ownership in smaller businesses and state ownership of major utilities.

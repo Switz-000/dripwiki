@@ -1,0 +1,1 @@
+**Lasmannism** was a [[Confia|Confian]] proto-Modernist movement centered around support for the government of [[Grawolja Lasmanna]].
