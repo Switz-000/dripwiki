@@ -115,7 +115,7 @@ meta:
 
 ## Early life and education
 
-Darmaja Kunsekowina Kasselja was born on the 32th of  to Kunsek 
+Darmaja Kunsekowina Kasselja was born on the 32th of Agamilean, 1990 to Kunsek Tegironowić Kasselj and Nisa Armoljubowina Kasselja.
 
 ## Quotes
 
