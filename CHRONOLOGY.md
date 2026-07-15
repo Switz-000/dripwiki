@@ -128,6 +128,9 @@
 - **Dissolved** — [[Confian Nation Party (1977)]]
 - **Founded** — [[Ljudewlaš!]] by [[['Laus Darizel']]]
 
+## 1984
+- **Document recorded** — [[Letter to St Yepodij]] (letter)
+
 ## 1986
 - **Atrocity begins** — [[Nar Liewati Massacre]]
 - **Atrocity ends** — [[Nar Liewati Massacre]]
