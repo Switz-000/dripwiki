@@ -115,7 +115,7 @@ meta:
 
 ## Early life and education
 
-Darmaja Kunsekowina Kasselja was born on the 32th of Agamilean, 1990 to Kunsek Tegironowić Kasselj and Nisa Armoljubowina Kasselja.
+Darmaja Kunsekowina Kasselja was born on the 32th of Agamilean, 1990 in [[Saint Eriogala]], a suburb of [[Imgospalje]]. She completed her basic education in the Secondary Institution 13 in the aforementioned town. Kasselja moved to Carlotopolis in 1920 for the entry exams to the [[Carlotopolis State University for the Humanities]] 
 
 ## Quotes
 
