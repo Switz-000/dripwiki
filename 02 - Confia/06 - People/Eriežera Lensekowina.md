@@ -75,7 +75,7 @@ written_works:
   - title: Susian Syndicalism
     publication_year: 1969
     genre: Non-fiction
-    notes: A polemic comparative essay contrasting the achievements of Susia to those of Confia, claiming capitalism achieved syndicalism's stated goals before syndicalism did. Published at the height of the [[Pierej Crisis]] on a Susian newspaper. First major work published as Eriežera Lensekowina
+    notes: A polemic comparative essay contrasting the achievements of Susia to those of Confia, claiming capitalism achieved syndicalism's stated goals before syndicalism did. Published at the height of the [[Pierej Crisis]] on the [[New Kentu Truth-Teller]]. First major work published as Eriežera Lensekowina
   - title: On What Came Before Me And On What Comes After
     publication_year: 1983
     genre: Memoir
@@ -115,7 +115,7 @@ meta:
 
 ## Early life and education
 
-Darmaja Kunsekowina Kasselja
+Darmaja Kunsekowina Kasselja was born on the 32th of Agamilean, 1990 to Kunsek Tegironowić Kasselj and Nisa Armoljubowina Kasselja.
 
 ## Quotes
 
@@ -128,7 +128,7 @@ Darmaja Kunsekowina Kasselja
 >The categories of "exploited" and "unchained" worker were once the poetic ramblings of philosophers, and are now artifices of the regime. **The poorest pauper in a capitalist country leads a significantly better life than the average citizen of a syndicalist regime.**
 >― Eriežera Lensekowina, [[Susian Syndicalism]] (1969)
 
->Syndicalism is often presented to Susians as the obvious solution: a system that purportedly abolishes inequalities and enables a true democracy. This follows reality in the most damning; syndicalism has made Confians equal―equal in squalor, equal in repression, equal in misery.
+>Syndicalism is often presented to Susians as the obvious solution: a system that purportedly abolishes inequalities and enables a true democracy. This follows reality in the most damning; **syndicalism has made Confians equal―equal in squalor, equal in repression, equal in misery.**
 >― Eriežera Lensekowina, [[Susian Syndicalism (1969)]]
 
 >No fallacy is yet to cause greater harm than the conflation of poverty and inequality.

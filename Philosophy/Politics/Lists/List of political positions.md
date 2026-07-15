@@ -117,7 +117,7 @@ A system where only one party is allowed to exist, is constitutionally linked to
 
 ### Multiparty system
 
-A system where multiple parties are allowed. Present in virtually every democratic country, most notably in the [[Confia|Confian]] Syndicalist Republic.  Not to be confused with a Multiple Party System (MPS).
+A system where multiple parties are allowed. Present in virtually every democratic country, most notably in post-revolutionary [[Confia]].  Not to be confused with a Multiple Party System (MPS).
 
 ### Household suffrage
 
