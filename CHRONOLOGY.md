@@ -129,7 +129,7 @@
 - **Founded** — [[Ljudewlaš!]] by [[['Laus Darizel']]]
 
 ## 1984
-- **Document recorded** — [[Letter to St Yepodij]] (letter)
+- **Document recorded** — [[Letters to St Yepodij]] (letter)
 
 ## 1986
 - **Atrocity begins** — [[Nar Liewati Massacre]]

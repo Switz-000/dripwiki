@@ -16,7 +16,6 @@ tags:
   - history
   - geography
 ---
-
 Dear Mom and Dad,
 
 I am well and so is Titič, we are now in a city named [[Hertpatt]], across the [[Yar-Firol]] border, in [[Bershad]]. You can tell you're in Bershad due to the big holes in the roads and the electric fence separating the two. I know people make fun of our roads back home, but these are the size of a [[Spruyǎtročeyon|Spručeon]]!
