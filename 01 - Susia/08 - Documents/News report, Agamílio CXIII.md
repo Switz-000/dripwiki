@@ -21,7 +21,7 @@ A [[Zaphonia|zaphonian]] mayor suffers internet backlash after delivering fish t
 
 [[Postia|Postian]] motorway shuts down for two hours after a [[Troli Ustaras]] robot chased a group of Wild boar.
 
-[[Ashgerad|Ashgeradn]] state television airs documentary arguing Susian supermarket abundance is "staged for tourists"
+[[Ashgerad|Ashgeradi]] state television airs documentary arguing Susian supermarket abundance is "staged for tourists"
 
 [[Daričoy]] startup pulls its meeting-assistant app after it kept advising users to quit their jobs
 
