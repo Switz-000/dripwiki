@@ -1,1 +1,0 @@
-Tika is a susian newspaper headquarted in [[Duolij]], [[Postia]]

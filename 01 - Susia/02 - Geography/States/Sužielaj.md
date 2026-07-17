@@ -34,5 +34,5 @@ yarnojtes_fez:
   - "[[Lischev-Verene]]"
   - "[[Nayotai]]"
 ---
-
+Druing the mid 1800s, Suzielaj had a diamond rush on its western part bordering postia. TODO
 
