@@ -64,9 +64,6 @@
 ## 1937
 - **Dissolved** — [[Confian Nation Party (1841)]]
 
-## 1938
-- **Founded** — [[Końteraf]] by [[['[[Confian National Government]]', '[[Lorelaj Paulowić]]']]] in [[Imgospalje]]
-
 ## 1942
 - **Founded** — [[White Stork Party]]
 
@@ -102,6 +99,9 @@
 
 ## 1966
 - **Founded** — [[San'motko]]
+
+## 1968
+- **Founded** — [[Końteraf]] by [[['[[Confian National Government]]', '[[Lorelaj Paulowić]]']]] in [[Imgospalje]]
 
 ## 1969
 - **Founded** — [[Soites Group]] by [[Suizo Soites]] in [[Neoveli]]
