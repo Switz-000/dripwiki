@@ -8,10 +8,13 @@ status: Dissolved
 founded_by:
   - "[[Suizo Soites]]"
   - "[[Ergagério Sienes]]"
+  - "[[Filňar Čantij]]"
 founded: 1954
 merger_of:
 split_from:
 merged_into:
+  - "[[Coalition of State's Rights]]"
+  - "[[Democratic-Federalist Party]]"
 banned_by:
 legalized_by:
 headquarters:
@@ -25,7 +28,7 @@ political_position:
   - 
 wings:
   - 
-area_served:
+area_served: "[[Susia]]"
 international_affiliation:
 national_affiliation:
 regional_affiliation:
