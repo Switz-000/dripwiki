@@ -81,7 +81,7 @@
 - **Founded** — [[Progressive Republican Party]] by [[['[[Mariana Torres]]', '[[Genrih Maskernie]]']]]
 - **Founded** — [[Supreme Court of Susia]]
 - **Founded** — [[Susian Democratic Union]]
-- **Founded** — [[Susian Liberal Party]] by [[['[[Suizo Soites]]', '[[Ergagério Sienes]]']]]
+- **Founded** — [[Susian Liberal Party]] by [[['[[Suizo Soites]]', '[[Ergagério Sienes]]', '[[Filňar Čantij]]']]]
 
 ## 1956
 - **Founded** — [[Moviment of New Susians]]
