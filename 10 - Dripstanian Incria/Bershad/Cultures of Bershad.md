@@ -4,7 +4,7 @@ The last census was conducted in 1950 by the [[General Government of Incria]] du
 
 | Name                | % of total population | Distribution                                             | Religion                  | Cannibalism                      | Dripstanian contact                          |
 | ------------------- | --------------------- | -------------------------------------------------------- | ------------------------- | -------------------------------- | -------------------------------------------- |
-| Yokno               | 25%                   | Central interior.                                        | 70% Armotist, 30% Pagan   | No, never practiced              | Settlement, extraction and quotas.           |
+| [[Yokno]]           | 25%                   | Central interior.                                        | 70% Armotist, 30% Pagan   | No, never practiced              | Settlement, extraction and quotas.           |
 | Haiel               | 23%                   | Dominant in the south coast and the islands              | 95% Armotist              | No, never practiced              | Trade, Conversion, Integration, Misigination |
 | Parund              | 11%                   | Western seabord                                          | 82% Pagan                 | Yes, active                      | Tri                                          |
 | Mtole               | 8%                    | Southwestern, mostly inland                              | 77% Pagan                 | Yes, to some degree              | Settlement, extraction and quotas.           |

@@ -8,7 +8,7 @@ recorded_year: 1984
 participants:
   - "[[Matev Serpis]]"
 location:
-  - "[[Hergepatt]]"
+  - "[[Hertpatt]]"
 tags:
   - culture
   - colonial
@@ -18,9 +18,11 @@ tags:
 ---
 Dear Mom and Dad,
 
-I am well and so is Titič, we are now in a city named [[Hertpatt]], across the [[Yar-Firol]] border, in [[Bershad]]. You can tell you're in Bershad due to the big holes in the roads and the electric fence separating the two. I know people make fun of our roads back home, but these are the size of a [[Spruyǎtročeyon|Spručeon]]!
+I am well and so is Titič, we are now in [[Hertpatt]], which means we made it in [[Bershad]]. You can tell you arrvied at the border because of big electric fence separating the two, birds don't even dare sitting on it. I know Uncle Ňotrič make fun of our roads back home, but here they are the size of a [[Spruyǎtročeyon|Spručeon]]!
 
-The border-guard was nice, he spoke a little [[Susian language|susian]], telling me to be careful, and something about the [[Buta people|Buta]] I couldn't really make it out due to his thick accent. There weren't many people guarding the border, I was pleasantly surprised since [[Tika!]] reported how brutal the patrol can be. He explained that the Bershadians don't try to cross the border as much, and when they do its mostly at night. His friend was redeployed to the interior, president [[Bejňar Keke]] is focused on reducing violence there. He then went on and on about how the susian media portray [[Yar-Firol]] unfairly and how we need to get rid of the [[Susian Liberal Party|SNP]], I didn't know if he was meaning metaphorically or literally, with these people, you can't be sure. 
+The border guard was nice, he spoke a little [[Susian language|Susian]]. He told me to be careful, and said something about the [[Buta people|Buta]] that I couldn't make out, his accent was thick. I remember reading [[Tika!]] back home reporting on how brutal the patrol can be. Yet, there weren't many people guarding the border and those who were, seemed awfully bored.
+
+I made the same comment to the guard, he said that the Bershadians don't try to cross the border as much, and when they do its mostly at night. His friend was redeployed to the interior. Their president, [[Bejňar Keke]], is focused on reducing violence there. He then went on and on about how the [[Susia|susian]] media portray [[Yar-Firol]] unfairly and how we need to get rid of the [[Susian Liberal Party|SNP]], I didn't know if he was meaning metaphorically or literally, with these people, you can't be sure. 
 
 When I told him that I wanted to cross into Bershad he was surpised, I remember him, nervously asking if i was a tourist. I replied yes, I have no idea what happened, but it felt like something clicked in him? Maybe he thought I was working for the embassy? As some sort of higher ranking official, he then went on about how "the shipments" haven't arrived yet, and how "they" wouldn't be able do support me. I had a gut feeling that I had suddenly become someone who arrived earlier than expected, if that makes sense.
 
