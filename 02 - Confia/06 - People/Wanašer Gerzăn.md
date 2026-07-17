@@ -23,15 +23,15 @@ enhanced: false
 # ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
 birth:
   year: 1789
-  city: 
-  state: 
+  city: "[[Carlotopolis]]"
+  state: "[[Karlotopol']]"
   country: "[[Dripstanian Empire]]"
 
 death:
   year: 1873
-  city: 
-  state: 
-  country: 
+  city: "[[Talfaslaž]]"
+  state: "[[Koštanože]]"
+  country: "[[General Government of Confia]]"
   cause: Tuberculosis under state custody
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
