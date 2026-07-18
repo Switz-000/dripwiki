@@ -128,6 +128,16 @@ meta:
   image: null
 ---
 **Grawolja Seriewina Lasmanna** (Racpalian Alphabet: Гравоља Серьевіна Ласманна) is a Confian economist and banker that served as the 6th Prime Minister of the [[Confia|United Syndicates of Confia]], as well as the 2nd Director of its Central Bank. 
+
+## Personal life
+
+Lasmanna kept her personal life private at all turns. 
+### Political views
+
+There are only three moments whence Lasmanna's beliefs can be inferred: her innauguration speech (televised, unlike the tradition of stating it from Revolution Square), her speech during the ratification of the [[Lasman Economic Initiative]], and her interview with the [[Five of Goretopol']].
+### Religion
+
+When publicly asked about her religion during [[Grawolja Lasmanna with the Five of Goretopol'|her Five of Goretopol' interview]] , Lasmanna declined to respond, stating "it is a private matter". Despite this, there is credible reason to believe she is a practicing [[Armotist Church of the Confian Synod|Synodal Armotist]]; she would vacate office during her term weekly to attend service at the St. Mantichev Great Cathedral, she was married in a Synodal church, she wore the traditional female cloche hat during the funeral of [[Ganzer Teahowić]], 
 ## Quotes
 
 > "Throughout my tenure as Director of the Central Bank, I have made consistent demands to the [[Confian National Government#Prime Minister|Palace of the Revolution]]: **Fiscal surpluses, freedom in external commerce, and impartiality for internal businesses.** With these three precepts, there is stability for consumers and providers, workers and investors alike. For the past two decades, the Confian people have been robbed of these basic precepts any economy should follow to aim for a healthy market. **One should not expect my premiership to deviate from said ever-going suggestions.** [[Syndicalist League|Neither]] [[Armotist Democratic Party|party]] has made the reforms necessary to change the main problems of Confia, and these problems have built up over the years into a large impending catastrophe. The following years will be some of the hardest in this country's history. **The solution will be ugly, but I trust you to be adults and do what adults do: accept short-term pain leading long-term success over short-term comfort leading to long-term disaster.**"
