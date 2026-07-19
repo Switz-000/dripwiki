@@ -21,7 +21,6 @@ newspaper:
 think_tank:
 youth_wing:
 ideology:
-  - "[[List of political stances#]]"
 political_position:
   - Right-wing
 wings:
