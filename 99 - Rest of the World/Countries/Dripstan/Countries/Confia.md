@@ -87,9 +87,9 @@ The labour camp known as the [[Talfaslaž]], a symbol of the General Government'
 
 During the end days of the [[Continental War]], the RBWIZ took [[Imgospalje]], marching towards the [[Palace of the Revolution]]. Finding it empty, the end of the [[Paulowić regime]] was declared. [[Mariana Torres]] was granted the title of interim leader.
 
-## Syndicalist Republic (1977-2009)
+## Syndicalist Republic (1977-2008)
 
-The period between the Bayonet Revolution and the promulgation of the 2009 constitution is known as the Syndicalist Republic.
+The period between the Bayonet Revolution and the promulgation of the 2008 constitution is known as the Syndicalist Republic.
 
 > "We are longer quite a traditional Syndicalist state, and we are not quite a traditional democratic republic. **Confia currently stands a Syndicalist Republic**, and only the future will tell if such an idiosyncratic arrangement resists time like the syndicates did."
 > - [[Mariana Torres]] after sanctioning the [[Labour and Capital Reform ACCN]]
