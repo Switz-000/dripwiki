@@ -68,7 +68,7 @@ era:
 			- secession_war # 1937-1950
 			- state_of_confia # 1950-1953
 			- confian_anarchy # 1954-1956
-	- united_syndicates # 1956–2009, Proclamation to 2009 constitution
+	- united_syndicates # 1956–2008, Proclamation to 2008 constitution
 		- paulowic_regime # 1956–1977, Presidential Empowerment Amendment to Bayonet Revolution
 			- continental-war # 1975–1977, hot war
 		- syndicalist_republic # 1977–2009
