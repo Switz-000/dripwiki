@@ -224,6 +224,10 @@ Boňár's conception of Susia as the dominant civilization of the continent late
 Boňár was an influence on the later [[Modernism|modernist movement]], which drew on aspects of his approach to government, including long-horizon planning, the proposal of ten-year presidential terms, and state-directed economic development.
 
 %% TODO: Modernist adoption of ten-year terms, long-term planning, and dirigisme as influences from Boňár. Connection established this session; the modernist movement's own article should carry the full account. %%
+### Miscellaneous
+
+- According to his sister, in their childhood games Čalsor always insisted on playing as the Dripstnian emperor.
+- Even as a kid, Čalsor belived he was pre-destined to save the emp
 
 ### See also
 
