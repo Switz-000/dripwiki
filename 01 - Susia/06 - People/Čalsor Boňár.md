@@ -227,7 +227,6 @@ Boňár was an influence on the later [[Modernism|modernist movement]], which dr
 ### Miscellaneous
 
 - According to his sister, in their childhood games Čalsor always insisted on playing as the Dripstnian emperor.
-- Even as a kid, Čalsor belived he was pre-destined to save the emp
 
 ### See also
 
