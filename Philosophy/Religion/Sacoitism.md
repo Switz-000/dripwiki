@@ -1,4 +1,4 @@
-	---
+---
 type: religion
 aliases:
   - Sacoitist
@@ -16,6 +16,7 @@ meta:
 ---
 
 **Sacoitism** is a religion originating on the continent of [[Gaiyan]], centered on the worship of [[Sacoites]], whom its adherents regard as the supreme being and creator of the universe. Its core doctrine holds that consciousness is neither created nor destroyed but transformed continuously through the [[Cycle of Souls]], a process overseen by Sacoites and administered by four subordinate divinities. Sacoitism served as the state religion of the [[Kingdom of Duloc]] and provided the theological foundation for its theocratic monarchy. It is the parent tradition from which [[Armotism]] emerged following the [[Armotist Revolution]].
+
 ### Origins
 
 The origins of Sacoitism are traced to the prophet [[Olod]], a commoner from the [[Kingdom of Duloc]] on the continent of [[Gaiyan]]. According to the [[Ladan]], Sacoitism's primary scripture, Olod received a vision in which [[Sacoites]] transported him to [[Zion]], the divine realm, and charged him with spreading Sacoites' word throughout Duloc and restoring the kingdom to righteousness. Olod descended from Zion and transcribed the laws and teachings he had received, establishing the doctrinal foundation of the religion.
