@@ -51,7 +51,6 @@ VITAKEI identified several patterns in your recent data that have influenced you
 We've noticed you have not completed Meditation Protocol #47 in nineteen days. We've also recorded three evenings this period in which your apartment sensors logged extended periods of stillness consistent with low mood. We mention this not to intrude, but because we care about the whole person, not only the body. Verene's gardens were places of rest. Yours can be again.
 
 ---
-
 ## Your Recommendations This Week
 
 These are not obligations. As always under your Compact, every directive is offered for your wellbeing, and the choice is yours.
