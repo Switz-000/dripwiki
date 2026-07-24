@@ -1,4 +1,3 @@
-
 ## 1956 Confian general election
 
 |               Party               |        Leader        | Seats (%) | Votes (%) |   Status   |
