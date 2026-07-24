@@ -8,7 +8,6 @@ tags:
   - military
   - history
 ---
-
 An **eossaj** (plural: eossajs) was a party-affiliated paramilitary organization active in [[Susia]] during the early republic period. The word derives from the Susian term for ant nest. Eossajs organized around political parties, conducted street parades and public demonstrations, engaged in intimidation of rival organizations, and fought in direct confrontations with opposing groups. They were declared unconstitutional by the [[Supreme Court of Susia]] during the [[Ant Wars]] and dissolved by 1959.
 
 ## Origins
