@@ -25,7 +25,7 @@ death:
   city: "[[Imgospalje]"
   state: "[[Koštanože]]"
   country: "[[Confia]]"
-  cause: Assassination by gunshot
+  cause: Car bomb
 spouse:
 children_count:
 education:
@@ -130,3 +130,7 @@ meta:
   image:
 ---
 **Ganzer Teahowić Dasunah** was a [[Confia|Confian]] hospital administrator, trade unionist and politician who served as the 9th and last Prime Minister of the United Syndicates of Confia, as well as the 1st President of the Confian Social Republic under the 2008 constitution.
+
+## Assassination and funeral
+
+After a meeting with the Confian Federation of Labour in the south side of [[Imgospalje]], Teahowić's caravan, which had a bomb planted under it, exploded, instantly killing two of his bodyguards and mortally wounding him. He was rushed to the [[Verene Central Hospital]], but died during the trip.

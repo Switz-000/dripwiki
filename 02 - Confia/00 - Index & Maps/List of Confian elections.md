@@ -16,20 +16,20 @@ The first election for head of state in the history of independent Confia. It wa
 
 The first nationwide democratic parliamentary election with universal suffrage in Confian history. it followed the [[Bayonet Revolution]]. It produced a KNP-LjWP coalition. Turnout was 85.1%
 
-|                         Party                         |          Leader           | Seats (%) | Votes (%) |   Status   |
-| :---------------------------------------------------: | :-----------------------: | :-------: | :-------: | :--------: |
-|               [[Confian Liberal Party]]               |   [[Senjap Kunsekowić]]   |           |           | Government |
-|           [[Progressive Republican Party]]            |    [[Mariana Torres]]     |           |           | Government |
-| [[Confian Nation Party (1977)\|Confian Nation Party]] |     [[Kariz Jalnet]]      |           |           | Opposition |
-|                [[Syndicalist League]]                 | [[Armoljubca Dardezanna]] |           |           | Opposition |
+|                         Party                         |        Leader         | Seats (%) | Votes (%) |   Status   |
+| :---------------------------------------------------: | :-------------------: | :-------: | :-------: | :--------: |
+|               [[Confian Liberal Party]]               | [[Senjap Kunsekowić]] |           |           | Government |
+|           [[Progressive Republican Party]]            |  [[Mariana Torres]]   |           |           | Government |
+| [[Confian Nation Party (1977)\|Confian Nation Party]] |   [[Kariz Jalnet]]    |           |           | Opposition |
+|             [[Confian Syndicalist Union]]             |  [[Kara Sirtolanna]]  |           |           | Opposition |
 ## 1977 Confian presidential election
 It followed the [[Bayonet Revolution]]. It was won by [[Mariana Torres]].
 
-|       Candidate       |               Party               | Votes (%) |  Status  |
-| :-------------------: | :-------------------------------: | :-------: | :------: |
-|  [[Mariana Torres]]   | [[Progressive Republican Party]]  |   51.4%   | Elected  |
-| [[Senjap Kunsekowić]] |     [[Confian Liberal Party]]     |   21.1%   | Defeated |
-|   [[Lensek Bӑrboz]]   | [[Confian Syndicalist Union]] |   3.4%    | Defeated |
+|       Candidate       |              Party               | Votes (%) |  Status  |
+| :-------------------: | :------------------------------: | :-------: | :------: |
+|  [[Mariana Torres]]   | [[Progressive Republican Party]] |   51.4%   | Elected  |
+| [[Senjap Kunsekowić]] |    [[Confian Liberal Party]]     |   21.1%   | Defeated |
+|   [[Lensek Bӑrboz]]   |  [[Confian Syndicalist Union]]   |   3.4%    | Defeated |
 ## 1980 Confian confidence vote
 
 [[Lenseka Japlenowina]] lost, with 83% of the seats voting against her permanence.
