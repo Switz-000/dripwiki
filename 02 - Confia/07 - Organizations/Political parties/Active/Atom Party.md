@@ -6,7 +6,7 @@ abbreviation: ATOM
 aliases:
 status: Active
 founded_by:
-founded:
+founded: 1997
 dissolved:
 merger_of:
 split_from:

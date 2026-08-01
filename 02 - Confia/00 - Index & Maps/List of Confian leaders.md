@@ -8,7 +8,7 @@ President of the Nation (President)
 |  2  |   [[Tegiron Hari]]    | 2011-2013 | [[Syndicalist League]] |                  |                                                               |
 |  3  |  [[Nisa Peskilonna]]  | 2014-2018 | [[Republican Promise]] |                  |                                                               |
 |  -  |  [[Nisa Peskilonna]]  | 2019-2023 | [[Republican Promise]] |                  |                                                               |
-|  4  |                       | 2024-2028 |     *Independent*      |                  |                                                               |
+|  4  |         [[P]]         | 2024-2028 |     *Independent*      |                  |                                                               |
 |  5  |                       | 2029-2033 |  [[Democratic Bloc]]   |                  |                                                               |
 |  6  |                       | 2034-2036 |  [[The Confian Home]]  |                  |                           Resigned                            |
 |  7  |                       | 2036-2038 |      [[Liberty!]]      |                  |                                                               |
