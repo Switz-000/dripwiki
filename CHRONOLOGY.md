@@ -153,6 +153,9 @@
 ## 1994
 - **Dissolved** — [[Postian Free Farmers]]
 
+## 1997
+- **Founded** — [[Atom Party]]
+
 ## 2000
 - **Dissolved** — [[Armotist Democratic Party]]
 - **Founded** — [[Armotist Democracy (Confian party, 2000)]] by [[['[[Panož Zastranni]]']]]
