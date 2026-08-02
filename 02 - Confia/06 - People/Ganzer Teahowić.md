@@ -129,8 +129,9 @@ meta:
   verified: false
   image:
 ---
-**Ganzer Teahowić Dasunah** was a [[Confia|Confian]] hospital administrator, trade unionist and politician who served as the 9th and last Prime Minister of the United Syndicates of Confia, as well as the 1st President of the Confian Social Republic. 
-His term as prime minister paved the way for the "desyndicalization" of Confian politics started by [[Grawolja Lasmanna]], culminating in the [[2008 Constitution]]. Economically, he implemented "Handshake Economics", a labour policy oriented towards employer-employee collaboration and negotiation instead of confrontation through strikes and lockouts. His government also approved multiple [[Syndicalism#New Syndicalism|New Syndicalist]]-oriented social reforms known as the "Wjaža Hara" ("One Nation") programs, such as the universal single-payer [[National Healthcare Fund]] and full refundability for the [[Universal National Child Tax Credit]]. Teahowić became an iconic figure of the Confian moderate left, who praise his pragmatic and negotiating style of governance.
+**Ganzer Teahowić Dasunah** was a [[Confia|Confian]] hospital administrator, trade unionist and politician who served as the 9th and last Prime Minister of the United Syndicates of Confia, as well as the 1st President of the Confian Social Republic. The most popular head of government in Confian history, Teahowić became an iconic figure of the Confian moderate left, who praise his pragmatic and negotiating style of governance.
+
+His term as prime minister paved the way for the "desyndicalization" of Confian politics started by [[Grawolja Lasmanna]], culminating in the [[2008 Constitution]]. Economically, he implemented "Handshake Economics", a labour policy oriented towards employer-employee collaboration and negotiation instead of confrontation through strikes and lockouts. His government, under a coalition with the centre [[Mi, Niteraljci!|MN!]] and centre-right [[Confian Democratic Party]] His government also approved multiple [[Syndicalism#New Syndicalism|New Syndicalist]]-oriented social programs known as the "Wjaža Hara" ("One Nation") programs, such as the universal single-payer [[National Healthcare Fund]] and full refundability for the [[Universal National Child Tax Credit]], as welll as progressive reforms such as marriage equality.
 
 ## Assassination and funeral
 
