@@ -45,8 +45,9 @@ military_service:
       - 
     notes:
 political_alignment:
-  - 
+  - "[[Modernism]]"
 party:
+  - "[[Atom Party]]"
 parties:
   - 
 organizations:
