@@ -88,7 +88,7 @@ awards:
     country:
     notes:
 era:
-  - 
+  - social-republic
 tags:
   - 
 meta:

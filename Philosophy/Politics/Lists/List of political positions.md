@@ -68,7 +68,7 @@ The position that distinct geographic, cultural, or economic regions within a na
 
 The position, derived from [[Yário Kolkov|Kolkov]], that multiple governance models should coexist and compete for citizens, with mobility between them as the primary accountability mechanism. The theoretical basis of the Susian [[Free Economic Zone|FEZ system]]. Different governance approaches compete; citizens vote with their feet; best practices emerge through selection.
 
-	### Technocracy
+### Technocracy
 
 Governance by credentialed experts rather than elected representatives. In Susia, institutionalized in the [[Chamber of Experts]] and the [[Secretariat of Efficiency]]. Applied to the fullest extent in [[Ashgerad]], through the [[Technical Exams of the Land of Ashgerad]], the [[Technical Chamber]] and the [[National Technical Administrative Council]].
 
@@ -158,7 +158,7 @@ Active state direction of the economy through planning, industrial policy, and s
 
 ### Developmentalism
 
-State-led industrialization and import substitution as the path to economic modernity. The aspiration of Zaphonian [[Tahuni School of Economics|Tahuni School]] economists and of several post-war Confian governments.
+State-led industrialization and import substitution as the path to economic modernity. The aspiration of Zaphonian [[Tahuni School of Economics|Tahuni School]] economists and of the [[Armotist Democratic Party|Armotist Democratic]] governments in post-war Confia.
 
 ### Welfarism
 
@@ -290,7 +290,7 @@ _(Susia-specific)_ A form of civic nationalism that defines Susian nationhood as
 
 ### Ethnonationalism
 
-The variant that defines national membership through shared ancestry and ethnic origin. Present as a legacy position in northern Susia; more active in Zaphonian politics around [[Huttivia]] territorial claims and in Kaminoan clan politics.
+The variant that defines national membership through shared ancestry and ethnic origin. Present as a legacy position in northern Susia; more active in Zaphonian politics around [[Huttivia]] territorial claims and in Kaminoan clan politics. The primary form of national identity in [[Confia]], through [[Wanašer Gerzăn|Gerzănian]] philosophy.
 
 ### Racial Nationalism
 

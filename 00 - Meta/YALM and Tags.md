@@ -63,16 +63,16 @@ era:
 		- high-imperial # 1740–1837, Veronique through Jartes I
 			- fraternal-war # 1815–1823
 		- late-imperial # 1837–1954, Jartes II through dissolution
-			- aiding_state # 1845-1922
-			- home_rule # 1922–1937, Rule from St. Mantichev City
-			- secession_war # 1937-1950
-			- state_of_confia # 1950-1953
-			- confian_anarchy # 1954-1956
+			- aiding-state # 1845-1922
+			- home-rule # 1922–1937, Rule from St. Mantichev City
+			- secession-war # 1937-1950
+			- state-of-confia # 1950-1953
+			- confian-anarchy # 1954-1956
 	- united_syndicates # 1956–2008, Proclamation to 2008 constitution
 		- paulowic_regime # 1956–1977, Presidential Empowerment Amendment to Bayonet Revolution
 			- continental-war # 1975–1977, hot war
-		- syndicalist_republic # 1977–2009
-	- social_republic # 2009-present 
+		- syndicalist-republic # 1977–2008
+	- social-republic # 2009-present 
 ```
 
 Tags: What subject area the article belongs to. Can take multiple values.
