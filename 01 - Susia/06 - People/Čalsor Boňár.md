@@ -189,7 +189,7 @@ At the war's conclusion Boňár oversaw a lenient peace settlement. The leniency
 
 %% TODO: Boňár's conception of Susia as continental hegemon feeds into the broader idea of Susian exceptionalism. Distinct from the [[Cericeiro Doctrine]], the operational FVS foreign policy doctrine formulated under Boňár by foreign minister [[Hários Tollini]]. Both undefined in canon and to be developed. %%
 
-Boňár retained much of the emergency apparatus established during the Continental Divide and the war. He regarded most of these measures as temporary and others as permanent. The party bans and labor restrictions of the [[MAGEN Act]] were treated as temporary and were unwound in stages following the war, a process largely carried out under Matri and [[Filňar Čantij]]. Other expansions, including the enlarged mandate of the [[Frumentarze]], were retained.
+Boňár retained much of the emergency apparatus established during the Continental Divide and the war. He regarded most of these measures as temporary and others as permanent. The party bans and labor restrictions of the [[MAGEN act]] were treated as temporary and were unwound in stages following the war, a process largely carried out under Matri and [[Filňar Čantij]]. Other expansions, including the enlarged mandate of the [[Frumentarze]], were retained.
 
 In domestic policy Boňár expanded the powers of the federal government, which under the Susian constitution had been deliberately limited. This expansion, the most contested aspect of his domestic record, gave the federal government authority it had not previously held. He pursued a policy of state-directed economic development, of which the founding of the state energy company [[Atompron]] was the principal instance. Atompron was established as a mostly state-owned enterprise during the post-war expansion and the growth of nuclear energy in Susia.
 
@@ -235,7 +235,7 @@ Boňár was an influence on the later [[Modernism|modernist movement]], which dr
 - [[Atompron]]
 - [[Filevir Matri]]
 - [[Susian Democratic Union]]
-- [[MAGEN Act]]
+- [[MAGEN act]]
 - [[Pierej Crisis]]
 - [[War of Confian Secession]]
 - [[Cericeiro Doctrine]]
