@@ -49,7 +49,7 @@ Armory licensing is the principal point at which the otherwise self-governing So
 
 ## Smart firearms
 
-> _Main article: [[Firearm regulation in Susia]]_
+> _Main article: [[01 - Susia/05 - Culture/Firearm regulation in Susia]]_
 
 The introduction of networked and biometrically locked firearms following the [[The Great Transition|Great Transition]] of 2038 produced a continuing political dispute. Proponents present the technology as a safety measure, since a weapon locked to its owner is inert if stolen. Opponents, drawing on the constitutional logic of the right of rebellion, argue that a weapon which can be disabled by an external party is not fully owned and that its mandatory adoption would constitute a new form of disarmament. The resulting settlement permits the technology but does not mandate it: states may not require it, and some [[Free Economic Zone|FEZs]] require it within their territory as a condition of the workplace or property rather than as a firearms law. Whether a FEZ mandate amounts to an effective prohibition for residents of that zone is an unresolved constitutional question.
 
