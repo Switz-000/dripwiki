@@ -19,7 +19,7 @@ participants:
   - "[[Dripland]]"
   - "[[Sutsa-Fuhu]]"
   - "[[Zaphonia]]"
-  - "[[Ariwaro]]"
+  - "[[99 - Rest of the World/Countries/Dripstan/Countries/Ariwaro]]"
   - "[[Ditania]]"
   - "[[Cabunire]]"
   - "[[Garecia]]"
@@ -83,7 +83,7 @@ Susia organized its allies into the [[ODDN]], founded in 1961 as a mutual defens
 
 > _Main article: [[Pact of Imgospalje]]_
 
-Confia assembled its counter-alliance, the [[Pact of Imgospalje]], by drawing in syndicalist-aligned or client states as the divide progressed. Its founding and accession members were [[Zaphonia]] (1961), [[Ariwaro]] (1968), [[Garecia]] (1966), and [[Sutsa-Fuhu]] (1973). The pact functioned as Confia's institutional vehicle for coordinating military and political support to its aligned governments and proxy forces across the continent.
+Confia assembled its counter-alliance, the [[Pact of Imgospalje]], by drawing in syndicalist-aligned or client states as the divide progressed. Its founding and accession members were [[Zaphonia]] (1961), [[99 - Rest of the World/Countries/Dripstan/Countries/Ariwaro]] (1968), [[Garecia]] (1966), and [[Sutsa-Fuhu]] (1973). The pact functioned as Confia's institutional vehicle for coordinating military and political support to its aligned governments and proxy forces across the continent.
 
 ## Domestic legislation
 
@@ -117,7 +117,7 @@ The First Zaphonian Republic, independent since 1954, had been internally divide
 
 > _Main article: [[Bridge War]]_
 
-[[Ariwaro]] invaded [[Garecia]] in 1963 with the aim of annexing the entire country. The invasion was slowed significantly by tunnel warfare in the dense jungle of the [[Ariwaro Basin]]. Confia intervened directly in support of Garecia in late 1966, and a joint Confian-Gareciaan offensive capitulated Ariwaro by 1967. Confia installed a friendly Syndicalist regime in Ariwaro following the ceasefire, bringing another continental state into the syndicalist bloc. Both Ariwaro and Garecia subsequently joined the Pact of Imgospalje.
+[[99 - Rest of the World/Countries/Dripstan/Countries/Ariwaro]] invaded [[Garecia]] in 1963 with the aim of annexing the entire country. The invasion was slowed significantly by tunnel warfare in the dense jungle of the [[Ariwaro Basin]]. Confia intervened directly in support of Garecia in late 1966, and a joint Confian-Gareciaan offensive capitulated Ariwaro by 1967. Confia installed a friendly Syndicalist regime in Ariwaro following the ceasefire, bringing another continental state into the syndicalist bloc. Both Ariwaro and Garecia subsequently joined the Pact of Imgospalje.
 
 ### The Pierej Crisis (1969)
 
