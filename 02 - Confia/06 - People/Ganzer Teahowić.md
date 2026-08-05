@@ -47,7 +47,7 @@ military_service:
       - 
     notes:
 political_alignment:
-  - "[[Syndicalism#New Syndicalism|Liberal Syndicalism]]"
+  - "[[Syndicalism#New Syndicalism|New Syndicalism]]"
 party: "[[Syndicalist League]]"
 parties:
   - 
