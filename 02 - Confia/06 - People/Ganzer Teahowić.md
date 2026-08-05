@@ -135,4 +135,4 @@ His term as prime minister paved the way for the "desyndicalization" of Confian 
 
 ## Assassination and funeral
 
-After a meeting with the Confian Federation of Labour in the south side of [[Imgospalje]], Teahowić's caravan, which had a bomb planted under it, exploded, instantly killing two of his bodyguards and mortally wounding him. He was rushed to the [[Verene Central Hospital]], but died during the trip.
+After a meeting with the Confian Federation of Labour in the south side of [[Imgospalje]], Teahowić's caravan, which had a bomb planted under it, exploded, instantly killing two of his bodyguards and fatally wounding him. He was rushed to the [[Verene Central Hospital]], but died during the trip.
