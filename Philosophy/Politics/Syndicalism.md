@@ -22,9 +22,8 @@ political_stances:
 
 
 sub_ideologies:
-  - "[[Orthodox Syndicalism]]"
   - "[[Syndicalism#Orthodox Syndicalism|Orthodox Syndicalism]]"
-
+  - "[[Syndicalism#New Syndicalism|New Syndicalism]]"
 
 influenced_by:
 
