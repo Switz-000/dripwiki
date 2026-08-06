@@ -41,18 +41,26 @@ Symbols:
 
 ## Physical characteristics
 
-|                       |       |         | Symbols | How? | Why? |
-| --------------------- | ----: | :------ | :-----: | :--: | ---- |
-| Mass                  | 1.150 | MEarth  |  **B**  |      |      |
-| CMF                   |       | %       |  **X**  |      |      |
-| Density               |       | g/cm³   |  **X**  |      |      |
-| Radius                |       | REarth  |  **X**  |      |      |
-| Gravity               |       | g       |  **X**  |      |      |
-| Albedo                |       |         |  **X**  |      |      |
-| Escape Velocity       |       | VEarth  |         |      |      |
-| Surface Temperature   |  ~285 | K       |         |      |      |
-| Equilibrium temp      |       |         |         |      |      |
-| Greenhouse Effect<br> |     1 | Earth's |  **I**  |      |      |
+|                       |       |         | Symbols | How? |
+| --------------------- | ----: | :------ | :-----: | :--: |
+| Mass                  | 1.150 | MEarth  |  **B**  |      |
+| CMF                   |    25 | %       |  **X**  |      |
+| Density               |       | g/cm³   |  **X**  |      |
+| Radius                |       | REarth  |  **X**  |      |
+| Gravity               |       | g       |  **X**  |      |
+| Albedo                |       |         |  **X**  |      |
+| Escape Velocity       |       | VEarth  |         |      |
+| Surface Temperature   |  ~285 | K       |         |      |
+| Equilibrium temp      |       |         |         |      |
+| Greenhouse Effect<br> |     1 | Earth's |  **I**  |      |
+## Magnetic Field
+
+Yesvis' magnetic field is weaker than Earth's. This causes magnetic navigational equipment, such as compasses, to be weak and drift over time. This has been a constant headache for institutions, with centuries of recorded declination tables, revised generation by generation. The revision of which is famously considered one of the unsolvable scientific puzzles of classical civilization. In 1782, an imperial administrative division was created to regulate the production of compasses and define where the magnetic north is.
+
+## Mantle and plates
+
+Yesvis' tectonics are thick and vigorous, giving the planet more frequent earthquakes but with lower magnitude. With Yesvis' faster faults, less strain accumulates between these events, avoiding catastrophic earthquakes.
+
 ## Orbital characteristics
 
 |                  |      |      | Notes | How? | Why? |
