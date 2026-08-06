@@ -56,7 +56,7 @@ organizations:
 offices:
   - title: President of the Confian Social Republic
     employer: "[[Confian National Government]]"
-    start_year: 2010
+    start_year: 2009
     end_year: 2011
     appointer: "[[List of Confian elections|2009 Confian presidential election]]"
     parties:
@@ -70,11 +70,11 @@ offices:
     parties:
       - "[[Syndicalist League]]"
     notes:
-  - title: Minister of Health
+  - title: Commissar of Health
     employer: "[[North Nijbania]]"
     start_year: 1996
     end_year: 1998
-    appointer: "[[List of Confian elections|1988 Confian gubernatorial elections]]"
+    appointer: "[[Noljež Teššan]]"
     parties:
       - "[[Syndicalist League]]"
     notes:
@@ -131,7 +131,7 @@ meta:
 ---
 **Ganzer Teahowić Dasunah** was a [[Confia|Confian]] hospital administrator, trade unionist and politician who served as the 9th and last Prime Minister of the United Syndicates of Confia, as well as the 1st President of the Confian Social Republic. The most popular head of government in Confian history, Teahowić became an iconic figure of the Confian moderate left, who praise his pragmatic and negotiating style of governance. His tenure is widely associated with the 2000s economic boom in Confia, a time of social stability, reduction of inequalities and increase in standard of living.
 
-His term as prime minister paved the way for the "desyndicalization" of Confian politics started by [[Grawolja Lasmanna]], culminating in the [[2008 Constitution]]. Economically, he implemented "[[Handshake Economics]]", a labour policy oriented towards employer-employee collaboration and negotiation instead of confrontation through strikes and lockouts. This policy is best exemplified in the [[Detujegrad Agreement]]. His government approved multiple [[Syndicalism#New Syndicalism|New Syndicalist]]-oriented social programs known as the "Wjaža Hara" ("One Nation") programs, such as the universal single-payer [[National Healthcare Fund]] and full refundability for the [[Universal National Child Tax Credit]], as well as progressive reforms such as marriage equality. His government, under a coalition with the centre [[Mi, Niteraljci!|MN!]] and centre-right [[Confian Democratic Party]], was pressured by his partners to mantain fiscal stability, leading to a modest increase in taxes to fund the universalized welfare state.
+His term as prime minister continued the "desyndicalization" of Confian politics started by [[Grawolja Lasmanna]], culminating in the [[2008 Constitution]]. Economically, he implemented "[[Handshake Economics]]", a labour policy oriented towards employer-employee collaboration and negotiation instead of confrontation through strikes and lockouts. This policy is best exemplified in the [[Detujegrad Agreement]]. His government approved multiple [[Syndicalism#New Syndicalism|New Syndicalist]]-oriented social programs known as the "Wjaža Hara" ("One Nation") programs, such as the universal single-payer [[National Healthcare Fund]] and full universality for the [[National Child Tax Credit]], as well as progressive reforms such as marriage equality. His government, under a coalition with the centre [[Mi, Niteraljci!|MN!]] and centre-right [[Confian Democratic Party]], was pressured by his partners to mantain fiscal stability, leading to a modest increase in taxes to fund the universalized welfare state.
 
 ## Assassination and funeral
 
