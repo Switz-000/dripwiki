@@ -4,11 +4,11 @@ name: Syndicalism
 aliases:
 
 political_stances:
-  - "[[List of political positions#Centralism|Centralism]]"
+  - "[[List of political positions#Centralism|Centralism (Paulowić)]]"
   - "[[List of political positions#One-party system|One-party system (Paulowić)]]"
   - "[[List of political positions#Per-capita suffrage|Per-capita suffrage (early)]]"
   - "[[List of political positions#Protectionism|Protectionism (Orthodox, Revised)]]"
-  - "[[List of political positions#Free Trade|Free trade (New)]]
+  - "[[List of political positions#Free Trade|Free trade (New)]]"
   - "[[List of political positions#Industrialism|Industrialism (Paulowić)]]"
   - "[[List of political positions#Dirigisme|Dirigisme (Paulowić)]]"
   - "[[List of political positions#Producerism|Producerism (Paulowić)]]"
@@ -41,7 +41,7 @@ origin: "[[General Government of Confia]]"
 notable_theorists:
   - "[[Ganzer Kieron]]"
   - "[[Mariana Torres]]"
-  - "[[Lorelaj Paulowić]]
+  - "[[Lorelaj Paulowić]]"
   - "[[Eriežera Lensekowina]]"
 
 notable_ideas:
@@ -102,4 +102,4 @@ The **Paulowić model** is not a set doctrine of ideas, but the particular polic
 ### New Syndicalism
 **New Syndicalism**, initially known as **Moderate Syndicalism**, rejects the syndicalist economic framework of self-management entirely, postulating that syndicates should focus on improving working conditions and securing benefits and living wages for workers. Based on the writings of [[Eriežera Lensekowina]], it states clearly that Orthodoxy's proponents spoke in a language of long-dead philosophers without accounting for the present needs of the Confian people and failed to achieve syndicalism's goals of social and political equality, instead enabling a repressive regime that entrenched an economic class that practices everything it accuses traditional capitalists of practicing.
 Lensekowina envisioned a capitalist economy based on private property, accompanied by strong sectoral bargaining by syndicates and universalized welfare benefits, opposing means-testing on principle. She borrowed [[Wastel Sariol]]'s principle of State Subsistence to argue all Confian citizens, including those outside of the traditional industrial working class, had the right to access state services as part of a wider implicit social contract. This would later be codified into the 1979 [[Saint Feriol program]] of the [[Syndicalist League]].
-**Liberal Syndicalism** is a variant of New Syndicalism that emphasizes economic freedom and entrepreneurship as the main driver of economic growth and prosperity while sheltering the necessity for collective bargaining institutions. 
+ is a variant of New Syndicalism that emphasizes economic freedom and entrepreneurship as the main driver of economic growth and prosperity while sheltering the necessity for collective bargaining institutions.
