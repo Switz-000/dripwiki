@@ -19,9 +19,24 @@ Symbols:
 | Tempeture   |   5130 | K    | **I** | Stefan-Boltzmann Law |      |
 # Yepot System
 
-| YEPOT | 0   |
-| ----- | --- |
-|       |     |
+| Label                | Distance from Yepot |
+| -------------------- | ------------------- |
+| Yepot                | 0 AU                |
+|                      | 0.1 AU              |
+|                      | 0.2 AU              |
+|                      | 0.3 AU              |
+|                      | 0.4 AU              |
+|                      | 0.5 AU              |
+|                      | 0.6 AU              |
+| Inner habitable zone | 0.64 AU             |
+|                      | 0.8 AU              |
+| Yesvis' perihelion   | 0.83 AU             |
+|                      | 0.7 AU              |
+|                      | 0.9 AU              |
+|                      | 1.0 AU              |
+| Yesvis' aphelion     | 1.05 AU             |
+|                      | 1.1 AU              |
+| Outer habitable zone | 1.12 AU             |
 # [[Yesvis]]
 
 ## Physical characteristics
