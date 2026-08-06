@@ -53,9 +53,6 @@ Symbols:
 | Surface Temperature   |  ~285 | K       |         |      |      |
 | Equilibrium temp      |       |         |         |      |      |
 | Greenhouse Effect<br> |     1 | Earth's |  **I**  |      |      |
-
-
-
 ## Orbital characteristics
 
 |                  |      |      | Notes | How? | Why? |
