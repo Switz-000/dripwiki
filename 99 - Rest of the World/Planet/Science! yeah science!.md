@@ -7,16 +7,16 @@ Symbols:
 **I** = implied, you get this value due to two or more values
 # [[Yepot]]
 
-|             |        |      | Classification |        Notes         |
-| ----------- | -----: | :--- | :------------: | :------------------: |
-| Class       |    K1V |      |                |                      |
-| Mass        |   0.85 | Msol |     **B**      |                      |
-| Current Age |  4.200 | Gyr  |     **S**      |                      |
-| Maximum Age | 16.000 | Gyr  |     **S**      |                      |
-| Radius      |   0.80 | Rsol |                |                      |
-| Luminosity  |   0.40 | Lsol |                |                      |
-| Density     |   1.66 | Dsol |                |                      |
-| Tempeture   |   5130 | K    |     **I**      | Stefan-Boltzmann Law |
+|             |        |      | Classification | Needs to be |
+| ----------- | -----: | :--- | :------------: | :---------: |
+| Class       |    K1V |      |                |             |
+| Mass        |   0.85 | Msol |     **B**      |             |
+| Current Age |  4.200 | Gyr  |                |     ~4      |
+| Maximum Age | 16.000 | Gyr  |     **S**      |             |
+| Radius      |   0.80 | Rsol |                |             |
+| Luminosity  |   0.40 | Lsol |                |   ≤ 0.45    |
+| Density     |   1.66 | Dsol |                |             |
+| Tempeture   |   5130 | K    |     **I**      |             |
 # Yepot System
 
 | Label                | Distance from Yepot |
@@ -63,10 +63,10 @@ Yesvis' tectonics are thick and vigorous, giving the planet more frequent earthq
 
 ## Orbital characteristics
 
-|                  |      |      | Classification |   Notes   |
-| ---------------- | ---: | :--- | :------------: | :-------: |
-| Rotation period  |   24 | h    |     **B**      |           |
-| Semi-major axis  | 0.94 | AU   |     **S**      |           |
-| Orbital period   | ~361 | days |     **B**      |           |
-| Axial Tilt       |   32 | º    |     **B**      | Cannot be |
-| Eccentricity<br> | 0.12 |      |     **S**      |           |
+|                  |      |      | Classification | Needs to be |
+| ---------------- | ---: | :--- | :------------: | :---------: |
+| Rotation period  |   24 | h    |     **B**      |             |
+| Semi-major axis  | 0.94 | AU   |     **S**      |             |
+| Orbital period   | ~361 | days |     **B**      |             |
+| Axial Tilt       |   32 | º    |                |    ≥ 30º    |
+| Eccentricity<br> | 0.12 |      |     **S**      |   ≥ 0.10    |
