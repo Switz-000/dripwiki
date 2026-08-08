@@ -4,7 +4,7 @@ name: Shield! The Confian Conservative Party
 native_name: Magăn! Konfiskei Ciseljickej Parcesse
 abbreviation: M!
 aliases:
-status: Active
+status: Defunct
 founded_by:
 founded: 2000
 dissolved: "2013"
@@ -17,7 +17,7 @@ legalized_by:
 headquarters:
 newspaper:
 think_tank:
-youth_wing: Confian Conservative Youth
+youth_wing:
 paramilitary:
 ideology:
   - Conservatism 

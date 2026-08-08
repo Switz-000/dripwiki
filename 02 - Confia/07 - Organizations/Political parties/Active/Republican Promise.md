@@ -21,6 +21,7 @@ newspaper:
 think_tank:
 youth_wing:
 ideology:
+  - "[[Peskilonnism]]"
 political_position:
   - Right-wing
 wings:
