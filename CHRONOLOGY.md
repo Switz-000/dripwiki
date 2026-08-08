@@ -2,6 +2,9 @@
 
 > Auto-generated from vault frontmatter. Do not edit manually.
 
+## 1803
+- **Founded** — [[Susian Naval Academy]]
+
 ## 1826
 - **Graduation** — [[Armadesh Versij]] — Law at [[University of New Kentu]]
 
@@ -127,6 +130,7 @@
 
 ## 1981
 - **Dissolved** — [[Confian Nation Party (1977)]]
+- **Document recorded** — [[Graduation yearbook]] (Graduation yearbook)
 - **Founded** — [[Ljudewlaš!]] by [[['Laus Darizel']]]
 
 ## 1984
