@@ -5,10 +5,10 @@ native_name: Końfiskei Ljudewlaššen Parecesse
 abbreviation: KLjP
 aliases:
   - KLjP
-status: active
+status: Active
 founded_by:
   - "[[Japlen Razol]]"
-founded:
+founded: 2000
 dissolved:
 merger_of:
 split_from: "[[Armotist Democratic Party]]"
