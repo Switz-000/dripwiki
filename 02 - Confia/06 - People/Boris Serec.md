@@ -1,13 +1,10 @@
 ---
-# ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Boris Rodočewić Serec
-lusitanized_name: 
+lusitanized_name:
 aliases:
   - Serec
-summary: 
-
-# ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
+summary:
 sex: male
 ethnicity: "[[East Gaiyanese]]"
 religion: "[[Reformed Armotism]]"
@@ -17,33 +14,24 @@ citizenship:
 nationality:
   - "[[Confia|Confian]]"
 enhanced: false
-
-# ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
 birth:
   year: 1921
   city: "[[Jagansk]]"
   state: "[[Karlotopol']]"
   country: "[[Dripstanian Empire]]"
-
 death:
   year: 2024
   city: "[[Carlotopolis State Prison]]"
   state: "[[Karlotopol']]"
   country: "[[Confia]]"
   cause: Natural causes
-
-# ── FAMILY ──────────────────────────────────────────────────────────────────
 spouse: "[[Grawolja Sereca]]"
-children_count: 3 (unnamed)         # use um NÚMERO
-
-# ── EDUCATION ───────────────────────────────────────────────────────────────
+children_count: "3"
 education:
-  - degree: 
-    institution: 
-    year: 
+  - degree:
+    institution:
+    year:
   - 
-
-# ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
   - title: Lawyer
     start_year:
@@ -51,28 +39,22 @@ occupation:
   - title: Politician
     start_year:
     end_year:
-
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:
     conflicts:
-      -
-    notes: null
-
+      - 
+    notes:
 political_alignment:
   - "[[Armotist democracy]]"
-
-party: "[[Armotist Democratic Party|ALjP]]"        # principal partido, ou partido atual
-parties:                                        # partidos que ela ja pertenceu
+party: "[[Armotist Democratic Party|ALjP]]"
+parties:
   - "[[Armotist Democratic Party|ALjP]]"
-
 organizations:
   - "[[Confederation of the Industries of the Confian Nation|CICN]]"
-
-# ── OFFICES ─────────────────────────────────────────────────────────────────
 offices:
   - title: President of the Confian Nation
     employer: "[[Confian National Government]]"
@@ -81,7 +63,7 @@ offices:
     appointer: "[[1987 Confian presidential election]]"
     parties:
       - "[[Armotist Democratic Party|ALjP]]"
-    notes: 
+    notes:
   - title: President of the Council of Commissars of the United Syndicates of Confia
     employer: "[[Confian National Government]]"
     start_year: 1983
@@ -89,7 +71,7 @@ offices:
     appointer: "[[National Assembly of Confian Syndicates]]"
     parties:
       - "[[Armotist Democratic Party|ALjP]]"
-    notes: 
+    notes:
   - title: Commissar of Education
     employer: "[[Confian National Government]]"
     start_year: 1978
@@ -97,17 +79,12 @@ offices:
     appointer: "[[Senjap Kunsekowić]]"
     parties:
       - "[[Confian Liberal Party|KNP]]"
-    notes: 
-
-# ── WRITTEN WORKS ───────────────────────────────────────────────────────────
+    notes:
 written_works:
   - title:
     publication_year:
     genre:
     notes:
-
-
-# ── CRIMINAL RECORD ─────────────────────────────────────────────────────────
 criminal_charges:
   - charge: Passive corruption
     counts: 21
@@ -169,14 +146,11 @@ criminal_charges:
     served:
     in_absentia: false
     notes:
-
-# ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
   - item: "[[New Oil Agreement]]"
     notes:
   - item: "[[Sturdy Industry]]"
     notes:
-
 awards:
   - title:
     awarded_year:
@@ -184,18 +158,14 @@ awards:
     granted_by:
     country:
     notes:
-
 era:
   - post-war
-
-# ── META ────────────────────────────────────────────────────────────────────
 tags:
-  -
-
+  - 
 meta:
   stub: true
   verified: false
-  image: null
+  image:
 ---
 
 %%

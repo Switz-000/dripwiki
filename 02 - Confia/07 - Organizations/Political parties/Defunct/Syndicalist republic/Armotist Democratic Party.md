@@ -17,7 +17,6 @@ split_into:
   - "[[Shield!]]"
   - "[[Armotist Democracy (Confian party, 2000)|Armotist Democracy]]"
   - "[[Confian Democratic Party]]"
-banned_by:
 legalized_by:
 headquarters: "[[Imgospalje]]"
 newspaper:
