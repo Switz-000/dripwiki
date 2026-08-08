@@ -33,7 +33,10 @@ education:
     year:
   - 
 occupation:
-  - title:
+  - title: Politician
+    start_year:
+    end_year:
+  - title: Entrepreneur
     start_year:
     end_year:
 military_service:
@@ -53,14 +56,14 @@ parties:
 organizations:
   - 
 offices:
-  - title:
-    employer:
-    start_year:
-    end_year:
-    appointer:
-    parties:
+  - title: President
+    employer: "[[Žošewoš Machinery]]"
+    start_year: 1977
+    end_year: 1999
+    appointer: "[[Titen Iliož]]"
+    parties: 
       - 
-    notes:
+    notes: Bought the enterprise he directed (and his father before him) during the Paulowić regime
 written_works:
   - title:
     publication_year:
