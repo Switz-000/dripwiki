@@ -159,6 +159,7 @@
 ## 2000
 - **Dissolved** — [[Armotist Democratic Party]]
 - **Founded** — [[Armotist Democracy (Confian party, 2000)]] by [[['[[Panož Zastranni]]']]]
+- **Founded** — [[Confian Democratic Party]] by [[['[[Japlen Razol]]']]]
 - **Founded** — [[Shield!]]
 
 ## 2003
