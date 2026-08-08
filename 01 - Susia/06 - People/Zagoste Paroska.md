@@ -22,7 +22,7 @@ occupation:
   - Politician
   - 
 alma_mater:
-  - "[[Naval Academy of Duolij]]"
+  - "[[Susian Naval Academy]]"
 allegiance:
   - "[[Dripstanian Empire]]"
   - "[[Federated Provinces of Galil]]"
@@ -31,14 +31,14 @@ organization:
 criminal_charges:
   - charge: Treason
     counts: 22
-    charged_year: 
+    charged_year:
     plea: Not Guilty
     verdict: Guilty
-    verdict_year: 
+    verdict_year:
     sentence: Death
-    served: 
+    served:
     in_absentia: false
-    notes: 
+    notes:
 ---
 
 
