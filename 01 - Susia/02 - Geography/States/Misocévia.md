@@ -29,7 +29,7 @@ landlocked: true
 climate: oceanic
 topography: plains
 rivers:
-  - "[[Lasman River]]"
+  - "[[Lasman river]]"
 gdp_per_capita_2080: 195000
 has_fez: true
 yarnojtes_fez:

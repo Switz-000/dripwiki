@@ -16,7 +16,7 @@ The **Kolkov line** is a [[Susia|Susian]] maglev line between [[New Duloc]] and 
 
 ## Route
 
-The line serves seven stations: [[New Duloc]], [[Soites Federal Free Trade Zone|Soites FFTZ]], [[Duolij]], [[Arkaime]], [[Neoveli]], the [[Susian Innovation Center]], and [[New Kentu]]. Trains operate at a maximum speed of 603 km/h. Express services run between New Duloc, the Soites FFTZ, Duolij, Neoveli, and New Kentu; local services call at all stations. The alignment crosses the [[Lasman River]] at the Postia–Dripia border near [[Jaffnidia]], which has no station.
+The line serves seven stations: [[New Duloc]], [[Soites Federal Free Trade Zone|Soites FFTZ]], [[Duolij]], [[Arkaime]], [[Neoveli]], the [[Susian Innovation Center]], and [[New Kentu]]. Trains operate at a maximum speed of 603 km/h. Express services run between New Duloc, the Soites FFTZ, Duolij, Neoveli, and New Kentu; local services call at all stations. The alignment crosses the [[Lasman river]] at the Postia–Dripia border near [[Jaffnidia]], which has no station.
 
 The Soites FFTZ station was built by [[Soites Group]], which owns it. The station connects directly to the interior of the trade zone.
 

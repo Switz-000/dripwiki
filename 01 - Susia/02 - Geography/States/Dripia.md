@@ -34,7 +34,7 @@ landlocked: false
 climate: oceanic
 topography: plains
 rivers:
-  - "[[Lasman River]]"
+  - "[[Lasman river]]"
 gdp_per_capita_2080: 320000
 has_fez: true
 yarnojtes_fez:
@@ -57,7 +57,7 @@ Dripia is also the founding home of [[Soites Group]] and [[Nassoj Holdings]], tw
 
 The state occupies a central-western position on the [[Sea of Galil]], with a long coastline that has historically supported both fishing communities and major port activity. The southern plains are densely populated and heavily urbanized around Neoveli and its satellite cities. The north transitions into forested uplands, which have historically supported the paper and timber industries concentrated around [[Vassénia]].
 
-The [[Lasman River]] crosses the state from east to west before emptying into the Sea of Galil, forming part of the natural boundary with [[Postia]] near [[Jaffnidia]].
+The [[Lasman river]] crosses the state from east to west before emptying into the Sea of Galil, forming part of the natural boundary with [[Postia]] near [[Jaffnidia]].
 
 ## Economy
 
@@ -80,7 +80,7 @@ Operated by [[Troli Ustaras]], located approximately one hour north of [[Neoveli
 - [[Arkaime]] (210k): Major port on the [[Sea of Galil]], connected to [[Duolij]] by the [[Arkaime Bridge]]. Part of the [[Neoveli metropolitan area]].
 - [[Poremoj]] (180k): Part of the [[Neoveli metropolitan area]].
 - [[Forchev]] (95k): First imperial settlement site, protected historical city, home to the cathedral where [[Saint Emperor Mantichev]] was crowned.
-- [[Jaffnidia]] (32k): Border town on the [[Lasman River]], site of [[Kaichet Satratonie|Satratonie]]'s betrayal during the [[Liberal Revolts]].
+- [[Jaffnidia]] (32k): Border town on the [[Lasman river]], site of [[Kaichet Satratonie|Satratonie]]'s betrayal during the [[Liberal Revolts]].
 
 ## Politics
 
