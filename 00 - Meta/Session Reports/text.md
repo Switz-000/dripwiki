@@ -1,0 +1,102 @@
+REPORT (2026-08-09) — Lore-Kurji, the Lasman channel dispute, and Kaichet Satratonie
+
+Topic: Built out Lore-Kurji from an empty Tier 1 stub into a structured city, anchored on the Lasman bifurcation, the imperial border transfer that followed the Liberal Revolts, and the surviving two-council governance. Developed the Dripia/Misocévia channel-naming dispute as an etiquette practice rather than a live territorial claim, and revised the reading of Satratonie substantially in light of his personal record.
+
+PROPOSED CHANGES
+
+**Susia — Misocévia**
+
+  → Lore-Kurji
+    - Sits at the southern end of the strip enclosed by the two Lasman channels; the main Lasman cuts through the city.
+    - Kurji lies east of the main channel on the Misocévian mainland; Lore lies inside the transferred strip.
+    - The only fixed crossing between the strip and Misocévia proper.
+    - Motto: "The last city of the west and the first city of the east." Pre-merger commonplace, one clause per town, adopted as joint motto by the 1951 amalgamation commission.
+    - Both councils use the full sentence, each printing its own clause first. The joint bridge authority charter uses the Lore order.
+    - Merged 1951. Trigger was the replacement of the imperial bridge, whose midspan was the municipal boundary.
+    - The merger created a single juridical person for state and federal purposes; both councils retained their competencies.
+    - Crossing vested in a joint authority chaired alternately by the two council presidents.
+    - Joint authority competency has accreted over 130 years to cover approaches, feeder road grid, water, transit, and riverside zoning. Never redesigned.
+    - No continuous municipal executive. No project outlives a chairmanship.
+    - Van Ritter relocated to the Eastern Industrial Complex FEZ in 2044; the city could not deliver state instrument or land assembly at FEZ scale.
+    - Remaining industry is the former Van Ritter supplier base: several hundred precision machining, tooling, and fabrication firms of 20–200 employees.
+    - Suppliers deliver to the EIC gate. Most local machinists cannot enter the facility.
+    - Proposed population fields: 1950 — 310,000 (Kurji ~170k, Lore ~140k); 1970 — 620,000; 2000 — 1,050,000 (peak). Canon 2080 figure of 943,000 reads as post-departure contraction.
+    - Kurji was the larger town for three centuries; Lore overtook it during the Van Ritter period.
+    - Lore's population is Dripian-descended by institution rather than ancestry; boom-era in-migrants adopt the Lore position within a few years.
+    - Carry practice marks the bank: Kurji Sorzenkos eastern in manner, Lore Sorzenkos western.
+    - Lore and Kurji newspapers print different names for the same river.
+    - Attractions: three bridges (imperial stone, 1951, 2000s); the imperial bridge closed to vehicles with the DRIPIA/MISOCÉVIA boundary marker still set in the deck at midspan; Kurji's square, a horse market in layout, with Cericeiro monument and Sorzenko hall; Lore's civic square with the former customs house, now city museum, scale house and inspection bays intact; the former dueling ground between the squares, now a park; rival distillery tours on both banks; the Van Ritter original works in Lore, part museum with 1923 airframe jigs in situ, part leased to supplier firms; the confluence excursion to Jaffnidia, run separately from both banks; the Satratonie house in Kurji, unmarked; summer Sun River Tea gardens on the Lore bank.
+    - The two squares are 900 meters apart and have never held a joint event.
+    - Open naming slots: the three bridges, both squares, both newspapers, both distilleries, the tea garden district, the dueling ground.
+
+  → Lasman channel dispute
+    - The Lasman bifurcates at the New Celiolaj / Dripia / Misocévia triple point and the channels rejoin at Jaffnidia.
+    - Dripian usage names the western channel the Lasman and the eastern a tributary; Misocévian and federal usage the reverse.
+    - The naming question predates Jartes II and was unresolved before his reign.
+    - Jartes II resolved it in Misocévia's favor following the Liberal Revolts, transferring the enclosed strip from Dripia to Misocévia.
+    - Executed as a determination of which channel the founding instrument had always meant, not as a border move.
+    - The federal government recognizes Misocévia's claim. Jurisdiction is settled; nomenclature is not, as naming a river is not a federal competence.
+    - Both hydrographies remain in print in school atlases and state materials, each internally consistent.
+    - Open naming slots: both channels, in both usages.
+
+  → Lasman Valley State University
+    - Cartography collection displays both hydrographies side by side without adjudicating.
+    - Located in Lore, on the strip.
+
+  → Misocévia
+    - The strip is a Dripian-descended ribbon inside a Coalition of State's Rights state; proposed as the state's Democratic Federalist pocket.
+
+**Susia — Dripia**
+
+  → Dripia
+    - The channel correction as a Dripian social practice: opens as courtesy, shifts on pushback to asserting an asymmetry of standing rather than of fact.
+    - The practice sets a Dripian citizen against the federal map on a question his own republic resolved by process.
+
+**Susia — Neutral District**
+
+  → Soiteslaj
+    - Proposed Criticism addition: the 1874 siting inland and off the river, read against the 1840s border transfer, as a second instance of pulling imperial weight east away from Neoveli.
+
+**Susia — People**
+
+  → Kaichet Satratonie
+    - Born in Kurji, not Lore. Frontmatter currently reads `birth.city: "[[Lore-Kurji]]"`; the person template reference requires the place as it was, and Lore-Kurji did not exist in 1809.
+    - Sustained personal feud with Paroska, characterized by jealousy and public grievance.
+    - Took credit for others' work while condemning the same practice; became preoccupied with credit to the point of insufferability.
+    - Held that Versij lacked the resolve to act on his behalf.
+    - Personally paid his men's rations and salaries during the republic's financial collapse.
+    - Charged with his men. Reciprocal loyalty of an unusual degree.
+    - Left no known writings.
+    - Open ruling: disposition of his men after the pardon.
+
+  → Military Academy of Niqueparj
+    - His campaigns taught as technique without attribution; a minority position within the officer corps holds that the methods were undervalued because of his origin.
+
+INTERPRETATION CHANGES
+
+**The bifurcation as reprisal**
+Replaces my earlier reading of the Lasman as a longitudinal trade corridor, which was wrong and which produced two discarded mechanisms (head of navigation, transshipment origin). The city's reason for existing is the crossing, not a terminus. More consequentially: the border transfer required no border to be moved. Two live channels with equal claim, a founding instrument that named neither, and an emperor with a reason to prefer one reading. The reprisal is executed entirely as survey clarification, on genuinely ambiguous facts, leaving a record that shows only hydrography. Affects Dripia, Misocévia, Quad Cities, Jaffnidia, Soiteslaj.
+
+**A dispute that survives by having been settled**
+The channel question cannot recur because it was adjudicated. Having nowhere institutional to go, it migrated into manners, where it is permanent. The Dripian correction advances no proposition and therefore cannot be refuted; the Satratonie innuendo works the same way, placing two true sentences adjacent and asserting nothing between them. The asymmetry matters: Misocévia won and has no memory of the argument, so the grievance runs one direction into no resistance. Affects Dripia and Misocévia state articles.
+
+**The 1951 merger as bridge maintenance**
+The city's governance is not a design. A joint authority created to finance one crossing has absorbed competency for 130 years without ever being reconsidered, producing a municipality with no continuous executive. This is the mechanism behind both the Van Ritter departure and the population decline, and it means the vault's "two of everything" is a constitutional fact rather than a local eccentricity. Affects Lore-Kurji and Van Ritter.
+
+**Satratonie revised**
+Replaces the reading I held for most of this session, in which he was primarily a class position — a competent provincial refused by the western elite. That reading survives as the version the states argue over, but it is his own account, told at length for thirty years, and every institutional reading of him is downstream of it. The man underneath is petty, jealous, credit-hungry, and exhausting, and his grievance was both justified and self-consuming: being genuinely owed something licensed a resentment that eventually caused refusals unrelated to his birth, which he read as confirmation. The rations are the character's center and are not redemptive — a man refused above builds a court below where he cannot be refused. His most decent act and his fatal defect are the same act. He sold not a principle but the only relationship he had, for a woman who never wanted him. Withdrawn: my concern that he risked becoming a martyr, and my identification of the marriage as the detail keeping him off the arriviste template. Affects Cericeiro honor code, Liberal Revolts, Gun Culture in Susia.
+
+FLAGGED FOR RULING
+
+- Quad Cities article states the three cities are in Dripia and Misocévia; Soiteslaj is in the Neutral District per its own article and the state article. Tier 1 vs Tier 1.
+- Kurji vs Kurjie: article title, wikilinks and state frontmatter use Kurji; the foods list uses Kurjie in prose. Tier 1 vs Tier 1.
+- Neutral District frontmatter reads `rivers: None`; the map shows the main Lasman on or near its western edge.
+- Satratonie birth city, as above.
+- Which bank Van Ritter was founded on. I recommend Lore; not ruled.
+
+COLLABORATION NOTES
+
+- I reasoned from vault text alone on the Lasman's course and told you your premise was mechanically broken. The map showed it wasn't. Ask for or request geography before overruling a spatial premise.
+- I placed Satratonie in Kurji on the theory that the honor code was his native register, then had to keep the placement for the opposite reason once you gave me the man. The placement was right by accident. Hold placements loosely when the reasoning behind them is the part being tested.
+- Twice built substantial mechanism (head of navigation, then the strip as a border region rather than an island) that a single later clarification deleted. Both times the clarification was already implicit in material I had. Read the map before building the mechanism.
+- You corrected my martyr concern by describing the man rather than arguing the point, and the correction was total. When a character reads as a position, ask for the record before assessing the risk.
