@@ -38,7 +38,13 @@ After the end of the period of anarchy, in year 1956, the United Syndicates of C
 
 Following the revolution and the subsequent elections, Confia endured several democratically elected governments with peaceful power transitions and tranquil instances of cohabitation. It formally joined the ODDN in 1993, formed the [[Lasman Economic Initiative]] customs union with Susia in 2000.
 
-Confia is often perceived as the "second-in-command" to [[Susia]] in continental geopolitics, having a developed economy that is the second largest in both nominal and per-capita terms. 
+Confia is often perceived as the "second-in-command" to [[Susia]] in continental geopolitics, having a developed economy that is the second largest in both nominal and per-capita terms.
+
+# Geography
+
+Confia occupies the very centre of the [[Dripstanian Continent]], spanning over ten states divided in four macroregions: Southwest ([[Koštanože]] and [[Žošewoš]]), Northwest ([[Karlotopol']] and [[Legrinpija]]), Highland ([[Gorepalje]] and [[North Nijbania|North]] and [[South Nijbania]]), and West ([[Hašterlan]], [[Nakotšatija]], [[Ewenogia]]).
+
+The country's topography is sharply defined by the mountainous terrain of the three central states
 # History
 ## Pre-Dripstanian history
 
@@ -108,12 +114,10 @@ The Japlenowina government's attempts to bring inflation under control through t
 
 The snap elections of 1980 produced a [[Confian Liberal Party]] majority government under [[Senjap Kunsekowić]]. The [[New Torch Plan]] broke the backbone of inflation through a new currency pegged to the Susian drip and a fiscal surplus achieved by cancelling multiple sectoral subsidies. [[Labour and Capital Reforms|Structural reforms]] to the syndicate-based electoral and labour system followed. The government collapsed in 1982 following the [[Čirwašata]] scandal, fracturing the [[Confian Liberal Party]] and clearing the path for [[Boris Serec]]'s [[Armotist Democratic Party]].
 
-
-
 # Government
 # Economy
 
-The Confian economy is the second largest in the Dripstanian continent both nominal (D$ 2.2 trillion) and per-capita terms. Since the 1990s, Confia has engaged in market-based reforms that tur
+The Confian economy is the second largest in the Dripstanian continent both nominal (D$ 2.2 trillion) and per-capita terms. Since the 1990s, Confia has engaged in market-based reforms that reduced and modernized its regulatory apparatus, as well as the process of "desyndicalization" of the political and economic scene, which saw syndicates turn from vectors for worker self-management and [[Ragged-sleeve|ragged-sleeve]] control to vehicles for sectoral bargaining.
 # Military
 # Foreign relations
 # Culture
