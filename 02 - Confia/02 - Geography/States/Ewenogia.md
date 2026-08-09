@@ -1,8 +1,8 @@
 ---
 type: state
 country: "[[Confia]]"
-state_name: Evenogia
-demonym: Evenogian
+state_name: Ewenogia
+demonym: Ewenogian
 state_animal:
 capital:
 largest_city:

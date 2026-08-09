@@ -17,7 +17,7 @@ borders_north:
 borders_east:
   - "[[Kapiogg]]"
 borders_south:
-  - "[[Evenogia]]"
+  - "[[Ewenogia]]"
 borders_west:
   - "[[North Nijbania]]"
 landlocked: true
