@@ -28,7 +28,7 @@ landlocked: false
 climate:
 topography:
 rivers:
-  - "[[Lasman River]]"
+  - "[[Lasman river]]"
 gdp_per_capita_2080:
 has_fez: false
 yarnojtes_fez:
