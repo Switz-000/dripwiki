@@ -4,10 +4,10 @@ country: "[[Susia]]"
 state_name: Misocévia
 demonym: Misocévian
 state_animal: Badger
-capital: "[[Niqueparje]]"
-largest_city: "[[Niqueparje]]"
+capital: "[[Niqueparj]]"
+largest_city: "[[Niqueparj]]"
 cities:
-  - "[[Niqueparje]]"
+  - "[[Niqueparj]]"
   - "[[Yatovarlaj]]"
   - "[[Lore-Kurji]]"
 population_2080: 25000000

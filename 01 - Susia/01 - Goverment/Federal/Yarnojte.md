@@ -97,14 +97,14 @@ The TU case established the clearest precedent in Yarnojte history. No corporati
 
 As of 2080, the following corporations hold active Yarnojte status:
 
-| Corporation | Sector | Original Grant | Notes |
-|---|---|---|---|
-| [[Troli Ustaras]] | Technology, AI, Automation | 2041 | Revoked 2047, regranted 2051 |
-| [[Soites Group]] | Retail, Consumer Staples | 2050 | |
-| [[Nayotai]] | Manufacturing, Infrastructure | 2050 | |
-| [[Van Ritter]] | Defense, Aerospace | 2034 | |
-| [[Lischev-Verene]] | Healthcare, Biomedical | 2073 | |
-| [[Atompron]] | Nuclear Energy | 2041 | |
+| Corporation        | Sector                        | Original Grant | Notes                        |
+| ------------------ | ----------------------------- | -------------- | ---------------------------- |
+| [[Troli Ustaras]]  | Technology, AI, Automation    | 2041           | Revoked 2047, regranted 2051 |
+| [[Soites Group]]   | Retail, Consumer Staples      | 2050           |                              |
+| [[Nayotai]]        | Manufacturing, Infrastructure | 2050           |                              |
+| [[Van Ritter]]     | Defense, Aerospace            | 2044           |                              |
+| [[Lischev-Verene]] | Healthcare, Biomedical        | 2073           |                              |
+| [[Atompron]]       | Nuclear Energy                | 2041           |                              |
 
 ## Public Perception
 

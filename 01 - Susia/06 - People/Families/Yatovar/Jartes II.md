@@ -149,7 +149,7 @@ Jartes II was born into the imperial family during his grandmother [[Empress Pra
 
 In an attempt to stabilize growing unrest, Jartes II banned [[Sorzenko|Sorzenkos]] and restricted civilian gun ownership, and began persecuting liberal writers and thinkers. [[Armadesh Versij]] fled to [[Gaiyan]] to continue writing. Secret societies formed in universities and liberal militias organized underground.
 
-In 1840, a general assembly in [[Neoveli]] proclaimed the [[Federated Provinces of Galil]], with [[Duolij]], [[New Kentu]], and [[Niqueparje]] joining the revolt. The republic's general government was composed of Versij, [[Zagoste Paroska|Admiral Paroska]], and General [[Kaichet Satratonie]].
+In 1840, a general assembly in [[Neoveli]] proclaimed the [[Federated Provinces of Galil]], with [[Duolij]], [[New Kentu]], and [[Niqueparj]] joining the revolt. The republic's general government was composed of Versij, [[Zagoste Paroska|Admiral Paroska]], and General [[Kaichet Satratonie]].
 
 The war dragged on for years as brutal guerrilla warfare. Jartes II, unable to win militarily, secretly contacted Satratonie and offered him land, money, and a royal pardon in exchange for switching sides. Satratonie defected. The fort at [[Jaffnidia]] fell, the republic was split, and imperial troops entered Neoveli in 1844. Paroska, Versij, and the entire republican leadership were publicly executed.
 
