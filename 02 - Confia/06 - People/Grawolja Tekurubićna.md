@@ -26,7 +26,7 @@ birth:
   year: 
   city: "[[Kiorisk City]]"
   state: "[[Kiorisk]]"
-  country: "[[-Repo/99 - Rest of the World/Countries/Gaiyan/Racpalia]]"
+  country: "[[Racpalia]]"
 
 death:
   year: 

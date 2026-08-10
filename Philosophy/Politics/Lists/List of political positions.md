@@ -125,7 +125,7 @@ A system where multiple parties are allowed. Present in virtually every democrat
 
 ### Per-capita suffrage
 
-(*Confia-specific*) A manner of suffrage distribution that assigns one vote per household. Within the Confian context, this enfranchized younger citizens, particularly young men, as opposed to household suffrage. Implemented in 1845. Standard way of suffrage distribution outside of Confia.
+(*Confia-specific*) A manner of suffrage distribution that assigns one vote per person. Within the Confian context, this enfranchized younger citizens, particularly young men, as opposed to household suffrage. Implemented in 1845. Standard way of suffrage distribution outside of Confia.
 
 
 ---
