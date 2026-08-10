@@ -2,8 +2,9 @@ The **Lasman** is the thrid longest river in [[Dripstan]]. It flows from the [[C
 
 List of cities on the Lasman river
 
-| City             | State           | Country    | Notes                   |
-| ---------------- | --------------- | ---------- | ----------------------- |
-| [[Carlotopolis]] | [[Karlotopol']] | [[Confia]] |                         |
-| [[Lore-Kurji]]   | [[Misocévia]]   | [[Susia]]  | Confluence of the river |
-| [[Jaffnidia]]    | [[Dripia]]      | [[Susia]]  |                         |
+| City             | State           | Country    | Notes                                                                              |
+| ---------------- | --------------- | ---------- | --------------------------------------------------------------------------------- |
+| [[Carlotopolis]] | [[Karlotopol']] | [[Confia]]                                                                                      |
+| [[Niqueparj]]    | [[Misocévia]]   | [[Susia]] On a tributary of the main Lasman river, joins it at an eastern upstream channel. it  |
+| [[Lore-Kurji]]   | [[Misocévia]]   | [[Susia]]  | Confluence of the r                                                                |
+| [[Jaffnidia]]    | [[Dripia]]      | [[Susia]                                                                                        |
