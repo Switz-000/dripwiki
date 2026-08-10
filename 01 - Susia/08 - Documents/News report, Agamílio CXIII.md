@@ -5,7 +5,7 @@
 
 [[Ditania]]'s minister of education has taken an ambulance she donated to [[Nar Maluni]] municipality after just losing her parliamentary election bid in the area
 
-[[Niqueparje]] hires 'safety supervisors' to sit amongst drivers after public fears over new driveless trains
+[[Niqueparj]] hires 'safety supervisors' to sit amongst drivers after public fears over new driveless trains
 
 [[Kamino|Kaminoan]] fisherman hauls in a net of 400 shoes and no fish, says it is the third time this year.
 

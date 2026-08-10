@@ -120,7 +120,7 @@
 
 ## 1979
 - **Dissolved** — [[Confian Syndicalist Union]]
-- **Founded** — [[Atompron]] by [[['[[Susian Federal Government]]']]] in [[Niqueparje]]
+- **Founded** — [[Atompron]] by [[['[[Susian Federal Government]]']]] in [[Niqueparj]]
 - **Founded** — [[Syndicalist League]] by [[['[[Katerina Armoljubca Nožeslawna|KAN]]', '[[Eriežera Lensekowina]]']]]
 
 ## 1980
