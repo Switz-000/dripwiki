@@ -17,7 +17,7 @@ nationality:
 enhanced: false
 birth:
   year: 1909
-  city: "[[Gražža Erjogala]]"
+  city: "[[Saint Eriogala]]"
   state: "[[Koštanože]]"
   country: "[[Dripstanian Empire]]"
 death:
