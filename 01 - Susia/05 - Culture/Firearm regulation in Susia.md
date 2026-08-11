@@ -1,6 +1,7 @@
 ---
 
-type: concept era:
+type: concept 
+era:
 
 - republican-era
 - continental-divide
