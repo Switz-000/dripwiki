@@ -96,25 +96,10 @@ Second Zaphonian Republic:
 
 - 90% of the Zaphonian territory is deemed uninhabitable, as it is a scorching desert. Only a narrow strip of fertile land alongside the Khetre river sustains the population and gives life to the region. The source of the Khetre is in the mountain chain in the south. This mountain chain also determines the border with the replidian countries.
     
-- In 1984, during [[Boris Serec|Serec]]’s government in Confia and the third year of Mawesi Photeko’s administration in Zaphonia, both countries met to resolve the issue of Confian-owned oil platforms that had been nationalized by Kuthelo. Desperate to restore relations at any cost, while keeping his developmentalist agenda alive, Photeko signed a highly unfavorable agreement. Its main clauses:
-    
-
-- 43 out of 45 platforms were handed over to the Confian state company.
-    
-
-- The [[Zaphonian Oil Company]] collapsed and went bankrupt the same year, exports collapsed (oil was 76% of all Zaphonian exports).
-    
-
-- Mandatory annual purchase of 100 million barrels of gasoline, Zaphonia had to buy the fuel at least 20% above the global price.
-    
-
-- Presented in state propaganda as a victory that would “save” the automotive industry. In reality, the trade balance plummeted from +1.4% of GDP (1982) to –25.3% (1985), a massive snowballing debt to Confia was created.
-    
-
-- Confia must reinvest 10% of Końteraf profits inside Zaphonia.
-    
-
-- These projects were riddled with corruption, stalled works, and overpricing. By 1986, Zaphonia halted its own infrastructure spending and begged Confia to maintain its roads. Nationwide decay of the road system.
+- In 1984, during the [[Boris Serec|Serec]] government in Confia and the third year of Mawesi Photeko’s administration in Zaphonia, both countries met to resolve the issue of Confian-owned oil platforms that had been nationalized by Kuthelo. Desperate to restore relations at any cost, while keeping his developmentalist agenda alive, Photeko signed a highly unfavorable agreement. Its main clauses:
+- 43 out of 45 platforms were handed over to the Confian state company. The [[Zaphonian Oil Company]] collapsed and went bankrupt the same year. Exports collapsed (oil was 76% of all Zaphonian exports).
+- Mandatory annual purchase of 100 million barrels of gasoline, Zaphonia had to buy the fuel at least 20% above the global price. Presented in state propaganda as a victory that would “save” the automotive industry. In reality, the trade balance plummeted from +1.4% of GDP (1982) to –25.3% (1985), a massive snowballing debt to Confia was created.
+- Confia must reinvest 10% of Końteraf profits from Zaphonian oil in projects in Zaphonia. These projects were riddled with corruption, stalled works, and overpricing. In 1989, during a default, Zaphonia halted its own infrastructure spending and requested Confia to maintain its through this clause, leading to a nationwide decay of the road system.
     
 
 - Końteraf becomes a protected “national champion” inside Zaphonia.
