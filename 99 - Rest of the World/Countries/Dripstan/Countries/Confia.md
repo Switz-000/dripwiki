@@ -44,7 +44,7 @@ Confia is often perceived as the "second-in-command" to [[Susia]] in continental
 
 Confia occupies the very centre of the [[Dripstanian Continent]], spanning over ten states divided in four macroregions: Southwest ([[Koštanože]] and [[Žošewoš]]), Northwest ([[Karlotopol']] and [[Legrinpija]]), Highland ([[Gorepalje]] and [[North Nijbania|North]] and [[South Nijbania]]), and West ([[Hašterlan]], [[Nakotšatija]], [[Ewenogia]]).
 
-The country's topography is sharply defined by the mountainous terrain of the three central states
+The country's topography is sharply defined by the mountainous terrain of Highlands, while fertile steppes cover the west and
 # History
 ## Pre-Dripstanian history
 
@@ -52,7 +52,7 @@ Before the arrival of the Dripstanians, Confia was inhabited by the [[Konph|Konp
 
 During the Second Gaiyan Migration (c. 1783-1811), The Racpalian immigrants were mostly proletarian, but there was a minority presence of classes such as the scientific-intellectual class and the mežnuci, wealthy merchants who distinguished themselves in terms of riches and influence among the new immigrants, but not enough to benefit from the oligarchic and plutocratic system of government present in the original Raquepalian land. As such, the new arrivals quickly caused an urban saturation crisis in the Empire's port cities, settling in working-class neighborhoods and forming unsanitary and inadequate tenements and slums.
 
-As a way to remedy this issue, Empress Veronique I sanctioned the Act of Rural Properties (1796), which established rules and limits for the occupation and possession of territories conquered from the Konphs beyond the Xth parallel. The act gave priority of occupation to the Racpalians, aiming to combat the problem of overpopulation in Susia and occupying the territories to the east for the Empire, expanding its domains and defeating the Konphs. The act sanctioned a tax of 30,000 drips per hectare for private landowners of West Gaiyanese origin, discouraging Susian landowners from holding land for lease or speculation. However, these lands were sold at government-subsidized prices to Racpalian families, with some being set aside for urban development.
+As a way to remedy this issue, Empress Veronique I sanctioned the Act of Rural Properties (1796), which established rules and limits for the occupation and possession of territories conquered from the Konphs beyond the Xth parallel. The act gave priority of occupation to the Racpalians, aiming to combat the problem of overpopulation in Susia and occupying the territories to the east for the Empire, expanding its domains and defeating the Konphs. The act sanctioned a tax of 30,000 drips per hectare for private landowners of West Gaiyanese origin, discouraging Susian landowners from holding land for lease or speculation. However, these lands were sold at subsidized prices to Racpalian families, with some being set aside for urban development.
 
 During the occupation period, families from the lower Dripstanian aristocracy sold their lands, which they owned before the act, to the Racpalian mežnuci, as they were the only ones able to acquire them. Thus, the first [[Ragged-sleeve|ragged-sleeves]] were born. Instead of using these lands for agricultural production, these merchants negotiated with the General Government to integrate them into urban development lands in exchange for privileges when establishing businesses, such as exemption from property taxes and, in some cases, legally enforced monopolies.
 
