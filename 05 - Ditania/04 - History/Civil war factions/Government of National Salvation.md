@@ -14,7 +14,7 @@ Allies:
 		[[Kapiogg|Kingdom of Kapiogg]] (1983-1986)
 		[[Pierej|Republic of Pierej]] (1983-1986)
 		[[Astofayan|Kingdom of Astofayan]] (1983-1986)
-		State of Balsheck (1983-1986)
+		[[Balsheck|State of Balsheck]] (1983-1986)
 	**Non-state:**
 		[[Democratizing Multinational Force in Ditania]] (1983-1986)
 		[[Zintoro Mountain State]] (1988-1994)
