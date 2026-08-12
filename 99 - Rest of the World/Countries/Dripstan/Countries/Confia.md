@@ -44,7 +44,7 @@ Confia is often perceived as the "second-in-command" to [[Susia]] in continental
 
 Confia occupies the very centre of the [[Dripstanian Continent]], spanning over ten states divided in four macroregions: Southwest ([[Koštanože]] and [[Žošewoš]]), Northwest ([[Karlotopol']] and [[Legrinpija]]), Highland ([[Gorepalje]] and [[North Nijbania|North]] and [[South Nijbania]]), and West ([[Hašterlan]], [[Nakotšatija]], [[Ewenogia]]).
 
-The country's topography is sharply defined by the mountainous terrain of Highlands, while fertile steppes cover the west and
+The country's topography is sharply defined by the mountainous terrain of Highlands. Fertile steppes cover the eastern states, powering its agricultural economy with the [[Garzoel River]]. The western states are mostly flag plains; the southwest has a subtropical climate and is somewhat hilly in the [[Žošewoš]]-adjacent region while the northwest is covered by the Great Plains, with the [[Lasman river]] flowing through it. The valley of the Lasman River in the state of Karlotopol' 
 # History
 ## Pre-Dripstanian history
 
