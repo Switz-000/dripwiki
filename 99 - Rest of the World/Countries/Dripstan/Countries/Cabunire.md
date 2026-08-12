@@ -11,7 +11,7 @@ population_1970:
 population_1954:
 religion: Secular
 languages:
-  - War
+  - Standard Wai
 currency:
 international_organizations:
 capital:
