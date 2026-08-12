@@ -24,5 +24,4 @@ borders_west:
 borders_north:
 borders_south:
 ---
-
-
+The **General Government of Confia** was the [[Dripstanian Empire|imperial]] administration over the current territories of [[Confia]] and [[Pierej]]
