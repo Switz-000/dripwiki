@@ -26,8 +26,7 @@ The massacre is officially denied by the government of [[Ditania|Ditanian Republ
 
 ## Background
 
-The GNS was irate after discovering [[Balsheck|Balsheckian]] involvement in the financing of the [[Jadir Front]]. 
-
+The GNS was irate after discovering [[Balsheck|Balsheckian]] involvement in the financing of the [[Jadir Front]]. After the government of [[Pewipi Yiwa]] refused to cut off the JF and 
 ## The massacre
 
 ## Developments and consequences
