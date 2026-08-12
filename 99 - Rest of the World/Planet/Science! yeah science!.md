@@ -12,9 +12,9 @@ Symbols:
 | Class       |    K1V |      |                |             |
 | Mass        |   0.85 | Msol |     **B**      |             |
 | Current Age |  4.200 | Gyr  |                |     ~4      |
-| Maximum Age | 16.000 | Gyr  |     **S**      |             |
+| Maximum Age | 19.000 | Gyr  |     **S**      |             |
 | Radius      |   0.80 | Rsol |                |             |
-| Luminosity  |   0.40 | Lsol |                |   ≤ 0.45    |
+| Luminosity  |   0.43 | Lsol |                |   ≤ 0.45    |
 | Density     |   1.66 | Dsol |                |             |
 | Tempeture   |   5130 | K    |     **I**      |             |
 # Yepot System
@@ -28,7 +28,7 @@ Symbols:
 |                      | 0.4 AU              |
 |                      | 0.5 AU              |
 |                      | 0.6 AU              |
-| Inner habitable zone | 0.64 AU             |
+| Inner habitable zone | 0.67 AU             |
 |                      | 0.8 AU              |
 | Yesvis' perihelion   | 0.83 AU             |
 |                      | 0.7 AU              |
@@ -36,7 +36,7 @@ Symbols:
 |                      | 1.0 AU              |
 | Yesvis' aphelion     | 1.05 AU             |
 |                      | 1.1 AU              |
-| Outer habitable zone | 1.12 AU             |
+| Outer habitable zone | 1.18 AU             |
 # [[Yesvis]]
 
 ## Physical characteristics
@@ -52,7 +52,7 @@ Symbols:
 | Escape Velocity       |       | VEarth  |                |      |
 | Surface Temperature   |  ~285 | K       |                |      |
 | Equilibrium temp      |       |         |                |      |
-| Greenhouse Effect<br> |     1 | Earth's |     **I**      |      |
+| Greenhouse Effect<br> |    2x | Earth's |     **I**      |      |
 ## Magnetic Field
 
 Yesvis' magnetic field is weaker than Earth's. This causes magnetic navigational equipment, such as compasses, to be weak and drift over time. This has been a constant headache for institutions, with centuries of recorded declination tables, revised generation by generation. The revision of which is famously considered one of the unsolvable scientific puzzles of classical civilization. In 1782, an imperial administrative division was created to regulate the production of compasses and define where the magnetic north is.
