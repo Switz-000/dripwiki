@@ -23,3 +23,5 @@ related_events:
 ---
 The **Nar Liewati massacre** (Standard Wai: Ista Nar Liewati, "Nar Liewati Tragedy"; Peste ji Nar Liewati, "Sequence of events at Nar Liewati") was the intentional, pre-meditated sectarian killing of 900-1,300 Kaner men, women and children by multiple [[Kanli|Kanli militias]] hired by the [[Government of National Salvation]], including the [[Kazier Group]], on the orders of Raen Beinofa.
 The massacre is officially denied by the government of [[Ditania|Ditanian Republic]] to the present day, claiming the deaths were the result of a "property dispute" between refugees.
+
+## Backgroud
