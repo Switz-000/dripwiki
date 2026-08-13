@@ -31,7 +31,7 @@ During the war, a large number of rural Kaner civilians were displaced from thei
 The camp was officially open in 1983 under the auspices of the [[International Centre for War Relief]], an [[ODDN]] organ linked to the presence of the [[Democratizing Multinational Force in Ditania]]. Infrastructure works followed, building pre-fabricated housing using Confian panelized housing methods to replace the cotton tents, introducing community policing within the camp to reduce crime. Human rights activist and then ICWR volunteer [[Kunseka Istanna]] devised a plan for the camp to slowly be incorporated into the city.
 The camp was segregated by race on the orders of Raen Beinofa. It was considered one of the best camps in Ditania purely by standard of living, as the Kaner civilians that formed its majority were well-integrated with the northern neighbourhoods of Nar Liewati, working there by day and often attending temple service with the locals.
 
-The GNS was irate after discovering [[Balsheck|Balsheckian]] involvement in the financing of the [[Jadir Front]]. After the government of [[Pewipi Yiwa]] refused to cut off the JF and halted cooperation with the GNS instead, Beinofa ordered two of his batallions, the Kazier Group and other minor militias into the refugee camps north of Nar Liewati.
+The GNS was irate after discovering [[Balsheck|Balsheckian]] involvement in the financing of the [[Jadir Front]]. After the government of [[Pewipi Yiwa]] refused to cut off the JF and halted cooperation with the GNS instead, Beinofa ordered two of his battalions, the Kazier Group and other minor militias into the refugee camps north of Nar Liewati.
 ## The massacre
 
 ## Developments and consequences
