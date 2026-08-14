@@ -56,14 +56,14 @@ fancy SIC job.
 
 						they even let my mother to move with me. i said i could 
 					pay for her treatment but my manager already paid it full.
-					
-								i think they get a bad rep, at least considering 
-								how they treated me and many of my coworkers
 								
 												where are you working anyways?
 												
-- I'm working for Van Ritter. I moved to Lore after Uni
+- I'm working for Van Ritter. I moved to Lore after University.
 
-									since when are they taking diversity hires?
+													aren't you half confian? 
+								    since when are they taking diversity hires?
+
+- Eh, they don't care much. Im working in HR not the "don't ask" division.
 
 ```
