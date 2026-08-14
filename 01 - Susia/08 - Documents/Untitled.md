@@ -65,5 +65,21 @@ fancy SIC job.
 								    since when are they taking diversity hires?
 
 - Eh, they don't care much. Im working in HR not the "don't ask" division.
+  
+  right and what else do you want to know? what cutting edge projects ive be working on?
+  
+- You don't really belive that shit, do you?
+  
+- If you doubt me so much, then ask me.
+																		huh? -
 
+- You know, if you ask me I have to tell you and if I say no, I am doing an oath and I can't lie under an oath.
+
+- Because that's a crime. The president does the same thing.
+  
+														that's not how it works -
+
+- Yes it does. Ask me.
+
+	i trust you, no one in van ritter would hire an idiot like you to spy on us -
 ```
