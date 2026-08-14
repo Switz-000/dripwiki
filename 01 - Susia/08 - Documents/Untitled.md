@@ -32,7 +32,7 @@ tags:
 
 												  dont you owe me 15,000 drips?
 
-- Oh, I thought you cleared me of that. Since I got you that date with Senjapka.
+- Oh, I thought you cleared me of that. Since I got you that date.
 
 - Besides, It's not like you've been needing the money ever since you got that 
 fancy SIC job.
