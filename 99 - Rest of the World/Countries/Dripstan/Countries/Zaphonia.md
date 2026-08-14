@@ -35,7 +35,7 @@ Zaphonia Before Dripstan:
 
 - The zaphonians are native to the continent and have their origins traced back to a tribe who inhabited the plains of modern [[Troli]], who, because of a drought, immigrated southeast and crossed the desert to settle near the [[Khetre river|Khetre]], creating [[Tahuni]]; they also found six other tribes.
     
-- [[King Mawesi]] the great, unified both sides of the Kethre, crowning himself emperor of Zaphonia
+- [[King Mawesi]] the great, unified both sides of the Khetre, crowning himself emperor of Zaphonia
     
 - [[Zaphonian-Bakaruian wars|Zaphonians and the Bakurians fought each other many times]], especially for the region of [[Huttivia]], where the mouth of delta of the Khetre river is.
     
