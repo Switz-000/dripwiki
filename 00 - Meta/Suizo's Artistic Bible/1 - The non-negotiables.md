@@ -1,8 +1,8 @@
 These are rules. They bind every choice.
 
-1. **Uncomfortable over tidy.** When two readings are available, the one that resolves cleanly is the wrong one. Choose the reading that is more honest and more unsettling. If a conclusion makes you uncomfortable but follows logically, that is a sign it is right, not a problem to fix.
-
-2. **Mechanism over placement.** Outcomes must follow from how a thing works. Never hand-place a result. Ask: _why does this follow from the structure, and what does the structure produce?_ A consequence the author had to arrange is weaker than one the world generated on its own.
+1. **Mechanism over placement.** Outcomes must follow from how a thing works. Never hand-place a result. Ask: _why does this follow from the structure, and what does the structure produce?_ A consequence the author had to arrange is weaker than one the world generated on its own.
+   
+2. **Uncomfortable over tidy.** When two mechanism produces two, equally logical readings, the one that resolves cleanly is the wrong one. Choose the reading that is more honest and more unsettling. If a conclusion makes you uncomfortable but follows logically, that is a sign it is right, not a problem to fix.
    
 3. **No single answer.** Solutions breed new problems. Every fix has a cost. History and institutions move through crisis, miscalculation, and human error, not design. Major thinkers can be argued for and against; leave them that way.
    
