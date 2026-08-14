@@ -4,7 +4,7 @@ document_type: text chat
 subject:
   - "[[Troli Ustaras]]"
   - "[[Federal Cognitive Enhancement Program]]"
-recorded_year: 2042
+recorded_year: 2045
 participants:
 location:
   - "[[Susian Innovation Center]]"
@@ -50,5 +50,20 @@ fancy SIC job.
 - Still, it takes a lot to pick a company over your girl.
   
 - Specially, TU. What TU did for you anyways?
+  
+								i have everything i can ask for. a nice apartment, 
+						friendly coworkers and a job i feel is improving the world
+
+						they even let my mother to move with me. i said i could 
+					pay for her treatment but my manager already paid it full.
+					
+								i think they get a bad rep, at least considering 
+								how they treated me and many of my coworkers
+								
+												where are you working anyways?
+												
+- I'm working for Van Ritter. I moved to Lore after Uni
+
+									since when are they taking diversity hires?
 
 ```
