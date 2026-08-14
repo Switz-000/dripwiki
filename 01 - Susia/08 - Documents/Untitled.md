@@ -80,6 +80,13 @@ fancy SIC job.
 														that's not how it works -
 
 - Yes it does. Ask me.
+																	  are you? -
+- No no no. Say it like, Official.
+							are you texting me with the intents of conducting corporate espionage? -
+							
+- No. I Swear by the gods of Žeon and the constitution I am not conducting corporate espionage.
 
-	i trust you, no one in van ritter would hire an idiot like you to spy on us -
+				  it astonishes me how can van ritter hire an idiot like you to spy on us -
+
+- I did the oath man! What else do you want?
 ```
