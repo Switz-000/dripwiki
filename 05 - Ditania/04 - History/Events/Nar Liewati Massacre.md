@@ -36,4 +36,4 @@ The GNS was irate after discovering [[Balsheck|Balsheckian]] involvement in the 
 ## The massacre
 
 ## Developments and consequences
-Upon learning of the masssacre, the DMFD, which was stationed in the plains
+Upon learning of the masssacre, the DMFD, which was stationed in the plains fighting the [[|Coalition]]
