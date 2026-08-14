@@ -1,0 +1,54 @@
+---
+type: document
+document_type: text chat
+subject:
+  - "[[Troli Ustaras]]"
+  - "[[Federal Cognitive Enhancement Program]]"
+recorded_year: 2042
+participants:
+location:
+  - "[[Susian Innovation Center]]"
+tags: 
+  - corporate
+  - intelligence
+  - law
+  - politics
+  - science
+---
+
+---
+```
+- Hey dude! remember me?
+
+										 no, your pfp is a taxidermy of an antler
+
+- I'm Liyič! We studied together back at the Federal Institute.
+
+															dosent ring a bell
+															
+										 there are lots of -ičs here in the north
+
+- I was the one who land you that date with Senjapka! Are you guys still talking?
+
+												  dont you owe me 15,000 drips?
+
+- Oh, I thought you cleared me of that. Since I got you that date with Senjapka.
+
+- Besides, It's not like you've been needing the money ever since you got that 
+fancy SIC job.
+
+- Are you still with her at least?
+  
+							    no, we broke up after i landed the job in the SIC.
+							    
+										  she asked me to pick between her or TU
+										  
+						     and i know TU wouldn't even ask me that to begain with
+
+- Damn, what a shame, never thought she was the sinže type.
+
+- Still, it takes a lot to pick a company over your girl.
+  
+- Specially, TU. What TU did for you anyways?
+
+```
