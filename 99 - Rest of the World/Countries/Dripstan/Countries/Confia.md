@@ -26,7 +26,7 @@ borders_west:
   - "[[Susia]]"
 borders_north:
   - "[[Kapiogg]]"
-  - "[[Drippalia]]"
+  - "[[-Repo/99 - Rest of the World/Countries/Dripstan/Countries/Drippalia]]"
 borders_south:
   - "[[Zaphonia]]"
 ---

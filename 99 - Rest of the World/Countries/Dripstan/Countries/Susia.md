@@ -29,7 +29,7 @@ continent: Dripstan
 borders_east:
   - "[[Confia]]"
   - "[[Zaphonia]]"
-  - "[[Drippalia]]"
+  - "[[-Repo/99 - Rest of the World/Countries/Dripstan/Countries/Drippalia]]"
 borders_west:
   - "[[Sea of Galil]]"
 borders_north:
@@ -40,7 +40,7 @@ borders_south:
 gdp_per_capita_2080: 251000
 gdp_2080: 62521000000000
 ---
-**Susia**, officially the **Techno-Federative Republic of Susia**, is a federal presidential republic located on the [[Dripstan]] continent, bordered by [[Confia]] to the east, [[Drippalia]] to the northeast, [[Zaphonia]] to the southeast, [[Astofayan]] and [[Sutsa-Fuhu]] to the south, and the [[Sea of Galil]] to the west and north. The country was established in 1954 following the dissolution of the [[Dripstanian Empire]] through the [[Tahuni Accords]], and adopted its current constitutional framework in 2038 following the [[The Great Transition|Great Transition]]. With a population of approximately 247 million and a GDP of D$62.5 trillion as of 2080, Susia is the most economically developed nation on the Dripstanian continent and the founder of the [[ODDN]] liberal-capitalist bloc.
+**Susia**, officially the **Techno-Federative Republic of Susia**, is a federal presidential republic located on the [[Dripstan]] continent, bordered by [[Confia]] to the east, [[-Repo/99 - Rest of the World/Countries/Dripstan/Countries/Drippalia]] to the northeast, [[Zaphonia]] to the southeast, [[Astofayan]] and [[Sutsa-Fuhu]] to the south, and the [[Sea of Galil]] to the west and north. The country was established in 1954 following the dissolution of the [[Dripstanian Empire]] through the [[Tahuni Accords]], and adopted its current constitutional framework in 2038 following the [[The Great Transition|Great Transition]]. With a population of approximately 247 million and a GDP of D$62.5 trillion as of 2080, Susia is the most economically developed nation on the Dripstanian continent and the founder of the [[ODDN]] liberal-capitalist bloc.
 ### Geography
 
 Susia occupies the western portions of the [[Dripstan]] continent, covering nine states and one federal district. The [[Neutral District]], which contains the capital [[Soiteslaj]], is an enclave surrounded entirely by the state of [[Misocévia]].
@@ -208,7 +208,7 @@ Susian foreign policy is organized around three overlapping orientations: the [[
 
 > _Main article: [[ODDN]]_
 
-The [[ODDN]] (Organization of the Democratic Dripstanian Nations) is the primary vehicle of Susian foreign policy. Founded in 1961 as an anti-syndicalist military alliance, it has evolved into a broader democratic security structure reoriented toward the containment of [[Ashgerad]]. Current members are Susia (1961), [[Kapiogg]] (1961), [[Astofayan]] (1962), [[Pierej]] (1970), [[Dripland]] (1981), [[Kamino]] (1986), and [[Confia]] (1993).
+The [[ODDN]] (Organization of the Democratic Dripstanian Nations) is the primary vehicle of Susian foreign policy. Founded in 1961 as an anti-syndicalist military alliance, it has evolved into a broader democratic security structure reoriented toward the containment of [[Ashgerad]]. Current members are Susia (1961), [[Kapiogg]] (1961), [[Astofayan]] (1962), [[Pierej]] (1970), [[Drippalia]] (1981), [[Kamino]] (1986), and [[Confia]] (1993).
 
 #### Confia
 
@@ -216,7 +216,7 @@ Susia and [[Confia]] share the longest and most consequential bilateral relation
 
 #### Economic agreements
 
-The [[Lasman Economic Initiative]], signed in 1995 and in force from 2000, established a customs union between Susia and Confia. The [[Transcontinental Trade and Developmental Organization]] (TTDO), founded in 2002, facilitates trade and monetary exchange among a broader group including Susia, [[Kapiogg]], [[Astofayan]], [[Pierej]], [[Dripland]], [[Confia]], [[Kamino]], [[Balcheque]], and [[Macoxile]]. Susia is also a signatory to the [[Tekuri Ljas Accord]], which authorized multilateral intervention in [[Ditania]] in 1983.
+The [[Lasman Economic Initiative]], signed in 1995 and in force from 2000, established a customs union between Susia and Confia. The [[Transcontinental Trade and Developmental Organization]] (TTDO), founded in 2002, facilitates trade and monetary exchange among a broader group including Susia, [[Kapiogg]], [[Astofayan]], [[Pierej]], [[Drippalia]], [[Confia]], [[Kamino]], [[Balcheque]], and [[Macoxile]]. Susia is also a signatory to the [[Tekuri Ljas Accord]], which authorized multilateral intervention in [[Ditania]] in 1983.
 
 #### Ashgerad
 
