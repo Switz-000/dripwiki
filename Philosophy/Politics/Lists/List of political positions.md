@@ -328,7 +328,7 @@ The aspiration to eventually unite Dripstan's nations into a federal union or co
 
 ### Isolationism
 
-The position that a nation should minimize foreign entanglements and treat domestic affairs as the governing priority. A recessive position in Susian politics since the Continental Divide; more active in [[Dripland]] and [[Yakiria]] politics.
+The position that a nation should minimize foreign entanglements and treat domestic affairs as the governing priority. A recessive position in Susian politics since the Continental Divide; more active in [[Drippalia]] and [[Yakiria]] politics.
 
 ### Détente
 
@@ -360,7 +360,7 @@ The position that mandatory military service is a civic duty, a social instituti
 
 ### Militarism
 
-High military expenditure and permanent readiness as a governing priority. Associated across Dripstan with states facing existential pressure: Susia during the Continental Divide, the Paulowić government in Confia, and [[Dripland]] during the Wars of the Forest.
+High military expenditure and permanent readiness as a governing priority. Associated across Dripstan with states facing existential pressure: Susia during the Continental Divide, the Paulowić government in Confia, and [[Drippalia]] during the Wars of the Forest.
 
 ### Intelligence Expansionism
 
