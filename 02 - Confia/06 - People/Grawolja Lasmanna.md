@@ -134,7 +134,7 @@ meta:
 Lasmanna was well-known for her hermetic lifestyle, keeping her personal life private at all turns. 
 ### Political views
 
-There are only three moments whence Lasmanna's beliefs can be inferred: her innauguration speech (televised, unlike the tradition of stating it from Revolution Square), her speech during the ratification of the [[Lasman Economic Initiative]], and her interview with the [[Five of Goretopol']].
+There are only three moments whence Lasmanna's beliefs can be inferred: her inauguration speech (televised, unlike the tradition of stating it from Revolution Square), her speech during the ratification of the [[Lasman Economic Initiative]], and her interview with the [[Five of Goretopol']].
 ### Religion
 
 When publicly asked about her religion during [[Grawolja Lasmanna with the Five of Goretopol'|her Five of Goretopol' interview]] , Lasmanna declined to respond, stating "it is a private matter". Despite this, there is credible reason to believe she is a practicing [[Armotist Church of the Confian Synod|Synodal Armotist]]; she would vacate office during her term weekly to attend service at the St. Mantichev Great Cathedral, she was married in a Synodal church, she wore the traditional female cloche hat during the funeral of [[Ganzer Teahowić]], and she was seen performing the Stabbing Gestures before seeing the body. It is unclear to which extent her religion has influenced her personal views and policy choices.
