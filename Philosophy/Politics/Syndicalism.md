@@ -2,7 +2,7 @@
 type: ideology
 name: Syndicalism
 aliases:
-
+  - Syndicalist
 political_stances:
   - "[[List of political positions#Centralism|Centralism (Paulowić)]]"
   - "[[List of political positions#One-party system|One-party system (Paulowić)]]"
@@ -18,58 +18,39 @@ political_stances:
   - "[[List of political positions#Progressivism|Progressivism (New, Revised, later Orthodox)]]"
   - "[[List of political positions#Ethnonationalism|Ethnonationalism]]"
   - "[[List of political positions#Militarism|Militarism (Paulowić)]]"
-   
-
-
 sub_ideologies:
   - "[[Syndicalism#Orthodox Syndicalism|Orthodox Syndicalism]]"
   - "[[Syndicalism#New Syndicalism|New Syndicalism]]"
-
 influenced_by:
-
-
 influenced:
-
-
 preceded:
 succeeded:
-
 year: 1800-1850s
 origin: "[[General Government of Confia]]"
-
 notable_theorists:
   - "[[Ganzer Kieron]]"
   - "[[Mariana Torres]]"
   - "[[Lorelaj Paulowić]]"
   - "[[Eriežera Lensekowina]]"
-
 notable_ideas:
-
-
 examples:
   - "[[Paulowić regime|Confia]]"
   - "[[Sutsa-Fuhu]]"
   - "[[Ditania|Ditania (briefly)]]"
   - "[[Zaphonia]]"
   - "[[Garecija]]"
-
 literature:
-
-
 era:
-
-
 tags:
   - politics
   - philosophy
   - history
   - economy
   - culture
-
 meta:
   stub: true
   verified: false
-  image: null
+  image:
 ---
 
 **Syndicalism** (Confian: Syndӑkalice/Сындъкаліце) is a broad ideology that encompasses various, often radically different, models that share as a common factor the existence of worker collectives named syndicates and their control, in varying levels, of social, economic and political spheres of society.

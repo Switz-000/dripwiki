@@ -71,6 +71,10 @@ written_works:
     publication_year: 1969
     genre: Non-fiction
     notes: A polemic comparative essay contrasting the achievements of Susia to those of Confia, claiming capitalism achieved syndicalism's stated goals before syndicalism did. Published at the height of the [[Pierej Crisis]] on the [[New Kentu Truth-Teller]]. First major work published as Eriežera Lensekowina
+  - title: Letters from New Kentu
+  - publication_year: 1978
+    genre: Non-fiction
+    notes: A collection of articles written by Eriežera in exile.
   - title: On What Came Before Me And On What Comes After
     publication_year: 1983
     genre: Memoir
