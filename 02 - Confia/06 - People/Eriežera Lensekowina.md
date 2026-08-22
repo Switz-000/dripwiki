@@ -11,6 +11,7 @@ religion: "[[Armotist Church of the Confian Synod]]"
 citizenship:
   - "[[Dripstanian Empire|Dripstanian]]"
   - "[[Confia|Confian]]"
+  - "[[Susia|Susian]]"
 nationality:
   - "[[Dripstanian Empire|Dripstanian]]"
   - "[[Confia|Confian]]"
