@@ -55,7 +55,7 @@ you know the deal. use wiki links, single values. both represent the city / coun
   `country:`
   `cause:`
 
-**`death_cause`** — plain text. Use consistent phrasing across files. Examples: `Natural causes`, `Hanging`, `Lung cancer`, `Disappeared`, `Unknown`. 
+**`death.cause`** — plain text. Use consistent phrasing across files. Examples: `Natural causes`, `Hanging`, `Lung cancer`, `Disappeared`, `Unknown`. 
 
 ---
 
@@ -94,7 +94,7 @@ all of these objects are optional, do not remove them if they are not aplicable,
 **`written_works`** — list of works authored by this person. Each entry has:
 
 - `title` — wikilink if the work has an article, plain text if not.
-- `publication_date` — four-digit year as integer.
+- `publication_year` — four-digit year as integer.
 - `genre` — plain text. Examples: `Philosophy`, `Political theory`, `Memoir`, `Fiction`.
 - `notes` — optional. Use for reception, circumstances of publication, or relationship to other works.
 
@@ -117,7 +117,7 @@ all of these objects are optional, do not remove them if they are not aplicable,
   `-`
 
 `party:`
-`other_parties:` 
+`parties:`
   `-`
 
 `organizations:`
