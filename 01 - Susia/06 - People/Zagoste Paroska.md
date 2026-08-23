@@ -4,7 +4,7 @@ native_name: Zagoste Paroska
 lusitanized_name:
 aliases:
   - Paroska
-summary: Dripstanian admiral who sat on the general government of the Federated Provinces of Galil during the Liberal Revolts. His rivalry with Kaichet Satratonie, rooted in Satratonie's pursuit of the Countess of Jafnidia, supplied the personal motive for the defection that ended the republic. Publicly executed in 1844 and remembered in Susia as a martyr of liberty.
+summary: Dripstanian admiral who sat on the general government of the Federated Provinces of Galil during the Liberal Revolts. His rivalry with Kaichet Satratonie over the Countess of Jafnidia supplied the motive for the defection that ended the republic, and he was executed with Versij in 1844.
 sex: Male
 ethnicity: West Gaiyanese
 religion: "[[Reformed Armotism]]"
@@ -145,7 +145,7 @@ In 1840 a general assembly in [[Neoveli]] proclaimed the Federated Provinces of 
 
 Paroska and Satratonie were rivals throughout the revolt. Paroska had conducted an affair with the [[Countess of Jafnidia]], a woman Satratonie wished to marry, and Satratonie repeatedly sought to duel him over it.
 
-The challenges went unanswered. Formal dueling in this period was a western institution conducted between social equals, and Satratonie, who had risen through the imperial officer corps by merit rather than birth, was not accepted as one by the order Paroska belonged to. The distinction is treated in [[Cericeiro honor code]], which uses the episode as its principal illustration.
+The challenges went unanswered. Formal dueling in this period was a western institution conducted between social equals, and Satratonie, who had risen through the imperial officer corps by merit rather than birth, was not accepted as one by the order Paroska belonged to.
 
 Satratonie concluded that wealth, status, and the death of his rival together would secure the marriage. On that expectation he accepted [[Jartes II]]'s offer of land, money, and a royal pardon in exchange for changing sides.
 
@@ -179,7 +179,7 @@ Paroska and Versij are remembered in Susia as the martyrs of the Liberal Revolts
 - Legacy allegiance values split into two military_service entries, imperial then republican. Branch Navy and rank Admiral are drawn from the admiral title used in [[Jartes II]], the [[Susia]] country article, and [[Cericeiro honor code]]. Service dates are not established.
 - The article had no body before this pass. All body content is summarized from Tier 1 articles: [[Cericeiro honor code]] for the family standing, the affair, the duel challenges, and Satratonie's motive; [[Jartes II]] and the [[Susia]] country article for the general government, the defection, and the execution; [[Jaffnidia]] for the fort and the museum; this article's own legacy frontmatter for birth, rank, and the treason conviction.
 - INFERENCE: death city, state, and country. [[Jartes II]] places imperial troops in [[Neoveli]] in 1844 and the executions immediately after, but no article states Paroska's place of execution outright. Set to Neoveli to match [[Armadesh Versij]]; correct both together if wrong.
-- INFERENCE: that Paroska declined or ignored the duel challenges. [[Cericeiro honor code]] establishes that Satratonie sought the duel repeatedly, that formal dueling ran between social equals, and that Satratonie was not accepted as one. That the challenges therefore went unanswered follows but is not stated in any article.
+- SESSION CANON, confirmed: Paroska never answered the duel challenges. [[Cericeiro honor code]] establishes that Satratonie sought the duel repeatedly, that formal dueling ran between social equals, and that Satratonie was not accepted as one; that the challenges went unanswered follows, and was confirmed this session. Belongs primarily to a [[Liberal Revolts]] article once written.
 - INFERENCE: ethnicity West Gaiyanese and religion [[Reformed Armotism]]. Neither is established for Paroska. Both are the values carried by his contemporaries [[Armadesh Versij]] and [[Kaichet Satratonie]] and are set here for consistency. Both are Required or Recommended fields, so leaving them blank would hold the article at stub.
 - INFERENCE: political_alignment Republicanism, from his membership in the republic's general government. No article attributes a political position to him.
 - charged_year and verdict_year set to 1844, matching the treatment in [[Armadesh Versij]].
