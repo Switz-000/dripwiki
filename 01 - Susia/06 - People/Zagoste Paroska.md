@@ -119,7 +119,7 @@ meta:
   image:
 ---
 
-**Zagoste Paroska** (1796 to 1844) was a [[Dripstanian Empire|Dripstanian]] naval officer who rose to admiral in the imperial navy and then sat on the general government of the [[Federated Provinces of Galil]] during the [[Liberal Revolts]]. He was publicly executed alongside [[Armadesh Versij]] in 1844 and is remembered in [[Susia]] as a martyr of liberty.
+**Zagoste Paroska** (1796–1844) was a [[Dripstanian Empire|Dripstanian]] naval officer who rose to admiral in the imperial navy and then sat on the general government of the [[Federated Provinces of Galil]] during the [[Liberal Revolts]]. He was publicly executed alongside [[Armadesh Versij]] in 1844 and is remembered in [[Susia]] as a martyr of liberty.
 
 ## Early Life
 

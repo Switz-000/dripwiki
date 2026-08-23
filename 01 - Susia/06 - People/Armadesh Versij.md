@@ -155,7 +155,7 @@ meta:
   image: null
 ---
 
-**Armadesh Versij** (1801 to 1844) was a [[Dripstanian Empire|Dripstanian]] lawyer and political philosopher whose natural rights doctrine became the philosophical foundation of the [[Susia|Susian]] republic. He sat on the general government of the [[Federated Provinces of Galil]] during the [[Liberal Revolts]] and became its de facto leader, and was publicly executed in [[Neoveli]] in 1844 following the republic's defeat.
+**Armadesh Versij** (1801–1844) was a [[Dripstanian Empire|Dripstanian]] lawyer and political philosopher whose natural rights doctrine became the philosophical foundation of the [[Susia|Susian]] republic. He sat on the general government of the [[Federated Provinces of Galil]] during the [[Liberal Revolts]] and became its de facto leader, and was publicly executed in [[Neoveli]] in 1844 following the republic's defeat.
 
 ## Early Life
 
