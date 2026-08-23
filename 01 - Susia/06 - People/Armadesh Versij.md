@@ -5,11 +5,11 @@ native_name: Armadesh Versij
 lusitanized_name: 
 aliases:
   - Versij
-summary: Dripstanian philosopher and lawyer whose writings formed the philosophical foundation of the Susian republic. Sat on the general government of the Federated Provinces of Galil during the Liberal Revolts and was publicly executed by Emperor Jartes II following the republic's defeat. Venerated in Susian civic culture as the primary martyr of liberty.
+summary: Dripstanian philosopher and lawyer whose writings formed the philosophical foundation of the Susian republic. Sat on the general government of the Federated Provinces of Galil during the Liberal Revolts and became its de facto leader. Publicly executed by Emperor Jartes II following the republic's defeat, and venerated in Susian civic culture as the primary martyr of liberty.
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: Male
-ethnicity: "[[West gaiyanese]]"
+ethnicity: West Gaiyanese
 religion: "[[Reformed Armotism]]"
 citizenship:
   - "[[Dripstanian Empire]]"
@@ -72,7 +72,6 @@ political_alignment:
   - "[[List of political positions#Republicanism]]"
   - "[[List of political positions#Sapientism]]"
   - "[[List of political positions#Federalism]]"
-  - "[[List of political positions#Presidentialism]]"
   - "[[List of political positions#Constitutionalism]]"
   - "[[List of political positions#Individualism]]"
   - "[[List of political positions#Laissez-faire]]"
@@ -88,14 +87,6 @@ organizations:
 
 # ── OFFICES ─────────────────────────────────────────────────────────────────
 offices:
-  - title: Presiding Councillor of the Federated Provinces of Galil
-    employer: 
-    start_year: 1840
-    end_year: 1844
-    appointer: General Government of the Federated Provinces of Galil
-    parties:
-      - Independent
-    notes: 
   - title: Member of the General Government of the Federated Provinces of Galil
     employer: 
     start_year: 1840
@@ -103,21 +94,21 @@ offices:
     appointer: General Government of the Federated Provinces of Galil
     parties:
       - Independent
-    notes: 
+    notes: Became the general government's de facto leader as the rivalry between Paroska and Satratonie deepened.
 
 # ── WRITTEN WORKS ───────────────────────────────────────────────────────────
 written_works:
   - title: "[[Architecture of Freedom]]"
     publication_year: 1838
     genre: Philosophy
-    notes: Introduced the "citizen guards of the republic" argument.
+    notes: Written in Neoveli before the crackdown and published from exile in Gaiyan. Introduced the "citizen guards of the republic" argument.
 
 
 # ── CRIMINAL RECORD ─────────────────────────────────────────────────────────
 criminal_charges:
   - charge: Treason
     counts: 43
-    charged_year: 
+    charged_year: 1844
     plea: Not Guilty
     verdict: Guilty
     verdict_year: 1844
@@ -129,7 +120,7 @@ criminal_charges:
 # ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
   - item: "[[Liberal Revolts]]"
-    notes: Member of the general government of the Federated Provinces of Galil.
+    notes: De facto leader of the general government of the Federated Provinces of Galil.
   - item: "[[Architecture of Freedom]]"
     notes: 
   - item: "[[Versijian Self-Axiom]]"
@@ -164,7 +155,7 @@ meta:
   image: null
 ---
 
-**Armadesh Versij** (1801 to 1844) was a [[Dripstanian Empire|Dripstanian]] lawyer and political philosopher whose natural rights doctrine became the philosophical foundation of the [[Susia|Susian]] republic. He sat on the general government of the [[Federated Provinces of Galil]] during the [[Liberal Revolts]] and was publicly executed in [[Neoveli]] in 1844 following the republic's defeat.
+**Armadesh Versij** (1801 to 1844) was a [[Dripstanian Empire|Dripstanian]] lawyer and political philosopher whose natural rights doctrine became the philosophical foundation of the [[Susia|Susian]] republic. He sat on the general government of the [[Federated Provinces of Galil]] during the [[Liberal Revolts]] and became its de facto leader, and was publicly executed in [[Neoveli]] in 1844 following the republic's defeat.
 
 ## Early Life
 
@@ -212,11 +203,13 @@ The same reasoning produces the right to rebel. Citizens retain the right to ove
 
 ### Exile
 
-Seeking to stabilize growing unrest, [[Jartes II]] banned [[Sorzenko|Sorzenkos]], restricted civilian firearm ownership, and began persecuting liberal writers and thinkers. Versij was among those forced out. He fled to [[Gaiyan]] and continued writing there.
+Seeking to stabilize growing unrest, [[Jartes II]] banned [[Sorzenko|Sorzenkos]], restricted civilian firearm ownership, and began persecuting liberal writers and thinkers. Versij was among those forced out. He fled to [[Gaiyan]], where he continued writing and where [[Architecture of Freedom]] was published in 1838. The manuscript had been written earlier at his house in [[Neoveli]], before the crackdown.
 
 ### The Federated Provinces of Galil
 
-In 1840 a general assembly in [[Neoveli]], at the site now known as [[Versijian Square]], proclaimed the [[Federated Provinces of Galil]]. [[Duolij]], [[New Kentu]], and [[Niqueparj]] joined the revolt. Versij returned from exile to sit on the republic's general government alongside Admiral [[Zagoste Paroska]] and General [[Kaichet Satratonie]].
+In 1840 a general assembly in Neoveli, at the site now known as [[Versijian Square]], proclaimed the [[Federated Provinces of Galil]]. [[Duolij]], [[New Kentu]], and [[Niqueparj]] joined the revolt. Versij returned from exile to sit on the republic's general government alongside Admiral [[Zagoste Paroska]] and General [[Kaichet Satratonie]].
+
+The general government was constituted as a body of three equals. Its authority consolidated around Versij as the war continued. The rivalry between Paroska and Satratonie hardened into open factionalism, and Versij, who held no command of his own and no service constituency to defend, became the body's de facto leader without ever holding a title that said so.
 
 ### Trial and execution
 
@@ -278,24 +271,26 @@ Versijism and [[Neoversijism]] are recognized traditions in Susian political phi
 
 %% FLAGS:
 
-- The article had no body before this pass. All body content is summarized from existing Tier 1 vault articles, listed per section in the review report. No new facts invented.
-- OPEN CONFLICT, unresolved: the office "Presiding Councillor of the Federated Provinces of Galil" and the summary phrase "Led the Federated Provinces of Galil" appear only in this file's frontmatter. [[Jartes II]] and the [[Susia]] country article both describe the general government as a three-man body of Versij, Paroska, and Satratonie with no presiding officer named, and [[Kaichet Satratonie]] carries no equivalent office entry. Body prose written to the collegial reading ("sat on the general government"). Frontmatter left untouched pending decision.
-- OPEN CONFLICT, unresolved: [[Soites Group]] states Versij wrote [[Architecture of Freedom]] in a house in [[Neoveli]]. [[Jartes II]] and [[Gun Culture in Susia]] state that Jartes II's persecution drove Versij into exile in [[Gaiyan]], where he continued writing. Frontmatter dates publication to 1838, after Jartes II's 1837 accession. Body avoids stating where the book was written.
-- verdict_year set to 1844 by inference from the canonical 1844 execution date. charged_year left blank; no vault source establishes it.
-- death city, state, and country converted from plain text to wikilinks to match the birth block and the person template reference.
-- organizations field populated with [[Federated Provinces of Galil]], matching the same field in [[Kaichet Satratonie]].
+- The article had no body before this pass. All body content is summarized from existing Tier 1 vault articles. No new facts invented beyond the two session decisions recorded below.
+- SESSION CANON, not yet in any dedicated article: the general government of the Federated Provinces of Galil was a body of three equals in which Versij became de facto leader over the course of the war, as the Paroska and Satratonie rivalry hardened. Belongs primarily to a [[Federated Provinces of Galil]] or [[Liberal Revolts]] article once written. The prior frontmatter office "Presiding Councillor of the Federated Provinces of Galil" was removed: no formal presiding title existed, and neither [[Jartes II]] nor the [[Susia]] country article names one.
+- SESSION CANON, not yet in any dedicated article: [[Architecture of Freedom]] was written at Versij's house in [[Neoveli]] before Jartes II's crackdown and published from exile in [[Gaiyan]] in 1838. Resolves the apparent conflict between [[Soites Group]], which places the writing in Neoveli, and [[Jartes II]] and [[Gun Culture in Susia]], which place his continued writing in exile. Both articles stand as written.
+- The specific content of the Paroska and Satratonie rivalry is not established here. [[Countess of Jafnidia]] is linked from [[Cericeiro honor code]] but has no article and no established relation to the dispute.
+- charged_year and verdict_year both set to 1844 per session decision.
+- ethnicity converted from the wikilink [[West gaiyanese]] to plain text per the person template reference. [[Čalsor Boňár]] still carries the wikilink form and needs the same correction.
+- religion [[Reformed Armotism]] retained per session decision. The article does not exist and the Religion folder is empty; the denomination's existence in the 1801 to 1844 period is not established in any Tier 1 article. Religion articles queued.
+- era retains imperial-era with its children high-imperial and late-imperial, plus liberal-revolts, per session decision. [[Kaichet Satratonie]] carries the identical four values.
+- birth.state [[Vitrika]] and death.state [[Dripia]] use modern state names rather than the imperial-era territorial names, per session decision. No vault article establishes imperial province names.
+- political_alignment: Presidentialism removed per session decision. That entry in [[List of political positions]] does not name Versij and no vault source attributes the Great Executive Theory to him. Constitutionalism, Individualism, Laissez-faire, Civic Armament, and Right to Rebel added; each names Versij directly in that file.
 - known_for expanded from two to four entries to meet the three-to-five range in the person template reference.
-- meta.stub set to false: all Required and Recommended fields are now populated, which is quality level 3 under the person template reference. verified left false pending review.
-- ethnicity is stored as a wikilink here and in [[Čalsor Boňár]], but as plain text in [[Kaichet Satratonie]], and the person template reference specifies plain text. [[West gaiyanese]] has no article. Left as found; vault-wide decision needed.
-- religion [[Reformed Armotism]] has no vault article and the Religion folder is empty. The same value is assigned to figures a century apart with no Tier 1 basis for the denomination's existence in either period.
-- political_alignment expanded with Constitutionalism, Individualism, Laissez-faire, Civic Armament, and Right to Rebel, all of which name Versij directly in [[List of political positions]]. Presidentialism was already present and is retained, though that entry does not name him and no vault source attributes the Great Executive Theory to him.
-- The execution quote and the Satratonie misattribution are also carried in full in [[Gun Culture in Susia]], and the quote again in [[Sorzenko]]. One fact, one place: this article is the natural home and the other two should be reduced to summary and link.
-- The Soitesmart and museum fact is treated in full in [[Soites Group]]. Repeated here in short form for the Miscellaneous section; deduplicate if the rule is read strictly.
-- era retains both imperial-era and its children high-imperial and late-imperial. The person template reference asks for the most specific applicable era. [[Kaichet Satratonie]] carries the identical four values, so the practice is consistent across the pair even if it does not match the reference.
+- organizations populated with [[Federated Provinces of Galil]], matching the same field in [[Kaichet Satratonie]].
+- death city, state, and country converted from plain text to wikilinks to match the birth block.
+- meta.stub set to false: all Required and Recommended fields are populated, which is quality level 3. verified left false pending review.
+- The execution quote is also carried in full in [[Gun Culture in Susia]] and in [[Sorzenko]], and the Satratonie misattribution in full in [[Gun Culture in Susia]]. One fact, one place: this article is the natural home and those should be reduced to summary and link.
+- The Soitesmart and museum fact is treated in full in [[Soites Group]] and repeated here in short form for the Miscellaneous section.
 - No Personal Life section: no spouse, children, residence, or personal detail is established anywhere in the vault.
-- Main article links pointing to pages that do not exist: [[Liberal Revolts]], [[Federated Provinces of Galil]], [[Architecture of Freedom]], [[Versijism]], [[Neoversijism]], [[Versij Day]], [[Versijian Square]], [[University of New Kentu]], [[Susian Constitution]], [[Gaiyan]], [[The Versijian]], [[Young Versijians]], [[West gaiyanese]], [[Reformed Armotism]], [[Food for the Fools]], [[Soitesmart]], [[Liberty!]], [[Eossaj]]. [[Versijian Self-Axiom]] exists but is empty.
-- [[List of Susians]] queries flat legacy keys (full_name, birth_year, birth_city, birth_state) that no current-schema person article carries. Versij will render with blank columns. Index needs rewriting against the nested schema.
-- [[Zagoste Paroska]], Versij's co-martyr, is still on the pre-migration schema (person_name, birth_place, death_cause, alma_mater, allegiance) and its type value is double-quoted, which breaks type matching. Migration queued.
-- [[CHRONOLOGY]] carries Versij's 1826 graduation but no birth, death, or execution entry, and no Liberal Revolts entries at all. Generator or source frontmatter gap.
+- Main article links pointing to pages that do not exist: [[Liberal Revolts]], [[Federated Provinces of Galil]], [[Architecture of Freedom]], [[Versijism]], [[Neoversijism]], [[Versij Day]], [[Versijian Square]], [[University of New Kentu]], [[Susian Constitution]], [[Gaiyan]], [[The Versijian]], [[Young Versijians]], [[Reformed Armotism]], [[Food for the Fools]], [[Soitesmart]], [[Liberty!]], [[Eossaj]]. [[Versijian Self-Axiom]] exists but is empty.
+- [[List of Susians]] queries flat legacy keys (full_name, birth_year, birth_city, birth_state) that no current-schema person article carries. Versij renders with blank columns. Index needs rewriting against the nested schema.
+- [[Zagoste Paroska]], Versij's co-martyr, is still on the pre-migration schema and its type value is double-quoted, which breaks type matching. Migration queued.
+- [[CHRONOLOGY]] carries Versij's 1826 graduation but no birth, death, or execution entry, and nothing at all for 1840 to 1844.
 
 %%
