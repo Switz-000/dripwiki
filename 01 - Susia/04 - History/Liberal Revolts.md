@@ -14,6 +14,7 @@ theatre:
   - "[[Misocévia]]"
 rebellious_participants:
   - "[[Federated Provinces of Galil]]"
+  - "[[Doremojian League]]"
 legalist_participants:
   - "[[Dripstanian Empire]]"
 key_figures:
@@ -42,7 +43,7 @@ tags:
 meta:
   stub: true
   verified: false
-  image: null
+  image:
 ---
 
 The **Liberal Revolts** (1840–1844) were an armed republican uprising against the [[Dripstanian Empire]], fought between the [[Federated Provinces of Galil]] and the imperial government of [[Jartes II]]. The revolt failed, and its leadership was publicly executed in [[Neoveli]] in 1844. Its defeat established the founding political memory of [[Susia]]: the disarmament that preceded it became the standing justification for the constitutional [[Right to rebel|right to rebel]], and the natural rights philosophy of [[Armadesh Versij]] became the intellectual reference for every subsequent Susian republican movement.
