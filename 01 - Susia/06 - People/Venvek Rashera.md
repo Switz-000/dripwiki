@@ -32,8 +32,10 @@ death:
   cause: Drug overdose
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
-spouse: 
-children_count: 1         # use um NÚMERO
+relations:
+  - person: 
+    relation: Child
+    notes: 1 child, not named in canon.
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:

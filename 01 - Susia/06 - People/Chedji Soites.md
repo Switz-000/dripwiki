@@ -36,8 +36,13 @@ death:
   cause: Natural causes
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
-spouse: 
-children_count: 1
+relations:
+  - person: "[[Suizo Soites]]"
+    relation: Adoptive brother
+    notes: Legally adopted him as a brother.
+  - person: 
+    relation: Child
+    notes: One child, not named in canon.
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:

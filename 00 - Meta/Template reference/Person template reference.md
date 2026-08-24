@@ -61,9 +61,9 @@ you know the deal. use wiki links, single values. both represent the city / coun
 
 ### Family
 
-**`spouse`** — wikilink to the primary consort or partner. Single value. (Optional)
-
-**`children_count`** — integer. Leave blank if unknown; do not write `None`. (Optional)
+`spouse` and `children_count` are retired. Both are recorded as `relations`
+entries. A count without names is recorded as a single entry with `person`
+left blank and the number in `notes`.
 
 **`relations`** — list of typed kinship edges to other person articles. This is
 the field that makes family structure queryable; `spouse` and `children_count`
@@ -104,6 +104,9 @@ relation: Aunt
 relation: Nephew
 relation: Niece
 relation: Cousin
+relation: Parent
+relation: Child
+relation: Sibling
 relation: Adoptive father
 relation: Adoptive mother
 relation: Adoptive brother
@@ -112,6 +115,16 @@ relation: Adoptive son
 relation: Adoptive daughter
 relation: Ward
 relation: Guardian
+```
+
+`Parent`, `Child`, and `Sibling` are the fallbacks where sex is not
+established. They are also how an unnamed group is recorded:
+
+```
+relations:
+  - person:
+    relation: Child
+    notes: Three children, none named in canon.
 ```
 
 Legitimacy and stillbirth are not relation values. Record the relation and put

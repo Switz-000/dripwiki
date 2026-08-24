@@ -1,10 +1,14 @@
 ---
+
+# ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Zagoste Paroska
 lusitanized_name:
 aliases:
   - Paroska
 summary: Dripstanian admiral who sat on the general government of the Federated Provinces of Galil during the Liberal Revolts. His rivalry with Kaichet Satratonie over the Countess of Jafnidia supplied the motive for the defection that ended the republic, and he was executed with Versij in 1844.
+
+# ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: Male
 ethnicity: West Gaiyanese
 religion: "[[Reformed Armotism]]"
@@ -14,6 +18,8 @@ nationality:
   - "[[Susia|Susian]]"
   - "[[Dripstanian Empire|Dripstanian]]"
 enhanced: false
+
+# ── BIRTH AND DEATH ─────────────────────────────────────────────────────────
 birth:
   year: 1796
   city: "[[Duolij]]"
@@ -25,13 +31,20 @@ death:
   state: "[[Dripia]]"
   country: "[[Dripstanian Empire]]"
   cause: Hanging
-spouse:
-children_count:
+# ── FAMILY ──────────────────────────────────────────────────────────────────
+relations:
+  - person: 
+    relation: 
+    notes: 
+
+# ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
   - degree:
     institution: "[[Susian Naval Academy]]"
     year:
   - 
+
+# ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
   - title: Naval Officer
     start_year:
@@ -63,6 +76,8 @@ parties:
   - 
 organizations:
   - "[[Federated Provinces of Galil]]"
+
+# ── OFFICES ─────────────────────────────────────────────────────────────────
 offices:
   - title: Member of the General Government of the Federated Provinces of Galil
     employer:
@@ -72,11 +87,15 @@ offices:
     parties:
       - Independent
     notes:
+
+# ── WRITTEN WORKS ───────────────────────────────────────────────────────────
 written_works:
   - title:
     publication_year:
     genre:
     notes:
+
+# ── CRIMINAL RECORD ─────────────────────────────────────────────────────────
 criminal_charges:
   - charge: Treason
     counts: 22
@@ -88,6 +107,8 @@ criminal_charges:
     served:
     in_absentia: false
     notes:
+
+# ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
   - item: "[[Liberal Revolts]]"
     notes: Member of the general government of the Federated Provinces of Galil.
@@ -109,6 +130,8 @@ era:
   - high-imperial
   - imperial-era
   - liberal-revolts
+
+# ── META ────────────────────────────────────────────────────────────────────
 tags:
   - military
   - politics

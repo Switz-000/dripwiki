@@ -32,8 +32,31 @@ death:
   cause: Gastric ulcer
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
-spouse: "[[Faranes the Feared]]"
-children_count: 5         # use um NÚMERO
+relations:
+  - person: "[[Emperor Agamilos]]"
+    relation: Father
+    notes: Reigned 1686 to 1738.
+  - person: "[[Prince Apreže]]"
+    relation: Brother
+    notes: Eldest son; died in a jousting accident at 25, days before their father.
+  - person: "[[Infante Babal]]"
+    relation: Brother
+    notes: 
+  - person: "[[Faranes the Feared]]"
+    relation: Spouse
+    notes: Married 1752. Grandson of Murilo the Glutton, heir to the captaincy of Sužielaj.
+  - person: "[[Empress Yaneoli]]"
+    relation: Daughter
+    notes: Born 1752. Succeeded her.
+  - person: "[[Colin, King of the Tekurs]]"
+    relation: Son
+    notes: Born 1756.
+  - person: "[[Princess Natesse]]"
+    relation: Daughter
+    notes: Born 1760. Married Prince Capraže.
+  - person: "[[Countess Valista of Postia]]"
+    relation: Daughter
+    notes: Born 1778. Countess of Postia.
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
@@ -141,11 +164,11 @@ meta:
 
 
 
-Veronique was the third Empress of the [[Dripstanian Empire]], reigning from 1740 to 1787. Daughter of [[Agamilos of Frajes]], she ascended to the throne under contested circumstances and became one of the most consequential rulers in imperial history — centralizing power, creating permanent imperial institutions, colonizing [[Confia]], and crushing internal opposition with ruthless efficiency. She is remembered as a paradox: a ruler who expanded rights for women and reformed governance while simultaneously unleashing ethnic cleansing on the [[Tekur|Konph]] people.
+Veronique was the third Empress of the [[Dripstanian Empire]], reigning from 1740 to 1787. Daughter of [[Emperor Agamilos|Agamilos of Frajes]], she ascended to the throne under contested circumstances and became one of the most consequential rulers in imperial history — centralizing power, creating permanent imperial institutions, colonizing [[Confia]], and crushing internal opposition with ruthless efficiency. She is remembered as a paradox: a ruler who expanded rights for women and reformed governance while simultaneously unleashing ethnic cleansing on the [[Tekur|Konph]] people.
 
 ## Accession
 
-Veronique's path to the throne was not straightforward. Her father [[Agamilos of Frajes]] had expected his eldest son Apreže to succeed him, but Apreže died in a jousting accident at 25, just days before his father. The ambiguity in succession law — whether a woman could rule — was debated by the Council of Governors, who ultimately allowed Veronique to ascend after a brief regency.
+Veronique's path to the throne was not straightforward. Her father [[Emperor Agamilos|Agamilos of Frajes]] had expected his eldest son Apreže to succeed him, but Apreže died in a jousting accident at 25, just days before his father. The ambiguity in succession law — whether a woman could rule — was debated by the Council of Governors, who ultimately allowed Veronique to ascend after a brief regency.
 
 Her coronation was immediately challenged by the **Babalists** — the Armotist Association for the Coronation of Infante Babal — a reactionary group claiming Veronique's coronation was illegitimate and that her brother Babal was the rightful emperor.
 

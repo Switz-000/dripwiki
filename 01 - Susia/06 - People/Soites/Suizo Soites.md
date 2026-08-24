@@ -34,8 +34,10 @@ death:
   cause: Natural causes
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
-spouse: 
-children_count:         # use um NÚMERO
+relations:
+  - person: "[[Chedji Soites]]"
+    relation: Adoptive brother
+    notes: Legally adopted as a brother; succeeded him as chief executive of the Soites Group in 1981.
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
