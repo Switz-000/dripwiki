@@ -1,11 +1,11 @@
 ---
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
-native_name: Babal
+native_name: Osvien
 lusitanized_name: 
 aliases:
   - 
-summary: Younger son of Emperor Agamilos and brother of Empress Veronique. His two children took each other as consorts, and their son Pentério Babal II continued the Pentério branch of the Yatovar line.
+summary: Son of Infante Babal and head of the Pentério branch of the Yatovar line. He took his sister Ligória as consort, and their son Pentério Babal II continued the branch.
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: Male
@@ -19,13 +19,13 @@ enhanced: false
 
 # ── BIRTH AND DEATH ─────────────────────────────────────────────────────────
 birth:
-  year: 1736
+  year: 
   city: 
   state: 
   country: "[[Dripstanian Empire]]"
 
 death:
-  year: 1768
+  year: 
   city: 
   state: 
   country: "[[Dripstanian Empire]]"
@@ -33,21 +33,21 @@ death:
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
 relations:
-  - person: "[[Emperor Agamilos]]"
+  - person: "[[Infante Babal]]"
     relation: Father
     notes: 
-  - person: "[[Empress Veronique]]"
-    relation: Sister
-    notes: 
-  - person: "[[Prince Apreže]]"
-    relation: Brother
-    notes: 
-  - person: "[[Pentério Osvien]]"
-    relation: Son
-    notes: Took his sister Ligória as consort.
   - person: "[[Pentéria Ligória]]"
-    relation: Daughter
-    notes: Consort to her brother Osvien.
+    relation: Sister
+    notes: Also his consort. The union produced Pentério Babal II and a stillborn child, Barfeco.
+  - person: "[[Pentério Babal II]]"
+    relation: Son
+    notes: Issue of his union with his sister.
+  - person: "[[Barfeco]]"
+    relation: Son
+    notes: Stillborn.
+  - person: "[[Countess Valista of Postia]]"
+    relation: Cousin
+    notes: The chart marks a connection between them as illegitimate.
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
@@ -128,7 +128,6 @@ awards:
     notes:
 
 era:
-  - early-imperial
   - high-imperial
   - imperial-era
 
@@ -138,18 +137,16 @@ tags:
   - history
 
 meta:
-  stub: false
+  stub: true
   verified: false
   image: null
 ---
 
 %% FLAGS:
 
-- Dates derived from the Casa Real Yatovar family chart supplied by the author. The chart counts years in AS, descending; Gregorian equals 1950 minus AS, an epoch confirmed exactly against [[List of Dripstanian emperors]] for Mantichev, Agamilos, and Veronique.
-- Born 1736 while his father reigned; the chart places his birth after his brother Apreže's.
-- CONFIRMED session canon: his two children [[Pentério Osvien]] and [[Pentéria Ligória]] took each other as consorts. The union produced [[Pentério Babal II]] and a stillborn child, Barfeco. Babal is therefore Babal II's grandfather along both lines of descent.
-- Barfeco was stillborn and has no article. He is recorded in the relations of his parents and brother only.
-- The chart also links [[Pentério Osvien]] to [[Countess Valista of Postia]], his first cousin, by a connection marked illegitimate.
-- "Infante" is retained from the chart, which distinguishes it from "Prince". Dripstanian court titles have no established vocabulary in the vault.
+- Recorded from the Casa Real Yatovar family chart supplied by the author. The chart gives this person no dates.
+- The union of [[Pentério Osvien]] and [[Pentéria Ligória]], full siblings, is confirmed session canon. Their son [[Pentério Babal II]] is the issue of that union.
+- The connection to [[Countess Valista of Postia]] is marked illegitimate on the chart. Whether it produced issue is not shown. She is his first cousin, being a daughter of [[Empress Veronique]], his father's sister; the blood tie is recorded per the person template reference rule that the closest degree is the one written.
+- "Pentério" is retained from the chart as a title of this branch, paired with "Pentéria" for women. Dripstanian court titles have no established vocabulary in the vault.
 
 %%

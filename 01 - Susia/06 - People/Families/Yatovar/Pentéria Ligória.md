@@ -1,14 +1,14 @@
 ---
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
-native_name: Babal
+native_name: Ligória
 lusitanized_name: 
 aliases:
   - 
-summary: Younger son of Emperor Agamilos and brother of Empress Veronique. His two children took each other as consorts, and their son Pentério Babal II continued the Pentério branch of the Yatovar line.
+summary: Daughter of Infante Babal of the Yatovar line. She was consort to her brother Pentério Osvien, and mother of Pentério Babal II.
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
-sex: Male
+sex: Female
 ethnicity: West Gaiyanese
 religion: "[[Armotism]]"
 citizenship:
@@ -19,13 +19,13 @@ enhanced: false
 
 # ── BIRTH AND DEATH ─────────────────────────────────────────────────────────
 birth:
-  year: 1736
+  year: 
   city: 
   state: 
   country: "[[Dripstanian Empire]]"
 
 death:
-  year: 1768
+  year: 
   city: 
   state: 
   country: "[[Dripstanian Empire]]"
@@ -33,21 +33,18 @@ death:
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
 relations:
-  - person: "[[Emperor Agamilos]]"
+  - person: "[[Infante Babal]]"
     relation: Father
     notes: 
-  - person: "[[Empress Veronique]]"
-    relation: Sister
-    notes: 
-  - person: "[[Prince Apreže]]"
-    relation: Brother
-    notes: 
   - person: "[[Pentério Osvien]]"
+    relation: Brother
+    notes: Also her consort. The union produced Pentério Babal II and a stillborn child, Barfeco.
+  - person: "[[Pentério Babal II]]"
     relation: Son
-    notes: Took his sister Ligória as consort.
-  - person: "[[Pentéria Ligória]]"
-    relation: Daughter
-    notes: Consort to her brother Osvien.
+    notes: Issue of her union with her brother.
+  - person: "[[Barfeco]]"
+    relation: Son
+    notes: Stillborn.
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
@@ -128,7 +125,6 @@ awards:
     notes:
 
 era:
-  - early-imperial
   - high-imperial
   - imperial-era
 
@@ -138,18 +134,14 @@ tags:
   - history
 
 meta:
-  stub: false
+  stub: true
   verified: false
   image: null
 ---
 
 %% FLAGS:
 
-- Dates derived from the Casa Real Yatovar family chart supplied by the author. The chart counts years in AS, descending; Gregorian equals 1950 minus AS, an epoch confirmed exactly against [[List of Dripstanian emperors]] for Mantichev, Agamilos, and Veronique.
-- Born 1736 while his father reigned; the chart places his birth after his brother Apreže's.
-- CONFIRMED session canon: his two children [[Pentério Osvien]] and [[Pentéria Ligória]] took each other as consorts. The union produced [[Pentério Babal II]] and a stillborn child, Barfeco. Babal is therefore Babal II's grandfather along both lines of descent.
-- Barfeco was stillborn and has no article. He is recorded in the relations of his parents and brother only.
-- The chart also links [[Pentério Osvien]] to [[Countess Valista of Postia]], his first cousin, by a connection marked illegitimate.
-- "Infante" is retained from the chart, which distinguishes it from "Prince". Dripstanian court titles have no established vocabulary in the vault.
+- Recorded from the Casa Real Yatovar family chart supplied by the author. The chart gives this person no dates.
+- The union of [[Pentério Osvien]] and [[Pentéria Ligória]], full siblings, is confirmed session canon. Their son [[Pentério Babal II]] is the issue of that union.
 
 %%
