@@ -32,8 +32,6 @@ death:
   cause: Unknown
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
-spouse: 
-children_count:         # use um NÚMERO
 
 relations:
   - person: "[[Jartes I]]"

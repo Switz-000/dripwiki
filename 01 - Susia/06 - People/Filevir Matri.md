@@ -34,8 +34,13 @@ death:
   cause: Natural causes
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
-spouse: "[[Yavna Matri]]"
-children_count: 2
+relations:
+  - person: "[[Yavna Matri]]"
+    relation: Spouse
+    notes: 
+  - person: 
+    relation: Child
+    notes: 2 children, not named in canon.
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:

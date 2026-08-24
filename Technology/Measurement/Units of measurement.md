@@ -3,7 +3,7 @@
 A **unit of length** is any arbitrarily chosen and accepted reference standard for measurement of length. The most common units in modern use are the metric units.
 ## Treye
 
-A Treye is a imperial unit of measurement with its origins in [[Gaiyan]], representing roughly the length of a thumb. In 1732 it was standardized, with it being exactly the size of Emperor [[Agamilos of Frajes]]'s thumb which converts to 2.37 cm. The Treye works in a Inverse scale, with the measured quantity varying as 1/n rather than n.
+A Treye is a imperial unit of measurement with its origins in [[Gaiyan]], representing roughly the length of a thumb. In 1732 it was standardized, with it being exactly the size of Emperor [[Emperor Agamilos|Agamilos of Frajes]]'s thumb which converts to 2.37 cm. The Treye works in a Inverse scale, with the measured quantity varying as 1/n rather than n.
 
 Even though Susia adopted the metric system in 1954 alongside other dripstanian countries, it is still used in the firearms industry alongside metric.
 

@@ -34,8 +34,10 @@ death:
   cause: 
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
-spouse: 
-children_count:         # use um NÚMERO
+relations:
+  - person: 
+    relation: 
+    notes: 
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:

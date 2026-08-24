@@ -33,8 +33,13 @@ death:
   cause: "[[Kashovne's syndrome]]"
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
-spouse: "[[Veska Apaj]]"
-children_count: 2         # use um NÚMERO
+relations:
+  - person: "[[Veska Apaj]]"
+    relation: Spouse
+    notes: 
+  - person: 
+    relation: Child
+    notes: 2 children, not named in canon.
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:

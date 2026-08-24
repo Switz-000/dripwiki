@@ -32,8 +32,22 @@ death:
   cause: 
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
-spouse: "[[Empress Veronique]]"
-children_count: 5         # use um NÚMERO
+relations:
+  - person: "[[Empress Veronique]]"
+    relation: Spouse
+    notes: Married 1752.
+  - person: "[[Empress Yaneoli]]"
+    relation: Daughter
+    notes: Born 1752.
+  - person: "[[Colin, King of the Tekurs]]"
+    relation: Son
+    notes: Born 1756.
+  - person: "[[Princess Natesse]]"
+    relation: Daughter
+    notes: Born 1760.
+  - person: "[[Countess Valista of Postia]]"
+    relation: Daughter
+    notes: Born 1778.
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:

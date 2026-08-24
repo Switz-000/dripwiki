@@ -33,8 +33,10 @@ death:
   cause: Car accident
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
-spouse: 
-children_count: 3         # use um NÚMERO
+relations:
+  - person: 
+    relation: Child
+    notes: 3 children, not named in canon.
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
