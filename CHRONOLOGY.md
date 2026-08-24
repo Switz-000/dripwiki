@@ -14,9 +14,15 @@
 ## 1830
 - **Founded** — [[Ražaw]] in [[Imgospalje]]
 
+## 1840
+- **Event begins** — [[Liberal Revolts]]
+
 ## 1841
 - **Founded** — [[Confian Nation Party (1841)]] by [[['[[Wanašer Gerzăn]]']]]
 - **Founded** — [[PIKW]]
+
+## 1844
+- **Event ends** — [[Liberal Revolts]]
 
 ## 1852
 - **Founded** — [[Žošewoš Machinery]] by [[Jagan Iliož]] in [[Detujehar]]
