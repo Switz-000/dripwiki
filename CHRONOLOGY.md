@@ -5,6 +5,12 @@
 ## 1803
 - **Founded** — [[Susian Naval Academy]]
 
+## 1815
+- **Event begins** — [[Dripstanian Civil War]]
+
+## 1823
+- **Event ends** — [[Dripstanian Civil War]]
+
 ## 1826
 - **Graduation** — [[Armadesh Versij]] — Law at [[University of New Kentu]]
 
