@@ -1,11 +1,11 @@
 ---
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
-native_name: Agamilos
+native_name: Colin
 lusitanized_name: 
 aliases:
-  - Agamilos of Frajes
-summary: Second emperor of the Dripstanian Empire, reigning from 1686 to 1738. His death without a surviving male heir produced the succession crisis that a regency council resolved in favour of his daughter Veronique.
+  - Colin
+summary: Son of Empress Veronique and King of the Tekurs, a title held under Dripstanian suzerainty. Brother of Empress Yaneoli.
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: Male
@@ -19,13 +19,13 @@ enhanced: false
 
 # ── BIRTH AND DEATH ─────────────────────────────────────────────────────────
 birth:
-  year: 1657
+  year: 1756
   city: 
   state: 
   country: "[[Dripstanian Empire]]"
 
 death:
-  year: 1738
+  year: 
   city: 
   state: 
   country: "[[Dripstanian Empire]]"
@@ -33,23 +33,20 @@ death:
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
 relations:
-  - person: "[[Kaichet of Frajes]]"
-    relation: Father
-    notes: 
-  - person: "[[Damhor of Frajes]]"
+  - person: "[[Empress Veronique]]"
     relation: Mother
     notes: 
-  - person: "[[Saint Emperor Mantichev]]"
-    relation: Brother
-    notes: Preceded him on the throne.
-  - person: "[[Prince Apreže]]"
-    relation: Son
-    notes: Eldest son and expected heir; died in a jousting accident at 25, days before his father.
-  - person: "[[Empress Veronique]]"
-    relation: Daughter
-    notes: Succeeded him after a two-year regency.
-  - person: "[[Infante Babal]]"
-    relation: Son
+  - person: "[[Faranes the Feared]]"
+    relation: Father
+    notes: 
+  - person: "[[Empress Yaneoli]]"
+    relation: Sister
+    notes: 
+  - person: "[[Princess Natesse]]"
+    relation: Sister
+    notes: 
+  - person: "[[Countess Valista of Postia]]"
+    relation: Sister
     notes: 
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
@@ -61,9 +58,9 @@ education:
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
-  - title: Emperor
-    start_year: 1686
-    end_year: 1738
+  - title: King of the Tekurs
+    start_year: 
+    end_year: 
 
 military_service:
   - allegiance:
@@ -87,14 +84,14 @@ organizations:
 
 # ── OFFICES ─────────────────────────────────────────────────────────────────
 offices:
-  - title: Emperor of the Dripstanian Empire
-    employer: 
-    start_year: 1686
-    end_year: 1738
-    appointer: Hereditary succession
+  - title:
+    employer:
+    start_year:
+    end_year:
+    appointer:
     parties:
       -
-    notes: Second emperor. Succeeded [[Saint Emperor Mantichev]]; the throne passed to [[Empress Veronique]] in 1740 after a regency council.
+    notes:
 
 # ── WRITTEN WORKS ───────────────────────────────────────────────────────────
 written_works:
@@ -119,10 +116,8 @@ criminal_charges:
 
 # ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
-  - item: [[Empress Veronique]]
-    notes: His succession crisis established that a woman could inherit the Dripstanian throne.
-  - item: Standardisation of the [[Units of measurement|treye]]
-    notes: Fixed in 1732 at the length of his thumb, 2.37 cm.
+  - item: King of the [[Tekur|Tekurs]]
+    notes: 
 
 awards:
   - title:
@@ -133,16 +128,17 @@ awards:
     notes:
 
 era:
-  - early-imperial
+  - high-imperial
   - imperial-era
 
 # ── META ────────────────────────────────────────────────────────────────────
 tags:
   - politics
   - history
+  - race
 
 meta:
-  stub: false
+  stub: true
   verified: false
   image: null
 ---
@@ -150,8 +146,9 @@ meta:
 %% FLAGS:
 
 - Dates derived from the Casa Real Yatovar family chart supplied by the author. The chart counts years in AS, descending; Gregorian equals 1950 minus AS, an epoch confirmed exactly against [[List of Dripstanian emperors]] for Mantichev, Agamilos, and Veronique.
-- File was empty before this pass. All content is frontmatter; no body written.
-- Two names are in use for this person in the vault. [[Emperor Agamilos]] is the canonical article title per session decision; "Agamilos of Frajes" is retained as an alias and the bare links in [[Empress Veronique]] and [[Units of measurement]] were repointed here.
-- The regency council of 1738 to 1740 is recorded in [[List of Dripstanian emperors]]. No article exists for it.
+- The chart's dates for this generation run ten years earlier than [[List of Dripstanian emperors]] and were ruled unreliable in favour of the list. Any value here taken only from the chart is provisional.
+- Birth year 1756 is stated in [[Empress Veronique]] and is independent of the chart.
+- Reign and death year left blank. The chart gives a reign of 156 to 137 AS and a death at 137 AS, both in the generation whose chart dates were ruled unreliable.
+- The nature of the Tekur kingship under Dripstanian rule is not established anywhere in the vault. It stands in unexplained relation to the [[Tekur]] deportations carried out under [[Jartes I]] two generations later.
 
 %%

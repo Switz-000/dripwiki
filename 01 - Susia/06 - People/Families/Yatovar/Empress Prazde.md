@@ -1,14 +1,14 @@
 ---
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
-native_name: Agamilos
+native_name: Prazde
 lusitanized_name: 
 aliases:
-  - Agamilos of Frajes
-summary: Second emperor of the Dripstanian Empire, reigning from 1686 to 1738. His death without a surviving male heir produced the succession crisis that a regency council resolved in favour of his daughter Veronique.
+  - Queen Prazde of Poulônia
+summary: Daughter of Empress Yaneoli and claimant to the Dripstanian throne from 1815 to 1823, a reign disputed throughout by her brother Jartes I. Also Queen of Poulônia, and Queen of Zaphonia by marriage.
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
-sex: Male
+sex: Female
 ethnicity: West Gaiyanese
 religion: "[[Armotism]]"
 citizenship:
@@ -19,13 +19,13 @@ enhanced: false
 
 # ── BIRTH AND DEATH ─────────────────────────────────────────────────────────
 birth:
-  year: 1657
+  year: 1766
   city: 
   state: 
   country: "[[Dripstanian Empire]]"
 
 death:
-  year: 1738
+  year: 
   city: 
   state: 
   country: "[[Dripstanian Empire]]"
@@ -33,23 +33,23 @@ death:
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
 relations:
-  - person: "[[Kaichet of Frajes]]"
-    relation: Father
-    notes: 
-  - person: "[[Damhor of Frajes]]"
+  - person: "[[Empress Yaneoli]]"
     relation: Mother
     notes: 
-  - person: "[[Saint Emperor Mantichev]]"
+  - person: "[[Astere]]"
+    relation: Father
+    notes: 
+  - person: "[[Jartes I]]"
     relation: Brother
-    notes: Preceded him on the throne.
-  - person: "[[Prince Apreže]]"
-    relation: Son
-    notes: Eldest son and expected heir; died in a jousting accident at 25, days before his father.
-  - person: "[[Empress Veronique]]"
-    relation: Daughter
-    notes: Succeeded him after a two-year regency.
-  - person: "[[Infante Babal]]"
-    relation: Son
+    notes: Twin. Contested her claim to the throne throughout her reign.
+  - person: "[[Lekhertos]]"
+    relation: Spouse
+    notes: Prince Consort of Zafônia. Married 1790.
+  - person: "[[Prazde II of Poulônia]]"
+    relation: Child
+    notes: 
+  - person: "[[Jartes II]]"
+    relation: Nephew
     notes: 
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
@@ -61,9 +61,12 @@ education:
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
-  - title: Emperor
-    start_year: 1686
-    end_year: 1738
+  - title: Empress
+    start_year: 1815
+    end_year: 1823
+  - title: Queen of Poulônia
+    start_year: 
+    end_year: 
 
 military_service:
   - allegiance:
@@ -87,14 +90,22 @@ organizations:
 
 # ── OFFICES ─────────────────────────────────────────────────────────────────
 offices:
-  - title: Emperor of the Dripstanian Empire
+  - title: Empress of the Dripstanian Empire
     employer: 
-    start_year: 1686
-    end_year: 1738
+    start_year: 1815
+    end_year: 1823
     appointer: Hereditary succession
     parties:
       -
-    notes: Second emperor. Succeeded [[Saint Emperor Mantichev]]; the throne passed to [[Empress Veronique]] in 1740 after a regency council.
+    notes: Reign disputed throughout by [[Jartes I]]. See [[Dripstanian Civil War]].
+  - title: Queen of Poulônia
+    employer: 
+    start_year: 
+    end_year: 
+    appointer: 
+    parties:
+      -
+    notes: 
 
 # ── WRITTEN WORKS ───────────────────────────────────────────────────────────
 written_works:
@@ -119,10 +130,10 @@ criminal_charges:
 
 # ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
-  - item: [[Empress Veronique]]
-    notes: His succession crisis established that a woman could inherit the Dripstanian throne.
-  - item: Standardisation of the [[Units of measurement|treye]]
-    notes: Fixed in 1732 at the length of his thumb, 2.37 cm.
+  - item: [[Dripstanian Civil War]]
+    notes: Her contested reign, 1815 to 1823.
+  - item: Queen of Poulônia
+    notes: 
 
 awards:
   - title:
@@ -133,16 +144,18 @@ awards:
     notes:
 
 era:
-  - early-imperial
+  - high-imperial
   - imperial-era
+  - fraternal-war
 
 # ── META ────────────────────────────────────────────────────────────────────
 tags:
   - politics
   - history
+  - military
 
 meta:
-  stub: false
+  stub: true
   verified: false
   image: null
 ---
@@ -150,8 +163,11 @@ meta:
 %% FLAGS:
 
 - Dates derived from the Casa Real Yatovar family chart supplied by the author. The chart counts years in AS, descending; Gregorian equals 1950 minus AS, an epoch confirmed exactly against [[List of Dripstanian emperors]] for Mantichev, Agamilos, and Veronique.
-- File was empty before this pass. All content is frontmatter; no body written.
-- Two names are in use for this person in the vault. [[Emperor Agamilos]] is the canonical article title per session decision; "Agamilos of Frajes" is retained as an alias and the bare links in [[Empress Veronique]] and [[Units of measurement]] were repointed here.
-- The regency council of 1738 to 1740 is recorded in [[List of Dripstanian emperors]]. No article exists for it.
+- The chart's dates for this generation run ten years earlier than [[List of Dripstanian emperors]] and were ruled unreliable in favour of the list. Any value here taken only from the chart is provisional.
+- Death year left blank. The chart gives 130 AS, which converts to 1820, inside her own reign as the list dates it. The two cannot both be right.
+- The chart gives her two reigns: 145 to 137 AS and 157 to 130 AS. The first is read as the Dripstanian claim, dated here from [[List of Dripstanian emperors]] as 1815 to 1823; the second as the Poulônian crown, which the vault does not otherwise record.
+- [[Zaphonia]] states that she married the Emperor of Zaphonia and became queen of Zaphonia on his death. The chart instead shows her married to [[Lekhertos]], Prince Consort of Zafônia, son of the King and Queen of Zafônia, and titles her Queen of Poulônia. Poulônia and Zafônia are treated as distinct realms and the conflict is unresolved.
+- [[List of Confian leaders]] places Grawolja Tekurubićna under her from 1797 to 1814, which falls inside [[Empress Yaneoli]]'s reign under any dating.
+- The chart makes her twin to [[Jartes I]], both born 184 AS. [[Jartes II]] describes her as his grandmother; the chart makes her his aunt, and the chart was ruled correct this session.
 
 %%

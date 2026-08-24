@@ -1,11 +1,11 @@
 ---
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
-native_name: Agamilos
+native_name: Jartes
 lusitanized_name: 
 aliases:
-  - Agamilos of Frajes
-summary: Second emperor of the Dripstanian Empire, reigning from 1686 to 1738. His death without a surviving male heir produced the succession crisis that a regency council resolved in favour of his daughter Veronique.
+  - 
+summary: Fifth emperor of the Dripstanian Empire. He claimed the throne from his mother's death in 1815 against his twin sister Prazde and held it uncontested from 1823 until his death in 1837. His reign carried out the deportation of the Tekur people and four major foreign conquests.
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: Male
@@ -19,13 +19,13 @@ enhanced: false
 
 # ── BIRTH AND DEATH ─────────────────────────────────────────────────────────
 birth:
-  year: 1657
+  year: 1766
   city: 
   state: 
   country: "[[Dripstanian Empire]]"
 
 death:
-  year: 1738
+  year: 1837
   city: 
   state: 
   country: "[[Dripstanian Empire]]"
@@ -33,24 +33,18 @@ death:
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
 relations:
-  - person: "[[Kaichet of Frajes]]"
-    relation: Father
-    notes: 
-  - person: "[[Damhor of Frajes]]"
+  - person: "[[Empress Yaneoli]]"
     relation: Mother
     notes: 
-  - person: "[[Saint Emperor Mantichev]]"
-    relation: Brother
-    notes: Preceded him on the throne.
-  - person: "[[Prince Apreže]]"
-    relation: Son
-    notes: Eldest son and expected heir; died in a jousting accident at 25, days before his father.
-  - person: "[[Empress Veronique]]"
-    relation: Daughter
-    notes: Succeeded him after a two-year regency.
-  - person: "[[Infante Babal]]"
-    relation: Son
+  - person: "[[Astere]]"
+    relation: Father
     notes: 
+  - person: "[[Empress Prazde]]"
+    relation: Sister
+    notes: Twin. Held the throne against his claim from 1815 to 1823.
+  - person: "[[Jartes II]]"
+    relation: Son
+    notes: Succeeded him in 1837. Distant and cold relationship.
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
@@ -62,8 +56,8 @@ education:
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
   - title: Emperor
-    start_year: 1686
-    end_year: 1738
+    start_year: 1815
+    end_year: 1837
 
 military_service:
   - allegiance:
@@ -89,12 +83,12 @@ organizations:
 offices:
   - title: Emperor of the Dripstanian Empire
     employer: 
-    start_year: 1686
-    end_year: 1738
+    start_year: 1815
+    end_year: 1837
     appointer: Hereditary succession
     parties:
       -
-    notes: Second emperor. Succeeded [[Saint Emperor Mantichev]]; the throne passed to [[Empress Veronique]] in 1740 after a regency council.
+    notes: Fifth emperor. Claimed reign began in 1815; uncontested from 1823. Succeeded by [[Jartes II]].
 
 # ── WRITTEN WORKS ───────────────────────────────────────────────────────────
 written_works:
@@ -119,10 +113,12 @@ criminal_charges:
 
 # ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
-  - item: [[Empress Veronique]]
-    notes: His succession crisis established that a woman could inherit the Dripstanian throne.
-  - item: Standardisation of the [[Units of measurement|treye]]
-    notes: Fixed in 1732 at the length of his thumb, 2.37 cm.
+  - item: [[Dripstanian Civil War]]
+    notes: Contested his sister's reign from 1815 to 1823.
+  - item: Deportation of the [[Tekur]] people
+    notes: Ordered the forced march of approximately 350,000 Tekurs to the Tekur Territory in what is now [[New Celiolaj]]; roughly 60 per cent died.
+  - item: [[The Bakurian Campaign]]
+    notes: Begun 1826. One of four major conquests of his reign.
 
 awards:
   - title:
@@ -133,13 +129,17 @@ awards:
     notes:
 
 era:
-  - early-imperial
+  - high-imperial
   - imperial-era
+  - fraternal-war
 
 # ── META ────────────────────────────────────────────────────────────────────
 tags:
   - politics
+  - military
+  - colonial
   - history
+  - race
 
 meta:
   stub: false
@@ -150,8 +150,11 @@ meta:
 %% FLAGS:
 
 - Dates derived from the Casa Real Yatovar family chart supplied by the author. The chart counts years in AS, descending; Gregorian equals 1950 minus AS, an epoch confirmed exactly against [[List of Dripstanian emperors]] for Mantichev, Agamilos, and Veronique.
-- File was empty before this pass. All content is frontmatter; no body written.
-- Two names are in use for this person in the vault. [[Emperor Agamilos]] is the canonical article title per session decision; "Agamilos of Frajes" is retained as an alias and the bare links in [[Empress Veronique]] and [[Units of measurement]] were repointed here.
-- The regency council of 1738 to 1740 is recorded in [[List of Dripstanian emperors]]. No article exists for it.
+- The chart's dates for this generation run ten years earlier than [[List of Dripstanian emperors]] and were ruled unreliable in favour of the list. Any value here taken only from the chart is provisional.
+- Reign dates and the 1815 or 1823 ambiguity follow [[List of Dripstanian emperors]]. The chart gives 137 to 123 AS, converting to 1813 to 1827, and was ruled unreliable.
+- Death year set to 1837 from the accession of [[Jartes II]], stated in his article and in the list. The chart gives 123 AS, converting to 1827.
+- The Tekur deportation figures come from [[Cericeiro]] and the [[Susia]] country article. [[Empress Veronique]] separately records ethnic cleansing of the Konph under her own reign; the two events are distinct.
+- Kamino records him as the aggressor of [[The Bakurian Campaign]] and as widely hated there. Three further conquests are referenced as "four major conquests" without being named.
+- The chart makes him twin to [[Empress Prazde]], both born 184 AS. Their war is the [[fraternal-war]] era of 1815 to 1823 in [[YALM and Tags]].
 
 %%
