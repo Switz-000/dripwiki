@@ -88,11 +88,11 @@ Jartes took the throne and reigned until 1837. He dated his claim to 1815 rather
 - Stub. Written to hold the outline of the war so it is not lost, and to give the five articles that link [[Dripstanian Civil War]] a target.
 - DEFERRED OUTLINE, author-supplied and not yet written into the body. These four points are the remainder of the war and are recorded here verbatim in substance:
   - The [[Tekurubićni Patrol]] joined the rebels.
-  - Prazde abolished slavery.
+  - Prazde abolished slavery. Now written: [[Slavery in the Dripstanian Empire]].
   - The landowners of [[Troli]] revolted.
   - Jartes won.
 - The Troli landowners are the same conservative bloc that made [[Empress Yaneoli]] their guest of honour at [[Donetruže]] in 1787. Their revolt against her daughter follows the abolition in the outline order. Whether abolition is the cause is not stated.
-- Slavery in the Dripstanian Empire is established nowhere in the vault. Prazde's abolition of it is the only reference, and it implies an institution with no article, no extent, and no account of who was enslaved.
+- RESOLVED: [[Slavery in the Dripstanian Empire]] was written this session. It was a regional institution concentrated in [[Troli]], worked principally by [[Zaphonia|Zaphonians]] taken in [[Cericeiro]] raids before the 1790 vassalage. The abolition instrument and its date within the war remain unestablished.
 - Dates converted at the established epoch, Gregorian equals 1950 minus AS. 135 AS is 1815 and 127 AS is 1823, both confirmed against [[List of Dripstanian emperors]] and against the fraternal-war era in [[YALM and Tags]].
 - The coronation is dated 15 chestendo 135 AS and Colin's declaration 27 semendo in the source. The Dripstanian calendar has no article and its months are unestablished, so both are recorded here as 1815.
 - Colin's insult is quoted as given. The Portuguese is "farsante fodedora de arenito".
