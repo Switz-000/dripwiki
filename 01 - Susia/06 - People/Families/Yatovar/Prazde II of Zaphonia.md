@@ -1,57 +1,68 @@
 ---
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
-native_name: 
-lusitanized_name: "[[Yavna Raroska]]"
+native_name: Prazde
+lusitanized_name: 
 aliases:
-  -
-summary: 
+  - Prazde II
+summary: Child of Empress Prazde and Lekhertos of Zaphonia, and heir to the Zaphonian line through the Yatovar marriage.
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: Female
-ethnicity: West Gaiyanese
-religion: "[[Reformed Armotism]]"
+ethnicity: 
+religion: 
 citizenship:
-  - "[[Susia|Susian]]"
+  - "[[Zaphonia|Zaphonian]]"
+  - "[[Dripstanian Empire|Dripstanian]]"
 nationality:
-  - "[[Susia|Susian]]"
+  - "[[Zaphonia|Zaphonian]]"
+  - "[[Dripstanian Empire|Dripstanian]]"
 enhanced: false
 
-# ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
+# ── BIRTH AND DEATH ─────────────────────────────────────────────────────────
 birth:
-  year: 1968
-  city: "[[Arkaime]]"
-  state: "[[Dripia]]"
-  country: "[[Susia]]"
+  year: 
+  city: 
+  state: 
+  country: 
 
 death:
-  year: 2037
-  city: "[[Neoveli]]"
-  state: "[[Dripia]]"
-  country: "[[Susia]]"
-  cause: Natural causes
+  year: 
+  city: 
+  state: 
+  country: 
+  cause: 
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
 relations:
-  - person: 
-    relation: 
+  - person: "[[Empress Prazde]]"
+    relation: Mother
+    notes: 
+  - person: "[[Lekhertos]]"
+    relation: Father
+    notes: 
+  - person: "[[Empress Yaneoli]]"
+    relation: Grandmother
+    notes: 
+  - person: "[[Astere]]"
+    relation: Grandfather
+    notes: 
+  - person: "[[Jartes I]]"
+    relation: Uncle
     notes: 
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree: Political Science
-    institution: "[[University of New Kentu]]"
-    year: 1992
+  - degree: 
+    institution: 
+    year: 
   - 
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
-  - title: Academic
-    start_year:
-    end_year:
-  - title: Researcher
-    start_year:
-    end_year:
+  - title: 
+    start_year: 
+    end_year: 
 
 military_service:
   - allegiance:
@@ -71,7 +82,7 @@ parties:                                        # partidos que ela ja pertenceu
   -
 
 organizations:
-  -
+  - "[[Zaphonia]]"
 
 # ── OFFICES ─────────────────────────────────────────────────────────────────
 offices:
@@ -107,8 +118,8 @@ criminal_charges:
 
 # ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
-  - item: "[[Kolkov Interview 2009]]"
-    notes:
+  - item: 
+    notes: 
 
 awards:
   - title:
@@ -119,14 +130,13 @@ awards:
     notes:
 
 era:
-  - post-war
-  - new-age
-  - global-cold-war
+  - high-imperial
+  - imperial-era
 
 # ── META ────────────────────────────────────────────────────────────────────
 tags:
-  - philosophy
   - politics
+  - history
 
 meta:
   stub: true
@@ -134,4 +144,12 @@ meta:
   image: null
 ---
 
+%% FLAGS:
 
+- Recorded from the Casa Real Yatovar family chart supplied by the author. Gregorian equals 1950 minus AS, an epoch confirmed exactly against [[List of Dripstanian emperors]] for Mantichev, Agamilos, and Veronique.
+- Birth and death years left blank. The chart gives 170 to 143 AS, converting to 1780 and 1807, but 1780 falls ten years before the chart's own date for the parents' marriage. The birth year cannot be used until that is resolved.
+- INFERENCE: sex. Female is taken from the name, shared with the mother, and from the chart giving no distinguishing title. No vault source establishes it.
+- Whether this person ever held the Zaphonian throne is not established. The name form "Prazde II" implies a regnal numeral but the chart records no reign.
+- Regnal name follows the session decision that the chart's Poulônia is a superseded name for [[Zaphonia]].
+
+%%

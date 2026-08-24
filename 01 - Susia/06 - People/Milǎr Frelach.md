@@ -8,7 +8,7 @@ aliases:
 summary: 
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
-sex: male
+sex: Male
 ethnicity: 
 religion: 
 citizenship:
