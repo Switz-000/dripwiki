@@ -81,7 +81,7 @@ Governor-General of the Land of Confia
 |  2  |       [[Jagan Sariol]]        |    1795     |                       |           -            |       |         Dismissal         |
 |  3  |     [[Lajala Kasteewina]]     | 1795 - 1796 |                       |           -            |       |         Dismisal          |
 |  4  | [[Jagan Mantišew Peskilonni]] |    1797     |                       |           -            |       |         Dismissal         |
-|  5  |   [[Grawolja Tekurubićna]]    | 1797 - 1814 |  [[Empress Prazde]]   | [[Tekurubićni Patrol]] |       |        Resignation        |
+|  5  |   [[Grawolja Tekurubićna]]    | 1797 - 1814 |  [[Empress Yaneoli]]  | [[Tekurubićni Patrol]] |       |        Resignation        |
 | ... |                               |             |                       |                        |       |                           |
 |  9  |       [[Jagan Lostan]]        | 1845 - 1858 |                       |                        |       |        Resignation        |
 ## See also
