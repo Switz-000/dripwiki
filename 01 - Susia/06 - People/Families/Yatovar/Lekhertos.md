@@ -4,8 +4,8 @@ type: person
 native_name: Lekhertos
 lusitanized_name: 
 aliases:
-  - Emperor of Zaphonia
-summary: Emperor of Zaphonia and husband of Empress Prazde. He agreed to Zaphonian vassalage under the Dripstanian Empire as part of the marriage, and on his death Prazde succeeded to his throne.
+  - Prince Consort of Zaphonia
+summary: Heir to the Zaphonian throne and husband of Empress Prazde, married in 1790 to seal Zaphonia's vassalage to the Dripstanian Empire. He was poisoned in 1793 alongside his mother in an attempt on Prazde's life, in the sequence known as the Tragedy of Takhesire.
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: Male
@@ -25,20 +25,20 @@ birth:
   country: 
 
 death:
-  year: 
+  year: 1793
   city: 
   state: 
-  country: 
-  cause: 
+  country: "[[Zaphonia]]"
+  cause: Poisoning
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
 relations:
   - person: "[[Mawesi Khoseri]]"
     relation: Father
-    notes: King of Zaphonia.
+    notes: Emperor of Zaphonia. Agreed to Dripstanian vassalage in 1790 and took his own life in 1793.
   - person: "[[Tedeli Khoseri]]"
     relation: Mother
-    notes: Queen of Zaphonia. Married Mawesi in 1765.
+    notes: Poisoned in 1793 alongside her son.
   - person: "[[Empress Prazde]]"
     relation: Spouse
     notes: Married 1790. She succeeded to the Zaphonian throne on his death.
@@ -55,9 +55,9 @@ education:
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
-  - title: Emperor of Zaphonia
+  - title: Heir to the Zaphonian throne
     start_year: 
-    end_year: 
+    end_year: 1793
 
 military_service:
   - allegiance:
@@ -114,7 +114,7 @@ criminal_charges:
 # ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
   - item: Zaphonian vassalage under the [[Dripstanian Empire]]
-    notes: Agreed as part of his marriage to Prazde.
+    notes: Sealed by his marriage to Prazde in 1790. The terms were agreed by his father.
   - item: [[Empress Prazde]]
     notes: His death gave her the Zaphonian crown.
 
@@ -145,9 +145,10 @@ meta:
 %% FLAGS:
 
 - Recorded from the Casa Real Yatovar family chart supplied by the author. Gregorian equals 1950 minus AS, an epoch confirmed exactly against [[List of Dripstanian emperors]] for Mantichev, Agamilos, and Veronique.
-- OPEN: title. [[Zaphonia]] calls him the Emperor of Zaphonia; the chart titles him Prince Consort of Zafônia and makes him the son of the reigning royal couple. Emperor is followed here, because a consort would have had no throne to leave her. Zafônia is the chart's spelling of Zaphonia.
-- Death year left blank. The chart gives 157 AS, which converts to 1793, but falls in the generation whose chart dates were ruled ten years early against [[List of Dripstanian emperors]]. The year itself is corroborated as the year [[Empress Prazde]] took the Zaphonian crown; only its Gregorian value is uncertain.
-- The chart places his death and both of his parents' deaths in the same year, 157 AS. The same pattern appears in the Frajes generation. Whether this records a single event or is an artefact of the chart is unestablished.
+- RESOLVED, reversing an earlier ruling: he was NOT the Emperor of Zaphonia. Author-supplied material establishes that his father [[Mawesi Khoseri]] was the reigning emperor who agreed to vassalage in 1790, and that Lekhertos was the heir who married Prazde to seal it. The family chart's "Prince Consort of Zafônia" was correct and the earlier ruling in favour of the [[Zaphonia]] article was wrong.
+- CORRECTION NEEDED in [[Zaphonia]]: that article reads "The Emperor of Zaphonia agreed to become a vassal of the Dripstanian Empire, marrying princess Prazde. After his death, Prazde became queen of Zaphonia." It conflates father and son. Mawesi agreed to the vassalage; Lekhertos made the marriage; the crown reached Prazde through Mawesi's suicide, not through her husband's death alone.
+- RESOLVED: death year 1793, from 157 AS at the established epoch. The chart's dates for this generation are sound; the errors were confined to the two reign end-years, 145 for 135 and 137 for 127.
+- RESOLVED: the three Khoseri deaths in a single year are not an artefact of the chart. They are the Tragedy of Takhesire: Lekhertos and [[Tedeli Khoseri]] poisoned by conspirators targeting Prazde, and [[Mawesi Khoseri]] a suicide a week later. The same reasoning no longer supports treating the shared Frajes death year as a placeholder.
 - CONTRADICTION, unresolved: the chart dates his marriage to Prazde at 160 AS, 1790, and the birth of [[Prazde II of Zaphonia]] at 170 AS, 1780, ten years before the marriage.
 - Ethnicity and religion left blank. He is Zaphonian and no vault article establishes either for that people.
 - Era values are the Susian imperial vocabulary, used because Zaphonia was a Dripstanian vassal in this period. [[YALM and Tags]] defines no Zaphonian era set.
