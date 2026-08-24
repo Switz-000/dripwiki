@@ -147,7 +147,8 @@ meta:
 %% FLAGS:
 
 - Recorded from the Casa Real Yatovar family chart supplied by the author. Gregorian equals 1950 minus AS, an epoch confirmed exactly against [[List of Dripstanian emperors]] for Mantichev, Agamilos, and Veronique.
-- Birth and death years left blank. The chart gives 170 to 143 AS, converting to 1780 and 1807, but 1780 falls ten years before the chart's own date for the parents' marriage. The birth year cannot be used until that is resolved.
+- RESOLVED: born 1800. The chart's 170 AS is a digit error for 150 AS, ruled this session, the same error class as 145 for 135 and 137 for 127 elsewhere in this generation. The corrected year falls ten years after the parents' 1790 marriage rather than ten years before it.
+- Death year left blank. The chart gives 143 AS, which is 1807, seven years after the corrected birth. That value is presumed to carry the same error but no correction has been ruled.
 - INFERENCE: sex. Female is taken from the name, shared with the mother, and from the chart giving no distinguishing title. No vault source establishes it.
 - Whether this person ever held the Zaphonian throne is not established. The name form "Prazde II" implies a regnal numeral but the chart records no reign.
 - Regnal name follows the session decision that the chart's Poulônia is a superseded name for [[Zaphonia]].

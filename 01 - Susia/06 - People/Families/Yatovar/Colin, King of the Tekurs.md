@@ -25,7 +25,7 @@ birth:
   country: "[[Dripstanian Empire]]"
 
 death:
-  year: 
+  year: 1823
   city: 
   state: 
   country: "[[Dripstanian Empire]]"
@@ -60,7 +60,7 @@ education:
 occupation:
   - title: King of the Tekurs
     start_year: 1794
-    end_year: 
+    end_year: 1823
 
 military_service:
   - allegiance:
@@ -151,7 +151,7 @@ meta:
 - The chart's dates for this generation run ten years earlier than [[List of Dripstanian emperors]] and were ruled unreliable in favour of the list. Any value here taken only from the chart is provisional.
 - Birth year 1756 is stated in [[Empress Veronique]] and is independent of the chart.
 - RESOLVED: reign begins 1794, from 32 olódio 156 AS in author-supplied material, which matches the chart's 156 AS exactly at the established epoch.
-- OPEN: death year. The chart gives 137 AS, which is 1813, but author-supplied material has him acting in 1815, declaring for [[Jartes I]] at the outbreak of the [[Dripstanian Civil War]]. On the digit-error pattern confirmed in this generation, 137 is likely 127, which is 1823 and the end of the war. Left blank pending a ruling.
+- RESOLVED: death year 1823, ruled this session. The chart's 137 AS is a digit error for 127 AS, the same error class as 145 for 135 in the preceding reign. He died in the year the [[Dripstanian Civil War]] ended.
 - RESOLVED: the Tekur kingship is a Dripstanian vassalage created by [[Empress Yaneoli]] over the tribes of [[Lijssick]] and [[Baabren]], united as the [[Kingdom of Tekuria]]. The relation to the later deportations remains unexplained: Colin's kingdom declared for Jartes I, who on winning deported the population it governed.
 
 %%

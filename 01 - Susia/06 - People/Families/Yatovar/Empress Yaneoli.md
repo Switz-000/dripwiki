@@ -162,7 +162,7 @@ Yaneoli was born in 1752, the eldest child of [[Empress Veronique]] and [[Farane
 
 ## Accession
 
-Yaneoli was the clear heir at her mother's death and was crowned in 1787. Her accession was received more favourably by the conservative sectors of Dripstanian society than Veronique's had been, particularly among the landowners of [[Troli]], who invited her to attend the Zaphonoterfaj at Troli that year as guest of honour.
+Yaneoli was the clear heir at her mother's death and was crowned in 1787. Her accession was received more favourably by the conservative sectors of Dripstanian society than Veronique's had been, particularly among the landowners of [[Troli]], who invited her to attend the Zaphonoterfaj at [[Donetruže]] that year as guest of honour.
 
 ## Reign
 
@@ -224,6 +224,7 @@ The vassal arrangements she created outlasted her. Zaphonia remained under Drips
 - The chart's dates for this generation run ten years earlier than [[List of Dripstanian emperors]] and were ruled unreliable in favour of the list. Any value here taken only from the chart is provisional.
 - Birth year 1752 is stated in [[Empress Veronique]] and is independent of the chart.
 - RESOLVED: death year 1815, confirmed by author-supplied material giving her reign as 163 to 135 AS and her death at 32 petendo 135 AS, aged 63. At the established epoch 135 AS is 1815, which matches [[List of Dripstanian emperors]] exactly and is consistent with a birth in 1752. Cause of death is tuberculosis.
+- The Zaphonoterfaj is a Trolian observance named here for the first time. It has no article.
 - RESOLVED: the family chart's 145 AS for the end of her reign is a digit error for 135 AS, not an epoch discrepancy. The same error appears as 137 for 127 in the following reign. The epoch, Gregorian equals 1950 minus AS, holds without exception across all four reigns now recorded.
 
 %%
