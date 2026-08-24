@@ -7,11 +7,11 @@ aliases:
   - Chedji Jaroch
   - Chedji Jaroch Soites
   - Chediji J. Soites
-summary: 
+summary: Susian executive and second chief executive of the Soites Group, which he led from 1981 to 2031. A business associate whom Suizo Soites legally adopted as a brother, he expanded the company from discount retail into logistics, financial services, and data analytics.
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: Male
-ethnicity: West gaiyanese
+ethnicity: West Gaiyanese
 religion: "[[Reformed Armotism]]"
 citizenship:
   - "[[Dripstanian Empire|Dripstanian]]"
@@ -30,8 +30,8 @@ birth:
 
 death:
   year: 2034
-  city: [[Neoveli]]
-  state: [[Dripia]]
+  city: "[[Neoveli]]"
+  state: "[[Dripia]]"
   country: "[[Susia]]"
   cause: Natural causes
 
@@ -126,7 +126,13 @@ criminal_charges:
 # ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
   - item: "[[Soites Group]]"
-    notes:
+    notes: Chief executive from 1981 to 2031.
+  - item: "[[Sisra]]"
+    notes: Launched the private label brand in 1983.
+  - item: "[[Lizne]]"
+    notes: Acquired the messaging platform in 2022 for D$3 billion in cash and stock.
+  - item: Soites Group data analytics operation
+    notes: Built during his tenure on the conclusion that customer purchasing data held more value than product margins.
 
 awards:
   - title:
@@ -144,10 +150,13 @@ era:
 
 # ── META ────────────────────────────────────────────────────────────────────
 tags:
-  -
+  - corporate
+  - economy
+  - technology
+  - media
 
 meta:
-  stub: true
+  stub: false
   verified: false
   image: null
 ---
