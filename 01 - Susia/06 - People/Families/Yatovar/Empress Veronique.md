@@ -162,62 +162,87 @@ meta:
   image: null
 ---
 
+**Veronique** (1720–1787) was the third ruler of the [[Dripstanian Empire]], reigning from 1740 to 1787. Her accession followed a two-year regency convened to determine whether imperial succession law admitted a woman to the throne. Her reign established the [[Dripstanian Senate]], replaced the captaincy levy with a permanent army, and opened the colonization of the western territories that became [[Confia]].
 
+## Early Life
 
+Veronique was born in 1720 in [[Duolij]], the second child of [[Emperor Agamilos]]. She had two brothers, [[Prince Apreže|Apreže]] and [[Infante Babal|Babal]]. Apreže, the elder, was the expected heir throughout their father's later years.
 
-
-
-
-Veronique was the third Empress of the [[Dripstanian Empire]], reigning from 1740 to 1787. Daughter of [[Emperor Agamilos|Agamilos of Frajes]], she ascended to the throne under contested circumstances and became one of the most consequential rulers in imperial history — centralizing power, creating permanent imperial institutions, colonizing [[Confia]], and crushing internal opposition with ruthless efficiency. She is remembered as a paradox: a ruler who expanded rights for women and reformed governance while simultaneously unleashing ethnic cleansing on the [[Konph]] people.
+%% TODO: nothing of Veronique's upbringing, education, or position at court before 1738 is established. %%
 
 ## Accession
 
-Veronique's path to the throne was not straightforward. Her father [[Emperor Agamilos|Agamilos of Frajes]] had expected his eldest son Apreže to succeed him, but Apreže died in a jousting accident at 25, just days before his father. The ambiguity in succession law — whether a woman could rule — was debated by the Council of Governors, who ultimately allowed Veronique to ascend after a brief regency.
+Apreže died in a jousting accident at the age of 25, days before his father's death in 1738. Imperial succession law was ambiguous on whether a woman could inherit, and the [[Council of Governors]] convened to rule on the validity of Veronique's claim. A regency governed for two years. In 1740 the Council permitted her accession, and she was crowned in the same year.
 
-Her coronation was immediately challenged by the **Babalists** — the Armotist Association for the Coronation of Infante Babal — a reactionary group claiming Veronique's coronation was illegitimate and that her brother Babal was the rightful emperor.
+Her coronation was contested from the outset by the **[[Babalist Revolt|Babalists]]**, formally the Armotist Association for the Coronation of Infante Babal, an absolutist association that held the coronation illegitimate and her younger brother Babal the rightful emperor.
 
-## Reign (1740–1787)
+## Reign
 
-### Creation of the Dripstanian Senate
+### The Dripstanian Senate
 
-Aware that much of the population was apprehensive about a woman ruling, Veronique moved quickly to broaden her legitimacy. She reformed the Council of Governors into the **Dripstanian Senate**, giving it genuine legislative power for the first time. Each captaincy would be represented by nobles appointed both by the empress and by the governors, with 20-year term limits. The reform was widely popular, particularly among conservative sectors who preferred institutional checks to pure monarchical rule, and set the precedent for a strong executive balanced by a legislature that would shape Dripstanian governance for centuries.
+Veronique reformed the advisory Council of Governors into the [[Dripstanian Senate]], which held the power to draft and pass law. Alongside the governors, each captaincy was represented by two nobles appointed by the empress and four appointed by its governor, all serving terms capped at 20 years.
+
+The reform was received favourably across most of the population and particularly among conservative sectors. It established the arrangement of a strong executive checked by a legislature that governed the empire for the remainder of its existence.
 
 ### The Babalist Revolt
 
 > *Main article: [[Babalist Revolt]]*
 
-The Babalists, furious at the Senate reform — which they saw as an attack on the [[Armotism|Armotist]]-guided imperial structure — organized an armed revolt in 1750 to depose Veronique in favor of her brother Babal. Around 2,000 rebels seized [[Nessel]] and took the daughter of the Marquis of Nessel hostage.
+The Babalists treated the Senate reform as an attack on the imperial structure, which they held to have been ordained by the Spirit of [[Armotism|Armotos]]. In 1750 they raised an armed revolt to depose Veronique in favour of Babal. Around 2,000 rebels occupied [[Kloshijie]], in [[Nessel]], and took the daughter of the Marquis of Kloshijie hostage.
 
-Veronique's response was overwhelming. She recruited peasants from across the captaincies, assembling an army of over 50,000 men — unprecedented in scale on the continent — over eight months. When her forces entered Nessel, the rebels surrendered immediately upon seeing the army's size. Veronique nevertheless ordered her soldiers to shoot anyone wearing the Babalists' green hoods, killing 680 men on the first day. After a week-long hunt, 387 remaining captives were promised amnesty and resettlement on the ficticious island of [[Povebe]] and instructed to board a barge bound for the island.
+Veronique ordered the recruitment of peasants across the captaincies and assembled an army of more than 50,000 men, a force without precedent on the continent. The mobilization took eight months. The rebels laid down their arms when the army entered Kloshijie. Veronique ordered her soldiers to fire on anyone wearing the green hoods of the Babalists, and 680 men were killed on the first day. A week of searching the city produced 387 further captives, who were promised amnesty and land on the island of [[Povebe]] and directed onto a barge bound for it.
 
-When the barge was approximately 100 meters from the port of [[Duolij]], Veronique ordered cannons to fire incendiary rounds at it. The barge burned. Everyone aboard drowned or burned. The crowd cheered.
+Povebe did not exist. When the barge lay roughly 100 meters off the port of [[Duolij]], Veronique ordered the shore batteries to fire incendiary shot into it. None aboard survived. Accounts record the assembled crowd cheering as the barge burned.
 
-The episode transformed public perception of Veronique's rule. The brutality was not condemned — it was celebrated as proof of her competence. It paved the way for later gender equality reforms by demonstrating that a woman could govern without mercy.
+Dripstanian historiography credits the suppression with changing public assessment of Veronique's capacity to govern, and cites it as a precondition of the reforms extending rights to women that followed later in her reign.
 
-### Creation of the Dripstanian Army
+### The Army Structuring Act
 
-Recognizing the inefficiency of raising troops through captaincies and their vassals — as exposed during the Babalist Revolt's eight-month mobilization — Veronique abolished the old recruitment system and enacted the **Army Structuring Act**. This centralized the [[Sorzenko]] under imperial authority and created a permanent professional army. The decree also introduced civil examinations to identify talented officers, establishing meritocratic military promotion.
+> *Main article: [[Military Service in Susia]]*
 
-### Colonization of Confia (1746–1787)
+The eight months the Babalist mobilization had required exposed the limits of raising troops through the captaincies and their vassals. Veronique abolished the levy and enacted the **[[Army Structuring Act]]**, which centralized the local militias under imperial authority and established a permanent professional army. The act also introduced civil examinations for officer promotion, the first meritocratic element in Dripstanian military appointment.
+
+### Colonization of Confia
 
 > *Main article: [[Colonization of Confia]]*
 
-Veronique oversaw the formal colonization of the western territories that would become [[Confia]]. Large waves of Racpalian immigration from [[Gaiyan]] (1743–1751) had already created expanding settlements and slums. Veronique institutionalized this expansion through the **Rural Properties Act (1746)**, which gave Racpalian settlers priority in colonizing Konph land, and by creating the **General Government of the Lands of Confia (1786)** — a special administrative body headed by a Racpalian General Governor accountable directly to the monarch.
+Veronique enacted the **Rural Properties Act**, which gave Racpalian settlers priority over [[Konph]] land and drew the second wave of immigration from [[Gaiyan]]. Settlement concentrated in [[Legrinpija]], [[Imgospalje]], and [[Karlotopol'|Carlotopolis]], and the captaincy of Confia was created to administer the territory. Later in the reign the **General Government of the Lands of Confia** replaced it, headed by a Racpalian General Governor accountable directly to the monarch.
 
-The Konph people — the indigenous inhabitants of the region — resisted settlement. Veronique responded with the **[[Konph Territory Act]]**, authorizing the forced removal of Konphs to the [[Konph Territory]], the region that became [[Confia]]. The Konph Territory is distinct from the [[New Celiolaj|Tekur Territory]], to which [[Jartes I]] deported the [[Tekur]] two generations later. She then implemented a segregated road system, destroying traditional Konph roads to disrupt coordination between villages while building new roads Konphs were forbidden to use.
+The Konph resisted settlement. Veronique responded with the **[[Konph Territory Act]]**, which authorized the use of the army to remove Konphs from their homes into the [[Konph Territory]], the region that became Confia. The Konph Territory is a separate designation from the Tekur Territory, into which [[Jartes I]] deported the [[Tekur]] two generations later and which became [[New Celiolaj]].
 
-Near the end of her reign, former army officers formed the **Tekurubićni Patrol** — the Anti-Konph Ethno-National Defense Patrol — a paramilitary organization that pledged to destroy one Konph village for every act of road sabotage. Its operations were notoriously brutal, involving torture, murder, looting, and rape. Veronique neither officially sanctioned nor suppressed it.
+Conflict between Konph communities and Dripstanian settlements led Veronique to establish a segregated road system. Traditional Konph roads linking settlements were destroyed to impede coordination between them, and Dripstanian roads that Konphs were forbidden to travel were built in their place. Konph groups responded by organizing sabotage against the new roads.
+
+Toward the end of the reign, former army officers formed the [[Tekurubićni Patrol]], the Anti-Konph Ethno-National Defense Patrol, a paramilitary body recruited from criminals, escaped psychiatric patients, and ultranationalist adolescents. It undertook reprisals for the road sabotage, undertaking to destroy at least one Konph village for each act. The segregated roads left Konph villages unable to coordinate a defense, while the Dripstanian army remained occupied with organized Konph forces, and the Patrol was able to clear villages with little resistance. Its reprisals involved torture, killing, looting, and rape. Veronique neither authorized nor suppressed it.
 
 ## Personal Life
 
-Veronique married **Faranes the Feared**, grandson of Murilo the Glutton and heir to the captaincy of [[Sužielaj]], recorded in older sources under its former name of Sussulândia. They had four children: [[Empress Yaneoli|Yaneoli]] (1752), [[Colin, King of the Tekurs|Colin]] (1756), [[Princess Natesse|Natesse]] (1760), and [[Countess Valista of Postia|Valista]] (1778). Her eldest daughter Yaneoli succeeded her. Natesse married [[Prince Capraže]], who appears in some earlier accounts as a fifth child of Veronique.
+Veronique married [[Faranes the Feared]] in 1752, grandson of Murilo the Glutton and heir to the captaincy of [[Sužielaj]], recorded in older sources under its former name of Sussulândia. They had four children: [[Empress Yaneoli|Yaneoli]], born 1752, [[Colin, King of the Tekurs|Colin]], born 1756, [[Princess Natesse|Natesse]], born 1760, and [[Countess Valista of Postia|Valista]], born 1778. Natesse married [[Prince Capraže]], who appears in some earlier accounts as a fifth child of Veronique.
 
-Veronique died of a gastric ulcer at the age of 67 in 1787.
+Veronique died of a gastric ulcer in 1787, at the age of 67. Yaneoli succeeded her.
 
 ## Legacy
 
-Veronique is among the most consequential figures in Dripstanian history, and among the most difficult to assess cleanly. She created the Senate, the professional army, and the colonial administrative apparatus — institutions that defined the empire for the next two centuries. Her crushing of the Babalists legitimized female rule and opened the door to later gender equality reforms.
+The Senate, the professional army, and the colonial administration created under Veronique remained the structure of the empire until its dissolution in 1954. The Senate in particular set the precedent of a strong executive balanced by a legislature, which the [[Susian Senate]] inherited at the founding of the republic. Her accession established that imperial succession admitted women, and the reforms extending rights to women that followed are dated from it.
 
-She also presided over the ethnic cleansing of the Konph people, the forced displacement of hundreds of thousands, and the creation of the colonial infrastructure that would fuel Dripstanian expansion for generations. The Tekurubićni Patrol — which she neither ordered nor stopped — wiped villages off the map under her watch.
+The same reign carried out the removal of the Konph from their land, the road system that broke the connections between their settlements, and the colonial apparatus that governed Confia for the following century and a half. The Konph did not survive as a people. The [[Tekurubićni Patrol]] operated through the final years of the reign without imperial sanction or restraint.
 
-In contemporary [[Susia]], Veronique occupies an uncomfortable place in the historical memory: too important to ignore, too brutal to celebrate uncritically.
+## See also
+
+- [[Emperor Agamilos]]
+- [[Empress Yaneoli]]
+- [[Faranes the Feared]]
+- [[Infante Babal]]
+- [[Babalist Revolt]]
+- [[Dripstanian Senate]]
+- [[Army Structuring Act]]
+- [[Military Service in Susia]]
+- [[Colonization of Confia]]
+- [[Konph]]
+- [[Konph Territory Act]]
+- [[Tekurubićni Patrol]]
+- [[Povebe]]
+- [[Confia]]
+- [[Dripstanian Empire]]
+- [[List of Dripstanian emperors]]
+
+

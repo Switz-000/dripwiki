@@ -5,7 +5,7 @@ native_name: Colin
 lusitanized_name: 
 aliases:
   - Colin
-summary: Son of Empress Veronique and King of the Tekurs, a title held under Dripstanian suzerainty. Brother of Empress Yaneoli.
+summary: Son of Empress Veronique and King of the Tekurs from 1794, ruling the western Tekur tribes of Lijssick and Baabren as the vassal Kingdom of Tekuria. He declared for his nephew Jartes at the outbreak of the Dripstanian Civil War in 1815.
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: Male
@@ -59,7 +59,7 @@ education:
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
   - title: King of the Tekurs
-    start_year: 
+    start_year: 1794
     end_year: 
 
 military_service:
@@ -116,8 +116,10 @@ criminal_charges:
 
 # ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
-  - item: King of the [[Tekur|Tekurs]]
-    notes: 
+  - item: "[[Kingdom of Tekuria]]"
+    notes: Crowned its king by [[Empress Yaneoli]] in 1794, uniting [[Lijssick]] and [[Baabren]] as a Dripstanian vassal.
+  - item: "[[Dripstanian Civil War]]"
+    notes: Declared [[Jartes I]] the rightful emperor in 1815.
 
 awards:
   - title:
@@ -148,7 +150,8 @@ meta:
 - Dates derived from the Casa Real Yatovar family chart supplied by the author. The chart counts years in AS, descending; Gregorian equals 1950 minus AS, an epoch confirmed exactly against [[List of Dripstanian emperors]] for Mantichev, Agamilos, and Veronique.
 - The chart's dates for this generation run ten years earlier than [[List of Dripstanian emperors]] and were ruled unreliable in favour of the list. Any value here taken only from the chart is provisional.
 - Birth year 1756 is stated in [[Empress Veronique]] and is independent of the chart.
-- Reign and death year left blank. The chart gives a reign of 156 to 137 AS and a death at 137 AS, both in the generation whose chart dates were ruled unreliable.
-- The nature of the Tekur kingship under Dripstanian rule is not established anywhere in the vault. It stands in unexplained relation to the [[Tekur]] deportations carried out under [[Jartes I]] two generations later.
+- RESOLVED: reign begins 1794, from 32 olódio 156 AS in author-supplied material, which matches the chart's 156 AS exactly at the established epoch.
+- OPEN: death year. The chart gives 137 AS, which is 1813, but author-supplied material has him acting in 1815, declaring for [[Jartes I]] at the outbreak of the [[Dripstanian Civil War]]. On the digit-error pattern confirmed in this generation, 137 is likely 127, which is 1823 and the end of the war. Left blank pending a ruling.
+- RESOLVED: the Tekur kingship is a Dripstanian vassalage created by [[Empress Yaneoli]] over the tribes of [[Lijssick]] and [[Baabren]], united as the [[Kingdom of Tekuria]]. The relation to the later deportations remains unexplained: Colin's kingdom declared for Jartes I, who on winning deported the population it governed.
 
 %%
