@@ -4,17 +4,17 @@ type: person
 native_name: Jartes II
 lusitanized_name: 
 aliases:
-  -
-summary: 
+  - Jartes the Architect
+summary: Fifth emperor of the Dripstanian Empire, reigning from 1837 to 1882. He disarmed the population, suppressed the Liberal Revolts, and executed the republican leadership, and is remembered in Susia as the paradigmatic tyrant. His reign also electrified the empire's major cities, opened Incria to imperial extraction, and built St. Mantichev City.
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
-sex: 
-ethnicity: 
-religion: 
+sex: Male
+ethnicity: West Gaiyanese
+religion: "[[Armotism]]"
 citizenship:
-  - Dripstanian
+  - "[[Dripstanian Empire|Dripstanian]]"
 nationality:
-  - Dripstanian
+  - "[[Dripstanian Empire|Dripstanian]]"
 enhanced: false
 
 # ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
@@ -28,38 +28,52 @@ death:
   year: 1882
   city: 
   state: 
-  country: 
+  country: "[[Dripstanian Empire]]"
   cause: Unknown
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
 spouse: 
 children_count:         # use um NÚMERO
 
+relations:
+  - person: "[[Jartes I]]"
+    relation: Father
+    notes: Distant and cold relationship.
+  - person: "[[Empress Yaneoli]]"
+    relation: Grandmother
+    notes: Mother of Jartes I.
+  - person: "[[Astere]]"
+    relation: Grandfather
+    notes: King Consort. Father of Jartes I.
+  - person: "[[Empress Prazde]]"
+    relation: Aunt
+    notes: Sister of Jartes I; contested her brother's claim throughout her reign.
+
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree:
-    institution:
-    year:
+  - degree: 
+    institution: 
+    year: 
   - 
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
   - title: Emperor
-    start_year:
-    end_year:
+    start_year: 1837
+    end_year: 1882
   - title: Military Officer
-    start_year:
-    end_year:
+    start_year: 
+    end_year: 1837
 
 military_service:
   - allegiance: "[[Dripstanian Empire]]"
-    branch: 
+    branch: Imperial Army
     rank: 
-    start_year: 
-    end_year: 
+    start_year:
+    end_year:
     conflicts:
-      -
-    notes: null
+      - "[[The Bakurian Campaign]]"
+    notes: Served during his father's reign, including in the Kaminoan campaign.
 
 political_alignment:
   -
@@ -73,14 +87,14 @@ organizations:
 
 # ── OFFICES ─────────────────────────────────────────────────────────────────
 offices:
-  - title:
-    employer:
-    start_year:
-    end_year:
-    appointer:
+  - title: Emperor of the Dripstanian Empire
+    employer: 
+    start_year: 1837
+    end_year: 1882
+    appointer: Hereditary succession
     parties:
       -
-    notes:
+    notes: Fifth emperor. Succeeded [[Jartes I]]; succeeded by [[Soliman]].
 
 # ── WRITTEN WORKS ───────────────────────────────────────────────────────────
 written_works:
@@ -106,13 +120,13 @@ criminal_charges:
 # ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
   - item: "[[Liberal Revolts]]"
-    notes:
+    notes: Suppressed the revolt and executed the republican leadership in 1844.
   - item: Disarmament of the population
-    notes:
+    notes: Banned the Sorzenkos and restricted civilian firearm ownership.
   - item: Colonization of Incria
-    notes:
+    notes: 
   - item: Construction of Saint Mantichev City
-    notes:
+    notes: Built for the empire's 200th anniversary in 1874; now [[Soiteslaj]].
 
 awards:
   - title:
@@ -123,14 +137,21 @@ awards:
     notes:
 
 era:
-  -
+  - imperial-era
+  - high-imperial
+  - late-imperial
+  - liberal-revolts
 
 # ── META ────────────────────────────────────────────────────────────────────
 tags:
-  -
+  - politics
+  - military
+  - colonial
+  - history
+  - infrastructure
 
 meta:
-  stub: true
+  stub: false
   verified: false
   image: null
 ---
