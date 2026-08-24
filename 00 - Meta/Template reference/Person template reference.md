@@ -59,6 +59,69 @@ you know the deal. use wiki links, single values. both represent the city / coun
 
 ---
 
+### Family
+
+**`spouse`** — wikilink to the primary consort or partner. Single value. (Optional)
+
+**`children_count`** — integer. Leave blank if unknown; do not write `None`. (Optional)
+
+**`relations`** — list of typed kinship edges to other person articles. This is
+the field that makes family structure queryable; `spouse` and `children_count`
+are display conveniences and do not replace it. Each entry has three subfields:
+
+- `person` — wikilink to the related person's article. Always link, even where
+  the target does not yet exist.
+- `relation` — the related person's role **relative to the subject of this
+  article**, from the controlled vocabulary below. Record only the closest
+  degree that holds: if someone is both a cousin and a brother-in-law, record
+  the blood tie.
+- `notes` — optional. Use for the legal or contested character of the tie:
+  disputed legitimacy, adoption instruments, degrees a source disagrees on.
+
+Record parents, siblings, spouses, and children directly. Record grandparents,
+aunts, uncles, cousins, and further degrees only where the person matters to
+the subject's article. Do not reconstruct an entire dynasty on every member;
+each article records its own edges and the graph assembles itself.
+
+Controlled vocabulary:
+
+```
+relation: Father
+relation: Mother
+relation: Spouse
+relation: Son
+relation: Daughter
+relation: Brother
+relation: Sister
+relation: Half-brother
+relation: Half-sister
+relation: Grandfather
+relation: Grandmother
+relation: Grandson
+relation: Granddaughter
+relation: Uncle
+relation: Aunt
+relation: Nephew
+relation: Niece
+relation: Cousin
+relation: Adoptive father
+relation: Adoptive mother
+relation: Adoptive brother
+relation: Adoptive sister
+relation: Adoptive son
+relation: Adoptive daughter
+relation: Ward
+relation: Guardian
+```
+
+Legitimacy and stillbirth are not relation values. Record the relation and put
+the qualification in `notes`: `relation: Son` with `notes: Illegitimate.`, or
+`relation: Brother` with `notes: Stillborn.`
+
+(Recommended for members of a named family or dynasty. Optional otherwise.)
+
+---
+
 ### Demographics
 
 **`sex`** — `Male` or `Female`. Plain text.  (Required).
