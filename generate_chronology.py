@@ -23,10 +23,22 @@ SKIP_DIRS = {".git", ".obsidian", "_fileClasses", "_templates", "node_modules"}
 # ── Helpers ───────────────────────────────────────────────────────────────────
 
 def _wl(value) -> str:
-    """Return value as-is if it's already a wikilink string, else wrap it."""
+    """Return value as-is if it's already a wikilink string, else wrap it.
+
+    Lists are rendered as a readable series rather than stringified, which
+    previously produced output like [[['[[A]]', '[[B]]']]] for multi-value
+    fields such as founded_by.
+    """
     if not value:
         return "?"
-    s = str(value)
+    if isinstance(value, (list, tuple, set)):
+        parts = [_wl(v) for v in value if v]
+        if not parts:
+            return "?"
+        if len(parts) == 1:
+            return parts[0]
+        return ", ".join(parts[:-1]) + " and " + parts[-1]
+    s = str(value).strip()
     if s.startswith("[["):
         return s
     return f"[[{s}]]"

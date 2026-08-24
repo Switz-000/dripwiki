@@ -1,57 +1,54 @@
 ---
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
-native_name: 
-lusitanized_name: "[[Yavna Raroska]]"
+native_name: Capraže
+lusitanized_name: 
 aliases:
-  -
-summary: 
+  - Capraze
+summary: Husband of Princess Natesse, daughter of Empress Veronique.
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
-sex: Female
+sex: Male
 ethnicity: West Gaiyanese
-religion: "[[Reformed Armotism]]"
+religion: "[[Armotism]]"
 citizenship:
-  - "[[Susia|Susian]]"
+  - "[[Dripstanian Empire|Dripstanian]]"
 nationality:
-  - "[[Susia|Susian]]"
+  - "[[Dripstanian Empire|Dripstanian]]"
 enhanced: false
 
-# ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
+# ── BIRTH AND DEATH ─────────────────────────────────────────────────────────
 birth:
-  year: 1968
-  city: "[[Arkaime]]"
-  state: "[[Dripia]]"
-  country: "[[Susia]]"
+  year: 
+  city: 
+  state: 
+  country: 
 
 death:
-  year: 2037
-  city: "[[Neoveli]]"
-  state: "[[Dripia]]"
-  country: "[[Susia]]"
-  cause: Natural causes
+  year: 
+  city: 
+  state: 
+  country: 
+  cause: 
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
 relations:
-  - person: 
-    relation: 
+  - person: "[[Princess Natesse]]"
+    relation: Spouse
     notes: 
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree: Political Science
-    institution: "[[University of New Kentu]]"
-    year: 1992
+  - degree: 
+    institution: 
+    year: 
   - 
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
-  - title: Academic
-    start_year:
-    end_year:
-  - title: Researcher
-    start_year:
-    end_year:
+  - title: 
+    start_year: 
+    end_year: 
 
 military_service:
   - allegiance:
@@ -71,7 +68,7 @@ parties:                                        # partidos que ela ja pertenceu
   -
 
 organizations:
-  -
+  - "[[Dripstanian Empire]]"
 
 # ── OFFICES ─────────────────────────────────────────────────────────────────
 offices:
@@ -107,8 +104,8 @@ criminal_charges:
 
 # ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
-  - item: "[[Kolkov Interview 2009]]"
-    notes:
+  - item: Marriage into the Yatovar line
+    notes: 
 
 awards:
   - title:
@@ -119,14 +116,13 @@ awards:
     notes:
 
 era:
-  - post-war
-  - new-age
-  - global-cold-war
+  - high-imperial
+  - imperial-era
 
 # ── META ────────────────────────────────────────────────────────────────────
 tags:
-  - philosophy
   - politics
+  - history
 
 meta:
   stub: true
@@ -134,4 +130,11 @@ meta:
   image: null
 ---
 
+%% FLAGS:
 
+- Recorded from the Casa Real Yatovar family chart supplied by the author. Gregorian equals 1950 minus AS, an epoch confirmed exactly against [[List of Dripstanian emperors]] for Mantichev, Agamilos, and Veronique.
+- The chart gives him no dates and no parentage.
+- [[Empress Veronique]] previously listed Capraze among her five children. The chart shows him as Natesse's husband, and that reading was adopted this session, reducing Veronique's recorded children from five to four. The spelling there was "Capraze"; "Capraže" follows the chart and is retained as an alias.
+- The title Prince is taken from the chart's "Príncipe Capraže". Whether it is Dripstanian or foreign is unestablished.
+
+%%

@@ -8,7 +8,7 @@ aliases:
 summary: Susian philosopher, journalist, and war correspondent whose essay "War, Pestilence and Famine" and book "After Scarcity" established the framework for post-scarcity cosmopolitan thought in Susia. His work became the ethical foundation of Troli Ustaras and a primary moral source for the Modernist Alliance's utopian faction.
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
-sex: male
+sex: Male
 ethnicity: West Gaiyanese
 religion: Irreligious
 citizenship:

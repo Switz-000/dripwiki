@@ -1,9 +1,388 @@
 {
-	"nodes":[
-		{"id":"8b137d148092fb11","x":-380,"y":-300,"width":400,"height":400,"type":"file","file":"-Repo/01 - Susia/06 - People/Families/Yatovar/Empress Veronique.md"},
-		{"id":"2d85ddee54e77a86","x":600,"y":-300,"width":400,"height":400,"type":"file","file":"-Repo/01 - Susia/06 - People/Families/Faranes the Feared.md"}
+	"nodes": [
+		{
+			"id": "51176e74e59480ff",
+			"x": -330,
+			"y": 0,
+			"width": 300,
+			"height": 110,
+			"type": "file",
+			"file": "01 - Susia/06 - People/Families/Yatovar/Kaichet of Frajes.md"
+		},
+		{
+			"id": "cb37bfb5b1a8653b",
+			"x": 30,
+			"y": 0,
+			"width": 300,
+			"height": 110,
+			"type": "file",
+			"file": "01 - Susia/06 - People/Families/Yatovar/Damhor of Frajes.md"
+		},
+		{
+			"id": "361853475b3d37f1",
+			"x": -330,
+			"y": 220,
+			"width": 300,
+			"height": 110,
+			"type": "file",
+			"file": "01 - Susia/06 - People/Families/Yatovar/Saint Emperor Mantichev.md"
+		},
+		{
+			"id": "00b4d2aeee82cf53",
+			"x": 30,
+			"y": 220,
+			"width": 300,
+			"height": 110,
+			"type": "file",
+			"file": "01 - Susia/06 - People/Families/Yatovar/Emperor Agamilos.md"
+		},
+		{
+			"id": "f1b740392472edfe",
+			"x": -690,
+			"y": 440,
+			"width": 300,
+			"height": 110,
+			"type": "file",
+			"file": "01 - Susia/06 - People/Families/Yatovar/Prince Apreže.md"
+		},
+		{
+			"id": "dcb4060a1952f6d5",
+			"x": -330,
+			"y": 440,
+			"width": 300,
+			"height": 110,
+			"type": "file",
+			"file": "01 - Susia/06 - People/Families/Yatovar/Empress Veronique.md"
+		},
+		{
+			"id": "4a9724be52d5c004",
+			"x": 30,
+			"y": 440,
+			"width": 300,
+			"height": 110,
+			"type": "file",
+			"file": "01 - Susia/06 - People/Families/Faranes the Feared.md"
+		},
+		{
+			"id": "a4bc74da5e7ac48e",
+			"x": 390,
+			"y": 440,
+			"width": 300,
+			"height": 110,
+			"type": "file",
+			"file": "01 - Susia/06 - People/Families/Yatovar/Infante Babal.md"
+		},
+		{
+			"id": "cde86b394ee427e7",
+			"x": -1410,
+			"y": 660,
+			"width": 300,
+			"height": 110,
+			"type": "file",
+			"file": "01 - Susia/06 - People/Families/Yatovar/Empress Yaneoli.md"
+		},
+		{
+			"id": "580bb7c8c4a51a06",
+			"x": -1050,
+			"y": 660,
+			"width": 300,
+			"height": 110,
+			"type": "file",
+			"file": "01 - Susia/06 - People/Families/Yatovar/Astere.md"
+		},
+		{
+			"id": "ebe3768a8b37ceac",
+			"x": -690,
+			"y": 660,
+			"width": 300,
+			"height": 110,
+			"type": "file",
+			"file": "01 - Susia/06 - People/Families/Yatovar/Colin, King of the Tekurs.md"
+		},
+		{
+			"id": "50a089f7fc43320b",
+			"x": -330,
+			"y": 660,
+			"width": 300,
+			"height": 110,
+			"type": "file",
+			"file": "01 - Susia/06 - People/Families/Yatovar/Princess Natesse.md"
+		},
+		{
+			"id": "fa2909a5c374ed59",
+			"x": 30,
+			"y": 660,
+			"width": 300,
+			"height": 110,
+			"type": "file",
+			"file": "01 - Susia/06 - People/Families/Yatovar/Prince Capraže.md"
+		},
+		{
+			"id": "040ddb667ca0e2c4",
+			"x": 390,
+			"y": 660,
+			"width": 300,
+			"height": 110,
+			"type": "file",
+			"file": "01 - Susia/06 - People/Families/Yatovar/Countess Valista of Postia.md"
+		},
+		{
+			"id": "0f95d1723a16025d",
+			"x": 750,
+			"y": 660,
+			"width": 300,
+			"height": 110,
+			"type": "file",
+			"file": "01 - Susia/06 - People/Families/Yatovar/Pentério Osvien.md"
+		},
+		{
+			"id": "b22428dd7d075962",
+			"x": 1110,
+			"y": 660,
+			"width": 300,
+			"height": 110,
+			"type": "file",
+			"file": "01 - Susia/06 - People/Families/Yatovar/Pentéria Ligória.md"
+		},
+		{
+			"id": "ab3dff08e1606215",
+			"x": -690,
+			"y": 880,
+			"width": 300,
+			"height": 110,
+			"type": "file",
+			"file": "01 - Susia/06 - People/Families/Yatovar/Empress Prazde.md"
+		},
+		{
+			"id": "0d780dac21854197",
+			"x": -330,
+			"y": 880,
+			"width": 300,
+			"height": 110,
+			"type": "file",
+			"file": "01 - Susia/06 - People/Families/Yatovar/Lekhertos.md"
+		},
+		{
+			"id": "736415b5d63cb773",
+			"x": 30,
+			"y": 880,
+			"width": 300,
+			"height": 110,
+			"type": "file",
+			"file": "01 - Susia/06 - People/Families/Yatovar/Jartes I.md"
+		},
+		{
+			"id": "7756b8c530744e6e",
+			"x": 390,
+			"y": 880,
+			"width": 300,
+			"height": 110,
+			"type": "file",
+			"file": "01 - Susia/06 - People/Families/Yatovar/Pentério Babal II.md"
+		},
+		{
+			"id": "e0d513bd613e5946",
+			"x": -330,
+			"y": 1100,
+			"width": 300,
+			"height": 110,
+			"type": "file",
+			"file": "01 - Susia/06 - People/Families/Yatovar/Prazde II of Zaphonia.md"
+		},
+		{
+			"id": "c500be76ae058509",
+			"x": 30,
+			"y": 1100,
+			"width": 300,
+			"height": 110,
+			"type": "file",
+			"file": "01 - Susia/06 - People/Families/Yatovar/Jartes II.md"
+		}
 	],
-	"edges":[
-		{"id":"4ea3c3f10163b80b","fromNode":"8b137d148092fb11","fromSide":"right","toNode":"2d85ddee54e77a86","toSide":"left","fromEnd":"arrow","label":"Marrige"}
+	"edges": [
+		{
+			"id": "f0195c3d4e7f27e8",
+			"fromNode": "51176e74e59480ff",
+			"fromSide": "right",
+			"toNode": "cb37bfb5b1a8653b",
+			"toSide": "left",
+			"label": "Marriage 1637"
+		},
+		{
+			"id": "f7e211e43b79fbba",
+			"fromNode": "dcb4060a1952f6d5",
+			"fromSide": "right",
+			"toNode": "4a9724be52d5c004",
+			"toSide": "left",
+			"label": "Marriage 1752"
+		},
+		{
+			"id": "a1fdbdf07ee77cc6",
+			"fromNode": "cde86b394ee427e7",
+			"fromSide": "right",
+			"toNode": "580bb7c8c4a51a06",
+			"toSide": "left",
+			"label": "Marriage 1768"
+		},
+		{
+			"id": "1320801156d2afc9",
+			"fromNode": "50a089f7fc43320b",
+			"fromSide": "right",
+			"toNode": "fa2909a5c374ed59",
+			"toSide": "left",
+			"label": "Marriage"
+		},
+		{
+			"id": "bee45b0088ed3c5b",
+			"fromNode": "0f95d1723a16025d",
+			"fromSide": "right",
+			"toNode": "b22428dd7d075962",
+			"toSide": "left",
+			"label": "Union (siblings)"
+		},
+		{
+			"id": "66123c7a64a62846",
+			"fromNode": "ab3dff08e1606215",
+			"fromSide": "right",
+			"toNode": "0d780dac21854197",
+			"toSide": "left",
+			"label": "Marriage 1790"
+		},
+		{
+			"id": "92e3b3a95581816a",
+			"fromNode": "51176e74e59480ff",
+			"fromSide": "bottom",
+			"toNode": "361853475b3d37f1",
+			"toSide": "top",
+			"toEnd": "arrow"
+		},
+		{
+			"id": "9cd8c202e7282523",
+			"fromNode": "51176e74e59480ff",
+			"fromSide": "bottom",
+			"toNode": "00b4d2aeee82cf53",
+			"toSide": "top",
+			"toEnd": "arrow"
+		},
+		{
+			"id": "b7f6b91fbaad70a3",
+			"fromNode": "00b4d2aeee82cf53",
+			"fromSide": "bottom",
+			"toNode": "f1b740392472edfe",
+			"toSide": "top",
+			"toEnd": "arrow"
+		},
+		{
+			"id": "46a875d59862b56e",
+			"fromNode": "00b4d2aeee82cf53",
+			"fromSide": "bottom",
+			"toNode": "dcb4060a1952f6d5",
+			"toSide": "top",
+			"toEnd": "arrow"
+		},
+		{
+			"id": "8408873ea2662351",
+			"fromNode": "00b4d2aeee82cf53",
+			"fromSide": "bottom",
+			"toNode": "a4bc74da5e7ac48e",
+			"toSide": "top",
+			"toEnd": "arrow"
+		},
+		{
+			"id": "cde72ed3bfe80849",
+			"fromNode": "dcb4060a1952f6d5",
+			"fromSide": "bottom",
+			"toNode": "cde86b394ee427e7",
+			"toSide": "top",
+			"toEnd": "arrow"
+		},
+		{
+			"id": "69e75b7e83ad92e9",
+			"fromNode": "dcb4060a1952f6d5",
+			"fromSide": "bottom",
+			"toNode": "ebe3768a8b37ceac",
+			"toSide": "top",
+			"toEnd": "arrow"
+		},
+		{
+			"id": "be3e2cc367a7a3f2",
+			"fromNode": "dcb4060a1952f6d5",
+			"fromSide": "bottom",
+			"toNode": "50a089f7fc43320b",
+			"toSide": "top",
+			"toEnd": "arrow"
+		},
+		{
+			"id": "397128b7036b0fc8",
+			"fromNode": "dcb4060a1952f6d5",
+			"fromSide": "bottom",
+			"toNode": "040ddb667ca0e2c4",
+			"toSide": "top",
+			"toEnd": "arrow"
+		},
+		{
+			"id": "89dac4a237caaf86",
+			"fromNode": "a4bc74da5e7ac48e",
+			"fromSide": "bottom",
+			"toNode": "0f95d1723a16025d",
+			"toSide": "top",
+			"toEnd": "arrow"
+		},
+		{
+			"id": "86bac82f9056f2a1",
+			"fromNode": "a4bc74da5e7ac48e",
+			"fromSide": "bottom",
+			"toNode": "b22428dd7d075962",
+			"toSide": "top",
+			"toEnd": "arrow"
+		},
+		{
+			"id": "57e3d5b5d7d033e2",
+			"fromNode": "cde86b394ee427e7",
+			"fromSide": "bottom",
+			"toNode": "ab3dff08e1606215",
+			"toSide": "top",
+			"toEnd": "arrow"
+		},
+		{
+			"id": "f1701af4971c43ec",
+			"fromNode": "cde86b394ee427e7",
+			"fromSide": "bottom",
+			"toNode": "736415b5d63cb773",
+			"toSide": "top",
+			"toEnd": "arrow"
+		},
+		{
+			"id": "dc24eb55d1736bb1",
+			"fromNode": "0f95d1723a16025d",
+			"fromSide": "bottom",
+			"toNode": "7756b8c530744e6e",
+			"toSide": "top",
+			"toEnd": "arrow"
+		},
+		{
+			"id": "7199cbbd9d5e5709",
+			"fromNode": "ab3dff08e1606215",
+			"fromSide": "bottom",
+			"toNode": "e0d513bd613e5946",
+			"toSide": "top",
+			"toEnd": "arrow"
+		},
+		{
+			"id": "da180940d35dbc5e",
+			"fromNode": "736415b5d63cb773",
+			"fromSide": "bottom",
+			"toNode": "c500be76ae058509",
+			"toSide": "top",
+			"toEnd": "arrow"
+		},
+		{
+			"id": "2d0dfc3719b01026",
+			"fromNode": "040ddb667ca0e2c4",
+			"fromSide": "right",
+			"toNode": "0f95d1723a16025d",
+			"toSide": "left",
+			"label": "Illegitimate"
+		}
 	]
 }

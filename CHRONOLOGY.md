@@ -18,7 +18,7 @@
 - **Event begins** — [[Liberal Revolts]]
 
 ## 1841
-- **Founded** — [[Confian Nation Party (1841)]] by [[['[[Wanašer Gerzăn]]']]]
+- **Founded** — [[Confian Nation Party (1841)]] by [[Wanašer Gerzăn]]
 - **Founded** — [[PIKW]]
 
 ## 1844
@@ -61,7 +61,7 @@
 - **Graduation** — [[Eriežera Lensekowina]] — Baccalaureate in Philosophy at [[Carlotopolis State University for the Humanities]]
 
 ## 1930
-- **Founded** — [[Confian Liberal Party]] by [[['[[Zanja Banelužni]]']]]
+- **Founded** — [[Confian Liberal Party]] by [[Zanja Banelužni]]
 - **Graduation** — [[Eriežera Lensekowina]] — Baccalaureate in Journalism at [[Carlotopolis State University for the Humanities]]
 
 ## 1932
@@ -81,13 +81,13 @@
 
 ## 1954
 - **Event begins** — [[Ant wars]]
-- **Founded** — [[Confian Syndicalist Union]] by [[['[[Lorelaj Paulowić]]', '[[Lensek Bӑrboz]]']]]
+- **Founded** — [[Confian Syndicalist Union]] by [[Lorelaj Paulowić]] and [[Lensek Bӑrboz]]
 - **Founded** — [[Knights of the Republic]]
 - **Founded** — [[Pačese ro Virspruje]]
-- **Founded** — [[Progressive Republican Party]] by [[['[[Mariana Torres]]', '[[Genrih Maskernie]]']]]
+- **Founded** — [[Progressive Republican Party]] by [[Mariana Torres]] and [[Genrih Maskernie]]
 - **Founded** — [[Supreme Court of Susia]]
 - **Founded** — [[Susian Democratic Union]]
-- **Founded** — [[Susian Liberal Party]] by [[['[[Suizo Soites]]', '[[Ergagério Sienes]]', '[[Filňar Čantij]]']]]
+- **Founded** — [[Susian Liberal Party]] by [[Suizo Soites]], [[Ergagério Sienes]] and [[Filňar Čantij]]
 
 ## 1956
 - **Founded** — [[Moviment of New Susians]]
@@ -110,7 +110,7 @@
 - **Founded** — [[San'motko]]
 
 ## 1968
-- **Founded** — [[Końteraf]] by [[['[[Confian National Government]]', '[[Lorelaj Paulowić]]']]] in [[Imgospalje]]
+- **Founded** — [[Końteraf]] by [[Confian National Government]] and [[Lorelaj Paulowić]] in [[Imgospalje]]
 
 ## 1969
 - **Founded** — [[Soites Group]] by [[Suizo Soites]] in [[Neoveli]]
@@ -126,18 +126,18 @@
 
 ## 1979
 - **Dissolved** — [[Confian Syndicalist Union]]
-- **Founded** — [[Atompron]] by [[['[[Susian Federal Government]]']]] in [[Niqueparj]]
-- **Founded** — [[Syndicalist League]] by [[['[[Katerina Armoljubca Nožeslawna|KAN]]', '[[Eriežera Lensekowina]]']]]
+- **Founded** — [[Atompron]] by [[Susian Federal Government]] in [[Niqueparj]]
+- **Founded** — [[Syndicalist League]] by [[Katerina Armoljubca Nožeslawna|KAN]] and [[Eriežera Lensekowina]]
 
 ## 1980
-- **Founded** — [[Armotist Democratic Party]] by [[['[[Boris Serec]]']]]
+- **Founded** — [[Armotist Democratic Party]] by [[Boris Serec]]
 - **Founded** — [[Făzmelj]] in [[Neoveli]]
-- **Founded** — [[Movement for Syndicalist Renovation]] by [[['[[Mariana Torres]]', '[[Genrih Maskernie]]']]]
+- **Founded** — [[Movement for Syndicalist Renovation]] by [[Mariana Torres]] and [[Genrih Maskernie]]
 
 ## 1981
 - **Dissolved** — [[Confian Nation Party (1977)]]
 - **Document recorded** — [[Graduation yearbook]] (Graduation yearbook)
-- **Founded** — [[Ljudewlaš!]] by [[['Laus Darizel']]]
+- **Founded** — [[Ljudewlaš!]] by [[Laus Darizel]]
 
 ## 1984
 - **Document recorded** — [[Letters to St Yepodij]] (letter)
@@ -150,15 +150,15 @@
 - **Dissolved** — [[Progressive Republican Party]]
 
 ## 1991
-- **Founded** — [[PSP]] by [[['[[Confian National Government]]', '[[Katerina Armoljubca Nožeslawna|KAN]]']]] in [[Imgospalje]]
+- **Founded** — [[PSP]] by [[Confian National Government]] and [[Katerina Armoljubca Nožeslawna|KAN]] in [[Imgospalje]]
 
 ## 1992
 - **Dissolved** — [[Confian Liberal Party]]
-- **Founded** — [[Mi, Niteraljci!]] by [[['[[Lenseka Japlenowina]]', '[[Saserna Kašdunna\xa0]]']]]
+- **Founded** — [[Mi, Niteraljci!]] by [[Lenseka Japlenowina]] and [[Saserna Kašdunna ]]
 - **Graduation** — [[Yavna Raroska]] — Political Science at [[University of New Kentu]]
 
 ## 1993
-- **Founded** — [[KSH]] by [[['[[Confian National Government]]', '[[Katerina Armoljubca Nožeslawna|KAN]]']]]
+- **Founded** — [[KSH]] by [[Confian National Government]] and [[Katerina Armoljubca Nožeslawna|KAN]]
 
 ## 1994
 - **Dissolved** — [[Postian Free Farmers]]
@@ -168,8 +168,8 @@
 
 ## 2000
 - **Dissolved** — [[Armotist Democratic Party]]
-- **Founded** — [[Armotist Democracy (Confian party, 2000)]] by [[['[[Panož Zastranni]]']]]
-- **Founded** — [[Confian Democratic Party]] by [[['[[Japlen Razol]]']]]
+- **Founded** — [[Armotist Democracy (Confian party, 2000)]] by [[Panož Zastranni]]
+- **Founded** — [[Confian Democratic Party]] by [[Japlen Razol]]
 - **Founded** — [[Shield!]]
 
 ## 2003
@@ -185,7 +185,7 @@
 ## 2013
 - **Dissolved** — [[Ljudewlaš!]]
 - **Dissolved** — [[Shield!]]
-- **Founded** — [[Republican Promise]] by [[['[[Nisa Peskilonna]]']]]
+- **Founded** — [[Republican Promise]] by [[Nisa Peskilonna]]
 
 ## 2031
 - **Founded** — [[Yerčemark]] by [[Venvek Rashera]] in [[New Kentu]]

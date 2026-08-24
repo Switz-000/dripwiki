@@ -8,7 +8,7 @@ aliases:
 summary: Susian lawyer and politician; fifth President of Susia (1984–1986); also served as Governor of Postia, Senator, Secretary of Justice, and Vice President under Čalsor Bonár; known for the Ditanian Intervention, the Confian reaprochment and for his lobster table style of politics.
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
-sex: male
+sex: Male
 ethnicity: West Gaiyanese
 religion: Reformed Armotism
 citizenship:

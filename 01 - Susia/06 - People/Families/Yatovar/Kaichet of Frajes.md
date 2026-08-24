@@ -1,57 +1,60 @@
 ---
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
-native_name: 
-lusitanized_name: "[[Yavna Raroska]]"
+native_name: Kaichet
+lusitanized_name: 
 aliases:
-  -
-summary: 
+  - Baron Kaichet
+summary: Baron of Frajes and father of the first two Dripstanian emperors, Saint Emperor Mantichev and Emperor Agamilos. He predates the founding of the empire.
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
-sex: Female
+sex: Male
 ethnicity: West Gaiyanese
-religion: "[[Reformed Armotism]]"
+religion: "[[Armotism]]"
 citizenship:
-  - "[[Susia|Susian]]"
+  - 
 nationality:
-  - "[[Susia|Susian]]"
+  - 
 enhanced: false
 
-# ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
+# ── BIRTH AND DEATH ─────────────────────────────────────────────────────────
 birth:
-  year: 1968
-  city: "[[Arkaime]]"
-  state: "[[Dripia]]"
-  country: "[[Susia]]"
+  year: 1596
+  city: 
+  state: 
+  country: 
 
 death:
-  year: 2037
-  city: "[[Neoveli]]"
-  state: "[[Dripia]]"
-  country: "[[Susia]]"
-  cause: Natural causes
+  year: 1653
+  city: 
+  state: 
+  country: 
+  cause: 
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
 relations:
-  - person: 
-    relation: 
-    notes: 
+  - person: "[[Damhor of Frajes]]"
+    relation: Spouse
+    notes: Married 1637.
+  - person: "[[Saint Emperor Mantichev]]"
+    relation: Son
+    notes: First emperor of the Dripstanian Empire.
+  - person: "[[Emperor Agamilos]]"
+    relation: Son
+    notes: Second emperor.
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree: Political Science
-    institution: "[[University of New Kentu]]"
-    year: 1992
+  - degree: 
+    institution: 
+    year: 
   - 
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
-  - title: Academic
-    start_year:
-    end_year:
-  - title: Researcher
-    start_year:
-    end_year:
+  - title: Baron of Frajes
+    start_year: 
+    end_year: 
 
 military_service:
   - allegiance:
@@ -71,7 +74,7 @@ parties:                                        # partidos que ela ja pertenceu
   -
 
 organizations:
-  -
+  - 
 
 # ── OFFICES ─────────────────────────────────────────────────────────────────
 offices:
@@ -107,8 +110,8 @@ criminal_charges:
 
 # ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
-  - item: "[[Kolkov Interview 2009]]"
-    notes:
+  - item: Progenitor of the Yatovar line
+    notes: Father of the first two emperors.
 
 awards:
   - title:
@@ -119,14 +122,13 @@ awards:
     notes:
 
 era:
-  - post-war
-  - new-age
-  - global-cold-war
+  - pre-colonial
+  - settlement
 
 # ── META ────────────────────────────────────────────────────────────────────
 tags:
-  - philosophy
   - politics
+  - history
 
 meta:
   stub: true
@@ -134,4 +136,13 @@ meta:
   image: null
 ---
 
+%% FLAGS:
 
+- Recorded from the Casa Real Yatovar family chart supplied by the author. Gregorian equals 1950 minus AS, an epoch confirmed exactly against [[List of Dripstanian emperors]] for Mantichev, Agamilos, and Veronique.
+- CONTRADICTION, unresolved: the chart places both Kaichet's and Damhor's deaths at 297 AS, which is 1653, and [[Emperor Agamilos]]'s birth at 293 AS, which is 1657. Agamilos cannot be born four years after both of his parents died. Either the shared parental death year or Agamilos's birth year is wrong.
+- Neither citizenship nor nationality is recorded. The [[Dripstanian Empire]] was founded in 1674, twenty-one years after this person's death, and the style guide forbids assigning a state to someone who predates it. The Armotist settlers came from [[Gaiyan]], but no vault article establishes that as their origin, so the field is left blank rather than inferred.
+- The chart gives the marriage as 313 AS, 1637, the same year it gives for Mantichev's birth.
+- "Frajes" is the family's territorial name and survives as the byname of [[Emperor Agamilos|Agamilos of Frajes]]. No article exists for the place.
+- Whether the Yatovar name attaches to this generation is not established. The chart titles the house Yatovar throughout but names these two only as "of Frajes".
+
+%%

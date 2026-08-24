@@ -5,16 +5,15 @@ native_name:
 lusitanized_name: 
 aliases:
   -
-summary: 
-
+summary: King Consort of the Dripstanian Empire as the husband of Empress Veronique, whom he married in 1752. Grandson of Murilo the Glutton and heir to the captaincy of Sužielaj.
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: Male
-ethnicity: 
-religion: 
+ethnicity: West Gaiyanese
+religion: "[[Armotism]]"
 citizenship:
-  -
+  - "[[Dripstanian Empire|Dripstanian]]"
 nationality:
-  -
+  - "[[Dripstanian Empire|Dripstanian]]"
 enhanced: false
 
 # ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
@@ -58,10 +57,9 @@ education:
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
-  - title:
-    start_year:
-    end_year:
-
+  - title: King Consort
+    start_year: 1752
+    end_year: 1782
 military_service:
   - allegiance:
     branch: 
@@ -116,9 +114,12 @@ criminal_charges:
 
 # ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
-  - item:
-    notes:
-
+  - item: King Consort of the [[Dripstanian Empire]]
+    notes: 
+  - item: "[[Empress Veronique]]"
+    notes: Married 1752.
+  - item: Captaincy of [[Sužielaj]]
+    notes: Heir to it.
 awards:
   - title:
     awarded_year:
@@ -128,12 +129,13 @@ awards:
     notes:
 
 era:
-  -
-
+  - early-imperial
+  - high-imperial
+  - imperial-era
 # ── META ────────────────────────────────────────────────────────────────────
 tags:
-  -
-
+  - politics
+  - history
 meta:
   stub: true
   verified: false

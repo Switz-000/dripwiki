@@ -5,11 +5,10 @@ native_name: Čalsor Boňár
 lusitanized_name: Čalsor Bonár
 aliases:
   -
-summary: 
-
+summary: Susian general and politician who served as the fourth President of Susia from 1974 until his death in office in 1983. He led the country through the Continental War and the post-war reconstruction, founded the state energy company Atompron, and expanded the powers of the federal government.
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: Male
-ethnicity: "[[West gaiyanese]]"
+ethnicity: West Gaiyanese
 religion: "[[Reformed Armotism]]"
 citizenship:
   - "[[Susia|Susian]]"

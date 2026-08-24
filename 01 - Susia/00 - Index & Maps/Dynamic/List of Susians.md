@@ -1,41 +1,40 @@
+Every vault article of `type: person` whose nationality includes Susia, newest
+birth first. Sourced from frontmatter; a blank cell means the field is empty on
+that person's article, not that the fact is unknown to canon.
+
 ```dataviewjs
+const clean = v =>
+  typeof v === "string" ? v.replace(/\[\[|\]\]/g, "").split("|")[0].trim() : ""
+
+const series = (arr, key) =>
+  Array.isArray(arr)
+    ? arr.map(o => clean(o?.[key]) || (typeof o?.[key] === "string" ? o[key] : ""))
+         .filter(Boolean).join(", ")
+    : ""
+
 dv.table(
-  ["Name", "Birth Year", "Occupation", "Known For", "Birth Location"],
+  ["Name", "Born", "Died", "Occupation", "Known for", "Birthplace"],
   dv.pages()
     .where(p => {
       const nat = Array.isArray(p.nationality)
         ? p.nationality
         : p.nationality ? [p.nationality] : []
-
       return p.type === "person" &&
              nat.some(n => typeof n === "string" && n.includes("Susia"))
     })
-    .sort(p => p.birth_year, "desc")
+    .sort(p => p.birth?.year ?? -9999, "desc")
     .map(p => {
-
-      const clean = val =>
-        typeof val === "string"
-          ? val.replace(/\[\[|\]\]/g, "").split("|")[0]
-          : ""
-
-      const city = clean(p.birth_city)
-      const state = clean(p.birth_state)
-
-      const location =
-        city && state ? `${city}, ${state}` :
-        city ? city :
-        state ? state :
-        ""
-
+      const city  = clean(p.birth?.city)
+      const state = clean(p.birth?.state)
+      const place = city && state ? `${city}, ${state}` : city || state || ""
       return [
-        clean(p.full_name),
-        p.birth_year,
-        p.occupation,
-        p.known_for,
-        location
+        p.file.link,
+        p.birth?.year ?? "",
+        p.death?.year ?? "",
+        series(p.occupation, "title"),
+        series(p.known_for, "item"),
+        place
       ]
     })
 )
-
-
-
+```

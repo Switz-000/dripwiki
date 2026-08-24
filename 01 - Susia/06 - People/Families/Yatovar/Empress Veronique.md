@@ -5,8 +5,7 @@ native_name: Veronique Yatovar
 lusitanized_name: 
 aliases:
   -
-summary: 
-
+summary: Third ruler of the Dripstanian Empire, reigning from 1740 to 1787. She centralised imperial power, elevated the advisory council into a real Senate, created a permanent professional army, and oversaw the colonisation of Confia. Her reign also carried out the ethnic cleansing of the Konph.
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: Female
 ethnicity: West Gaiyanese
