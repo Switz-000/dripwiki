@@ -5,7 +5,7 @@ native_name:
 lusitanized_name: 
 aliases:
   -
-summary: King Consort of the Dripstanian Empire as the husband of Empress Veronique, whom he married in 1752. Grandson of Murilo the Glutton and heir to the captaincy of Sužielaj.
+summary: King Consort of the Dripstanian Empire as the husband of Empress Veronique, whom he married in 1752. Grandson of Murilo the Glutton and heir to the captaincy of Sužielaj, known in older sources as Sussulândia.
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: Male
 ethnicity: West Gaiyanese
