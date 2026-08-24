@@ -168,7 +168,7 @@ meta:
 
 
 
-Veronique was the third Empress of the [[Dripstanian Empire]], reigning from 1740 to 1787. Daughter of [[Emperor Agamilos|Agamilos of Frajes]], she ascended to the throne under contested circumstances and became one of the most consequential rulers in imperial history — centralizing power, creating permanent imperial institutions, colonizing [[Confia]], and crushing internal opposition with ruthless efficiency. She is remembered as a paradox: a ruler who expanded rights for women and reformed governance while simultaneously unleashing ethnic cleansing on the [[Tekur|Konph]] people.
+Veronique was the third Empress of the [[Dripstanian Empire]], reigning from 1740 to 1787. Daughter of [[Emperor Agamilos|Agamilos of Frajes]], she ascended to the throne under contested circumstances and became one of the most consequential rulers in imperial history — centralizing power, creating permanent imperial institutions, colonizing [[Confia]], and crushing internal opposition with ruthless efficiency. She is remembered as a paradox: a ruler who expanded rights for women and reformed governance while simultaneously unleashing ethnic cleansing on the [[Konph]] people.
 
 ## Accession
 
@@ -204,13 +204,13 @@ Recognizing the inefficiency of raising troops through captaincies and their vas
 
 Veronique oversaw the formal colonization of the western territories that would become [[Confia]]. Large waves of Racpalian immigration from [[Gaiyan]] (1743–1751) had already created expanding settlements and slums. Veronique institutionalized this expansion through the **Rural Properties Act (1746)**, which gave Racpalian settlers priority in colonizing Konph land, and by creating the **General Government of the Lands of Confia (1786)** — a special administrative body headed by a Racpalian General Governor accountable directly to the monarch.
 
-The Konph people — the indigenous inhabitants of the region — resisted settlement. Veronique responded with the **Tekur Territory Act**, authorizing the forced removal of Konphs to the Tekur Territory (now [[Nessel]] and [[New Celiolaj]]). She then implemented a segregated road system, destroying traditional Konph roads to disrupt coordination between villages while building new roads Konphs were forbidden to use.
+The Konph people — the indigenous inhabitants of the region — resisted settlement. Veronique responded with the **[[Konph Territory Act]]**, authorizing the forced removal of Konphs to the [[Konph Territory]], the region that became [[Confia]]. The Konph Territory is distinct from the [[New Celiolaj|Tekur Territory]], to which [[Jartes I]] deported the [[Tekur]] two generations later. She then implemented a segregated road system, destroying traditional Konph roads to disrupt coordination between villages while building new roads Konphs were forbidden to use.
 
 Near the end of her reign, former army officers formed the **Tekurubićni Patrol** — the Anti-Konph Ethno-National Defense Patrol — a paramilitary organization that pledged to destroy one Konph village for every act of road sabotage. Its operations were notoriously brutal, involving torture, murder, looting, and rape. Veronique neither officially sanctioned nor suppressed it.
 
 ## Personal Life
 
-Veronique married **Faranes the Feared**, grandson of Murilo the Glutton and heir to the captaincy of [[Sužielaj]]. They had five children: Yaneoli (1752), Colin (1756), Natesse (1760), Capraze (1764), and Valista (1778). Her eldest daughter [[Empress Yaneoli|Yaneoli]] succeeded her.
+Veronique married **Faranes the Feared**, grandson of Murilo the Glutton and heir to the captaincy of [[Sužielaj]], recorded in older sources under its former name of Sussulândia. They had four children: [[Empress Yaneoli|Yaneoli]] (1752), [[Colin, King of the Tekurs|Colin]] (1756), [[Princess Natesse|Natesse]] (1760), and [[Countess Valista of Postia|Valista]] (1778). Her eldest daughter Yaneoli succeeded her. Natesse married [[Prince Capraže]], who appears in some earlier accounts as a fifth child of Veronique.
 
 Veronique died of a gastric ulcer at the age of 67 in 1787.
 

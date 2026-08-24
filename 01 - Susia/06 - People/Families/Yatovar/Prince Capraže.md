@@ -134,7 +134,7 @@ meta:
 
 - Recorded from the Casa Real Yatovar family chart supplied by the author. Gregorian equals 1950 minus AS, an epoch confirmed exactly against [[List of Dripstanian emperors]] for Mantichev, Agamilos, and Veronique.
 - The chart gives him no dates and no parentage.
-- [[Empress Veronique]] previously listed Capraze among her five children. The chart shows him as Natesse's husband, and that reading was adopted this session, reducing Veronique's recorded children from five to four. The spelling there was "Capraze"; "Capraže" follows the chart and is retained as an alias.
+- [[Empress Veronique]] previously listed Capraze among her five children. The chart shows him as Natesse's husband. Author-supplied Portuguese material repeats the five-children reading with a birth year of 1764 for Capraze, and the chart was ruled canonical against it this session. Veronique's recorded children fall from five to four and the 1764 date is left unattached. The spelling there was "Capraze"; "Capraže" follows the chart and is retained as an alias.
 - The title Prince is taken from the chart's "Príncipe Capraže". Whether it is Dripstanian or foreign is unestablished.
 
 %%
