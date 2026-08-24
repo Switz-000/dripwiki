@@ -1,11 +1,11 @@
 ---
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
-native_name: Agamilos
+native_name: Apreže
 lusitanized_name: 
 aliases:
-  - Agamilos of Frajes
-summary: Second emperor of the Dripstanian Empire, reigning from 1686 to 1738. His death without a surviving male heir produced the succession crisis that a regency council resolved in favour of his daughter Veronique.
+  - 
+summary: Eldest son of Emperor Agamilos and expected heir to the Dripstanian throne. He died in a jousting accident at 25, days before his father, leaving the succession open to his sister Veronique.
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: Male
@@ -19,7 +19,7 @@ enhanced: false
 
 # ── BIRTH AND DEATH ─────────────────────────────────────────────────────────
 birth:
-  year: 1657
+  year: 1713
   city: 
   state: 
   country: "[[Dripstanian Empire]]"
@@ -29,27 +29,18 @@ death:
   city: 
   state: 
   country: "[[Dripstanian Empire]]"
-  cause: 
+  cause: Jousting accident
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
 relations:
-  - person: "[[Kaichet of Frajes]]"
+  - person: "[[Emperor Agamilos]]"
     relation: Father
     notes: 
-  - person: "[[Damhor of Frajes]]"
-    relation: Mother
-    notes: 
-  - person: "[[Saint Emperor Mantichev]]"
-    relation: Brother
-    notes: Preceded him on the throne.
-  - person: "[[Prince Apreže]]"
-    relation: Son
-    notes: Eldest son and expected heir; died in a jousting accident at 25, days before his father.
   - person: "[[Empress Veronique]]"
-    relation: Daughter
-    notes: Succeeded him after a two-year regency.
+    relation: Sister
+    notes: 
   - person: "[[Infante Babal]]"
-    relation: Son
+    relation: Brother
     notes: 
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
@@ -61,9 +52,9 @@ education:
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
-  - title: Emperor
-    start_year: 1686
-    end_year: 1738
+  - title: 
+    start_year: 
+    end_year: 
 
 military_service:
   - allegiance:
@@ -87,14 +78,14 @@ organizations:
 
 # ── OFFICES ─────────────────────────────────────────────────────────────────
 offices:
-  - title: Emperor of the Dripstanian Empire
-    employer: 
-    start_year: 1686
-    end_year: 1738
-    appointer: Hereditary succession
+  - title:
+    employer:
+    start_year:
+    end_year:
+    appointer:
     parties:
       -
-    notes: Second emperor. Succeeded [[Saint Emperor Mantichev]]; the throne passed to [[Empress Veronique]] in 1740 after a regency council.
+    notes:
 
 # ── WRITTEN WORKS ───────────────────────────────────────────────────────────
 written_works:
@@ -119,10 +110,8 @@ criminal_charges:
 
 # ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
-  - item: [[Empress Veronique]]
-    notes: His succession crisis established that a woman could inherit the Dripstanian throne.
-  - item: Standardisation of the [[Units of measurement|treye]]
-    notes: Fixed in 1732 at the length of his thumb, 2.37 cm.
+  - item: Dripstanian succession crisis of 1738
+    notes: His death days before his father's left the throne without a male heir.
 
 awards:
   - title:
@@ -150,8 +139,6 @@ meta:
 %% FLAGS:
 
 - Dates derived from the Casa Real Yatovar family chart supplied by the author. The chart counts years in AS, descending; Gregorian equals 1950 minus AS, an epoch confirmed exactly against [[List of Dripstanian emperors]] for Mantichev, Agamilos, and Veronique.
-- File was empty before this pass. All content is frontmatter; no body written.
-- Two names are in use for this person in the vault. [[Emperor Agamilos]] is the canonical article title per session decision; "Agamilos of Frajes" is retained as an alias and the bare links in [[Empress Veronique]] and [[Units of measurement]] were repointed here.
-- The regency council of 1738 to 1740 is recorded in [[List of Dripstanian emperors]]. No article exists for it.
+- Age at death and the days-before-his-father detail come from [[Empress Veronique]]; the chart's dates agree with both exactly.
 
 %%

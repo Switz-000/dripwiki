@@ -1,11 +1,11 @@
 ---
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
-native_name: Agamilos
+native_name: Mantichev
 lusitanized_name: 
 aliases:
-  - Agamilos of Frajes
-summary: Second emperor of the Dripstanian Empire, reigning from 1686 to 1738. His death without a surviving male heir produced the succession crisis that a regency council resolved in favour of his daughter Veronique.
+  - 
+summary: First emperor of the Dripstanian Empire, reigning from 1674 to 1686. Canonised in the Armotist tradition and the founder of the Yatovar line on the throne.
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: Male
@@ -19,13 +19,13 @@ enhanced: false
 
 # ── BIRTH AND DEATH ─────────────────────────────────────────────────────────
 birth:
-  year: 1657
+  year: 1637
   city: 
   state: 
   country: "[[Dripstanian Empire]]"
 
 death:
-  year: 1738
+  year: 1686
   city: 
   state: 
   country: "[[Dripstanian Empire]]"
@@ -35,22 +35,13 @@ death:
 relations:
   - person: "[[Kaichet of Frajes]]"
     relation: Father
-    notes: 
+    notes: Baron. Married Damhor of Frajes in 1637.
   - person: "[[Damhor of Frajes]]"
     relation: Mother
     notes: 
-  - person: "[[Saint Emperor Mantichev]]"
+  - person: "[[Emperor Agamilos]]"
     relation: Brother
-    notes: Preceded him on the throne.
-  - person: "[[Prince Apreže]]"
-    relation: Son
-    notes: Eldest son and expected heir; died in a jousting accident at 25, days before his father.
-  - person: "[[Empress Veronique]]"
-    relation: Daughter
-    notes: Succeeded him after a two-year regency.
-  - person: "[[Infante Babal]]"
-    relation: Son
-    notes: 
+    notes: Succeeded him in 1686.
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
@@ -62,8 +53,8 @@ education:
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
   - title: Emperor
-    start_year: 1686
-    end_year: 1738
+    start_year: 1674
+    end_year: 1686
 
 military_service:
   - allegiance:
@@ -89,12 +80,12 @@ organizations:
 offices:
   - title: Emperor of the Dripstanian Empire
     employer: 
-    start_year: 1686
-    end_year: 1738
-    appointer: Hereditary succession
+    start_year: 1674
+    end_year: 1686
+    appointer: Founder
     parties:
       -
-    notes: Second emperor. Succeeded [[Saint Emperor Mantichev]]; the throne passed to [[Empress Veronique]] in 1740 after a regency council.
+    notes: First emperor. Succeeded by [[Emperor Agamilos]].
 
 # ── WRITTEN WORKS ───────────────────────────────────────────────────────────
 written_works:
@@ -119,10 +110,10 @@ criminal_charges:
 
 # ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
-  - item: [[Empress Veronique]]
-    notes: His succession crisis established that a woman could inherit the Dripstanian throne.
-  - item: Standardisation of the [[Units of measurement|treye]]
-    notes: Fixed in 1732 at the length of his thumb, 2.37 cm.
+  - item: Foundation of the [[Dripstanian Empire]]
+    notes: 
+  - item: Sainthood in [[Armotism]]
+    notes: 
 
 awards:
   - title:
@@ -133,12 +124,14 @@ awards:
     notes:
 
 era:
+  - settlement
   - early-imperial
   - imperial-era
 
 # ── META ────────────────────────────────────────────────────────────────────
 tags:
   - politics
+  - religion
   - history
 
 meta:
@@ -150,8 +143,8 @@ meta:
 %% FLAGS:
 
 - Dates derived from the Casa Real Yatovar family chart supplied by the author. The chart counts years in AS, descending; Gregorian equals 1950 minus AS, an epoch confirmed exactly against [[List of Dripstanian emperors]] for Mantichev, Agamilos, and Veronique.
-- File was empty before this pass. All content is frontmatter; no body written.
-- Two names are in use for this person in the vault. [[Emperor Agamilos]] is the canonical article title per session decision; "Agamilos of Frajes" is retained as an alias and the bare links in [[Empress Veronique]] and [[Units of measurement]] were repointed here.
-- The regency council of 1738 to 1740 is recorded in [[List of Dripstanian emperors]]. No article exists for it.
+- Birth place not established. The chart gives his parents as Baron Kaichet of Frajes and Damhor of Frajes, neither of whom has an article.
+- Title form follows [[List of Dripstanian emperors]], which uses no regnal numeral for the first of a name. The chart writes him as Mantichev I.
+- [[Saint Mantichev Day]] and [[Soiteslaj|St. Mantichev City]] both carry his name and are treated in their own articles.
 
 %%

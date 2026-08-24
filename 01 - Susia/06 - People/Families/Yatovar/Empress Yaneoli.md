@@ -1,14 +1,14 @@
 ---
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
-native_name: Agamilos
+native_name: Yaneoli
 lusitanized_name: 
 aliases:
-  - Agamilos of Frajes
-summary: Second emperor of the Dripstanian Empire, reigning from 1686 to 1738. His death without a surviving male heir produced the succession crisis that a regency council resolved in favour of his daughter Veronique.
+  - 
+summary: Fourth ruler of the Dripstanian Empire, reigning from 1787 to 1815. Eldest daughter of Empress Veronique, whom she succeeded. Her death opened the disputed succession between her children Prazde and Jartes I.
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
-sex: Male
+sex: Female
 ethnicity: West Gaiyanese
 religion: "[[Armotism]]"
 citizenship:
@@ -19,13 +19,13 @@ enhanced: false
 
 # ── BIRTH AND DEATH ─────────────────────────────────────────────────────────
 birth:
-  year: 1657
+  year: 1752
   city: 
   state: 
   country: "[[Dripstanian Empire]]"
 
 death:
-  year: 1738
+  year: 1815
   city: 
   state: 
   country: "[[Dripstanian Empire]]"
@@ -33,24 +33,30 @@ death:
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
 relations:
-  - person: "[[Kaichet of Frajes]]"
+  - person: "[[Empress Veronique]]"
+    relation: Mother
+    notes: Succeeded her in 1787.
+  - person: "[[Faranes the Feared]]"
     relation: Father
     notes: 
-  - person: "[[Damhor of Frajes]]"
-    relation: Mother
-    notes: 
-  - person: "[[Saint Emperor Mantichev]]"
+  - person: "[[Astere]]"
+    relation: Spouse
+    notes: King Consort. Married 1768.
+  - person: "[[Colin, King of the Tekurs]]"
     relation: Brother
-    notes: Preceded him on the throne.
-  - person: "[[Prince Apreže]]"
-    relation: Son
-    notes: Eldest son and expected heir; died in a jousting accident at 25, days before his father.
-  - person: "[[Empress Veronique]]"
-    relation: Daughter
-    notes: Succeeded him after a two-year regency.
-  - person: "[[Infante Babal]]"
-    relation: Son
     notes: 
+  - person: "[[Princess Natesse]]"
+    relation: Sister
+    notes: 
+  - person: "[[Countess Valista of Postia]]"
+    relation: Sister
+    notes: 
+  - person: "[[Empress Prazde]]"
+    relation: Daughter
+    notes: Her succession was contested by her brother throughout.
+  - person: "[[Jartes I]]"
+    relation: Son
+    notes: Dated his claim to the throne from her death in 1815.
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
@@ -61,9 +67,9 @@ education:
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
-  - title: Emperor
-    start_year: 1686
-    end_year: 1738
+  - title: Empress
+    start_year: 1787
+    end_year: 1815
 
 military_service:
   - allegiance:
@@ -87,14 +93,14 @@ organizations:
 
 # ── OFFICES ─────────────────────────────────────────────────────────────────
 offices:
-  - title: Emperor of the Dripstanian Empire
+  - title: Empress of the Dripstanian Empire
     employer: 
-    start_year: 1686
-    end_year: 1738
+    start_year: 1787
+    end_year: 1815
     appointer: Hereditary succession
     parties:
       -
-    notes: Second emperor. Succeeded [[Saint Emperor Mantichev]]; the throne passed to [[Empress Veronique]] in 1740 after a regency council.
+    notes: Fourth ruler. Succeeded [[Empress Veronique]]. Her death was followed by the [[Dripstanian Civil War]].
 
 # ── WRITTEN WORKS ───────────────────────────────────────────────────────────
 written_works:
@@ -119,10 +125,8 @@ criminal_charges:
 
 # ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
-  - item: [[Empress Veronique]]
-    notes: His succession crisis established that a woman could inherit the Dripstanian throne.
-  - item: Standardisation of the [[Units of measurement|treye]]
-    notes: Fixed in 1732 at the length of his thumb, 2.37 cm.
+  - item: [[Dripstanian Civil War]]
+    notes: Her death in 1815 opened the disputed succession between her children.
 
 awards:
   - title:
@@ -133,7 +137,7 @@ awards:
     notes:
 
 era:
-  - early-imperial
+  - high-imperial
   - imperial-era
 
 # ── META ────────────────────────────────────────────────────────────────────
@@ -150,8 +154,9 @@ meta:
 %% FLAGS:
 
 - Dates derived from the Casa Real Yatovar family chart supplied by the author. The chart counts years in AS, descending; Gregorian equals 1950 minus AS, an epoch confirmed exactly against [[List of Dripstanian emperors]] for Mantichev, Agamilos, and Veronique.
-- File was empty before this pass. All content is frontmatter; no body written.
-- Two names are in use for this person in the vault. [[Emperor Agamilos]] is the canonical article title per session decision; "Agamilos of Frajes" is retained as an alias and the bare links in [[Empress Veronique]] and [[Units of measurement]] were repointed here.
-- The regency council of 1738 to 1740 is recorded in [[List of Dripstanian emperors]]. No article exists for it.
+- The chart's dates for this generation run ten years earlier than [[List of Dripstanian emperors]] and were ruled unreliable in favour of the list. Any value here taken only from the chart is provisional.
+- Birth year 1752 is stated in [[Empress Veronique]] and is independent of the chart.
+- Death year set to 1815 from the end of her reign in [[List of Dripstanian emperors]]. The chart gives 145 AS, which converts to 1805 and was ruled unreliable.
+- The chart gives her reign as 163 to 145 AS, an interval of 18 years. The list gives 28 years. The two cannot be reconciled by an epoch shift alone.
 
 %%

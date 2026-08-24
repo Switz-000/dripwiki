@@ -8,9 +8,9 @@ aliases:
 summary: 
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
-sex: 
-ethnicity: West gaiyanese
-religion: Armotism
+sex: Female
+ethnicity: West Gaiyanese
+religion: "[[Armotism]]"
 citizenship:
   - "[[Dripstanian Empire|Dripstanian]]"
 nationality:
@@ -146,11 +146,16 @@ awards:
     notes:
 
 era:
-  -
+  - early-imperial
+  - high-imperial
+  - imperial-era
 
 # ── META ────────────────────────────────────────────────────────────────────
 tags:
-  -
+  - politics
+  - military
+  - colonial
+  - history
 
 meta:
   stub: true

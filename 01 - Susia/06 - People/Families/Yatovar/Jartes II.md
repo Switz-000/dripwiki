@@ -5,7 +5,7 @@ native_name: Jartes II
 lusitanized_name: 
 aliases:
   - Jartes the Architect
-summary: Fifth emperor of the Dripstanian Empire, reigning from 1837 to 1882. He disarmed the population, suppressed the Liberal Revolts, and executed the republican leadership, and is remembered in Susia as the paradigmatic tyrant. His reign also electrified the empire's major cities, opened Incria to imperial extraction, and built St. Mantichev City.
+summary: Sixth emperor of the Dripstanian Empire, reigning from 1837 to 1882. He disarmed the population, suppressed the Liberal Revolts, and executed the republican leadership, and is remembered in Susia as the paradigmatic tyrant. His reign also electrified the empire's major cities, opened Incria to imperial extraction, and built St. Mantichev City.
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: Male
