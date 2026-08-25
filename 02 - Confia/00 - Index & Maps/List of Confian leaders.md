@@ -10,11 +10,12 @@ President of the Nation (President)
 |  -  |    [[Nisa Peskilonna]]    | 2019-2023 | [[Republican Promise]] |                    |                                                               |          [[Peskilonnism\|Right-wing]]           |
 |  4  |    [[Pawlăn Listewi]]     | 2024-2028 |     *Independent*      |                    |                                                               |                 Right-of-centre                 |
 |  5  | [[Armoljubca Dardezanna]] | 2029-2033 |  [[Democratic Bloc]]   |                    |                                                               |                  Populist left                  |
-|  6  |    [[Pismon Goltanni]]    | 2034-2036 |  [[The Confian Home]]  | [[Kunsek Aljerni]] |                           Resigned                            |                 Populist right                  |
-|  7  |    [[Kunsek Aljerni]]     | 2036-2038 |      [[Liberty!]]      |                    |                                                               |           Libertarian (Neo-Versijian)           |
+|  6  |    [[Pismon Goltanni]]    | 2034-2036 |  [[The Confian Home]]  | [[Kunsek Aljerni]] |                           Impeached                           |                 Populist right                  |
+|  7  |    [[Kunsek Aljerni]]     | 2036-2038 |      [[Liberty!]]      |                    |                           Resigned                            |           Libertarian (Neo-Versijian)           |
 |  8  |   [[Kalsaper Jasretej]]   | 2038-2042 |     [[Atom Party]]     |                    |                                                               |            [[Modernism\|Modernist]]             |
 |  -  |                           |           |                        |                    |                                                               |                                                 |
 |  -  |                           |           |                        |                    |                                                               |                                                 |
+|     |                           |           |                        |                    |                                                               |                                                 |
 # Syndicalist Republic (1977-2009)
 
 Presidents of the Council of Commissars of the United Syndicates of Confia (Prime Minister)
