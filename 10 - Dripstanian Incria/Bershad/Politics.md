@@ -1,4 +1,4 @@
-~filevir gayget runs a referendum in 1950 in each of the colonies to see if they want to continue to be part of the empire. Almost all of them vote Yes. (only creoles and dripstanian could vote) dosent matter, the empire is going to colapse either way
+[[Filevir Gatojete]] runs a referendum in 1950 in each of the colonies to see if they want to continue to be part of the empire. Almost all of them vote Yes. (only creoles and dripstanian could vote) dosent matter, the empire is going to colapse either way
 
 Yar-Firol -> genocidal aparthaid like state, prosperous, lots of violent ethnic conflict, eventually try to genocide the Buta out of the face of the earth.
 
@@ -61,4 +61,4 @@ Mass exodus started, as a way to combat it Nguan installed landmines to every ro
 
 (1970)
 
-Nguan banned and ordered the demolishion all schools, hospital, temples. He also forbade the import of televisions and magazines. He justified that those are inherent symbols of Imperial opression and told his citizens to recor to traditional medicine. However, his close advisors and goverment friends had acess to healthcare abroad, and often travelled to do surgeries. During the 1970 cholera epidemic, Nguan hoarded all of the vaccines given by international aid organizations in his villa, only allowing close suporters and family to acess. Hundreads of thousands more died due to preventable diesese the folowing years.
+Nguan banned and ordered the demolition all schools, hospital, temples. He also forbade the import of televisions and magazines. He justified that those are inherent symbols of Imperial opression and told his citizens to recor to traditional medicine. However, his close advisors and goverment friends had acess to healthcare abroad, and often travelled to do surgeries. During the 1970 cholera epidemic, Nguan hoarded all of the vaccines given by international aid organizations in his villa, only allowing close suporters and family to acess. Hundreads of thousands more died due to preventable diesese the folowing years.
