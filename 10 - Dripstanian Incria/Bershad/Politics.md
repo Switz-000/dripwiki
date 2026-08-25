@@ -50,7 +50,7 @@ Use of the Parund language was imposed, with harsh 30 year prison sentences for 
 (1968)
 
 After a plebicide, the 1962 constitution was revoked and replacing it was a decree that gave absolute power for life to Nguan and forbid all political organizations besides Nguan's Party.
-He also personally dismembered the president of the central bank after a heated argument over the country's debt and rampet inflation so he can "learn how to count". This event alongside the purge of the country's economists and accountants is the reason no economic or demographic data is avaliable past this point.
+He also personally dismembered the president of the central bank after a heated argument over the country's debt and rampant inflation so he can "learn how to count". This event alongside the purge of the country's economists and accountants is the reason no economic or demographic data is avaliable past this point.
 
 Nguan extended military service to start at age 8. 
 (1969)
