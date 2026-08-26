@@ -1,4 +1,4 @@
-```
+---
 type: ideology
 name:
 aliases:
@@ -22,4 +22,4 @@ notable_ideas:
 exemples:
 literature:
 -
-```
+---

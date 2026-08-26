@@ -1,3 +1,17 @@
+---
+type: concept
+summary:
+aliases:
+  -
+era:
+  -
+tags:
+  -
+meta:
+  stub: true
+  verified: false
+  image: null
+---
 
 The last census was conducted in 1950 by the [[General Government of Incria]] during [[Dripstanian Empire|imperial]] rule over the country
 

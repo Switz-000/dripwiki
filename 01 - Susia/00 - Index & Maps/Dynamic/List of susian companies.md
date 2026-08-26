@@ -1,3 +1,18 @@
+---
+type: index
+summary:
+aliases:
+  -
+era:
+  -
+tags:
+  -
+meta:
+  stub: true
+  verified: false
+  image: null
+---
+
 ```dataviewjs
 dv.table(
   ["Company", "Market cap (billions)", "Sector", "Company Type", "Headquarters Location"],

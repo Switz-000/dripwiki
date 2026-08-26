@@ -1,3 +1,18 @@
+---
+type: concept
+summary:
+aliases:
+  -
+era:
+  -
+tags:
+  -
+meta:
+  stub: true
+  verified: false
+  image: null
+---
+
 Firearms ownership and competence are deeply embedded in Susian civic identity. The tradition traces its roots to the practical demands of early colonial settlement, was codified as political philosophy by [[Armadesh Versij]], and was cemented as national doctrine by [[Jartes II]]'s disarmament of the population before the [[Liberal Revolts]]. Both open carry and concealed carry are constitutionally protected at the federal level. Gun safety is a required component of the civics curriculum in all Susian middle and high schools.
 
 ## Origins

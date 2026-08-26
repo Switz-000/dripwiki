@@ -1,6 +1,6 @@
 ### Qualities
 
-An article's YALM may have three level of qualities
+An article's YAML may have three level of qualities
 
 1 - Stub: These are articles that don't have all required fields met
 2 - Incomplete: These are articles that have all (Required) fields but not all of the (Recommended)

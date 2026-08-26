@@ -1,3 +1,18 @@
+---
+type: concept
+summary:
+aliases:
+  -
+era:
+  -
+tags:
+  -
+meta:
+  stub: true
+  verified: false
+  image: null
+---
+
 (stub)
 
 History as analysed by [[Ňotrič Apaj]]. For [[Ňotrič Apaj|Apaj]]'s perscripton of what society should be, see [[Apajianism]].

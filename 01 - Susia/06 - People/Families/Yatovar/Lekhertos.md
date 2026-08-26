@@ -151,7 +151,7 @@ meta:
 - RESOLVED: the three Khoseri deaths in a single year are not an artefact of the chart. They are the Tragedy of Takhesire: Lekhertos and [[Tedeli Khoseri]] poisoned by conspirators targeting Prazde, and [[Mawesi Khoseri]] a suicide a week later. The same reasoning no longer supports treating the shared Frajes death year as a placeholder.
 - CONTRADICTION, unresolved: the chart dates his marriage to Prazde at 160 AS, 1790, and the birth of [[Prazde II of Zaphonia]] at 170 AS, 1780, ten years before the marriage.
 - Ethnicity and religion left blank. He is Zaphonian and no vault article establishes either for that people.
-- Era values are the Susian imperial vocabulary, used because Zaphonia was a Dripstanian vassal in this period. [[YALM and Tags]] defines no Zaphonian era set.
+- Era values are the Susian imperial vocabulary, used because Zaphonia was a Dripstanian vassal in this period. [[YAML and Tags]] defines no Zaphonian era set.
 - [[Mawesi Khoseri]] and [[Tedeli Khoseri]] are the Zaphonian royal couple on the chart, 236 to 157 AS and 201 to 157 AS. Neither has an article and neither is placed in the vault's folder structure, Zaphonia having no people folder.
 
 %%

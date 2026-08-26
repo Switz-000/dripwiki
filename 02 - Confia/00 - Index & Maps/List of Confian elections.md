@@ -1,3 +1,18 @@
+---
+type: index
+summary:
+aliases:
+  -
+era:
+  -
+tags:
+  -
+meta:
+  stub: true
+  verified: false
+  image: null
+---
+
 ## 1956 Confian general election
 
 |               Party               |        Leader        | Seats (%) | Votes (%) |   Status   |

@@ -1,3 +1,17 @@
+---
+type: document
+summary:
+aliases:
+  -
+era:
+  -
+tags:
+  -
+meta:
+  stub: true
+  verified: false
+  image: null
+---
 
 [[Razrij|Razrijian]] retiree filmed sheltering under 63 cold-stunned iguanas during the town's first hard freeze on record. A local firm has already registered the image as a trademark for 300 thousand drips.
 

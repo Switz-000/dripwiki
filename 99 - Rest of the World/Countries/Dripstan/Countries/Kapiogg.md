@@ -15,7 +15,7 @@ currency: K$
 international_organizations: "[[ODDN]]"
 capital:
 major_cities:
-  - "[[Oesburg]]"
+  -
 continent: Dripstan
 borders_east:
 borders_west:
@@ -40,3 +40,18 @@ aliases:
     
 - Kapiogg drafted a new constitution in 1980, becoming a parliamentary monarchy
 
+
+%% FLAGS:
+
+- Oesburg removed from major_cities. It is a province of Kapiogg, not a city.
+  The article's own History section describes Drippalia invading to annex Kapiogg's
+  western provinces, and [[Continental Divide]] names Oesburg and Jaeregg as the
+  disputed provinces. [[Oesburg]] is now type: state.
+- major_cities and capital are both empty as a result. Kapiogg has no city article
+  in the vault.
+- [[Jaeregg]], the sister province, is linked from [[Continental Divide]] and has no
+  article.
+- The body refers to [[ONND]] while the frontmatter and [[Continental Divide]] use
+  [[ODDN]]. One of the two is wrong; not resolved here.
+- The Drippalia link in the History section is written as a full vault path rather
+  than a page name. %%

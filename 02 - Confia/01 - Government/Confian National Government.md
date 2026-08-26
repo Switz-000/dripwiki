@@ -1,3 +1,18 @@
+---
+type: institution
+summary:
+aliases:
+  -
+era:
+  -
+tags:
+  -
+meta:
+  stub: true
+  verified: false
+  image: null
+---
+
 The **Confian National Government** (Confian: Końfiski Sowjažei Wlaššesse/Коњфіски Совяжей Влашшессе) is the national level of the [[Confia|Confian]] government.
 
 # Structure

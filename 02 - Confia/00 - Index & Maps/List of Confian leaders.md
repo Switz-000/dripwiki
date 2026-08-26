@@ -1,3 +1,18 @@
+---
+type: index
+summary:
+aliases:
+  -
+era:
+  -
+tags:
+  -
+meta:
+  stub: true
+  verified: false
+  image: null
+---
+
 # Social Republic (2009-)
 
 President of the Nation (President)

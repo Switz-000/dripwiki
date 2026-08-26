@@ -1,3 +1,18 @@
+---
+type: concept
+summary:
+aliases:
+  -
+era:
+  -
+tags:
+  -
+meta:
+  stub: true
+  verified: false
+  image: null
+---
+
 A right is a legal, social, or ethical principle of freedom or entitlement. Rights are the fundamental rules about what is allowed of people or owed to people according to a legal system, social convention, or ethical theory.
 
 ---

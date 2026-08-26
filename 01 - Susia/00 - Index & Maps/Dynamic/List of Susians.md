@@ -1,3 +1,18 @@
+---
+type: index
+summary:
+aliases:
+  -
+era:
+  -
+tags:
+  -
+meta:
+  stub: true
+  verified: false
+  image: null
+---
+
 Every vault article of `type: person` whose nationality includes Susia, newest
 birth first. Sourced from frontmatter; a blank cell means the field is empty on
 that person's article, not that the fact is unknown to canon.

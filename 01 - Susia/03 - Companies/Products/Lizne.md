@@ -1,3 +1,18 @@
+---
+type: product
+summary:
+aliases:
+  -
+era:
+  -
+tags:
+  -
+meta:
+  stub: true
+  verified: false
+  image: null
+---
+
 **Lizne** (Lit. 'Connect') is a [[Susia|Susian]] messaging service and social media platform owned by [[Soites Group]]. 
 
 

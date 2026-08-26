@@ -1,3 +1,18 @@
+---
+type: index
+summary:
+aliases:
+  -
+era:
+  -
+tags:
+  -
+meta:
+  stub: true
+  verified: false
+  image: null
+---
+
 |                                | **[[Spruyǎtročeyon]]** (giant, wild)                                                                 | **[[Susian wild bison]]**                                                                  | Susian Domesticated bison            | **Hybrid bison** (LV-engineered)             | **Cattle** (Gaiyanese stock)                                    |
 | ------------------------------ | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------ | -------------------------------------------- | --------------------------------------------------------------- |
 | **Status**                     | Wild, protected, group-living                                                                        | Wild + ranched                                                                             | Ranched                              | Ranched                                      | Ranched                                                         |

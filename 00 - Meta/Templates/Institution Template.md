@@ -1,7 +1,7 @@
 ---
 # ── IDENTITY ─────────────────────────────────────────────────────────────────
 type: institution
-native_name: # name in the native language of the country. if country has more than one language, fuck off. pick one 
+native_name: # name in the native language; where a country has several, use the language of the seat
 abbreviation:
 aliases:
   -
