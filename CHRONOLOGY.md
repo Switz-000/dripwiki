@@ -98,7 +98,7 @@ meta:
 - **Birth** — [[Zagoste Paroska]] born in [[Duolij]], [[Postia]]
 
 ## 1799
-- **Birth** — [[Ganzer Kieron]] born in [['Imgospalje']], [[Koštanože]]
+- **Birth** — [[Ganzer Kieron]] born in [[Imgospalje]], [[Koštanože]]
 
 ## 1800
 - **Birth** — [[Prazde II of Zaphonia]] born in ?, ?
