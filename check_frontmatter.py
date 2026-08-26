@@ -31,7 +31,7 @@ SKIP   = {".git", ".github", ".githooks", ".obsidian", "00 - Meta"}
 TYPES = set("""country state city region geography fez company product person institution
 organization law project treaty event war atrocity period rebellion movement ideology
 religion concept tradition sport document technology disease species language structure
-index meta""".split())
+index meta ethnicity family""".split())
 
 ERAS = set("""pre-colonial settlement imperial-era early-imperial high-imperial fraternal-war
 late-imperial liberal-revolts dissolution republican-era continental-divide continental-war

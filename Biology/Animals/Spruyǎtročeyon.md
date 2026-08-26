@@ -1,8 +1,19 @@
 ---
+type: species
 aliases:
   - Susian giant bison
   - Giant bison
+summary:
+era:
+  -
+tags:
+  -
+meta:
+  stub: true
+  verified: false
+  image: null
 ---
+
 The **Spruyǎtročeyon** (*Bromačij Spruyǎtroch*) is the largest wild bovine on the [[Dripstanian Continent]] and the larger of the two bison species native to [[Susia]]. Its name in [[Susian language|Susian]] translates approximately as "absolute sovereign of the plains". Found along the margins of the [[Pounnun Desert]] and in the parkland of the eastern interior, it has been the prestige game of the [[Cericeiro|Cericeiros]] since the [[Dripstanian Empire|imperial period]].
 
 Mature bulls weigh 1,600 to 2,000 kg and stand approximately 2.4 to 2.5 m at the shoulder, with horn spreads of 1.8 to 2.4 m. Cows weigh 900 to 1,150 kg. The species is distinguished from the [[Susian wild bison]] by its larger body, more pronounced shoulder hump, and significantly longer horns, which curve outward rather than upward. The coat is dark brown across the body and lighter on the forequarters, with longer guard hair than its smaller relative.

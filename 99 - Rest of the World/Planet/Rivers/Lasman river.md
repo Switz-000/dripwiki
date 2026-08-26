@@ -22,4 +22,4 @@ List of cities on the Lasman river
 | [[Carlotopolis]] | [[Karlotopol']] | [[Confia]]                                                                                      |
 | [[Niqueparj]]    | [[Misocévia]]   | [[Susia]] On a tributary of the main Lasman river, joins it at an eastern upstream channel. it  |
 | [[Lore-Kurji]]   | [[Misocévia]]   | [[Susia]]  | Confluence of the r                                                                |
-| [[Jaffnidia]]    | [[Dripia]]      | [[Susia]                                                                                        |
+| [[Jaffnidia]]    | [[Dripia]]      | [[Susia]]                                                                                        |

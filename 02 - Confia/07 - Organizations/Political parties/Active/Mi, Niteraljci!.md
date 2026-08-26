@@ -9,7 +9,7 @@ aliases:
 status: Active
 founded_by:
   - "[[Lenseka Japlenowina]]"
-  - "[[Saserna Kašdunna ]]"
+  - "[[Saserna Kašdunna]]"
 founded: 1992
 dissolved:
 merger_of:

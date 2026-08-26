@@ -131,7 +131,7 @@ tags:
   - history
 
 meta:
-  stub: false
+  stub: true
   verified: false
   image: null
 ---

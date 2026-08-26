@@ -142,7 +142,7 @@ organization law          project      treaty       event
 war          atrocity     period       rebellion    movement
 ideology     religion     concept      tradition    sport
 document     technology   disease      species      language
-structure    index        meta
+ethnicity    family       structure    index        meta
 ```
 
 Notes on the ones that get confused:
@@ -156,6 +156,10 @@ Notes on the ones that get confused:
 - **`war`** for a whole conflict, **`event`** for a battle, revolt or crisis
   inside one, **`atrocity`** for a massacre or campaign against civilians.
 - **`index`** for any list or index file, including generated ones.
+- **`ethnicity`** for a people or racial group. Distinct from `species`, which
+  is biological, and from `country`, which is a polity.
+- **`family`** for a dynasty or house treated as a subject in its own right.
+  Its individual members remain `person` articles.
 - **`meta`** for worldbuilding worksheets that are not articles.
 
 ---
@@ -339,6 +343,8 @@ Newest first. If you have not written for the vault since a date below, the
 entries above it are what changed under you.
 
 **2026-08-26**
+- Added `ethnicity` and `family`. Peoples and dynasties had no type; `species`
+  is biological and does not describe a people.
 - Added eight types: `atrocity`, `region`, `geography`, `species`, `disease`,
   `product`, `language`, `period`. The vocabulary had stopped at Susia's
   political core; `Biology/`, `Languages/`, `Technology/` and `Planet/` had no

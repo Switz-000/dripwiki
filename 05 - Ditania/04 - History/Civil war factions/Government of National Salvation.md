@@ -1,7 +1,18 @@
 ---
+type: organization
 aliases:
   - GNS
+summary:
+era:
+  -
+tags:
+  -
+meta:
+  stub: true
+  verified: false
+  image: null
 ---
+
 Type: Internationally recognized government (1981-1986) Warlord rump state (1981-1994)
 Leader: [[Larje Bisol]] (1981) [[Raen Beinofa]] (1981-1994)
 Ideology: Ditanian Nationalism

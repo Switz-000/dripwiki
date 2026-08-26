@@ -1,4 +1,5 @@
 ---
+type: index
 aliases:
   - susian sayings
   - susian expressions
@@ -8,6 +9,13 @@ tags:
   - politics
   - religion
   - media
+summary:
+era:
+  -
+meta:
+  stub: true
+  verified: false
+  image: null
 ---
 
 | **TERM**            | **LIT. MEANING**                                       | **DEFINITION**                                                                                                                                                                                      | **CONNONTATION**                                                                                                                                                 | **CONTEXT**                                                                                                                                                                                                                                                   |

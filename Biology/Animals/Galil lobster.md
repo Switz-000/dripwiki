@@ -1,8 +1,19 @@
 ---
+type: species
 aliases:
   - Giant Susian lobster
   - Flathead lobster
+summary:
+era:
+  -
+tags:
+  -
+meta:
+  stub: true
+  verified: false
+  image: null
 ---
+
 The **Galil Lobster** (*Speriosves Palrej*) is a species of slipper lobster found in the [[Sea of Galil|Galil coast]], chiefly from [[Postia]], [[Vitrika]] and [[Orlítia]]. It is also known as **Giant susian lobster** or **flathead lobster**. It is the largest known slipper lobster and used for many traditional dishes all over coastal [[Susia]].
 
 The largest *S. Palrej* reach 55-60 cm in total length and can weigh up to 2.2 kg, though the typical adult measures 35-45 cm and weighs 1-1.6 kg. The carapace is broad, heavily calcified, and strongly tuberculate, covered in coarse rounded protrusions. Coloration is reddish-brown to dark orange with ochre mottling that provides camouflage against reef substrate. The flesh is firm, moderately sweet, and abundant, with a meat yield of approximately 40–45% of body weight.
