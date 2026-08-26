@@ -30,6 +30,8 @@ area_served: "[[Susia]]"
 international_affiliation:
 national_affiliation:
 regional_affiliation:
+tags:
+  - politics/elections
 ---
 
 The **Susian Democratic Union** is a [[Party Federation]] in Susia that existed from 1954 until the [[The Great Transition|The Great Transition of 2038]] when it was dissolved with most of its constituent state parties joining the [[Coalition of State's Rights]] or the [[Democratic-Federalist Party]]

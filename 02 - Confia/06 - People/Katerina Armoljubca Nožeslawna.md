@@ -149,7 +149,8 @@ era:
 
 # ── META ────────────────────────────────────────────────────────────────────
 tags:
-  -
+  - politics/governance
+  - economy/agriculture
 
 meta:
   stub: true

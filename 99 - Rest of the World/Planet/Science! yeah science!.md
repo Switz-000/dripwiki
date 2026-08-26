@@ -6,7 +6,8 @@ aliases:
 era:
   -
 tags:
-  -
+  - knowledge/science
+  - land/geography
 meta:
   stub: true
   verified: false

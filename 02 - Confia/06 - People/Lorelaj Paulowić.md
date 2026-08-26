@@ -141,7 +141,9 @@ era:
   - late-imperial
   - continental-divide
 tags:
-  -
+  - politics/governance
+  - conflict/military
+  - politics/revolution
 meta:
   stub: true
   verified: false

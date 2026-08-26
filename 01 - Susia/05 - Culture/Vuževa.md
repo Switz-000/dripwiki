@@ -3,6 +3,9 @@ aliases:
   - Vulre ro žaveža
   - Silicon dreamers
 type: concept
+tags:
+  - culture/language
+  - knowledge/technology
 ---
 **Vulre ro žaveža** (Lit. 'Silicon dreamers'), informally shortened as **Vuževa** is a [[Susia|Susian]] slang term that describes a person who escapes reality through digital means. 
 

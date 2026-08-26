@@ -3,6 +3,9 @@ type: region
 aliases:
   - The Silver Coast
   - Silver Coast
+tags:
+  - society/urbanism
+  - land/geography
 ---
 The Silver Coast is the metropolitan region on the southwestern coast of [[Dripia]], along the [[Sea of Galil]]. It is the urbanized core of the state's southern plains, which are flat, densely settled, and open northward toward the interior. The region takes its name from the stretch of Dripian shoreline it occupies.
 

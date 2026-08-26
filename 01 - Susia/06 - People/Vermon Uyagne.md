@@ -123,7 +123,8 @@ era:
 
 # ── META ────────────────────────────────────────────────────────────────────
 tags:
-  -
+  - culture/arts
+  - belief/philosophy
 
 meta:
   stub: true

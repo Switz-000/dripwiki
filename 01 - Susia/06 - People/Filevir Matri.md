@@ -171,7 +171,9 @@ era:
 
 # ── META ────────────────────────────────────────────────────────────────────
 tags:
-  -
+  - politics/governance
+  - politics/elections
+  - politics/law
 
 meta:
   stub: true

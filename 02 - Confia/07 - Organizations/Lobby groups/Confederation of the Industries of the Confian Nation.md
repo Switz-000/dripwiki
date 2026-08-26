@@ -6,7 +6,8 @@ aliases:
 era:
   -
 tags:
-  -
+  - economy/corporate
+  - society/crime
 meta:
   stub: true
   verified: false

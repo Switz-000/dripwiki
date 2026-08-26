@@ -125,7 +125,8 @@ awards:
 era:
   -
 tags:
-  -
+  - politics/governance
+  - economy/labor
 meta:
   stub: true
   verified: false

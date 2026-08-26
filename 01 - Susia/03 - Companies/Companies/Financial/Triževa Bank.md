@@ -13,6 +13,8 @@ yarnojte_revoked:
 fez_locations:
 sector:
   - Financials
+tags:
+  - economy/finance
 ---
 Marketshare:
 - Retail (16%): Checking accounts, car loans, mortgages

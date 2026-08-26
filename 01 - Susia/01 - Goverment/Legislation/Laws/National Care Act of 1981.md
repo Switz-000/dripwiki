@@ -4,6 +4,7 @@ era:
   - republican-era
   - post-war
 tags:
+  - society/welfare
   - politics/law
   - knowledge/medicine
   - economy/finance

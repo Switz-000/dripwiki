@@ -8,6 +8,9 @@ participants:
   - "[[Hervan Naveo]]"
 location: "[[Noňofriye]]"
 published_by: "[[Susian Naval Academy]]"
+tags:
+  - society/education
+  - conflict/military
 ---
 
 # Format

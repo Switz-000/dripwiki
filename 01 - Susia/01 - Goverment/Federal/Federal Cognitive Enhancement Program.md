@@ -5,9 +5,8 @@ era:
   - global-cold-war
   - enhancement-era
 tags:
-  - knowledge/science
-  - knowledge/technology
+  - knowledge/enhancement
+  - politics/law
   - knowledge/medicine
   - conflict/military
-  - politics/law
 ---

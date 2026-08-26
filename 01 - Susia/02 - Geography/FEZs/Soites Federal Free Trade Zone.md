@@ -8,7 +8,8 @@ summary:
 era:
   -
 tags:
-  -
+  - economy/corporate
+  - politics/law
 meta:
   stub: true
   verified: false

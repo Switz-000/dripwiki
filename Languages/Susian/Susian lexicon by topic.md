@@ -1,5 +1,7 @@
 ---
 type: meta
+tags:
+  - culture/language
 ---
 # Lexicon by topic
 

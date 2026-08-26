@@ -41,6 +41,10 @@ yarnojtes_fez:
   - "[[Troli Ustaras]]"
 aliases:
   - Dripian
+tags:
+  - society/urbanism
+  - economy/finance
+  - land/geography
 ---
 
 Dripia is a state in the central-west region of [[Susia]], the wealthiest state in the country by GDP per capita and home to [[Neoveli]], Susia's second largest city and its financial capital. The state has a temperate oceanic climate, with plains in the south giving way to forests in the north, and extensive coastal access along the [[Sea of Galil]]. Its capital is [[New Kentu]].

@@ -39,6 +39,10 @@ borders_south:
   - "[[Sutsa-Fuhu]]"
 gdp_per_capita_2080: 251000
 gdp_2080: 62521000000000
+tags:
+  - politics/governance
+  - economy/corporate
+  - culture/firearms
 ---
 **Susia**, officially the **Techno-Federative Republic of Susia**, is a federal presidential republic located on the [[Dripstan]] continent, bordered by [[Confia]] to the east, [[-Repo/99 - Rest of the World/Countries/Dripstan/Countries/Drippalia]] to the northeast, [[Zaphonia]] to the southeast, [[Astofayan]] and [[Sutsa-Fuhu]] to the south, and the [[Sea of Galil]] to the west and north. The country was established in 1954 following the dissolution of the [[Dripstanian Empire]] through the [[Tahuni Accords]], and adopted its current constitutional framework in 2038 following the [[The Great Transition|Great Transition]]. With a population of approximately 247 million and a GDP of D$62.5 trillion as of 2080, Susia is the most economically developed nation on the Dripstanian continent and the founder of the [[ODDN]] liberal-capitalist bloc.
 ### Geography

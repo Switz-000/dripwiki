@@ -123,7 +123,8 @@ era:
 
 # ── META ────────────────────────────────────────────────────────────────────
 tags:
-  -
+  - belief/philosophy
+  - politics/nationalism
 
 meta:
   stub: true

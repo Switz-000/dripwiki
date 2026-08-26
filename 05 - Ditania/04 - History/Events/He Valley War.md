@@ -6,7 +6,7 @@ aliases:
 era:
   -
 tags:
-  -
+  - conflict/military
 meta:
   stub: true
   verified: false

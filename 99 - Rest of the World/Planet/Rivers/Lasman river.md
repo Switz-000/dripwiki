@@ -6,7 +6,7 @@ aliases:
 era:
   -
 tags:
-  -
+  - land/geography
 meta:
   stub: true
   verified: false

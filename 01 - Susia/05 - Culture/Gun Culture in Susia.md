@@ -6,7 +6,8 @@ aliases:
 era:
   -
 tags:
-  -
+  - culture/firearms
+  - culture/tradition
 meta:
   stub: true
   verified: false

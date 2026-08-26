@@ -6,7 +6,7 @@ aliases:
 era:
   -
 tags:
-  -
+  - society/education
 meta:
   stub: true
   verified: false

@@ -101,7 +101,8 @@ awards:
 era:
   -
 tags:
-  -
+  - politics/governance
+  - economy/finance
 meta:
   stub: true
   verified: false

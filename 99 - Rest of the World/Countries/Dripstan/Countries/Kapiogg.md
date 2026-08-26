@@ -23,6 +23,10 @@ borders_north:
 borders_south:
 aliases:
   - Kingdom of Kapiogg
+tags:
+  - politics/monarchy
+  - society/race
+  - land/colonial
 ---
 ### Brief History
 

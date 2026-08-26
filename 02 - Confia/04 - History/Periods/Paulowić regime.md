@@ -6,7 +6,9 @@ aliases:
 era:
   -
 tags:
-  -
+  - politics/governance
+  - politics/dissent
+  - conflict/intelligence
 meta:
   stub: true
   verified: false

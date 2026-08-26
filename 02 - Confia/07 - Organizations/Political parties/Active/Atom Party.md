@@ -27,6 +27,9 @@ area_served:
 international_affiliation:
 national_affiliation:
 regional_affiliation:
+tags:
+  - politics/elections
+  - belief/ideology
 ---
 
 The **Atom Party** is a [[Confia|Confian]] [[Modernism|modernist]] political party.

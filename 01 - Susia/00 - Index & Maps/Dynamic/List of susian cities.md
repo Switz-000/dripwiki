@@ -6,7 +6,7 @@ aliases:
 era:
   -
 tags:
-  -
+  - society/urbanism
 meta:
   stub: true
   verified: false

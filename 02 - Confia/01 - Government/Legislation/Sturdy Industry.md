@@ -6,7 +6,8 @@ aliases:
 era:
   -
 tags:
-  -
+  - economy/industry
+  - politics/governance
 meta:
   stub: true
   verified: false

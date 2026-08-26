@@ -6,7 +6,7 @@ aliases:
 era:
   -
 tags:
-  -
+  - knowledge/medicine
 meta:
   stub: true
   verified: false

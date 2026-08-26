@@ -6,7 +6,8 @@ aliases:
 era:
   -
 tags:
-  -
+  - politics/governance
+  - land/colonial
 meta:
   stub: true
   verified: false

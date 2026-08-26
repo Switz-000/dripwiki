@@ -6,7 +6,8 @@ aliases:
 era:
   -
 tags:
-  -
+  - belief/philosophy
+  - politics/law
 meta:
   stub: true
   verified: false

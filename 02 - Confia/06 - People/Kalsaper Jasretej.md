@@ -92,7 +92,8 @@ awards:
 era:
   - social-republic
 tags:
-  -
+  - politics/governance
+  - knowledge/technology
 meta:
   stub: true
   verified: false

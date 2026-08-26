@@ -6,7 +6,9 @@ aliases:
 era:
   -
 tags:
-  -
+  - society/race
+  - conflict/military
+  - land/colonial
 meta:
   stub: true
   verified: false

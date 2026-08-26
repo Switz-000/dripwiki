@@ -6,7 +6,7 @@ aliases:
 era:
   -
 tags:
-  -
+  - knowledge/technology
 meta:
   stub: true
   verified: false

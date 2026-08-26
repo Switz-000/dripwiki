@@ -6,7 +6,9 @@ aliases:
 era:
   -
 tags:
-  -
+  - society/demographics
+  - society/race
+  - land/colonial
 meta:
   stub: true
   verified: false

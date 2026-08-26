@@ -7,6 +7,9 @@ population_2000: 4300000
 population_1970: 2600000
 population_1950: 1700000
 landlocked: false
+tags:
+  - society/urbanism
+  - economy/finance
 ---
 - The second largest city in [[Susia]], finance hub, cosmopolitan culture, old money meets new money
 - Built overlooking the [[Sea of Galil]], known for the [[Nassoj Tower]] (Largest building in Susia), Versijian Square (Site of the Liberal Revolt assembly, now ringed by banks), “The Silver Mile” (waterfront promenade, sunset strolls, proposal spot), Bridges that change color based on stock market performance.

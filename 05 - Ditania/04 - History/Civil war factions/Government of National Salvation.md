@@ -6,7 +6,9 @@ summary:
 era:
   -
 tags:
-  -
+  - conflict/military
+  - politics/governance
+  - politics/nationalism
 meta:
   stub: true
   verified: false
