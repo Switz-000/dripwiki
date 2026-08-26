@@ -1,7 +1,7 @@
 ---
 type: project
 organizer: "[[Frumentarze]]"
-contractor: "[[Van Ritter|Van Ritter]]"
+contractor: "[[Van Ritter]]"
 funding: "[[Susian Federal Government|Federal Goverment]]"
 status: discontinued
 classified_status: classified

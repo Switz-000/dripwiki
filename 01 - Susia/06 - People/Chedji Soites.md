@@ -161,7 +161,7 @@ tags:
   - media
 
 meta:
-  stub: false
+  stub: true
   verified: false
   image: null
 ---

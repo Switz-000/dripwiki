@@ -1,8 +1,8 @@
 ---
-Class: project
+type: project
 organizer:
   - "[[Frumentarze]]"
-contractor: "[[Van Ritter|Van Ritter]]"
+contractor: "[[Van Ritter]]"
 funding:
   - "[[Susian Federal Government|Federal Goverment]]"
 status: Active
@@ -14,4 +14,15 @@ key_figures:
 cause:
 outcome:
 related_events:
+summary:
+aliases:
+  -
+era:
+  -
+tags:
+  -
+meta:
+  stub: true
+  verified: false
+  image: null
 ---

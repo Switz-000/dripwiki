@@ -20,7 +20,7 @@ think_tank:
 youth_wing:
 paramilitary:
 ideology:
-  - Conservatism 
+  - Conservatism
 political_position:
   - Right
 wings:

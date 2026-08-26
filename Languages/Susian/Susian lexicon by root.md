@@ -1,7 +1,19 @@
 ---
-
+type: meta
 ## type: meta
+summary:
+aliases:
+  -
+era:
+  -
+tags:
+  -
+meta:
+  stub: true
+  verified: false
+  image: null
 ---
+
 # Lexicon by root
 
 Every attested Susian word, filed under the root it derives from. Composites appear under their head element with a pointer from the other element. Glosses live here; the by-topic file holds the same words sorted by meaning.

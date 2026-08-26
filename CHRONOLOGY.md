@@ -499,7 +499,7 @@ meta:
 
 - **Dissolved** — [[Confian Liberal Party]]
 - **End of tenure** — [[Ganzer Teahowić]] leaves State Governor of North Nijbania at [[North Nijbania]]
-- **Founded** — [[Mi, Niteraljci!]] by [[Lenseka Japlenowina]] and [[Saserna Kašdunna ]]
+- **Founded** — [[Mi, Niteraljci!]] by [[Lenseka Japlenowina]] and [[Saserna Kašdunna]]
 - **Graduation** — [[Yavna Raroska]] — Political Science at [[University of New Kentu]]
 - **Publication** — *[[Children of the Same Mother]]* by [[Ňotrič Apaj]] — *Attempts to ground cosmopolitan ethics in biological and historical universals. His most systematic work and his least-read.*
 
@@ -623,6 +623,9 @@ meta:
 
 ## 2065
 - **Founded** — [[Lischev-Verene]] in [[Sužielaj city]]
+
+## 2072
+- **Project begins** — [[Project NIRVEV]] (organized by [[Frumentarze]])
 
 ## 2073
 - **Founded** — [[Rǎz Lizňir]] in [[Velúria]]

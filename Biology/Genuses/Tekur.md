@@ -1,7 +1,18 @@
 ---
+type: ethnicity
 aliases:
   - Tekurs
+summary:
+era:
+  -
+tags:
+  -
+meta:
+  stub: true
+  verified: false
+  image: null
 ---
+
 Tekurs are a major racial group in the [[Dripstanian Continent]]. They are the majority population in [[-Repo/99 - Rest of the World/Countries/Dripstan/Countries/Drippalia]], [[Kapiogg]] and [[Celiolaj]] and are sizeable minorities in [[Susia]], [[Confia]] and [[Pierej]].
 
 # Etymology

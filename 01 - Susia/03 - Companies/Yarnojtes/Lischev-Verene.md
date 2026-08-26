@@ -58,7 +58,7 @@ Lischev-Verene was granted [[Yarnojte]] status in 2073, eight years after the me
 
 Lischev-Verene's core product lines span three domains. In pharmaceuticals, it manufactures pain management compounds, disease treatments, and the biological compatibility drugs used in cognitive enhancement procedures. In enhancement and life extension, it performs enhancement procedures using its own less invasive biological approach, develops genetic therapies, and administers the [[VITAKEI]] life extension and health monitoring system. In healthcare services, it operates clinics and provides coverage at D$800 per month for full healthcare with genetic data sharing, or D$2,000 per month without.
 
-Among the company's documented medical achievements as of 2090 are the near-elimination in [[Susia]] of breast, prostate, colorectal, stomach, and lung cancer; effective treatments for [[Tarlanna's disease|Tarlanna's disease]] and [[Jashevor's disease]]; and treatment for osteoporosis and several forms of dementia. Residents of the [[Garden of Latice FEZ]] have documented lifespans of 120 to 140 years under the full life extension program.
+Among the company's documented medical achievements as of 2090 are the near-elimination in [[Susia]] of breast, prostate, colorectal, stomach, and lung cancer; effective treatments for [[Tarlanna's disease]] and [[Jashevor's disease]]; and treatment for osteoporosis and several forms of dementia. Residents of the [[Garden of Latice FEZ]] have documented lifespans of 120 to 140 years under the full life extension program.
 
 ### Agricultural Biotechnology
 

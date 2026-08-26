@@ -78,7 +78,7 @@ The [[Susian National Crolball League]] (SNCL) organizes professional crolball c
 
 ### Corporate teams
 
-Three [[Yarnojte|Yarnojte]]-sponsored teams currently compete in the SNCL. Corporate-sponsored clubs are a distinct minority in the league and occupy an ambivalent position in Susian sports culture: they attract audiences connected to their parent companies but generally lack the civic roots that sustain the most popular clubs.
+Three [[Yarnojte]]-sponsored teams currently compete in the SNCL. Corporate-sponsored clubs are a distinct minority in the league and occupy an ambivalent position in Susian sports culture: they attract audiences connected to their parent companies but generally lack the civic roots that sustain the most popular clubs.
 
 | Team | Sponsor |
 |---|---|
