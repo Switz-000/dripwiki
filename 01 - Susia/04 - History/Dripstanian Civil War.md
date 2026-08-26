@@ -39,10 +39,12 @@ era:
   - fraternal-war
 tags:
   - conflict/military
+  - politics/monarchy
+  - politics/dissent
 meta:
   stub: true
   verified: false
-  image: null
+  image:
 ---
 
 The **Dripstanian Civil War** (1815–1823), also called the **Fraternal War**, was a war of succession between the twin children of [[Empress Yaneoli]], [[Empress Prazde|Prazde]] and [[Jartes I|Jartes]]. Prazde was crowned on her mother's death and held the throne for the length of the war. Jartes won it, and reigned until 1837.
