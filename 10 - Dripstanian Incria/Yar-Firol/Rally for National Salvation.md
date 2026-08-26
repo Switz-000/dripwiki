@@ -6,7 +6,7 @@ abbreviation: RNS
 aliases:
 
 status:
-founded_by [[Bejňar Keke]]
+founded_by: "[[Bejňar Keke]]"
 founded: 1962
 dissolved:
 

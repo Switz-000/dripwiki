@@ -85,19 +85,21 @@ def extract_events(
     for work in fm.get("written_works", []) or []:
         if not isinstance(work, dict):
             continue
-        year = work.get("publication_date")
+        year = work.get("publication_year")
         wtitle = work.get("title", "Untitled work")
         add(year, f"**Publication** — *{wtitle}* by {link}{_notes(work)}")
 
     # ── Person ───────────────────────────────────────────────────────────────
     if note_type == "person":
-        add(fm.get("birth_year"),
+        birth = fm.get("birth") or {}
+        death = fm.get("death") or {}
+        add(birth.get("year"),
             f"**Birth** — {link} born in "
-            f"{fm.get('birth_city') or '?'}, {_wl(fm.get('birth_state'))}")
+            f"{birth.get('city') or '?'}, {_wl(birth.get('state'))}")
 
-        add(fm.get("death_year"),
+        add(death.get("year"),
             f"**Death** — {link} died in "
-            f"{_wl(fm.get('death_state'))} ({fm.get('death_cause') or 'unknown cause'})")
+            f"{_wl(death.get('state'))} ({death.get('cause') or 'unknown cause'})")
 
         for edu in fm.get("education", []) or []:
             if not isinstance(edu, dict):
@@ -111,11 +113,11 @@ def extract_events(
                 continue
 
             appointer = office.get("appointer", "")
-            start     = office.get("start")
-            end       = office.get("end")
-            org       = _wl(office.get("organization"))
+            start     = office.get("start_year")
+            end       = office.get("end_year")
+            org       = _wl(office.get("employer"))
             title_str = office.get("title", "?")
-            party     = _wl(office.get("party")) if office.get("party") else None
+            party     = _wl(office.get("parties")) if office.get("parties") else None
             note_tail = _notes(office)
 
             if _is_election(str(appointer)):
@@ -146,10 +148,10 @@ def extract_events(
         for ms in fm.get("military_service", []) or []:
             if not isinstance(ms, dict):
                 continue
-            add(ms.get("start"),
+            add(ms.get("start_year"),
                 f"**Enlists** — {link} in {_wl(ms.get('branch'))} "
                 f"({ms.get('role', '')}){_notes(ms)}")
-            add(ms.get("end"),
+            add(ms.get("end_year"),
                 f"**Discharge** — {link} from {_wl(ms.get('branch'))}{_notes(ms)}")
 
     # ── Event ────────────────────────────────────────────────────────────────
