@@ -9,7 +9,7 @@ founded_by:
   - "[[Mariana Torres]]"
   - "[[Genrih Maskernie]]"
 founded: 1954
-dissolved: "1990"
+dissolved: 1990
 merger_of:
 split_from:
 merged_into:
