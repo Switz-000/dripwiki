@@ -1,1 +1,3 @@
-.obsidian/
+.obsidian/__pycache__/
+*.pyc
+_to_delete/

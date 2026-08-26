@@ -16,12 +16,12 @@ fez:
     creation: 2044
 yarnojte_status: 
     - status: Revoked
-	  granted: 2041
-	  revoked: 2047
-	  notes: Revoked due to the Troli Ustaras corruption scandal
-	- status: Active
-	  granted: 2051
-	  notes: Restored after company wide restructuring
+      granted: 2041
+      revoked: 2047
+      notes: Revoked due to the Troli Ustaras corruption scandal
+    - status: Active
+      granted: 2051
+      notes: Restored after company wide restructuring
 sector:
   - Technology
 era:

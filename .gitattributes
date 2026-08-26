@@ -1,0 +1,12 @@
+# Normalise all text to LF in the repository and on checkout.
+# The repo standard is LF; Windows editors were writing CRLF, which made
+# every touched file look fully rewritten in diffs.
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.pdf binary
+*.zip binary
