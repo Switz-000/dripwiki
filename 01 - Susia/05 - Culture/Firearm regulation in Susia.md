@@ -7,11 +7,9 @@ era:
   - techno-federative-era
   - contemporary
 tags:
-  - law
-  - military
+  - politics/law
+  - conflict/military
   - culture
-  - politics
-
 ---
 
 In [[Susia]], ownership and both open and concealed carry are protected by the [[Susian Constitution]], and the governing constitutional doctrine treats regulation as permissible only where it preserves meaningful exercise of the right rather than amounting to prohibition. Within that constraint, Susian law distinguishes between firearms an individual may own directly and heavier weapons held under additional licensing or through a [[Sorzenko]], producing a tiered system that is the most permissive on the continent.

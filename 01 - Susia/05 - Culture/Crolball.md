@@ -6,7 +6,7 @@ era:
   - techno-federative-era
   - contemporary
 tags:
-  - sport
+  - culture/sport
   - culture
 ---
 **Crolball** is the most popular sport in [[Susia]] and is played across much of the [[Dripstan]] continent, with active followings in [[Confia]], [[Zaphonia]], [[Pierej]], and [[Kamino]]. The game originated during the imperial era and is organized domestically through the [[Susian National Crolball League]].

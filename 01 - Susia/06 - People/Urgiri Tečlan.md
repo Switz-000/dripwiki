@@ -37,8 +37,8 @@ era:
   - republican-era
   - continental-divide
 tags:
-  - politics
-  - history
+  - politics/dissent
+  - society/crime
 meta:
   stub: false
   verified: false

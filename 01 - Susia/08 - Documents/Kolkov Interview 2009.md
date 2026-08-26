@@ -16,9 +16,8 @@ location:
   - "[[Susia]]"
 published_by: "[[University of New Kentu]]"
 tags:
-  - corporate
-  - labor
-  - politics
+  - economy/corporate
+  - economy/labor
   - culture
 ---
  TRANSCRIPT BEGINS

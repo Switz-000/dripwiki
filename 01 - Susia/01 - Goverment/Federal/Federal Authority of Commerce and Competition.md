@@ -6,8 +6,7 @@ era:
   - techno-federative-era
   - contemporary
 tags:
-  - politics
   - economy
-  - law
-  - labor
+  - politics/law
+  - economy/labor
 ---

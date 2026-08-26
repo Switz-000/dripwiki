@@ -9,11 +9,10 @@ participants:
 location:
   - "[[Susian Innovation Center]]"
 tags:
-  - corporate
-  - intelligence
-  - law
-  - politics
-  - science
+  - economy/corporate
+  - conflict/intelligence
+  - politics/law
+  - knowledge/science
 ---
 
 |Liyič||

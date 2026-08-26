@@ -9,10 +9,9 @@ era:
   - contemporary
 tags:
   - culture
-  - history
-  - military
-  - geography
-  - colonial
+  - conflict/military
+  - land/geography
+  - land/colonial
 ---
 **Cericeiros** were the frontier horsemen who led and populated the eastward expansion of the [[Dripstanian Empire]] from the established western coastal settlements into the interior territories that now comprise the states of [[Misocévia]], [[Sužielaj]], and [[Troli]]. Operating beyond the boundaries of settled imperial administration, Cericeiros explored, mapped, and established the first permanent communities across the eastern plains during the imperial era. The figure of the Cericeiro, skilled, independent, and operating at the edge of civilization, became one of the most persistent archetypes in Susian popular culture and remains a significant marker of regional identity in the eastern states.
 

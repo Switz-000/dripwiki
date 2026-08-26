@@ -9,12 +9,11 @@ era:
   - new-age
   - techno-federative-era
 tags:
-  - geography
-  - technology
-  - corporate
+  - land/geography
+  - knowledge/technology
+  - economy/corporate
   - economy
-  - agriculture
-  - history
+  - economy/agriculture
 meta:
   stub: true
   verified: false

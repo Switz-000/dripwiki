@@ -15,8 +15,8 @@ era:
   - republican-era
   - continental-divide
 tags:
-  - politics
-  - history
+  - politics/dissent
+  - society/crime
 ---
 
 The **Matri assassination attempt** was an attack on [[Filevir Matri]], then governor of [[Postia]], on 14 November 1958 in [[Duolij]]. [[Urgiri Tečlan]], an anarchist affiliated with the [[Minutemen]], opened fire on Matri during a public address, wounding him and killing three others before being shot dead at the scene. The attack occurred during the crackdown that followed the [[New Duloc riot (1958)]] and was the most prominent assassination attempt of the [[Ant Wars]]. It is the earliest known political assassination attempt recorded on film in Susian history.

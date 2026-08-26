@@ -137,9 +137,7 @@ era:
 
 # ── META ────────────────────────────────────────────────────────────────────
 tags:
-  - politics
-  - religion
-  - history
+  - belief/religion
 
 meta:
   stub: false

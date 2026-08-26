@@ -14,9 +14,7 @@ era:
   - republican-era
   - continental-divide
 tags:
-  - politics
-  - military
-  - history
+  - conflict/military
 ---
 
 The **New Duloc riot** was a period of sustained civil violence in [[New Duloc]], [[Postia]], in early 1958. Triggered by the assassination of a [[Knights of the Republic]] leader during an ongoing labor standoff, the riot caused several hundred deaths over several days and prompted [[Filevir Matri|Matri's]] state government to declare a state of emergency. It was the central event of the [[Ant Wars]] and precipitated the [[Supreme Court of Susia|Supreme Court]] ruling that declared eossajs unconstitutional.

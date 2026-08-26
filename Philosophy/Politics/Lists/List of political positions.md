@@ -2,11 +2,8 @@
 
 type: index
 tags:
-- politics
-- philosophy
-- culture
-- history
-
+  - belief/philosophy
+  - belief/ideology
 ---
 
 # List of political stances

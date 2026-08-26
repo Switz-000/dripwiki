@@ -165,11 +165,9 @@ era:
 
 # ── META ────────────────────────────────────────────────────────────────────
 tags:
-  - philosophy
-  - politics
-  - labor
-  - corporate
-  - history
+  - belief/philosophy
+  - economy/labor
+  - economy/corporate
 
 meta:
   stub: true

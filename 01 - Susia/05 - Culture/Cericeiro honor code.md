@@ -11,12 +11,10 @@ era:
 - contemporary
 
 tags:
-- culture
-- history
-- military
-- philosophy
-- politics
-
+  - culture/tradition
+  - culture/firearms
+  - conflict/military
+  - belief/philosophy
 ---
 
 The **Cericeiro honor code** is an informal ethos of personal conduct originating among the [[Cericeiro|Cericeiros]] of the eastern Susian frontier, organized around the principle that respect is earned through demonstrated restraint rather than demonstrated force. It developed as a frontier code of bearing for armed people and persists as the cultural substrate of gun culture in the eastern states. It is distinct from, though compatible with, the civic-armament philosophy of [[Armadesh Versij]]: Versijian thought supplied the political argument for an armed citizenry, while the Cericeiro code governed how an armed individual was expected to carry themselves.

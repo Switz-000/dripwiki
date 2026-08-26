@@ -9,13 +9,11 @@ era:
   - techno-federative-era
   - republican-era
 tags:
-  - politics
-  - military
-  - law
-  - intelligence
+  - conflict/military
+  - politics/law
+  - conflict/intelligence
   - culture
-  - philosophy
-  - labor
+  - belief/philosophy
+  - economy/labor
   - economy
-  - history
 ---

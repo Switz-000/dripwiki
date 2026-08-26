@@ -62,12 +62,10 @@ era:
   - republican-era
   - continental-divide
 tags:
-  - politics
-  - military
-  - diplomacy
-  - history
-  - intelligence
-  - law
+  - conflict/military
+  - politics/diplomacy
+  - conflict/intelligence
+  - politics/law
 ---
 The **Continental Divide** (1957–1977) was a cold war between [[Susia]]'s liberal-capitalist bloc and [[Confia]]'s authoritarian syndicalist bloc, constituting the defining geopolitical conflict of Susia's early republican period. The divide shaped two decades of Susian domestic policy, foreign alliances, and institutional development before culminating in the [[Continental War]] (1975–1977) and the defeat of the syndicalist bloc. Its institutional legacy persisted well beyond the conflict itself, embedding the [[Fortress complex]] orientation in Susian political culture and producing the foreign policy architecture that governed the post-war era.
 

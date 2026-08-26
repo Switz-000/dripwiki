@@ -107,8 +107,7 @@ era:
   - paulowic-regime
   - syndicalist-republic
 tags:
-  - philosophy
-  - politics
+  - belief/philosophy
 meta:
   stub: true
   verified: false

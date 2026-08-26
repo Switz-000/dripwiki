@@ -4,7 +4,6 @@ era:
   - republican-era
   - techno-federative-era
 tags:
-  - politics
   - culture
 aliases:
   - lobster table

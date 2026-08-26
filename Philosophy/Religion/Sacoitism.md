@@ -5,9 +5,8 @@ aliases:
 summary: Sacoitism is a religion originating on the continent of Gaiyan, centered on the worship of the deity Sacoites and the doctrine of the Cycle of Souls. It is the parent tradition from which Armotism emerged following the Armotist Revolution.
 era: []
 tags:
-  - religion
-  - history
-  - philosophy
+  - belief/religion
+  - belief/philosophy
   - culture
 meta:
   stub: false

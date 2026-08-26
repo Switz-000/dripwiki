@@ -8,9 +8,9 @@ era:
   - techno-federative-era
 tags:
   - economy
-  - technology
-  - geography
-  - infrastructure
+  - knowledge/technology
+  - land/geography
+  - land/infrastructure
 ---
 The **Kolkov line** is a [[Susia|Susian]] maglev line between [[New Duloc]] and [[New Kentu]], connecting the major cities of [[Postia]] and [[Dripia]]. It opened in 2061 and is operated by [[Galil Ňavorasar]] (GŇ). The line is named after the philosopher [[Yário Kolkov]] and is known among frequent riders as *Rǎzuraz* or *RR*, meaning "New to New", a reference to its two terminal stations.
 

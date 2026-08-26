@@ -8,11 +8,9 @@ era:
   - contemporary
 tags:
   - culture
-  - politics
-  - military
-  - philosophy
-  - history
-  - diplomacy
+  - conflict/military
+  - belief/philosophy
+  - politics/diplomacy
 ---
 
 The **Fortress Complex** is a term used in Susian political and cultural analysis to describe a recurring orientation in Susian national psychology: the belief that Susian civilization exists under permanent existential threat, and that its survival requires constant vigilance, military readiness, and internal cohesion. The term is descriptive rather in most academic usage. Susian historians generally organize the complex around three successive and overlapping episodes of perceived civilizational threat, each of which reinforced and deepened the orientation it inherited.

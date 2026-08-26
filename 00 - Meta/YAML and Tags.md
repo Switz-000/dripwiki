@@ -104,7 +104,7 @@ aliases:
   -
 era:             # required, from section 4
   -
-tags:            # required, from section 5
+tags:            # required, from section 5. parent or parent/leaf
   -
 meta:
   stub: true
@@ -241,17 +241,78 @@ social-republic           2009–present
 
 ## 5. `tags` — what subject area the article belongs to
 
-A list. Multiple values allowed. Apply all that describe the subject's primary
-domains of activity, not every topic it touches.
+A list. **Required.** Two to four values. Tag what the article is *about*, not
+everything it touches.
+
+Tags are tiered: `parent` or `parent/leaf`. Eight parents, forty leaves.
+
+```yaml
+tags:
+  - politics/elections
+  - economy/corporate
+  - culture/tradition
+```
+
+A bare parent is valid where no leaf fits, but prefer the leaf. Queries can
+take either width: `t.startsWith("politics/")` for everything political,
+the full string for the specific domain.
 
 ```
-politics      military      economy       corporate     law
-journalism    intelligence  philosophy    religion      culture
-sport         science       technology    medicine      geography
-diplomacy     colonial      labor         media         education
-infrastructure finance      energy        agriculture   crime
-immigration   race          history
+politics/     governance   elections    dissent      monarchy
+              revolution   nationalism  law          diplomacy
+
+economy/      corporate    labor        finance      industry
+              agriculture  energy
+
+society/      demographics urbanism     welfare      education
+              immigration  race         crime
+
+culture/      tradition    arts         sport        media
+              language     firearms
+
+belief/       religion     philosophy   ideology
+
+conflict/     military     intelligence
+
+knowledge/    science      technology   medicine     enhancement
+              biology
+
+land/         geography    infrastructure            colonial
 ```
+
+### The rule that keeps tags useful
+
+**If a leaf would land on more than a third of tagged articles, it is not a
+tag — it is the vault.** The rule applies to leaves. Parents are deliberately
+broad and are expected to be large; that is what makes them useful as a coarse
+filter. A leaf that is rare is doing its job.
+
+Two tags were removed on 2026-08-26 for failing it: `politics` sat on 82% of
+tagged articles and rode along with 89–95% of every other tag, and `history`
+sat on 72%, which in a worldbuilding vault says nothing. They were not
+describing articles, they were describing the project.
+
+### Where a leaf shares a name with a type
+
+`tradition`, `religion`, `ideology`, `language` and `sport` exist as both.
+Use the tag only for articles *about* that domain which are not *of* that type.
+
+- *Hăjaven* is `type: tradition`. It needs no `culture/tradition` tag; that
+  would restate the type.
+- *Gun Culture in Susia* is `type: concept` and takes `culture/tradition`,
+  because it discusses traditions without being one.
+
+### Notes on the ones that get confused
+
+- **`culture/firearms`** is armed citizenship as civic practice: the
+  [[Sorzenko]], the honour codes, mandatory service, regulation. Weapons as
+  hardware go to `knowledge/technology`.
+- **`economy/corporate`** is the Yarnojte and FEZ layer, extraterritorial
+  corporate rule included.
+- **`politics/monarchy`** covers the imperial and dynastic layer, succession
+  included.
+- **`knowledge/biology`** is the natural world. `knowledge/science` is
+  research and its institutions.
 
 ---
 
@@ -343,6 +404,12 @@ Newest first. If you have not written for the vault since a date below, the
 entries above it are what changed under you.
 
 **2026-08-26**
+- Tags rebuilt as a two-tier vocabulary: eight parents, forty leaves, written
+  `parent/leaf`. `tags` is now Required.
+- Removed `politics` (82% of tagged articles) and `history` (72%). Neither
+  narrowed anything. `sport` as a flat tag removed; it only ever restated
+  `type: sport`.
+- `corporate` became `economy/corporate`, `journalism` became `culture/media`.
 - Added `ethnicity` and `family`. Peoples and dynasties had no type; `species`
   is biological and does not describe a people.
 - Added eight types: `atrocity`, `region`, `geography`, `species`, `disease`,

@@ -146,10 +146,8 @@ era:
 
 # ── META ────────────────────────────────────────────────────────────────────
 tags:
-  - politics
   - culture
-  - history
-  - philosophy
+  - belief/philosophy
 
 meta:
   stub: false

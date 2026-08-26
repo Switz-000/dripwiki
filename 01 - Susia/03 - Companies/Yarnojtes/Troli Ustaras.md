@@ -33,15 +33,14 @@ era:
   - enhancement-era
   - contemporary
 tags:
-  - corporate
-  - technology
-  - science
-  - labor
+  - economy/corporate
+  - knowledge/technology
+  - knowledge/science
+  - economy/labor
   - culture
-  - philosophy
-  - politics
+  - belief/philosophy
   - economy
-  - medicine
+  - knowledge/medicine
 ---
 
 **Troli Ustaras** (TU) is a Susian technology corporation founded in 1959 in [[Donetruže]], [[Troli]], and the largest company by market capitalization in [[Susia]] as of 2080, with a market cap of D$23 trillion. TU holds [[Yarnojte]] status, granted in 2041 and restored in 2051 following revocation during the [[Troli Ustaras Corruption Scandal (2047)|corruption scandal of 2047]], and governs the [[Susian Innovation Center]] Free Economic Zone in [[Dripia]]. Its primary sectors are artificial intelligence, robotics, automation, computing, and cognitive enhancement hardware. TU employs approximately 800,000 people, including FEZ residents.

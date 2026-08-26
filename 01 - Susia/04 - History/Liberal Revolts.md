@@ -35,10 +35,8 @@ era:
   - late-imperial
   - liberal-revolts
 tags:
-  - politics
-  - military
-  - history
-  - philosophy
+  - conflict/military
+  - belief/philosophy
 meta:
   stub: true
   verified: false

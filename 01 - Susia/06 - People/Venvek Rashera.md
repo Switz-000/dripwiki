@@ -125,8 +125,7 @@ era:
 
 # ── META ────────────────────────────────────────────────────────────────────
 tags:
-  - corporate
-  - politics
+  - economy/corporate
 
 meta:
   stub: true

@@ -142,9 +142,7 @@ era:
 # ── META ────────────────────────────────────────────────────────────────────
 tags:
   - culture
-  - history
-  - military
-  - politics
+  - conflict/military
 
 meta:
   stub: false

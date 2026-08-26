@@ -8,10 +8,8 @@ era:
   - contemporary
 tags:
   - culture
-  - politics
-  - philosophy
-  - history
-  - religion
+  - belief/philosophy
+  - belief/religion
 ---
 
 **Susian exceptionalism** is the belief that [[Susia]] and its civilization occupy a qualitatively distinct place in history: that Susian values, institutions, and national experience represent a superior model whose survival and spread are of universal significance. The belief is not held uniformly or uncritically across Susian society, but it operates as the background assumption of most mainstream Susian political discourse, across party lines and across eras. It shapes how Susians narrate their own history, how they frame foreign policy, and how they understand the stakes of the [[Ashgerad]] cold war.

@@ -8,10 +8,9 @@ era:
   - high-imperial
   - late-imperial
 tags:
-  - history
-  - labor
-  - agriculture
-  - race
+  - economy/labor
+  - economy/agriculture
+  - society/race
   - culture
 meta:
   stub: false

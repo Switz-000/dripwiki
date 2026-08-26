@@ -42,8 +42,7 @@ era:
   - republican-era
   - continental-divide
 tags:
-  - politics
-  - history
+  - politics/elections
 ---
 
 The **White Stork Party** is a centre-right political party in [[Postia]], affiliated with the [[Susian Democratic Union]] federation. Originating as a gentleman's club among the Postian propertied class before the republic, it became a formal party in 1942 and rose to prominence under [[Filevir Matri]], who served as governor of Postia during the [[Ant Wars]]. It takes its name from the state animal of Postia.

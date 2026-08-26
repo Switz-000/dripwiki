@@ -42,9 +42,7 @@ examples:
 literature:
 era:
 tags:
-  - politics
-  - philosophy
-  - history
+  - belief/philosophy
   - economy
   - culture
 meta:

@@ -5,11 +5,9 @@ era:
   - continental-war
   - post-war
 tags:
-  - politics
-  - military
-  - law
-  - intelligence
-  - diplomacy
-  - immigration
-  - history
+  - conflict/military
+  - politics/law
+  - conflict/intelligence
+  - politics/diplomacy
+  - society/immigration
 ---

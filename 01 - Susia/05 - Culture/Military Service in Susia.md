@@ -1,12 +1,10 @@
 ---
 tags:
   - culture
-  - history
-  - geography
-  - law
-  - military
-  - philosophy
-  - politics
+  - land/geography
+  - politics/law
+  - conflict/military
+  - belief/philosophy
 type: concept
 era:
   - imperial-era

@@ -41,10 +41,8 @@ era:
   - republican-era
   - continental-divide
 tags:
-  - politics
-  - military
-  - history
-  - immigration
+  - conflict/military
+  - society/immigration
 ---
 
 The **Movement of New Susians** was a self-defense organization formed by [[Confia|Confian]] refugees in [[New Duloc]], [[Postia]], in the early years of the republic. Organized around neighborhood militias, it operated outside partisan politics and functioned primarily to protect immigrant enclaves from street violence during the [[Ant Wars]] (1954–1959).
