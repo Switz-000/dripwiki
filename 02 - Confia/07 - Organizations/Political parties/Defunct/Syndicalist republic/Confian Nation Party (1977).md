@@ -2,7 +2,7 @@
 type: organization
 name: Confian Nation Party
 native_name: Parcesse Końfiskei Wjaže
-abbreviation: WJAZA
+abbreviation: WJAŽA
 aliases:
 status: Defunct
 founded_by:
@@ -25,7 +25,7 @@ ideology:
 political_position:
   - Right
 wings:
-  -
+  - 
 area_served:
 international_affiliation:
 national_affiliation:
