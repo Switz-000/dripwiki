@@ -11,10 +11,9 @@ location:
   - "[[Hertpatt]]"
 tags:
   - culture
-  - colonial
+  - land/colonial
   - economy
-  - history
-  - geography
+  - land/geography
 ---
 Dear Mom and Dad,
 

@@ -30,9 +30,7 @@ era:
   - republican-era
   - continental-divide
 tags:
-  - politics
-  - military
-  - history
+  - conflict/military
 meta:
   stub: false
   verified: false

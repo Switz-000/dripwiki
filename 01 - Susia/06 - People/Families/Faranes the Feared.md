@@ -134,8 +134,7 @@ era:
   - imperial-era
 # ── META ────────────────────────────────────────────────────────────────────
 tags:
-  - politics
-  - history
+  - politics/monarchy
 meta:
   stub: true
   verified: false

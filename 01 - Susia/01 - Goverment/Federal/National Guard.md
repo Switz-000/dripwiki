@@ -4,10 +4,8 @@ era:
   - republican-era
   - techno-federative-era
 tags:
-  - politics
-  - military
+  - conflict/military
   - culture
-  - intelligence
-  - geography
-  - history
+  - conflict/intelligence
+  - land/geography
 ---

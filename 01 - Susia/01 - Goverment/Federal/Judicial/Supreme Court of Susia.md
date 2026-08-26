@@ -21,9 +21,7 @@ era:
   - republican-era
   - techno-federative-era
 tags:
-  - politics
-  - law
-  - history
+  - politics/law
 meta:
   stub: true
   verified: false

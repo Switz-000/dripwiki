@@ -134,8 +134,7 @@ era:
 
 # ── META ────────────────────────────────────────────────────────────────────
 tags:
-  - politics
-  - history
+  - politics/monarchy
 
 meta:
   stub: false

@@ -17,12 +17,12 @@ era:
   - enhancement-era
   - contemporary
 tags:
-  - corporate
+  - economy/corporate
   - economy
-  - medicine
-  - science
-  - technology
-  - labor
+  - knowledge/medicine
+  - knowledge/science
+  - knowledge/technology
+  - economy/labor
 yarnojte_status:
   fez_locations:
 ---

@@ -39,9 +39,23 @@ post-war new-age great-transition global-cold-war techno-federative-era enhancem
 contemporary aiding-state home-rule secession-war state-of-confia confian-anarchy
 united-syndicates paulowic-regime syndicalist-republic social-republic""".split())
 
-TAGS = set("""politics military economy corporate law journalism intelligence philosophy
-religion culture sport science technology medicine geography diplomacy colonial labor media
-education infrastructure finance energy agriculture crime immigration race history""".split())
+TAG_TREE = {
+ "politics":  "governance elections dissent monarchy revolution nationalism law diplomacy".split(),
+ "economy":   "corporate labor finance industry agriculture energy".split(),
+ "society":   "demographics urbanism welfare education immigration race crime".split(),
+ "culture":   "tradition arts sport media language firearms".split(),
+ "belief":    "religion philosophy ideology".split(),
+ "conflict":  "military intelligence".split(),
+ "knowledge": "science technology medicine enhancement biology".split(),
+ "land":      "geography infrastructure colonial".split(),
+}
+TAGS = set(TAG_TREE) | {f"{p}/{l}" for p, ls in TAG_TREE.items() for l in ls}
+
+# `tags` is Required in the schema, but 306 articles predate the requirement.
+# Until the tagging pass closes that backlog, a missing tags list is reported as
+# a gap rather than an error, so CI keeps signalling on real breakage. Flip this
+# to True when the backlog is clear.
+ENFORCE_TAGS = False
 
 SEX      = {"Male", "Female", "Non-binary"}
 RETIRED  = {"spouse": "a relations entry with relation: Spouse",
@@ -126,15 +140,20 @@ def check(path, rel):
     for key, vocab in (("era", ERAS), ("tags", TAGS)):
         v = fm.get(key, "__absent__")
         if v == "__absent__" or empty(v):
-            if v != "__absent__": gap(rel, f"`{key}` is empty")
+            if key == "tags":
+                (err if ENFORCE_TAGS else gap)(rel, "`tags` is empty — required by the schema")
+            elif v != "__absent__": gap(rel, f"`{key}` is empty")
             continue
         if isinstance(v, str):
             err(rel, f"`{key}` is a single value, should be a list")
             v = [v]
         if isinstance(v, list):
             for x in v:
-                if not empty(x) and (not isinstance(x, str) or x not in vocab):
+                if empty(x): continue
+                if not isinstance(x, str) or x not in vocab:
                     err(rel, f"unknown {key} value `{x}`")
+                elif key == "tags" and "/" not in x:
+                    gap(rel, f"tag `{x}` is a bare parent — refine to a leaf where one fits")
 
     mv = fm.get("meta")
     if mv is None:
@@ -196,6 +215,11 @@ def main():
 
     print(f"\n{'='*72}")
     print(f"{n} articles checked — {len(errors)} errors, {len(gaps)} gaps")
+    if not ENFORCE_TAGS:
+        pending = sum(1 for _, m in gaps if m.startswith("`tags` is empty"))
+        if pending:
+            print(f"note: {pending} articles have no tags. Required by the schema, "
+                  f"not yet enforced (see ENFORCE_TAGS).")
     if not errors: print("no schema errors")
     return 1 if errors else 0
 

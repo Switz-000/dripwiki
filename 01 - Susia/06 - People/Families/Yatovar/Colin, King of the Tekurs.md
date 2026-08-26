@@ -135,9 +135,7 @@ era:
 
 # ── META ────────────────────────────────────────────────────────────────────
 tags:
-  - politics
-  - history
-  - race
+  - society/race
 
 meta:
   stub: true

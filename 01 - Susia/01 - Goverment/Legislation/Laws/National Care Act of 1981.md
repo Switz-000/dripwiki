@@ -4,10 +4,9 @@ era:
   - republican-era
   - post-war
 tags:
-  - politics
-  - law
-  - medicine
-  - finance
+  - politics/law
+  - knowledge/medicine
+  - economy/finance
 ---
 
 The **National Care Act of 1981** is a [[Susia|Susian]] [[Susian Federal Government|federal]] law that established a universal health insurance baseline available to all residents of the republic. Sponsored by Senator [[Bejňar Garev]] of [[Troli]] and enacted during the presidency of [[Čalsor Boňár]], it provides federally funded coverage for a defined standard of care and functions as the means by which a state discharges its constitutional obligation to provide access to healthcare.

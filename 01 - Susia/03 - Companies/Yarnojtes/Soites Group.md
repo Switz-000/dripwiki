@@ -21,11 +21,11 @@ era:
   - techno-federative-era
   - new-age
 tags:
-  - corporate
+  - economy/corporate
   - economy
-  - finance
-  - technology
-  - media
+  - economy/finance
+  - knowledge/technology
+  - culture/media
 meta:
   stub: false
   verified: false

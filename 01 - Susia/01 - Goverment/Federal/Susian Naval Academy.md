@@ -15,7 +15,7 @@ location: "[[Noňofriye]]"
 era:
   -
 tags:
-  - military
+  - conflict/military
 meta:
   stub: true
   verified: false

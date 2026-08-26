@@ -5,11 +5,10 @@ type: institution
 era:
   - techno-federative-era
 tags:
-  - politics
-  - law
+  - politics/law
   - economy
-  - corporate
-  - labor
+  - economy/corporate
+  - economy/labor
 ---
 The **Secretariat of Efficiency** or SoE is a independent body of the [[Susian Federal Government]]
 

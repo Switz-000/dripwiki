@@ -142,11 +142,10 @@ era:
 
 # ── META ────────────────────────────────────────────────────────────────────
 tags:
-  - politics
-  - military
-  - intelligence
-  - diplomacy
-  - energy
+  - conflict/military
+  - conflict/intelligence
+  - politics/diplomacy
+  - economy/energy
 
 
 meta:

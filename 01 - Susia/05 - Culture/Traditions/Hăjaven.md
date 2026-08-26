@@ -7,9 +7,8 @@ era:
   - techno-federative-era
 tags:
   - culture
-  - history
-  - military
-  - religion
+  - conflict/military
+  - belief/religion
 ---
 %% TODO: specific date for Hăjaven %%
 

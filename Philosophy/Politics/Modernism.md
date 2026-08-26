@@ -80,9 +80,7 @@ era:
   - enhancement-era
 
 tags:
-  - politics
-  - philosophy
-  - history
+  - belief/philosophy
   - economy
   - culture
 

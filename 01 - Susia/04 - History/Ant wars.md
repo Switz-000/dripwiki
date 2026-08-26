@@ -14,9 +14,7 @@ era:
   - republican-era
   - continental-divide
 tags:
-  - politics
-  - military
-  - history
+  - conflict/military
 ---
 
 The **Ant Wars** were a period of political violence in [[Postia]] between 1954 and 1959, during the early years of the [[Susia|Susian]] republic. The conflict was driven by eossajs, party-affiliated paramilitary organizations that fought in the streets of Postia's cities, and by the [[Minutemen]], an anarchist network conducting bombings and assassinations. The period ended with a [[Supreme Court of Susia|Supreme Court]] ruling declaring eossajs unconstitutional and the subsequent crackdown overseen by governor [[Filevir Matri]]. The name derives from eossaj, the Susian term for ant nest.

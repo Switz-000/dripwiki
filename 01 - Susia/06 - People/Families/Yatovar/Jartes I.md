@@ -135,11 +135,9 @@ era:
 
 # ── META ────────────────────────────────────────────────────────────────────
 tags:
-  - politics
-  - military
-  - colonial
-  - history
-  - race
+  - conflict/military
+  - land/colonial
+  - society/race
 
 meta:
   stub: false

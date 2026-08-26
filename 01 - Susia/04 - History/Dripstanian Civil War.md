@@ -38,9 +38,7 @@ era:
   - high-imperial
   - fraternal-war
 tags:
-  - politics
-  - military
-  - history
+  - conflict/military
 meta:
   stub: true
   verified: false

@@ -43,8 +43,7 @@ era:
   - republican-era
   - continental-divide
 tags:
-  - politics
-  - history
+  - politics/elections
 ---
 
 The **Pačese ro Virspruje** (PrV, Party of the Republic) was a civic republican political party based in [[Postia]], affiliated with the [[Susian Liberal Party]] federation. Founded in 1954 at the moment of constitutional ratification, it held that the constitution was supreme and that the natural rights it enshrined required active defense to remain meaningful. It is no longer active.

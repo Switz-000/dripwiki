@@ -142,11 +142,9 @@ era:
 
 # ── META ────────────────────────────────────────────────────────────────────
 tags:
-  - politics
-  - military
-  - colonial
-  - history
-  - infrastructure
+  - conflict/military
+  - land/colonial
+  - land/infrastructure
 
 meta:
   stub: false

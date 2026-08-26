@@ -8,12 +8,10 @@ era:
   - techno-federative-era
   - contemporary
 tags:
-  - politics
-  - diplomacy
-  - military
-  - philosophy
-  - history
-  - intelligence
+  - politics/diplomacy
+  - conflict/military
+  - belief/philosophy
+  - conflict/intelligence
 ---
 
 **Democratic evangelism** is the position in Susian foreign policy thought that Susia bears a moral obligation to actively spread democracy and liberal values beyond its borders. It encompasses support for pro-democracy movements in foreign nations, covert and overt regime change operations, and the conditioning of foreign aid and trade agreements on democratic reforms. The position is rooted in [[Susian Exceptionalism|Susian exceptionalist]] ideology and the Versijian argument that natural rights are universal and therefore their denial abroad is a wrong that Susia has standing to address. It is distinct from the purely defensive orientation of the [[Fortress complex]], though the two frequently operate together in practice.

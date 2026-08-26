@@ -155,10 +155,10 @@ era:
 
 # ── META ────────────────────────────────────────────────────────────────────
 tags:
-  - corporate
+  - economy/corporate
   - economy
-  - technology
-  - media
+  - knowledge/technology
+  - culture/media
 
 meta:
   stub: true

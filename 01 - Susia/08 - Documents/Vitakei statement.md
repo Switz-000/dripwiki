@@ -8,8 +8,8 @@ location:
   - "[[Susia]]"
 published_by: "[[Lischev-Verene|Lischev-Verene Biomedical Corporation]]"
 tags:
-  - corporate
-  - medicine
+  - economy/corporate
+  - knowledge/medicine
 ---
 # VITAKEI™ LONGEVITY & WELLNESS STATEMENT
 

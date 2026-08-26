@@ -25,7 +25,7 @@ structured list of wiki links or plain text items representing the person's prim
 
 **`era`** — list of era values from the controlled vocabulary in the YAML and Tags file. Use the most specific applicable era. Do not add a war or revolt era unless the person was directly involved in it. Do not add an era the person only lived through as a minor. (Recommended)
 
-**`tags`** — list of subject tags from the controlled vocabulary in the YAML and Tags file. Apply all tags that describe the person's primary domains of activity. (Recommended)
+**`tags`** — list of subject tags from the controlled vocabulary in the YAML and Tags file. Apply all tags that describe the person's primary domains of activity. (Required)
 
 `meta:`
   `stub: true`

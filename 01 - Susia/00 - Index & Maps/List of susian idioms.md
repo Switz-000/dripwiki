@@ -5,10 +5,8 @@ aliases:
   - susian expressions
 tags:
   - culture
-  - history
-  - politics
-  - religion
-  - media
+  - belief/religion
+  - culture/media
 summary:
 era:
   -

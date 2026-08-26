@@ -132,9 +132,7 @@ era:
 
 # ── META ────────────────────────────────────────────────────────────────────
 tags:
-  - politics
-  - diplomacy
-  - history
+  - politics/diplomacy
 
 meta:
   stub: true

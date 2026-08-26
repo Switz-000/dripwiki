@@ -35,14 +35,13 @@ era:
   - techno-federative-era
   - contemporary
 tags:
-  - corporate
-  - military
+  - economy/corporate
+  - conflict/military
   - economy
-  - technology
-  - intelligence
-  - labor
-  - politics
-  - science
+  - knowledge/technology
+  - conflict/intelligence
+  - economy/labor
+  - knowledge/science
 ---
 
 **Van Ritter Incorporated** is a [[Susia|Susian]] defense and aerospace corporation and one of the nation's six active [[Yarnojte|Yarnojtes]]. Founded in 1923 in [[Lore-Kurji]], [[Misocévia]] as an aerospace engineering firm, it is now Susia's primary defense contractor, producing military hardware, aerospace systems, and government cybersecurity and intelligence technology. The company is headquartered at the [[Eastern Industrial Complex FEZ]] in [[Misocévia]] and employs approximately 680,000 people. Its market capitalization is D$1.4 trillion as of 2080. [[Yarnojte]] status was granted in 2044.

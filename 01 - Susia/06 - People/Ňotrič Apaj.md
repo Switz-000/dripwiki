@@ -161,12 +161,10 @@ era:
 
 # ── META ────────────────────────────────────────────────────────────────────
 tags:
-  - philosophy
-  - journalism
-  - corporate
-  - politics
+  - belief/philosophy
+  - culture/media
+  - economy/corporate
   - culture
-  - history
 
 meta:
   stub: false

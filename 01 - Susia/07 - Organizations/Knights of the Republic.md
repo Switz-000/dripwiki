@@ -42,9 +42,7 @@ era:
   - republican-era
   - continental-divide
 tags:
-  - politics
-  - military
-  - history
+  - conflict/military
 ---
 
 The **Knights of the Republic** were the paramilitary wing of the [[Pačese ro Virspruje]] (PrV), active in [[Postia]] from 1954 until their dissolution following the [[Supreme Court of Susia|Supreme Court]] ruling that declared eossajs unconstitutional during the [[Ant Wars]]. Organized around [[Armadesh Versij|Versij's]] argument that rights undefended by force are merely privileges, they existed to make the constitutional right to rebel credible.

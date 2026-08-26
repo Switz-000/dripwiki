@@ -14,12 +14,12 @@ fez_locations:
 sector:
   - Healthcare
 tags:
-  - corporate
-  - technology
+  - economy/corporate
+  - knowledge/technology
   - economy
-  - law
-  - medicine
-  - science
+  - politics/law
+  - knowledge/medicine
+  - knowledge/science
 aliases:
   - Rǎz Lizňir Corporation
 ---
