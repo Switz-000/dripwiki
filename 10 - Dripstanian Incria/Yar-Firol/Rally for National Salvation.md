@@ -30,7 +30,7 @@ political_position:
 wings:
 -
 
-area_served: [[Yar-Firol]]
+area_served: "[[Yar-Firol]]"
 
 international_affiliation:
 national_affiliation:

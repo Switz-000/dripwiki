@@ -16,17 +16,14 @@ nationality:
 enhanced: false
 birth:
   year: 1799
-  city:
-    - - Imgospalje
-  state:
-    - - Koštanože
-  country:
-    - - General Government of Confia
+  city: "[[Imgospalje]]"
+  state: "[[Koštanože]]"
+  country: "[[General Government of Confia]]"
 death:
   year: 1854
   city: "[[Carlotopolis]]"
   state: "[[Karlotopol']]"
-  country: "[[General Government of Confia]"
+  country: "[[General Government of Confia]]"
   cause: Tuberculosis
 spouse: Sataria Kieronna
 children_count:

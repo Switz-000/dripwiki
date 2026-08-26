@@ -48,10 +48,10 @@ military_service:
     notes:
 political_alignment:
   - 
-party: [["Republican Promise"]]
+party: "[[Republican Promise]]"
 parties:
-  - [[Shield!|Shield! (2000-2014)]]
-  - [[Armotist Democratic Party|Armotist Democratic Party (1980-2000)]]
+  - "[[Shield!|Shield! (2000-2014)]]"
+  - "[[Armotist Democratic Party|Armotist Democratic Party (1980-2000)]]"
 organizations:
   - 
 offices:
@@ -59,9 +59,9 @@ offices:
     employer:
     start_year: 2014
     end_year: 2019
-    appointer: [[List of Confian elections#2014 Confian presidential election]]
+    appointer: "[[List of Confian elections#2014 Confian presidential election]]"
     parties:
-      - [[Republican Promise]]
+      - "[[Republican Promise]]"
     notes:
 written_works:
   - title:

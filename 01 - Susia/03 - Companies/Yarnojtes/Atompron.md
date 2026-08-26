@@ -10,7 +10,7 @@ founded_by:
 headquarters: "[[Niqueparj]]"
 market_cap: 1600000000000
 yarnojte: true
-yarnojte_granted: "2041"
+yarnojte_granted: 2041
 yarnojte_revoked:
 fez_locations:
   - "[[Central Energy District]]"

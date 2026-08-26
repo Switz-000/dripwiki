@@ -45,8 +45,8 @@ military_service:
       - 
     notes:
 political_alignment:
-  - - - List of political positions#Developmentalism
-  - - - List of political positions#Neo-Colonialism
+  - "[[List of political positions#Developmentalism]]"
+  - "[[List of political positions#Neo-Colonialism]]"
 party: "[[Rally for National Salvation]]"
 parties:
   - 

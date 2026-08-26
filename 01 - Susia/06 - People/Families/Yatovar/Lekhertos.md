@@ -115,7 +115,7 @@ criminal_charges:
 known_for:
   - item: Zaphonian vassalage under the [[Dripstanian Empire]]
     notes: Sealed by his marriage to Prazde in 1790. The terms were agreed by his father.
-  - item: [[Empress Prazde]]
+  - item: "[[Empress Prazde]]"
     notes: His death gave her the Zaphonian crown.
 
 awards:

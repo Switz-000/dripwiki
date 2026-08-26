@@ -8,7 +8,7 @@ founding_place: "[[Duolij]]"
 headquarters: "[[Postia Manufacturing Center FEZ]]"
 market_cap: 2200000000000
 yarnojte: true
-yarnojte_granted: "2050"
+yarnojte_granted: 2050
 yarnojte_revoked:
 fez_locations:
   - "[[Postia Manufacturing Center FEZ]]"

@@ -56,7 +56,7 @@ organizations:
   - 
 offices:
   - title: Director of the Central Bank of the Confian Nation
-    employer: [[Central Bank of the Confian Nation]]
+    employer: "[[Central Bank of the Confian Nation]]"
     start_year: 1986
     end_year: 1996
     appointer:

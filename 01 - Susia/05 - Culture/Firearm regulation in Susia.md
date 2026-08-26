@@ -1,16 +1,16 @@
 ---
 
-type: concept 
+type: concept
 era:
-
-- republican-era
-- continental-divide
-- techno-federative-era
-- contemporary tags:
-- law
-- military
-- culture
-- politics
+  - republican-era
+  - continental-divide
+  - techno-federative-era
+  - contemporary
+tags:
+  - law
+  - military
+  - culture
+  - politics
 
 ---
 

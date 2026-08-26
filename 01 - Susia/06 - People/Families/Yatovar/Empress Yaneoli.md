@@ -125,7 +125,7 @@ criminal_charges:
 
 # ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
-  - item: [[Dripstanian Civil War]]
+  - item: "[[Dripstanian Civil War]]"
     notes: Her death in 1815 opened the disputed succession between her children.
 
 awards:

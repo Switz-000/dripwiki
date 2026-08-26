@@ -11,7 +11,7 @@ founding_place: "[[Neoveli]]"
 headquarters: "[[Soites Federal Free Trade Zone]]"
 market_cap: 3800000000000
 yarnojte: true
-yarnojte_granted: "2050"
+yarnojte_granted: 2050
 yarnojte_revoked:
 fez_locations: "[[Soites Federal Free Trade Zone|Soites FFTZ]]"
 sector:

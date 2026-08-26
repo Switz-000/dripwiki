@@ -8,7 +8,7 @@ aliases:
 status: dissolved
 founded_by:
 founded: 1954
-dissolved: ~1959
+dissolved: 1959
 
 merger_of:
 split_from:
