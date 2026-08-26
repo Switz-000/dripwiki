@@ -2,16 +2,17 @@
 type: concept
 summary:
 aliases:
-  -
+  - 
 era:
-  -
+  - 
 tags:
   - politics/monarchy
   - politics/revolution
+  - culture
 meta:
   stub: true
   verified: false
-  image: null
+  image:
 ---
 
 **Povebe** is a ficticious island created by [[Empress Veronique]], who promised lands therein to convince Babalist revolters into the barge she would then set on fire.
