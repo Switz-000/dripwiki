@@ -2,10 +2,10 @@
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Venvek Rashera
-lusitanized_name: 
+lusitanized_name:
 aliases:
   -
-summary: 
+summary:
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: Male
@@ -33,16 +33,16 @@ death:
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
 relations:
-  - person: 
+  - person:
     relation: Child
     notes: 1 child, not named in canon.
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree: 
-    institution: 
-    year: 
-  - 
+  - degree:
+    institution:
+    year:
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
@@ -55,7 +55,7 @@ occupation:
 
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:

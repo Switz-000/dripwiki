@@ -2,15 +2,15 @@
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Wanašer Armoljubowić Gerzăn
-lusitanized_name: 
+lusitanized_name:
 aliases:
   - Gerzăn
   - Gerzănian
   - Gerzanian
-summary: 
+summary:
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
-sex: male
+sex: Male
 ethnicity: "[[East Gaiyanese]]"
 religion: "[[Armotist Church of the Confian Synod]]"
 citizenship:
@@ -35,15 +35,17 @@ death:
   cause: Tuberculosis under state custody
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
-spouse: 
-children_count:         # use um NÚMERO
+relations:
+  - person:
+    relation:
+    notes:
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree: 
-    institution: 
-    year: 
-  - 
+  - degree:
+    institution:
+    year:
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
@@ -53,7 +55,7 @@ occupation:
 
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:

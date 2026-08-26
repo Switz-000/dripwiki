@@ -5,13 +5,13 @@ lusitanized_name:
 aliases:
   - Keke
 summary:
-sex: male
+sex: Male
 ethnicity: "[[Sanye People|Sanye]]"
 religion: "[[Armotism]]"
 citizenship:
   - "[[Yar-Firol]]"
 nationality:
-  - 
+  -
 enhanced: false
 birth:
   year:
@@ -24,13 +24,15 @@ death:
   state:
   country:
   cause:
-spouse:
-children_count: 1
+relations:
+  - person:
+    relation: Child
+    notes: One child, none named in canon.
 education:
   - degree:
     institution:
     year:
-  - 
+  -
 occupation:
   - title:
     start_year:
@@ -42,16 +44,16 @@ military_service:
     start_year:
     end_year:
     conflicts:
-      - 
+      -
     notes:
 political_alignment:
   - "[[List of political positions#Developmentalism]]"
   - "[[List of political positions#Neo-Colonialism]]"
 party: "[[Rally for National Salvation]]"
 parties:
-  - 
+  -
 organizations:
-  - 
+  -
 offices:
   - title: President of Yar-Firol
     employer:
@@ -59,7 +61,7 @@ offices:
     end_year: 1989
     appointer:
     parties:
-      - 
+      -
     notes:
 written_works:
   - title:
@@ -88,9 +90,9 @@ awards:
     country:
     notes:
 era:
-  - 
+  -
 tags:
-  - 
+  -
 meta:
   stub: true
   verified: false

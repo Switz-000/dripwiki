@@ -14,7 +14,7 @@ fez:
   - name: "[[Susian Innovation Center]]"
     state: "[[Dripia]]"
     creation: 2044
-yarnojte_status: 
+yarnojte_status:
     - status: Revoked
       granted: 2041
       revoked: 2047

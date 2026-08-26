@@ -2,15 +2,15 @@
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Lekhertos
-lusitanized_name: 
+lusitanized_name:
 aliases:
   - Prince Consort of Zaphonia
 summary: Heir to the Zaphonian throne and husband of Empress Prazde, married in 1790 to seal Zaphonia's vassalage to the Dripstanian Empire. He was poisoned in 1793 alongside his mother in an attempt on Prazde's life, in the sequence known as the Tragedy of Takhesire.
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: Male
-ethnicity: 
-religion: 
+ethnicity:
+religion:
 citizenship:
   - "[[Zaphonia|Zaphonian]]"
 nationality:
@@ -20,14 +20,14 @@ enhanced: false
 # ── BIRTH AND DEATH ─────────────────────────────────────────────────────────
 birth:
   year: 1760
-  city: 
-  state: 
-  country: 
+  city:
+  state:
+  country:
 
 death:
   year: 1793
-  city: 
-  state: 
+  city:
+  state:
   country: "[[Zaphonia]]"
   cause: Poisoning
 
@@ -44,24 +44,24 @@ relations:
     notes: Married 1790. She succeeded to the Zaphonian throne on his death.
   - person: "[[Prazde II of Zaphonia]]"
     relation: Child
-    notes: 
+    notes:
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree: 
-    institution: 
-    year: 
-  - 
+  - degree:
+    institution:
+    year:
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
   - title: Heir to the Zaphonian throne
-    start_year: 
+    start_year:
     end_year: 1793
 
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:
@@ -82,9 +82,9 @@ organizations:
 # ── OFFICES ─────────────────────────────────────────────────────────────────
 offices:
   - title: Emperor of Zaphonia
-    employer: 
-    start_year: 
-    end_year: 
+    employer:
+    start_year:
+    end_year:
     appointer: Hereditary succession
     parties:
       -

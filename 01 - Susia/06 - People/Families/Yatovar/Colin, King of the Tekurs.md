@@ -2,7 +2,7 @@
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Colin
-lusitanized_name: 
+lusitanized_name:
 aliases:
   - Colin
 summary: Son of Empress Veronique and King of the Tekurs from 1794, ruling the western Tekur tribes of Lijssick and Baabren as the vassal Kingdom of Tekuria. He declared for his nephew Jartes at the outbreak of the Dripstanian Civil War in 1815.
@@ -20,41 +20,41 @@ enhanced: false
 # ── BIRTH AND DEATH ─────────────────────────────────────────────────────────
 birth:
   year: 1756
-  city: 
-  state: 
+  city:
+  state:
   country: "[[Dripstanian Empire]]"
 
 death:
   year: 1823
-  city: 
-  state: 
+  city:
+  state:
   country: "[[Dripstanian Empire]]"
-  cause: 
+  cause:
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
 relations:
   - person: "[[Empress Veronique]]"
     relation: Mother
-    notes: 
+    notes:
   - person: "[[Faranes the Feared]]"
     relation: Father
-    notes: 
+    notes:
   - person: "[[Empress Yaneoli]]"
     relation: Sister
-    notes: 
+    notes:
   - person: "[[Princess Natesse]]"
     relation: Sister
-    notes: 
+    notes:
   - person: "[[Countess Valista of Postia]]"
     relation: Sister
-    notes: 
+    notes:
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree: 
-    institution: 
-    year: 
-  - 
+  - degree:
+    institution:
+    year:
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
@@ -64,7 +64,7 @@ occupation:
 
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:

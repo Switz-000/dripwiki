@@ -2,9 +2,9 @@
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Yaneoli
-lusitanized_name: 
+lusitanized_name:
 aliases:
-  - 
+  -
 summary: Fourth ruler of the Dripstanian Empire, reigning from 1787 to 1815. She brought Zaphonia into the empire as a vassal kingdom after intervening in the Seventh Bakuro-Zaphonian War, and created the vassal Kingdom of Tekuria under her brother Colin. Her death opened the disputed succession between her children Prazde and Jartes I.
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
@@ -20,14 +20,14 @@ enhanced: false
 # ── BIRTH AND DEATH ─────────────────────────────────────────────────────────
 birth:
   year: 1752
-  city: 
-  state: 
+  city:
+  state:
   country: "[[Dripstanian Empire]]"
 
 death:
   year: 1815
-  city: 
-  state: 
+  city:
+  state:
   country: "[[Dripstanian Empire]]"
   cause: Tuberculosis
 
@@ -38,19 +38,19 @@ relations:
     notes: Succeeded her in 1787.
   - person: "[[Faranes the Feared]]"
     relation: Father
-    notes: 
+    notes:
   - person: "[[Astere]]"
     relation: Spouse
     notes: King Consort. Married 1768.
   - person: "[[Colin, King of the Tekurs]]"
     relation: Brother
-    notes: 
+    notes:
   - person: "[[Princess Natesse]]"
     relation: Sister
-    notes: 
+    notes:
   - person: "[[Countess Valista of Postia]]"
     relation: Sister
-    notes: 
+    notes:
   - person: "[[Empress Prazde]]"
     relation: Daughter
     notes: Her succession was contested by her brother throughout.
@@ -60,10 +60,10 @@ relations:
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree: 
-    institution: 
-    year: 
-  - 
+  - degree:
+    institution:
+    year:
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
@@ -73,7 +73,7 @@ occupation:
 
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:
@@ -94,7 +94,7 @@ organizations:
 # ── OFFICES ─────────────────────────────────────────────────────────────────
 offices:
   - title: Empress of the Dripstanian Empire
-    employer: 
+    employer:
     start_year: 1787
     end_year: 1815
     appointer: Hereditary succession

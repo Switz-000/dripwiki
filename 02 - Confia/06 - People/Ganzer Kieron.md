@@ -25,13 +25,15 @@ death:
   state: "[[Karlotopol']]"
   country: "[[General Government of Confia]]"
   cause: Tuberculosis
-spouse: Sataria Kieronna
-children_count:
+relations:
+  - person: "[[Sataria Kieronna]]"
+    relation: Spouse
+    notes:
 education:
   - degree:
     institution:
     year:
-  - 
+  -
 occupation:
   - title:
     start_year:
@@ -43,15 +45,15 @@ military_service:
     start_year:
     end_year:
     conflicts:
-      - 
+      -
     notes:
 political_alignment:
-  - 
+  -
 party: "[[Union of Confian Syndicalists]]"
 parties:
-  - 
+  -
 organizations:
-  - 
+  -
 offices:
   - title:
     employer:
@@ -59,7 +61,7 @@ offices:
     end_year:
     appointer:
     parties:
-      - 
+      -
     notes:
 written_works:
   - title:
@@ -88,9 +90,9 @@ awards:
     country:
     notes:
 era:
-  - 
+  -
 tags:
-  - 
+  -
 meta:
   stub: true
   verified: false

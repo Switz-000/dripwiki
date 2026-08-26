@@ -22,11 +22,11 @@ think_tank:
 youth_wing:
 paramilitary:
 ideology:
-  - 
+  -
 political_position:
-  - 
+  -
 wings:
-  - 
+  -
 area_served:
 international_affiliation:
 national_affiliation:

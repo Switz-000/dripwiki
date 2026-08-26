@@ -2,14 +2,14 @@
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Sarže Kaetanewić Saron
-lusitanized_name: 
+lusitanized_name:
 aliases:
   - Saron
-summary: 
+summary:
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
-sex: male
-ethnicity: 
+sex: Male
+ethnicity:
 religion: "[[Reformed Armotism]]"
 citizenship:
   - "[[Dripstanian Empire|Dripstanian]]"
@@ -21,28 +21,30 @@ enhanced: false
 
 # ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
 birth:
-  year: 
+  year:
   city: "[[Tekuri Ljas]]"
   state: "[[Tekuri Ljas (state)]]"
   country: "[[Dripstanian Empire]]"
 
 death:
-  year: 
-  city: 
-  state: 
-  country: 
-  cause: 
+  year:
+  city:
+  state:
+  country:
+  cause:
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
-spouse: 
-children_count:         # use um NÚMERO
+relations:
+  - person:
+    relation:
+    notes:
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree: 
-    institution: 
-    year: 
-  - 
+  - degree:
+    institution:
+    year:
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
@@ -55,7 +57,7 @@ occupation:
 
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:

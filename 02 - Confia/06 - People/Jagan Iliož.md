@@ -4,7 +4,7 @@ native_name: Jagan Titenowić Iliož
 aliases:
   - Iliož
 summary:
-sex: male
+sex: Male
 ethnicity:
 religion: "[[Armotist Church of the Confian Synod]]"
 citizenship:
@@ -25,13 +25,15 @@ death:
   state:
   country:
   cause:
-spouse:
-children_count:
+relations:
+  - person:
+    relation:
+    notes:
 education:
   - degree:
     institution:
     year:
-  - 
+  -
 occupation:
   - title: Politician
     start_year:
@@ -46,23 +48,23 @@ military_service:
     start_year:
     end_year:
     conflicts:
-      - 
+      -
     notes:
 political_alignment:
-  - 
+  -
 party:
 parties:
-  - 
+  -
 organizations:
-  - 
+  -
 offices:
   - title: President
     employer: "[[Žošewoš Machinery]]"
     start_year: 1977
     end_year: 1999
     appointer: "[[Titen Iliož]]"
-    parties: 
-      - 
+    parties:
+      -
     notes: Bought the enterprise he directed (and his father before him) during the Paulowić regime
 written_works:
   - title:
@@ -91,9 +93,9 @@ awards:
     country:
     notes:
 era:
-  - 
+  -
 tags:
-  - 
+  -
 meta:
   stub: true
   verified: false

@@ -24,13 +24,15 @@ death:
   state:
   country:
   cause:
-spouse:
-children_count:
+relations:
+  - person:
+    relation:
+    notes:
 education:
   - degree:
     institution:
     year:
-  - 
+  -
 occupation:
   - title:
     start_year:
@@ -42,16 +44,16 @@ military_service:
     start_year:
     end_year:
     conflicts:
-      - 
+      -
     notes:
 political_alignment:
   - "[[Modernism]]"
 party:
   - "[[Atom Party]]"
 parties:
-  - 
+  -
 organizations:
-  - 
+  -
 offices:
   - title:
     employer:
@@ -59,7 +61,7 @@ offices:
     end_year:
     appointer:
     parties:
-      - 
+      -
     notes:
 written_works:
   - title:
@@ -90,7 +92,7 @@ awards:
 era:
   - social-republic
 tags:
-  - 
+  -
 meta:
   stub: true
   verified: false

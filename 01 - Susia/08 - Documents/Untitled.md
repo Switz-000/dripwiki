@@ -8,7 +8,7 @@ recorded_year: 2045
 participants:
 location:
   - "[[Susian Innovation Center]]"
-tags: 
+tags:
   - corporate
   - intelligence
   - law

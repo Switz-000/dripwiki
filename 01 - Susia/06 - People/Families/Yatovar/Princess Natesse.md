@@ -2,9 +2,9 @@
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Natesse
-lusitanized_name: 
+lusitanized_name:
 aliases:
-  - 
+  -
 summary: Daughter of Empress Veronique and sister of Empress Yaneoli. She married Prince Capraže.
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
@@ -20,54 +20,54 @@ enhanced: false
 # ── BIRTH AND DEATH ─────────────────────────────────────────────────────────
 birth:
   year: 1760
-  city: 
-  state: 
+  city:
+  state:
   country: "[[Dripstanian Empire]]"
 
 death:
-  year: 
-  city: 
-  state: 
+  year:
+  city:
+  state:
   country: "[[Dripstanian Empire]]"
-  cause: 
+  cause:
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
 relations:
   - person: "[[Empress Veronique]]"
     relation: Mother
-    notes: 
+    notes:
   - person: "[[Faranes the Feared]]"
     relation: Father
-    notes: 
+    notes:
   - person: "[[Prince Capraže]]"
     relation: Spouse
-    notes: 
+    notes:
   - person: "[[Empress Yaneoli]]"
     relation: Sister
-    notes: 
+    notes:
   - person: "[[Colin, King of the Tekurs]]"
     relation: Brother
-    notes: 
+    notes:
   - person: "[[Countess Valista of Postia]]"
     relation: Sister
-    notes: 
+    notes:
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree: 
-    institution: 
-    year: 
-  - 
+  - degree:
+    institution:
+    year:
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
-  - title: 
-    start_year: 
-    end_year: 
+  - title:
+    start_year:
+    end_year:
 
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:
@@ -119,8 +119,8 @@ criminal_charges:
 
 # ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
-  - item: 
-    notes: 
+  - item:
+    notes:
 
 awards:
   - title:

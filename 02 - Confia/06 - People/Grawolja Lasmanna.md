@@ -2,13 +2,13 @@
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Grawolja Seriewina Lasmanna
-lusitanized_name: 
+lusitanized_name:
 aliases:
   - Lasmanna
-summary: 
+summary:
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
-sex: female
+sex: Female
 ethnicity: "[[East Gaiyanese]]"
 religion: "[[Armotist Church of the Confian Synod|Armotist Church of the Confian Synod (presumed)]]"
 citizenship:
@@ -21,28 +21,30 @@ enhanced: false
 
 # ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
 birth:
-  year: 
+  year:
   city: "[[Carlotopolis]]"
   state: "[[Karlotopol']]"
   country: "[[Confia]]"
 
 death:
-  year: 
-  city: 
-  state: 
-  country: 
-  cause: 
+  year:
+  city:
+  state:
+  country:
+  cause:
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
-spouse: 
-children_count:         # use um NÚMERO
+relations:
+  - person:
+    relation:
+    notes:
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree: 
-    institution: 
-    year: 
-  - 
+  - degree:
+    institution:
+    year:
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
@@ -52,7 +54,7 @@ occupation:
 
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:
@@ -65,7 +67,7 @@ political_alignment:
 
 party: Independent        # principal partido, ou partido atual
 parties:                                        # partidos que ela ja pertenceu
-  - 
+  -
 
 organizations:
   -

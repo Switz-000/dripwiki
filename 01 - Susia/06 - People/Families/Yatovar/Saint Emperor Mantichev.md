@@ -2,9 +2,9 @@
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Mantichev
-lusitanized_name: 
+lusitanized_name:
 aliases:
-  - 
+  -
 summary: King of Forchev and first emperor of the Dripstanian Empire, reigning from 1674 to 1686. He convened the Convention of Forchev, which united the Armotist coastal kingdoms into a single empire under the captaincy system. Canonised in the Armotist tradition and assassinated in 1686.
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
@@ -20,14 +20,14 @@ enhanced: false
 # ── BIRTH AND DEATH ─────────────────────────────────────────────────────────
 birth:
   year: 1637
-  city: 
-  state: 
+  city:
+  state:
   country: "[[Dripstanian Empire]]"
 
 death:
   year: 1686
-  city: 
-  state: 
+  city:
+  state:
   country: "[[Dripstanian Empire]]"
   cause: Assassination
 
@@ -38,17 +38,17 @@ relations:
     notes: Baron. Married Damhor of Frajes in 1637.
   - person: "[[Damhor of Frajes]]"
     relation: Mother
-    notes: 
+    notes:
   - person: "[[Emperor Agamilos]]"
     relation: Brother
     notes: Succeeded him in 1686.
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree: 
-    institution: 
-    year: 
-  - 
+  - degree:
+    institution:
+    year:
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
@@ -56,12 +56,12 @@ occupation:
     start_year: 1674
     end_year: 1686
   - title: King of Forchev
-    start_year: 
+    start_year:
     end_year: 1674
 
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:
@@ -82,7 +82,7 @@ organizations:
 # ── OFFICES ─────────────────────────────────────────────────────────────────
 offices:
   - title: Emperor of the Dripstanian Empire
-    employer: 
+    employer:
     start_year: 1674
     end_year: 1686
     appointer: Founder
@@ -120,7 +120,7 @@ known_for:
   - item: Imperial land reform
     notes: Reconciled peasant and aristocratic claims across the new empire.
   - item: Sainthood in [[Armotism]]
-    notes: 
+    notes:
 
 awards:
   - title:

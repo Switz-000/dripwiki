@@ -33,16 +33,16 @@ death:
   cause: Hanging
 # ── FAMILY ──────────────────────────────────────────────────────────────────
 relations:
-  - person: 
-    relation: 
-    notes: 
+  - person:
+    relation:
+    notes:
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
   - degree:
     institution: "[[Susian Naval Academy]]"
     year:
-  - 
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
@@ -59,7 +59,7 @@ military_service:
     start_year:
     end_year:
     conflicts:
-      - 
+      -
     notes:
   - allegiance: "[[Federated Provinces of Galil]]"
     branch: Navy
@@ -73,7 +73,7 @@ political_alignment:
   - "[[List of political positions#Republicanism]]"
 party:
 parties:
-  - 
+  -
 organizations:
   - "[[Federated Provinces of Galil]]"
 

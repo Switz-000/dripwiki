@@ -9,11 +9,11 @@ headquarters: "[[Eastern Industrial Complex FEZ]]"
 market_cap: 1400000000000
 yarnojte: true
 yarnojte_granted: 2044
-fez: 
+fez:
     - name: "[[Eastern Industrial Complex FEZ]]"
       state: "[[Misocévia]]"
       creation: 2044
-yarnojte_status: 
+yarnojte_status:
     - status: Revoked
       granted: 2041
       revoked: 2047

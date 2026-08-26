@@ -5,12 +5,12 @@ native_name: Argǎrjero Sienes
 lusitanized_name: Ergagério Sienes
 aliases:
   -
-summary: 
+summary:
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: Male
-ethnicity: 
-religion: 
+ethnicity:
+religion:
 citizenship:
   - "[[Dripstanian Empire|Dripstanian]]"
   - "[[Susia|Susian]]"
@@ -21,30 +21,30 @@ enhanced: false
 
 # ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
 birth:
-  year: 
+  year:
   city: "[[Duolij]]"
   state: "[[Postia]]"
   country: "[[Dripstanian Empire]]"
 
 death:
-  year: 
-  city: 
-  state: 
-  country: 
-  cause: 
+  year:
+  city:
+  state:
+  country:
+  cause:
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
 relations:
-  - person: 
-    relation: 
-    notes: 
+  - person:
+    relation:
+    notes:
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree: 
-    institution: 
-    year: 
-  - 
+  - degree:
+    institution:
+    year:
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
@@ -54,7 +54,7 @@ occupation:
 
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:

@@ -5,13 +5,13 @@ lusitanized_name:
 aliases:
   - Bӑrboz
 summary:
-sex: male
+sex: Male
 ethnicity: "[[East Gaiyanese]]"
 religion: "[[Armotist Church of the Confian Synod]]"
 citizenship:
-  - 
+  -
 nationality:
-  - 
+  -
 enhanced: false
 birth:
   year:
@@ -24,13 +24,15 @@ death:
   state: "[[Koštanože]]"
   country: "[[Confia]]"
   cause: Assassination by gunshot
-spouse:
-children_count:
+relations:
+  - person:
+    relation:
+    notes:
 education:
   - degree:
     institution:
     year:
-  - 
+  -
 occupation:
   - title:
     start_year:
@@ -42,7 +44,7 @@ military_service:
     start_year:
     end_year:
     conflicts:
-      - 
+      -
     notes:
 political_alignment:
   - Far-left
@@ -50,7 +52,7 @@ party: "[[Confian Syndicalist Union]]"
 parties:
   - "[[Confian Syndicalist Union]]"
 organizations:
-  - 
+  -
 offices:
   - title:
     employer:
@@ -58,7 +60,7 @@ offices:
     end_year:
     appointer:
     parties:
-      - 
+      -
     notes:
 written_works:
   - title:
@@ -87,9 +89,9 @@ awards:
     country:
     notes:
 era:
-  - 
+  -
 tags:
-  - 
+  -
 meta:
   stub: true
   verified: false

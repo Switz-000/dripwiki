@@ -2,7 +2,7 @@
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Valista
-lusitanized_name: 
+lusitanized_name:
 aliases:
   - Valista
 summary: Countess of Postia and youngest daughter of Empress Veronique. The family chart records an illegitimate connection between her and Pentério Osvien of the Babal branch.
@@ -20,54 +20,54 @@ enhanced: false
 # ── BIRTH AND DEATH ─────────────────────────────────────────────────────────
 birth:
   year: 1778
-  city: 
-  state: 
+  city:
+  state:
   country: "[[Dripstanian Empire]]"
 
 death:
-  year: 
-  city: 
-  state: 
+  year:
+  city:
+  state:
   country: "[[Dripstanian Empire]]"
-  cause: 
+  cause:
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
 relations:
   - person: "[[Empress Veronique]]"
     relation: Mother
-    notes: 
+    notes:
   - person: "[[Faranes the Feared]]"
     relation: Father
-    notes: 
+    notes:
   - person: "[[Empress Yaneoli]]"
     relation: Sister
-    notes: 
+    notes:
   - person: "[[Colin, King of the Tekurs]]"
     relation: Brother
-    notes: 
+    notes:
   - person: "[[Princess Natesse]]"
     relation: Sister
-    notes: 
+    notes:
   - person: "[[Pentério Osvien]]"
     relation: Cousin
     notes: The chart marks a connection between them as illegitimate.
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree: 
-    institution: 
-    year: 
-  - 
+  - degree:
+    institution:
+    year:
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
   - title: Countess of Postia
-    start_year: 
-    end_year: 
+    start_year:
+    end_year:
 
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:
@@ -120,7 +120,7 @@ criminal_charges:
 # ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
   - item: Countess of [[Postia]]
-    notes: 
+    notes:
 
 awards:
   - title:

@@ -27,7 +27,7 @@ ideology:
 political_position:
   - Centre-left
 wings:
-  - 
+  -
 area_served:
 international_affiliation:
 national_affiliation:

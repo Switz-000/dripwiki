@@ -2,15 +2,15 @@
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Prazde
-lusitanized_name: 
+lusitanized_name:
 aliases:
   - Prazde II
 summary: Child of Empress Prazde and Lekhertos of Zaphonia, and heir to the Zaphonian line through the Yatovar marriage.
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: Female
-ethnicity: 
-religion: 
+ethnicity:
+religion:
 citizenship:
   - "[[Zaphonia|Zaphonian]]"
   - "[[Dripstanian Empire|Dripstanian]]"
@@ -22,51 +22,51 @@ enhanced: false
 # ── BIRTH AND DEATH ─────────────────────────────────────────────────────────
 birth:
   year: 1800
-  city: 
-  state: 
+  city:
+  state:
   country: "[[Zaphonia]]"
 
 death:
   year: 1827
-  city: 
-  state: 
+  city:
+  state:
   country: "[[Zaphonia]]"
-  cause: 
+  cause:
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
 relations:
   - person: "[[Empress Prazde]]"
     relation: Mother
-    notes: 
+    notes:
   - person: "[[Lekhertos]]"
     relation: Father
-    notes: 
+    notes:
   - person: "[[Empress Yaneoli]]"
     relation: Grandmother
-    notes: 
+    notes:
   - person: "[[Astere]]"
     relation: Grandfather
-    notes: 
+    notes:
   - person: "[[Jartes I]]"
     relation: Uncle
-    notes: 
+    notes:
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree: 
-    institution: 
-    year: 
-  - 
+  - degree:
+    institution:
+    year:
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
-  - title: 
-    start_year: 
-    end_year: 
+  - title:
+    start_year:
+    end_year:
 
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:
@@ -118,8 +118,8 @@ criminal_charges:
 
 # ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
-  - item: 
-    notes: 
+  - item:
+    notes:
 
 awards:
   - title:

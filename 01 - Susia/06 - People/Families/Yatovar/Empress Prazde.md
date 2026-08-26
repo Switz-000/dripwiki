@@ -2,7 +2,7 @@
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Prazde
-lusitanized_name: 
+lusitanized_name:
 aliases:
   - Queen Prazde of Zaphonia
 summary: Daughter of Empress Yaneoli and claimant to the Dripstanian throne from 1815 to 1823, a reign disputed throughout by her brother Jartes I. She was also Queen of Zaphonia, succeeding to that throne on the death of her husband.
@@ -20,25 +20,25 @@ enhanced: false
 # ── BIRTH AND DEATH ─────────────────────────────────────────────────────────
 birth:
   year: 1766
-  city: 
-  state: 
+  city:
+  state:
   country: "[[Dripstanian Empire]]"
 
 death:
-  year: 
-  city: 
-  state: 
+  year:
+  city:
+  state:
   country: "[[Dripstanian Empire]]"
-  cause: 
+  cause:
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
 relations:
   - person: "[[Empress Yaneoli]]"
     relation: Mother
-    notes: 
+    notes:
   - person: "[[Astere]]"
     relation: Father
-    notes: 
+    notes:
   - person: "[[Jartes I]]"
     relation: Brother
     notes: Twin. Contested her claim to the throne throughout her reign.
@@ -47,17 +47,17 @@ relations:
     notes: Emperor of Zaphonia. Married 1790; she succeeded to his throne on his death.
   - person: "[[Prazde II of Zaphonia]]"
     relation: Child
-    notes: 
+    notes:
   - person: "[[Jartes II]]"
     relation: Nephew
-    notes: 
+    notes:
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree: 
-    institution: 
-    year: 
-  - 
+  - degree:
+    institution:
+    year:
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
@@ -65,12 +65,12 @@ occupation:
     start_year: 1815
     end_year: 1823
   - title: Queen of [[Zaphonia]]
-    start_year: 
-    end_year: 
+    start_year:
+    end_year:
 
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:
@@ -91,7 +91,7 @@ organizations:
 # ── OFFICES ─────────────────────────────────────────────────────────────────
 offices:
   - title: Empress of the Dripstanian Empire
-    employer: 
+    employer:
     start_year: 1815
     end_year: 1823
     appointer: Hereditary succession
@@ -99,13 +99,13 @@ offices:
       -
     notes: Reign disputed throughout by [[Jartes I]]. See [[Dripstanian Civil War]].
   - title: Queen of [[Zaphonia]]
-    employer: 
-    start_year: 
-    end_year: 
-    appointer: 
+    employer:
+    start_year:
+    end_year:
+    appointer:
     parties:
       -
-    notes: 
+    notes:
 
 # ── WRITTEN WORKS ───────────────────────────────────────────────────────────
 written_works:
@@ -133,7 +133,7 @@ known_for:
   - item: "[[Dripstanian Civil War]]"
     notes: Her contested reign, 1815 to 1823.
   - item: Queen of [[Zaphonia]]
-    notes: 
+    notes:
 
 awards:
   - title:

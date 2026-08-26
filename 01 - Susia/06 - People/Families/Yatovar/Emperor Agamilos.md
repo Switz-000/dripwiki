@@ -2,7 +2,7 @@
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Agamilos
-lusitanized_name: 
+lusitanized_name:
 aliases:
   - Agamilos of Frajes
 summary: Second emperor of the Dripstanian Empire, reigning from 1686 to 1738. He succeeded his brother Mantichev under the imperial succession law, the first emperor to inherit rather than found. His death days after that of his eldest son produced the succession crisis that a regency council resolved in favour of his daughter Veronique.
@@ -20,25 +20,25 @@ enhanced: false
 # ── BIRTH AND DEATH ─────────────────────────────────────────────────────────
 birth:
   year: 1657
-  city: 
-  state: 
+  city:
+  state:
   country: "[[Dripstanian Empire]]"
 
 death:
   year: 1738
-  city: 
-  state: 
+  city:
+  state:
   country: "[[Dripstanian Empire]]"
-  cause: 
+  cause:
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
 relations:
   - person: "[[Kaichet of Frajes]]"
     relation: Father
-    notes: 
+    notes:
   - person: "[[Damhor of Frajes]]"
     relation: Mother
-    notes: 
+    notes:
   - person: "[[Saint Emperor Mantichev]]"
     relation: Brother
     notes: Preceded him on the throne.
@@ -50,14 +50,14 @@ relations:
     notes: Succeeded him after a two-year regency.
   - person: "[[Infante Babal]]"
     relation: Son
-    notes: 
+    notes:
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree: 
-    institution: 
-    year: 
-  - 
+  - degree:
+    institution:
+    year:
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
@@ -67,7 +67,7 @@ occupation:
 
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:
@@ -88,7 +88,7 @@ organizations:
 # ── OFFICES ─────────────────────────────────────────────────────────────────
 offices:
   - title: Emperor of the Dripstanian Empire
-    employer: 
+    employer:
     start_year: 1686
     end_year: 1738
     appointer: Hereditary succession

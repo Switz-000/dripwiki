@@ -2,9 +2,9 @@
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Apreže
-lusitanized_name: 
+lusitanized_name:
 aliases:
-  - 
+  -
 summary: Eldest son of Emperor Agamilos and expected heir to the Dripstanian throne. He died in a jousting accident at 25, days before his father, leaving the succession open to his sister Veronique.
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
@@ -20,14 +20,14 @@ enhanced: false
 # ── BIRTH AND DEATH ─────────────────────────────────────────────────────────
 birth:
   year: 1713
-  city: 
-  state: 
+  city:
+  state:
   country: "[[Dripstanian Empire]]"
 
 death:
   year: 1738
-  city: 
-  state: 
+  city:
+  state:
   country: "[[Dripstanian Empire]]"
   cause: Jousting accident
 
@@ -35,30 +35,30 @@ death:
 relations:
   - person: "[[Emperor Agamilos]]"
     relation: Father
-    notes: 
+    notes:
   - person: "[[Empress Veronique]]"
     relation: Sister
-    notes: 
+    notes:
   - person: "[[Infante Babal]]"
     relation: Brother
-    notes: 
+    notes:
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree: 
-    institution: 
-    year: 
-  - 
+  - degree:
+    institution:
+    year:
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
-  - title: 
-    start_year: 
-    end_year: 
+  - title:
+    start_year:
+    end_year:
 
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:

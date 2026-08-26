@@ -2,7 +2,7 @@
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Jartes II
-lusitanized_name: 
+lusitanized_name:
 aliases:
   - Jartes the Architect
 summary: Sixth emperor of the Dripstanian Empire, reigning from 1837 to 1882. He disarmed the population, suppressed the Liberal Revolts, and executed the republican leadership, and is remembered in Susia as the paradigmatic tyrant. His reign also electrified the empire's major cities, opened Incria to imperial extraction, and built St. Mantichev City.
@@ -26,8 +26,8 @@ birth:
 
 death:
   year: 1882
-  city: 
-  state: 
+  city:
+  state:
   country: "[[Dripstanian Empire]]"
   cause: Unknown
 
@@ -49,10 +49,10 @@ relations:
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree: 
-    institution: 
-    year: 
-  - 
+  - degree:
+    institution:
+    year:
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
@@ -60,13 +60,13 @@ occupation:
     start_year: 1837
     end_year: 1882
   - title: Military Officer
-    start_year: 
+    start_year:
     end_year: 1837
 
 military_service:
   - allegiance: "[[Dripstanian Empire]]"
     branch: Imperial Army
-    rank: 
+    rank:
     start_year:
     end_year:
     conflicts:
@@ -86,7 +86,7 @@ organizations:
 # ── OFFICES ─────────────────────────────────────────────────────────────────
 offices:
   - title: Emperor of the Dripstanian Empire
-    employer: 
+    employer:
     start_year: 1837
     end_year: 1882
     appointer: Hereditary succession
@@ -122,7 +122,7 @@ known_for:
   - item: Disarmament of the population
     notes: Banned the Sorzenkos and restricted civilian firearm ownership.
   - item: Colonization of Incria
-    notes: 
+    notes:
   - item: Construction of Saint Mantichev City
     notes: Built for the empire's 200th anniversary in 1874; now [[Soiteslaj]].
 

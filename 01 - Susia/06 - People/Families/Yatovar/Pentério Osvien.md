@@ -2,9 +2,9 @@
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Osvien
-lusitanized_name: 
+lusitanized_name:
 aliases:
-  - 
+  -
 summary: Son of Infante Babal and head of the Pentério branch of the Yatovar line. He took his sister Ligória as consort, and their son Pentério Babal II continued the branch.
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
@@ -19,23 +19,23 @@ enhanced: false
 
 # ── BIRTH AND DEATH ─────────────────────────────────────────────────────────
 birth:
-  year: 
-  city: 
-  state: 
+  year:
+  city:
+  state:
   country: "[[Dripstanian Empire]]"
 
 death:
-  year: 
-  city: 
-  state: 
+  year:
+  city:
+  state:
   country: "[[Dripstanian Empire]]"
-  cause: 
+  cause:
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
 relations:
   - person: "[[Infante Babal]]"
     relation: Father
-    notes: 
+    notes:
   - person: "[[Pentéria Ligória]]"
     relation: Sister
     notes: Also his consort. The union produced Pentério Babal II and a stillborn child, Barfeco.
@@ -51,20 +51,20 @@ relations:
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree: 
-    institution: 
-    year: 
-  - 
+  - degree:
+    institution:
+    year:
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
-  - title: 
-    start_year: 
-    end_year: 
+  - title:
+    start_year:
+    end_year:
 
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:
@@ -116,8 +116,8 @@ criminal_charges:
 
 # ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
-  - item: 
-    notes: 
+  - item:
+    notes:
 
 awards:
   - title:

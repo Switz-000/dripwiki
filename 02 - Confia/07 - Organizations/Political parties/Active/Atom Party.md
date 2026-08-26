@@ -22,7 +22,7 @@ ideology:
 political_position:
   - "[[List of political positions#Nuclearism|Single-issue nuclear energy advocacy (2003-2010)]]"
 wings:
-  - 
+  -
 area_served:
 international_affiliation:
 national_affiliation:

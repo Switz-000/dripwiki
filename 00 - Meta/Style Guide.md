@@ -106,31 +106,23 @@ the callout even if the target page does not yet exist.
 
 ## Frontmatter
 
-Fill every applicable field. An incomplete frontmatter is a stub regardless of 
-body length. For field-by-field guidance, read the companion reference file in 
-`00 - Meta/Template reference/` alongside the raw template.
+Read `00 - Meta/YAML and Tags.md` before writing any header. It is the single
+entry point: the rules, the base header every article carries, the three closed
+vocabularies, and a changelog of what has changed since you last wrote.
 
-Every article carries the base header defined in 
-`00 - Meta/Frontmatter reference.md`, whatever its type. Type-specific 
-templates add fields on top of it; none of them replace it.
+Fill every applicable field. An incomplete frontmatter is a stub regardless of
+body length.
 
-Wikilinks in frontmatter are always quoted: `religion: "[[Sacoitism]]"`. 
-Unquoted, YAML reads `[[` as the start of a nested list and the link never 
-resolves.
+Two rules are repeated here because breaking them destroys data silently rather
+than producing an error:
 
-Years are bare integers, never quoted: `founded: 1966`, not `founded: "1966"`. 
-An approximate date goes in the field as the best single year, with the 
-approximation recorded in the flags block.
+- Wikilinks in frontmatter are always quoted: `religion: "[[Sacoitism]]"`.
+  Unquoted, YAML reads `[[` as a nested list, and a later parse-and-save strips
+  the brackets permanently.
+- Years and all other numbers are bare, never quoted: `founded: 1966`.
 
-Era and tag values come from the closed vocabularies in 
-`00 - Meta/YAML and Tags.md`. Both are lowercase and hyphenated. A value not 
-listed there is not a valid value.
-
-Legacy fields appear in older files. Remove them on sight when editing any 
-file. The current schema is defined in the template reference files. Retired 
-so far:
-
-- `spouse` and `children_count`, both superseded by `relations` entries.
+Run `python check_frontmatter.py` from the repo root rather than trusting a
+read-through.
 
 ---
 

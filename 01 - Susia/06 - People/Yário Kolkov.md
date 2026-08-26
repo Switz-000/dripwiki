@@ -10,7 +10,7 @@ summary: Susian philosopher and engineer born in New Duloc, Postia, whose theory
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: Male
 ethnicity: East Gaiyanese
-religion: 
+religion:
 citizenship:
   - "[[Susia|Susian]]"
 nationality:
@@ -33,19 +33,19 @@ death:
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
 relations:
-  - person: 
-    relation: 
-    notes: 
+  - person:
+    relation:
+    notes:
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
   - degree: Engineering
     institution: "[[University of New Duloc]]"
-    year: 
+    year:
   - degree: Philosophy
     institution: "[[University of New Duloc]]"
-    year: 
-  - 
+    year:
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
@@ -61,7 +61,7 @@ occupation:
 
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:
@@ -85,7 +85,7 @@ offices:
     employer: Troli Ustaras
     start_year: 1987
     end_year: 1989
-    appointer: 
+    appointer:
     parties:
       -
     notes: Left in disgust at the company's culture.
@@ -93,10 +93,10 @@ offices:
     employer: Nayotai
     start_year: 1982
     end_year: 1987
-    appointer: 
+    appointer:
     parties:
       -
-    notes: 
+    notes:
 
 # ── WRITTEN WORKS ───────────────────────────────────────────────────────────
 written_works:

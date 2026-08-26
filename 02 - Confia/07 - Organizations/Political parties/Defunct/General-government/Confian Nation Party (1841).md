@@ -24,7 +24,7 @@ ideology:
 political_position:
   - Nationalist
 wings:
-  - 
+  -
 area_served:
 international_affiliation:
 national_affiliation:

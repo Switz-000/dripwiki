@@ -5,7 +5,7 @@ lusitanized_name:
 aliases:
   - Peskilonni
 summary:
-sex: male
+sex: Male
 ethnicity: "[[East Gaiyanese]]"
 religion: "[[Armotist Church of the Confian Synod]]"
 citizenship:
@@ -26,13 +26,15 @@ death:
   state:
   country:
   cause:
-spouse:
-children_count:
+relations:
+  - person:
+    relation:
+    notes:
 education:
   - degree:
     institution:
     year:
-  - 
+  -
 occupation:
   - title:
     start_year:
@@ -44,16 +46,16 @@ military_service:
     start_year:
     end_year:
     conflicts:
-      - 
+      -
     notes:
 political_alignment:
-  - 
+  -
 party:
   - "[[Shield!]]"
 parties:
   - "[[Armotist Democratic Party|Armotist Democratic Party (1982 - 2000)]]"
 organizations:
-  - 
+  -
 offices:
   - title: Director of the Central Bank of the Confian Nation
     employer: "[[Central Bank of the Confian Nation]]"
@@ -61,7 +63,7 @@ offices:
     end_year: 1996
     appointer:
     parties:
-      - 
+      -
     notes:
 written_works:
   - title:
@@ -90,9 +92,9 @@ awards:
     country:
     notes:
 era:
-  - 
+  -
 tags:
-  - 
+  -
 meta:
   stub: true
   verified: false

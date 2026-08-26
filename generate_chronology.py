@@ -258,7 +258,7 @@ def main():
 
     lines = [
         # Frontmatter. This file is a vault article like any other and must
-        # carry the base header from 00 - Meta/Frontmatter reference.md, or it
+        # carry the base header from 00 - Meta/YAML and Tags.md, or it
         # drops out of every type query on each regeneration.
         "---",
         "type: index",

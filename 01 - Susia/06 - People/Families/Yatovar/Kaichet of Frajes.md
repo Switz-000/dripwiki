@@ -2,7 +2,7 @@
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Kaichet
-lusitanized_name: 
+lusitanized_name:
 aliases:
   - Baron Kaichet
 summary: Baron of Frajes and father of the first two Dripstanian emperors, Saint Emperor Mantichev and Emperor Agamilos. He predates the founding of the empire.
@@ -12,24 +12,24 @@ sex: Male
 ethnicity: West Gaiyanese
 religion: "[[Armotism]]"
 citizenship:
-  - 
+  -
 nationality:
-  - 
+  -
 enhanced: false
 
 # ── BIRTH AND DEATH ─────────────────────────────────────────────────────────
 birth:
   year: 1596
-  city: 
-  state: 
-  country: 
+  city:
+  state:
+  country:
 
 death:
   year: 1653
-  city: 
-  state: 
-  country: 
-  cause: 
+  city:
+  state:
+  country:
+  cause:
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
 relations:
@@ -45,20 +45,20 @@ relations:
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree: 
-    institution: 
-    year: 
-  - 
+  - degree:
+    institution:
+    year:
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
   - title: Baron of Frajes
-    start_year: 
-    end_year: 
+    start_year:
+    end_year:
 
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:
@@ -74,7 +74,7 @@ parties:                                        # partidos que ela ja pertenceu
   -
 
 organizations:
-  - 
+  -
 
 # ── OFFICES ─────────────────────────────────────────────────────────────────
 offices:

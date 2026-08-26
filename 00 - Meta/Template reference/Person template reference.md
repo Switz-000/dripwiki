@@ -137,7 +137,8 @@ the qualification in `notes`: `relation: Son` with `notes: Illegitimate.`, or
 
 ### Demographics
 
-**`sex`** — `Male` or `Female`. Plain text.  (Required).
+**`sex`** — `Male`, `Female` or `Non-binary`. Plain text, capitalised. Closed
+vocabulary: no other value is valid. (Required).
 
 **`citizenship`** — legal status in a state. List. Use wikilinks for `type: country` articles. A person can hold multiple citizenships. (Required).
 

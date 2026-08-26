@@ -1,7 +1,7 @@
 ---
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
-native_name: 
+native_name:
 lusitanized_name: Suizo Soites
 aliases:
   - Soites
@@ -44,7 +44,7 @@ education:
   - degree: Economics
     institution: "[[University of New Kentu]]"
     year: 1933
-  - 
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
@@ -102,7 +102,7 @@ offices:
     appointer: "[[1958 Susian presidential election]]"
     parties:
       - "[[Susian Liberal Party]]"
-    notes: 
+    notes:
   - title: President of Susia
     employer: "[[Susian Federal Government]]"
     start_year: 1954
@@ -110,9 +110,9 @@ offices:
     appointer: "[[1954 Susian presidential election]]"
     parties:
       - "[[Susian Liberal Party]]"
-    notes: 
+    notes:
   - title: Delegate, Constitutional Convention
-    employer: 
+    employer:
     start_year: 1953
     end_year: 1954
     appointer: "[[National Agreement]]"
