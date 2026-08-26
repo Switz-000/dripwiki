@@ -253,66 +253,268 @@ tags:
   - culture/tradition
 ```
 
-A bare parent is valid where no leaf fits, but prefer the leaf. Queries can
-take either width: `t.startsWith("politics/")` for everything political,
-the full string for the specific domain.
-
-```
-politics/     governance   elections    dissent      monarchy
-              revolution   nationalism  law          diplomacy
-
-economy/      corporate    labor        finance      industry
-              agriculture  energy
-
-society/      demographics urbanism     welfare      education
-              immigration  race         crime
-
-culture/      tradition    arts         sport        media
-              language     firearms
-
-belief/       religion     philosophy   ideology
-
-conflict/     military     intelligence
-
-knowledge/    science      technology   medicine     enhancement
-              biology
-
-land/         geography    infrastructure            colonial
-```
+A bare parent is valid where no leaf fits, but reach for the leaf first.
+Queries take either width: `t.startsWith("politics/")` for everything
+political, the full string for the specific domain.
 
 ### The rule that keeps tags useful
 
-**If a leaf would land on more than a third of tagged articles, it is not a
-tag — it is the vault.** The rule applies to leaves. Parents are deliberately
-broad and are expected to be large; that is what makes them useful as a coarse
-filter. A leaf that is rare is doing its job.
+**If a leaf lands on more than a third of tagged articles, it is not a tag —
+it is the vault.** The rule applies to leaves. Parents are deliberately broad
+and are expected to be large; that breadth is what makes them useful as a
+coarse filter.
 
-Two tags were removed on 2026-08-26 for failing it: `politics` sat on 82% of
-tagged articles and rode along with 89–95% of every other tag, and `history`
-sat on 72%, which in a worldbuilding vault says nothing. They were not
-describing articles, they were describing the project.
+Two tags were removed on 2026-08-26 for failing it. `politics` sat on 82% of
+tagged articles and rode along with 89–95% of every other tag; `history` sat
+on 72%, which in a worldbuilding vault says nothing. Neither was describing an
+article. They were describing the project.
+
+### How not to judge a tag
+
+**A low use count is not evidence against a tag.** Most of the vault is still
+untagged, so a leaf with four uses may simply be waiting for its articles. Cut
+a tag only when it fails structurally: it duplicates another leaf, it restates
+the type, or it is so broad that it stops narrowing anything. Never cut on
+count alone.
 
 ### Where a leaf shares a name with a type
 
-`tradition`, `religion`, `ideology`, `language` and `sport` exist as both.
-Use the tag only for articles *about* that domain which are not *of* that type.
+`tradition`, `religion`, `ideology`, `language` and `sport` exist as both. Use
+the tag only for articles *about* that domain which are not *of* that type.
 
-- *Hăjaven* is `type: tradition`. It needs no `culture/tradition` tag; that
+- [[Hăjaven]] is `type: tradition`. It needs no `culture/tradition` tag; that
   would restate the type.
-- *Gun Culture in Susia* is `type: concept` and takes `culture/tradition`,
+- [[Gun Culture in Susia]] is `type: concept` and takes `culture/tradition`,
   because it discusses traditions without being one.
 
-### Notes on the ones that get confused
+---
 
-- **`culture/firearms`** is armed citizenship as civic practice: the
-  [[Sorzenko]], the honour codes, mandatory service, regulation. Weapons as
-  hardware go to `knowledge/technology`.
-- **`economy/corporate`** is the Yarnojte and FEZ layer, extraterritorial
-  corporate rule included.
-- **`politics/monarchy`** covers the imperial and dynastic layer, succession
-  included.
-- **`knowledge/biology`** is the natural world. `knowledge/science` is
-  research and its institutions.
+### politics/ — power: who holds it, how it is taken, how it is contested
+
+**`politics/governance`** — how the state is structured and run. Constitutions,
+branches, ministries, offices, administrative reform.
+*Examples:* [[Susian Federal Government]], [[Secretariat of Efficiency]],
+[[Confian National Government]], [[Competitive federalism]], [[Party Federation]]
+*Not* `politics/law`. A ministry is governance; the act that created it is law.
+
+**`politics/law`** — statutes, courts, jurisprudence, legal doctrine.
+*Examples:* [[MAGEN act]], [[Supreme Court of Susia]],
+[[Firearm regulation in Susia]], [[Presidential Empowerment Amendment]]
+*Not* `society/crime`, which is about offences and offenders rather than the
+legal instrument.
+
+**`politics/elections`** — franchise, campaigns, results, parties as electoral
+machines.
+*Examples:* [[List of Confian elections]], [[Susian Democratic Union]],
+[[White Stork Party]], [[List of Susian presidents]]
+*Not* `politics/dissent`. A party contesting an election is elections; a party
+banned from contesting one is dissent.
+
+**`politics/dissent`** — opposition outside ordinary politics: protest,
+repression, exile, banned organisations, political violence.
+*Examples:* [[Matri assasination attempt (1958)]], [[Urgiri Tečlan]],
+[[Knights of the Republic]], [[Moviment of New Susians]]
+*Not* `politics/revolution`, which is the attempt to replace the order rather
+than resist it.
+
+**`politics/revolution`** — revolts, uprisings, coups, secession movements.
+*Examples:* [[Liberal Revolts]], [[Bayonet Revolution]], [[Babalist Revolt]],
+[[Carlotopolis Uprising]]
+*Not* `conflict/military`. A revolt is revolution; the campaign fought to put
+it down is military. Long revolts take both.
+
+**`politics/monarchy`** — the imperial and dynastic layer, succession included.
+*Examples:* [[Jartes II]], [[Empress Veronique]], [[List of Dripstanian emperors]],
+[[Takeda Family]]
+*Not* `politics/governance`. Use monarchy for the dynasty and the person; use
+governance for the institutions of the imperial state.
+
+**`politics/nationalism`** — national self-image, civic identity, patriotic
+doctrine.
+*Examples:* [[Susian Exceptionalism]], [[Democratic evangelism]],
+[[Velúrian identity]], [[Confian national anthems]]
+*Not* `belief/ideology`. Nationalism is a claim about who *we* are; an
+ideology is a claim about how the world should be ordered.
+
+**`politics/diplomacy`** — foreign relations, treaties, blocs, alignment.
+*Examples:* [[ODDN]], [[Continental Divide]]
+*Not* `conflict/military`. Negotiation and alignment are diplomacy; the
+fighting is military.
+
+---
+
+### economy/ — production, ownership, work and money
+
+**`economy/corporate`** — the Yarnojte and FEZ layer, extraterritorial
+corporate rule, corporate governance and culture.
+*Examples:* [[Soites Group]], [[Troli Ustaras]], [[Yarnojte]],
+[[Soites Federal Free Trade Zone]]
+*Not* `economy/industry`. Corporate is about the firm as a power structure;
+industry is about what gets made.
+
+**`economy/industry`** — manufacturing, sectors, industrial policy.
+*Examples:* [[Nayotai]], [[Žošewoš Machinery]], [[Sturdy Industry]],
+[[Roškoša Plans]]
+
+**`economy/labor`** — work, unions, syndicalism as practice, working
+conditions, forced labour.
+*Examples:* [[Syndicalist League]], [[Syndicate of the Oil Workers (Zaphonia)]],
+[[Slavery in the Dripstanian Empire]]
+*Not* `belief/ideology`. The union is labor; [[Syndicalism]] the doctrine is
+ideology.
+
+**`economy/finance`** — banking, credit, currency, markets.
+*Examples:* [[Triževa Bank]], [[Silver Coast Bank]], [[Astralis Banking Group]]
+
+**`economy/agriculture`** — farming, land use, food production.
+*Examples:* [[Postian Free Farmers]], [[Garden of Latice FEZ]], [[Daričoy]]
+
+**`economy/energy`** — extraction, generation, fuel.
+*Examples:* [[POCOIL]], [[Atompron]], [[Harioslaj Oil Zones FEZ]]
+
+---
+
+### society/ — how people live together
+
+**`society/demographics`** — population, census, distribution, migration
+patterns as data.
+*Examples:* [[Cultures of Bershad]], [[List of first names]]
+*Not* `society/race`, which is about the groups themselves and how they are
+treated.
+
+**`society/race`** — ethnic and racial groups, their standing and treatment.
+*Examples:* [[Konph]], [[Tekur]], [[Slavery in the Dripstanian Empire]],
+[[Tekurubićni Patrol]]
+
+**`society/immigration`** — movement of people across borders and its politics.
+*Examples:* [[Ant wars]], [[Moviment of New Susians]], [[New Duloc riot]]
+
+**`society/urbanism`** — cities as built and planned things: growth, housing,
+metropolitan development.
+*Examples:* [[Neoveli metropolitan area]], [[Quad Cities]], [[New Duloc]]
+*Not* `land/geography`. Urbanism is what people built; geography is what was
+there first.
+
+**`society/welfare`** — social provision, healthcare policy, pensions, care.
+*Examples:* [[National Care Act of 1981]]
+
+**`society/education`** — schools, universities, curriculum, credentials.
+*Examples:* [[Carlotopolis State University for the Humanities]],
+[[List of susian universities]], [[Graduation yearbook]]
+
+**`society/crime`** — offences, offenders, corruption, organised crime.
+*Examples:* [[Troli Ustaras Corruption Scandal (2047)]],
+[[Confederation of the Industries of the Confian Nation]], [[Ragged-sleeve]]
+*Not* `politics/law`, which is the statute and the court rather than the act.
+
+---
+
+### culture/ — what people make, perform and hold in common
+
+**`culture/tradition`** — inherited customs, festivals, honour codes, folkways.
+*Examples:* [[Cericeiro]], [[Vuževa]], [[Cericeiro honor code]]
+*Not* `belief/religion`. A festival with religious origin is tradition unless
+the article is about the doctrine.
+
+**`culture/firearms`** — armed citizenship as civic practice: shooting clubs,
+duelling codes, mandatory service, the politics of carrying.
+*Examples:* [[Sorzenko]], [[Gun Culture in Susia]], [[Military Service in Susia]],
+[[Fortress complex]]
+*Not* `conflict/military`, which is armies and campaigns, and not
+`knowledge/technology`, which is where weapons as hardware go
+([[List of cartridges]]).
+
+**`culture/media`** — press, broadcast, publishing, public discourse.
+*Examples:* [[Ti-ka!]], [[KSH]], [[Five of Goretopol']],
+[[List of Confian political euphemisms]]
+
+**`culture/language`** — languages, lexicons, naming, idiom.
+*Examples:* [[Susian lexicon by root]], [[List of susian idioms]],
+[[List of first names]]
+
+**`culture/arts`** — theatre, literature, music, visual art.
+*Examples:* [[Theatre of the Nation]]
+
+**`culture/sport`** — games, leagues, clubs, competition.
+*Examples:* [[Crolball]]
+
+---
+
+### belief/ — what people hold to be true
+
+**`belief/religion`** — faiths, deities, doctrine, clergy.
+*Examples:* [[Armotism]], [[Sacoitism]], [[Verene]], [[Impotence Doctrine]]
+
+**`belief/philosophy`** — argument about knowledge, ethics, human nature,
+rights.
+*Examples:* [[Armadesh Versij]], [[Versijian Natural Rights]], [[Rights]],
+[[Social Contract Theory]], [[Apajian Analysis of History]]
+*Not* `belief/ideology`. Philosophy asks what is true; ideology proposes a
+programme.
+
+**`belief/ideology`** — political doctrines and the movements built on them.
+*Examples:* [[Modernism]], [[Syndicalism]], [[Apajianism]], [[Kolkovianism]],
+[[List of political positions]]
+
+---
+
+### conflict/ — organised force
+
+**`conflict/military`** — armies, campaigns, doctrine, arms manufacture,
+service.
+*Examples:* [[National Guard]], [[Continental War]], [[Van Ritter]],
+[[Battle of Arkaime]]
+
+**`conflict/intelligence`** — espionage, surveillance, secret services,
+covert action.
+*Examples:* [[Project NIRVEV]]
+*Not* `politics/dissent`. The service doing the watching is intelligence; the
+people being watched are dissent. Articles about a crackdown often take both.
+
+---
+
+### knowledge/ — inquiry, technique and the natural world
+
+**`knowledge/science`** — research, scientific institutions, discovery.
+*Examples:* [[Lischev-Verene]], [[Rǎz Lizňir]]
+*Not* `knowledge/technology`, which is applied technique and built things.
+
+**`knowledge/technology`** — engineering, devices, standards, industrial
+technique.
+*Examples:* [[Lizne]], [[VITAKEI]], [[List of cartridges]],
+[[Units of measurement]]
+
+**`knowledge/medicine`** — disease, treatment, clinical practice.
+*Examples:* [[Jashevor's disease]], [[Kashovne's syndrome]],
+[[Tarlanna's disease]]
+
+**`knowledge/enhancement`** — cognitive enhancement and everything downstream
+of it: its medicine, law, economics and politics.
+*Examples:* [[Cognitive enhancement]], [[Federal Cognitive Enhancement Program]],
+[[Soites Experimenter Program]]
+*Not* `knowledge/medicine`. Enhancement is its own subject in this setting and
+deserves to be queryable on its own; use medicine for ordinary pathology.
+
+**`knowledge/biology`** — species, genera, the natural world.
+*Examples:* [[Duolij lobster]], [[Spruyǎtročeyon]], [[Susian wild bison]],
+[[Comparison of bovine animals]]
+
+---
+
+### land/ — territory and what is built on it
+
+**`land/geography`** — natural features and physical setting.
+*Examples:* [[Lasman river]], [[Gaiyan Sea]], [[Dalatchi]]
+
+**`land/infrastructure`** — transport, utilities, networks, fixed works.
+*Examples:* [[Kolkov line]], [[Eastern Industrial Complex FEZ]]
+
+**`land/colonial`** — colonies, dominions, imperial administration of
+territory.
+*Examples:* [[General Government of Confia]], [[Sekyo]], [[Lawhá]],
+[[Letters to St Yepodij]]
+*Not* `politics/monarchy`. The empire's dynasty is monarchy; its administration
+of a possession is colonial.
 
 ---
 
@@ -406,6 +608,11 @@ entries above it are what changed under you.
 **2026-08-26**
 - Tags rebuilt as a two-tier vocabulary: eight parents, forty leaves, written
   `parent/leaf`. `tags` is now Required.
+- Every leaf now carries worked examples from the vault and a note on the
+  neighbouring leaf it is most often confused with. Read section 5 before
+  tagging rather than guessing from the leaf name.
+- Added a rule against cutting tags on use count. Most of the vault is still
+  untagged, so a low count measures the backlog, not the tag.
 - Removed `politics` (82% of tagged articles) and `history` (72%). Neither
   narrowed anything. `sport` as a flat tag removed; it only ever restated
   `type: sport`.
