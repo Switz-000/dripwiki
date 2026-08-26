@@ -33,6 +33,6 @@ wings:
 area_served:
 
 international_affiliation:
-national_affiliation: [[Susian Democratic Union]]
+national_affiliation: "[[Susian Democratic Union]]"
 regional_affiliation:
 ---

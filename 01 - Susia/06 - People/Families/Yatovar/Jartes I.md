@@ -113,11 +113,11 @@ criminal_charges:
 
 # ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
-  - item: [[Dripstanian Civil War]]
+  - item: "[[Dripstanian Civil War]]"
     notes: Contested his sister's reign from 1815 to 1823.
   - item: Deportation of the [[Tekur]] people
     notes: Ordered the forced march of approximately 350,000 Tekurs to the Tekur Territory in what is now [[New Celiolaj]]; roughly 60 per cent died.
-  - item: [[The Bakurian Campaign]]
+  - item: "[[The Bakurian Campaign]]"
     notes: Begun 1826. One of four major conquests of his reign.
 
 awards:

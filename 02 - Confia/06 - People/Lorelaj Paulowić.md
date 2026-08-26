@@ -21,7 +21,7 @@ birth:
   state: "[[Koštanože]]"
   country: "[[Dripstanian Empire]]"
 death:
-  year: Disappeared 1977
+  year: 1977
   city: Whereabouts unknown
   state: Whereabouts unknown
   country: Whereabouts unknown

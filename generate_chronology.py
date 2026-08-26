@@ -257,6 +257,24 @@ def main():
         by_year[year]  # defaultdict creates it
 
     lines = [
+        # Frontmatter. This file is a vault article like any other and must
+        # carry the base header from 00 - Meta/Frontmatter reference.md, or it
+        # drops out of every type query on each regeneration.
+        "---",
+        "type: index",
+        "summary: Chronological index of every dated event recorded in vault frontmatter.",
+        "aliases:",
+        "  -",
+        "era:",
+        "  -",
+        "tags:",
+        "  - history",
+        "meta:",
+        "  stub: false",
+        "  verified: false",
+        "  image: null",
+        "---",
+        "",
         "# Susia — Chronology",
         "",
         "> Auto-generated from vault frontmatter. Do not edit manually.",

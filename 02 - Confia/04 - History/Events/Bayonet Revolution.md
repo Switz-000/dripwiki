@@ -1,7 +1,7 @@
 ---
 type: event
-date_end: "1977"
-date_start: "1977"
+date_end: 1977
+date_start: 1977
 location:
   - "[[Confia]]"
 rebellious_participants: "[[RBWIZ]]"

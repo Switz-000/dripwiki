@@ -1,3 +1,18 @@
+---
+type: index
+summary: Chronological index of every dated event recorded in vault frontmatter.
+aliases:
+  -
+era:
+  -
+tags:
+  - history
+meta:
+  stub: false
+  verified: false
+  image: null
+---
+
 # Susia — Chronology
 
 > Auto-generated from vault frontmatter. Do not edit manually.
@@ -305,6 +320,7 @@
 ## 1959
 - **Atrocity begins** — [[Legrinpija Massacre]]
 - **Atrocity ends** — [[Legrinpija Massacre]]
+- **Dissolved** — [[Knights of the Republic]]
 - **Event ends** — [[Ant wars]]
 - **Founded** — [[Troli Ustaras]] in [[Donetruže]]
 - **Publication** — *Rethinking Syndicalism (1959)* by [[Eriežera Lensekowina]] — *First book, published in Confia. Called for the unification of the Moderate Syndicalist movement. First proposal of abandoning the economic self-management framework entirely from a syndicalist persepctive. Published as D. K. Kasselja*
@@ -355,6 +371,7 @@
 - **Appointment** — [[Jagan Iliož]] becomes President at [[Žošewoš Machinery]], appointed by [[Titen Iliož]] — *Bought the enterprise he directed (and his father before him) during the Paulowić regime*
 - **Appointment** — [[Mariana Torres]] becomes Leader of the Confian Nation at [[Confian National Government]], appointed by [[Bayonet Revolution]] — *Interim*
 - **Appointment** — [[Ňotrič Apaj]] becomes Journalist at [[Dripia State University Press]] — *Covered economics, social policy, and politics during the post-Continental War boom years. War correspondent in Ditania 1983.*
+- **Death** — [[Lorelaj Paulowić]] died in [[Whereabouts unknown]] (Disappeared)
 - **Discharge** — [[Ňotrič Apaj]] from [[Susian Air Force]] — *Drafted. Served in a non-combat administrative role.*
 - **End of tenure** — [[Lorelaj Paulowić]] leaves First Secretary of the Union of Confian Syndicalists at [[Confian Syndicalist Union]]
 - **End of tenure** — [[Lorelaj Paulowić]] leaves Leader of the Confian Nation at [[Confian National Government]]

@@ -22,7 +22,7 @@ birth:
   country: "[[Confia]]"
 death:
   year: 2011
-  city: "[[Imgospalje]"
+  city: "[[Imgospalje]]"
   state: "[[Koštanože]]"
   country: "[[Confia]]"
   cause: Car bomb

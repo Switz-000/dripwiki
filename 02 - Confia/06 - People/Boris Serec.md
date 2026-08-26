@@ -26,7 +26,7 @@ death:
   country: "[[Confia]]"
   cause: Natural causes
 spouse: "[[Grawolja Sereca]]"
-children_count: "3"
+children_count: 3
 education:
   - degree:
     institution:

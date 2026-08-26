@@ -8,7 +8,7 @@ founding_place: "[[Lore-Kurji]]"
 headquarters: "[[Eastern Industrial Complex FEZ]]"
 market_cap: 1400000000000
 yarnojte: true
-yarnojte_granted: "2044"
+yarnojte_granted: 2044
 fez: 
     - name: "[[Eastern Industrial Complex FEZ]]"
       state: "[[Misocévia]]"

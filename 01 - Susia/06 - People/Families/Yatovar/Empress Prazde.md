@@ -130,7 +130,7 @@ criminal_charges:
 
 # ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
-  - item: [[Dripstanian Civil War]]
+  - item: "[[Dripstanian Civil War]]"
     notes: Her contested reign, 1815 to 1823.
   - item: Queen of [[Zaphonia]]
     notes: 

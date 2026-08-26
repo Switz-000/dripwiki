@@ -7,7 +7,7 @@ aliases:
 status: Defunct
 founded_by:
 founded: 2000
-dissolved: "2013"
+dissolved: 2013
 merger_of:
 split_from: "[[Armotist Democratic Party]]"
 merged_into:

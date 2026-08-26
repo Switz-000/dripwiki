@@ -119,7 +119,7 @@ criminal_charges:
 
 # ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
-  - item: [[Empress Veronique]]
+  - item: "[[Empress Veronique]]"
     notes: His succession crisis established that a woman could inherit the Dripstanian throne.
   - item: Standardisation of the [[Units of measurement|treye]]
     notes: Fixed in 1732 at the length of his thumb, 2.37 cm.

@@ -2,8 +2,8 @@
 type: atrocity
 location:
   - "[[Nar Liewati]]"
-date_start: "1986"
-date_end: "1986"
+date_start: 1986
+date_end: 1986
 target: "[[Nar Liewati refugee camp]]"
 victims: Kaner civilians
 death_toll: ~900 (International Centre for War Relief) ~1300 (Zartonistanni estimate)
