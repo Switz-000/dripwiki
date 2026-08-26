@@ -1,7 +1,7 @@
 ---
 type: event
-date_end: "1920"
-date_start: "1920"
+date_end: 1920
+date_start: 1920
 location:
   - "[[Carlotopolis]]"
 rebellious_participants: Five of Karlotopol'

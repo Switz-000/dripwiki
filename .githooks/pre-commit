@@ -1,0 +1,64 @@
+#!/bin/sh
+#
+# pre-commit — catch NUL bytes in Markdown before they enter history.
+#
+# A NUL byte (0x00) is never valid in a Markdown file. It appears when a write
+# is interrupted: the file's recorded length is correct but part of its content
+# was never flushed, and the unwritten gap reads back as zeros. Git stores them
+# without complaint and then classifies the file as binary, so it silently
+# disappears from grep and shows no diffs. Text can survive between two runs of
+# zeros and be invisible to search for months.
+#
+# Installed 2026-08-26, after 18 files were found in this state. The oldest
+# dated to 2026-07-02 and none of it had ever been noticed.
+#
+# Behaviour: repair, log, allow the commit. Rejecting would stop the automated
+# vault backup unattended, which is worse than a logged repair.
+#
+# Repairs are recorded in 00 - Meta/nul-repairs.log. If entries keep appearing,
+# something is still interrupting writes to the vault.
+
+git diff --cached --name-only --diff-filter=ACM -z | perl -e '
+  use strict; use warnings;
+  local $/;
+  my $stream = <STDIN>;
+  exit 0 unless defined $stream;
+
+  my @files = grep { length && /\.md$/ } split /\0/, $stream;
+  my @repaired;
+
+  for my $f (@files) {
+    next unless -f $f;
+    open(my $in, "<:raw", $f) or next;
+    my $data = do { local $/; <$in> };
+    close $in;
+    next unless defined $data && $data =~ /\0/;
+
+    my $count    = ($data =~ tr/\0//);
+    my $interior = ($data =~ /\0(?=[^\0])/) ? "interior" : "trailing";
+
+    $data =~ s/\0//g;
+    $data .= "\n" if length($data) && $data !~ /\n\z/;
+
+    open(my $out, ">:raw", $f) or next;
+    print $out $data;
+    close $out;
+
+    my @t = localtime;
+    if (open(my $log, ">>", "00 - Meta/nul-repairs.log")) {
+      printf $log "%04d-%02d-%02d %02d:%02d  %-70s  %5d NUL bytes (%s)\n",
+        $t[5]+1900, $t[4]+1, $t[3], $t[2], $t[1], $f, $count, $interior;
+      close $log;
+    }
+    push @repaired, "$f ($count bytes, $interior)";
+    system("git", "add", "--", $f);
+  }
+
+  if (@repaired) {
+    system("git", "add", "--", "00 - Meta/nul-repairs.log");
+    print STDERR "\npre-commit: repaired NUL corruption before committing\n";
+    print STDERR "  $_\n" for @repaired;
+    print STDERR "  logged to 00 - Meta/nul-repairs.log\n\n";
+  }
+'
+exit 0
