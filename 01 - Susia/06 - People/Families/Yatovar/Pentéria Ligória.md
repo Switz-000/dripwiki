@@ -2,9 +2,9 @@
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Ligória
-lusitanized_name: 
+lusitanized_name:
 aliases:
-  - 
+  -
 summary: Daughter of Infante Babal of the Yatovar line. She was consort to her brother Pentério Osvien, and mother of Pentério Babal II.
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
@@ -19,23 +19,23 @@ enhanced: false
 
 # ── BIRTH AND DEATH ─────────────────────────────────────────────────────────
 birth:
-  year: 
-  city: 
-  state: 
+  year:
+  city:
+  state:
   country: "[[Dripstanian Empire]]"
 
 death:
-  year: 
-  city: 
-  state: 
+  year:
+  city:
+  state:
   country: "[[Dripstanian Empire]]"
-  cause: 
+  cause:
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
 relations:
   - person: "[[Infante Babal]]"
     relation: Father
-    notes: 
+    notes:
   - person: "[[Pentério Osvien]]"
     relation: Brother
     notes: Also her consort. The union produced Pentério Babal II and a stillborn child, Barfeco.
@@ -48,20 +48,20 @@ relations:
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree: 
-    institution: 
-    year: 
-  - 
+  - degree:
+    institution:
+    year:
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
-  - title: 
-    start_year: 
-    end_year: 
+  - title:
+    start_year:
+    end_year:
 
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:
@@ -113,8 +113,8 @@ criminal_charges:
 
 # ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
-  - item: 
-    notes: 
+  - item:
+    notes:
 
 awards:
   - title:

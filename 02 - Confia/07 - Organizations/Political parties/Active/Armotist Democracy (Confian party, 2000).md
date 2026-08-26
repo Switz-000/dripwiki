@@ -23,7 +23,7 @@ political_position:
   - Right-wing (socially)
   - Left-wing (economically)
 wings:
-  - 
+  -
 area_served:
 international_affiliation:
 national_affiliation:

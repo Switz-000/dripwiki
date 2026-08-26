@@ -2,17 +2,17 @@
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Grawolja Marianowina Tekurubićna
-lusitanized_name: 
+lusitanized_name:
 aliases:
   - Grawi Inkriska
   - Incrian Grawi
   - The Incrian
-summary: 
+summary:
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
-sex: female
-ethnicity: 
-religion: 
+sex: Female
+ethnicity:
+religion:
 citizenship:
   -
 nationality:
@@ -23,28 +23,30 @@ enhanced: false
 
 # ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
 birth:
-  year: 
+  year:
   city: "[[Kiorisk City]]"
   state: "[[Kiorisk]]"
   country: "[[Racpalia]]"
 
 death:
-  year: 
-  city: 
-  state: 
-  country: 
-  cause: 
+  year:
+  city:
+  state:
+  country:
+  cause:
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
-spouse: 
-children_count:         # use um NÚMERO
+relations:
+  - person:
+    relation:
+    notes:
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree: 
-    institution: 
-    year: 
-  - 
+  - degree:
+    institution:
+    year:
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
@@ -54,7 +56,7 @@ occupation:
 
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:

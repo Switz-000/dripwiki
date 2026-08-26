@@ -2,7 +2,7 @@
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Veronique Yatovar
-lusitanized_name: 
+lusitanized_name:
 aliases:
   -
 summary: Third ruler of the Dripstanian Empire, reigning from 1740 to 1787. She centralised imperial power, elevated the advisory council into a real Senate, created a permanent professional army, and oversaw the colonisation of Confia. Her reign also carried out the ethnic cleansing of the Konph.
@@ -40,7 +40,7 @@ relations:
     notes: Eldest son; died in a jousting accident at 25, days before their father.
   - person: "[[Infante Babal]]"
     relation: Brother
-    notes: 
+    notes:
   - person: "[[Faranes the Feared]]"
     relation: Spouse
     notes: Married 1752. Grandson of Murilo the Glutton, heir to the captaincy of Sužielaj.
@@ -59,10 +59,10 @@ relations:
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree: 
-    institution: 
-    year: 
-  - 
+  - degree:
+    institution:
+    year:
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
@@ -75,7 +75,7 @@ occupation:
 
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:

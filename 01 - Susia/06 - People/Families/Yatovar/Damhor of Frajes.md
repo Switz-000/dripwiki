@@ -2,9 +2,9 @@
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Damhor
-lusitanized_name: 
+lusitanized_name:
 aliases:
-  - 
+  -
 summary: Wife of Baron Kaichet of Frajes and mother of the first two Dripstanian emperors, Saint Emperor Mantichev and Emperor Agamilos.
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
@@ -12,24 +12,24 @@ sex: Female
 ethnicity: West Gaiyanese
 religion: "[[Armotism]]"
 citizenship:
-  - 
+  -
 nationality:
-  - 
+  -
 enhanced: false
 
 # ── BIRTH AND DEATH ─────────────────────────────────────────────────────────
 birth:
   year: 1623
-  city: 
-  state: 
-  country: 
+  city:
+  state:
+  country:
 
 death:
   year: 1653
-  city: 
-  state: 
-  country: 
-  cause: 
+  city:
+  state:
+  country:
+  cause:
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
 relations:
@@ -38,27 +38,27 @@ relations:
     notes: Married 1637.
   - person: "[[Saint Emperor Mantichev]]"
     relation: Son
-    notes: 
+    notes:
   - person: "[[Emperor Agamilos]]"
     relation: Son
-    notes: 
+    notes:
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree: 
-    institution: 
-    year: 
-  - 
+  - degree:
+    institution:
+    year:
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
-  - title: 
-    start_year: 
-    end_year: 
+  - title:
+    start_year:
+    end_year:
 
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:
@@ -74,7 +74,7 @@ parties:                                        # partidos que ela ja pertenceu
   -
 
 organizations:
-  - 
+  -
 
 # ── OFFICES ─────────────────────────────────────────────────────────────────
 offices:

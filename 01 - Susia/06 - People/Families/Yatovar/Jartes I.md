@@ -2,9 +2,9 @@
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Jartes
-lusitanized_name: 
+lusitanized_name:
 aliases:
-  - 
+  -
 summary: Fifth emperor of the Dripstanian Empire. He claimed the throne from his mother's death in 1815 against his twin sister Prazde and held it uncontested from 1823 until his death in 1837. His reign carried out the deportation of the Tekur people and four major foreign conquests.
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
@@ -20,25 +20,25 @@ enhanced: false
 # ── BIRTH AND DEATH ─────────────────────────────────────────────────────────
 birth:
   year: 1766
-  city: 
-  state: 
+  city:
+  state:
   country: "[[Dripstanian Empire]]"
 
 death:
   year: 1837
-  city: 
-  state: 
+  city:
+  state:
   country: "[[Dripstanian Empire]]"
-  cause: 
+  cause:
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
 relations:
   - person: "[[Empress Yaneoli]]"
     relation: Mother
-    notes: 
+    notes:
   - person: "[[Astere]]"
     relation: Father
-    notes: 
+    notes:
   - person: "[[Empress Prazde]]"
     relation: Sister
     notes: Twin. Held the throne against his claim from 1815 to 1823.
@@ -48,10 +48,10 @@ relations:
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree: 
-    institution: 
-    year: 
-  - 
+  - degree:
+    institution:
+    year:
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
@@ -61,7 +61,7 @@ occupation:
 
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:
@@ -82,7 +82,7 @@ organizations:
 # ── OFFICES ─────────────────────────────────────────────────────────────────
 offices:
   - title: Emperor of the Dripstanian Empire
-    employer: 
+    employer:
     start_year: 1815
     end_year: 1837
     appointer: Hereditary succession

@@ -2,7 +2,7 @@
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Capraže
-lusitanized_name: 
+lusitanized_name:
 aliases:
   - Capraze
 summary: Husband of Princess Natesse, daughter of Empress Veronique.
@@ -19,40 +19,40 @@ enhanced: false
 
 # ── BIRTH AND DEATH ─────────────────────────────────────────────────────────
 birth:
-  year: 
-  city: 
-  state: 
-  country: 
+  year:
+  city:
+  state:
+  country:
 
 death:
-  year: 
-  city: 
-  state: 
-  country: 
-  cause: 
+  year:
+  city:
+  state:
+  country:
+  cause:
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
 relations:
   - person: "[[Princess Natesse]]"
     relation: Spouse
-    notes: 
+    notes:
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree: 
-    institution: 
-    year: 
-  - 
+  - degree:
+    institution:
+    year:
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
-  - title: 
-    start_year: 
-    end_year: 
+  - title:
+    start_year:
+    end_year:
 
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:
@@ -105,7 +105,7 @@ criminal_charges:
 # ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
   - item: Marriage into the Yatovar line
-    notes: 
+    notes:
 
 awards:
   - title:

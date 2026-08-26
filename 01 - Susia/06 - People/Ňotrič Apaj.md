@@ -2,7 +2,7 @@
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Ňotrič Apaj
-lusitanized_name: 
+lusitanized_name:
 aliases:
   - Apaj
 summary: Susian philosopher, journalist, and war correspondent whose essay "War, Pestilence and Famine" and book "After Scarcity" established the framework for post-scarcity cosmopolitan thought in Susia. His work became the ethical foundation of Troli Ustaras and a primary moral source for the Modernist Alliance's utopian faction.
@@ -36,8 +36,8 @@ death:
 relations:
   - person: "[[Veska Apaj]]"
     relation: Spouse
-    notes: 
-  - person: 
+    notes:
+  - person:
     relation: Child
     notes: 2 children, not named in canon.
 
@@ -45,11 +45,11 @@ relations:
 education:
   - degree: Journalism
     institution: "[[Dripia State University]]"
-    year: 
+    year:
   - degree: Philosophy
     institution: "[[Dripia State University]]"
-    year: 
-  - 
+    year:
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
@@ -66,7 +66,7 @@ occupation:
 military_service:
   - allegiance: "[[Susia]]"
     branch: "[[Susian Air Force]]"
-    rank: 
+    rank:
     start_year: 1975
     end_year: 1977
     conflicts:
@@ -91,7 +91,7 @@ offices:
     employer: "[[Dripia State University Press]]"
     start_year: 1977
     end_year: 1988
-    appointer: 
+    appointer:
     parties:
       -
     notes: Covered economics, social policy, and politics during the post-Continental War boom years. War correspondent in Ditania 1983.
@@ -99,7 +99,7 @@ offices:
     employer: "[[Troli Ustaras]]"
     start_year: 1988
     end_year: 2042
-    appointer: 
+    appointer:
     parties:
       -
     notes: Shaped TU's ethical vocabulary and corporate culture. Authored TU's ethical constitution covering AI and speculative future technology. Never lived within the corporate culture he helped create.

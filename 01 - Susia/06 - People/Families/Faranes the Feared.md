@@ -1,8 +1,8 @@
 ---
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
-native_name: 
-lusitanized_name: 
+native_name:
+lusitanized_name:
 aliases:
   -
 summary: King Consort of the Dripstanian Empire as the husband of Empress Veronique, whom he married in 1752. Grandson of Murilo the Glutton and heir to the captaincy of Sužielaj, known in older sources as Sussulândia.
@@ -19,16 +19,16 @@ enhanced: false
 # ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
 birth:
   year: 1731
-  city: 
-  state: 
-  country: 
+  city:
+  state:
+  country:
 
 death:
   year: 1782
-  city: 
-  state: 
-  country: 
-  cause: 
+  city:
+  state:
+  country:
+  cause:
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
 relations:
@@ -50,10 +50,10 @@ relations:
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree: 
-    institution: 
-    year: 
-  - 
+  - degree:
+    institution:
+    year:
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
@@ -62,7 +62,7 @@ occupation:
     end_year: 1782
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:
@@ -115,7 +115,7 @@ criminal_charges:
 # ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
   - item: King Consort of the [[Dripstanian Empire]]
-    notes: 
+    notes:
   - item: "[[Empress Veronique]]"
     notes: Married 1752.
   - item: Captaincy of [[Sužielaj]]

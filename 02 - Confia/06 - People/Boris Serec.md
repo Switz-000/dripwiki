@@ -5,7 +5,7 @@ lusitanized_name:
 aliases:
   - Serec
 summary:
-sex: male
+sex: Male
 ethnicity: "[[East Gaiyanese]]"
 religion: "[[Reformed Armotism]]"
 citizenship:
@@ -25,13 +25,18 @@ death:
   state: "[[Karlotopol']]"
   country: "[[Confia]]"
   cause: Natural causes
-spouse: "[[Grawolja Sereca]]"
-children_count: 3
+relations:
+  - person: "[[Grawolja Sereca]]"
+    relation: Spouse
+    notes:
+  - person:
+    relation: Child
+    notes: Three children, none named in canon.
 education:
   - degree:
     institution:
     year:
-  - 
+  -
 occupation:
   - title: Lawyer
     start_year:
@@ -46,7 +51,7 @@ military_service:
     start_year:
     end_year:
     conflicts:
-      - 
+      -
     notes:
 political_alignment:
   - "[[Armotist democracy]]"
@@ -161,7 +166,7 @@ awards:
 era:
   - post-war
 tags:
-  - 
+  -
 meta:
   stub: true
   verified: false

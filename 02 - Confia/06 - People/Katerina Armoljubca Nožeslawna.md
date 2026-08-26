@@ -2,13 +2,13 @@
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Katerina Armoljubca Graljeewina Nožeslawna
-lusitanized_name: 
+lusitanized_name:
 aliases:
   - KAN
-summary: 
+summary:
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
-sex: female
+sex: Female
 ethnicity: "[[East Gaiyanese]]"
 religion: "[[Armotist Church of the Confian Synod]]"
 citizenship:
@@ -27,22 +27,24 @@ birth:
   country: "[[Dripstanian Empire]]"
 
 death:
-  year: 
-  city: 
-  state: 
-  country: 
-  cause: 
+  year:
+  city:
+  state:
+  country:
+  cause:
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
-spouse: "[[Matetije Teššan]]"
-children_count:         # use um NÚMERO
+relations:
+  - person: "[[Matetije Teššan]]"
+    relation: Spouse
+    notes:
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree: 
-    institution: 
-    year: 
-  - 
+  - degree:
+    institution:
+    year:
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
@@ -55,7 +57,7 @@ occupation:
 
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:
@@ -82,7 +84,7 @@ offices:
     appointer: "[[National Assembly of Confian Syndicates]]"
     parties:
       - "[[Syndicalist League]]"
-    notes: 
+    notes:
   - title: Member of the National Assembly of Confian Syndicates
     employer: "[[Confian National Government]]"
     start_year: 1987
@@ -90,7 +92,7 @@ offices:
     appointer: "[[1986 Confian general election]]"
     parties:
       - "[[Syndicalist League]]"
-    notes: 
+    notes:
   - title: Member of the National Assembly of Confian Syndicates
     employer: "[[Confian National Government]]"
     start_year: 1982
@@ -98,7 +100,7 @@ offices:
     appointer: "[[1982 Confian general election]]"
     parties:
       - "[[Syndicalist League]]"
-    notes: 
+    notes:
   - title: Member of the National Assembly of Confian Syndicates
     employer: "[[Confian National Government]]"
     start_year: 1981
@@ -106,7 +108,7 @@ offices:
     appointer: "[[1980 Confian general election]]"
     parties:
       - "[[Syndicalist League]]"
-    notes: 
+    notes:
 
 # ── WRITTEN WORKS ───────────────────────────────────────────────────────────
 written_works:

@@ -33,16 +33,16 @@ death:
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
 relations:
-  - person: 
+  - person:
     relation: Child
     notes: 3 children, not named in canon.
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree: 
-    institution: 
-    year: 
-  - 
+  - degree:
+    institution:
+    year:
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
@@ -55,7 +55,7 @@ occupation:
 
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:
@@ -90,7 +90,7 @@ offices:
     appointer: 1978 Susian presidential election
     parties:
       - Susian Democratic Union
-    notes: 
+    notes:
   - title: President of Susia
     employer: Susian Federal Government
     start_year: 1974
@@ -98,7 +98,7 @@ offices:
     appointer: 1974 Susian presidential election
     parties:
       - Susian Democratic Union
-    notes: 
+    notes:
 
 # ── WRITTEN WORKS ───────────────────────────────────────────────────────────
 written_works:

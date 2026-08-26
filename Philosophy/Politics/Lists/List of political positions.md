@@ -1,6 +1,6 @@
 ---
 
-type: index 
+type: index
 tags:
 - politics
 - philosophy

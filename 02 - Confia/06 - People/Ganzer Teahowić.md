@@ -26,13 +26,15 @@ death:
   state: "[[Koštanože]]"
   country: "[[Confia]]"
   cause: Car bomb
-spouse:
-children_count:
+relations:
+  - person:
+    relation:
+    notes:
 education:
   - degree:
     institution:
     year:
-  - 
+  -
 occupation:
   - title:
     start_year:
@@ -44,13 +46,13 @@ military_service:
     start_year:
     end_year:
     conflicts:
-      - 
+      -
     notes:
 political_alignment:
   - "[[Syndicalism#New Syndicalism|New Syndicalism]]"
 party: "[[Syndicalist League]]"
 parties:
-  - 
+  -
 organizations:
   - "[[Federation of Confian Syndicates]]"
 offices:
@@ -121,9 +123,9 @@ awards:
     country:
     notes:
 era:
-  - 
+  -
 tags:
-  - 
+  -
 meta:
   stub: true
   verified: false

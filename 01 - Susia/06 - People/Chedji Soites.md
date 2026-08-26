@@ -2,7 +2,7 @@
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Chedji Jaroch Soites
-lusitanized_name: 
+lusitanized_name:
 aliases:
   - Chedji Jaroch
   - Chedji Jaroch Soites
@@ -40,7 +40,7 @@ relations:
   - person: "[[Suizo Soites]]"
     relation: Adoptive brother
     notes: Legally adopted him as a brother.
-  - person: 
+  - person:
     relation: Child
     notes: One child, not named in canon.
 
@@ -49,7 +49,7 @@ education:
   - degree: Finance
     institution: "[[Belluni College]]"
     year: 1974
-  - 
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
@@ -62,7 +62,7 @@ occupation:
 
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:
@@ -105,7 +105,7 @@ offices:
     appointer: "[[Suizo Soites]]"
     parties:
       -
-    notes: 
+    notes:
 
 # ── WRITTEN WORKS ───────────────────────────────────────────────────────────
 written_works:

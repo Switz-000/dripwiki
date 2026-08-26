@@ -2,7 +2,7 @@
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Babal
-lusitanized_name: 
+lusitanized_name:
 aliases:
   - Babal II
 summary: Son of Pentério Osvien and Pentéria Ligória, who were full siblings, and the surviving issue of the Pentério branch of the Yatovar line. Named for his grandfather, Infante Babal.
@@ -19,26 +19,26 @@ enhanced: false
 
 # ── BIRTH AND DEATH ─────────────────────────────────────────────────────────
 birth:
-  year: 
-  city: 
-  state: 
+  year:
+  city:
+  state:
   country: "[[Dripstanian Empire]]"
 
 death:
-  year: 
-  city: 
-  state: 
+  year:
+  city:
+  state:
   country: "[[Dripstanian Empire]]"
-  cause: 
+  cause:
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
 relations:
   - person: "[[Pentério Osvien]]"
     relation: Father
-    notes: 
+    notes:
   - person: "[[Pentéria Ligória]]"
     relation: Mother
-    notes: 
+    notes:
   - person: "[[Barfeco]]"
     relation: Brother
     notes: Stillborn.
@@ -48,20 +48,20 @@ relations:
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree: 
-    institution: 
-    year: 
-  - 
+  - degree:
+    institution:
+    year:
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
-  - title: 
-    start_year: 
-    end_year: 
+  - title:
+    start_year:
+    end_year:
 
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:
@@ -113,8 +113,8 @@ criminal_charges:
 
 # ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
-  - item: 
-    notes: 
+  - item:
+    notes:
 
 awards:
   - title:

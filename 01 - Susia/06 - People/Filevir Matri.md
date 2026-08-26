@@ -2,7 +2,7 @@
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Filevir Matri
-lusitanized_name: 
+lusitanized_name:
 aliases:
   - Matri
 summary: Susian lawyer and politician; fifth President of Susia (1984–1986); also served as Governor of Postia, Senator, Secretary of Justice, and Vice President under Čalsor Bonár; known for the Ditanian Intervention, the Confian reaprochment and for his lobster table style of politics.
@@ -37,8 +37,8 @@ death:
 relations:
   - person: "[[Yavna Matri]]"
     relation: Spouse
-    notes: 
-  - person: 
+    notes:
+  - person:
     relation: Child
     notes: 2 children, not named in canon.
 
@@ -47,7 +47,7 @@ education:
   - degree: Bachelor in Law
     institution: "[[University of Duolij]]"
     year: 1948
-  - 
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
@@ -60,7 +60,7 @@ occupation:
 
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:
@@ -85,18 +85,18 @@ offices:
     employer: "[[Government of Postia]]"
     start_year: 1954
     end_year: 1962
-    appointer: 
+    appointer:
     parties:
       - "[[Susian Democratic Union]]"
-    notes: 
+    notes:
   - title: Senator for Postia
     employer: "[[Susian Senate]]"
     start_year: 1962
     end_year: 1966
-    appointer: 
+    appointer:
     parties:
       - "[[Susian Democratic Union]]"
-    notes: 
+    notes:
   - title: Secretary of Justice
     employer: "[[Susian Federal Government]]"
     start_year: 1966
@@ -104,28 +104,28 @@ offices:
     appointer: "[[Serčev Fimžer]]"
     parties:
       - "[[Susian Democratic Union]]"
-    notes: 
+    notes:
   - title: Senator for Postia
     employer: "[[Susian Senate]]"
     start_year: 1970
     end_year: 1974
-    appointer: 
+    appointer:
     parties:
       - "[[Susian Democratic Union]]"
-    notes: 
+    notes:
   - title: Vice President of Susia
     employer: "[[Susian Federal Government]]"
     start_year: 1974
     end_year: 1983
-    appointer: 
+    appointer:
     parties:
       - "[[Susian Democratic Union]]"
-    notes: 
+    notes:
   - title: President of Susia
     employer: "[[Susian Federal Government]]"
     start_year: 1983
     end_year: 1986
-    appointer: 
+    appointer:
     parties:
       - "[[Susian Democratic Union]]"
     notes: Became president after Boňár's death

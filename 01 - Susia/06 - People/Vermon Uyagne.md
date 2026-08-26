@@ -1,16 +1,16 @@
 ---
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
-native_name: 
-lusitanized_name: 
+native_name:
+lusitanized_name:
 aliases:
   -
-summary: 
+summary:
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
-sex: 
-ethnicity: 
-religion: 
+sex:
+ethnicity:
+religion:
 citizenship:
   -
 nationality:
@@ -19,30 +19,30 @@ enhanced: false
 
 # ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
 birth:
-  year: 
-  city: 
-  state: 
-  country: 
+  year:
+  city:
+  state:
+  country:
 
 death:
-  year: 
-  city: 
-  state: 
-  country: 
-  cause: 
+  year:
+  city:
+  state:
+  country:
+  cause:
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
 relations:
-  - person: 
-    relation: 
-    notes: 
+  - person:
+    relation:
+    notes:
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree: 
-    institution: 
-    year: 
-  - 
+  - degree:
+    institution:
+    year:
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
@@ -52,7 +52,7 @@ occupation:
 
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:

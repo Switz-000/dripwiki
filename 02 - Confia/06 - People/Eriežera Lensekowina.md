@@ -5,7 +5,7 @@ aliases:
   - Eriežera Lensekowina
   - Lensekowina
 summary:
-sex: female
+sex: Female
 ethnicity: "[[East Gaiyanese]]"
 religion: "[[Armotist Church of the Confian Synod]]"
 citizenship:
@@ -27,8 +27,10 @@ death:
   state: "[[Koštanože]]"
   country: "[[Confia]]"
   cause: Natural causes
-spouse:
-children_count:
+relations:
+  - person:
+    relation:
+    notes:
 occupation:
   - title: Philosopher
     start_year: 1923
@@ -53,7 +55,7 @@ party:
 parties:
   - "[[Progressive Republican Party|Progressive Republican Party (1954-1955)]]"
 organizations:
-  - 
+  -
 offices:
   - title:
     employer:
@@ -61,7 +63,7 @@ offices:
     end_year:
     appointer:
     parties:
-      - 
+      -
     notes:
 written_works:
   - title: Rethinking Syndicalism (1959)

@@ -1,14 +1,14 @@
 ---
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
-native_name: 
+native_name:
 lusitanized_name: Senjap Kunsekowić Žiwoj
 aliases:
   - Kunsekowić
-summary: 
+summary:
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
-sex: male
+sex: Male
 ethnicity: "[[East Gaiyanese]]"
 religion: Atheist
 citizenship:
@@ -34,15 +34,17 @@ death:
   cause: Natural causes
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
-spouse: 
-children_count:         # use um NÚMERO
+relations:
+  - person:
+    relation:
+    notes:
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree: 
-    institution: 
-    year: 
-  - 
+  - degree:
+    institution:
+    year:
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
@@ -52,7 +54,7 @@ occupation:
 
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:
@@ -79,7 +81,7 @@ offices:
     appointer: "[[National Assembly of Confian Syndicates]]"
     parties:
       - "[[Confian Liberal Party]]"
-    notes: 
+    notes:
 
 # ── WRITTEN WORKS ───────────────────────────────────────────────────────────
 written_works:

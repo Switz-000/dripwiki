@@ -2,9 +2,9 @@
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Astere
-lusitanized_name: 
+lusitanized_name:
 aliases:
-  - 
+  -
 summary: King Consort of the Dripstanian Empire as the husband of Empress Yaneoli, whom he married in 1768. Father of Empress Prazde and Jartes I.
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
@@ -20,16 +20,16 @@ enhanced: false
 # ── BIRTH AND DEATH ─────────────────────────────────────────────────────────
 birth:
   year: 1748
-  city: 
-  state: 
+  city:
+  state:
   country: "[[Dripstanian Empire]]"
 
 death:
-  year: 
-  city: 
-  state: 
+  year:
+  city:
+  state:
   country: "[[Dripstanian Empire]]"
-  cause: 
+  cause:
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
 relations:
@@ -38,27 +38,27 @@ relations:
     notes: Married 1768.
   - person: "[[Empress Prazde]]"
     relation: Daughter
-    notes: 
+    notes:
   - person: "[[Jartes I]]"
     relation: Son
-    notes: 
+    notes:
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree: 
-    institution: 
-    year: 
-  - 
+  - degree:
+    institution:
+    year:
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
   - title: King Consort
-    start_year: 
-    end_year: 
+    start_year:
+    end_year:
 
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:
@@ -111,7 +111,7 @@ criminal_charges:
 # ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
   - item: King Consort of the [[Dripstanian Empire]]
-    notes: 
+    notes:
 
 awards:
   - title:

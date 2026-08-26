@@ -2,13 +2,13 @@
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Noljež Matetijewić Teššan
-lusitanized_name: 
+lusitanized_name:
 aliases:
   -
-summary: 
+summary:
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
-sex: male
+sex: Male
 ethnicity: "[[East Gaiyanese]]"
 religion: "[[Armotist Church of the Confian Synod]]"
 citizenship:
@@ -19,28 +19,30 @@ enhanced: false
 
 # ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
 birth:
-  year: 
-  city: 
-  state: 
-  country: 
+  year:
+  city:
+  state:
+  country:
 
 death:
-  year: 
-  city: 
-  state: 
-  country: 
-  cause: 
+  year:
+  city:
+  state:
+  country:
+  cause:
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
-spouse: 
-children_count:         # use um NÚMERO
+relations:
+  - person:
+    relation:
+    notes:
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree: 
-    institution: 
-    year: 
-  - 
+  - degree:
+    institution:
+    year:
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
@@ -50,7 +52,7 @@ occupation:
 
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:

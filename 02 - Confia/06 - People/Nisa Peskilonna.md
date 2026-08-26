@@ -5,7 +5,7 @@ lusitanized_name:
 aliases:
   - Peskilonna
 summary:
-sex: female
+sex: Female
 ethnicity: "[[East Gaiyanese]]"
 religion: "[[Armotist Church of the Confian Synod]]"
 citizenship:
@@ -26,13 +26,15 @@ death:
   state:
   country:
   cause:
-spouse:
-children_count:
+relations:
+  - person:
+    relation:
+    notes:
 education:
   - degree:
     institution:
     year:
-  - 
+  -
 occupation:
   - title:
     start_year:
@@ -44,16 +46,16 @@ military_service:
     start_year:
     end_year:
     conflicts:
-      - 
+      -
     notes:
 political_alignment:
-  - 
+  -
 party: "[[Republican Promise]]"
 parties:
   - "[[Shield!|Shield! (2000-2014)]]"
   - "[[Armotist Democratic Party|Armotist Democratic Party (1980-2000)]]"
 organizations:
-  - 
+  -
 offices:
   - title: President of the Republic
     employer:
@@ -90,9 +92,9 @@ awards:
     country:
     notes:
 era:
-  - 
+  -
 tags:
-  - 
+  -
 meta:
   stub: true
   verified: false

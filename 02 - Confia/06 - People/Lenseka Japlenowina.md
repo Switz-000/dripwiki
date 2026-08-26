@@ -5,7 +5,7 @@ lusitanized_name: Lenseka Japlenowina Katinnaja
 aliases:
   - Japlenowina
 summary:
-sex: female
+sex: Female
 ethnicity: "[[East Gaiyanese]]"
 religion: "[[Armotist Church of the Confian Synod]]"
 citizenship:
@@ -26,13 +26,15 @@ death:
   state:
   country:
   cause:
-spouse: "[[Ljubca]]"
-children_count:
+relations:
+  - person: "[[Ljubca]]"
+    relation: Spouse
+    notes:
 education:
   - degree:
     institution:
     year:
-  - 
+  -
 occupation:
   - title:
     start_year:
@@ -44,7 +46,7 @@ military_service:
     start_year:
     end_year:
     conflicts:
-      - 
+      -
     notes:
 political_alignment:
   - "[[Social democracy]]"
@@ -52,7 +54,7 @@ party: "[[Progressive Republican Party]]"
 parties:
   - "[[Progressive Republican Party]]"
 organizations:
-  - 
+  -
 offices:
   - title: President of the Council of Commissars of the United Syndicates of Confia
     employer: "[[Confian National Government]]"
@@ -97,9 +99,9 @@ awards:
     country:
     notes:
 era:
-  - 
+  -
 tags:
-  - 
+  -
 meta:
   stub: true
   verified: false

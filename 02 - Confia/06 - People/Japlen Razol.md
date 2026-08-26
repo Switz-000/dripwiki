@@ -2,15 +2,15 @@
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Japlen Baljueewic Razol
-lusitanized_name: 
+lusitanized_name:
 aliases:
   - Razol
-summary: 
+summary:
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
-sex: male
-ethnicity: 
-religion: 
+sex: Male
+ethnicity:
+religion:
 citizenship:
   -
 nationality:
@@ -19,28 +19,30 @@ enhanced: false
 
 # ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
 birth:
-  year: 
-  city: 
-  state: 
-  country: 
+  year:
+  city:
+  state:
+  country:
 
 death:
-  year: 
-  city: 
-  state: 
-  country: 
-  cause: 
+  year:
+  city:
+  state:
+  country:
+  cause:
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
-spouse: 
-children_count:         # use um NÚMERO
+relations:
+  - person:
+    relation:
+    notes:
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
   - degree:
     institution:
     year:
-  - 
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
@@ -50,7 +52,7 @@ occupation:
 
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:

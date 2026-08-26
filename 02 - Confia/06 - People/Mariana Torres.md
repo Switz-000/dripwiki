@@ -5,10 +5,10 @@ native_name: Mariana Marianowina Turreš Ljeranna
 lusitanized_name: Mariana Torres
 aliases:
   - Torres
-summary: 
+summary:
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
-sex: female
+sex: Female
 ethnicity: "[[East Gaiyanese]]"
 religion: "[[Armotist Church of the Confian Synod]]"
 citizenship:
@@ -34,15 +34,17 @@ death:
   cause: "[[Tarlanna's disease]]"
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
-spouse: 
-children_count:         # use um NÚMERO
+relations:
+  - person:
+    relation:
+    notes:
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
   - degree: Civil Engineering
     institution: Polytechnic Institute of Koštanože
     year: 1920
-  - 
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
@@ -52,7 +54,7 @@ occupation:
 
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:
@@ -80,7 +82,7 @@ offices:
     appointer: "[[1986 Confian presidential election]]"
     parties:
       - "[[Movement for Syndicalist Renovation]]"
-    notes: 
+    notes:
   - title: President of the Confian Nation
     employer: "[[Confian National Government]]"
     start_year: 1978
@@ -103,17 +105,17 @@ written_works:
   - title: On fighting in the streets
     publication_year: 1979
     genre: Memoir
-    notes: 
+    notes:
 
 
 # ── CRIMINAL RECORD ─────────────────────────────────────────────────────────
 criminal_charges:
   - charge: Treason
     counts: one
-    charged_year: 
-    plea: 
+    charged_year:
+    plea:
     verdict: guilty
-    verdict_year: 
+    verdict_year:
     sentence: Unlimited hard labour
     served: No, self-exile for 19 years then overthrew government
     in_absentia: true

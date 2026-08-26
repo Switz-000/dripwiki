@@ -1,6 +1,6 @@
 ---
 
-type: concept 
+type: concept
 era:
 - settlement
 - imperial-era
@@ -8,7 +8,7 @@ era:
 - late-imperial
 - republican-era
 - techno-federative-era
-- contemporary 
+- contemporary
 
 tags:
 - culture

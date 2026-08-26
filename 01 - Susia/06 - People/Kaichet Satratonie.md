@@ -34,16 +34,16 @@ death:
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
 relations:
-  - person: 
-    relation: 
-    notes: 
+  - person:
+    relation:
+    notes:
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree: 
+  - degree:
     institution: "[[Military Academy of Niqueparj]]"
-    year: 
-  - 
+    year:
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
@@ -85,13 +85,13 @@ organizations:
 # ── OFFICES ─────────────────────────────────────────────────────────────────
 offices:
   - title: Member of the General Government of the Federated Provinces of Galil
-    employer: 
+    employer:
     start_year: 1840
     end_year: 1844
     appointer: General Government of the Federated Provinces of Galil
     parties:
       - Independent
-    notes: 
+    notes:
 
 # ── WRITTEN WORKS ───────────────────────────────────────────────────────────
 written_works:
@@ -123,7 +123,7 @@ known_for:
   - item: Pulling a Satratonie
     notes: The Susian idiom for betraying one's principles for money or status.
   - item: Treason
-    notes: 
+    notes:
 
 awards:
   - title:

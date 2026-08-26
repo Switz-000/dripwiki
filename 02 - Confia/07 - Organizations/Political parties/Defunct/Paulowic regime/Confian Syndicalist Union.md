@@ -23,11 +23,11 @@ think_tank:
 youth_wing: "[[Organization of the Syndicalist Youth of the Confian Nation]]"
 paramilitary:
 ideology:
-  - 
+  -
 political_position:
   - Far-left
 wings:
-  - 
+  -
 area_served:
 international_affiliation:
 national_affiliation:

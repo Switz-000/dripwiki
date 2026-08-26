@@ -2,7 +2,7 @@
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Armadesh Versij
-lusitanized_name: 
+lusitanized_name:
 aliases:
   - Versij
 summary: Dripstanian philosopher and lawyer whose writings formed the philosophical foundation of the Susian republic. Sat on the general government of the Federated Provinces of Galil during the Liberal Revolts and became its de facto leader. Publicly executed by Emperor Jartes II following the republic's defeat, and venerated in Susian civic culture as the primary martyr of liberty.
@@ -34,35 +34,35 @@ death:
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
 relations:
-  - person: 
-    relation: 
-    notes: 
+  - person:
+    relation:
+    notes:
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
   - degree: Law
     institution: "[[University of New Kentu]]"
     year: 1826
-  - 
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
   - title: Lawyer
-    start_year: 
-    end_year: 
+    start_year:
+    end_year:
   - title: Politician
-    start_year: 
+    start_year:
     end_year:
   - title: Philosopher
-    start_year: 
-    end_year: 
+    start_year:
+    end_year:
   - title: Author
-    start_year: 
-    end_year: 
+    start_year:
+    end_year:
 
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:
@@ -90,7 +90,7 @@ organizations:
 # ── OFFICES ─────────────────────────────────────────────────────────────────
 offices:
   - title: Member of the General Government of the Federated Provinces of Galil
-    employer: 
+    employer:
     start_year: 1840
     end_year: 1844
     appointer: General Government of the Federated Provinces of Galil
@@ -115,18 +115,18 @@ criminal_charges:
     verdict: Guilty
     verdict_year: 1844
     sentence: Death
-    served: 
+    served:
     in_absentia: false
-    notes: 
+    notes:
 
 # ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
   - item: "[[Liberal Revolts]]"
     notes: De facto leader of the general government of the Federated Provinces of Galil.
   - item: "[[Architecture of Freedom]]"
-    notes: 
+    notes:
   - item: "[[Versijian Self-Axiom]]"
-    notes: 
+    notes:
   - item: "[[Versij Day]]"
     notes: Federal holiday marking his execution.
 

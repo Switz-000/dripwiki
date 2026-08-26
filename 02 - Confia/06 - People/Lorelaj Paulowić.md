@@ -5,7 +5,7 @@ lusitanized_name:
 aliases:
   - Paulowić
 summary:
-sex: male
+sex: Male
 ethnicity: "[[East Gaiyanese]]"
 religion: "[[Armotist Church of the Confian Synod]]"
 citizenship:
@@ -26,13 +26,15 @@ death:
   state: Whereabouts unknown
   country: Whereabouts unknown
   cause: Disappeared
-spouse:
-children_count:
+relations:
+  - person:
+    relation:
+    notes:
 education:
   - degree:
     institution:
     year:
-  - 
+  -
 occupation:
   - title:
     start_year:
@@ -44,7 +46,7 @@ military_service:
     start_year:
     end_year:
     conflicts:
-      - 
+      -
     notes:
 political_alignment:
   - "[[Syndicalism#Orthodox Syndicalism|Orthodox Syndicalism]]"
@@ -53,7 +55,7 @@ party: "[[Confian Syndicalist Union]]"
 parties:
   - "[[Confian Syndicalist Union]]"
 organizations:
-  - 
+  -
 offices:
   - title: Leader of the Confian Nation
     employer: "[[Confian National Government]]"
@@ -139,7 +141,7 @@ era:
   - late-imperial
   - continental-divide
 tags:
-  - 
+  -
 meta:
   stub: true
   verified: false

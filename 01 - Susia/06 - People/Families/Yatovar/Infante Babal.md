@@ -2,9 +2,9 @@
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name: Babal
-lusitanized_name: 
+lusitanized_name:
 aliases:
-  - 
+  -
 summary: Younger son of Emperor Agamilos and brother of Empress Veronique. His two children took each other as consorts, and their son Pentério Babal II continued the Pentério branch of the Yatovar line.
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
@@ -20,28 +20,28 @@ enhanced: false
 # ── BIRTH AND DEATH ─────────────────────────────────────────────────────────
 birth:
   year: 1736
-  city: 
-  state: 
+  city:
+  state:
   country: "[[Dripstanian Empire]]"
 
 death:
   year: 1768
-  city: 
-  state: 
+  city:
+  state:
   country: "[[Dripstanian Empire]]"
-  cause: 
+  cause:
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
 relations:
   - person: "[[Emperor Agamilos]]"
     relation: Father
-    notes: 
+    notes:
   - person: "[[Empress Veronique]]"
     relation: Sister
-    notes: 
+    notes:
   - person: "[[Prince Apreže]]"
     relation: Brother
-    notes: 
+    notes:
   - person: "[[Pentério Osvien]]"
     relation: Son
     notes: Took his sister Ligória as consort.
@@ -51,20 +51,20 @@ relations:
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
-  - degree: 
-    institution: 
-    year: 
-  - 
+  - degree:
+    institution:
+    year:
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
-  - title: 
-    start_year: 
-    end_year: 
+  - title:
+    start_year:
+    end_year:
 
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:
@@ -116,8 +116,8 @@ criminal_charges:
 
 # ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
-  - item: 
-    notes: 
+  - item:
+    notes:
 
 awards:
   - title:

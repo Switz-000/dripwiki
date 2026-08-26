@@ -23,7 +23,7 @@ ideology:
 political_position:
   - Far-right
 wings:
-  - 
+  -
 area_served: "[[Bershad]]"
 international_affiliation:
 national_affiliation:

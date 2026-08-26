@@ -42,7 +42,7 @@ education:
   - degree:
     institution:
     year:
-  - 
+  -
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
@@ -52,7 +52,7 @@ occupation:
 
 military_service:
   - allegiance:
-    branch: 
+    branch:
     rank:
     start_year:
     end_year:
@@ -74,8 +74,8 @@ organizations:
 offices:
   - title:
     employer:
-    start_year: 
-    end_year: 
+    start_year:
+    end_year:
     appointer:
     parties:
       -
