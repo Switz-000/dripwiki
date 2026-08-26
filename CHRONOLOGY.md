@@ -1,18 +1,3 @@
----
-type: index
-summary:
-aliases:
-  -
-era:
-  -
-tags:
-  -
-meta:
-  stub: true
-  verified: false
-  image: null
----
-
 # Susia — Chronology
 
 > Auto-generated from vault frontmatter. Do not edit manually.
