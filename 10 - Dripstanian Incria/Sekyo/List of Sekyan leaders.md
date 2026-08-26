@@ -1,3 +1,18 @@
+---
+type: index
+summary:
+aliases:
+  -
+era:
+  -
+tags:
+  -
+meta:
+  stub: true
+  verified: false
+  image: null
+---
+
 # Yerpos-Kelej Company rule
 
 ## Sekyo charter (1831-1843)

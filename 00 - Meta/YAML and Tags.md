@@ -25,7 +25,18 @@ type: sport
 type: index
 type: meta
 type: ideology
+type: atrocity
+type: region
+type: geography
+type: species
+type: disease
+type: product
+type: language
+type: period
 ```
+
+Era and tag values are lowercase and hyphenated. Both are closed
+vocabularies: a value not listed in this file is not a valid value.
 
 Era: What historical period the article primarily belongs to. Can take multiple values. If a person only lived like two years in the late imperial period as a baby don't bother adding them to that period. Only add war / revolts eras if a person was directly influncing it otherwise only include broader ones: post war, continental divide
 
@@ -68,8 +79,8 @@ era:
 			- secession-war # 1937-1950
 			- state-of-confia # 1950-1953
 			- confian-anarchy # 1954-1956
-	- united_syndicates # 1956–2008, Proclamation to 2008 constitution
-		- paulowic_regime # 1956–1977, Presidential Empowerment Amendment to Bayonet Revolution
+	- united-syndicates # 1956–2008, Proclamation to 2008 constitution
+		- paulowic-regime # 1956–1977, Presidential Empowerment Amendment to Bayonet Revolution
 			- continental-war # 1975–1977, hot war
 		- syndicalist-republic # 1977–2008
 	- social-republic # 2009-present 

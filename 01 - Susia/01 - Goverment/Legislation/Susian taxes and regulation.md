@@ -1,3 +1,18 @@
+---
+type: concept
+summary:
+aliases:
+  -
+era:
+  -
+tags:
+  -
+meta:
+  stub: true
+  verified: false
+  image: null
+---
+
 Federal taxes apply all over Susia, including FEZs, sometimes.
 State taxes apply over their respective states and FEZs. FEZs like the Soites group aren't tax exempt but eat consumer taxes and sell at a lower margin.
 ## Tobacco products

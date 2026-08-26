@@ -1,3 +1,18 @@
+---
+type: index
+summary:
+aliases:
+  -
+era:
+  -
+tags:
+  -
+meta:
+  stub: true
+  verified: false
+  image: null
+---
+
 In [[Confia]], where a number of relevant political topics are considered heavily sensitive, controversial or otherwise unacceptable to the audience at first glance, there exist a number of euphemisms designed to make them more palatable to the voting public.
 
 

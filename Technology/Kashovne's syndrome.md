@@ -1,1 +1,16 @@
+---
+type: disease
+summary:
+aliases:
+  -
+era:
+  -
+tags:
+  -
+meta:
+  stub: true
+  verified: false
+  image: null
+---
+
 **Kashovne's syndrome** is a rare progressive neurological disease that attacks expressive function before cognition, progressively impairing the capacity to translate thought into language and writing while leaving comprehension largely intact in its earlier stages. The disease is hereditary. It became treatable in the mid-2050s through [[cognitive enhancement]] procedures developed by [[Troli Ustaras]] and [[Lischev-Verene]].

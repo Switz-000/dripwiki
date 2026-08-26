@@ -93,7 +93,7 @@ Jartes took the throne and reigned until 1837. He dated his claim to 1815 rather
   - Jartes won.
 - The Troli landowners are the same conservative bloc that made [[Empress Yaneoli]] their guest of honour at [[Donetruže]] in 1787. Their revolt against her daughter follows the abolition in the outline order. Whether abolition is the cause is not stated.
 - RESOLVED: [[Slavery in the Dripstanian Empire]] was written this session. It was a regional institution concentrated in [[Troli]], worked principally by [[Zaphonia|Zaphonians]] taken in [[Cericeiro]] raids before the 1790 vassalage. The abolition instrument and its date within the war remain unestablished.
-- Dates converted at the established epoch, Gregorian equals 1950 minus AS. 135 AS is 1815 and 127 AS is 1823, both confirmed against [[List of Dripstanian emperors]] and against the fraternal-war era in [[YALM and Tags]].
+- Dates converted at the established epoch, Gregorian equals 1950 minus AS. 135 AS is 1815 and 127 AS is 1823, both confirmed against [[List of Dripstanian emperors]] and against the fraternal-war era in [[YAML and Tags]].
 - The coronation is dated 15 chestendo 135 AS and Colin's declaration 27 semendo in the source. The Dripstanian calendar has no article and its months are unestablished, so both are recorded here as 1815.
 - Colin's insult is quoted as given. The Portuguese is "farsante fodedora de arenito".
 - AMBIGUOUS in the source: "the Kingdom of Drippalia had revolted against its vassals under Jartes". Rendered here as Drippalia and its vassals declaring for Jartes, which is consistent with [[Colin, King of the Tekurs]] declaring first and with the seizures at [[Lijssick]] and [[Baabren]]. Correct if the intended reading was the opposite.

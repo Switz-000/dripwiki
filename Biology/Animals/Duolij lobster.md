@@ -1,3 +1,17 @@
+---
+type: species
+summary:
+aliases:
+  -
+era:
+  -
+tags:
+  -
+meta:
+  stub: true
+  verified: false
+  image: null
+---
 
 The **Duolij lobster** (*Speriosves Najkroh*) is a species of slipper lobster native to the coastal shelves of the [[Sea of Galil]]. It's named after the city of [[Duolij]], [[Postia]], and has since the [[Dripstanian Empire]] been regarded as a status symbol of the elite.
 

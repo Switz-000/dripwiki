@@ -1,3 +1,18 @@
+---
+type: concept
+summary:
+aliases:
+  -
+era:
+  -
+tags:
+  -
+meta:
+  stub: true
+  verified: false
+  image: null
+---
+
 [[Filevir Gatojete]] runs a referendum in 1950 in each of the colonies to see if they want to continue to be part of the empire. Almost all of them vote Yes. (only creoles and dripstanian could vote) dosent matter, the empire is going to colapse either way
 
 Yar-Firol -> genocidal aparthaid like state, prosperous, lots of violent ethnic conflict, eventually try to genocide the Buta out of the face of the earth.

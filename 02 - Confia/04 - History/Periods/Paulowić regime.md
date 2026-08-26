@@ -1,3 +1,18 @@
+---
+type: period
+summary:
+aliases:
+  -
+era:
+  -
+tags:
+  -
+meta:
+  stub: true
+  verified: false
+  image: null
+---
+
 From the [[Presidential Empowerment Amendment]] in Vartelian 21st, 1958 to the [[Bayonet Revolution]] in Verenian 2nd, 1977, Confia was under a totalitarian dictatorship led by [[Lorelaj Paulowić]].
 
 # History

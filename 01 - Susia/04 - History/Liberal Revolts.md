@@ -28,7 +28,6 @@ cause:
   - "[[Architecture of Freedom]]"
 outcome: Imperial victory; the Federated Provinces of Galil dissolved and its leadership executed; limited political reforms conceded, including universal male suffrage
 related_events:
-  - "[[Great Relocation]]"
 preceded_by:
 followed_by:
 era:
@@ -122,7 +121,7 @@ Jaffnidia keeps a large museum dedicated to the revolts and describes itself as 
 - SESSION CANON carried in from earlier this session: the general government was a body of three equals in which Versij became de facto leader as the Paroska and Satratonie rivalry hardened; Paroska never answered the duel challenges. Both are recorded in the three person articles and are stated here for the first time in an event article.
 - INFERENCE: that the republic held the coastal cities and the empire held the field. Derived from the guerrilla character of the war, the republic's proclamation in [[Neoveli]] and adherence by [[Duolij]], [[New Kentu]], and [[Niqueparj]], and the strategic value the vault assigns to the [[Jaffnidia]] fort as the link between the republic's two halves. No article states a territorial disposition. Remove if it conflicts with the military history when written.
 - Jartes II reigned 1837 to 1882 per his own article; the 38 further years is arithmetic from that.
-- date_start 1840 follows the vault, which dates the revolt from the Neoveli assembly. [[Jartes II]] and the [[Susia]] country article both place the Sorzenko ban and the firearms restriction before the uprising rather than in the same year, so the suppression phase falls outside the stated range. The [[YALM and Tags]] era vocabulary gives liberal-revolts as 1840 to 1844, which this follows.
+- date_start 1840 follows the vault, which dates the revolt from the Neoveli assembly. [[Jartes II]] and the [[Susia]] country article both place the Sorzenko ban and the firearms restriction before the uprising rather than in the same year, so the suppression phase falls outside the stated range. The [[YAML and Tags]] era vocabulary gives liberal-revolts as 1840 to 1844, which this follows.
 - cause and related_events are thin. The [[Great Relocation]] of 1835 falls immediately before the revolt period and has no article; whether it bears on the revolt is unestablished and it is listed as related rather than causal.
 - preceded_by and followed_by left blank. No adjacent imperial-era event article exists to link to.
 - Deferred Tier 3 material, not written: a session report of 2026-08-09 proposes an imperial border transfer following the revolts, executed as a survey determination of which [[Lasman river]] channel the founding instrument had meant, as reprisal against the provinces that rebelled. If ruled canon it belongs in the Aftermath section and materially changes what the defeat cost.

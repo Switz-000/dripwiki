@@ -155,6 +155,6 @@ meta:
 - Death year set to 1837 from the accession of [[Jartes II]], stated in his article and in the list. The chart gives 123 AS, converting to 1827.
 - The Tekur deportation figures come from [[Cericeiro]] and the [[Susia]] country article. [[Empress Veronique]] separately records ethnic cleansing of the Konph under her own reign; the two events are distinct.
 - Kamino records him as the aggressor of [[The Bakurian Campaign]] and as widely hated there. Three further conquests are referenced as "four major conquests" without being named.
-- The chart makes him twin to [[Empress Prazde]], both born 184 AS. Their war is the [[fraternal-war]] era of 1815 to 1823 in [[YALM and Tags]].
+- The chart makes him twin to [[Empress Prazde]], both born 184 AS. Their war is the [[fraternal-war]] era of 1815 to 1823 in [[YAML and Tags]].
 
 %%

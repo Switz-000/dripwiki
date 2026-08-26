@@ -1,3 +1,18 @@
+---
+type: law
+summary:
+aliases:
+  -
+era:
+  -
+tags:
+  -
+meta:
+  stub: true
+  verified: false
+  image: null
+---
+
 The **Roškoša Plans**, officially the **Urgent Measures for Economic Stabilization**, were economic measures taken by [[Lenseka Japlenowina]] during the post-war Hard Times economic crisis in [[Confia]].
 
 # History
