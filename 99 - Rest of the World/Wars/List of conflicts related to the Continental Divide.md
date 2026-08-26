@@ -6,7 +6,8 @@ aliases:
 era:
   -
 tags:
-  -
+  - conflict/military
+  - politics/diplomacy
 meta:
   stub: true
   verified: false

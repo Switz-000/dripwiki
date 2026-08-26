@@ -6,7 +6,8 @@ aliases:
 era:
   -
 tags:
-  -
+  - politics/governance
+  - politics/elections
 meta:
   stub: true
   verified: false

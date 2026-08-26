@@ -7,7 +7,7 @@ aliases:
 era:
   -
 tags:
-  -
+  - culture/media
 meta:
   stub: true
   verified: false

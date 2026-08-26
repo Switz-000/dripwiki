@@ -6,7 +6,7 @@ aliases:
 era:
   -
 tags:
-  -
+  - economy/corporate
 meta:
   stub: true
   verified: false

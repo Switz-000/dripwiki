@@ -6,7 +6,8 @@ aliases:
 era:
   -
 tags:
-  -
+  - politics/monarchy
+  - politics/revolution
 meta:
   stub: true
   verified: false

@@ -6,7 +6,7 @@ aliases:
 era:
   -
 tags:
-  -
+  - culture/language
 meta:
   stub: true
   verified: false

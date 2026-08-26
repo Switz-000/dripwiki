@@ -6,6 +6,9 @@ aliases:
   - The Experimenter Program
   - Experimenters
 type: project
+tags:
+  - economy/corporate
+  - culture/media
 ---
 ## The Pitch:
 

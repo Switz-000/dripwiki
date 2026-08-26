@@ -166,7 +166,9 @@ awards:
 era:
   - post-war
 tags:
-  -
+  - politics/governance
+  - politics/law
+  - economy/labor
 meta:
   stub: true
   verified: false

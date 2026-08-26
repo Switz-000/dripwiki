@@ -6,7 +6,8 @@ aliases:
 era:
   -
 tags:
-  -
+  - culture/language
+  - culture/media
 meta:
   stub: true
   verified: false

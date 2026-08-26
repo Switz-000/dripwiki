@@ -6,7 +6,8 @@ summary:
 era:
   -
 tags:
-  -
+  - conflict/military
+  - politics/revolution
 meta:
   stub: true
   verified: false

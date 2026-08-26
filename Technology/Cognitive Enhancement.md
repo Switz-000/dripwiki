@@ -6,13 +6,12 @@ era:
   - contemporary
   - great-transition
 tags:
-  - economy/corporate
-  - culture
-  - economy
+  - knowledge/enhancement
+  - knowledge/technology
+  - knowledge/science
   - economy/labor
   - belief/philosophy
-  - knowledge/science
-  - knowledge/technology
+  - economy/corporate
 type: technology
 ---
 **Cognitive enhancement** refers to a set of medical technologies and procedures developed in [[Susia]] that modify neural pathways to improve cognitive function, including memory, focus, learning capacity, and specific skill acquisition. First developed in the 2030s through a partnership between the [[Soites Group]] and [[Troli Ustaras]] (TU), cognitive enhancement became commercially available in the 2060s and has since become one of the most significant technological and social developments in Susian society.

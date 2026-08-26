@@ -6,7 +6,7 @@ aliases:
 era:
   -
 tags:
-  -
+  - belief/philosophy
 meta:
   stub: true
   verified: false

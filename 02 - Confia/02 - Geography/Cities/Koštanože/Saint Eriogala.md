@@ -7,6 +7,9 @@ population_2000:
 population_1975:
 population_1970:
 landlocked: true
+tags:
+  - society/urbanism
+  - economy/labor
 ---
 **Saint Eriogala** is a working-class suburb of [[Imgospalje]]. 
 

@@ -32,6 +32,10 @@ area_served:
 international_affiliation:
 national_affiliation:
 regional_affiliation:
+tags:
+  - politics/elections
+  - belief/ideology
+  - economy/labor
 ---
 The **Syndicalist League** (Confian: Syndăkalicka Fežka/Сындъкаліцка Фежка) is a major Confian centre-left party. It is based on the ideals of [[Syndicalism#New Syndicalism|New Syndicalism]].
 

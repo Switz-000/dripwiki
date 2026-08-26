@@ -124,7 +124,9 @@ era:
 
 # ── META ────────────────────────────────────────────────────────────────────
 tags:
-  -
+  - politics/governance
+  - conflict/military
+  - land/colonial
 
 meta:
   stub: true

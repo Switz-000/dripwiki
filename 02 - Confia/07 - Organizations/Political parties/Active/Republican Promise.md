@@ -30,5 +30,8 @@ area_served:
 international_affiliation:
 national_affiliation:
 regional_affiliation:
+tags:
+  - politics/elections
+  - belief/ideology
 ---
 **Republican Promise** (Confian: Wirspružaja Kolaha/Вірспружая Колаха), alternatively translated as the **Republican Oath** is a Confian right-wing political party led by [[Nisa Peskilonna]]. The party was founded as **Republican Promise - Nisa Peskilonna List**, ahead of the 2013 legislative elections.

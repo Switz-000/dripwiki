@@ -10,6 +10,10 @@ population_1970:
 landlocked: true
 aliases:
   - St. Mantichev city
+tags:
+  - society/urbanism
+  - politics/governance
+  - politics/monarchy
 ---
 **Soiteslaj** (previously known as **St. Mantichev city**) is the capital of [[Susia]] and is inside the [[Neutral District]].
 

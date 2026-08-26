@@ -6,7 +6,7 @@ aliases:
 era:
   -
 tags:
-  -
+  - society/demographics
 meta:
   stub: true
   verified: false

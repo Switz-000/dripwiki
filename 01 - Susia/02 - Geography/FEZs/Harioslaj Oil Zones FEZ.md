@@ -7,7 +7,8 @@ summary:
 era:
   -
 tags:
-  -
+  - economy/corporate
+  - economy/energy
 meta:
   stub: true
   verified: false

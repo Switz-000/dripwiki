@@ -13,6 +13,9 @@ yarnojte_revoked:
 fez_locations:
 sector:
   - Consumer Staples
+tags:
+  - economy/industry
+  - economy/agriculture
 ---
 Marketshare:
 - Cigarettes (16%): Premium kaminoan and confian tobacco, hand rolled. Costs D$ 20 a pack. Has a distinctive strong smell.

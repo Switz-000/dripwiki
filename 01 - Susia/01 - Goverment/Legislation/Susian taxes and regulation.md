@@ -6,7 +6,8 @@ aliases:
 era:
   -
 tags:
-  -
+  - politics/law
+  - economy/finance
 meta:
   stub: true
   verified: false

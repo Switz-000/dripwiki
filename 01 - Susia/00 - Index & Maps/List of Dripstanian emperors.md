@@ -6,7 +6,7 @@ aliases:
 era:
   -
 tags:
-  -
+  - politics/monarchy
 meta:
   stub: true
   verified: false

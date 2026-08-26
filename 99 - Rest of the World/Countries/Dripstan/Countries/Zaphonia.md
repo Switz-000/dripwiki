@@ -28,6 +28,10 @@ borders_south:
   - "[[Ditania]]"
   - "[[Cabunire]]"
   - "[[Macoshill]]"
+tags:
+  - society/race
+  - land/colonial
+  - economy/energy
 ---
 ### Brief History
 

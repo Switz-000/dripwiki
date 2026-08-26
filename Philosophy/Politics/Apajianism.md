@@ -6,7 +6,8 @@ aliases:
 era:
   -
 tags:
-  -
+  - belief/ideology
+  - belief/philosophy
 meta:
   stub: true
   verified: false

@@ -141,7 +141,9 @@ era:
 
 # ── META ────────────────────────────────────────────────────────────────────
 tags:
-  -
+  - politics/governance
+  - politics/revolution
+  - conflict/military
 
 meta:
   stub: true

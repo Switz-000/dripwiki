@@ -6,7 +6,8 @@ aliases:
 era:
   -
 tags:
-  -
+  - economy/corporate
+  - knowledge/technology
 meta:
   stub: true
   verified: false

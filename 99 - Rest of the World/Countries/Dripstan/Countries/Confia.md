@@ -29,6 +29,10 @@ borders_north:
   - "[[-Repo/99 - Rest of the World/Countries/Dripstan/Countries/Drippalia]]"
 borders_south:
   - "[[Zaphonia]]"
+tags:
+  - politics/governance
+  - belief/ideology
+  - economy/labor
 ---
 **Confia** (Confian: Końfija/Коњфія), officially the **Confian Social Republic** and known until 2009 as the **United Syndicates of Confia** (in Confian: Săhni Syndăkaci Końfiï/Съхні Сындъкаци Коњфії), also known as Confia, is a country located in the center of the [[Dripstanian Continent]] , bisected by the [[Confian Highlands]]. Confia borders [[Susia]] to the west, [[Pierej]] to the east, [[Kapiogg]] to the northwest, [[Zaphonia]] to the south, and shares a small border with [[Kamino]] to the southeast. The country is composed of ten states. The capital and largest commercial center of the country is [[Imgospalje]], while the largest city by area and population is [[Carlotopolis]].
 

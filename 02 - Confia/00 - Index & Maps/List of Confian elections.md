@@ -6,7 +6,7 @@ aliases:
 era:
   -
 tags:
-  -
+  - politics/elections
 meta:
   stub: true
   verified: false

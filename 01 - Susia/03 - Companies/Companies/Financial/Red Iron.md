@@ -15,6 +15,9 @@ yarnojte_revoked:
 fez_locations:
 sector:
   - Financials
+tags:
+  - economy/finance
+  - economy/corporate
 ---
 Marketshare:
 - Retail (3%): Almost none,only ultra high net worth individuals

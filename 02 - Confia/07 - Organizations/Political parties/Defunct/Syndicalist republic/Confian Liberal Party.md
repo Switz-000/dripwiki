@@ -30,6 +30,9 @@ area_served:
 international_affiliation:
 national_affiliation:
 regional_affiliation:
+tags:
+  - politics/elections
+  - belief/ideology
 ---
 The **Confian Liberal Party** (in Confian: Końfiskej Niteralej Parcesse/Коњфіскей Нітѣралей Парцессе) was a right-wing liberal party in [[Confia]]. The party advocated for a classically liberal model, positioning itself against the institution of syndicates and against the state-led industrial policy.
 

@@ -6,7 +6,8 @@ summary:
 era:
   -
 tags:
-  -
+  - society/race
+  - society/demographics
 meta:
   stub: true
   verified: false

@@ -15,6 +15,9 @@ sector:
   - Financials
 aliases:
   - Nassoj
+tags:
+  - economy/finance
+  - economy/corporate
 ---
 Marketshare:
 - Retail (15%): Premium accounts with a minimum amount of balance

@@ -6,7 +6,9 @@ aliases:
 era:
   -
 tags:
-  -
+  - land/colonial
+  - economy/agriculture
+  - society/demographics
 meta:
   stub: true
   verified: false

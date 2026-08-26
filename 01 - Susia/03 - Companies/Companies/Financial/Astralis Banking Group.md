@@ -13,6 +13,9 @@ yarnojte_revoked:
 fez_locations:
 sector:
   - Financials
+tags:
+  - economy/finance
+  - economy/agriculture
 ---
 Other notes:
 - If you live east of [[Misocévia]], probably your bank

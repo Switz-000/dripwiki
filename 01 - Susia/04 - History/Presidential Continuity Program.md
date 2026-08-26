@@ -15,6 +15,10 @@ cause:
   - "[[Fortress complex]]"
 outcome: Officially ended due to “ethical concerns” but most likely was due to technical limitations
 related_events:
+tags:
+  - politics/governance
+  - knowledge/technology
+  - conflict/military
 ---
 Created AI copies of the President, 5 key Senators, 3 Supreme Court justices and Secretariat Director using speeches, decisions, writings, interviews, neural mapping and brain scans (only the president knew the full extent)
 

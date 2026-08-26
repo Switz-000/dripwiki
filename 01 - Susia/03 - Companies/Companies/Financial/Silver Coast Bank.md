@@ -13,6 +13,9 @@ yarnojte_revoked:
 fez_locations:
 sector:
   - Financials
+tags:
+  - economy/finance
+  - land/infrastructure
 ---
 Marketshare:
 - Corporate (10%): Big loans: ports, rail, bridges, energy projects
