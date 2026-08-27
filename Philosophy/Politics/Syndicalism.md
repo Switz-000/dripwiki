@@ -51,7 +51,7 @@ meta:
   image:
 ---
 
-**Syndicalism** (Confian: Syndӑkalice/Сындъкаліце) is a broad ideology that encompasses various, often radically different, models that share as a common factor the existence of worker collectives named syndicates and their control, in varying levels, of social, economic and political spheres of society.
+**Syndicalism** (Confian: Syndӑkalinie/Сындъкалінье) is a broad ideology that encompasses various, often radically different, models that share as a common factor the existence of worker collectives named syndicates and their control, in varying levels, of social, economic and political spheres of society.
 
 # History
 
@@ -76,8 +76,8 @@ The **Paulowić model** is not a set doctrine of ideas, but the particular polic
 
 ### Revised Syndicalism
 **Revised Syndicalism** is a variety of syndicalism based on the **Six Points of [[Mariana Torres|Torres]]**, a revised version of the [[Confian Syndicalist Union]]'s ten-point program. It accepts limited private participation in some markets, while balancing them with cooperative ownership in smaller businesses and state ownership of major utilities.
-
+Its followers are often referred to as **Six-pointers**.
 ### New Syndicalism
-**New Syndicalism**, initially known as **Moderate Syndicalism**, rejects the syndicalist economic framework of self-management entirely, postulating that syndicates should focus on improving working conditions and securing benefits and living wages for workers. Based on the writings of [[Eriežera Lensekowina]], it states clearly that Orthodoxy's proponents spoke in a language of long-dead philosophers without accounting for the present needs of the Confian people and failed to achieve syndicalism's goals of social and political equality, instead enabling a repressive regime that entrenched an economic class that practices everything it accuses traditional capitalists of practicing.
+**New Syndicalism**, (Confian: Rez Syndӑkalinie/Рез Сындъкалінье) initially known as **Moderate Syndicalism**, rejects the syndicalist economic framework of self-management entirely, postulating that syndicates should focus on improving working conditions and securing benefits and living wages for workers. Based on the writings of [[Eriežera Lensekowina]], it states clearly that Orthodoxy's proponents spoke in a language of long-dead philosophers without accounting for the present needs of the Confian people, and that it failed to achieve syndicalism's goals of social and political equality, instead enabling a repressive regime that entrenched an economic class that practices everything it accuses traditional capitalists of practicing.
 Lensekowina envisioned a capitalist economy based on private property, accompanied by strong sectoral bargaining by syndicates and universalized welfare benefits, opposing means-testing on principle. She borrowed [[Wastel Sariol]]'s principle of State Subsistence to argue all Confian citizens, including those outside of the traditional industrial working class, had the right to access state services as part of a wider implicit social contract. This would later be codified into the 1979 [[Saint Feriol program]] of the [[Syndicalist League]].
- is a variant of New Syndicalism that emphasizes economic freedom and entrepreneurship as the main driver of economic growth and prosperity while sheltering the necessity for collective bargaining institutions.
+**Liberal Syndicalism** is a variant of New Syndicalism that emphasizes economic freedom and entrepreneurship as the main driver of economic growth and prosperity while sheltering the necessity for collective bargaining institutions.
