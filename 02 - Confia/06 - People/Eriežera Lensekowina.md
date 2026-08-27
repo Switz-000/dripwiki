@@ -4,7 +4,7 @@ native_name: Darmaja Kunsekowina Kasselja
 aliases:
   - Eriežera Lensekowina
   - Lensekowina
-summary:
+summary: Confian philosopher exiled during the Paulowic regime who systemized New Syndicalism and helped found the Syndicalist League
 sex: Female
 ethnicity: "[[East Gaiyanese]]"
 religion: "[[Armotist Church of the Confian Synod]]"
@@ -55,7 +55,7 @@ party:
 parties:
   - "[[Progressive Republican Party|Progressive Republican Party (1954-1955)]]"
 organizations:
-  -
+  - 
 offices:
   - title:
     employer:
@@ -63,7 +63,7 @@ offices:
     end_year:
     appointer:
     parties:
-      -
+      - 
     notes:
 written_works:
   - title: Rethinking Syndicalism (1959)
