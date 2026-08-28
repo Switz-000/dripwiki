@@ -95,4 +95,4 @@ meta:
   verified: false
   image:
 ---
-**Nis Nisowić Soler** is a [[Confia|Confian]] civil engineer, urban planning and politician who served as the 68th mayor of [[Carlotopolis]]. He was a founder of the [[Eight-Story Karlotopol']] movement.
+**Nis Nisowić Soler** is a [[Confia|Confian]] civil engineer, urban planning and politician who served as the 68th mayor of [[Carlotopolis]]. He was a founder of the [[Atom-Eight-Story Karlotopol'|Eight-Story Karlotopol']] movement.
