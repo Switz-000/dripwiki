@@ -1,1 +1,1 @@
-**Atom-Eight-Story Karlotopol'** is a regional electoral list active in the state of [[Karlotopol']].
+	**Atom-Eight-Story Karlotopol'** is a regional electoral list active in the state of [[Karlotopol']].
