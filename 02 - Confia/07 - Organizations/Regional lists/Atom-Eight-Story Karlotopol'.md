@@ -1,1 +1,2 @@
-	**Atom-Eight-Story Karlotopol'** is a regional electoral list active in the state of [[Karlotopol']].
+**Atom-Eight-Story Karlotopol'** is a regional electoral list active in the state of [[Karlotopol']]. 
+It was created in 2003 by a group of housing density activists led by urban planner [[Nis Soler]] for the mayoral and city council elections of [[Carlotopolis]], naming itself after their flagship proposal of raising the height limit in most of the city to eight stories, matching the historical centre.

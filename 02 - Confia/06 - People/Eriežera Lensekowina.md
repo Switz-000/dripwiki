@@ -113,7 +113,7 @@ meta:
   verified: false
   image:
 ---
-**Darmaja Kunsekowina Kasselja** (Racpalian Alphabet: Дармая Кунсековіна Кассеља), better known by her pen name **Eriežera Lensekowina** (Racpalian Alphabet: Ерьежера Ленсековіна) was a Confian syndicalist philosopher, writer and anti-[[Paulowić regime]] activist. She is credited with unifying the Moderate Syndicalist movement and molding its philosophical foundations into [[Syndicalism#New Syndicalism|New Syndicalism]].
+**Darmaja Kunsekowina Kasselja** (Racpalian Alphabet: Дармая Кунсековіна Кассеља), better known by her pen name **Eriežera Lensekowina** (Racpalian Alphabet: Ерьежера Ленсековіна) was a [[Confia|Confian]] syndicalist philosopher, writer and anti-[[Paulowić regime]] activist. She is credited with unifying the Moderate Syndicalist movement and molding its philosophical foundations into [[Syndicalism#New Syndicalism|New Syndicalism]].
 ## Early life and education
 
 Darmaja Kunsekowina Kasselja was born on the 32th of Agamilean, 1900 in [[Saint Eriogala]], a suburb of [[Imgospalje]]. She completed her basic education in the Secondary Institution 13 in the aforementioned town. Kasselja moved to [[Carlotopolis]] in 1920 for the entry exams to the [[Carlotopolis State University for the Humanities]], where she would graduate in Philosophy in 1924. She later pursued a degree in the recently-founded Institute of Journalism of the same university, graduating in 1930.
