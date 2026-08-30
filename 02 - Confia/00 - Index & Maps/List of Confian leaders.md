@@ -103,7 +103,8 @@ Governor-General of the Land of Confia
 
 ## Trivia
 
-- [[]]
+- [[Kalsaper Jasretej]] was the first Confian leader to publically use the Modern Prejeckian-derived pronunciation "Ешарад/Ešarad" for [[Ashgerad]], instead of the then standard "Ашгерад/Ašgerad", a loan from Susian, itself originated from Literary Prejeckian. [[Grawolja Lasmanna]] used the pronunciation in [[Grawolja Lasmanna with the Five of Goretopol'|her Five of Goretopol' interview]], but did not use it in a public capacity
+- Since the 2008 constitution, the following professions have served as President of Confia: one hospital administrator ([[Ganzer Teahowić|Teahowić]]), two lawyers ([[Nisa Peskilonna]], [[Pismon Goltanni|Goltanni]]), one internet streamer ([[Kunsek Aljerni|Aljerni]]), one nuclear engineer ([[Kalsaper Jasretej|Jasretej]]), one military officer ([[Pawlăn Listewi|Listewi]]), 
 ## See also
 [[List of Confian elections]]
 [[Confian National Government]]
