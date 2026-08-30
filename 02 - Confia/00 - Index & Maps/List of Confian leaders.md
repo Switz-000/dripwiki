@@ -27,8 +27,8 @@ President of the Nation (President)
 |  5  | [[Armoljubca Dardezanna]] | 2029-2033 |  [[Democratic Bloc]]   |                    |                                                               |                  Populist left                  |
 |  6  |    [[Pismon Goltanni]]    | 2034-2036 |  [[The Confian Home]]  | [[Kunsek Aljerni]] |                           Impeached                           |                 Populist right                  |
 |  7  |    [[Kunsek Aljerni]]     | 2036-2037 |      [[Liberty!]]      |                    |              Assumed as vice-president; resigned              |           Libertarian (Neo-Versijian)           |
-|  8  |     [[Japlen Razol]]      | 2037-2038 |                        |                    |                                                               |                                                 |
-|  9  |   [[Kalsaper Jasretej]]   | 2038-2042 |     [[Atom Party]]     |                    |          Assumed as speaker of the National Assembly          |            [[Modernism\|Modernist]]             |
+|  8  |     [[Japlen Razol]]      | 2037-2038 |                        |                    |          Assumed as speaker of the National Assembly          |          [[Confian Democratic Party]]           |
+|  9  |   [[Kalsaper Jasretej]]   | 2038-2042 |     [[Atom Party]]     |                    |                                                               |            [[Modernism\|Modernist]]             |
 |  -  |                           |           |                        |                    |                                                               |                                                 |
 |     |                           |           |                        |                    |                                                               |                                                 |
 # Syndicalist Republic (1977-2009)
