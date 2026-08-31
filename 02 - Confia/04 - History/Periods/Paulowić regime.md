@@ -34,6 +34,8 @@ In 1962, the Department of Security of Expression was created, a censorship body
 
 The labour camp known as the [[Talfaslaž]], a symbol of the General Government's repression in Confia, initially had all its prisoners released in 1956, but they were quickly replaced by captured members of the KWD and later by regime opponents. The People's Security Department transformed the former penal labor prison into a concentration camp, adding new forced labor facilities and torture chambers to keep the prisoners in line. Many government projects used forced labor from these prisoners to reduce construction costs. Rape, mutilation, and random executions were carried out by the guards. It is estimated that more than 53,000 individuals were detained at the facility, 13,400 of whom have been confirmed dead.
 
+After the 1966 mutiny, the head of the Armed Forces, [[Lensek Radten]], was invited to inspect Talfaslaž to ensure the camp's efficiency and adherence to its objectives. Redditowić returned horrified, describing the camp as "an abject open-air gehenna where moral depravity is the rule and the law, governed by specimens of such distilled perversion in place of character that I loathe and struggle to accuse myself of sharing the essence of humanity with them." Upon returning to [[Imgospalje]], Radten personally requested to Lorelaj Paulowić that all district or sub-district managers at Talfaslaž be immediately executed and replaced by officers directly subordinate to a central authority that would standardize the management of each district. 
+
 #### Employment blacklisting
 
 

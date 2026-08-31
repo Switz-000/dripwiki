@@ -19,7 +19,7 @@ participants:
   - "[[Drippalia]]"
   - "[[Sutsa-Fuhu]]"
   - "[[Zaphonia]]"
-  - "[[99 - Rest of the World/Countries/Dripstan/Countries/Ariwaro]]"
+  - "[[Ariwaro]]"
   - "[[Ditania]]"
   - "[[Cabunire]]"
   - "[[Garecia]]"
