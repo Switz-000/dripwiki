@@ -100,3 +100,4 @@ meta:
   verified: false
   image:
 ---
+**Nisa Jańowina Peskilonna** is a [[Confia|Confian]] lawyer and politician who served as the 3rd President of the Confian Social Republic. She is the sister of former central banker [[Kukan Peskilonni]]
