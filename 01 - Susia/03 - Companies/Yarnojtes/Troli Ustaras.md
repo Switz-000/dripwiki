@@ -93,13 +93,21 @@ The [[Cognitive Rights Act of 2061]] authorized enhancement procedures for non-m
 
 By the 2080s, 98% of TU's workforce had undergone enhancement procedures, the highest rate among all Yarnojtes.
 
+### Antitrust action in artificial intelligence (2050s)
+
+TU built its position in artificial intelligence in part through sustained acquisition of smaller firms, running from the 2020s through the 2050s. By the 2050s the company held approximately 50 percent of the domestic general artificial intelligence market. Most independent competitors that remained served niche applications. The principal exception was a firm founded in the 2040s by former TU engineers on an explicitly anti-TU premise, which held approximately 20 percent of the market and was subject to sustained commercial pressure from TU.
+
+%% TODO: name to be coined: the artificial intelligence firm founded in the 2040s by former TU engineers. %%
+
+In the 2050s the [[Secretariat of Efficiency]], acting through the [[Federal Authority of Commerce and Competition]], ruled a range of TU's practices in the sector anti-competitive and withdrew part of the federally granted privileges held by the company. New firms entered the sector after the ruling, and the other [[Yarnojte|Yarnojtes]] gained room to pursue general artificial intelligence programs independent of TU.
+
 ## Operations
 
 ### Products and sectors
 
 TU's primary business spans artificial intelligence systems, industrial automation, consumer robotics, quantum computing, neural interfaces, and cognitive enhancement hardware. The company is the dominant domestic producer in each of these sectors and Susia's primary technological competitor against [[Ashgerad]] in the global cold war.
 
-Consumer-facing products include computing hardware and software. TU phones, computers, and AI systems are widely used across Susia and in international markets. The company's industrial automation products are embedded in manufacturing operations throughout [[Dripstan]].
+Consumer-facing products include computing hardware and software. TU phones, computers, and AI systems are widely used across Susia and in international markets. Consumer artificial intelligence is sold on a subscription basis across several service tiers. The company's industrial automation products are embedded in manufacturing operations throughout [[Dripstan]].
 
 Cognitive enhancement hardware is manufactured exclusively by TU under a mandated cooperation arrangement with [[Lischev-Verene]], which handles the biological pharmaceutical component. Federal regulations require the two companies to maintain cross-licensing agreements for relevant patents.
 
@@ -120,6 +128,8 @@ The zone is the most selective residential community in Susia by employment crit
 ## Corporate culture
 
 TU's corporate culture is organized around what the company describes as the mission: the proposition that technology is the mechanism by which humanity will solve its remaining problems, and that TU's work is therefore of civilizational rather than merely commercial significance. This framework was given its most systematic expression by [[Ňotrič Apaj]], whose [[After Scarcity|post-scarcity cosmopolitan philosophy]] provided the ethical foundation for TU's self-understanding. Institutional language drawn from [[Yário Kolkov]]'s work on adaptive governance is present throughout TU's communications, selectively quoted in ways Kolkov publicly rejected.
+
+The company's stated long-term objective is the transfer of human consciousness to a machine substrate. TU characterizes progress toward that objective as incremental and projects no date for it.
 
 The official structure of work within TU includes a four-day, 32-hour work week. The cultural norm, documented by employees and outside observers, diverges from this: employees who work only their contractual hours are understood within TU culture to lack sufficient commitment to the mission, and many work substantially longer hours voluntarily. The company's own characterization of this dynamic is that genuine believers in the mission choose to give more. Critics describe the same dynamic as the structural exploitation of idealism.
 
@@ -180,4 +190,9 @@ FLAGS:
 - Federal Cognitive Enhancement Program: referenced in the Cognitive Enhancement vault article. No dedicated event article confirmed. Stub candidate.
 - TU founding place is Donetruže per the existing vault stub frontmatter. The docs confirm this. Canon.
 - Market cap figure of D$6.2 trillion is from the existing vault stub and docs. Treated as current as of 2080 per style guide.
+- Antitrust action in artificial intelligence: author-supplied session canon. The specific year of the ruling, the instrument it was issued under, and the privileges withdrawn are unestablished and written around. The Secretariat is named as the deciding body and the Federal Authority of Commerce and Competition as the enforcing one, per the Secretariat's Commerce Enforcement function.
+- Market share figures of 50 percent and 20 percent are author-supplied and approximate. No source year is established beyond "by the 2050s".
+- The anti-TU artificial intelligence firm is unnamed and flagged with a TODO. It is a stub candidate and probably warrants its own article.
+- Consciousness transfer as stated long-term objective: author-supplied session canon. It is consistent with the existing description in [[Lischev-Verene]] of LV as a counterweight to TU's post-human trajectory.
+- Consumer artificial intelligence subscription tiers: author-supplied session canon. Referenced from [[Vuževa]], where the usage rather than the product is treated.
 %%
