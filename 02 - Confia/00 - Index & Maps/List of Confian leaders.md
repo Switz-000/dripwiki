@@ -29,8 +29,8 @@ President of the Nation (President)
 |  7  |    [[Kunsek Aljerni]]     | 2036-2037 |      [[Liberty!]]      |                    |              Assumed as vice-president; resigned              |           Libertarian (Neo-Versijian)           |
 |  8  |     [[Japlen Razol]]      | 2037-2038 |                        |                    |          Assumed as speaker of the National Assembly          |                  Centre-right                   |
 |  9  |   [[Kalsaper Jasretej]]   | 2038-2042 |     [[Atom Party]]     |                    |                                                               |            [[Modernism\|Modernist]]             |
-|  -  |                           |           |                        |                    |                                                               |                                                 |
-|     |                           |           |                        |                    |                                                               |                                                 |
+| 10  |                           | 2043-2047 |                        |                    |                                                               |                                                 |
+| 11  |   [[Kalsaper Jasretej]]   | 2048-2052 |     [[Atom Party]]     |                    |                                                               |            [[Modernism\|Modernist]]             |
 # Syndicalist Republic (1977-2009)
 
 Presidents of the Council of Commissars of the United Syndicates of Confia (Prime Minister)
