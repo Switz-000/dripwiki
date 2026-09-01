@@ -637,7 +637,7 @@ meta:
 - **Document recorded** — [[Vitakei statement]] (report)
 
 ## 2084
-- **Project ends** — [[Presidential Continuity Program]] — Officially ended due to “ethical concerns” but most likely was due to technical limitations
+- **Project ends** — [[Presidential Continuity Program]] — Officially ended on ethical grounds, most probably discontinued due to technical limitations
 
 ## 2087
 - **Yarnojte revoked** — [[POCOIL]]
