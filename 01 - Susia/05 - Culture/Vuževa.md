@@ -13,4 +13,4 @@ tags:
 ---
 Susian social media has played a central role in shaping the identity of the Vuževas, turning it into a recognizable online subculture. 
 
-Plataforms such as [[Lizne]] 
+Plataforms such as [[Lizne]]  
