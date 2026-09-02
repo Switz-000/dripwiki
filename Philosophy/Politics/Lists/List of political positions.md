@@ -209,11 +209,11 @@ The position that government should minimize its intervention in economic affair
 
 ### Social Liberalism
 
-The position that individual freedom requires both the protection of civil liberties and a baseline of social and economic security provided by the state. Accepts market economies but advocates for state intervention to ensure equal opportunity, education access, and social safety nets. The explicit ideology of [[Mi, Niteraljci!]] in Confia, formed from the merger of the [[Progressive Republican Party]] and the [[Confian Liberal Party]]. Distinct from both Versijian liberalism (which rejects positive rights), generic welfarism (which is agnostic on broader liberal commitments) and [[Syndicalism#New Syndicalism|New Syndicalism]] (which is committed to sectoral bargaining)
+The position that individual freedom requires both the protection of civil liberties and a baseline of social and economic security provided by the state. Advocates for free market economies while calling for state intervention to ensure equal opportunity, education access, and social safety nets. The explicit ideology of [[Mi, Niteraljci!]] in Confia, formed from the merger of the [[Progressive Republican Party]] and the [[Confian Liberal Party]]. Distinct from both Versijian liberalism (which rejects positive rights), generic welfarism (which is agnostic on broader liberal commitments) and [[Syndicalism#New Syndicalism|New Syndicalism]] (which is committed to illiberal economics outside of social programs).
 
 ### Kawjosism
 
-The position that new housing construction, particularly higher-density infill development in existing urban and suburban neighborhoods, is a crucial tool for addressing housing shortages and affordability crises. The Kawjosist ([[Confian (language)|Confian]] "Kawjosi/кавёси", meaning dense) movement began in early 2010s [[Confia]], gaining traction with after the 2012 affordable housing crash and seeing fruition in the mayorship of [[Nis Soler]] in [[Carlotopolis]], .
+The position that new housing construction, particularly higher-density infill development in existing urban and suburban neighborhoods, is a crucial tool for addressing housing shortages and affordability crises. The Kawjosist ([[Confian (language)|Confian]] "Kawjosi/кавёси", meaning dense) movement. which draws support from an ideologically diverse coalition including market-oriented economists, tenant advocates, abundance activists and progressives, began in early 2010s [[Confia]], gaining traction with after the 2012 affordable housing crash. It saw fruition in the mayorship of [[Nis Soler]] in [[Carlotopolis]] and [[Kurki Sirol]]'s tenure as Minister of Housing and Infrastructure, both [[Atom Party]] politicians.
 
 
 ---
