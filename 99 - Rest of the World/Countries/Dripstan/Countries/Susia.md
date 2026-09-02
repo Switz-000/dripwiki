@@ -226,9 +226,9 @@ The [[Lasman Economic Initiative]], signed in 1995 and in force from 2000, estab
 
 > _Main article: [[Ashgerad]]_
 
-The cold war with [[Ashgerad]], a technate located on the continent of [[Incria]], has been the defining foreign policy challenge since 2006. The two civilizations developed in isolation and share no cultural, historical, religious, or philosophical common ground. The [[War of Arempur]] (2012), a proxy conflict fought overseas, ended in a Susian defeat. The ongoing competition shapes Susian defense investment, intelligence operations, and the domestic framing of the [[The Great Transition|Great Transition]] itself, whose institutional reforms were partly justified as a response to Ashgeradn technological pressure.
+The cold war with [[Ashgerad]], a technate located on the continent of [[Incria]], has been the defining foreign policy challenge since 2006. The two civilizations developed in isolation and share no cultural, historical, religious, or philosophical common ground. The [[War of Arempur]] (2012), a proxy conflict fought overseas, ended in a Susian defeat. The ongoing competition shapes Susian defense investment, intelligence operations, and the domestic framing of the [[The Great Transition|Great Transition]] itself, whose institutional reforms were partly justified as a response to Ashgeradi technological pressure.
 
-Contemporary Susian foreign policy toward Ashgerad operates through the [[ODDN]] alliance, covert support for democratic movements in states where Ashgeradn influence is growing, and conditions attached to trade and aid agreements. The [[Frumentarze]]'s [[Foreign Operations Division]] runs classified programs in this area.
+Contemporary Susian foreign policy toward Ashgerad operates through the [[ODDN]] alliance, covert support for democratic movements in states where Ashgeradi influence is growing, and conditions attached to trade and aid agreements. The [[Frumentarze]]'s [[Foreign Operations Division]] runs classified programs in this area.
 
 ### Culture
 
