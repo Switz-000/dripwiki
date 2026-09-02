@@ -158,7 +158,7 @@ The company's aesthetic is explicitly patriotic. Susian flags are displayed thro
 
 The military rank structure of the [[Susian Federal Government|Susian military]] influences Van Ritter's civilian organizational hierarchy. The company treats hierarchy as functional rather than ceremonial: clearance level, not seniority or title, is the primary determinant of access and authority.
 
-Van Ritter employees at higher clearance levels carry an awareness of three active adversarial threats: [[Ashgerad|Ashgeradn]] espionage, [[Troli Ustaras|TU]] corporate espionage targeting military AI and technology, and industrial espionage from other [[Yarnojte|Yarnojtes]]. The TU rivalry is treated in the [[#Corporate Espionage|corporate espionage section]]. The company's position on all three is that the awareness is not paranoia but an accurate assessment of its operational environment.
+Van Ritter employees at higher clearance levels carry an awareness of three active adversarial threats: [[Ashgerad|Ashgeradi]] espionage, [[Troli Ustaras|TU]] corporate espionage targeting military AI and technology, and industrial espionage from other [[Yarnojte|Yarnojtes]]. The TU rivalry is treated in the [[#Corporate Espionage|corporate espionage section]]. The company's position on all three is that the awareness is not paranoia but an accurate assessment of its operational environment.
 
 Cognitive enhancement adoption among Van Ritter employees reached approximately 75% by the 2070s. Enhancement is not formally required but the performance demands of high-clearance technical work create structural pressure toward adoption among employees at Secret level and above.
 

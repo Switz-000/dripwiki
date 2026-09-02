@@ -314,7 +314,7 @@ _(Susia-specific)_ The position that Susia represents a superior form of civiliz
 
 > _Main article: [[Democratic evangelism]]_
 
-_(Susia-specific)_ The position that Susia has a moral duty to actively spread democracy and liberal values beyond its borders, through support for pro-democracy movements, conditional aid, and where necessary regime change. Rooted in [[Susian Exceptionalism|Susian exceptionalist]] ideology and the Versijian argument that natural rights are universal and their denial abroad is a wrong Susia has standing to address. Evolved from anti-syndicalist interventionism during the [[Continental Divide]], when Susia funded opposition movements, ran covert operations, and organized the [[ODDN]] in 1961 as the vehicle for its anti-syndicalist alliance. The [[Continental War]] (1975–1977) was the most direct expression. In the Ashgerad era, the stance operates primarily through softer instruments: funding civil society organizations, conditioning trade agreements on governance reforms, and maintaining the ODDN as a demonstration that the democratic model produces stable alliances. The [[Frumentarze]]'s [[Foreign Operations Division]] runs covert support programs for democratic movements in states where Ashgeradn influence is growing. Retains support across most of the Susian spectrum, though interventionist and cautious wings disagree on its scope. Sits in tension with the [[Fortress complex]], which orients toward defense rather than expansion.
+_(Susia-specific)_ The position that Susia has a moral duty to actively spread democracy and liberal values beyond its borders, through support for pro-democracy movements, conditional aid, and where necessary regime change. Rooted in [[Susian Exceptionalism|Susian exceptionalist]] ideology and the Versijian argument that natural rights are universal and their denial abroad is a wrong Susia has standing to address. Evolved from anti-syndicalist interventionism during the [[Continental Divide]], when Susia funded opposition movements, ran covert operations, and organized the [[ODDN]] in 1961 as the vehicle for its anti-syndicalist alliance. The [[Continental War]] (1975–1977) was the most direct expression. In the Ashgerad era, the stance operates primarily through softer instruments: funding civil society organizations, conditioning trade agreements on governance reforms, and maintaining the ODDN as a demonstration that the democratic model produces stable alliances. The [[Frumentarze]]'s [[Foreign Operations Division]] runs covert support programs for democratic movements in states where Ashgeradi influence is growing. Retains support across most of the Susian spectrum, though interventionist and cautious wings disagree on its scope. Sits in tension with the [[Fortress complex]], which orients toward defense rather than expansion.
 
 ### Reconciliationism
 
@@ -322,7 +322,7 @@ The position that former adversaries should be integrated into shared economic a
 
 ### Continental Fortress Doctrine
 
-_(Susia-specific)_ The position that Susia must maintain military and economic dominance over the Dripstan continent as its primary defensive perimeter against Ashgerad. Justifies ODDN expansion, forward military presence in allied nations, and intervention in neighboring affairs when the continental balance is threatened. Views the continent as Susia's natural defensive perimeter. The [[ODDN]] alliance's evolution from anti-Confian instrument to anti-Ashgeradn perimeter, now described in Susian strategic doctrine as the "Continental Fortress," translates the [[Fortress complex]] directly into foreign policy architecture.
+_(Susia-specific)_ The position that Susia must maintain military and economic dominance over the Dripstan continent as its primary defensive perimeter against Ashgerad. Justifies ODDN expansion, forward military presence in allied nations, and intervention in neighboring affairs when the continental balance is threatened. Views the continent as Susia's natural defensive perimeter. The [[ODDN]] alliance's evolution from anti-Confian instrument to anti-Ashgeradi perimeter, now described in Susian strategic doctrine as the "Continental Fortress," translates the [[Fortress complex]] directly into foreign policy architecture.
 
 ### Pan-Continental Unity
 
@@ -378,7 +378,7 @@ _(Susia-specific)_ The constitutional position that citizens retain the right to
 
 ### Techno-Optimism
 
-The position that technology is the primary solution to social, economic, and political problems. The background assumption of TU corporate culture and the Susian Modernist Alliance's technology policy. In the [[The Great Transition|Great Transition]], techno-optimists framed the FEZ system, the Secretariat of Efficiency, and cognitive enhancement as ways to match Ashgeradn efficiency without abandoning Susian freedom.
+The position that technology is the primary solution to social, economic, and political problems. The background assumption of TU corporate culture and the Susian Modernist Alliance's technology policy. In the [[The Great Transition|Great Transition]], techno-optimists framed the FEZ system, the Secretariat of Efficiency, and cognitive enhancement as ways to match Ashgeradi efficiency without abandoning Susian freedom.
 
 ### Techno-Skepticism
 

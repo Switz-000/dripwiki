@@ -64,7 +64,7 @@ Beyond mandatory service, Susia maintains a professional volunteer military for 
 
 > _Main article: [[Frumentarze]]_
 
-The [[Frumentarze]], Susia's federal intelligence agency, recruits primarily from the military, law enforcement, and corporate security sectors. It is not a military body but draws heavily on veteran personnel, particularly for its Counter-Intelligence and Foreign Operations divisions. The Counter-Intelligence division is the largest, focused on Ashgeradn spy networks in Susia, FEZ corporate espionage, protecting technology from defection, and coordinating with [[Van Ritter]] on military secrets.
+The [[Frumentarze]], Susia's federal intelligence agency, recruits primarily from the military, law enforcement, and corporate security sectors. It is not a military body but draws heavily on veteran personnel, particularly for its Counter-Intelligence and Foreign Operations divisions. The Counter-Intelligence division is the largest, focused on Ashgeradi spy networks in Susia, FEZ corporate espionage, protecting technology from defection, and coordinating with [[Van Ritter]] on military secrets.
 
 ## Cognitive Enhancement and Military Service
 
