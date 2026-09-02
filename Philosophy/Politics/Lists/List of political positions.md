@@ -213,7 +213,7 @@ The position that individual freedom requires both the protection of civil liber
 
 ### Kawjosism
 
-The position that new housing construction, particularly higher-density infill development in existing urban and suburban neighborhoods, is a crucial tool for addressing housing shortages and affordability crises. The Kawjosist ([[Confian (language)|Confian]] "Kawjosi/кавёси", meaning dense) movement began in early 2010s [[Confia]]
+The position that new housing construction, particularly higher-density infill development in existing urban and suburban neighborhoods, is a crucial tool for addressing housing shortages and affordability crises. The Kawjosist ([[Confian (language)|Confian]] "Kawjosi/кавёси", meaning dense) movement began in the early 2010s [[Confia]], gaining traction with after the 2012 affordable housing crash 
 
 
 ---
