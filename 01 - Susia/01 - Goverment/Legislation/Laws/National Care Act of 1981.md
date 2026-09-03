@@ -14,8 +14,6 @@ The **National Care Act of 1981** is a [[Susia|Susian]] [[Susian Federal Governm
 
 ## Background
 
-The [[Susian Constitution]] obligates each state to provide its residents with access to healthcare services, alongside education, policing, and sanitation. The obligation rests on the states, while their capacity to meet it varies with their fiscal resources. The primary-sector economies of the southern states could not fund healthcare provision comparable to that of the wealthier industrial and financial states.
-
 The Act was part of the expansion of federal authority undertaken during the post-war reconstruction under [[Čalsor Boňár]], the same program of state-directed development that established the state energy company [[Atompron]]. It extended federal activity into a field the constitution had assigned to the states.
 
 As a spending measure, the bill originated in the [[Susian Senate]] as required by the constitution. It was introduced by Garev, a senator from Troli, the president's home state.
