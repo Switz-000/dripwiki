@@ -73,8 +73,6 @@ Because the program rests on the spending power rather than on a constitutional 
 - Public health origin: the account of federal communicable disease and preventive medicine programs preceding the Act is author-supplied session canon. No programs are named and no dates are given, because none are established.
 - Repealability: the statement that the program is amendable and repealable by ordinary legislation is an inference from its resting on the spending power rather than on a constitutional obligation. Flagged as inference. It is load-bearing for later disputes over the covered standard.
 - Session reading, not written into the body: before 1981, care obligations in Susia ran horizontally between neighbors through communal and mutual institutions, on the same footing as the [[Sorzenko]], and the Act displaced that arrangement by discharging the obligation federally. The institution has no name and no vault article, so the Background is written around the gap and marked with a TODO. This is the single largest missing article behind this one.
-- Frontmatter: summary, aliases and the meta block were absent and have been added. The article was Level 1 on that basis regardless of body length.
-- Date placement: 1981 placed in Boňár's second term (1974-1983), in the post-war expansion alongside Atompron. Year is session canon, not drawn from an existing vault source.
-- Residents rather than citizens: the Act covers residents. Whether that is deliberate is undecided and has consequences for the immigration material.
+- Residents rather than citizens: the Act covers residents.
 
 %%
