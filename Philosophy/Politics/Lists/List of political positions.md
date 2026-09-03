@@ -201,7 +201,7 @@ The transfer of state-owned enterprises and public services to private ownership
 
 ### Laissez-faire
 
-The position that government should minimize its intervention in economic affairs, allowing markets to operate with as little regulation as possible. The logical economic extension of Versijian natural rights theory, which holds that the right to property earned through labor is fundamental. Present in the libertarian wing of the [[Coalition of State's Rights]] and in elements of the Susian Liberal Party tradition. Distinct from competitive federalism, which accepts active governance but demands competition between governance models rather than a single regulatory framework.
+The position that government should minimize its intervention in economic affairs, allowing markets to operate with as little regulation as possible. The logical economic extension of Versijian natural rights theory, which holds that the right to property earned through labor is fundamental. Present in the libertarian wing of the [[Coalition of State's Rights]]. Distinct from competitive federalism, which accepts active governance but demands competition between governance models rather than a single regulatory framework.
 
 ### Social Liberalism
 

@@ -79,7 +79,7 @@ Following the [[War of Confian Secession]] (1927–1950), the empire was partiti
 
 > _Main article: [[Continental Divide]]_
 
-The [[Tahuni Accords]] left Susia and Confia as neighboring states with incompatible political models. In 1957 [[Lorelaj Paulowić]] established an authoritarian syndicalist government in Confia, beginning the [[Continental Divide]]. Susia responded with the [[MAGEN act]], which banned left-wing parties domestically, built the [[ODDN]] alliance with [[Kapiogg]] and [[Astofayan]], and conducted a series of proxy interventions across the continent over the following two decades.
+The [[Tahuni Accords]] left Susia and Confia as neighboring states with incompatible political models. In 1957 [[Lorelaj Paulowić]] established an authoritarian syndicalist government in Confia, beginning the [[Continental Divide]]. Susia responded with the [[MAGEN act]] of 1975, which banned left-wing parties domestically, built the [[ODDN]] alliance with [[Kapiogg]] and [[Astofayan]], and conducted a series of proxy interventions across the continent over the following two decades.
 
 Open war began in 1975 after Susia's direct intervention in the [[Zaphonian Civil War]]. The [[Continental War]] (1975–1977) ended with the defeat of the [[Pact of Imgospalje]] bloc and the overthrow of Paulowić's government. The subsequent [[Flower Revolutions]] produced democratic transitions in Confia and several formerly syndicalist states.
 

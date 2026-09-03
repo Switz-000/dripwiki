@@ -244,7 +244,6 @@ Boňár was an influence on the later [[Modernism|modernist movement]], which dr
 
 %% FLAGS:
 
-- SNP/SNP terminology: existing vault articles (presidents list, Continental Divide, Matri) use "Susian Liberal Party" / SNP. User states the canonical in-world acronym is SNP. Linked here as [[Susian Liberal Party|SNP]] to preserve the link to the existing page. Naming to be resolved vault-wide later.
 - Bonfim to Boňár name lineage: "Cassio Bonfim" in older worldbuilding notes is an earlier draft name for Čalsor Boňár. Confirmed this session.
 - Frontmatter migrated from the old stub schema to the current Person template reference schema. Legacy fields (lusitanized_name, nested list-of-lists birth/death) removed.
 - Session canon needing dedicated articles: National Agreement land-for-military-positions concessions (belongs in a Tahuni Accords / National Agreement article); the first-to-second party system realignment (belongs in a Susian party system article); Federal Loyalty Act endorsement (cross-link from that article).
