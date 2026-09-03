@@ -11,6 +11,6 @@ perpetrators:
 motivation:
 related_events:
 aliases:
-  - Sweet Almond Killings
+  - Sweet Apple Killings
   - Operation Eltrid
 ---
