@@ -99,4 +99,4 @@ meta:
   verified: false
   image:
 ---
-**Kalsaper Japlenowić Jasretej** is a [[Confia|Confian]] nuclear engineer and politician who served as the 8th President of the Confian Social Republic. They were the first non-binary person in recorded history to be elected head of state.****
+**Kalsaper Japlenowić Jasretej** is a [[Confia|Confian]] nuclear engineer and politician who served as the 9th and 11th President of the Confian Social Republic. They were the first non-binary person in recorded history to be elected head of state.****
