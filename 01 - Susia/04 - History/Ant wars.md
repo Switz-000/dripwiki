@@ -73,7 +73,7 @@ The [[Movement of New Susians]] suffered a lasting deterioration in its position
 
 %% FLAGS:
 - Period dates 1954–1959: session canon. Start at constitutional ratification and eossaj formation; end at the post-ruling crackdown.
-- Mandatory military service reinstated 1959 (Gun Culture and Military Service articles attribute this to Fimžer): used to reinforce the militia-capacity constitutional argument. Consistent with vault canon. Note the Military Service article credits Fimžer with the 1959 reinstatement while he was not yet president; flagged as a possible vault inconsistency for separate review, not resolved here.
+- Mandatory military service: used here to reinforce the militia-capacity constitutional argument. The reinstatement was previously dated 1959, which placed it before [[Serčev Fimžer]] took office in 1962. Resolved by ruling: the date moves to 1964 and the attribution to Fimžer stands. [[Military Service in Susia]], [[Susia]] and [[Fortress complex]] updated.
 - Knight leader assassination: triggering event of the riot. Named individual not established. Written around.
 - Supreme Court of Susia: judicial review and power to strike down rights-violating laws confirmed against vault canon. No case name established for the eossaj ruling. Stub candidate.
 - Confian secession war, Postian National Guard, White Stork Party, Federal Loyalty Act: linked, no dedicated vault articles confirmed. Stub candidates.

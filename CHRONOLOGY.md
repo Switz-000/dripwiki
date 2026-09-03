@@ -601,6 +601,9 @@ meta:
 ## 2037
 - **Death** — [[Yavna Raroska]] died in [[Dripia]] (Natural causes)
 
+## 2038
+- **Dissolved** — [[Susian Liberal Party]]
+
 ## 2041
 - **Yarnojte granted** — [[Atompron]]
 
