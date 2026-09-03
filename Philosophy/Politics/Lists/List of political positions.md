@@ -354,7 +354,7 @@ _(Susia-specific)_ The position that an armed citizenry is a civic obligation an
 
 ### Conscriptionism
 
-The position that mandatory military service is a civic duty, a social institution for cross-class solidarity, and a practical guarantor of the right to rebel. Active in Susia, where mandatory military service was reinstated in 1959 during the Continental Divide; present in modified forms in Kapiogg and Pierej.
+The position that mandatory military service is a civic duty, a social institution for cross-class solidarity, and a practical guarantor of the right to rebel. Active in Susia, where mandatory military service was reinstated in 1964 during the Continental Divide; present in modified forms in Kapiogg and Pierej.
 
 ### Militarism
 
