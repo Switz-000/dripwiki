@@ -53,10 +53,6 @@ The distribution of sovereign authority between the national government and subn
 ### Centralism
 
 The concentration of governing authority in the national government. The operating mode of the [[Lorelaj Paulowić|Paulowić]] government in Confia, where SUPOPLAN directed the economy under Mixed Planning, and of most imperial administrations across Dripstanian history.
-
-### Localism
-
-The position that subnational governments are the primary locus of legitimate authority and that national power should be narrow and strictly enumerated. In Susia, the defining constitutional stance of the [[Coalition of State's Rights]] and during the pre-transition era, the [[Susian Liberal Party]].
 ### Regionalism
 
 The position that distinct geographic, cultural, or economic regions within a nation deserve meaningful political autonomy or formal representation as regions rather than as administrative subdivisions. Distinct from separatism in that it seeks power within the existing state rather than outside it. Active in Susian states, in Zaphonian regional politics, and historically in the captaincy rivalries of the [[Dripstanian Empire]].
