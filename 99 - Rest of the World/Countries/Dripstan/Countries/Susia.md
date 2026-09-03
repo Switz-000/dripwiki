@@ -79,7 +79,7 @@ Following the [[War of Confian Secession]] (1927–1950), the empire was partiti
 
 > _Main article: [[Continental Divide]]_
 
-The [[Tahuni Accords]] left Susia and Confia as neighboring states with incompatible political models. In 1957 [[Lorelaj Paulowić]] established an authoritarian syndicalist government in Confia, beginning the [[Continental Divide]]. Susia responded with the [[MAGEN act]], which banned left-wing parties domestically, built the [[ODDN]] alliance with [[Kapiogg]] and [[Astofayan]], and conducted a series of proxy interventions across the continent over the following two decades.
+The [[Tahuni Accords]] left Susia and Confia as neighboring states with incompatible political models. In 1957 [[Lorelaj Paulowić]] established an authoritarian syndicalist government in Confia, beginning the [[Continental Divide]]. Susia responded with the [[MAGEN act]] of 1975, which banned left-wing parties domestically, built the [[ODDN]] alliance with [[Kapiogg]] and [[Astofayan]], and conducted a series of proxy interventions across the continent over the following two decades.
 
 Open war began in 1975 after Susia's direct intervention in the [[Zaphonian Civil War]]. The [[Continental War]] (1975–1977) ended with the defeat of the [[Pact of Imgospalje]] bloc and the overthrow of Paulowić's government. The subsequent [[Flower Revolutions]] produced democratic transitions in Confia and several formerly syndicalist states.
 
@@ -190,7 +190,7 @@ Susia developed nuclear weapons after the [[Continental War]]. The development p
 
 #### Mandatory service
 
-All Susian citizens are required to complete national service upon reaching adulthood. Citizens may choose a combat track, requiring one year of service in a military role, or a non-combat track, requiring two years in logistics, medical support, infrastructure, communications, or civil defense roles. Mandatory service was reinstated in 1959 by President [[Serčev Fimžer]] at the start of the [[Continental Divide]].
+All Susian citizens are required to complete national service upon reaching adulthood. Citizens may choose a combat track, requiring one year of service in a military role, or a non-combat track, requiring two years in logistics, medical support, infrastructure, communications, or civil defense roles. Mandatory service was reinstated in 1964 by President [[Serčev Fimžer]] during the [[Continental Divide]].
 
 The service requirement produces a civilian population with baseline competence in firearms handling, physical fitness, and emergency response. Conscripts are assigned to units drawn from across the country, placing people from different states, economic backgrounds, and FEZ or non-FEZ origins in shared conditions. This cross-class mixing is a recognized civic function of the institution in Susian political culture.
 

@@ -53,10 +53,6 @@ The distribution of sovereign authority between the national government and subn
 ### Centralism
 
 The concentration of governing authority in the national government. The operating mode of the [[Lorelaj Paulowić|Paulowić]] government in Confia, where SUPOPLAN directed the economy under Mixed Planning, and of most imperial administrations across Dripstanian history.
-
-### Localism
-
-The position that subnational governments are the primary locus of legitimate authority and that national power should be narrow and strictly enumerated. In Susia, the defining constitutional stance of the [[Coalition of State's Rights]] and during the pre-transition era, the [[Susian Liberal Party]].
 ### Regionalism
 
 The position that distinct geographic, cultural, or economic regions within a nation deserve meaningful political autonomy or formal representation as regions rather than as administrative subdivisions. Distinct from separatism in that it seeks power within the existing state rather than outside it. Active in Susian states, in Zaphonian regional politics, and historically in the captaincy rivalries of the [[Dripstanian Empire]].
@@ -205,7 +201,7 @@ The transfer of state-owned enterprises and public services to private ownership
 
 ### Laissez-faire
 
-The position that government should minimize its intervention in economic affairs, allowing markets to operate with as little regulation as possible. The logical economic extension of Versijian natural rights theory, which holds that the right to property earned through labor is fundamental. Present in the libertarian wing of the [[Coalition of State's Rights]] and in elements of the Susian Liberal Party tradition. Distinct from competitive federalism, which accepts active governance but demands competition between governance models rather than a single regulatory framework.
+The position that government should minimize its intervention in economic affairs, allowing markets to operate with as little regulation as possible. The logical economic extension of Versijian natural rights theory, which holds that the right to property earned through labor is fundamental. Present in the libertarian wing of the [[Coalition of State's Rights]]. Distinct from competitive federalism, which accepts active governance but demands competition between governance models rather than a single regulatory framework.
 
 ### Social Liberalism
 
@@ -358,7 +354,7 @@ _(Susia-specific)_ The position that an armed citizenry is a civic obligation an
 
 ### Conscriptionism
 
-The position that mandatory military service is a civic duty, a social institution for cross-class solidarity, and a practical guarantor of the right to rebel. Active in Susia, where mandatory military service was reinstated in 1959 during the Continental Divide; present in modified forms in Kapiogg and Pierej.
+The position that mandatory military service is a civic duty, a social institution for cross-class solidarity, and a practical guarantor of the right to rebel. Active in Susia, where mandatory military service was reinstated in 1964 during the Continental Divide; present in modified forms in Kapiogg and Pierej.
 
 ### Militarism
 

@@ -83,6 +83,5 @@ The party's governor, [[Filevir Matri]], oversaw the response to the [[Ant Wars]
 - Native name: not established. Left blank per editorial rule.
 - Ženeže family: linked. No dedicated vault article confirmed. Stub candidate.
 - Postian National Guard: linked across multiple session articles. No dedicated vault article confirmed. Stub candidate.
-- National affiliation to Susian Democratic Union (FVS): inferred from Matri's confirmed FVS membership in the vault. The party's federation affiliation was not separately stated in canon prior to this session. Flagged as inference.
 - Era includes late-imperial and dissolution to reflect the pre-republic gentleman's club origin.
 %%

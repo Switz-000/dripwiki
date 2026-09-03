@@ -11,7 +11,7 @@ era:
   - republican-era
   - techno-federative-era
 ---
-Military service in [[Susia]] takes two forms: mandatory national service, which applies to all citizens, and voluntary career service within the professional armed forces and the corporate defense sector. The mandatory service requirement has roots in the early [[Dripstanian Empire|imperial]] era and was formally reinstated after the founding of the republic in 1959. It is understood in Susian civic culture as both a practical security measure and an expression of the Versijian principle that rights must be backed by the capacity to defend them.
+Military service in [[Susia]] takes two forms: mandatory national service, which applies to all citizens, and voluntary career service within the professional armed forces and the corporate defense sector. The mandatory service requirement has roots in the early [[Dripstanian Empire|imperial]] era and was formally reinstated in 1964, a decade after the founding of the republic. It is understood in Susian civic culture as both a practical security measure and an expression of the Versijian principle that rights must be backed by the capacity to defend them.
 
 ## History
 ### Imperial Origins
@@ -28,7 +28,7 @@ The political meaning of civilian military capacity became explicit during [[Jar
 
 ### Reinstatement Under the Republic
 
-[[Serčev Fimžer]] reinstated mandatory military service as one of the founding institutions of the [[Susia|Federative Republic of Susia]] in 1959, alongside the elected [[Susian Senate|Senate]] and the constitutional protection of natural rights. The requirement was understood as both a practical response to the [[Continental Divide]] and a civic statement: service was a duty owed to the republic, not merely a contribution extracted from its citizens.
+[[Serčev Fimžer]] reinstated mandatory military service in 1964, during his first term as president. The requirement was understood as both a practical response to the [[Continental Divide]] and a civic statement: service was a duty owed to the republic, not merely a contribution extracted from its citizens.
 
 ## Mandatory National Service
 

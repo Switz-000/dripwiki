@@ -1,6 +1,6 @@
 ---
 type: organization
-name: Free Farmers League
+name: Postian Free Farmers
 native_name:
 abbreviation:
 aliases:
