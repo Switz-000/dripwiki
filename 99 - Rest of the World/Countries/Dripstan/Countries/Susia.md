@@ -190,7 +190,7 @@ Susia developed nuclear weapons after the [[Continental War]]. The development p
 
 #### Mandatory service
 
-All Susian citizens are required to complete national service upon reaching adulthood. Citizens may choose a combat track, requiring one year of service in a military role, or a non-combat track, requiring two years in logistics, medical support, infrastructure, communications, or civil defense roles. Mandatory service was reinstated in 1959 by President [[Serčev Fimžer]] at the start of the [[Continental Divide]].
+All Susian citizens are required to complete national service upon reaching adulthood. Citizens may choose a combat track, requiring one year of service in a military role, or a non-combat track, requiring two years in logistics, medical support, infrastructure, communications, or civil defense roles. Mandatory service was reinstated in 1964 by President [[Serčev Fimžer]] during the [[Continental Divide]].
 
 The service requirement produces a civilian population with baseline competence in firearms handling, physical fitness, and emergency response. Conscripts are assigned to units drawn from across the country, placing people from different states, economic backgrounds, and FEZ or non-FEZ origins in shared conditions. This cross-class mixing is a recognized civic function of the institution in Susian political culture.
 

@@ -75,7 +75,7 @@ The Guard's role during the [[Ant Wars]] is the central point of contention in i
 - [[Duolij]]
 
 %% FLAGS:
-- Founded date: not established. The Postia state guard's specific founding is undated in canon. The national Military Service article ties mandatory service reinstatement to 1959, but the guard structure itself is treated as a founding republican institution. Left blank.
+- Founded date: not established. The Postia state guard's specific founding is undated in canon. The national Military Service article ties mandatory service reinstatement to 1964, but the guard structure itself is treated as a founding republican institution. Left blank.
 - composition_method "Volunteer enlistment following mandatory national service": drawn from the vault's Gun Culture article, which states citizens may join their state's National Guard after completing service. Applied to Postia by inference.
 - authorized_by Susian Constitution: inferred from the National Guard and Right to rebel framework in the Gun Culture and Military Service articles. Flagged as inference.
 - seat Duolij: inferred as the Postian state capital and seat of Matri's government. Flagged as inference.
