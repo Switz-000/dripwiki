@@ -89,10 +89,10 @@ Fifteen governments held office in 792 days. Four of them were co-governments, t
 
 ### United Republic of Sekyo (1985-present)
 
-| No. | Name | Took office     | Left office    | Notes                                          |
-| --- | ---- | --------------- | -------------- | ---------------------------------------------- |
-| 1.  |      | 26 October 1984 | 1 January 1988 | Took office before the republic was proclaimed |
-| 2.  |      | 1 January 1988  |                |                                                |
+| No. | Name | Took office | Left office | Notes |
+| --- | ---- | ----------- | ----------- | ----- |
+| 1.  |      | 1984        | 1988        |       |
+| 2.  |      | 1988        |             |       |
 
 %% FLAGS:
 
