@@ -4,14 +4,14 @@ aliases:
   - Konphs
 summary:
 era:
-  -
+  - early-imperial
 tags:
   - society/race
   - society/demographics
 meta:
   stub: true
   verified: false
-  image: null
+  image:
 ---
 
 The **Konphs** (Confian: Końfi/Коњфі; Singular: Konif/Коніф) were a racial group in the [[Dripstanian Continent]] that inhabited the modern-day regions of [[Karlotopol']] and [[Koštanože]]. There are no surviving members of the group.

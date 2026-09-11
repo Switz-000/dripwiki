@@ -211,29 +211,27 @@ techno-federative-era     2038–present, post great transition
 ```
 pre-colonial              before Racpalian colonization, 1780
 settlement                1786–1811, first colonies
-imperial-era              1786–1950
-    early-imperial        1674–1740, Mantichev through Agamilos
+imperial-era              1786–1954
     high-imperial         1740–1837, Veronique through Jartes I
         fraternal-war     1815–1823
     late-imperial         1837–1954, Jartes II through dissolution
         aiding-state      1845–1922
         home-rule         1922–1937, rule from St. Mantichev City
         secession-war     1937–1950
-        state-of-confia   1950–1953
-        confian-anarchy   1954–1956
+        state-of-confia   1950–1954        
+confian-anarchy   1954–1956
 united-syndicates         1956–2008, Proclamation to the 2008 constitution
-    paulowic-regime       1956–1977, Presidential Empowerment Amendment to
+    paulowic-regime       1958–1977, Presidential Empowerment Amendment to
                           the Bayonet Revolution
         continental-war   1975–1977, hot war
-    syndicalist-republic  1977–2008
-social-republic           2009–present
+    syndicalist-republic  1977–2008, ends 31/12/2008
+social-republic           2009–present, begins 01/01/2009
 ```
 
 > **The Confian dates are under review and are known to disagree with
 > themselves.** `imperial-era` is dated 1786–1950 while its own children run
 > 1674–1954; `pre-colonial` ends 1780 while `settlement` begins 1786; there are
-> gaps at 1953/1954 and 2008/2009; and `paulowic-regime` starts 1956 here while
-> the *Paulowić regime* article dates it from 1958. The **slugs** are correct
+> gaps at 1953/1954 and 2008/2009. The **slugs** are correct
 > and safe to use. Treat the **dates** as provisional until this note is
 > removed.
 
