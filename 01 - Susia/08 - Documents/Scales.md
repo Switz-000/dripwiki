@@ -52,6 +52,27 @@ Before I could even act in some way, the car accelerated toward the horizon. Was
 
 As I sat in the bench, I finally had a break from the wicked fireball in the sky. I can now think about what I should do next. 
 
+Inside my pocket, I reach for a small crumpled box
+
+```
+FRONT LABLEL
+
+Zertepton, L-V 1 mg
+
+Sale only with medical prescription. The abuse of this drug may cause addiction
+
+(A white lily with green stem and faint iris-purple throat serves as the company's logo in the bottom right corner)
+
+BACK LABLEL
+
+May make you sleepy or dizzy. Do not mix with alcohol. Use care when operating vehicle, vessel or machinery. Swallow whole. Do not chew or crush. 
+Don't worry, this is the same medicine you have been getting.
+
+Lischev-Verene Biomedical Corporation 
+"Relieving you from the burdens of being human."
+Garden of Latice Free Economic Zone, Sužielaj, Susia
+```
+
 The mission the great republic had endowed me,
 
 >  I was chosen
