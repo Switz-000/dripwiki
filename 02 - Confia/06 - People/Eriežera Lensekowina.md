@@ -132,7 +132,7 @@ Darmaja Kunsekowina Kasselja was born on the 32th of Agamilean, 1900 in [[Saint 
 >Syndicalism is often presented to Susians as the obvious solution: a system that purportedly abolishes inequalities and enables a true democracy. This follows reality in the most damning; **syndicalism has made Confians equal―equal in squalor, equal in repression, equal in misery.**
 >― Eriežera Lensekowina, [[Susian Syndicalism (1969)]]
 
->No fallacy is yet to cause greater harm than the conflation of poverty and inequality.
+>No fallacy has yet to cause greater harm than the conflation of poverty and inequality.
 >― Eriežera Lensekowina, [[Susian Syndicalism (1969)]]
 
 >If Susian workers led significantly worse lives than Confian workers, perhaps I would still defend [[Syndicalism#Orthodox Syndicalism|Orthodoxy]]. Luckily, that is not up for serious debate.
@@ -144,7 +144,7 @@ Darmaja Kunsekowina Kasselja was born on the 32th of Agamilean, 1900 in [[Saint 
 >The mission of [[Syndicalist League|this party]], which we set out today to fulfill, is not poverty alleviation, and it is not poverty erradication. **The mission of the Syndicalist League is to render poverty meaningless as a social category.**
 >― Eriežera Lensekowina, Founding speech of the Syndicalist League (1979)
 
->And- And it's amazing, really! I've been saying this for a while, that the [[Movement for Syndicalist Renovation|Revisers]] are the cancer of the syndicalist movement. What guides their actions, really? Why do they push the policies they do, which have proven to not work out in the big picture? There is nothing beyond [[Mariana Torres|the President]]'s charisma. No philosophical base, no guiding principles, no evaluation what they've done right or wrong... nothing, nothing, nothing
+>And- And it's amazing, really! I've been saying this for a while, that the [[Movement for Syndicalist Renovation|Revisers]] are the cancer of the syndicalist movement. What guides their actions, really? Why do they push the policies they do, which have proven to not work out in the big picture? There is nothing beyond [[Mariana Torres|the President]]'s charisma. No philosophical base, no guiding principles, no evaluation what they've done right or wrong... nothing, nothing, nothing.
 >― Eriežera Lensekowina, [[Five of Goretopol']] (1980)
 
 >The "appeal to Kieron" is unfortunately still tragically common from [[Movement for Syndicalist Renovation|the Orthodox party]]; as tragically common as it was during the Anarchy. A century and a half from now, if the supporters of the League ask "What would Eriežera think?" as a purportedly self-sealing defence for a destructive policy the party has come to support, then burn all I've written―you will know New Syndicalism has failed.
