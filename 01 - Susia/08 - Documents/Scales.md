@@ -8,13 +8,17 @@ Yet, I have been summoned by one of the landmen to stand before a room of many.
 
 How can they summon me, presuming I know the subject of these discussions?
 
-As I checked my pockets, I found a letter, folded exactly six times. The man who printed this seemed to not have any authority over it, as it was obvious he couldn't fold it the seventh time.
+As I checked my pockets, I found a letter, folded exactly six times.  It was obvious that the man who printed this couldn't even fold it the a seventh time. He lacks any authority, unable to impose his will over this mere paper.
 
 ```
 Techno-Federative Republic of Susia
 State of Orlítia, Office of the Clerk
 
-Welcome! You have been chosen from a random selection of military age citizens in your municipality to serve as a potential volunteer in this 
+Welcome! You have been chosen from a random selection of citizens in your municipality to serve as a potential volunteer in this year's State Sorzenko Congregation event.
 
-Within fifteen (15) days of reciving this eletronic mail, acess the State of Orlítia official website at: ttj.orlitia.su, ""
+Within fifteen (15) days of reciving this electronic mail, access the State of Orlítia official website at: ttj.orlitia.su, select 'Sorzenko', then click on 'Orlítia 2082 Congregation event', answer the questions honestly and follow the instructions on the site.
+
+For any questions, call the State Information Line +01 (32) 5719-9499
+
+DO NOT APPEAR AT YOUR CITY COUNCIL UNTIL SUMMONED AND SPECIFICALLY INSTRUCTED TO DO SO!
 ```
