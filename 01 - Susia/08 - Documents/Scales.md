@@ -12,7 +12,7 @@ State of Orlítia, Office of the Clerk
 
 Welcome! You have been chosen from a random selection of citizens in your municipality to serve as a potential volunteer in this year's State Sorzenko Congregation event.
 
-Within fifteen (15) days of reciving this automatic electronic mail, access the State of Orlítia official website at: ttj.orlitia.su, select 'Sorzenko', then click on 'Orlítia 2082 Congregation event', answer the questions honestly and follow the instructions on the site.
+Within fifteen (15) days of reciving this automatic electronic mail, access the State of Orlítia official website at: ttj.orlitia.su, select 'Sorzenko', then click on 'Orlítia 2072 Congregation event', answer the questions honestly and follow the instructions on the site.
 
 For any questions, call the State Information Line +01 (32) 5719-9499
 
@@ -68,8 +68,13 @@ BACK LABLEL
 May make you sleepy or dizzy. Do not mix with alcohol. Use care when operating vehicle, vessel or machinery. Swallow whole. Do not chew or crush. 
 Don't worry, this is the same medicine you have been getting.
 
+EXP 03-2070
+PC: 0574017744803985
+SN: 1000012739749234
+Batch: 1086541
+
 Lischev-Verene Biomedical Corporation 
-"Relieving you from the burdens of being human."
+"Always here for you."
 Garden of Latice Free Economic Zone, Sužielaj, Susia
 ```
 
