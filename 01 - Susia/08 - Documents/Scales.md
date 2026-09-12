@@ -21,6 +21,8 @@ DO NOT APPEAR AT YOUR CITY COUNCIL UNTIL SUMMONED AND SPECIFICALLY INSTRUCTED TO
 
 I was in complete awe. The republic itself drafted a letter for me. What could have I done to be officially called by the state to stand before a trial? And they asked me to dial? How can I even defend myself over the phone or through the internet? Perhaps I judged the man who folded this too harshly, I am at war with him and now and soon it's his turn to judge me.
 
-Time was passing by, and laying ashore I was. trying to process all of the different emotions and worries that poured and emptied my head. For my sun-related problems were not enough, now nature and men violently harass my existence.
+Time was passing by, and laying ashore I was. trying to process all of the different emotions and worries that poured and emptied my head. For my sun-related problems were not enough, now nature and men violently harass my existence. As i got up and took a step forward, I noticed my shoes weren't correctly placed, as they were supposed to be, guarding my feet from the sun-kissed sand.
 
-I looked around me and found a pair of mismatching shoes, they were appropriate for my feet. The left one was a bit tighter than the right one, maybe my left foot was too swollen. The little pieces of sand in it or the hole that made my thumb stick out didn't help either.
+How could a righteous 
+
+After a bit, I found a pair of shoes, they were appropriate for my feet. The left one was a bit tighter than the right one, maybe my left foot was too swollen. The little pieces of sand in it or the hole that made my thumb stick out didn't help either.
