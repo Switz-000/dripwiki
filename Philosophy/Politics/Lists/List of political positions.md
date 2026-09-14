@@ -8,7 +8,7 @@ tags:
 
 # List of political stances
 
-An atomic vocabulary of political positions used across [[Dripstan]]. Each stance is a single coherent position, not an ideology. Ideologies are defined in [[List of ideologies]] as combinations of stances.
+An [[Atom Party|atomic]] vocabulary of political positions used across [[Dripstan]]. Each stance is a single coherent position, not an ideology. Ideologies are defined in [[List of ideologies]] as combinations of stances.
 
 Link to individual stances using heading anchors: `[[List of political stances#Civic Armament]]`.
 
