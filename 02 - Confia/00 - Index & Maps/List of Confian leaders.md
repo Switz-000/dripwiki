@@ -109,7 +109,7 @@ Governor-General of the Land of Confia
 - [[Nisa Peskilonna]] and [[Kalsaper Jasretej]] (albeit nonconsecutive) were the only presidents of the Social Republic to be reelected. In contrast, all three presidents of the Syndicalist Republic ([[Mariana Torres|Torres]], [[Boris Serec|Serec]], [[Katerina Armoljubca Nožeslawna|KAN]]) were reelected, but had their second term cut short (respectively: resigned due to health concerns, resigned due to corruption investigations, term overridden by 2008 constitution).
 - [[Boris Serec]] was the only post-independence leader of Confia to be [[Reformed Armotism|Reformed Armotist]].
 - In his youth, [[Pismon Goltanni]] went to a costume party dressed as [[Senjap Kunsekowić]], making him the only known Confian head of government to have cosplayed as another Confian head of government.
-- Much like [[Čalsor Boňár]], [[Ganzer Teahowić]] was a charismatic leader who was elected three times (twice as prime minister, once as president) before dying in a car (in Teahowić's case, being assassinated) and having an unpopular vice-president ([[Filevir Matri|Matri]], [[Tegiron Hari]]) take over and fail to be reelected.
+- Much like [[Čalsor Boňár]], [[Ganzer Teahowić]] was a charismatic leader who was elected three times (twice as prime minister, once as president) before dying in a car (in Teahowić's case, being assassinated) and having an unpopular vice-president ([[Filevir Matri|Matri]], [[Tegiron Hari|Hari]]) take over and fail to be reelected.
 ## See also
 [[List of Confian elections]]
 [[Confian National Government]]
