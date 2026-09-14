@@ -209,7 +209,7 @@ The position that individual freedom requires both the protection of civil liber
 
 ### Kawjosism
 
-The position that new housing construction, particularly higher-density infill development in existing urban and suburban neighborhoods, is a crucial tool for addressing housing shortages and affordability crises. The Kawjosist ([[Confian (language)|Confian]] "Kawjosi/кавёси", meaning dense) movement, which draws support from an ideologically diverse coalition including market-oriented economists, tenant advocates, abundance activists and progressives, began in early 2010s [[Confia]], gaining traction with after the 2012 affordable housing crash. It saw fruition in the mayorship of [[Nis Soler]] in [[Carlotopolis]] and [[Kurki Sirol]]'s tenure as Minister of Housing and Infrastructure, both [[Atom Party]] politicians.
+The position that new housing construction, particularly higher-density infill development in existing urban and suburban neighborhoods, is a crucial tool for addressing housing shortages and affordability crises. The Kawjosist ([[Confian (language)|Confian]] "Kawjos/кавёс", meaning crane, as in building crane) movement, which draws support from an ideologically diverse coalition including market-oriented economists, tenant advocates, abundance activists and progressives, began in early 2010s [[Confia]], gaining traction with after the 2012 affordable housing crash. It saw fruition in the mayorship of [[Nis Soler]] in [[Carlotopolis]] and [[Kurki Sirol]]'s tenure as Minister of Housing and Infrastructure, both [[Atom Party]] politicians.
 
 
 ---
