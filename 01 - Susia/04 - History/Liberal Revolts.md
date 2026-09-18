@@ -55,6 +55,8 @@ The suppression of the Sorzenkos is treated in Susian historical memory as the p
 
 In 1840 a general assembly in Neoveli, at the site now known as [[Versijian Square]], proclaimed the Federated Provinces of Galil. [[Duolij]], [[New Kentu]], and [[Niqueparj]] joined the revolt. Smaller towns organized around surviving or reconstituted Sorzenkos, declared allegiance to the republic, and contributed militia forces to its army.
 
+In [[Nessel]], the [[Doremojism|Doremojists]] fought alongside the provinces as the [[Doremojian League]]. They sought greater autonomy from the empire and feared being "Konphed", destroyed as a people as the [[Konph]] had been, a fear sharpened by the empire's treatment of the Tekurs in the [[March Against the Sun]].
+
 Versij returned from exile to sit on the republic's general government alongside Admiral [[Zagoste Paroska]] and General [[Kaichet Satratonie]]. The body was constituted as three equals. Its authority consolidated around Versij as the war continued, as the rivalry between Paroska and Satratonie hardened into open factionalism and Versij, who held no command of his own, became its de facto leader without ever holding a title that said so.
 
 ## The war
@@ -124,6 +126,7 @@ Jaffnidia keeps a large museum dedicated to the revolts and describes itself as 
 - preceded_by and followed_by left blank. No adjacent imperial-era event article exists to link to.
 - Deferred Tier 3 material, not written: a session report of 2026-08-09 proposes an imperial border transfer following the revolts, executed as a survey determination of which [[Lasman river]] channel the founding instrument had meant, as reprisal against the provinces that rebelled. If ruled canon it belongs in the Aftermath section and materially changes what the defeat cost.
 - Main article links pointing to pages that do not exist: [[Federated Provinces of Galil]], [[Countess of Jafnidia]], [[Versijian Square]], [[Versij Day]], [[Architecture of Freedom]], [[Susian Constitution]], [[Gaiyan]], [[Great Relocation]].
+- SESSION CANON, set by the author in a later session: the Doremojists of Nessel fought alongside the provinces, seeking autonomy and fearing being "Konphed" as was happening to the Tekurs. Their identification with the [[Doremojian League]], already listed among the rebellious participants, is an inference. Nessel is not added to `theatre`: where the League fought is not established.
 - [[Federated Provinces of Galil]] is the remaining structural gap. Nine articles link it, it holds the republic's institutional identity, and its content is currently split between this article and the three person articles.
 - [[CHRONOLOGY]] holds nothing for 1840 to 1844. This article's date_start and date_end should feed it once the generator covers event frontmatter.
 

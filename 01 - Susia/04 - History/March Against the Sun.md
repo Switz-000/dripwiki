@@ -49,7 +49,7 @@ The Tekur Territory was a separate designation from the [[Konph Territory]], int
 
 ## Aftermath
 
-The Kingdom of Tekuria did not survive the reign of Jartes I. The Tekur Territory became New Celiolaj, where Tekurs make up approximately 40% of the state population.
+The Kingdom of Tekuria did not survive the reign of Jartes I. The Tekur Territory became New Celiolaj, where Tekurs make up approximately 40% of the state population. The march was among the fears that brought the [[Doremojism|Doremojists]] of [[Nessel]] into the [[Liberal Revolts]] in 1840.
 
 ### In Susian memory
 
