@@ -447,6 +447,7 @@ meta:
 - **Document recorded** — [[Letters to St Yepodij]] (letter)
 
 ## 1985
+- **Appointment** — [[Ňotrič Apaj]] becomes Philosophical Advisor at [[Troli Ustaras]] — *Shaped TU's ethical vocabulary and corporate culture. Authored TU's ethical constitution covering AI and speculative future technology. Never lived within the corporate culture he helped create.*
 - **Publication** — *[[After Scarcity]]* by [[Ňotrič Apaj]] — *Expands the essay's argument into a full philosophical vision. Proposes a cosmopolitan post-politics grounded in universal facts of consciousness, suffering, curiosity, and mortality. Became the moral vocabulary of the Modernist Alliance's utopian faction and the ethical foundation TU built its corporate culture upon.*
 
 ## 1986
@@ -476,7 +477,6 @@ meta:
 ### [[List of Confian elections|1988 gubernatorial elections in Confia]]
 - [[Ganzer Teahowić]] — State Governor of North Nijbania — [[Syndicalist League]]
 
-- **Appointment** — [[Ňotrič Apaj]] becomes Philosophical Advisor at [[Troli Ustaras]] — *Shaped TU's ethical vocabulary and corporate culture. Authored TU's ethical constitution covering AI and speculative future technology. Never lived within the corporate culture he helped create.*
 - **Death** — [[Mariana Torres]] died in [[Karlotopol']] ([[Tarlanna's disease]])
 - **End of tenure** — [[Ňotrič Apaj]] leaves Journalist at [[Dripia State University Press]] — *Covered economics, social policy, and politics during the post-Continental War boom years. War correspondent in Ditania 1983.*
 
