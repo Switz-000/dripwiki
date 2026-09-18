@@ -1,4 +1,4 @@
-name: Generate Chronology
+name: Generate Chronology and Lists
 
 on:
   push:
@@ -7,6 +7,7 @@ on:
       - "**.md"          # only runs when markdown files change
       - ".github/workflows/chronology.yml"
       - "generate_chronology.py"
+      - "generate_lists.py"
 
   workflow_dispatch:     # lets you trigger it manually from GitHub UI
 
@@ -34,11 +35,17 @@ jobs:
           VAULT_ROOT: "."
         run: python generate_chronology.py
 
+      - name: Generate office lists
+        env:
+          VAULT_ROOT: "."
+        run: python generate_lists.py
+
       - name: Commit and push if changed
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add CHRONOLOGY.md
+          git add -A Lists
           # only commit if there's actually a diff
-          git diff --cached --quiet || git commit -m "chore: update CHRONOLOGY.md [skip ci]"
+          git diff --cached --quiet || git commit -m "chore: update CHRONOLOGY.md and Lists [skip ci]"
           git push

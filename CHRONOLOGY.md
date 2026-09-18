@@ -390,6 +390,7 @@ meta:
 
 ## 1958
 
+- **Appointment**: [[Ergagério Sienes]] becomes Vice President of Susia at [[Susian Federal Government]]
 - **Appointment**: [[Lorelaj Paulowić]] becomes Leader of the Confian Nation at [[Confian National Government]], appointed by [[Presidential Empowerment Amendment]]
 - **Death**: [[Urgiri Tečlan]] died in [[Duolij]], [[Postia]], [[Susia]] (Gunshot)
 - **End of tenure**: [[Lorelaj Paulowić]] leaves President of the Confian Nation at [[Confian National Government]]
@@ -424,6 +425,8 @@ meta:
 
 - **Appointment**: [[Bejňar Keke]] becomes President of Yar-Firol
 - **Appointment**: [[Filevir Matri]] becomes Senator for Postia at [[Susian Senate]]
+- **Appointment**: [[Serčev Fimžer]] becomes President of Susia at [[Susian Federal Government]]
+- **End of tenure**: [[Ergagério Sienes]] leaves Vice President of Susia at [[Susian Federal Government]]
 - **End of tenure**: [[Filevir Matri]] leaves Governor of Postia at [[Government of Postia]]
 - **End of tenure**: [[Suizo Soites]] leaves President of Susia at [[Susian Federal Government]]
 - **Founded**: [[Rally for National Salvation]] by [[Bejňar Keke]]
@@ -431,7 +434,9 @@ meta:
 ## 1966
 
 - **Appointment**: [[Filevir Matri]] becomes Secretary of Justice at [[Susian Federal Government]], appointed by [[Serčev Fimžer]]
+- **Appointment**: [[Serčev Fimžer]] becomes President of Susia at [[Susian Federal Government]]
 - **End of tenure**: [[Filevir Matri]] leaves Senator for Postia at [[Susian Senate]]
+- **End of tenure**: [[Serčev Fimžer]] leaves President of Susia at [[Susian Federal Government]]
 - **Founded**: [[San'motko]]
 
 ## 1968
@@ -447,12 +452,15 @@ meta:
 
 ## 1970
 
+- **Appointment**: [[Ergagério Sienes]] becomes President of Susia at [[Susian Federal Government]]
 - **Appointment**: [[Filevir Matri]] becomes Senator for Postia at [[Susian Senate]]
 - **End of tenure**: [[Filevir Matri]] leaves Secretary of Justice at [[Susian Federal Government]]
+- **End of tenure**: [[Serčev Fimžer]] leaves President of Susia at [[Susian Federal Government]]
 
 ## 1974
 
 - **Appointment**: [[Filevir Matri]] becomes Vice President of Susia at [[Susian Federal Government]]
+- **End of tenure**: [[Ergagério Sienes]] leaves President of Susia at [[Susian Federal Government]]
 - **End of tenure**: [[Filevir Matri]] leaves Senator for Postia at [[Susian Senate]]
 - **Graduation**: [[Chedji Soites]] from [[Belluni College]] (Finance)
 
