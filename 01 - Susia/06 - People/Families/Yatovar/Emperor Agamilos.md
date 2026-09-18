@@ -5,7 +5,7 @@ native_name: Agamilos
 lusitanized_name:
 aliases:
   - Agamilos of Frajes
-summary: Second emperor of the Dripstanian Empire, reigning from 1686 to 1738. He succeeded his brother Mantichev under the imperial succession law, the first emperor to inherit rather than found. His death days after that of his eldest son produced the succession crisis that a regency council resolved in favour of his daughter Veronique.
+summary: Second emperor of the Dripstanian Empire, reigning from 1686 to 1738. He succeeded his brother Mantichev under the imperial succession law, the first emperor to inherit rather than found. His death days after that of his eldest son produced the succession crisis that a regency council resolved in favour of his daughter Veronique. His reign was dominated by the Dripstanian Wars of Religion, which he answered by uniting the three largest Armotist denominations into a single church under the emperor.
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: Male
@@ -121,6 +121,8 @@ criminal_charges:
 known_for:
   - item: "[[Empress Veronique]]"
     notes: His succession crisis established that a woman could inherit the Dripstanian throne.
+  - item: "[[Dripstanian Wars of Religion]]"
+    notes: Reigned through 47 years of intermittent religious conflict; united the three largest Armotist denominations into a single church under the emperor.
   - item: Standardisation of the [[Units of measurement|treye]]
     notes: Fixed in 1732 at the length of his thumb, 2.37 cm.
 
@@ -154,7 +156,9 @@ Mantichev was assassinated in 1686 without children. The succession law passed t
 
 ## Reign
 
-> %% TODO: the substance of Agamilos's 52-year reign is not established. Only the succession at its start, the standardisation of the treye in 1732, and the crisis at its end are recorded. %%
+> *Main article: [[Dripstanian Wars of Religion]]*
+
+Agamilos's reign was dominated by the Dripstanian Wars of Religion, a series of intermittent conflicts spanning 47 years between the crown and a shifting opposition of peasant revolts, dissident religious movements and rebellious duchies, some allied with [[Konph]] states. Agamilos brought the three largest [[Armotism|Armotist]] denominations into a single church with the emperor as its head, and a body of eleven justices to rule on the official interpretation of the Holy [[Ladan]]. The universities the three denominations founded, the first in the empire, competed to place their scholars on that body, and the empire's legal and educational systems grew out of their rivalry.
 
 In 1732 the [[Units of measurement|treye]], an imperial unit of length inherited from [[Gaiyan]], was standardised at the length of Agamilos's thumb, fixed at 2.37 centimetres. The unit remains in use and operates on an inverse scale.
 
@@ -191,7 +195,7 @@ A regency governed the empire for two years while the question was argued. In 17
 - The regency council of 1738 to 1740 is recorded in [[List of Dripstanian emperors]]. No article exists for it, and the [[Council of Governors]] that decided the claim has none either.
 - Body added from author-supplied material on the first three reigns, translated from Portuguese. No conflict with existing canon was found for this reign.
 - The accession precedent, that the crown descended within the house rather than reverting to election among the captaincies, is an inference from the succession law passing to a brother rather than to the convention. Labelled as inference.
-- The 52-year reign is the longest of the early empire and is almost entirely unrecorded. Only its opening, the 1732 treye standardisation, and its closing crisis exist in canon.
+- The substance of the 52-year reign was added in a later session from author-supplied canon, treated in full in [[Dripstanian Wars of Religion]]. The author's statement that the eleven-member body became the [[Supreme Court of Susia]] is held there pending a decision, as it conflicts with that article's 1954 founding.
 - CONTRADICTION, unresolved, carried from the family chart: the chart places both his parents' deaths at 297 AS, 1653, and his own birth at 293 AS, 1657.
 
 %%

@@ -55,7 +55,7 @@ The suppression of the Sorzenkos is treated in Susian historical memory as the p
 
 In 1840 a general assembly in Neoveli, at the site now known as [[Versijian Square]], proclaimed the Federated Provinces of Galil. [[Duolij]], [[New Kentu]], and [[Niqueparj]] joined the revolt. Smaller towns organized around surviving or reconstituted Sorzenkos, declared allegiance to the republic, and contributed militia forces to its army.
 
-In [[Nessel]], the [[Doremojism|Doremojists]] fought alongside the provinces as the [[Doremojian League]]. They sought greater autonomy from the empire and feared being "Konphed", destroyed as a people as the [[Konph]] had been, a fear sharpened by the empire's treatment of the Tekurs in the [[March Against the Sun]].
+In [[Nessel]], the [[Doremojism|Doremojists]] fought alongside the provinces as the [[Doremojian League]]. They sought greater autonomy from the empire and feared being "Konphed", destroyed as a people as the [[Konph]] had been, a fear sharpened by the empire's treatment of the Tekurs in the [[March Against the Sun]] and by the memory of the [[Dripstanian Wars of Religion]] under [[Emperor Agamilos|Agamilos]].
 
 Versij returned from exile to sit on the republic's general government alongside Admiral [[Zagoste Paroska]] and General [[Kaichet Satratonie]]. The body was constituted as three equals. Its authority consolidated around Versij as the war continued, as the rivalry between Paroska and Satratonie hardened into open factionalism and Versij, who held no command of his own, became its de facto leader without ever holding a title that said so.
 
