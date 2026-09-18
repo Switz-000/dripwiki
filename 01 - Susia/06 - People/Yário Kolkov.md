@@ -218,7 +218,6 @@ meta:
 “Do not ask what your system believes. Ask what it does when it is wrong.”  
 ― Yário Kolkov, [[Evolution of Governance]] (1997)
 
-
 "Syndicalists dream of perfect equality. Capitalists dream of perfect market. Nationalists dream of perfect unity. All fools, fruits from the same tree." 
 ― Yário Kolkov, [[Evolution of Governance]] (1997)
 
