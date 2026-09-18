@@ -1,30 +1,28 @@
 ---
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
-native_name: Argǎrjero Sienes
-lusitanized_name: Ergagério Sienes
+native_name:
+lusitanized_name:
 aliases:
   -
-summary:
+summary: Second president of Susia, serving two terms from 1962 to 1970 for the Susian Democratic Union. He reinstated mandatory military service in 1964, during the Continental Divide.
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: Male
 ethnicity:
 religion:
 citizenship:
-  - "[[Dripstanian Empire|Dripstanian]]"
-  - "[[Susia|Susian]]"
+  -
 nationality:
-  - "[[Dripstanian Empire|Dripstanian]]"
-  - "[[Susia|Susian]]"
+  -
 enhanced: false
 
 # ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
 birth:
   year:
-  city: "[[Duolij]]"
-  state: "[[Postia]]"
-  country: "[[Dripstanian Empire]]"
+  city:
+  state:
+  country:
 
 death:
   year:
@@ -65,30 +63,30 @@ military_service:
 political_alignment:
   -
 
-party: "[[Susian Liberal Party]]"        # principal partido, ou partido atual
-parties:                                        # partidos que ela ja pertenceu
-  - "[[Susian Liberal Party]]"
+party: "[[Susian Democratic Union]]"
+parties:
+  - "[[Susian Democratic Union]]"
 
 organizations:
-  - "[[Liberty and Fatherland Movement]]"
+  -
 
 # ── OFFICES ─────────────────────────────────────────────────────────────────
 offices:
-  - title: Vice President of Susia
+  - title: President of Susia
     employer: "[[Susian Federal Government]]"
-    start_year: 1958
-    end_year: 1962
+    start_year: 1962
+    end_year: 1966
     appointer:
     parties:
-      - "[[Susian Liberal Party]]"
+      - "[[Susian Democratic Union]]"
     notes:
   - title: President of Susia
     employer: "[[Susian Federal Government]]"
-    start_year: 1970
-    end_year: 1974
+    start_year: 1966
+    end_year: 1970
     appointer:
     parties:
-      - "[[Susian Liberal Party]]"
+      - "[[Susian Democratic Union]]"
     notes:
 
 # ── WRITTEN WORKS ───────────────────────────────────────────────────────────
@@ -114,8 +112,8 @@ criminal_charges:
 
 # ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
-  - item:
-    notes:
+  - item: "[[Military Service in Susia|Reinstatement of mandatory military service]]"
+    notes: 1964, during his first term.
 
 awards:
   - title:
@@ -126,11 +124,11 @@ awards:
     notes:
 
 era:
-  -
+  - continental-divide
 
 # ── META ────────────────────────────────────────────────────────────────────
 tags:
-  -
+  - politics/governance
 
 meta:
   stub: true
@@ -140,6 +138,7 @@ meta:
 
 %%
 FLAGS:
-- Offices taken from the table in [[List of Susian Presidents]]: Vice President under [[Suizo Soites]] 1958 to 1962, President 1970 to 1974.
-- appointer is blank on both offices. The vault does not name the elections that brought him to either office.
+- Stub. Canon on him is limited to [[List of Susian Presidents]] (both terms, party), [[Military Service in Susia]] (the 1964 reinstatement, during his first term) and [[Filevir Matri]] (appointed Matri Secretary of Justice in 1966). He is also a key figure of the [[Continental Divide]].
+- appointer is blank on both terms. The vault does not name the 1962 and 1966 elections.
+- native_name, lusitanized_name, ethnicity, citizenship, nationality and birth are blank: not stated in canon.
 %%
