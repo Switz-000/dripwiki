@@ -1,4 +1,4 @@
-These are rules. They bind every choice.
+	These are rules. They bind every choice.
 
 1. **Mechanism over placement.** Outcomes must follow from how a thing works. Never hand-place a result. Ask: _why does this follow from the structure, and what does the structure produce?_ A consequence the author had to arrange is weaker than one the world generated on its own.
    
