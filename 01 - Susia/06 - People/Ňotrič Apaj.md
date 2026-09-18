@@ -95,14 +95,22 @@ offices:
     parties:
       -
     notes: Covered economics, social policy, and politics during the post-Continental War boom years. War correspondent in Ditania 1983.
-  - title: Philosophical Advisor
+  - title: Independent contractor
     employer: "[[Troli Ustaras]]"
     start_year: 1985
+    end_year:
+    appointer:
+    parties:
+      -
+    notes: Wrote TU's training materials. TU funded him and promoted After Scarcity.
+  - title: Philosophical Advisor
+    employer: "[[Troli Ustaras]]"
+    start_year: 1988
     end_year: 2042
     appointer:
     parties:
       -
-    notes: Shaped TU's ethical vocabulary and corporate culture. Authored TU's ethical constitution covering AI and speculative future technology. Never lived within the corporate culture he helped create.
+    notes: Largely honorary title. Shaped TU's ethical vocabulary and corporate culture. Authored TU's ethical constitution covering AI and speculative future technology. Never lived within the corporate culture he helped create.
 
 # ── WRITTEN WORKS ───────────────────────────────────────────────────────────
 written_works:
@@ -213,11 +221,11 @@ Apaj argued that institutions built to manage material scarcity, including the n
 
 ### Troli Ustaras
 
-Apaj was hired by [[Troli Ustaras]] as Philosophical Advisor in 1988, a position he held until his death. He visited TU offices approximately twice a month, appeared at corporate events and graduation ceremonies, and wrote the documents that shaped the company's ethical framework, including its ethical constitution covering artificial intelligence and speculative future technology, its employee manuals, and its ethics training materials. He did not live within the corporate culture those documents produced.
+Apaj wrote the training materials of [[Troli Ustaras]] in 1985 as an independent contractor. TU funded him and promoted After Scarcity, and in 1988 gave him the title of Philosophical Advisor, which was largely honorary and which he held until his death. He was rarely at TU: he visited its offices approximately twice a month and appeared at corporate events and graduation ceremonies. He wrote the documents that shaped the company's ethical framework, including its ethical constitution covering artificial intelligence and speculative future technology, its employee manuals, and its ethics training materials. He did not live within the corporate culture those documents produced.
 
 TU's adoption of his framework gave the company's work civilizational framing: the mission of expanding human knowledge and capability was not simply commercially significant but historically obligatory. Apaj regarded TU's stated mission as consistent with the direction he had proposed in "[[After Scarcity]]" and shaped its institutional language accordingly.
 
-[[Yário Kolkov]], who worked at TU as an engineer from 1987 to 1989, later characterized Apaj privately as "*having provided corporate theology with its sacred text*". Kolkov's position softened in his later years. He concluded that Apaj had not understood the gap between his intentions and TU's implementation, rather than having been indifferent to it. The two men met on several occasions during Kolkov's time at TU. Apaj did not appear to have retained a memory of those meetings. They did not communicate after Kolkov's departure.
+[[Yário Kolkov]], who worked at TU as an engineer from 1987 to 1989, held a personal grudge against Apaj as TU's prophet. Apaj congratulated him at the end of his training and spoke before him at a shareholder conference, and retained no memory of either meeting. He learned of Kolkov only after the publication of [[Evolution of Governance]], when a student gave him an annotated copy of the book during a university interview. Apaj read it and wrote to Kolkov, who never replied. The relationship is treated in [[Yário Kolkov#Ňotrič Apaj]].
 
 TU lobbied for and helped shape the [[Great Transition]] of 2038, funding [[Modernist Alliance]] factions amenable to corporate [[Free Economic Zone|FEZ]] governance. By this period Apaj was showing the first symptoms of [[Kashovne's syndrome]]. He lived to see the [[Susian Constitution|constitution of 2038]] ratified and the [[Yarnojte]] system established.
 
@@ -255,4 +263,6 @@ Following the [[Troli Ustaras Corruption Scandal (2047)]] and the subsequent cor
 %% FLAGS:
 - Reburial date: post-2051, after TU restructuring. Exact year not established. Left vague deliberately.
 - Second child: unnamed, specific TU role undeveloped. Flagged for expansion when relevant.
+- SESSION CANON, set by the author in a later session: Apaj wrote TU's training materials in 1985 as an independent contractor; TU funded him and promoted After Scarcity; the Philosophical Advisor title of 1988 was largely honorary and he was rarely at TU. RESOLVED: the frontmatter previously dated the advisor post from 1985 and the body from 1988; the contract now carries 1985 and the title 1988. The end of the contract is not established.
+- SESSION CANON, set by the author in a later session: Apaj's letter to Kolkov after reading Evolution of Governance, unanswered. Replaces the earlier statement that the two did not communicate after Kolkov's departure. The fuller account, including the "sacred text" line and the softening of Kolkov's view, moved to [[Yário Kolkov]].
 %%

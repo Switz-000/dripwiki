@@ -174,6 +174,65 @@ meta:
   verified: false
   image: null
 ---
+
+**Yário Kolkov** (1960–2011), born Yaroch Kolkov, was a [[Susia|Susian]] philosopher and engineer whose theory of democracy as a living adaptive system became the foundation of [[The Great Transition]] and the techno-federative constitution. He worked as an engineer at [[Nayotai]] and [[Troli Ustaras]] before turning to writing, and spent his later years warning against the institutional capture of ideas, TU's use of his own work among them.
+
+## Early Life
+
+Kolkov was born in 1960 in [[New Duloc]], [[Postia]]. He studied engineering and philosophy at the [[University of New Duloc]].
+
+## Engineering career
+
+### Nayotai
+
+Kolkov worked as an engineer at Nayotai from 1982 to 1987. The experience became one of the two sources of [[Letters to a Dead Republic]].
+
+### Troli Ustaras
+
+He joined TU in 1987. The company's training materials had been co-authored by [[Ňotrič Apaj]], who wrote them under contract in 1985. At the ceremony marking the end of Kolkov's training, Apaj shook his hand, addressed him by name and congratulated him, then moved on to the next trainee.
+
+TU has a tradition in which three senior engineers and the junior employee of the month present the first-quarter results at a shareholder conference. Kolkov presented at one such conference, following a speech by Apaj alongside the company's president. He reported that his department's results were underwhelming, and a coworker beside him began to cry and had to be removed, to the embarrassment of the team and of the executives.
+
+Kolkov left TU in 1989, in disgust at its culture.
+
+## Philosophy
+
+> *Main article: [[Kolkovianism]]*
+
+Kolkov's books moved from the critique of corporate culture to a general theory of governance. [[Letters to a Dead Republic]] (1990) drew on his years at Nayotai and TU to describe corporate culture as a form of ideological capture. [[Food for the Fools]] (1994) attacked the audiences of political demagogues and the institutions that allow them rather than the demagogues themselves. [[Evolution of Governance]] (1997) set out the central statement of his thought: democracy as an evolutionary organism rather than a fixed structure, sustained by competition among institutions, easy exit and strong oversight. [[The Tyranny of Order]] (2006) warned against the transformation of living philosophy into dead doctrine, and [[Democracy as an Organism]] (2008) was his last completed book.
+
+### Versij and the Supreme Court
+
+> *Main article: [[Supreme Court of Susia#Kolkov's critique]]*
+
+Kolkov was not hostile to [[Armadesh Versij]], but attacked him provocatively to draw a reaction and open wider debate. His central objection was that Susia treated Versij as a saint, as the empire had treated its dead emperors, and his principal example was the Supreme Court.
+
+### Criticism
+
+Kolkov's critics hold that his work often makes little sense and that his books contradict one another and themselves. Kolkov treated the wide divergence in how his work was read as the fault of his readers rather than of the work.
+
+## Personal Life
+
+Kolkov was stubborn and proud, and quick to turn bitter.
+
+### Ňotrič Apaj
+
+For a period Kolkov held a personal rather than philosophical hatred of Apaj. He regarded Apaj as TU's prophet, the man who had armed the company with its arguments, and held him responsible for TU's transformation from engineers with a vague ambition to improve humanity into an institution part corporation and part dogma. He privately described Apaj as "having provided corporate theology with its sacred text".
+
+The two had contact on three occasions: the training ceremony and the shareholder conference at TU, and a letter. Apaj retained no memory of the first two and did not know of Kolkov until after the publication of Evolution of Governance. During an interview at a university, a student asked Apaj what he thought of Kolkov, was surprised to find that he did not know him, and gave him a personal annotated copy of the book. Apaj read it and wrote to Kolkov. Kolkov never replied, and the two never communicated again.
+
+In his later years Kolkov's position softened. He concluded that Apaj had not understood the gap between his intentions and TU's implementation, rather than having been indifferent to it, and came to regard Apaj as not so different from himself. He wrote about this briefly in [[Dead Man's Wit]] and never acknowledged it publicly.
+
+### Death
+
+Kolkov died of lung cancer in New Duloc in 2011. Dead Man's Wit, an unfinished manuscript he had kept private through his final years, was recovered from the [[University of New Kentu]] archives by a former student and published online in 2014.
+
+## Legacy
+
+Kolkov's framework of competitive institutional pluralism became the intellectual foundation of the Great Transition of 2038. [[Troli Ustaras]] funded [[Modernist Alliance]] factions to shape how it would be translated into policy, and the constitutional text that resulted favored structured corporate autonomy. Whether the Modernist Alliance's reading is faithful to Kolkov or the selective appropriation he warned against is disputed. His competitive governance theory is one of three traditions taught in the national civics curriculum, alongside those of Versij and [[Suizo Soites]].
+
+TU named the [[Kolkov Institute for Innovation]] (2002), the [[Kolkov Award for Engineering]] and the [[Kolkov Learning Center]] (2009) after him. Kolkov refused to attend the award ceremony; the positions he took on TU's use of his work are recorded in his [[Kolkov Interview 2009|2009 interview]]. The [[Kolkov line]], a maglev line between New Duloc and [[New Kentu]] opened in 2061, is also named after him.
+
 ## Quotes
 
 “Nayotai taught me that efficiency is tyranny with a stopwatch. Every moment optimized, every second accounted for, every thought channeled toward production. Even my body had become a component.”  
@@ -237,4 +296,33 @@ meta:
 ― Yário Kolkov, [[Dead Man's Wit]] 
 
 "I was right about everything. It made no difference. I am still deciding which of two is worse."
-― Yário Kolkov, [[Dead Man's Wit]] 
+― Yário Kolkov, [[Dead Man's Wit]]
+
+## See Also
+
+- [[Kolkovianism]]
+- [[Evolution of Governance]]
+- [[Letters to a Dead Republic]]
+- [[Food for the Fools]]
+- [[Dead Man's Wit]]
+- [[Ňotrič Apaj]]
+- [[Troli Ustaras]]
+- [[Nayotai]]
+- [[Armadesh Versij]]
+- [[Supreme Court of Susia]]
+- [[The Great Transition]]
+- [[Kolkov Interview 2009]]
+
+%% FLAGS:
+
+- Body written this session; the article previously held only frontmatter and quotes. Facts outside the session canon below are summarized from the frontmatter, [[Nayotai]], [[Troli Ustaras]], [[Ňotrič Apaj]], [[Kolkov Interview 2009]], [[Susian Exceptionalism]], [[Armadesh Versij]], [[Yarnojte]], [[List of susian universities]] and [[Kolkov line]].
+- SESSION CANON, set by the author: critics hold that his work often makes little sense and contradicts itself; he blamed readers for the divergence in interpretation; he was stubborn, proud and quick to bitterness; his personal hatred of Apaj and its grounds; the three occasions of contact (the training ceremony handshake, the shareholder conference and the crying coworker, Apaj's letter); Apaj learning of him through a student's annotated copy of Evolution of Governance; Kolkov never replying; his late recognition that Apaj was not so different from him, written about in Dead Man's Wit and never acknowledged publicly; the TU first-quarter presentation tradition.
+- The Apaj material previously lived in [[Ňotrič Apaj]], including the "sacred text" line and the softening of Kolkov's view. This article is now its home; Apaj's article summarizes and links.
+- The years of the training ceremony (1987 or 1988) and of the shareholder conference (1988 or 1989) are not established. Whether Kolkov presented as a senior engineer or as junior employee of the month is not established.
+- The year of Apaj's letter and of the university interview are not established; both fall after 1997.
+- TU's name for its trainees is rendered as "trainee"; the author's "pioneer" may be TU's in-house term and is a candidate for [[Troli Ustaras]] Corporate culture.
+- Terminology: [[Troli Ustaras]] says TU quoted Kolkov "in ways Kolkov publicly rejected", while in the 2009 interview he declines to repudiate TU publicly. The interview itself is public, so the two are reconcilable; not changed.
+- The heading order follows the person template: Early Life, primary activity, Personal Life, Legacy. The existing Quotes section is kept after Legacy.
+- Links to pages that do not exist: [[Letters to a Dead Republic]], [[Food for the Fools]], [[Evolution of Governance]], [[The Tyranny of Order]], [[Democracy as an Organism]], [[Dead Man's Wit]], [[Kolkov Institute for Innovation]], [[Kolkov Award for Engineering]], [[Kolkov Learning Center]], [[University of New Kentu]], [[University of New Duloc]], [[Modernist Alliance]]. [[Kolkovianism]] is a stub.
+
+%%
