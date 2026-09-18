@@ -107,11 +107,11 @@ written_works:
   - title: "[[Food for the Fools]]"
     publication_year: 1994
     genre: Political philosophy
-    notes: Essay on political demagogues, attacking not the demagogues but the audience who feeds from them and the institutions that allow them. Considered controversial at its time.
+    notes: Essay on political demagogues, attacking not the demagogues but the audience who feeds from them and the institutions that allow them. Considered controversial at its time. Includes his critique of the treatment of Versij as a saint, with the Supreme Court as its example.
   - title: "[[Evolution of Governance]]"
     publication_year: 1997
     genre: Political philosophy
-    notes: Central statement of Kolkovianism. Argues democracy is an evolutionary organism rather than a fixed structure. Became assigned reading at multiple universities and the text most cited by the Modernist Alliance.
+    notes: Central statement of Kolkovianism. Argues democracy is an evolutionary organism rather than a fixed structure. Became assigned reading at multiple universities and the text most cited by the Modernist Alliance. Returns to and expands the critique of the Supreme Court first made in Food for the Fools.
   - title: "[[The Tyranny of Order]]"
     publication_year: 2006
     genre: Political philosophy
