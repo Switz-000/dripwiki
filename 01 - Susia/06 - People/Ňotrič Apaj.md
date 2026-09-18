@@ -97,7 +97,7 @@ offices:
     notes: Covered economics, social policy, and politics during the post-Continental War boom years. War correspondent in Ditania 1983.
   - title: Philosophical Advisor
     employer: "[[Troli Ustaras]]"
-    start_year: 1988
+    start_year: 1985
     end_year: 2042
     appointer:
     parties:
