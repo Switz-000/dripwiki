@@ -209,7 +209,9 @@ Kolkov was not hostile to [[Armadesh Versij]], but attacked him provocatively to
 
 ### Criticism
 
-Kolkov's critics hold that his work often makes little sense and that his books contradict one another and themselves. Kolkov treated the wide divergence in how his work was read as the fault of his readers rather than of the work.
+Kolkov's critics hold that his work often makes little sense and that his books contradict one another and themselves. They point in particular to [[Food for the Fools]] and [[Evolution of Governance]]. The earlier book treats the public as the source of political failure, a population that yearns for the impossible and is taught by governments to want; the later one relies on the same public as the corrective of competing institutions, choosing among them and leaving those that fail it. The second book trusts citizens with the choice the first says they cannot make. Critics connect the contradiction to TU's use of his work: an institution that residents choose can present itself as the winner of the competition Kolkov described.
+
+Kolkov treated the wide divergence in how his work was read as the fault of his readers rather than of the work.
 
 ## Personal Life
 
@@ -320,6 +322,7 @@ TU named the [[Kolkov Institute for Innovation]] (2002), the [[Kolkov Award for 
 - The Apaj material previously lived in [[Ňotrič Apaj]], including the "sacred text" line and the softening of Kolkov's view. This article is now its home; Apaj's article summarizes and links.
 - The years of the training ceremony (1987 or 1988) and of the shareholder conference (1988 or 1989) are not established. Whether Kolkov presented as a senior engineer or as junior employee of the month is not established.
 - The year of Apaj's letter and of the university interview are not established; both fall after 1997.
+- SESSION CANON, proposed this session and accepted by the author: the contradiction between Food for the Fools and Evolution of Governance as the critics' principal example, and its connection to TU's use of his work. Grounded in the Food for the Fools quotations on the masses and on governments teaching citizens to want, and in the exit and competition provisions of Evolution of Governance.
 - RESOLVED: "pioneer" is TU's term for its employees, and "little pioneers" for the children of the [[Susian Innovation Center]]. Recorded in [[Troli Ustaras]] Corporate culture.
 - Terminology: [[Troli Ustaras]] says TU quoted Kolkov "in ways Kolkov publicly rejected", while in the 2009 interview he declines to repudiate TU publicly. The interview itself is public, so the two are reconcilable; not changed.
 - The heading order follows the person template: Early Life, primary activity, Personal Life, Legacy. The existing Quotes section is kept after Legacy.
