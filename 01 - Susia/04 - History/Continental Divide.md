@@ -19,7 +19,7 @@ participants:
   - "[[Drippalia]]"
   - "[[Sutsa-Fuhu]]"
   - "[[Zaphonia]]"
-  - "[[Ariwaro]]"
+  - "[[-Repo/07 - Ariwaro/Ariwaro]]"
   - "[[Ditania]]"
   - "[[Cabunire]]"
   - "[[Garecia]]"
@@ -104,7 +104,7 @@ The Continental Divide produced a sustained pattern of proxy competition across 
 
 > _Main article: [[Second War of the Forest]]_
 
-In 1958 [[Drippalia]] invaded [[Kapiogg]] to reclaim the disputed provinces of [[Oesburg]] and [[Jaeregg]], initially advancing successfully. Dripland, trying to exploit Confia's unstable government invaded the [[Legrinpija]] region. Confian forces pushed back Drippalje's advance and effectively split Drippalje in two between Confia and Kapiogg. The war resulted in the annexation of Drippalje and demonstrated Confia's willingness to use conventional military. Kapiogg subsequently joined the [[ODDN]] as a founding member in 1961, and Susia conditioned its entry on Kapiogg's gradual transition from absolute monarchy to parliamentary government.
+In 1958 [[Drippalia]] invaded [[Kapiogg]] to reclaim the disputed provinces of [[Oesburg]] and [[Jaeregg]], initially advancing successfully. Drippalia, trying to exploit Confia's unstable government invaded the [[Legrinpija]] region. Confian forces pushed back Drippalje's advance and effectively split Drippalje in two between Confia and Kapiogg. The war resulted in the annexation of Drippalje and demonstrated Confia's willingness to use conventional military. Kapiogg subsequently joined the [[ODDN]] as a founding member in 1961, and Susia conditioned its entry on Kapiogg's gradual transition from absolute monarchy to parliamentary government.
 
 ### The Zaphonian Oil Workers' Petition (1960)
 
