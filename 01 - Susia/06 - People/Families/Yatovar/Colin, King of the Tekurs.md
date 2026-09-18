@@ -150,6 +150,7 @@ meta:
 - Birth year 1756 is stated in [[Empress Veronique]] and is independent of the chart.
 - RESOLVED: reign begins 1794, from 32 olódio 156 AS in author-supplied material, which matches the chart's 156 AS exactly at the established epoch.
 - RESOLVED: death year 1823, ruled this session. The chart's 137 AS is a digit error for 127 AS, the same error class as 145 for 135 in the preceding reign. He died in the year the [[Dripstanian Civil War]] ended.
-- RESOLVED: the Tekur kingship is a Dripstanian vassalage created by [[Empress Yaneoli]] over the tribes of [[Lijssick]] and [[Baabren]], united as the [[Kingdom of Tekuria]]. The relation to the later deportations remains unexplained: Colin's kingdom declared for Jartes I, who on winning deported the population it governed.
+- RESOLVED: the Tekur kingship is a Dripstanian vassalage created by [[Empress Yaneoli]] over the tribes of [[Lijssick]] and [[Baabren]], united as the [[Kingdom of Tekuria]]. Colin's kingdom declared for Jartes I, who on winning deported the population it governed in the [[March Against the Sun]].
+- RESOLVED this session, the means: Tekuria's armed forces were an imperial army, and after Colin's death in 1823 Jartes I absorbed them into the imperial army, leaving the Tekur population without an armed force of its own. The motive for the deportation remains unexplained. Treated in [[March Against the Sun]].
 
 %%

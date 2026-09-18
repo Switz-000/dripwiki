@@ -5,7 +5,7 @@ native_name: Jartes
 lusitanized_name:
 aliases:
   -
-summary: Fifth emperor of the Dripstanian Empire. He claimed the throne from his mother's death in 1815 against his twin sister Prazde and held it uncontested from 1823 until his death in 1837. His reign carried out the deportation of the Tekur people and four major foreign conquests.
+summary: Fifth emperor of the Dripstanian Empire. He claimed the throne from his mother's death in 1815 against his twin sister Prazde and held it uncontested from 1823 until his death in 1837. His reign carried out the March Against the Sun, the deportation of the Tekur population of the Kingdom of Tekuria, and four major foreign conquests.
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: Male
@@ -115,8 +115,8 @@ criminal_charges:
 known_for:
   - item: "[[Dripstanian Civil War]]"
     notes: Contested his sister's reign from 1815 to 1823.
-  - item: Deportation of the [[Tekur]] people
-    notes: Ordered the forced march of approximately 350,000 Tekurs to the Tekur Territory in what is now [[New Celiolaj]]; roughly 60 per cent died.
+  - item: "[[March Against the Sun]]"
+    notes: Absorbed the forces of the Kingdom of Tekuria into the imperial army after Colin's death in 1823, then deported its Tekur population to the Tekur Territory in what is now [[New Celiolaj]].
   - item: "[[The Bakurian Campaign]]"
     notes: Begun 1826. One of four major conquests of his reign.
 
@@ -151,7 +151,7 @@ meta:
 - The chart's dates for this generation run ten years earlier than [[List of Dripstanian emperors]] and were ruled unreliable in favour of the list. Any value here taken only from the chart is provisional.
 - Reign dates and the 1815 or 1823 ambiguity follow [[List of Dripstanian emperors]]. The chart gives 137 to 123 AS, converting to 1813 to 1827, and was ruled unreliable.
 - Death year set to 1837 from the accession of [[Jartes II]], stated in his article and in the list. The chart gives 123 AS, converting to 1827.
-- The Tekur deportation figures come from [[Cericeiro]] and the [[Susia]] country article. [[Empress Veronique]] separately records ethnic cleansing of the Konph under her own reign; the two events are distinct.
+- The Tekur deportation is treated in [[March Against the Sun]], named this session, which now holds the figures previously taken from [[Cericeiro]] and the [[Susia]] country article. [[Empress Veronique]] separately records ethnic cleansing of the Konph under her own reign; the two events are distinct.
 - Kamino records him as the aggressor of [[The Bakurian Campaign]] and as widely hated there. Three further conquests are referenced as "four major conquests" without being named.
 - The chart makes him twin to [[Empress Prazde]], both born 184 AS. Their war is the [[fraternal-war]] era of 1815 to 1823 in [[YAML and Tags]].
 

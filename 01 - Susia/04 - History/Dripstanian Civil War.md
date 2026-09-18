@@ -69,6 +69,8 @@ Prazde mobilised the [[Dripstanian Central Army]], which won the opening years o
 
 Jartes took the throne and reigned until 1837. He dated his claim to 1815 rather than to the end of the war, and [[List of Dripstanian emperors]] records both his claimed reign and Prazde's disputed one across the same eight years.
 
+After the war Jartes absorbed the forces of the Kingdom of Tekuria, which had declared for him, into the imperial army, and deported its Tekur population in the [[March Against the Sun]].
+
 %% TODO: the fate of Prazde after the war, the disposition of the Zaphonian crown she held, and whether the dukes of Nessel and New Celiolaj received the land they were promised are all unestablished. %%
 
 ## See also
@@ -78,6 +80,7 @@ Jartes took the throne and reigned until 1837. He dated his claim to 1815 rather
 - [[Empress Yaneoli]]
 - [[Colin, King of the Tekurs]]
 - [[Kingdom of Tekuria]]
+- [[March Against the Sun]]
 - [[Drippalia]]
 - [[Tekurubićni Patrol]]
 - [[List of Dripstanian emperors]]
@@ -99,6 +102,7 @@ Jartes took the throne and reigned until 1837. He dated his claim to 1815 rather
 - AMBIGUOUS in the source: "the Kingdom of Drippalia had revolted against its vassals under Jartes". Rendered here as Drippalia and its vassals declaring for Jartes, which is consistent with [[Colin, King of the Tekurs]] declaring first and with the seizures at [[Lijssick]] and [[Baabren]]. Correct if the intended reading was the opposite.
 - [[Dripstanian Central Army]] and [[Ketu]] are named here for the first time and have no articles. Ketu may be related to [[New Kentu]]; unestablished.
 - "Nuva Celzielande" in the source is a superseded name for [[New Celiolaj]], on the pattern already ruled for Poulônia and Sussulândia.
-- The war predates the Tekur deportations by roughly a decade. [[Kingdom of Tekuria]] fought for Jartes, who on winning deported the population it governed.
+- The war predates the Tekur deportation by roughly a decade. [[Kingdom of Tekuria]] fought for Jartes, who on winning deported the population it governed. The deportation is named and treated in [[March Against the Sun]]; the decade estimate has no source in canon and was not used there.
+- Aftermath paragraph on Tekuria added this session from session canon recorded in [[March Against the Sun]].
 
 %%

@@ -28,7 +28,7 @@ Susian exceptionalism draws on several distinct intellectual traditions that are
 
 [[Armotism|Armotist]] theology contributed the oldest layer: the understanding of the Susian settlement as a divinely guided refuge, a community chosen by Armotos to survive persecution and establish a new order. This theological framing has weakened considerably since the imperial era, when [[Armotism]] functioned as an established state religion, but its structural imprint on national self-understanding remains visible.
 
-[[Armadesh Versij]]'s natural rights philosophy contributed a secular and universalist dimension. For Versij, Susian institutions were worth defending not because they were Susian but because they encoded rights that were inalienable and universal. Susia's exceptionalism, in this reading, is not ethnic or cultural but philosophical: the republic is exceptional because it came closest to founding a government on discovered truths about human freedom. This framing is the dominant one in republican-era and contemporary political discourse, and it is why Susian exceptionalism consistently presents itself in universalist language rather than nationalist terms.
+[[Armadesh Versij]]'s natural rights philosophy contributed a secular and universalist dimension. For Versij, Susian institutions were worth defending not because they were Susian but because they encoded rights that were inalienable and universal. Susia's exceptionalism, in this reading, is not ethnic or cultural but philosophical: the republic is exceptional because it came closest to founding a government on discovered truths about human freedom. This framing is the dominant one in republican-era and contemporary political discourse, and it is why Susian exceptionalism consistently presents itself in universalist language rather than nationalist terms. It is also the strand most closely identified with [[Tekur Susians|Tekur Susian]] political culture.
 
 [[Suizo Soites|Soites']] pragmatic liberalism added the third strand: the argument that Susian institutions worked, empirically and practically, and that their record of producing freedom and prosperity was the best justification for taking them seriously. The Soitesian strain is less interested in metaphysical foundations than in outcomes, and it is the strain most comfortable acknowledging institutional failures while maintaining confidence in the overall project.
 
@@ -36,7 +36,7 @@ Susian exceptionalism draws on several distinct intellectual traditions that are
 
 ## Tensions and criticisms
 
-Several features of Susian history sit in tension with the exceptionalist narrative. The [[Tekur]] people were formally excluded from citizenship at the republic's founding in 1954 and granted full rights only in 1997 under the [[Reconciliation Act]]. Their presence in Susia predates the Armotist settlement, and the centuries of imperial persecution they experienced are not prominently featured in the founding myth's standard telling. The [[MAGEN act]] of 1975, which restricted domestic left-wing parties during the [[Continental Divide]], is difficult to reconcile with the narrative of Susia as the defender of universal political rights. The [[Frumentarze]]'s documented overreach, including the 2071 domestic wiretapping scandal, creates similar friction.
+Several features of Susian history sit in tension with the exceptionalist narrative. The [[Tekur Susians|Tekur]] people were formally excluded from citizenship at the republic's founding in 1954 and granted full rights only in 1997 under the [[Reconciliation Act]]. Their presence in Susia predates the Armotist settlement, and the centuries of imperial persecution they experienced, including the [[March Against the Sun]], are not prominently featured in the founding myth's standard telling. The [[MAGEN act]] of 1975, which restricted domestic left-wing parties during the [[Continental Divide]], is difficult to reconcile with the narrative of Susia as the defender of universal political rights. The [[Frumentarze]]'s documented overreach, including the 2071 domestic wiretapping scandal, creates similar friction.
 
 The Ashgerad cold war intensifies these tensions. Susian exceptionalism's deepest contemporary claim is that the Susian model, individual rights, democratic governance, market evolution, represents the correct answer to questions that Ashgerad answers differently and incompatibly. To lose this competition would not merely be a military or geopolitical defeat; it would, in the logic of Susian exceptionalism, constitute evidence that the entire national narrative was wrong. This is the framing the source doc describes plainly: losing means your civilization was a mistake.
 
@@ -51,7 +51,8 @@ Critics within Susia argue that this civilizational framing makes the republic b
 - [[Yário Kolkov]]
 - [[Liberal Revolts]]
 - [[Continental War]]
-- [[Tekur]]
+- [[Tekur Susians]]
+- [[March Against the Sun]]
 - [[Reconciliation Act]]
 - [[Ashgerad]]
 - [[The Great Transition]]

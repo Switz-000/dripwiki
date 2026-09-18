@@ -30,7 +30,7 @@ The defining political moment for Susian gun culture came during [[Jartes II]]'s
 
 The interpretation that became dominant in Susian political memory holds that the disarmament was a precondition of the tyranny, and that the revolt's defeat was made possible by it. This reading is disputed by some historians, who argue the republic faced structural military disadvantages that firearms alone would not have overcome. The popular position is captured in a quote attributed to Versij at his execution: "You will have me die for treason. So be it. Yet know this: had my fellows not been disarmed you would not now stand to pronounce it." Its authenticity is contested, but its cultural currency is not.
 
-The [[Susian Constitution]] guarantees the right to bear arms and includes an explicit [[Right to rebel|right of rebellion]]: citizens may take up arms to resist a government that systematically violates the natural rights recognized by the constitution, including freedom of speech, the right to self-defense, the right to own and use property, and the right to life. This provision is understood as a direct response to the events of 1840 to 1844.
+The [[Susian Constitution]] guarantees the right to bear arms and includes an explicit [[Right to rebel|right of rebellion]] against a government that systematically violates the natural rights it recognizes. The provision is understood as a direct response to the events of 1840 to 1844. In law it is a right; Susian civic culture also treats it as a duty the patriot owes the nation, including against the state.
 
 ## Philosophical Roots
 
@@ -48,7 +48,7 @@ Susia maintains [[Military Service in Susia|mandatory military service]], reinst
 
 Gun culture is not uniform across Susia. Open carry is more common in the eastern states, which retain stronger Cericeiro and Sorzenko traditions. Western states tend toward concealed carry and treat ownership as a more private matter. Urban residents across the country generally keep firearms at home rather than carrying them publicly, and treat the topic as personal rather than political.
 
-[[Tekur]] Susians show notably higher rates of firearms ownership, Sorzenko membership, and military enlistment than the national average.
+[[Tekur Susians]] show notably higher rates of firearms ownership, Sorzenko membership, and military enlistment than the national average, a pattern historians trace both to Tekur attachment to Susian civic tradition and to the [[March Against the Sun]].
 
 Within [[Free Economic Zone|FEZs]], ownership is more socially discouraged. Corporate governance cultures, particularly at [[Troli Ustaras]] and [[Atompron]], treat civilian firearms as anachronistic, and some FEZs have promoted virtual shooting as an alternative. The attitude is generally regarded with skepticism outside FEZ populations.
 

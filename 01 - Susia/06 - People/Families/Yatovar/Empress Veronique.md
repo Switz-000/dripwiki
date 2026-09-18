@@ -206,7 +206,7 @@ The eight months the Babalist mobilization had required exposed the limits of ra
 
 Veronique enacted the **Rural Properties Act**, which gave Racpalian settlers priority over [[Konph]] land and drew the second wave of immigration from [[Gaiyan]]. Settlement concentrated in [[Legrinpija]], [[Imgospalje]], and [[Karlotopol'|Carlotopolis]], and the captaincy of Confia was created to administer the territory. Later in the reign the **General Government of the Lands of Confia** replaced it, headed by a Racpalian General Governor accountable directly to the monarch.
 
-The Konph resisted settlement. Veronique responded with the **[[Konph Territory Act]]**, which authorized the use of the army to remove Konphs from their homes into the [[Konph Territory]], the region that became Confia. The Konph Territory is a separate designation from the Tekur Territory, into which [[Jartes I]] deported the [[Tekur]] two generations later and which became [[New Celiolaj]].
+The Konph resisted settlement. Veronique responded with the **[[Konph Territory Act]]**, which authorized the use of the army to remove Konphs from their homes into the [[Konph Territory]], the region that became Confia. The Konph Territory is a separate designation from the Tekur Territory, into which [[Jartes I]] deported the [[Tekur]] two generations later in the [[March Against the Sun]], and which became [[New Celiolaj]].
 
 Conflict between Konph communities and Dripstanian settlements led Veronique to establish a segregated road system. Traditional Konph roads linking settlements were destroyed to impede coordination between them, and Dripstanian roads that Konphs were forbidden to travel were built in their place. Konph groups responded by organizing sabotage against the new roads.
 

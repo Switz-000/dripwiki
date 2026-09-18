@@ -23,7 +23,7 @@ The western coastal settlements of the early empire were established in the deca
 
 The eastern plains presented both opportunity and sustained danger. [[Armotism|Armotist]] settlers faced persistent conflict with indigenous populations throughout the settlement and early imperial periods, and Cericeiros operated in conditions of constant exposure to that conflict. The expansion they carried out was understood within the [[Fortress complex]] logic of the era as preemptive defense: pushing the frontier eastward was framed as securing the settlements rather than threatening indigenous peoples. The actual process involved prolonged violence and ultimately the displacement and destruction of indigenous communities across the eastern territories.
 
-The Tekur people were among those most directly affected. [[Emperor Jartes I]] ordered the forced deportation of approximately 350,000 Tekurs to the designated "Tekur Territory" in what is now [[New Celiolaj]], a march during which historical records indicate roughly 60% of the deportees died.
+The [[Tekur]] people were among those most directly affected. Under [[Jartes I]], the Tekur population of the [[Kingdom of Tekuria]] was deported to the Tekur Territory, in what is now [[New Celiolaj]], in the [[March Against the Sun]]; the majority of the deportees died on the march.
 
 ### Spread of civic institutions
 
@@ -65,6 +65,8 @@ The Cericeiro tradition is one of the primary channels through which [[Gun Cultu
 - [[Sužielaj]]
 - [[Troli]]
 - [[Tekur]]
+- [[Tekur Susians]]
+- [[March Against the Sun]]
 - [[Yatovarlaj]]
 - [[Cericeiro Heritage Week]]
 - [[Dripstanian Empire]]
@@ -72,7 +74,6 @@ The Cericeiro tradition is one of the primary channels through which [[Gun Cultu
 ---
 %%
 FLAGS:
-- "Eventual genocide": the Fortress Complex article and Society doc both reference genocide of indigenous peoples as the outcome of the frontier expansion. The Cericeiros were the primary agents of this expansion. The article acknowledges the violence and its outcome without editorializing, consistent with the encyclopedic register. The specific term "genocide" is used in the Fortress Complex vault article (established canon); this article does not repeat that framing but does not contradict it.
 - Yatovar: named in the Yatovarlaj city article and Susian Geography doc as "a famous Cericeiro" with the nickname meaning "Wanderer of the Plains." No further biographical detail in canon. Treated here as a historical figure of uncertain documentation rather than a confirmed biographical subject. Stub candidate when canon is developed.
 - "Constantly referenced in Susian literature": direct quote from the source doc. No specific works named in any source. The literature section is deliberately minimal to avoid fabrication. A TODO was not inserted as this is flagged here instead.
 - The Cericeiro article uses `type: concept` rather than a more specific type because Cericeiros are a social/cultural category rather than a single institution, person, or event. If a dedicated `type: tradition` or `type: movement` is preferred, adjust accordingly.
