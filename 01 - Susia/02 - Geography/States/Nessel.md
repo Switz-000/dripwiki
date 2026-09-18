@@ -61,7 +61,7 @@ At the outbreak of the [[Dripstanian Civil War]] in 1815 the dukes of Nessel joi
 
 > *Main article: [[Liberal Revolts]]*
 
-During the Liberal Revolts of 1840 to 1844, Nessel's Doremojists fought alongside the provinces as the [[Doremojian League]]. They sought greater autonomy from the empire and feared being "Konphed", destroyed as a people as the [[Konph]] had been, a fear sharpened by the empire's treatment of the Tekurs in the [[March Against the Sun]].
+During the Liberal Revolts of 1840 to 1844, Nessel's Doremojists fought alongside the provinces as the [[Doremojian League]]. They sought greater autonomy from the empire and feared being "Konphed", destroyed as a people as the [[Konph]] had been, a fear sharpened by the empire's treatment of the Tekurs in the [[March Against the Sun]] and by the memory of the [[Dripstanian Wars of Religion]] under [[Emperor Agamilos|Agamilos]].
 
 ### Late empire
 
@@ -108,7 +108,7 @@ Nessel is characterized by conservatism, religiosity and skepticism of [[Free Ec
 - SESSION CANON, set by the author: Nessel's Doremojists fought alongside the provinces in the Liberal Revolts, seeking autonomy and fearing being "Konphed" as was happening to the Tekurs; Nessel held more autonomy than the other provinces and in the 1900s could act in ways Dripia and Postia could not; Nesselian Doremojists are West Gaiyanese and differ markedly from the Armotists of the rest of the country; the prohibition on the retail sale of alcohol and its constitutional limits; drinking not regarded as a problem; the coming-of-age celebration ending with winter's friend.
 - INFERENCE: the [[Doremojian League]], listed among the rebellious participants of the [[Liberal Revolts]], is the organization under which Nessel's Doremojists fought.
 - "Konphed" is normalized from the author's spelling as a verb formed on [[Konph]].
-- PENDING CLARIFICATION, not written: the author also compared the Doremojist fear to "what the empire tried to do with Agamalios". No matching people, place or event exists in the vault; [[Emperor Agamilos]] (reigned 1686 to 1738) has no such episode recorded.
+- RESOLVED this session: the author's comparison to "what the empire tried to do with Agamalios" refers to the religious unification under [[Emperor Agamilos]], treated in [[Dripstanian Wars of Religion]].
 - The origin of Nessel's autonomy is not established. Whether it relates to the land promised to the dukes of Nessel in 1815 is not established and was not inferred.
 - The coming-of-age celebration has no name and no set age. The ritual role of alcohol in Doremojist practice beyond it is not established. Winter's friend is a candidate entry for [[List of susian foods and drinks]].
 - The date the retail prohibition was enacted is not established ("long" follows the author).
