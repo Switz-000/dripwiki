@@ -63,7 +63,7 @@ During this period TU began investing in political influence, providing financia
 
 > *Main article: [[Yário Kolkov]], [[Kolkovianism]]*
 
-During the same period TU hired [[Ňotrič Apaj]] as Philosophical Advisor, a position Apaj held until his death. Apaj's 1985 book "[[After Scarcity]]" provided TU with the moral framework its corporate culture required: a historically grounded argument that technological progress was the next stage of human civilization, and that the mission of expanding human knowledge and capability was not merely profitable but historically obligatory. Where Kolkov gave TU institutional language it never consented to provide, Apaj gave TU ethical language he provided deliberately.
+In 1985 TU contracted [[Ňotrič Apaj]] to write its training materials, funded him and promoted his work, and in 1988 gave him the largely honorary title of Philosophical Advisor, which he held until his death. Apaj's 1985 book "[[After Scarcity]]" provided TU with the moral framework its corporate culture required: a historically grounded argument that technological progress was the next stage of human civilization, and that the mission of expanding human knowledge and capability was not merely profitable but historically obligatory. Where Kolkov gave TU institutional language it never consented to provide, Apaj gave TU ethical language he provided deliberately.
 
 > *Main article: [[Ňotrič Apaj]]*
 
