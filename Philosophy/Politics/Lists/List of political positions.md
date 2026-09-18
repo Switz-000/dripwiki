@@ -218,7 +218,7 @@ The position that new housing construction, particularly higher-density infill d
 
 ### Conservatism
 
-Preservation of established social institutions, traditions, and hierarchies. A broad position across Dripstan; in Susia it runs from moderate constitutional conservatism to the traditionalist wing of the Coalition. The [[Coalition of State's Rights]] draws its strongest conservative support from rural and southern states: [[Vitrika]], [[Nessel]], and parts of [[Troli]]. The [[White Stork Party]] in [[Postia]] combines conservatism with anti-syndicalism.
+Preservation of established social institutions, traditions, and hierarchies. A broad position across Dripstan; in Susia it runs from moderate constitutional conservatism to the traditionalist wing of the Coalition. The [[Coalition of State's Rights]] draws its strongest conservative support from rural and southern states: [[Vitrika]], [[Nessel]], and parts of [[Troli]]. The [[White Stork Party]] in [[Postia]] combines conservatism with anti-syndicalism. [[Tekur Susians]] support the Coalition at above-average rates, as a tendency rather than a bloc.
 
 ### Progressivism
 
@@ -254,11 +254,11 @@ The expectation that minority communities adopt the dominant national culture ov
 
 ### Tekur Integrationism
 
-_(Susia-specific)_ Full civic and legal integration of the [[Tekur]] people into Susian society on equal terms. Achieved formally by 1997 under the [[Reconciliation Act]]; the debate has since shifted to the pace and depth of economic integration. The delay between 1954 and 1997 is the subject of significant historical debate: [[Suizo Soites|Soites]] excluded Tekurs from citizenship at the republic's founding because northern states would not have joined otherwise, a decision he privately acknowledged as moral cowardice.
+_(Susia-specific)_ Full civic and legal integration of the [[Tekur]] people into Susian society on equal terms. Achieved formally by 1997 under the [[Reconciliation Act]]; the debate has since shifted to the pace and depth of economic integration. The delay between 1954 and 1997, which followed from [[Suizo Soites|Soites']] concession to the northern states at the founding, is the subject of significant historical debate. See [[Tekur Susians]].
 
 ### Tekur Separatism
 
-_(Susia-specific)_ Autonomous or independent Tekur political institutions. A minority position; present in [[New Celiolaj]] regional politics but without significant national representation.
+_(Susia-specific)_ Autonomous or independent Tekur political institutions. A minority position; present in [[New Celiolaj]] regional politics but without significant national representation. Most [[Tekur Susians]] do not describe Susia as a colonial power.
 
 ### Cognitive Libertarianism
 
@@ -284,7 +284,7 @@ The variant that defines national membership through shared political commitment
 
 ### Susian Nationalism
 
-_(Susia-specific)_ A form of civic nationalism that defines Susian nationhood as a social contract between citizens and the constitutional order, known as _Hǎčech_, centered on a shared commitment to the perpetuation of the "Project of Liberty": democracy, property rights, free speech, and gun rights. Agreement on process rather than outcomes. As [[Suizo Soites|Soites]] articulated it: Susians are united not by blood, creed, or geography, but by agreement on how to settle their differences. The stance enables philosophical diversity: Versijians, Soitesians, and Kolkovians can hold different metaphysical foundations while supporting the same political system.
+_(Susia-specific)_ A form of civic nationalism that defines Susian nationhood as a social contract between citizens and the constitutional order, known as _Hǎčech_, centered on a shared commitment to the perpetuation of the "Project of Liberty": democracy, property rights, free speech, and gun rights. Agreement on process rather than outcomes. It distinguishes the nation, the compact among citizens and the constitutional order, from the state, the government that administers it and can violate it; the distinction underlies the civic reading of the [[Right to rebel|right to rebel]] as a duty. As [[Suizo Soites|Soites]] articulated it: Susians are united not by blood, creed, or geography, but by agreement on how to settle their differences. The stance enables philosophical diversity: Versijians, Soitesians, and Kolkovians can hold different metaphysical foundations while supporting the same political system.
 
 ### Ethnonationalism
 
@@ -366,7 +366,7 @@ The position that broad surveillance and intelligence powers are a necessary pri
 
 ### Right to Rebel
 
-_(Susia-specific)_ The constitutional position that citizens retain the right to overthrow a government that systematically violates natural rights. Derived from Versij's revolutionary principle and institutionalized in the Susian constitution. Practically linked to civic armament and the Sorzenko system: the right is meaningful only if citizens possess the means to exercise it.
+_(Susia-specific)_ The constitutional position that citizens retain the right to overthrow a government that systematically violates natural rights. Derived from Versij's revolutionary principle and institutionalized in the Susian constitution. Practically linked to civic armament and the Sorzenko system: the right is meaningful only if citizens possess the means to exercise it. A right in law and a duty in civic culture; see [[Right to rebel]].
 
 ---
 

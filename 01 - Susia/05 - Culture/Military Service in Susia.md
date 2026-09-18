@@ -48,7 +48,7 @@ Regardless of track, service produces a population with baseline competence in f
 
 The cross-class character of service is noted consistently in political commentary. A factory worker from [[Sužielaj]] and a [[Troli Ustaras|TU]] FEZ resident from [[Dripia]] are assigned to the same unit, eat the same food, and depend on each other in the same conditions. The [[Sorzenko]] system and the [[Hăjaven]] festival produce similar bonds at the local level; mandatory service extends them nationally.
 
-[[Tekur]] Susians enlist at rates above the national average, a pattern attributed to both strong civic engagement traditions within the community and the particular resonance of armed civic participation for a population that experienced formal statelessness until the [[Reconciliation Act]] of 1997.
+[[Tekur Susians]] enlist at rates above the national average. Historians give two explanations, most holding that both apply: the significance of civic participation for a population excluded from citizenship until the [[Reconciliation Act]] of 1997, and the conclusion Tekur political culture draws from the [[March Against the Sun]].
 
 ## The National Guard
 
@@ -85,5 +85,5 @@ Enhancement in the context of mandatory service is more limited. Conscripts serv
 - [[Cognitive Rights Act of 2061]]
 - [[Armadesh Versij]]
 - [[Continental Divide]]
-- [[Tekur]]
+- [[Tekur Susians]]
 - [[Reconciliation Act]]

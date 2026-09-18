@@ -59,7 +59,7 @@ Sorzenko culture is not uniform across [[Susia]]. In the eastern states, [[Misoc
 
 In the western states, particularly [[Dripia]] and [[Postia]], Sorzenkos exist but urban gun culture is more reserved. Gun ownership is normal but treated as a private matter by most city dwellers, who keep weapons at home rather than carrying openly. Urban Sorzenkos tend to be more recreational than civic in character.
 
-[[Tekur|Tekurs]] have notably higher rates of Sorzenko membership, weapon ownership, and military enlistment than the Susian average, a pattern that reflects both the community's strong civic engagement tradition and the particular significance of armed self-defense within a population that experienced state-sanctioned violence within living historical memory.
+[[Tekur Susians]] have notably higher rates of Sorzenko membership, weapon ownership, and military enlistment than the Susian average. Among the explanations historians give is the conclusion Tekur political culture draws from the [[March Against the Sun]], whose victims had been left without an armed force of their own before they were deported.
 
 In [[Nessel]], Sorzenkos exist but operate within the state's distinct [[Doremojism|Doremojist]] religious culture, giving them a somewhat different character from those in the [[Armotism|Armotist]] mainstream.
 

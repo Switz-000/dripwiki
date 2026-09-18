@@ -61,7 +61,7 @@ Susia's coastline along the Sea of Galil supports its major port infrastructure.
 
 The territory of modern Susia was settled beginning in 1651 by [[Armotism|Armotist]] refugees from the continent of [[Gaiyan]], fleeing religious persecution following the [[Armotist Revolution]]. The first permanent colony was established at [[Forchev]] in 1654. In 1674, [[Saint Emperor Mantichev|Saint Mantichev of Frajes]] convened the [[Convention of Forchev]], uniting the coastal kingdoms under a single imperial structure and founding the [[Dripstanian Empire]].
 
-Over the following two centuries, the empire expanded eastward through the settlement campaigns of the [[Cericeiros]], displacing and in large part destroying indigenous populations including the [[Tekur people]]. The [[Empress Veronique|reign of Empress Veronique]] (1740–1787) established the Dripstanian Senate, created a standing professional army, and oversaw the forced colonization of territories that became [[Confia]]. Under [[Jartes I]], the deportation of approximately 350,000 Tekurs to the designated [[New Celiolaj|Tekur Territory]] killed an estimated 60% of the deportees.
+Over the following two centuries, the empire expanded eastward through the settlement campaigns of the [[Cericeiros]], displacing and in large part destroying indigenous populations including the [[Tekur]]. The [[Empress Veronique|reign of Empress Veronique]] (1740–1787) established the Dripstanian Senate, created a standing professional army, and oversaw the forced colonization of territories that became [[Confia]]. Under [[Jartes I]], the Tekur population of the vassal [[Kingdom of Tekuria]] was deported to the Tekur Territory, now [[New Celiolaj]], in the [[March Against the Sun]]; the majority of the deportees died on the march.
 
 #### Liberal Revolts (1840–1844)
 
@@ -87,7 +87,7 @@ Open war began in 1975 after Susia's direct intervention in the [[Zaphonian Civi
 
 > _Main article: [[Post-war Susia]]_
 
-The post-war decades saw economic expansion, the growth of the corporations that would later become [[Yarnojte|Yarnojtes]], and the slow domestic unwinding of wartime legislation. The [[Tekur people|Tekur]] population, long economically marginalized and legally excluded, received citizenship in 1997. Susia developed nuclear weapons after the Continental War, though the technology arrived too late for wartime use; nuclear energy was adopted widely in the following decades. Confia joined the ODDN in 1993 and entered the [[Lasman Economic Initiative]] customs union with Susia in 2000.
+The post-war decades saw economic expansion, the growth of the corporations that would later become [[Yarnojte|Yarnojtes]], and the slow domestic unwinding of wartime legislation. The [[Tekur Susians|Tekur]] population, long economically marginalized and legally excluded, received citizenship in 1997. Susia developed nuclear weapons after the Continental War, though the technology arrived too late for wartime use; nuclear energy was adopted widely in the following decades. Confia joined the ODDN in 1993 and entered the [[Lasman Economic Initiative]] customs union with Susia in 2000.
 
 #### Global Cold War and the Great Transition (2006–2038)
 
@@ -144,7 +144,7 @@ The [[Frumentarze]] is Susia's federal intelligence agency, founded in 1956 and 
 
 #### Political parties
 
-Susia uses a [[Party Federation]] system, in which federal parties are composed of affiliated state parties that coordinate on federal policy. The three active federal groupings as of 2080 are the [[Coalition of State's Rights]], the [[Democratic-Federalist Party]], and the [[Modernist Alliance]]. The [[Susian Democratic Union]] and the [[Susian Liberal Party]], which dominated the republican era, dissolved in 2038 with its constituent parties splitting between the Coalition and the Democratic Federalists.
+Susia uses a [[Party Federation]] system, in which federal parties are composed of affiliated state parties that coordinate on federal policy. The three active federal groupings as of 2080 are the [[Coalition of State's Rights]], the [[Democratic-Federalist Party]], and the [[Modernist Alliance]]. The [[Susian Democratic Union]] and the [[Susian Liberal Party]], which dominated the republican era, dissolved in 2038 with its constituent parties splitting between the Coalition and the Democratic Federalists. Susian party politics is organized around ideology and state interest rather than ethnic or religious identity.
 
 ### Economy
 
@@ -264,7 +264,7 @@ The [[Cericeiro]] tradition, associated with the frontier horsemen who settled t
 
 #### Language and demography
 
-Susian is spoken by approximately 94% of the population. The [[Tekur people]] constitute a minority concentrated primarily in [[New Celiolaj]], where they represent approximately 40% of the state population. The [[Tekur people|Tekur]] were granted citizenship in 1997 under the [[Reconciliation Act]].
+Susian is spoken by approximately 94% of the population. [[Tekur Susians]] constitute a minority concentrated primarily in [[New Celiolaj]], where they represent approximately 40% of the state population. They were granted citizenship in 1997 under the [[Reconciliation Act]].
 
 #### Cognitive enhancement
 
@@ -276,7 +276,7 @@ Susian is spoken by approximately 94% of the population. The [[Tekur people]] co
 
 > _Main article: [[List of susian holidays]]_
 
-Federal public holidays include [[Hăjaven]], [[Versij Day]] (marking [[Armadesh Versij]]'s execution in 1844), [[Foundation Day]] (commemorating the [[Tahuni Accords]] of 1954), [[Liberation Day]] (marking the end of the [[Continental War]] in 1977), [[Reconciliation Day]] (marking [[Tekur people|Tekur]] citizenship in 1997), [[Saint Mantichev Day]], [[Veteran's Day]], and [[Democracy Day]].
+Federal public holidays include [[Hăjaven]], [[Versij Day]] (marking [[Armadesh Versij]]'s execution in 1844), [[Foundation Day]] (commemorating the [[Tahuni Accords]] of 1954), [[Liberation Day]] (marking the end of the [[Continental War]] in 1977), [[Reconciliation Day]] (marking [[Tekur Susians|Tekur]] citizenship in 1997), [[Saint Mantichev Day]], [[Veteran's Day]], and [[Democracy Day]].
 
 ### See also
 
@@ -300,7 +300,7 @@ Federal public holidays include [[Hăjaven]], [[Versij Day]] (marking [[Armadesh
 - [[Reformed Armotism]]
 - [[Sorzenko]]
 - [[Cericeiro]]
-- [[Tekur people]]
+- [[Tekur Susians]]
 - [[Cognitive enhancement]]
 - [[Crolball]]
 - [[Susian language]]

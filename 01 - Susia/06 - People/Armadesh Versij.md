@@ -225,6 +225,12 @@ A statement attributed to him at the execution is the most widely circulated lin
 
 Versij's philosophy is one of the three intellectual traditions taught in the national civics curriculum, alongside [[Suizo Soites|Soites']] pragmatic liberalism and [[Yário Kolkov|Kolkov's]] competitive governance theory. Within [[Susian Exceptionalism]] it supplies the secular and universalist strand: the claim that Susian institutions are worth defending not because they are Susian but because they encode discovered truths about freedom. That framing is also the philosophical basis of [[Democratic evangelism]], which reasons that if rights are universal then their denial abroad is a wrong Susia has standing to address.
 
+### Among Tekur Susians
+
+> *Main article: [[Tekur Susians]]*
+
+Versij is held in high regard among Tekur Susians, whose political culture treats his argument that undefended rights are privileges as demonstrated by the [[March Against the Sun]]. Whether Versij had the deportation in mind is not established.
+
 ### Commemoration
 
 [[Versij Day]] is a federal public holiday marking the 1844 execution. [[Versijian Square]] in Neoveli, the site of the 1840 assembly, is now ringed by banks. The idiom "Versij died for this?" is used to register disappointment at mediocrity or institutional failure, the joke resting on the distance between the sacrifice and the occasion.
@@ -258,6 +264,7 @@ Versijism and [[Neoversijism]] are recognized traditions in Susian political phi
 - [[Ňotrič Apaj]]
 - [[Rights]]
 - [[Right to rebel]]
+- [[Tekur Susians]]
 - [[Gun Culture in Susia]]
 - [[Sorzenko]]
 - [[Susian Constitution]]
@@ -273,6 +280,7 @@ Versijism and [[Neoversijism]] are recognized traditions in Susian political phi
 
 - The article had no body before this pass. All body content is summarized from existing Tier 1 vault articles. No new facts invented beyond the two session decisions recorded below.
 - SESSION CANON, not yet in any dedicated article: the general government of the Federated Provinces of Galil was a body of three equals in which Versij became de facto leader over the course of the war, as the Paroska and Satratonie rivalry hardened. Belongs primarily to a [[Federated Provinces of Galil]] or [[Liberal Revolts]] article once written. The prior frontmatter office "Presiding Councillor of the Federated Provinces of Galil" was removed: no formal presiding title existed, and neither [[Jartes II]] nor the [[Susia]] country article names one.
+- Among Tekur Susians subsection added in a later session. Its content lives in [[Tekur Susians]] and [[March Against the Sun]].
 - SESSION CANON, not yet in any dedicated article: [[Architecture of Freedom]] was written at Versij's house in [[Neoveli]] before Jartes II's crackdown and published from exile in [[Gaiyan]] in 1838. Resolves the apparent conflict between [[Soites Group]], which places the writing in Neoveli, and [[Jartes II]] and [[Gun Culture in Susia]], which place his continued writing in exile. Both articles stand as written.
 - The specific content of the Paroska and Satratonie rivalry is not established here. [[Countess of Jafnidia]] is linked from [[Cericeiro honor code]] but has no article and no established relation to the dispute.
 - charged_year and verdict_year both set to 1844 per session decision.

@@ -199,7 +199,7 @@ Yaneoli died of tuberculosis in 1815, at the age of 63.
 
 Yaneoli left two heirs and no settled succession. Prazde was the heir to the throne at Neoveli and was crowned in 1815, holding the Dripstanian and Zaphonian crowns at once. Jartes contested the succession, and the [[Dripstanian Civil War]] that followed ran for eight years and ended in his victory.
 
-The vassal arrangements she created outlasted her. Zaphonia remained under Dripstanian suzerainty, and the Kingdom of Tekuria survived until the reign of Jartes I, who deported the Tekur population it had been created to govern.
+The vassal arrangements she created outlasted her. Zaphonia remained under Dripstanian suzerainty, and the Kingdom of Tekuria survived until the reign of Jartes I, who deported the Tekur population it had been created to govern in the [[March Against the Sun]].
 
 ## See also
 
