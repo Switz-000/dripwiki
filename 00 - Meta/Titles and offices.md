@@ -31,4 +31,13 @@ offices:
     tags:
       - politics/governance
       - politics/elections
+  - name: President of Susia
+    list: List of presidents of Susia
+    kind: seat
+    summary: Presidents of Susia in order of taking office.
+    era:
+      - republican-era
+    tags:
+      - politics/governance
+      - politics/elections
 ```
