@@ -508,7 +508,7 @@ meta:
 
 ## 1994
 - **Dissolved** — [[Postian Free Farmers]]
-- **Publication** — *[[Food for the Fools]]* by [[Yário Kolkov]] — *Essay on political demagogues, attacking not the demagogues but the audience who feeds from them and the institutions that allow them. Considered controversial at its time.*
+- **Publication** — *[[Food for the Fools]]* by [[Yário Kolkov]] — *Essay on political demagogues, attacking not the demagogues but the audience who feeds from them and the institutions that allow them. Considered controversial at its time. Includes his critique of the treatment of Versij as a saint, with the Supreme Court as its example.*
 
 ## 1995
 - **Death** — [[Suizo Soites]] died in [[Orlítia]] (Natural causes)
@@ -525,7 +525,7 @@ meta:
 
 ## 1997
 - **Founded** — [[Atom Party]]
-- **Publication** — *[[Evolution of Governance]]* by [[Yário Kolkov]] — *Central statement of Kolkovianism. Argues democracy is an evolutionary organism rather than a fixed structure. Became assigned reading at multiple universities and the text most cited by the Modernist Alliance.*
+- **Publication** — *[[Evolution of Governance]]* by [[Yário Kolkov]] — *Central statement of Kolkovianism. Argues democracy is an evolutionary organism rather than a fixed structure. Became assigned reading at multiple universities and the text most cited by the Modernist Alliance. Returns to and expands the critique of the Supreme Court first made in Food for the Fools.*
 
 ## 1998
 - **End of tenure** — [[Ganzer Teahowić]] leaves Commissar of Health at [[North Nijbania]]
