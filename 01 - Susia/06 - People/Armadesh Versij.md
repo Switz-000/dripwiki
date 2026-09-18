@@ -243,6 +243,12 @@ Versijism and [[Neoversijism]] are recognized traditions in Susian political phi
 
 [[Modernism]] names Versijian liberalism among its intellectual influences. Abroad, [[Kunsek Aljerni]]'s [[Liberty!]] in [[Confia]] is classed as neo-Versijian libertarianism, and the [[Democratizing Multinational Force in Ditania]] adopted Versijism as its official ideology between 1986 and 1994.
 
+### Criticism
+
+> *Main article: [[Supreme Court of Susia#Kolkov's critique]]*
+
+[[Yário Kolkov]] was not hostile to Versij, but attacked him provocatively to draw a reaction and open wider debate. His central objection was that Susia treated Versij as a saint, as the empire had treated its dead emperors, and his principal example was the Supreme Court.
+
 ## Miscellaneous
 
 - The [[Neoveli]] house where Versij wrote [[Architecture of Freedom]] is now a [[Soitesmart]]. The Versij museum on the upper floor is free, and is reached through the store.
@@ -280,6 +286,7 @@ Versijism and [[Neoversijism]] are recognized traditions in Susian political phi
 
 - The article had no body before this pass. All body content is summarized from existing Tier 1 vault articles. No new facts invented beyond the two session decisions recorded below.
 - SESSION CANON, not yet in any dedicated article: the general government of the Federated Provinces of Galil was a body of three equals in which Versij became de facto leader over the course of the war, as the Paroska and Satratonie rivalry hardened. Belongs primarily to a [[Federated Provinces of Galil]] or [[Liberal Revolts]] article once written. The prior frontmatter office "Presiding Councillor of the Federated Provinces of Galil" was removed: no formal presiding title existed, and neither [[Jartes II]] nor the [[Susia]] country article names one.
+- Criticism subsection added in a later session from author-supplied canon; the argument lives in [[Supreme Court of Susia]].
 - Among Tekur Susians subsection added in a later session. Its content lives in [[Tekur Susians]] and [[March Against the Sun]].
 - SESSION CANON, not yet in any dedicated article: [[Architecture of Freedom]] was written at Versij's house in [[Neoveli]] before Jartes II's crackdown and published from exile in [[Gaiyan]] in 1838. Resolves the apparent conflict between [[Soites Group]], which places the writing in Neoveli, and [[Jartes II]] and [[Gun Culture in Susia]], which place his continued writing in exile. Both articles stand as written.
 - The specific content of the Paroska and Satratonie rivalry is not established here. [[Countess of Jafnidia]] is linked from [[Cericeiro honor code]] but has no article and no established relation to the dispute.

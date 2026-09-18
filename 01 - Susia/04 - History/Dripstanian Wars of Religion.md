@@ -1,6 +1,6 @@
 ---
 type: war
-summary: Series of intermittent religious conflicts spanning 47 years of the reign of Emperor Agamilos, fought between the crown and a shifting opposition of peasant revolts, dissident religious movements and rebellious duchies allied with Konph states. Agamilos united the three largest Armotist denominations into a single church under the emperor, and the rivalry of their universities became the origin of the empire's legal and educational systems.
+summary: Series of intermittent religious conflicts spanning 47 years of the reign of Emperor Agamilos, fought between the crown and a shifting opposition of peasant revolts, dissident religious movements and rebellious duchies allied with Konph states. Agamilos united the three largest Armotist denominations into a single church under the emperor, and the rivalry of their universities became the origin of the empire's highest court and its university system.
 aliases:
   - Wars of Religion
 era:
@@ -18,7 +18,7 @@ meta:
   image: null
 ---
 
-The **Dripstanian Wars of Religion** were a series of intermittent conflicts in the [[Dripstanian Empire]] spanning 47 years of the reign of [[Emperor Agamilos]] (1686–1738). They were fought between the imperial army, loyal dukes and religious militias on one side and a shifting opposition of peasant revolts, dissident religious movements and rebellious duchies, some allied with [[Konph]] states, on the other. Agamilos united the empire's three largest [[Armotism|Armotist]] denominations into a single church under the emperor, and the rivalry of their universities became the origin of the empire's legal and educational systems.
+The **Dripstanian Wars of Religion** were a series of intermittent conflicts in the [[Dripstanian Empire]] spanning 47 years of the reign of [[Emperor Agamilos]] (1686–1738). They were fought between the imperial army, loyal dukes and religious militias on one side and a shifting opposition of peasant revolts, dissident religious movements and rebellious duchies, some allied with [[Konph]] states, on the other. Agamilos united the empire's three largest [[Armotism|Armotist]] denominations into a single church under the emperor, and the rivalry of their universities became the origin of the empire's highest court and its university system.
 
 ## Background
 
@@ -36,9 +36,11 @@ Agamilos brought the three largest denominations into a single church. The three
 
 ### Universities
 
-Each of the three denominations founded a university to study its own interpretation of the Holy Ladan. These were the first universities of the empire, established as traditional Armotist educational institutions. They competed through public debates and contests, and the object of the rivalry was to place their scholars among the eleven justices. The empire's systems of law and of higher education both originated in this theological rivalry.
+Each of the three denominations founded a university to study its own interpretation of the Holy Ladan. These were the first universities of the empire, established as traditional Armotist educational institutions. They competed through public debates and contests, and the object of the rivalry was to place their scholars among the eleven justices. The empire's highest court and its universities both originated in this theological rivalry.
 
 ## Aftermath
+
+Over the imperial era the eleven-member body grew into the empire's highest court. In 1954 it was re-established as the [[Supreme Court of Susia]], with the constitution in place of the Ladan.
 
 The memory of the wars was among the fears that brought the [[Doremojism|Doremojists]] of [[Nessel]] into the [[Liberal Revolts]] in 1840.
 
@@ -58,8 +60,8 @@ The memory of the wars was among the fears that brought the [[Doremojism|Doremoj
 
 %% FLAGS:
 
-- SESSION CANON, set by the author: the wars spanned 47 years of Agamilos's reign and were intermittent rather than continuous; the sides as stated in the body; the empire was divided among many churches and denominations at his accession; Agamilos united the three largest, centered on Piyejňe, Kruie ro Yietre and Poremoj; the emperor became head of the church; a single body of eleven justices ruled on the official interpretation of the Holy Ladan; each denomination founded a university, the first in the empire, and they competed through debates and contests to place scholars among the justices; the empire's legal and educational systems originated in that rivalry; Nessel's Doremojists remembered the period among their fears in 1840.
-- PENDING AUTHOR DECISION, not written: the author states that the eleven-member body evolved into the [[Supreme Court of Susia]]. That article states the Court was established in 1954 and that its creation followed from Versij's constitutional theory, and its TODO treats court size, life tenure, sealed deliberation and unsigned opinions as design debates of the 1954 convention. The link is held until the author rules on how the two fit.
+- SESSION CANON, set by the author: the wars spanned 47 years of Agamilos's reign and were intermittent rather than continuous; the sides as stated in the body; the empire was divided among many churches and denominations at his accession; Agamilos united the three largest, centered on Piyejňe, Kruie ro Yietre and Poremoj; the emperor became head of the church; a single body of eleven justices ruled on the official interpretation of the Holy Ladan; each denomination founded a university, the first in the empire, and they competed through debates and contests to place scholars among the justices; the empire's highest court and its universities originated in that rivalry (narrowed this session, with the author's agreement, from the empire's law and education systems as a whole); Nessel's Doremojists remembered the period among their fears in 1840.
+- RESOLVED: the eleven-member body became the [[Supreme Court of Susia]] in 1954. The reconciliation with that article's 1954 founding is recorded in its flags.
 - The three denominations are unnamed; the author's names are placeholders not yet set. The united church, the eleven-member body and the three universities are also unnamed. None of the universities appears in [[List of susian universities]], whose oldest entry is the [[University of Duolij]] (1767).
 - date_start and date_end left blank. The 47 years fall within the 52-year reign, 1686 to 1738; the start and end years are not established.
 - Whether Doremojism was among the denominations outside the settlement, or among those condemned as heretical, is not established.

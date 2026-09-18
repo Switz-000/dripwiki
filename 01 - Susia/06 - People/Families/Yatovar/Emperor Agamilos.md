@@ -158,7 +158,7 @@ Mantichev was assassinated in 1686 without children. The succession law passed t
 
 > *Main article: [[Dripstanian Wars of Religion]]*
 
-Agamilos's reign was dominated by the Dripstanian Wars of Religion, a series of intermittent conflicts spanning 47 years between the crown and a shifting opposition of peasant revolts, dissident religious movements and rebellious duchies, some allied with [[Konph]] states. Agamilos brought the three largest [[Armotism|Armotist]] denominations into a single church with the emperor as its head, and a body of eleven justices to rule on the official interpretation of the Holy [[Ladan]]. The universities the three denominations founded, the first in the empire, competed to place their scholars on that body, and the empire's legal and educational systems grew out of their rivalry.
+Agamilos's reign was dominated by the Dripstanian Wars of Religion, a series of intermittent conflicts spanning 47 years between the crown and a shifting opposition of peasant revolts, dissident religious movements and rebellious duchies, some allied with [[Konph]] states. Agamilos brought the three largest [[Armotism|Armotist]] denominations into a single church with the emperor as its head, and a body of eleven justices to rule on the official interpretation of the Holy [[Ladan]]. The universities the three denominations founded, the first in the empire, competed to place their scholars on that body, and the empire's highest court and its university system grew out of their rivalry.
 
 In 1732 the [[Units of measurement|treye]], an imperial unit of length inherited from [[Gaiyan]], was standardised at the length of Agamilos's thumb, fixed at 2.37 centimetres. The unit remains in use and operates on an inverse scale.
 
@@ -195,7 +195,7 @@ A regency governed the empire for two years while the question was argued. In 17
 - The regency council of 1738 to 1740 is recorded in [[List of Dripstanian emperors]]. No article exists for it, and the [[Council of Governors]] that decided the claim has none either.
 - Body added from author-supplied material on the first three reigns, translated from Portuguese. No conflict with existing canon was found for this reign.
 - The accession precedent, that the crown descended within the house rather than reverting to election among the captaincies, is an inference from the succession law passing to a brother rather than to the convention. Labelled as inference.
-- The substance of the 52-year reign was added in a later session from author-supplied canon, treated in full in [[Dripstanian Wars of Religion]]. The author's statement that the eleven-member body became the [[Supreme Court of Susia]] is held there pending a decision, as it conflicts with that article's 1954 founding.
+- The substance of the 52-year reign was added in a later session from author-supplied canon, treated in full in [[Dripstanian Wars of Religion]]. The eleven-member body's later history as the [[Supreme Court of Susia]] is treated in that article.
 - CONTRADICTION, unresolved, carried from the family chart: the chart places both his parents' deaths at 297 AS, 1653, and his own birth at 293 AS, 1657.
 
 %%
