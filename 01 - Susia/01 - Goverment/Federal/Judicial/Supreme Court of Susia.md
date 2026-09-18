@@ -62,7 +62,9 @@ The Court issues each decision as a single opinion attributed to the Court as a 
 
 ### Kolkov's critique
 
-[[Yário Kolkov]] criticized the Court in [[Food for the Fools]] (1994) and returned to the argument at greater length in [[Evolution of Governance]] (1997). His target was less Versij's philosophy than the treatment of Versij: the republic, he argued, treated Versij as a saint, as the empire had treated its dead emperors, and the Court was his principal example. In his account the Court did as much for the governance of the republic as the eleven-member tribunal had done for the empire, which had not survived. The problem of governance, he argued, was not bad ideas but the inability to exchange bad ideas for good ones, and he read the previous five centuries of history as the record of that failure. In his formulation the constitution was the republic's Holy Ladan. Versijians have generally received the comparison as a compliment.
+[[Yário Kolkov]] criticized the Court in [[Food for the Fools]] (1994) and returned to the argument at greater length in [[Evolution of Governance]] (1997). His target was less Versij's philosophy than the treatment of Versij: the republic, he argued, treated Versij as a saint, as the empire had treated its dead emperors, and the Court was his principal example. In his account the Court did as much for the governance of the republic as the eleven-member tribunal had done for the empire, which had not survived. Bad ideas, he argued, are plentiful and hard to tell from good ones until it is too late. The problem of governance was therefore not bad ideas but the inability to exchange them for good ones, and a system of government had to be able to change; he read the previous five centuries of history as the record of that failure. In his formulation the constitution was the republic's Holy Ladan.
+
+Versijians adopted the comparison as a point of pride, and some use it openly. Kolkov watched the adoption with disappointment.
 
 ## See Also
 
@@ -81,7 +83,7 @@ The Court issues each decision as a single opinion attributed to the Court as a 
 - RESOLVED conflict: the article previously stated that the Court was established in 1954 and that its creation followed from Versij's theory. Both stand: the Court was established in 1954 as a constitutional court, its form was inherited, and Versij's theory supplied the justification for keeping it.
 - The former TODO treated court size, life tenure, sealed deliberation and unsigned opinions as design debates of the 1954 convention. Rewritten so that the convention debated whether to keep the inherited form.
 - Whether the 20-year term of the seal is inherited or was set in 1954 is not established.
-- SESSION CANON, set by the author: Kolkov's critique in Food for the Fools and Evolution of Governance, as written. "Versijians have generally received the comparison as a compliment" renders the author's remark that they would take it as one. A further remark by the author on the supply of bad ideas was ambiguous and is not rendered.
+- SESSION CANON, set by the author: Kolkov's critique in Food for the Fools and Evolution of Governance, as written, including that bad ideas are plentiful and hard to tell from good ones until too late; the Versijian adoption of the Holy Ladan comparison as a point of pride, some using it openly; Kolkov's disappointment at the adoption.
 - History and Structure raised from ### to ## to follow the style guide; the article previously skipped a level.
 - era left at republican-era and techno-federative-era. The imperial predecessor is treated in the History section only and has no article or name of its own.
 - The members of the imperial body are called justices following the author.
