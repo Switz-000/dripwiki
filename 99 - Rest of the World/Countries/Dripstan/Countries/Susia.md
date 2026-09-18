@@ -29,7 +29,7 @@ continent: Dripstan
 borders_east:
   - "[[Confia]]"
   - "[[Zaphonia]]"
-  - "[[-Repo/99 - Rest of the World/Countries/Dripstan/Countries/Drippalia]]"
+  - "[[Drippalia]]"
 borders_west:
   - "[[Sea of Galil]]"
 borders_north:
@@ -44,7 +44,7 @@ tags:
   - economy/corporate
   - culture/firearms
 ---
-**Susia**, officially the **Techno-Federative Republic of Susia**, is a federal presidential republic located on the [[Dripstan]] continent, bordered by [[Confia]] to the east, [[-Repo/99 - Rest of the World/Countries/Dripstan/Countries/Drippalia]] to the northeast, [[Zaphonia]] to the southeast, [[Astofayan]] and [[Sutsa-Fuhu]] to the south, and the [[Sea of Galil]] to the west and north. The country was established in 1954 following the dissolution of the [[Dripstanian Empire]] through the [[Tahuni Accords]], and adopted its current constitutional framework in 2038 following the [[The Great Transition|Great Transition]]. With a population of approximately 247 million and a GDP of D$62.5 trillion as of 2080, Susia is the most economically developed nation on the Dripstanian continent and the founder of the [[ODDN]] liberal-capitalist bloc.
+**Susia**, officially the **Techno-Federative Republic of Susia**, is a federal presidential republic located on the [[Dripstan]] continent, bordered by [[Confia]] to the east, [[Drippalia]] to the northeast, [[Zaphonia]] to the southeast, [[Astofayan]] and [[Sutsa-Fuhu]] to the south, and the [[Sea of Galil]] to the west and north. The country was established in 1954 following the dissolution of the [[Dripstanian Empire]] through the [[Tahuni Accords]], and adopted its current constitutional framework in 2038 following the [[The Great Transition|Great Transition]]. With a population of approximately 247 million and a GDP of D$62.5 trillion as of 2080, Susia is the most economically developed nation on the Dripstanian continent and the founder of the [[ODDN]] liberal-capitalist bloc.
 ### Geography
 
 Susia occupies the western portions of the [[Dripstan]] continent, covering nine states and one federal district. The [[Neutral District]], which contains the capital [[Soiteslaj]], is an enclave surrounded entirely by the state of [[Misocévia]].

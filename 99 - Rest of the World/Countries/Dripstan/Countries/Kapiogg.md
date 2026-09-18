@@ -34,9 +34,9 @@ tags:
     
 - Region was formed by many different Tekur states, eventually Dolly Igorson led a effort to unify all Tekur states from 1943 to 1948
     
-- This however culminated in the [[First War of the Forest]] (1948), fought between Kapiogg and the confederation of Dripland. Dolly failed at annexing the confederation.
+- This however culminated in the [[First War of the Forest]] (1948), fought between Kapiogg and the confederation of [[Drippalia]]. Dolly failed at annexing the confederation.
     
-- [[-Repo/99 - Rest of the World/Countries/Dripstan/Countries/Drippalia]] invaded Kapiogg to annex its western provinces leading to the [[Second War of the Forest]] (1958-1960), Drippalia lost and it was split in half between [[Confia]] and Kapiogg
+- [[Drippalia]] invaded Kapiogg to annex its western provinces leading to the [[Second War of the Forest]] (1958-1960), Drippalia lost and it was split in half between [[Confia]] and Kapiogg
     
 - Kapiogg founded the [[ONND]] alongside [[Susia]] and [[Astofayan]] to contain Confia. Susia conditioned Kapiogg’s entry to the bloc if it would agree to gradually transition from an absolute monarchy into a parliamentary one.
     

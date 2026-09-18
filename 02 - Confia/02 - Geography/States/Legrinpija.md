@@ -13,7 +13,7 @@ population_1970:
 hemisphere:
 macroregion: northest
 borders_north:
-  - "[[-Repo/99 - Rest of the World/Countries/Dripstan/Countries/Drippalia]]"
+  - "[[Drippalia]]"
 borders_east:
   - "[[Susia]]"
 borders_south:
