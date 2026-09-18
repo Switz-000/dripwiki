@@ -254,7 +254,7 @@ The expectation that minority communities adopt the dominant national culture ov
 
 ### Tekur Integrationism
 
-_(Susia-specific)_ Full civic and legal integration of the [[Tekur]] people into Susian society on equal terms. Achieved formally by 1997 under the [[Reconciliation Act]]; the debate has since shifted to the pace and depth of economic integration. The delay between 1954 and 1997, which followed from [[Suizo Soites|Soites']] concession to the northern states at the founding, is the subject of significant historical debate. See [[Tekur Susians]].
+_(Susia-specific)_ Full civic and legal integration of the [[Tekur]] people into Susian society on equal terms. Achieved formally by 1997 under the [[Reconciliation Act]]; the debate has since shifted to the pace and depth of economic integration. The delay between 1954 and 1997, which followed from [[Suizo Soites|Soites']] concession to the northern states of [[Nessel]] and [[New Celiolaj]] at the founding, is the subject of significant historical debate. See [[Tekur Susians]].
 
 ### Tekur Separatism
 

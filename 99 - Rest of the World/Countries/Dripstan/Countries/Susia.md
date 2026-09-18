@@ -73,7 +73,7 @@ Over the following two centuries, the empire expanded eastward through the settl
 
 > _Main article: [[Tahuni Accords]]_
 
-Following the [[War of Confian Secession]] (1927–1950), the empire was partitioned into two autonomous provinces. After the death of Emperor Soliman in 1950, negotiations produced the [[Tahuni Accords]] of 1954, which dissolved the [[Dripstanian Empire]] and established Susia and [[Confia]] as independent successor states. In Susia, [[Suizo Soites]] led negotiations between the former imperial provinces through the [[National Agreement]], allowing the country to unify under a single constitutional framework. Soites was elected the republic's first president in 1954.
+Following the [[War of Confian Secession]] (1927–1950), the empire was partitioned into two autonomous provinces. After the death of Emperor Soliman in 1950, negotiations produced the [[Tahuni Accords]] of 1954, which dissolved the [[Dripstanian Empire]] and established Susia and [[Confia]] as independent successor states. In Susia, [[Suizo Soites]] led negotiations between the former imperial provinces through the [[National Agreement]], allowing the country to unify under a single constitutional framework. The accession of the northern states, [[Nessel]] and [[New Celiolaj]], was secured by excluding the [[Tekur Susians|Tekur]] population from citizenship. Soites was elected the republic's first president in 1954.
 
 #### Continental Divide and Continental War (1957–1977)
 
