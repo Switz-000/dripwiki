@@ -189,7 +189,7 @@ Kolkov worked as an engineer at Nayotai from 1982 to 1987. The experience became
 
 ### Troli Ustaras
 
-He joined TU in 1987. The company's training materials had been co-authored by [[Ňotrič Apaj]], who wrote them under contract in 1985. At the ceremony marking the end of Kolkov's training, Apaj shook his hand, addressed him by name and congratulated him, then moved on to the next trainee.
+He joined TU in 1987. The company's training materials had been co-authored by [[Ňotrič Apaj]], who wrote them under contract in 1985. At the ceremony marking the end of Kolkov's training, Apaj shook his hand, addressed him by name and congratulated him, then moved on to the next pioneer, as TU calls its employees.
 
 TU has a tradition in which three senior engineers and the junior employee of the month present the first-quarter results at a shareholder conference. Kolkov presented at one such conference, following a speech by Apaj alongside the company's president. He reported that his department's results were underwhelming, and a coworker beside him began to cry and had to be removed, to the embarrassment of the team and of the executives.
 
@@ -320,7 +320,7 @@ TU named the [[Kolkov Institute for Innovation]] (2002), the [[Kolkov Award for 
 - The Apaj material previously lived in [[Ňotrič Apaj]], including the "sacred text" line and the softening of Kolkov's view. This article is now its home; Apaj's article summarizes and links.
 - The years of the training ceremony (1987 or 1988) and of the shareholder conference (1988 or 1989) are not established. Whether Kolkov presented as a senior engineer or as junior employee of the month is not established.
 - The year of Apaj's letter and of the university interview are not established; both fall after 1997.
-- TU's name for its trainees is rendered as "trainee"; the author's "pioneer" may be TU's in-house term and is a candidate for [[Troli Ustaras]] Corporate culture.
+- RESOLVED: "pioneer" is TU's term for its employees, and "little pioneers" for the children of the [[Susian Innovation Center]]. Recorded in [[Troli Ustaras]] Corporate culture.
 - Terminology: [[Troli Ustaras]] says TU quoted Kolkov "in ways Kolkov publicly rejected", while in the 2009 interview he declines to repudiate TU publicly. The interview itself is public, so the two are reconcilable; not changed.
 - The heading order follows the person template: Early Life, primary activity, Personal Life, Legacy. The existing Quotes section is kept after Legacy.
 - Links to pages that do not exist: [[Letters to a Dead Republic]], [[Food for the Fools]], [[Evolution of Governance]], [[The Tyranny of Order]], [[Democracy as an Organism]], [[Dead Man's Wit]], [[Kolkov Institute for Innovation]], [[Kolkov Award for Engineering]], [[Kolkov Learning Center]], [[University of New Kentu]], [[University of New Duloc]], [[Modernist Alliance]]. [[Kolkovianism]] is a stub.
