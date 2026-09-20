@@ -20,4 +20,9 @@ meta:
 person articles. Edit those articles, not this block. %%
 
 %% holders:start %%
+
+| No. | Name | Term | Party | Appointed by |
+| :-: | --- | :-: | --- | --- |
+| 1 | [[Lorelaj Paulowić]] | 1955 - 1977 | [[Confian Syndicalist Union]] | [[Confian Syndicalist Union]] |
+
 %% holders:end %%

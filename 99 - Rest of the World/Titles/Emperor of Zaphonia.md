@@ -20,4 +20,9 @@ meta:
 person articles. Edit those articles, not this block. %%
 
 %% holders:start %%
+
+| No. | Name | Term | Appointed by | Notes |
+| :-: | --- | :-: | --- | --- |
+|  | [[Lekhertos]] | ? - ? | [[Hereditary succession]] | Accepted vassalage under the [[Dripstanian Empire]]. Succeeded by [[Empress Prazde]]. |
+
 %% holders:end %%

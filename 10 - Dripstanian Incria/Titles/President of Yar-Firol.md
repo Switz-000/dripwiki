@@ -20,4 +20,9 @@ meta:
 person articles. Edit those articles, not this block. %%
 
 %% holders:start %%
+
+| No. | Name | Term |
+| :-: | --- | :-: |
+| 1 | [[Bejňar Keke]] | 1962 - 1989 |
+
 %% holders:end %%

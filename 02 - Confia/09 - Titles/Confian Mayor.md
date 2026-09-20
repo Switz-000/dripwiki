@@ -26,4 +26,11 @@ meta:
 person articles. Edit those articles, not this block. %%
 
 %% holders:start %%
+
+### Mayor of Imgospalje
+
+| No. | Name | Term | Party | Election |
+| :-: | --- | :-: | --- | --- |
+| 1 | [[Lenseka Japlenowina]] | 1996 - 2002 | [[Mi, Niteraljci!]] | [[1996 Imgospalje mayoral elections]] |
+
 %% holders:end %%

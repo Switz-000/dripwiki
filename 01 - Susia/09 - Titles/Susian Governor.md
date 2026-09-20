@@ -50,4 +50,11 @@ meta:
 person articles. Edit those articles, not this block. %%
 
 %% holders:start %%
+
+### Governor of Postia
+
+| No. | Name | Term | Party |
+| :-: | --- | :-: | --- |
+| 1 | [[Filevir Matri]] | 1954 - 1962 | [[Susian Democratic Union]] |
+
 %% holders:end %%

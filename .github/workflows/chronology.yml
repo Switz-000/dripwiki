@@ -44,8 +44,8 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add CHRONOLOGY.md
-          git add -A Lists
+          git add CHRONOLOGY.md chronology.json
+          git add -A -- Lists '*Titles/*.md'
           # only commit if there's actually a diff
           git diff --cached --quiet || git commit -m "chore: update CHRONOLOGY.md and Lists [skip ci]"
           git push

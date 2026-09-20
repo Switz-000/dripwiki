@@ -33,4 +33,34 @@ meta:
 person articles. Edit those articles, not this block. %%
 
 %% holders:start %%
+
+### President of the Confian Nation (? - 1958)
+
+| No. | Name | Term | Party | Appointed by |
+| :-: | --- | :-: | --- | --- |
+| 1 | [[Lorelaj Paulowić]] | 1956 - 1958 | [[Confian Syndicalist Union]] | [[National Assembly of Confian Syndicates]] |
+
+### Leader of the Confian Nation (1958 - 1977)
+
+| No. | Name | Term | Party | Appointed by | Notes |
+| :-: | --- | :-: | --- | --- | --- |
+| 1 | [[Lorelaj Paulowić]] | 1958 - 1977 | [[Confian Syndicalist Union]] | [[Presidential Empowerment Amendment]] |  |
+| 2 | [[Mariana Torres]] | 1977 - 1977 | [[Progressive Republican Party]] | [[Bayonet Revolution]] | Interim |
+
+### President of the Confian Nation (1978 - 1996)
+
+| No. | Name | Term | Party | Election | Notes |
+| :-: | --- | :-: | --- | --- | --- |
+| 1 | [[Mariana Torres]] | 1978 - 1986 | [[Movement for Syndicalist Renovation]] | [[1978 Confian presidential election]] | Left LjWP to found DSN in 1980 |
+| - | [[Mariana Torres]] | 1986 - 1987 | [[Movement for Syndicalist Renovation]] | [[1986 Confian presidential election]] |  |
+| 2 | [[Boris Serec]] | 1987 - 1996 | [[Armotist Democratic Party\|ALjP]] | [[1987 Confian presidential election]] |  |
+
+### President of the Confian Social Republic (2009 - present)
+
+| No. | Name | Term | Party | Election |
+| :-: | --- | :-: | --- | --- |
+| 1 | [[Ganzer Teahowić]] | 2009 - 2011 | [[Syndicalist League]] | [[List of Confian elections\|2009 Confian presidential election]] |
+| 2 | [[Nisa Peskilonna]] | 2014 - 2018 | [[Republican Promise]] | [[List of Confian elections#2014 Confian presidential election]] |
+| - | [[Nisa Peskilonna]] | 2019 - 2023 |  |  |
+
 %% holders:end %%

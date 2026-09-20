@@ -20,4 +20,17 @@ meta:
 person articles. Edit those articles, not this block. %%
 
 %% holders:start %%
+
+| No. | Name | Term | Party | Election | Notes |
+| :-: | --- | :-: | --- | --- | --- |
+| 1 | [[Suizo Soites]] | 1954 - 1958 | [[Susian Liberal Party]] | [[1954 Susian presidential election]] |  |
+| - | [[Suizo Soites]] | 1958 - 1962 | [[Susian Liberal Party]] | [[1958 Susian presidential election]] |  |
+| 2 | [[Serčev Fimžer]] | 1962 - 1966 | [[Susian Democratic Union]] |  |  |
+| - | [[Serčev Fimžer]] | 1966 - 1970 | [[Susian Democratic Union]] |  |  |
+| 3 | [[Ergagério Sienes]] | 1970 - 1974 | [[Susian Liberal Party]] |  |  |
+| 4 | [[Čalsor Boňár]] | 1974 - 1978 | [[Susian Democratic Union]] | [[1974 Susian presidential election]] |  |
+| - | [[Čalsor Boňár]] | 1978 - 1982 | [[Susian Democratic Union]] | [[1978 Susian presidential election]] |  |
+| - | [[Čalsor Boňár]] | 1982 - 1983 | [[Susian Democratic Union]] | [[1982 Susian presidential election]] | Died in office |
+| 5 | [[Filevir Matri]] | 1983 - 1986 | [[Susian Democratic Union]] |  | Became president after Boňár's death |
+
 %% holders:end %%

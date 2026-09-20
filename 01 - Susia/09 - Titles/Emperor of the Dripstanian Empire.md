@@ -34,4 +34,17 @@ meta:
 person articles. Edit those articles, not this block. %%
 
 %% holders:start %%
+
+| No. | Name | Term | Appointed by | Notes |
+| :-: | --- | :-: | --- | --- |
+| 1 | [[Saint Emperor Mantichev]] | 1674 - 1686 | [[Founder]] | First emperor. Succeeded by [[Emperor Agamilos]]. |
+| 2 | [[Emperor Agamilos]] | 1686 - 1738 | [[Hereditary succession]] | Second emperor. Succeeded [[Saint Emperor Mantichev]]; the throne passed to [[Empress Veronique]] in 1740 after a regency council. |
+|  | *Regency council* | 1738 - 1740 |  | The throne passed to [[Empress Veronique]] in 1740. |
+| 3 | [[Empress Veronique]] | 1740 - 1787 |  | Reign ends at 163 AS in the family chart. Took the throne after the regency council. |
+| 4 | [[Empress Yaneoli]] | 1787 - 1815 | [[Hereditary succession]] | Fourth ruler. Succeeded [[Empress Veronique]]. Her death was followed by the [[Dripstanian Civil War]]. |
+| 5 | [[Empress Prazde]] | 1815 - 1823 | [[Hereditary succession]] | Reign disputed throughout by [[Jartes I]]. See [[Dripstanian Civil War]]. |
+|  | *Disputed succession* | 1815 - 1823 |  | Civil war. [[Empress Prazde]] and [[Jartes I]] both claimed the throne. |
+| 6 | [[Jartes I]] | 1815 - 1837 | [[Hereditary succession]] | Fifth emperor. Claimed reign began in 1815; uncontested from 1823. Succeeded by [[Jartes II]]. |
+| 7 | [[Jartes II]] | 1837 - 1882 | [[Hereditary succession]] | Fifth emperor. Succeeded [[Jartes I]]; succeeded by [[Soliman]]. |
+
 %% holders:end %%

@@ -20,4 +20,10 @@ meta:
 person articles. Edit those articles, not this block. %%
 
 %% holders:start %%
+
+| No. | Name | Term | Appointed by | Notes |
+| :-: | --- | :-: | --- | --- |
+| 1 | [[Suizo Soites]] | 1969 - 1981 | [[Self-founded]] | Founded the Soites Group in Neoveli. Retired from active management in 1981. |
+| 2 | [[Chedji Soites]] | 1981 - 2031 | [[Suizo Soites]] | Assumed role upon Suizo's retirement from active management |
+
 %% holders:end %%

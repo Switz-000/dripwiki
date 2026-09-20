@@ -69,6 +69,12 @@ meta:
 - **Death**: [[Emperor Agamilos]] died in [[Dripstanian Empire]]
 - **Death**: [[Prince Apreže]] died in [[Dripstanian Empire]] (Jousting accident)
 - **End of tenure**: [[Emperor Agamilos]] leaves Emperor of the Dripstanian Empire
+- **Regency begins**: [[Emperor of the Dripstanian Empire]] (Regency council). *The throne passed to [[Empress Veronique]] in 1740.*
+
+## 1740
+
+- **Appointment**: [[Empress Veronique]] becomes Empress of the Dripstanian Empire. *Reign ends at 163 AS in the family chart. Took the throne after the regency council.*
+- **Regency ends**: [[Emperor of the Dripstanian Empire]] (Regency council)
 
 ## 1748
 
@@ -108,6 +114,7 @@ meta:
 
 - **Appointment**: [[Empress Yaneoli]] becomes Empress of the Dripstanian Empire, appointed by [[Hereditary succession]]. *Fourth ruler. Succeeded [[Empress Veronique]]. Her death was followed by the [[Dripstanian Civil War]].*
 - **Death**: [[Empress Veronique]] died in [[Duolij]], [[Postia]], [[Dripstanian Empire]] (Gastric ulcer)
+- **End of tenure**: [[Empress Veronique]] leaves Empress of the Dripstanian Empire
 
 ## 1789
 
@@ -115,6 +122,7 @@ meta:
 
 ## 1793
 
+- **Appointment**: [[Empress Prazde]] becomes Queen of Zaphonia. *157 AS to 125 AS in the family chart.*
 - **Death**: [[Lekhertos]] died in [[Zaphonia]] (Poisoning)
 
 ## 1796
@@ -146,6 +154,7 @@ meta:
 - **Appointment**: [[Empress Prazde]] becomes Empress of the Dripstanian Empire, appointed by [[Hereditary succession]]. *Reign disputed throughout by [[Jartes I]]. See [[Dripstanian Civil War]].*
 - **Appointment**: [[Jartes I]] becomes Emperor of the Dripstanian Empire, appointed by [[Hereditary succession]]. *Fifth emperor. Claimed reign began in 1815; uncontested from 1823. Succeeded by [[Jartes II]].*
 - **Death**: [[Empress Yaneoli]] died in [[Dripstanian Empire]] (Tuberculosis)
+- **Disputed succession begins**: [[Emperor of the Dripstanian Empire]]. *Civil war. [[Empress Prazde]] and [[Jartes I]] both claimed the throne.*
 - **End of tenure**: [[Empress Yaneoli]] leaves Empress of the Dripstanian Empire
 - **Event begins**: [[Dripstanian Civil War]]
 
@@ -156,8 +165,13 @@ meta:
 ## 1823
 
 - **Death**: [[Colin, King of the Tekurs]] died in [[Dripstanian Empire]]
+- **Disputed succession ends**: [[Emperor of the Dripstanian Empire]]
 - **End of tenure**: [[Empress Prazde]] leaves Empress of the Dripstanian Empire
 - **Event ends**: [[Dripstanian Civil War]]
+
+## 1825
+
+- **End of tenure**: [[Empress Prazde]] leaves Queen of Zaphonia
 
 ## 1826
 
@@ -355,12 +369,12 @@ meta:
 
 ## 1953
 
-- **Appointment**: [[Suizo Soites]] becomes Delegate, Constitutional Convention, appointed by [[National Agreement]]. *Led negotiations between former imperial provinces.*
+- **Appointment**: [[Suizo Soites]] becomes Delegate to the Constitutional Convention, appointed by [[National Agreement]]. *Led negotiations between former imperial provinces.*
 
 ## 1954
 
-- **Appointment**: [[Filevir Matri]] becomes Governor of Postia at [[Government of Postia]]
-- **End of tenure**: [[Suizo Soites]] leaves Delegate, Constitutional Convention
+- **Appointment**: [[Filevir Matri]] becomes Governor of Postia
+- **End of tenure**: [[Suizo Soites]] leaves Delegate to the Constitutional Convention
 - **Event begins**: [[Ant wars]]
 - **Founded**: [[Confian Syndicalist Union]] by [[Lorelaj Paulowić]] and [[Lensek Bӑrboz]]
 - **Founded**: [[Knights of the Republic]]
@@ -427,7 +441,7 @@ meta:
 - **Appointment**: [[Filevir Matri]] becomes Senator for Postia at [[Susian Senate]]
 - **Appointment**: [[Serčev Fimžer]] becomes President of Susia at [[Susian Federal Government]]
 - **End of tenure**: [[Ergagério Sienes]] leaves Vice President of Susia at [[Susian Federal Government]]
-- **End of tenure**: [[Filevir Matri]] leaves Governor of Postia at [[Government of Postia]]
+- **End of tenure**: [[Filevir Matri]] leaves Governor of Postia
 - **End of tenure**: [[Suizo Soites]] leaves President of Susia at [[Susian Federal Government]]
 - **Founded**: [[Rally for National Salvation]] by [[Bejňar Keke]]
 
@@ -446,7 +460,7 @@ meta:
 
 ## 1969
 
-- **Appointment**: [[Suizo Soites]] becomes CEO at [[Soites Group]], appointed by [[Self-founded]]. *Founded the Soites Group in Neoveli. Retired from active management in 1981.*
+- **Appointment**: [[Suizo Soites]] becomes CEO of the Soites Group, appointed by [[Self-founded]]. *Founded the Soites Group in Neoveli. Retired from active management in 1981.*
 - **Founded**: [[Soites Group]] by [[Suizo Soites]] in [[Neoveli]]
 - **Publication**: *Susian Syndicalism* by [[Eriežera Lensekowina]]. *A polemic comparative essay contrasting the achievements of Susia to those of Confia, claiming capitalism achieved syndicalism's stated goals before syndicalism did. Published at the height of the [[Pierej Crisis]] on the [[New Kentu Truth-Teller]]. First major work published as Eriežera Lensekowina*
 
@@ -472,15 +486,9 @@ meta:
 
 - **Enlists**: [[Ňotrič Apaj]] in [[Susian Air Force]]. *Drafted. Served in a non-combat administrative role.*
 
-## 1976
-
-- **Appointment**: [[Chedji Soites]] becomes Board Member at [[Soites Group]], appointed by [[Suizo Soites]]
-
 ## 1977
 
-- **Appointment**: [[Jagan Iliož]] becomes President at [[Žošewoš Machinery]], appointed by [[Titen Iliož]]. *Bought the enterprise he directed (and his father before him) during the Paulowić regime*
 - **Appointment**: [[Mariana Torres]] becomes Leader of the Confian Nation at [[Confian National Government]], appointed by [[Bayonet Revolution]]. *Interim*
-- **Appointment**: [[Ňotrič Apaj]] becomes Journalist at [[Dripia State University Press]]. *Covered economics, social policy, and politics during the post-Continental War boom years. War correspondent in Ditania 1983.*
 - **Death**: [[Lorelaj Paulowić]] died in [[Whereabouts unknown]], [[Whereabouts unknown]], [[Whereabouts unknown]] (Disappeared)
 - **Discharge**: [[Ňotrič Apaj]] from [[Susian Air Force]]
 - **End of tenure**: [[Lorelaj Paulowić]] leaves First Secretary of the Union of Confian Syndicalists at [[Confian Syndicalist Union]]
@@ -508,10 +516,8 @@ meta:
 
 ## 1979
 
-- **Appointment**: [[Chedji Soites]] becomes Regional Operations Manager, Central-East at [[Soites Group]], appointed by [[Suizo Soites]]. *Oversaw Sužielaj, Misocévia, and the Neutral District. Regional strategy later adopted nationwide.*
 - **Death**: [[Lensek Bӑrboz]] died in [[Imgospalje]], [[Koštanože]], [[Confia]] (Assassination by gunshot)
 - **Dissolved**: [[Confian Syndicalist Union]]
-- **End of tenure**: [[Chedji Soites]] leaves Board Member at [[Soites Group]]
 - **Founded**: [[Atompron]] by [[Susian Federal Government]] in [[Niqueparj]]
 - **Founded**: [[Syndicalist League]] by [[Katerina Armoljubca Nožeslawna|KAN]] and [[Eriežera Lensekowina]]
 - **Publication**: *On fighting in the streets* by [[Mariana Torres]]
@@ -526,11 +532,10 @@ meta:
 
 ## 1981
 
-- **Appointment**: [[Chedji Soites]] becomes CEO at [[Soites Group]], appointed by [[Suizo Soites]]. *Assumed role upon Suizo's retirement from active management*
+- **Appointment**: [[Chedji Soites]] becomes CEO of the Soites Group, appointed by [[Suizo Soites]]. *Assumed role upon Suizo's retirement from active management*
 - **Dissolved**: [[Confian Nation Party (1977)]]
 - **Document recorded**: [[Graduation yearbook]] (Graduation yearbook)
-- **End of tenure**: [[Chedji Soites]] leaves Regional Operations Manager, Central-East at [[Soites Group]]
-- **End of tenure**: [[Suizo Soites]] leaves CEO at [[Soites Group]]
+- **End of tenure**: [[Suizo Soites]] leaves CEO of the Soites Group
 - **Founded**: [[Ljudewlaš!]] by [[Laus Darizel]]
 
 ### [[1980 Confian general election]]
@@ -539,7 +544,6 @@ meta:
 
 ## 1982
 
-- **Appointment**: [[Yário Kolkov]] becomes Engineer at [[Nayotai]]
 - **End of tenure**: [[Boris Serec]] leaves Commissar of Education at [[Confian National Government]]
 - **End of tenure**: [[Katerina Armoljubca Nožeslawna]] leaves Member of the National Assembly of Confian Syndicates at [[Confian National Government]]
 - **End of tenure**: [[Senjap Kunsekowić]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]
@@ -570,12 +574,11 @@ meta:
 
 ## 1985
 
-- **Appointment**: [[Ňotrič Apaj]] becomes Independent contractor at [[Troli Ustaras]]. *Wrote TU's training materials. TU funded him and promoted After Scarcity.*
 - **Publication**: *[[After Scarcity]]* by [[Ňotrič Apaj]]. *Expands the essay's argument into a full philosophical vision. Proposes a cosmopolitan post-politics grounded in universal facts of consciousness, suffering, curiosity, and mortality. Became the moral vocabulary of the Modernist Alliance's utopian faction and the ethical foundation TU built its corporate culture upon.*
 
 ## 1986
 
-- **Appointment**: [[Kukan Peskilonni]] becomes Director of the Central Bank of the Confian Nation at [[Central Bank of the Confian Nation]]
+- **Appointment**: [[Kukan Peskilonni]] becomes Director of the Central Bank of the Confian Nation
 - **Atrocity begins**: [[Nar Liewati Massacre]]
 - **Atrocity ends**: [[Nar Liewati Massacre]]
 - **End of tenure**: [[Filevir Matri]] leaves President of Susia at [[Susian Federal Government]]
@@ -588,10 +591,8 @@ meta:
 
 ## 1987
 
-- **Appointment**: [[Yário Kolkov]] becomes Engineer at [[Troli Ustaras]]. *Left in disgust at the company's culture.*
 - **End of tenure**: [[Boris Serec]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]
 - **End of tenure**: [[Mariana Torres]] leaves President of the Confian Nation at [[Confian National Government]]
-- **End of tenure**: [[Yário Kolkov]] leaves Engineer at [[Nayotai]]
 
 ### [[1986 Confian general election]]
 
@@ -603,9 +604,7 @@ meta:
 
 ## 1988
 
-- **Appointment**: [[Ňotrič Apaj]] becomes Philosophical Advisor at [[Troli Ustaras]]. *Largely honorary title. Shaped TU's ethical vocabulary and corporate culture. Authored TU's ethical constitution covering AI and speculative future technology. Never lived within the corporate culture he helped create.*
 - **Death**: [[Mariana Torres]] died in [[Carlotopolis]], [[Karlotopol']], [[Confia]] ([[Tarlanna's disease]])
-- **End of tenure**: [[Ňotrič Apaj]] leaves Journalist at [[Dripia State University Press]]
 
 ### [[List of Confian elections|1988 gubernatorial elections in Confia]]
 
@@ -614,7 +613,6 @@ meta:
 ## 1989
 
 - **End of tenure**: [[Bejňar Keke]] leaves President of Yar-Firol
-- **End of tenure**: [[Yário Kolkov]] leaves Engineer at [[Troli Ustaras]]
 
 ## 1990
 
@@ -630,7 +628,7 @@ meta:
 ## 1992
 
 - **Dissolved**: [[Confian Liberal Party]]
-- **End of tenure**: [[Ganzer Teahowić]] leaves State Governor of North Nijbania at [[North Nijbania]]
+- **End of tenure**: [[Ganzer Teahowić]] leaves State Governor of North Nijbania
 - **Founded**: [[Mi, Niteraljci!]] by [[Lenseka Japlenowina]] and [[Saserna Kašdunna]]
 - **Graduation**: [[Yavna Raroska]] from [[University of New Kentu]] (Political Science)
 - **Publication**: *[[Children of the Same Mother]]* by [[Ňotrič Apaj]]. *Attempts to ground cosmopolitan ethics in biological and historical universals. His most systematic work and his least-read.*
@@ -656,9 +654,9 @@ meta:
 
 - **Appointment**: [[Ganzer Teahowić]] becomes Commissar of Health at [[North Nijbania]], appointed by [[Noljež Teššan]]
 - **End of tenure**: [[Boris Serec]] leaves President of the Confian Nation at [[Confian National Government]]
-- **End of tenure**: [[Ganzer Teahowić]] leaves State Governor of North Nijbania at [[North Nijbania]]
+- **End of tenure**: [[Ganzer Teahowić]] leaves State Governor of North Nijbania
 - **End of tenure**: [[Katerina Armoljubca Nožeslawna]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]
-- **End of tenure**: [[Kukan Peskilonni]] leaves Director of the Central Bank of the Confian Nation at [[Central Bank of the Confian Nation]]
+- **End of tenure**: [[Kukan Peskilonni]] leaves Director of the Central Bank of the Confian Nation
 
 ### [[1996 Imgospalje mayoral elections]]
 
@@ -678,7 +676,6 @@ meta:
 ## 1999
 
 - **Charged**: [[Boris Serec]] with Passive corruption (21 counts)
-- **End of tenure**: [[Jagan Iliož]] leaves President at [[Žošewoš Machinery]]
 - **Verdict**: [[Boris Serec]] found Guilty of Active corruption, Conspiracy to commit crimes, Cartel formation, Perversion of the office of Prime Minister and Mishandling of the means of production
 
 ## 2000
@@ -696,7 +693,7 @@ meta:
 
 - **Birth**: [[Venvek Rashera]] born in [[Damčev]], [[Sužielaj]], [[Susia]]
 - **Death**: [[Filevir Matri]] died in [[Duolij]], [[Postia]], [[Susia]] (Natural causes)
-- **End of tenure**: [[Lenseka Japlenowina]] leaves Mayor of Imgospalje at [[Imgospalje|Imgospalje City Government]]
+- **End of tenure**: [[Lenseka Japlenowina]] leaves Mayor of Imgospalje
 
 ## 2003
 
@@ -743,11 +740,19 @@ meta:
 
 ### [[List of Confian elections#2014 Confian presidential election]]
 
-- [[Nisa Peskilonna]], President of the Republic ([[Republican Promise]])
+- [[Nisa Peskilonna]], President of the Confian Social Republic ([[Republican Promise]])
+
+## 2018
+
+- **End of tenure**: [[Nisa Peskilonna]] leaves President of the Confian Social Republic at [[Confian National Government]]
 
 ## 2019
 
-- **End of tenure**: [[Nisa Peskilonna]] leaves President of the Republic
+- **Appointment**: [[Nisa Peskilonna]] becomes President of the Confian Social Republic at [[Confian National Government]]
+
+## 2023
+
+- **End of tenure**: [[Nisa Peskilonna]] leaves President of the Confian Social Republic at [[Confian National Government]]
 
 ## 2024
 
@@ -755,7 +760,7 @@ meta:
 
 ## 2031
 
-- **End of tenure**: [[Chedji Soites]] leaves CEO at [[Soites Group]]
+- **End of tenure**: [[Chedji Soites]] leaves CEO of the Soites Group
 - **Founded**: [[Yerčemark]] by [[Venvek Rashera]] in [[New Kentu]]
 - **Yarnojte granted**: [[POCOIL]]
 
@@ -780,7 +785,6 @@ meta:
 ## 2042
 
 - **Death**: [[Ňotrič Apaj]] died in [[Neoveli]], [[Dripia]], [[Susia]] ([[Kashovne's syndrome]])
-- **End of tenure**: [[Ňotrič Apaj]] leaves Philosophical Advisor at [[Troli Ustaras]]
 
 ## 2044
 

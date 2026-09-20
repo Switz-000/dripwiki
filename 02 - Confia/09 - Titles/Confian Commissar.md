@@ -27,4 +27,11 @@ meta:
 person articles. Edit those articles, not this block. %%
 
 %% holders:start %%
+
+### Commissar of Education
+
+| No. | Name | Term | Party | Appointed by |
+| :-: | --- | :-: | --- | --- |
+| 1 | [[Boris Serec]] | 1978 - 1982 | [[Confian Liberal Party\|KNP]] | [[Senjap Kunsekowić]] |
+
 %% holders:end %%

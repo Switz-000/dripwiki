@@ -27,4 +27,11 @@ meta:
 person articles. Edit those articles, not this block. %%
 
 %% holders:start %%
+
+### Secretary of Justice
+
+| No. | Name | Term | Party | Appointed by |
+| :-: | --- | :-: | --- | --- |
+| 1 | [[Filevir Matri]] | 1966 - 1970 | [[Susian Democratic Union]] | [[Serčev Fimžer]] |
+
 %% holders:end %%
