@@ -85,31 +85,22 @@ organizations:
   - "[[Dripia State University]]"
   - "[[Troli Ustaras]]"
 
-# ── OFFICES ─────────────────────────────────────────────────────────────────
-offices:
-  - title: Journalist
+# ── TITLES AND ROLES ────────────────────────────────────────────────────────
+roles:
+  - role: Journalist
     employer: "[[Dripia State University Press]]"
     start_year: 1977
     end_year: 1988
-    appointer:
-    parties:
-      -
     notes: Covered economics, social policy, and politics during the post-Continental War boom years. War correspondent in Ditania 1983.
-  - title: Independent contractor
+  - role: Independent contractor
     employer: "[[Troli Ustaras]]"
     start_year: 1985
-    end_year:
-    appointer:
-    parties:
-      -
+    end_year: 2042
     notes: Wrote TU's training materials. TU funded him and promoted After Scarcity.
-  - title: Philosophical Advisor
+  - role: Philosophical Advisor
     employer: "[[Troli Ustaras]]"
     start_year: 1988
     end_year: 2042
-    appointer:
-    parties:
-      -
     notes: Largely honorary title. Shaped TU's ethical vocabulary and corporate culture. Authored TU's ethical constitution covering AI and speculative future technology. Never lived within the corporate culture he helped create.
 
 # ── WRITTEN WORKS ───────────────────────────────────────────────────────────

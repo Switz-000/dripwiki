@@ -57,14 +57,11 @@ parties:
   -
 organizations:
   -
-offices:
-  - title: President
+roles:
+  - role: President
     employer: "[[Žošewoš Machinery]]"
     start_year: 1977
     end_year: 1999
-    appointer: "[[Titen Iliož]]"
-    parties:
-      -
     notes: Bought the enterprise he directed (and his father before him) during the Paulowić regime
 written_works:
   - title:

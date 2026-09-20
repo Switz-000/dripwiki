@@ -54,9 +54,8 @@ parties:
   -
 organizations:
   -
-offices:
-  - title: President of Yar-Firol
-    employer:
+titles:
+  - title: "[[President of Yar-Firol]]"
     start_year: 1962
     end_year: 1989
     appointer:

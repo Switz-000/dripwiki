@@ -79,23 +79,17 @@ parties:                                        # partidos que ela ja pertenceu
 organizations:
   -
 
-# ── OFFICES ─────────────────────────────────────────────────────────────────
-offices:
-  - title: Engineer
-    employer: Troli Ustaras
+# ── TITLES AND ROLES ────────────────────────────────────────────────────────
+roles:
+  - role: Engineer
+    employer: "[[Troli Ustaras]]"
     start_year: 1987
     end_year: 1989
-    appointer:
-    parties:
-      -
     notes: Left in disgust at the company's culture.
-  - title: Engineer
-    employer: Nayotai
+  - role: Engineer
+    employer: "[[Nayotai]]"
     start_year: 1982
     end_year: 1987
-    appointer:
-    parties:
-      -
     notes:
 
 # ── WRITTEN WORKS ───────────────────────────────────────────────────────────

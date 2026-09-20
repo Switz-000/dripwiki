@@ -72,18 +72,16 @@ parties:                                        # partidos que ela ja pertenceu
 organizations:
   - "[[Liberty and Fatherland Movement]]"
 
-# ── OFFICES ─────────────────────────────────────────────────────────────────
-offices:
-  - title: Vice President of Susia
-    employer: "[[Susian Federal Government]]"
+# ── TITLES AND ROLES ────────────────────────────────────────────────────────
+titles:
+  - title: "[[Vice President of Susia]]"
     start_year: 1958
     end_year: 1962
     appointer:
     parties:
       - "[[Susian Liberal Party]]"
     notes:
-  - title: President of Susia
-    employer: "[[Susian Federal Government]]"
+  - title: "[[President of Susia]]"
     start_year: 1970
     end_year: 1974
     appointer:

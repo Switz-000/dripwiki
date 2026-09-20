@@ -79,10 +79,9 @@ parties:                                        # partidos que ela ja pertenceu
 organizations:
   - "[[Zaphonia]]"
 
-# ── OFFICES ─────────────────────────────────────────────────────────────────
-offices:
-  - title: Emperor of Zaphonia
-    employer:
+# ── TITLES AND ROLES ────────────────────────────────────────────────────────
+titles:
+  - title: "[[Emperor of Zaphonia]]"
     start_year:
     end_year:
     appointer: Hereditary succession
