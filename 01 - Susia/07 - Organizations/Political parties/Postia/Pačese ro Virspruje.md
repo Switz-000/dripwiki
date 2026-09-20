@@ -64,13 +64,13 @@ Party leadership was drawn from intellectuals, lawyers, journalists, and univers
 
 > *Main article: [[Knights of the Republic]]*
 
-The PrV's paramilitary wing, the [[Knights of the Republic]], was founded alongside the party in 1954. The Knights existed to make the constitutional right to rebel credible, operating as a restrained street presence that fought syndicalist eossajs and, increasingly, contested what the party characterized as Matri's abuse of state power. Their dissolution following the [[Supreme Court of Susia|Supreme Court]] ruling during the [[Ant Wars]] significantly weakened the party's organizational capacity.
+The PrV's paramilitary wing, the [[Knights of the Republic]], was founded alongside the party in 1954. The Knights existed to make the constitutional right to rebel credible, operating as a restrained street presence that fought syndicalist eossajs and, increasingly, contested what the party characterized as Matri's abuse of state power. Their dissolution following the [[Supreme Court of Susia|Supreme Court]] ruling during the [[Ant wars]] significantly weakened the party's organizational capacity.
 
 ## Ant Wars and the crackdown
 
-> *Main article: [[Ant Wars]]*
+> *Main article: [[Ant wars]]*
 
-The PrV occupied a contradictory position during the [[Ant Wars]]. Its anti-syndicalist stance aligned it nominally with [[Filevir Matri|Matri's]] stated objectives, but its Versijian constitutionalism placed it in direct opposition to his methods. As Matri's crackdown broadened beyond syndicalist targets, the PrV issued public statements condemning the erosion of civil liberties while continuing to oppose the labor left. The position satisfied neither side and left the party politically isolated at the moment of greatest crisis.
+The PrV occupied a contradictory position during the [[Ant wars]]. Its anti-syndicalist stance aligned it nominally with [[Filevir Matri|Matri's]] stated objectives, but its Versijian constitutionalism placed it in direct opposition to his methods. As Matri's crackdown broadened beyond syndicalist targets, the PrV issued public statements condemning the erosion of civil liberties while continuing to oppose the labor left. The position satisfied neither side and left the party politically isolated at the moment of greatest crisis.
 
 The Supreme Court ruling dissolving eossajs, and the subsequent forced dissolution of the Knights, removed the party's most visible organizational instrument. The PrV contested the ruling as a misreading of Versij's citizen-defender framework without effect.
 
@@ -79,7 +79,7 @@ The Supreme Court ruling dissolving eossajs, and the subsequent forced dissoluti
 - [[Knights of the Republic]]
 - [[Young Versijians]]
 - [[The Versijian]]
-- [[Ant Wars]]
+- [[Ant wars]]
 - [[Susian Liberal Party]]
 - [[Armadesh Versij]]
 - [[Filevir Matri]]

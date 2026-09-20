@@ -44,7 +44,7 @@ The duty is carried by institutions and custom rather than by law. Sorzenko memb
 
 ## Contemporary Relevance
 
-During the [[Ant Wars]], Versij's argument that undefended rights are privileges supplied ideological cover for armed political organization across the political spectrum. The [[Knights of the Republic]] fought syndicalist street organizations and, as [[Filevir Matri|Matri's]] crackdown widened beyond syndicalist targets, the state itself, which they read as misusing its power against the constitutional order they existed to defend. The [[Supreme Court of Susia|Supreme Court]] ruling that dissolved the [[Eossaj|eossajs]] was contested by the Knights and the [[Pačese ro Virspruje]] as a misreading of Versij's citizen-defender framework.
+During the [[Ant wars]], Versij's argument that undefended rights are privileges supplied ideological cover for armed political organization across the political spectrum. The [[Knights of the Republic]] fought syndicalist street organizations and, as [[Filevir Matri|Matri's]] crackdown widened beyond syndicalist targets, the state itself, which they read as misusing its power against the constitutional order they existed to defend. The [[Supreme Court of Susia|Supreme Court]] ruling that dissolved the [[Eossaj|eossajs]] was contested by the Knights and the [[Pačese ro Virspruje]] as a misreading of Versij's citizen-defender framework.
 
 Among [[Tekur Susians]], the right is read through the [[March Against the Sun]], whose victims had been left without an armed force of their own before the deportation.
 

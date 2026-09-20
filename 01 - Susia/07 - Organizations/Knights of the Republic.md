@@ -45,7 +45,7 @@ tags:
   - conflict/military
 ---
 
-The **Knights of the Republic** were the paramilitary wing of the [[Pačese ro Virspruje]] (PrV), active in [[Postia]] from 1954 until their dissolution following the [[Supreme Court of Susia|Supreme Court]] ruling that declared eossajs unconstitutional during the [[Ant Wars]]. Organized around [[Armadesh Versij|Versij's]] argument that rights undefended by force are merely privileges, they existed to make the constitutional right to rebel credible.
+The **Knights of the Republic** were the paramilitary wing of the [[Pačese ro Virspruje]] (PrV), active in [[Postia]] from 1954 until their dissolution following the [[Supreme Court of Susia|Supreme Court]] ruling that declared eossajs unconstitutional during the [[Ant wars]]. Organized around [[Armadesh Versij|Versij's]] argument that rights undefended by force are merely privileges, they existed to make the constitutional right to rebel credible.
 
 ## Origins
 
@@ -61,7 +61,7 @@ The Knights fought on two simultaneous fronts across the eossaj period: against 
 
 ## Ant Wars and dissolution
 
-> *Main article: [[Ant Wars]]*
+> *Main article: [[Ant wars]]*
 
 The assassination of a Knights leader in early 1958 triggered the [[New Duloc riot (1958)]], the central event of the Ant Wars. Knights mobilized across [[New Duloc]] in response, contributing to the collapse of police containment at the [[New Duloc]] docks and the subsequent citywide explosion of violence.
 
@@ -71,7 +71,7 @@ Some members complied. Others did not, continuing to operate informally for a pe
 
 ## See also
 
-- [[Ant Wars]]
+- [[Ant wars]]
 - [[New Duloc riot (1958)]]
 - [[Pačese ro Virspruje]]
 - [[Susian Liberal Party]]

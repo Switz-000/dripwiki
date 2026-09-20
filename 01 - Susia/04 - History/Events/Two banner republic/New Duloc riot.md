@@ -8,7 +8,7 @@ key_figures:
 cause: Assassination of a Knights of the Republic leader during a labor standoff
 outcome: Citywide riot suppressed by the Postian National Guard; state of emergency declared
 related_events:
-  - "[[Ant Wars]]"
+  - "[[Ant wars]]"
   - "[[Matri assassination attempt]]"
 era:
   - republican-era
@@ -17,11 +17,11 @@ tags:
   - conflict/military
 ---
 
-The **New Duloc riot** was a period of sustained civil violence in [[New Duloc]], [[Postia]], in early 1958. Triggered by the assassination of a [[Knights of the Republic]] leader during an ongoing labor standoff, the riot caused several hundred deaths over several days and prompted [[Filevir Matri|Matri's]] state government to declare a state of emergency. It was the central event of the [[Ant Wars]] and precipitated the [[Supreme Court of Susia|Supreme Court]] ruling that declared eossajs unconstitutional.
+The **New Duloc riot** was a period of sustained civil violence in [[New Duloc]], [[Postia]], in early 1958. Triggered by the assassination of a [[Knights of the Republic]] leader during an ongoing labor standoff, the riot caused several hundred deaths over several days and prompted [[Filevir Matri|Matri's]] state government to declare a state of emergency. It was the central event of the [[Ant wars]] and precipitated the [[Supreme Court of Susia|Supreme Court]] ruling that declared eossajs unconstitutional.
 
 ## Background
 
-> *Main article: [[Ant Wars]]*
+> *Main article: [[Ant wars]]*
 
 By early 1958, [[New Duloc]] had become the focal point of Postia's eossaj violence. The city's port and industrial economy supported a militant labor movement, and street confrontations between the [[Knights of the Republic]] and syndicalist eossajs were routine. A large [[Confia|Confian]] refugee population, organized for self-defense through the [[Movement of New Susians]], occupied the city's lower-income districts alongside the native industrial workforce, with significant resentment between the two groups over labor competition and strikebreaking.
 
@@ -43,7 +43,7 @@ Matri used the ruling as the basis for a comprehensive crackdown across syndical
 
 ## See also
 
-- [[Ant Wars]]
+- [[Ant wars]]
 - [[Matri assassination attempt]]
 - [[Knights of the Republic]]
 - [[Movement of New Susians]]

@@ -9,7 +9,7 @@ key_figures:
 cause: Minutemen opposition to Matri's anti-syndicalist crackdown during the Ant Wars
 outcome: Matri wounded and three killed; Tečlan killed at the scene
 related_events:
-  - "[[Ant Wars]]"
+  - "[[Ant wars]]"
   - "[[New Duloc riot (1958)]]"
 era:
   - republican-era
@@ -19,11 +19,11 @@ tags:
   - society/crime
 ---
 
-The **Matri assassination attempt** was an attack on [[Filevir Matri]], then governor of [[Postia]], on 14 November 1958 in [[Duolij]]. [[Urgiri Tečlan]], an anarchist affiliated with the [[Minutemen]], opened fire on Matri during a public address, wounding him and killing three others before being shot dead at the scene. The attack occurred during the crackdown that followed the [[New Duloc riot (1958)]] and was the most prominent assassination attempt of the [[Ant Wars]]. It is the earliest known political assassination attempt recorded on film in Susian history.
+The **Matri assassination attempt** was an attack on [[Filevir Matri]], then governor of [[Postia]], on 14 November 1958 in [[Duolij]]. [[Urgiri Tečlan]], an anarchist affiliated with the [[Minutemen]], opened fire on Matri during a public address, wounding him and killing three others before being shot dead at the scene. The attack occurred during the crackdown that followed the [[New Duloc riot (1958)]] and was the most prominent assassination attempt of the [[Ant wars]]. It is the earliest known political assassination attempt recorded on film in Susian history.
 
 ## Background
 
-> *Main article: [[Ant Wars]]*
+> *Main article: [[Ant wars]]*
 
 By late 1958, Matri's state government was conducting a comprehensive crackdown on political organizations across [[Postia]], following the [[New Duloc riot (1958)]] and the [[Supreme Court of Susia|Supreme Court]] ruling that declared eossajs unconstitutional. The crackdown swept up syndicalist organizations, union leadership, and [[Minutemen]] networks. The [[Minutemen]], an anarchist network responsible for bombings and assassinations throughout the period, were among Matri's principal targets.
 
@@ -37,13 +37,13 @@ Two [[White Stork Party]] officials standing near the podium and the security of
 
 ## Aftermath
 
-Matri's recovery was prolonged, and the abdominal wound had lasting physical consequences he managed privately for the remainder of his life. Because Tečlan was killed at the scene, there was no trial and no public account of his reasoning. The narrative of the attack was shaped substantially by Matri and the subsequent investigation, and it served to validate the anti-syndicalist crackdown of the [[Ant Wars]] in public memory.
+Matri's recovery was prolonged, and the abdominal wound had lasting physical consequences he managed privately for the remainder of his life. Because Tečlan was killed at the scene, there was no trial and no public account of his reasoning. The narrative of the attack was shaped substantially by Matri and the subsequent investigation, and it served to validate the anti-syndicalist crackdown of the [[Ant wars]] in public memory.
 
 The attack strengthened Matri's political standing. Surviving a recorded assassination attempt by an anarchist consolidated his anti-syndicalist credentials and contributed to the trajectory that carried him to the Senate, the office of [[Secretary of Justice]], the vice presidency under [[Čalsor Boňár]], and ultimately the presidency. The footage of the attack remained in circulation for decades.
 
 ## See also
 
-- [[Ant Wars]]
+- [[Ant wars]]
 - [[New Duloc riot (1958)]]
 - [[Urgiri Tečlan]]
 - [[Filevir Matri]]
