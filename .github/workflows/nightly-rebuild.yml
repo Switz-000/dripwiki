@@ -1,0 +1,57 @@
+name: Nightly site rebuild
+
+# Rebuilds dripsite.vercel.app once a day, but only if this repo changed.
+#
+# The site downloads this repo when it builds, so a push here does not reach
+# the site on its own. This workflow calls a Vercel Deploy Hook, which starts
+# a fresh build of dripsite with whatever is on main here at that moment.
+#
+# "Changed" means something was pushed in the last 26 hours. It uses the push
+# time rather than the commit time, so a commit made offline and pushed later
+# still counts. 26 hours rather than 24 gives 2 hours of slack, because GitHub
+# sometimes starts scheduled runs late.
+#
+# Needs one repository secret: VERCEL_DEPLOY_HOOK (Vercel > dripsite >
+# Settings > Git > Deploy Hooks, branch main).
+
+on:
+  schedule:
+    - cron: "17 3 * * *"   # 03:17 UTC every day (04:17 in Lisbon in summer)
+  workflow_dispatch:        # "Run workflow" button: rebuild now, changed or not
+
+permissions:
+  contents: read
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check when this repo was last pushed
+        id: check
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          pushed=$(gh api "repos/${{ github.repository }}" --jq .pushed_at)
+          age=$(( $(date +%s) - $(date -d "$pushed" +%s) ))
+          echo "Last push: $pushed ($(( age / 3600 )) hours ago)"
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "Started by hand, rebuilding."
+            echo "rebuild=true" >> "$GITHUB_OUTPUT"
+          elif [ "$age" -lt $(( 26 * 3600 )) ]; then
+            echo "rebuild=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Nothing pushed in 26 hours, skipping."
+          fi
+
+      - name: Call the Vercel deploy hook
+        if: steps.check.outputs.rebuild == 'true'
+        env:
+          HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
+        run: |
+          if [ -z "$HOOK" ]; then
+            echo "::error::The VERCEL_DEPLOY_HOOK secret is not set in this repo."
+            exit 1
+          fi
+          curl -fsS -X POST "$HOOK"
+          echo
+          echo "Build started. Progress: https://vercel.com (dripsite > Deployments)"
