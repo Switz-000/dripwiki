@@ -58,6 +58,20 @@ parties:
 organizations:
   - "[[Organization of the Syndicalist Youth of the Confian Nation|Organization of the Syndicalist Youth of the Confian Nation (1956-1967)]]"
 titles:
+  - title: "[[Confian President]]"
+    start_year: 2001
+    end_year: 2008
+    appointer: "[[List of Confian elections#2000 Confian presidential election]]"
+    parties:
+      - "[[Syndicalist League]]"
+    notes: Term overriden by 2008 constitution
+  - title: "[[Confian President]]"
+    start_year: 1998
+    end_year: 2000
+    appointer: "[[List of Confian elections#1998 Confian presidential election]]"
+    parties:
+      - "[[Syndicalist League]]"
+    notes:
   - title: "[[Confian Prime Minister]]"
     start_year: 1990
     end_year: 1996

@@ -1,16 +1,15 @@
 ---
 type: person
-native_name: Nisa Jańowina Peskilonna
-lusitanized_name:
+native_name: Jagan Eriežerowić Lostăn
 aliases:
-  - Peskilonna
+  - Lostăn
+  - Lostan
 summary:
-sex: Female
+sex: Male
 ethnicity: "[[East Gaiyanese]]"
 religion: "[[Armotist Church of the Confian Synod]]"
 citizenship:
   - "[[Dripstanian Empire|Dripstanian]]"
-  - "[[Confia|Confian]]"
 nationality:
   - "[[Dripstanian Empire|Dripstanian]]"
   - "[[Confia|Confian]]"
@@ -34,7 +33,7 @@ education:
   - degree:
     institution:
     year:
-  -
+  - 
 occupation:
   - title:
     start_year:
@@ -46,30 +45,29 @@ military_service:
     start_year:
     end_year:
     conflicts:
-      -
+      - 
     notes:
 political_alignment:
-  -
-party: "[[Republican Promise]]"
+  - 
+party:
 parties:
-  - "[[Shield!|Shield! (2000-2014)]]"
-  - "[[Armotist Democratic Party|Armotist Democratic Party (1980-2000)]]"
+  - 
 organizations:
-  -
+  - 
 titles:
-  - title: "[[Confian President]]"
-    start_year: 2019
-    end_year: 2023
-    appointer: "[[List of Confian elections#2018 Confian presidential election]]"
+  - title:
+    seat:
+    start_year:
+    end_year:
+    appointer:
     parties:
-      - "[[Republican Promise]]"
+      - 
     notes:
-  - title: "[[Confian President]]"
-    start_year: 2014
-    end_year: 2018
-    appointer: "[[List of Confian elections#2013 Confian presidential election]]"
-    parties:
-      - "[[Republican Promise]]"
+roles:
+  - role:
+    employer:
+    start_year:
+    end_year:
     notes:
 written_works:
   - title:
@@ -98,12 +96,11 @@ awards:
     country:
     notes:
 era:
-  - social-republic
+  - 
 tags:
-  -
+  - 
 meta:
   stub: true
   verified: false
   image:
 ---
-**Nisa Jańowina Peskilonna** is a [[Confia|Confian]] lawyer and politician who served as the 3rd President of the Confian Social Republic. She is the sister of former central banker [[Kukan Peskilonni]]

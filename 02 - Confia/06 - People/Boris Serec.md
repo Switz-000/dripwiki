@@ -62,9 +62,16 @@ organizations:
   - "[[Confederation of the Industries of the Confian Nation|CICN]]"
 titles:
   - title: "[[Confian President]]"
+    start_year: 1994
+    end_year: 1998
+    appointer: "[[List of Confian elections#1993 Confian presidential election]]"
+    parties:
+      - "[[Armotist Democratic Party|ALjP]]"
+    notes: Resigned
+  - title: "[[Confian President]]"
     start_year: 1987
-    end_year: 1996
-    appointer: "[[1987 Confian presidential election]]"
+    end_year: 1993
+    appointer: "[[List of Confian elections#1986 Confian presidential election]]"
     parties:
       - "[[Armotist Democratic Party|ALjP]]"
     notes:
