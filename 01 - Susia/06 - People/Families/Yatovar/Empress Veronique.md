@@ -98,7 +98,7 @@ titles:
     appointer:
     parties:
       -
-    notes: Reign ends at 163 AS in the family chart. Took the throne after the regency council.
+    notes:
 
 # ── WRITTEN WORKS ───────────────────────────────────────────────────────────
 written_works:

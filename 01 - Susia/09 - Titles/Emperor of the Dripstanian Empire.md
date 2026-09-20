@@ -24,6 +24,11 @@ interludes:
     start_year: 1815
     end_year: 1823
     notes: Civil war. [[Empress Prazde]] and [[Jartes I]] both claimed the throne.
+  - kind: regency
+    name: Filevir Gatojete
+    start_year: 1950
+    end_year: 1954
+    notes: Not royal. Served as Regent until collapse
 meta:
   stub: true
   verified: false

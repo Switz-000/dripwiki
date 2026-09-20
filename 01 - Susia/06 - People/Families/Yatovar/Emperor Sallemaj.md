@@ -54,14 +54,14 @@ parties:
 organizations:
   - 
 titles:
-  - title:
+  - title: "[[Emperor of the Dripstanian Empire]]"
     seat:
-    start_year:
-    end_year:
+    start_year: 1882
+    end_year: 1950
     appointer:
     parties:
       - 
-    notes:
+    notes: Dies with no clear sucessor, interim goverment takes over
 roles:
   - role:
     employer:
