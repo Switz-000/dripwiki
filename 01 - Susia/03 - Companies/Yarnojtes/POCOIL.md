@@ -8,7 +8,7 @@ founding_place: "[[New Duloc]]"
 headquarters: "[[Duolij]]"
 market_cap: 1200000000000
 yarnojte: false
-yarnojte_granted: 2031
+yarnojte_granted: 2041
 yarnojte_revoked: 2087
 fez_locations:
   - "[[Harioslaj Oil Zones FEZ]]"
