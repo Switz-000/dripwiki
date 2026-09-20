@@ -77,15 +77,15 @@ organizations:
 titles:
   - title: "[[Confian President]]"
     start_year: 1986
-    end_year: 1987
-    appointer: "[[1986 Confian presidential election]]"
+    end_year: 1986
+    appointer: "[[List of Confian elections#1985 Confian presidential election]]"
     parties:
       - "[[Movement for Syndicalist Renovation]]"
-    notes:
+    notes: Resigned
   - title: "[[Confian President]]"
     start_year: 1978
-    end_year: 1986
-    appointer: "[[1978 Confian presidential election]]"
+    end_year: 1985
+    appointer: "[[List of Confian elections#1977 Confian presidential election]]"
     parties:
       - "[[Movement for Syndicalist Renovation]]"
     notes: Left LjWP to found DSN in 1980
@@ -147,7 +147,7 @@ meta:
   verified: false
   image: null
 ---
-**Mariana Marianowina Turreš Ljeranna** (Racpalian Alphabet: Марьана Марьановіна Турреш Љеранна) was a Confian civil engineer, revolutionary guerilla fighter and politician that served as the 2nd President of the [[Confia|United Syndicates of Confia]].
+**Mariana Marianowina Turreš Ljeranna** (Racpalian Alphabet: Марьана Марьановіна Турреш Љеранна) was a Confian civil engineer, revolutionary guerilla fighter, politician and stateswoman who served as the 2nd President of the [[Confia|United Syndicates of Confia]].
 
 
 

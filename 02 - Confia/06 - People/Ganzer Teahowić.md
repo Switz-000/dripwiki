@@ -65,12 +65,12 @@ titles:
     notes:
   - title: "[[Confian Prime Minister]]"
     start_year: 2001
-    end_year: 2009
+    end_year: 2008
     appointer: "[[National Assembly of Confian Syndicates]]"
     parties:
       - "[[Syndicalist League]]"
     notes:
-  - title: "[[North Nijbanian Commissar]]"
+  - title: "[[Confian Commissar]]"
     seat: "[[Health]]"
     start_year: 1996
     end_year: 1998

@@ -99,7 +99,7 @@ Governor-General of the Land of Confia
 |  4  | [[Jagan Mantišew Peskilonni]] |    1797     |                       |           -            |       |         Dismissal         |
 |  5  |   [[Grawolja Tekurubićna]]    | 1797 - 1814 |  [[Empress Yaneoli]]  | [[Tekurubićni Patrol]] |       |        Resignation        |
 | ... |                               |             |                       |                        |       |                           |
-|  9  |       [[Jagan Lostan]]        | 1845 - 1859 |                       |                        |       |        Resignation        |
+|  9  |       [[Jagan Lostăn]]        | 1845 - 1859 |                       |                        |       |        Resignation        |
 
 ## Trivia
 
