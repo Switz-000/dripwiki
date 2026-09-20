@@ -52,9 +52,6 @@ education:
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
-  - title: Emperor
-    start_year: 1674
-    end_year: 1686
   - title: King of Forchev
     start_year:
     end_year: 1674
@@ -79,10 +76,9 @@ parties:                                        # partidos que ela ja pertenceu
 organizations:
   - "[[Dripstanian Empire]]"
 
-# ── OFFICES ─────────────────────────────────────────────────────────────────
-offices:
-  - title: Emperor of the Dripstanian Empire
-    employer:
+# ── TITLES AND ROLES ────────────────────────────────────────────────────────
+titles:
+  - title: "[[Emperor of the Dripstanian Empire]]"
     start_year: 1674
     end_year: 1686
     appointer: Founder

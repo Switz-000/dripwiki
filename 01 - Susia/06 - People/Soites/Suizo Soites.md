@@ -85,34 +85,30 @@ organizations:
   - "[[Susian Liberal Party]]"
   - "[[Free Susia Foundation]]"
 
-# ── OFFICES ─────────────────────────────────────────────────────────────────
-offices:
-  - title: CEO
-    employer: "[[Soites Group]]"
+# ── TITLES AND ROLES ────────────────────────────────────────────────────────
+titles:
+  - title: "[[CEO of the Soites Group]]"
     start_year: 1969
     end_year: 1981
     appointer: Self-founded
     parties:
       -
     notes: Founded the Soites Group in Neoveli. Retired from active management in 1981.
-  - title: President of Susia
-    employer: "[[Susian Federal Government]]"
+  - title: "[[President of Susia]]"
     start_year: 1958
     end_year: 1962
     appointer: "[[1958 Susian presidential election]]"
     parties:
       - "[[Susian Liberal Party]]"
     notes:
-  - title: President of Susia
-    employer: "[[Susian Federal Government]]"
+  - title: "[[President of Susia]]"
     start_year: 1954
     end_year: 1958
     appointer: "[[1954 Susian presidential election]]"
     parties:
       - "[[Susian Liberal Party]]"
     notes:
-  - title: Delegate, Constitutional Convention
-    employer:
+  - title: "[[Delegate to the Constitutional Convention]]"
     start_year: 1953
     end_year: 1954
     appointer: "[[National Agreement]]"

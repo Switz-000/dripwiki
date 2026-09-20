@@ -66,9 +66,6 @@ education:
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
-  - title: Emperor
-    start_year:
-    end_year:
   - title: Military Officer
     start_year:
     end_year:
@@ -93,16 +90,15 @@ parties:                                        # partidos que ela ja pertenceu
 organizations:
   -
 
-# ── OFFICES ─────────────────────────────────────────────────────────────────
-offices:
-  - title:
-    employer:
-    start_year:
-    end_year:
+# ── TITLES AND ROLES ────────────────────────────────────────────────────────
+titles:
+  - title: "[[Emperor of the Dripstanian Empire]]"
+    start_year: 1740
+    end_year: 1787
     appointer:
     parties:
       -
-    notes:
+    notes: Reign ends at 163 AS in the family chart. Took the throne after the regency council.
 
 # ── WRITTEN WORKS ───────────────────────────────────────────────────────────
 written_works:

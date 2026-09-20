@@ -80,31 +80,25 @@ parties:                                        # partidos que ela ja pertenceu
 organizations:
   -
 
-# ── OFFICES ─────────────────────────────────────────────────────────────────
-offices:
-  - title: CEO
-    employer: "[[Soites Group]]"
+# ── TITLES AND ROLES ────────────────────────────────────────────────────────
+titles:
+  - title: "[[CEO of the Soites Group]]"
     start_year: 1981
     end_year: 2031
     appointer: "[[Suizo Soites]]"
     parties:
       -
     notes: Assumed role upon Suizo's retirement from active management
-  - title: Regional Operations Manager, Central-East
+roles:
+  - role: Regional Operations Manager, Central-East
     employer: "[[Soites Group]]"
     start_year: 1979
     end_year: 1981
-    appointer: "[[Suizo Soites]]"
-    parties:
-      -
     notes: Oversaw Sužielaj, Misocévia, and the Neutral District. Regional strategy later adopted nationwide.
-  - title: Board Member
+  - role: Board Member
     employer: "[[Soites Group]]"
     start_year: 1976
     end_year: 1979
-    appointer: "[[Suizo Soites]]"
-    parties:
-      -
     notes:
 
 # ── WRITTEN WORKS ───────────────────────────────────────────────────────────

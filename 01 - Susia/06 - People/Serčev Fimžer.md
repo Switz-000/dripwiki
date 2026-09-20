@@ -70,18 +70,16 @@ parties:
 organizations:
   -
 
-# ── OFFICES ─────────────────────────────────────────────────────────────────
-offices:
-  - title: President of Susia
-    employer: "[[Susian Federal Government]]"
+# ── TITLES AND ROLES ────────────────────────────────────────────────────────
+titles:
+  - title: "[[President of Susia]]"
     start_year: 1962
     end_year: 1966
     appointer:
     parties:
       - "[[Susian Democratic Union]]"
     notes:
-  - title: President of Susia
-    employer: "[[Susian Federal Government]]"
+  - title: "[[President of Susia]]"
     start_year: 1966
     end_year: 1970
     appointer:

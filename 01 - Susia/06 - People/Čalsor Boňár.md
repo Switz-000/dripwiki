@@ -73,26 +73,23 @@ parties:                                        # partidos que ela ja pertenceu
 organizations:
   -
 
-# ── OFFICES ─────────────────────────────────────────────────────────────────
-offices:
-  - title: President of Susia
-    employer: Susian Federal Government
+# ── TITLES AND ROLES ────────────────────────────────────────────────────────
+titles:
+  - title: "[[President of Susia]]"
     start_year: 1982
     end_year: 1983
     appointer: 1982 Susian presidential election
     parties:
       - Susian Democratic Union
     notes: Died in office
-  - title: President of Susia
-    employer: Susian Federal Government
+  - title: "[[President of Susia]]"
     start_year: 1978
     end_year: 1982
     appointer: 1978 Susian presidential election
     parties:
       - Susian Democratic Union
     notes:
-  - title: President of Susia
-    employer: Susian Federal Government
+  - title: "[[President of Susia]]"
     start_year: 1974
     end_year: 1978
     appointer: 1974 Susian presidential election

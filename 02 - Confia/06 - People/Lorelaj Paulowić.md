@@ -56,25 +56,22 @@ parties:
   - "[[Confian Syndicalist Union]]"
 organizations:
   -
-offices:
-  - title: Leader of the Confian Nation
-    employer: "[[Confian National Government]]"
+titles:
+  - title: "[[Confian President]]"
     start_year: 1958
     end_year: 1977
     appointer: "[[Presidential Empowerment Amendment]]"
     parties:
       - "[[Confian Syndicalist Union]]"
     notes:
-  - title: President of the Confian Nation
-    employer: "[[Confian National Government]]"
+  - title: "[[Confian President]]"
     start_year: 1956
     end_year: 1958
     appointer: "[[National Assembly of Confian Syndicates]]"
     parties:
       - "[[Confian Syndicalist Union]]"
     notes:
-  - title: First Secretary of the Union of Confian Syndicalists
-    employer: "[[Confian Syndicalist Union]]"
+  - title: "[[First Secretary of the Union of Confian Syndicalists]]"
     start_year: 1955
     end_year: 1977
     appointer: "[[Confian Syndicalist Union]]"

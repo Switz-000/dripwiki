@@ -72,10 +72,9 @@ parties:                                        # partidos que ela ja pertenceu
 organizations:
   -
 
-# ── OFFICES ─────────────────────────────────────────────────────────────────
-offices:
-  - title: President of the Council of Commissars of the United Syndicates of Confia
-    employer: "[[Confian National Government]]"
+# ── TITLES AND ROLES ────────────────────────────────────────────────────────
+titles:
+  - title: "[[Confian Prime Minister]]"
     start_year: 1980
     end_year: 1982
     appointer: "[[National Assembly of Confian Syndicates]]"
