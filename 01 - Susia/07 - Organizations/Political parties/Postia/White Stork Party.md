@@ -45,7 +45,7 @@ tags:
   - politics/elections
 ---
 
-The **White Stork Party** is a centre-right political party in [[Postia]], affiliated with the [[Susian Democratic Union]] federation. Originating as a gentleman's club among the Postian propertied class before the republic, it became a formal party in 1942 and rose to prominence under [[Filevir Matri]], who served as governor of Postia during the [[Ant Wars]]. It takes its name from the state animal of Postia.
+The **White Stork Party** is a centre-right political party in [[Postia]], affiliated with the [[Susian Democratic Union]] federation. Originating as a gentleman's club among the Postian propertied class before the republic, it became a formal party in 1942 and rose to prominence under [[Filevir Matri]], who served as governor of Postia during the [[Ant wars]]. It takes its name from the state animal of Postia.
 
 ## Origins
 
@@ -55,13 +55,13 @@ The party maintained close ties with the [[Ženeže family]], whose financial sp
 
 ## Politics and conduct
 
-The White Stork Party held a centre-right, anti-syndicalist position rooted in the interests of Postian business and the commercial elite of [[Duolij]]. Unlike most parties active in Postia during the early republic, it maintained no eossaj. During [[Filevir Matri|Matri's]] governorship, the [[Postian National Guard]] served as the party's instrument of order, a position that proved decisive during the [[Ant Wars]] when Matri used state force against the eossajs while the party itself remained formally outside the street violence.
+The White Stork Party held a centre-right, anti-syndicalist position rooted in the interests of Postian business and the commercial elite of [[Duolij]]. Unlike most parties active in Postia during the early republic, it maintained no eossaj. During [[Filevir Matri|Matri's]] governorship, the [[Postian National Guard]] served as the party's instrument of order, a position that proved decisive during the [[Ant wars]] when Matri used state force against the eossajs while the party itself remained formally outside the street violence.
 
 ## Ant Wars
 
-> *Main article: [[Ant Wars]]*
+> *Main article: [[Ant wars]]*
 
-The party's governor, [[Filevir Matri]], oversaw the response to the [[Ant Wars]] and the [[New Duloc riot (1958)]]. The [[Supreme Court of Susia|Supreme Court]] ruling that declared eossajs unconstitutional left the White Stork Party institutionally advantaged: its rivals' paramilitary wings were dissolved while its own reliance on the National Guard fell outside the ruling's scope. The crackdown that followed consolidated the party's position in Postia.
+The party's governor, [[Filevir Matri]], oversaw the response to the [[Ant wars]] and the [[New Duloc riot (1958)]]. The [[Supreme Court of Susia|Supreme Court]] ruling that declared eossajs unconstitutional left the White Stork Party institutionally advantaged: its rivals' paramilitary wings were dissolved while its own reliance on the National Guard fell outside the ruling's scope. The crackdown that followed consolidated the party's position in Postia.
 
 ## See also
 
@@ -69,7 +69,7 @@ The party's governor, [[Filevir Matri]], oversaw the response to the [[Ant Wars]
 - [[Ženeže family]]
 - [[Susian Democratic Union]]
 - [[Postian National Guard]]
-- [[Ant Wars]]
+- [[Ant wars]]
 - [[New Duloc riot (1958)]]
 - [[Supreme Court of Susia]]
 - [[Eossaj]]

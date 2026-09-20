@@ -6,7 +6,7 @@ era:
 tags:
   - conflict/military
 ---
-An **eossaj** (plural: eossajs) was a party-affiliated paramilitary organization active in [[Susia]] during the early republic period. The word derives from the Susian term for ant nest. Eossajs organized around political parties, conducted street parades and public demonstrations, engaged in intimidation of rival organizations, and fought in direct confrontations with opposing groups. They were declared unconstitutional by the [[Supreme Court of Susia]] during the [[Ant Wars]] and dissolved by 1959.
+An **eossaj** (plural: eossajs) was a party-affiliated paramilitary organization active in [[Susia]] during the early republic period. The word derives from the Susian term for ant nest. Eossajs organized around political parties, conducted street parades and public demonstrations, engaged in intimidation of rival organizations, and fought in direct confrontations with opposing groups. They were declared unconstitutional by the [[Supreme Court of Susia]] during the [[Ant wars]] and dissolved by 1959.
 
 ## Origins
 
@@ -24,7 +24,7 @@ Not all parties maintained eossajs. The [[White Stork Party]] of Postia had no p
 
 ## Supreme Court ruling and dissolution
 
-> *Main article: [[Ant Wars]]*
+> *Main article: [[Ant wars]]*
 
 The constitutional status of eossajs was contested throughout their existence. The combination of formal political affiliation and armed organization created legal ambiguity that was not resolved until the [[Supreme Court of Susia]] ruled on the question following the [[New Duloc riot (1958)]]. The Court found that while the constitution protected the right to bear arms and freedom of political association separately, the formal institutionalization of armed bodies under political party structures fell outside constitutional protections.
 
@@ -32,7 +32,7 @@ The ruling was contested, particularly by the Knights of the Republic and PrV le
 
 ## See also
 
-- [[Ant Wars]]
+- [[Ant wars]]
 - [[New Duloc riot (1958)]]
 - [[Knights of the Republic]]
 - [[Movement of New Susians]]

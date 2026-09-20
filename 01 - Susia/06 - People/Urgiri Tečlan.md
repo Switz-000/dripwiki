@@ -8,7 +8,7 @@ known_for:
     notes: Perpetrator
   - item: "[[Minutemen]]"
     notes: Affiliated member
-  - item: "[[Ant Wars]]"
+  - item: "[[Ant wars]]"
 sex: Male
 birth:
   year: 1927
@@ -42,7 +42,7 @@ tags:
 meta:
   stub: false
   verified: false
-  image: null
+  image:
 ---
 
 **Urgiri Tečlan** (1927–1958) was a Susian anarchist affiliated with the [[Minutemen]] who attempted to assassinate [[Filevir Matri]], then governor of [[Postia]], during a public event in [[Duolij]] on 14 November 1958. Three people were killed in the attack and Matri was wounded. Tečlan was shot dead at the scene by security personnel.
@@ -63,14 +63,14 @@ The event was being recorded by multiple cameras and broadcast live by Postian P
 
 ## Legacy
 
-The official record offered no platform for Tečlan's account, and the absence of a trial or testimony left his stated reasoning undocumented. His identity and motivation were subsequently subordinated to the political narrative [[Filevir Matri|Matri]] constructed around the attack, which strengthened Matri's anti-syndicalist credentials and validated the crackdown of the [[Ant Wars]] period in public memory.
+The official record offered no platform for Tečlan's account, and the absence of a trial or testimony left his stated reasoning undocumented. His identity and motivation were subsequently subordinated to the political narrative [[Filevir Matri|Matri]] constructed around the attack, which strengthened Matri's anti-syndicalist credentials and validated the crackdown of the [[Ant wars]] period in public memory.
 
 ## See also
 
 - [[Matri assassination attempt]]
 - [[Filevir Matri]]
 - [[Minutemen]]
-- [[Ant Wars]]
+- [[Ant wars]]
 - [[Duolij]]
 - [[Postia]]
 - [[White Stork Party]]

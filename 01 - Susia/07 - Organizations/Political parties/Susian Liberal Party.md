@@ -90,7 +90,7 @@ The party was a federation of affiliated state parties coordinating on federal p
 
 ### Ant Wars
 
-> *Main article: [[Ant Wars]]*
+> *Main article: [[Ant wars]]*
 
 The [[Knights of the Republic]] were dissolved in 1959 following the [[Supreme Court of Susia|Supreme Court]] ruling that declared eossajs unconstitutional and the crackdown conducted in [[Postia]] under governor [[Filevir Matri]]. The [[Pačese ro Virspruje]] contested the ruling and lost its principal organizational instrument.
 
@@ -123,7 +123,7 @@ The federation was dissolved in 2038 at [[The Great Transition|the Great Transit
 - [[Filňar Čantij]]
 - [[Armadesh Versij]]
 - [[List of Susian presidents]]
-- [[Ant Wars]]
+- [[Ant wars]]
 - [[Continental Divide]]
 - [[National Care Act of 1981]]
 - [[Coalition of State's Rights]]

@@ -45,7 +45,7 @@ tags:
   - society/immigration
 ---
 
-The **Movement of New Susians** was a self-defense organization formed by [[Confia|Confian]] refugees in [[New Duloc]], [[Postia]], in the early years of the republic. Organized around neighborhood militias, it operated outside partisan politics and functioned primarily to protect immigrant enclaves from street violence during the [[Ant Wars]] (1954–1959).
+The **Movement of New Susians** was a self-defense organization formed by [[Confia|Confian]] refugees in [[New Duloc]], [[Postia]], in the early years of the republic. Organized around neighborhood militias, it operated outside partisan politics and functioned primarily to protect immigrant enclaves from street violence during the [[Ant wars]] (1954–1959).
 
 ## Origins
 
@@ -61,7 +61,7 @@ The movement maintained no formal relationship with the [[Pačese ro Virspruje|P
 
 ## Ant Wars and the New Duloc riot
 
-> *Main article: [[Ant Wars]]*
+> *Main article: [[Ant wars]]*
 
 During the [[New Duloc riot (1958)]], the movement's military discipline and the combat experience of its membership produced outcomes distinct from the rest of the city. While surrounding neighborhoods suffered sustained looting and arson over several days, the movement's defended blocks held. Casualties among the Confian community were significantly lower than in comparable areas. The contrast was visible and documented when the [[Postian National Guard]] arrived to restore order.
 
@@ -73,7 +73,7 @@ The movement's position deteriorated sharply after 1961, when the [[Federal Loya
 
 ## See also
 
-- [[Ant Wars]]
+- [[Ant wars]]
 - [[New Duloc riot (1958)]]
 - [[Confian anarchy]]
 - [[Confian secession war]]
