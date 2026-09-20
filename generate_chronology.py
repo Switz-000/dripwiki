@@ -194,7 +194,7 @@ def load_titles(files) -> dict:
     return titles
 
 
-def interlude_events(titles: dict) -> list[tuple[int, str]]:
+def interlude_events(titles: dict, paths: dict) -> list[tuple[int, str, str]]:
     """Years a title stood in regency, dispute, vacancy or abolition."""
     events = []
     for name, spec in titles.items():
@@ -207,11 +207,73 @@ def interlude_events(titles: dict) -> list[tuple[int, str]]:
             tail = f" ({what})" if what else ""
             notes = _notes_text(i)
             start, end = _year(i.get("start_year")), _year(i.get("end_year"))
+            country = country_of(paths[name]) if name in paths else ""
             if start is not None:
-                events.append((start, f"**{label} begins**: {link}{tail}{notes}"))
+                events.append((start, f"**{label} begins**: {link}{tail}{notes}", country))
             if end is not None:
-                events.append((end, f"**{label} ends**: {link}{tail}"))
+                events.append((end, f"**{label} ends**: {link}{tail}", country))
     return events
+
+
+# ── Spans ─────────────────────────────────────────────────────────────────────
+# Anything with a start and an end: a term, a war, an institution's life, an
+# interlude. The markdown shows these as two events; the site draws them as
+# one bar, so they are collected here as well.
+
+COUNTRIES = {
+    "01 - Susia": "Susia", "02 - Confia": "Confia", "05 - Ditania": "Ditania",
+    "07 - Ariwaro": "Ariwaro", "10 - Dripstanian Incria": "Incria",
+    "99 - Rest of the World": "Rest of the world",
+}
+
+
+def country_of(rel: Path) -> str:
+    return COUNTRIES.get(rel.parts[0], "")
+
+
+def spans_of(fm: dict, name: str, rel: Path, titles: dict) -> list[dict]:
+    country = country_of(rel)
+    kind = str(fm.get("type") or "")
+    out = []
+
+    def add(lane, label, start, end, **extra):
+        a, b = _year(start), _year(end)
+        if a is None and b is None:
+            return
+        out.append({"lane": lane, "label": label, "start": a, "end": b,
+                    "country": country, **{k: v for k, v in extra.items() if v}})
+
+    if kind == "person":
+        for post in (fm.get("titles") or []):
+            if not isinstance(post, dict) or not _has(post.get("title")):
+                continue
+            title_name = _name(post.get("title"))
+            spec = titles.get(title_name, {})
+            add("titles", name, post.get("start_year"), post.get("end_year"),
+                title=title_name, display=title_display(spec, post, fm.get("sex")),
+                seat=_name(post.get("seat")), holder=name)
+    elif kind in ("organization", "institution", "company"):
+        add("institutions", name, fm.get("founded"), fm.get("dissolved"))
+    elif kind in ("event", "war", "rebellion", "atrocity", "project"):
+        add("events", name, fm.get("date_start"), fm.get("date_end"))
+    return out
+
+
+def interlude_spans(titles: dict, paths: dict) -> list[dict]:
+    out = []
+    for name, spec in titles.items():
+        for i in spec.get("interludes") or []:
+            if not isinstance(i, dict):
+                continue
+            label = INTERLUDE_LABELS.get(str(i.get("kind") or "").strip().lower(), "Interlude")
+            a, b = _year(i.get("start_year")), _year(i.get("end_year"))
+            if a is None and b is None:
+                continue
+            out.append({"lane": "titles", "label": _text(i.get("name")) or label,
+                        "start": a, "end": b, "title": name,
+                        "interlude": str(i.get("kind") or "other").strip().lower(),
+                        "country": country_of(paths[name])})
+    return out
 
 
 # ── Event extraction ──────────────────────────────────────────────────────────
@@ -484,8 +546,11 @@ def main():
         and f.resolve() != OUTPUT_FILE.resolve()
     ]
     titles = load_titles(files)
+    paths = {f.stem: f.relative_to(VAULT_ROOT) for f in files}
+    spans: list[dict] = []
 
-    def note(year: int, label: str, source: str, source_type: str, election: str = ""):
+    def note(year: int, label: str, source: str, source_type: str, election: str = "",
+             country: str = ""):
         by_year[year].append(label)
         m = re.match(r"\*\*(.+?)\*\*: (.*)", label, re.S)
         records.append({
@@ -494,6 +559,7 @@ def main():
             "text": m.group(2) if m else label,
             "source": source,
             "source_type": source_type,
+            **({"country": country} if country else {}),
             **({"election": election} if election else {}),
         })
 
@@ -503,11 +569,14 @@ def main():
             continue
 
         title = md_file.stem
+        rel = md_file.relative_to(VAULT_ROOT)
         for year, label in extract_events(fm, title, by_election, titles):
-            note(year, label, title, str(fm.get("type") or ""))
+            note(year, label, title, str(fm.get("type") or ""), country=country_of(rel))
+        spans.extend(spans_of(fm, title, rel, titles))
 
-    for year, label in interlude_events(titles):
-        note(year, label, "", "title")
+    for year, label, country in interlude_events(titles, paths):
+        note(year, label, "", "title", country=country)
+    spans.extend(interlude_spans(titles, paths))
 
     if not by_year and not by_election:
         print("No dated events found.")
@@ -577,8 +646,10 @@ def main():
             records.append({"year": year, "kind": "Appointment", "text": entry,
                             "source": "", "source_type": "person", "election": election_link})
     records.sort(key=lambda r: (r["year"], r["kind"], r["text"]))
+    spans.sort(key=lambda s: (s["start"] if s["start"] is not None else 10**6,
+                              s["end"] if s["end"] is not None else 10**6, s["label"]))
     with open(JSON_FILE, "w", encoding="utf-8", newline="\n") as f:
-        json.dump({"events": records}, f, ensure_ascii=False, indent=1)
+        json.dump({"events": records, "spans": spans}, f, ensure_ascii=False, indent=1)
         f.write("\n")
 
     total_regular  = sum(len(v) for v in by_year.values())
@@ -588,7 +659,8 @@ def main():
     # typographic characters and would raise after the file was written.
     print(
         f"CHRONOLOGY.md written: {total} events across {len(by_year)} years "
-        f"({len(by_election)} election block(s)); chronology.json: {len(records)} events."
+        f"({len(by_election)} election block(s)); "
+        f"chronology.json: {len(records)} events, {len(spans)} spans."
     )
 
 
