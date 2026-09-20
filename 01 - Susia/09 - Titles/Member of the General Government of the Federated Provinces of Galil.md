@@ -19,4 +19,11 @@ meta:
 person articles. Edit those articles, not this block. %%
 
 %% holders:start %%
+
+| Name | Term | Party | Appointed by | Notes |
+| --- | :-: | --- | --- | --- |
+| [[Armadesh Versij]] | 1840 - 1844 | [[Independent]] | [[General Government of the Federated Provinces of Galil]] | Became the general government's de facto leader as the rivalry between Paroska and Satratonie deepened. |
+| [[Kaichet Satratonie]] | 1840 - 1844 | [[Independent]] | [[General Government of the Federated Provinces of Galil]] |  |
+| [[Zagoste Paroska]] | 1840 - 1844 | [[Independent]] | [[General Government of the Federated Provinces of Galil]] |  |
+
 %% holders:end %%

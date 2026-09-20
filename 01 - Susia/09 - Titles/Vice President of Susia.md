@@ -20,4 +20,10 @@ meta:
 person articles. Edit those articles, not this block. %%
 
 %% holders:start %%
+
+| No. | Name | Term | Party |
+| :-: | --- | :-: | --- |
+| 1 | [[Ergagério Sienes]] | 1958 - 1962 | [[Susian Liberal Party]] |
+| 2 | [[Filevir Matri]] | 1974 - 1983 | [[Susian Democratic Union]] |
+
 %% holders:end %%

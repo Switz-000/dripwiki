@@ -24,4 +24,15 @@ meta:
 person articles. Edit those articles, not this block. %%
 
 %% holders:start %%
+
+### President of the Council of Commissars of the United Syndicates of Confia (1978 - present)
+
+| No. | Name | Term | Party | Appointed by |
+| :-: | --- | :-: | --- | --- |
+| 1 | [[Lenseka Japlenowina]] | 1978 - 1980 | [[Progressive Republican Party]] | [[National Assembly of Confian Syndicates]] |
+| 2 | [[Senjap Kunsekowić]] | 1980 - 1982 | [[Confian Liberal Party]] | [[National Assembly of Confian Syndicates]] |
+| 3 | [[Boris Serec]] | 1983 - 1987 | [[Armotist Democratic Party\|ALjP]] | [[National Assembly of Confian Syndicates]] |
+| 4 | [[Katerina Armoljubca Nožeslawna]] | 1990 - 1996 | [[Syndicalist League]] | [[National Assembly of Confian Syndicates]] |
+| 5 | [[Ganzer Teahowić]] | 2001 - 2009 | [[Syndicalist League]] | [[National Assembly of Confian Syndicates]] |
+
 %% holders:end %%

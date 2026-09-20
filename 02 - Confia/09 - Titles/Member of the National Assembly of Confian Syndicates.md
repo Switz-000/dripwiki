@@ -19,4 +19,11 @@ meta:
 person articles. Edit those articles, not this block. %%
 
 %% holders:start %%
+
+| Name | Term | Party | Election |
+| --- | :-: | --- | --- |
+| [[Katerina Armoljubca Nožeslawna]] | 1981 - 1982 | [[Syndicalist League]] | [[1980 Confian general election]] |
+| [[Katerina Armoljubca Nožeslawna]] | 1982 - 1986 | [[Syndicalist League]] | [[1982 Confian general election]] |
+| [[Katerina Armoljubca Nožeslawna]] | 1987 - 1990 | [[Syndicalist League]] | [[1986 Confian general election]] |
+
 %% holders:end %%

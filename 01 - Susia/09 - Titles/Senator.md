@@ -50,4 +50,12 @@ meta:
 person articles. Edit those articles, not this block. %%
 
 %% holders:start %%
+
+### Senator for Postia
+
+| Name | Term | Party |
+| --- | :-: | --- |
+| [[Filevir Matri]] | 1962 - 1966 | [[Susian Democratic Union]] |
+| [[Filevir Matri]] | 1970 - 1974 | [[Susian Democratic Union]] |
+
 %% holders:end %%

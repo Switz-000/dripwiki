@@ -20,4 +20,9 @@ meta:
 person articles. Edit those articles, not this block. %%
 
 %% holders:start %%
+
+| No. | Name | Term |
+| :-: | --- | :-: |
+| 1 | [[Kukan Peskilonni]] | 1986 - 1996 |
+
 %% holders:end %%

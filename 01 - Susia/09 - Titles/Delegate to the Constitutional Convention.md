@@ -19,4 +19,9 @@ meta:
 person articles. Edit those articles, not this block. %%
 
 %% holders:start %%
+
+| Name | Term | Party | Appointed by | Notes |
+| --- | :-: | --- | --- | --- |
+| [[Suizo Soites]] | 1953 - 1954 | [[Susian Liberal Party]] | [[National Agreement]] | Led negotiations between former imperial provinces. |
+
 %% holders:end %%

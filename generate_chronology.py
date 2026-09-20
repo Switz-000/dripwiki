@@ -9,6 +9,7 @@ written in a field this script does not read will not appear; see the
 extract_events() branches for what is read per type.
 """
 
+import json
 import os
 import re
 import sys
@@ -20,6 +21,8 @@ from collections import defaultdict
 
 VAULT_ROOT = Path(os.environ.get("VAULT_ROOT", "."))
 OUTPUT_FILE = VAULT_ROOT / "CHRONOLOGY.md"
+# The same events in a form a program can read, for the site's timeline page.
+JSON_FILE = VAULT_ROOT / "chronology.json"
 
 # Folders to skip. "00 - Meta" holds templates (which carry sample years, e.g.
 # the Company Template's yarnojte block) and non-canon session reports, so it
@@ -107,12 +110,117 @@ def _is_election(appointer) -> bool:
     return _has(appointer) and "election" in str(appointer).lower()
 
 
+# ── Titles ────────────────────────────────────────────────────────────────────
+# A title is an article with `type: title`. It owns the display rules: the
+# institution, the forms a holder's title takes, the sub-titles that split it
+# by place (seats) or by time (periods), and the interludes, which are years
+# the title was not held in the normal way.
+
+INTERLUDE_LABELS = {
+    "regency":   "Regency",
+    "disputed":  "Disputed succession",
+    "vacant":    "Vacancy",
+    "abolished": "Abolition",
+    "other":     "Interlude",
+}
+
+
+def _name(value) -> str:
+    """"[[Target|Label]]" or "Target" as the bare target name."""
+    if not _has(value):
+        return ""
+    s = str(value).strip()
+    m = re.fullmatch(r"\[\[([^\]]+)\]\]", s)
+    if m:
+        s = m.group(1).split("|")[0]
+    return s.strip()
+
+
+def title_display(spec: dict, post: dict, sex) -> str:
+    """What a holder of this title was called, for this seat and these years.
+
+    A seat's name wins, then the period in force when the term began, then the
+    title's own name with the form matching the holder.
+    """
+    if not spec:
+        return _name(post.get("title")) or "?"
+    base = spec.get("name", "")
+
+    seat = _name(post.get("seat"))
+    if seat:
+        for s in spec.get("seats") or []:
+            if _name(s.get("for")) == seat:
+                return _text(s.get("name")) or f"{base} for {seat}"
+        return f"{base} for {seat}"
+
+    # The period a term belongs to is the one it overlaps most. Comparing
+    # start years alone breaks on the boundary year, where one period ends and
+    # the next begins: a term running 1958 to 1977 belongs to the period that
+    # starts in 1958, while a term lasting only 1977 belongs to the one ending
+    # then.
+    start = _year(post.get("start_year"))
+    if start is not None:
+        end = _year(post.get("end_year"))
+        if end is None:
+            end = start
+        best, best_overlap = None, None
+        for s in spec.get("subtitles") or []:
+            a = _year(s.get("start_year"))
+            b = _year(s.get("end_year"))
+            a = -10**6 if a is None else a
+            b = 10**6 if b is None else b
+            overlap = min(end, b) - max(start, a)
+            if best_overlap is None or overlap > best_overlap:
+                best, best_overlap = s, overlap
+        if best is not None and best_overlap >= 0:
+            return _text(best.get("name")) or base
+
+    forms = spec.get("forms") if isinstance(spec.get("forms"), dict) else {}
+    male, female = _text(forms.get("male")), _text(forms.get("female"))
+    if female and male and str(sex or "").strip().lower() == "female" and base.startswith(male):
+        return female + base[len(male):]
+    return base
+
+
+def load_titles(files) -> dict:
+    """name -> the title article's frontmatter, for every `type: title` note."""
+    titles = {}
+    for path in files:
+        fm = parse_frontmatter(path)
+        if fm.get("type") == "title":
+            fm = dict(fm)
+            fm["name"] = path.stem
+            titles[path.stem] = fm
+    return titles
+
+
+def interlude_events(titles: dict) -> list[tuple[int, str]]:
+    """Years a title stood in regency, dispute, vacancy or abolition."""
+    events = []
+    for name, spec in titles.items():
+        link = f"[[{name}]]"
+        for i in spec.get("interludes") or []:
+            if not isinstance(i, dict):
+                continue
+            label = INTERLUDE_LABELS.get(str(i.get("kind") or "").strip().lower(), "Interlude")
+            what = _text(i.get("name"))
+            tail = f" ({what})" if what else ""
+            notes = _notes_text(i)
+            start, end = _year(i.get("start_year")), _year(i.get("end_year"))
+            if start is not None:
+                events.append((start, f"**{label} begins**: {link}{tail}{notes}"))
+            if end is not None:
+                events.append((end, f"**{label} ends**: {link}{tail}"))
+    return events
+
+
 # ── Event extraction ──────────────────────────────────────────────────────────
 
 def extract_events(
     fm: dict,
     title: str,
     by_election: dict,
+    titles: dict | None = None,
 ) -> list[tuple[int, str]]:
     """
     Returns a list of (year, label) tuples for regular (non-election) events.
@@ -181,12 +289,17 @@ def extract_events(
                      + (f" ({degree})" if degree else ""))],
                    _notes_text(edu))
 
-        for office in entries("offices"):
+        # Titles only. A role is a job, not an office, so it produces no event.
+        for office in entries("titles"):
+            spec      = (titles or {}).get(_name(office.get("title")), {})
             appointer = office.get("appointer")
             start     = office.get("start_year")
-            org       = _wl(office.get("employer"))
-            at_org    = f" at {org}" if org else ""
-            title_str = _text(office.get("title")) or "?"
+            title_str = title_display(spec, office, fm.get("sex"))
+            org       = _wl(spec.get("institution"))
+            # "Emperor of the Dripstanian Empire at [[Dripstanian Empire]]"
+            # says it twice, so the institution is dropped when the title
+            # already names it
+            at_org    = f" at {org}" if org and _name(org).lower() not in title_str.lower() else ""
             party     = _wl(office.get("parties"))
             notes     = _notes_text(office)
 
@@ -363,21 +476,38 @@ def main():
     by_year: defaultdict[int, list[str]] = defaultdict(list)
     # by_election[(year, "[[Election Note]]")] = [formatted person lines]
     by_election: dict[tuple[int, str], list[str]] = {}
+    records: list[dict] = []          # the same events, for chronology.json
 
-    for md_file in sorted(VAULT_ROOT.rglob("*.md")):
-        rel = md_file.relative_to(VAULT_ROOT)
-        if any(part in SKIP_DIRS for part in rel.parts):
-            continue
-        if md_file.resolve() == OUTPUT_FILE.resolve():
-            continue
+    files = [
+        f for f in sorted(VAULT_ROOT.rglob("*.md"))
+        if not any(part in SKIP_DIRS for part in f.relative_to(VAULT_ROOT).parts)
+        and f.resolve() != OUTPUT_FILE.resolve()
+    ]
+    titles = load_titles(files)
 
+    def note(year: int, label: str, source: str, source_type: str, election: str = ""):
+        by_year[year].append(label)
+        m = re.match(r"\*\*(.+?)\*\*: (.*)", label, re.S)
+        records.append({
+            "year": year,
+            "kind": m.group(1) if m else "",
+            "text": m.group(2) if m else label,
+            "source": source,
+            "source_type": source_type,
+            **({"election": election} if election else {}),
+        })
+
+    for md_file in files:
         fm = parse_frontmatter(md_file)
         if not fm:
             continue
 
         title = md_file.stem
-        for year, label in extract_events(fm, title, by_election):
-            by_year[year].append(label)
+        for year, label in extract_events(fm, title, by_election, titles):
+            note(year, label, title, str(fm.get("type") or ""))
+
+    for year, label in interlude_events(titles):
+        note(year, label, "", "title")
 
     if not by_year and not by_election:
         print("No dated events found.")
@@ -440,6 +570,17 @@ def main():
     with open(OUTPUT_FILE, "w", encoding="utf-8", newline="\n") as f:
         f.write("\n".join(lines))
 
+    # The election blocks carry their own records, added here so the JSON
+    # holds every event the markdown does.
+    for (year, election_link), people in by_election.items():
+        for entry in people:
+            records.append({"year": year, "kind": "Appointment", "text": entry,
+                            "source": "", "source_type": "person", "election": election_link})
+    records.sort(key=lambda r: (r["year"], r["kind"], r["text"]))
+    with open(JSON_FILE, "w", encoding="utf-8", newline="\n") as f:
+        json.dump({"events": records}, f, ensure_ascii=False, indent=1)
+        f.write("\n")
+
     total_regular  = sum(len(v) for v in by_year.values())
     total_election = sum(len(v) for v in by_election.values())
     total          = total_regular + total_election
@@ -447,7 +588,7 @@ def main():
     # typographic characters and would raise after the file was written.
     print(
         f"CHRONOLOGY.md written: {total} events across {len(by_year)} years "
-        f"({len(by_election)} election block(s))."
+        f"({len(by_election)} election block(s)); chronology.json: {len(records)} events."
     )
 
 
