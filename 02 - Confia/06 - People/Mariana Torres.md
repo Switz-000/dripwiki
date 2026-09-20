@@ -73,26 +73,23 @@ parties:                                        # partidos que ela ja pertenceu
 organizations:
   -
 
-# ── OFFICES ─────────────────────────────────────────────────────────────────
-offices:
-  - title: President of the Confian Nation
-    employer: "[[Confian National Government]]"
+# ── TITLES AND ROLES ────────────────────────────────────────────────────────
+titles:
+  - title: "[[Confian President]]"
     start_year: 1986
     end_year: 1987
     appointer: "[[1986 Confian presidential election]]"
     parties:
       - "[[Movement for Syndicalist Renovation]]"
     notes:
-  - title: President of the Confian Nation
-    employer: "[[Confian National Government]]"
+  - title: "[[Confian President]]"
     start_year: 1978
     end_year: 1986
     appointer: "[[1978 Confian presidential election]]"
     parties:
       - "[[Movement for Syndicalist Renovation]]"
     notes: Left LjWP to found DSN in 1980
-  - title: Leader of the Confian Nation
-    employer: "[[Confian National Government]]"
+  - title: "[[Confian President]]"
     start_year: 1977
     end_year: 1977
     appointer: "[[Bayonet Revolution]]"

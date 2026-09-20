@@ -56,9 +56,6 @@ education:
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
-  - title: Emperor
-    start_year: 1837
-    end_year: 1882
   - title: Military Officer
     start_year:
     end_year: 1837
@@ -83,10 +80,9 @@ parties:                                        # partidos que ela ja pertenceu
 organizations:
   - "[[Dripstanian Empire]]"
 
-# ── OFFICES ─────────────────────────────────────────────────────────────────
-offices:
-  - title: Emperor of the Dripstanian Empire
-    employer:
+# ── TITLES AND ROLES ────────────────────────────────────────────────────────
+titles:
+  - title: "[[Emperor of the Dripstanian Empire]]"
     start_year: 1837
     end_year: 1882
     appointer: Hereditary succession

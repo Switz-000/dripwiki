@@ -55,41 +55,39 @@ parties:
   -
 organizations:
   - "[[Federation of Confian Syndicates]]"
-offices:
-  - title: President of the Confian Social Republic
-    employer: "[[Confian National Government]]"
+titles:
+  - title: "[[Confian President]]"
     start_year: 2009
     end_year: 2011
     appointer: "[[List of Confian elections|2009 Confian presidential election]]"
     parties:
       - "[[Syndicalist League]]"
     notes:
-  - title: President of the Council of Commissars of the United Syndicates of Confia
-    employer: "[[Confian National Government]]"
+  - title: "[[Confian Prime Minister]]"
     start_year: 2001
     end_year: 2009
     appointer: "[[National Assembly of Confian Syndicates]]"
     parties:
       - "[[Syndicalist League]]"
     notes:
-  - title: Commissar of Health
-    employer: "[[North Nijbania]]"
+  - title: "[[North Nijbanian Commissar]]"
+    seat: "[[Health]]"
     start_year: 1996
     end_year: 1998
     appointer: "[[Noljež Teššan]]"
     parties:
       - "[[Syndicalist League]]"
     notes:
-  - title: State Governor of North Nijbania
-    employer: "[[North Nijbania]]"
+  - title: "[[Confian State Governor]]"
+    seat: "[[North Nijbania]]"
     start_year: 1992
     end_year: 1996
     appointer: "[[List of Confian elections|1992 gubernatorial elections in Confia]]"
     parties:
       - "[[Syndicalist League]]"
     notes:
-  - title: State Governor of North Nijbania
-    employer: "[[North Nijbania]]"
+  - title: "[[Confian State Governor]]"
+    seat: "[[North Nijbania]]"
     start_year: 1988
     end_year: 1992
     appointer: "[[List of Confian elections|1988 gubernatorial elections in Confia]]"

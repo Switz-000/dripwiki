@@ -10,7 +10,7 @@ sex: Female
 ethnicity:
 religion:
 citizenship:
-  - 
+  -
 nationality:
   - "[[Dripstanian Empire|Dripstanian]]"
   - "[[Confia|Confian]]"
@@ -35,7 +35,7 @@ education:
   - degree:
     institution:
     year:
-  - 
+  -
 occupation:
   - title:
     start_year:
@@ -47,23 +47,30 @@ military_service:
     start_year:
     end_year:
     conflicts:
-      - 
+      -
     notes:
 political_alignment:
-  - 
+  -
 party:
 parties:
-  - 
+  -
 organizations:
-  - 
-offices:
+  -
+titles:
   - title:
-    employer:
+    seat:
     start_year:
     end_year:
     appointer:
     parties:
-      - 
+      -
+    notes:
+
+roles:
+  - role:
+    employer:
+    start_year:
+    end_year:
     notes:
 written_works:
   - title:

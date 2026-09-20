@@ -55,15 +55,22 @@ party:
 parties:
   - "[[Progressive Republican Party|Progressive Republican Party (1954-1955)]]"
 organizations:
-  - 
-offices:
+  -
+titles:
   - title:
-    employer:
+    seat:
     start_year:
     end_year:
     appointer:
     parties:
-      - 
+      -
+    notes:
+
+roles:
+  - role:
+    employer:
+    start_year:
+    end_year:
     notes:
 written_works:
   - title: Rethinking Syndicalism (1959)

@@ -60,25 +60,23 @@ parties:
   - "[[Armotist Democratic Party|ALjP]]"
 organizations:
   - "[[Confederation of the Industries of the Confian Nation|CICN]]"
-offices:
-  - title: President of the Confian Nation
-    employer: "[[Confian National Government]]"
+titles:
+  - title: "[[Confian President]]"
     start_year: 1987
     end_year: 1996
     appointer: "[[1987 Confian presidential election]]"
     parties:
       - "[[Armotist Democratic Party|ALjP]]"
     notes:
-  - title: President of the Council of Commissars of the United Syndicates of Confia
-    employer: "[[Confian National Government]]"
+  - title: "[[Confian Prime Minister]]"
     start_year: 1983
     end_year: 1987
     appointer: "[[National Assembly of Confian Syndicates]]"
     parties:
       - "[[Armotist Democratic Party|ALjP]]"
     notes:
-  - title: Commissar of Education
-    employer: "[[Confian National Government]]"
+  - title: "[[Confian Commissar]]"
+    seat: "[[Education]]"
     start_year: 1978
     end_year: 1982
     appointer: "[[Senjap Kunsekowić]]"

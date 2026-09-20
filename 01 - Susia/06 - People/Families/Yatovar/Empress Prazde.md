@@ -61,10 +61,7 @@ education:
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
-  - title: Empress
-    start_year: 1815
-    end_year: 1823
-  - title: Queen of [[Zaphonia]]
+  - title:
     start_year:
     end_year:
 
@@ -88,24 +85,22 @@ parties:                                        # partidos que ela ja pertenceu
 organizations:
   - "[[Dripstanian Empire]]"
 
-# ── OFFICES ─────────────────────────────────────────────────────────────────
-offices:
-  - title: Empress of the Dripstanian Empire
-    employer:
+# ── TITLES AND ROLES ────────────────────────────────────────────────────────
+titles:
+  - title: "[[Emperor of the Dripstanian Empire]]"
     start_year: 1815
     end_year: 1823
     appointer: Hereditary succession
     parties:
       -
     notes: Reign disputed throughout by [[Jartes I]]. See [[Dripstanian Civil War]].
-  - title: Queen of [[Zaphonia]]
-    employer:
-    start_year:
-    end_year:
+  - title: "[[Queen of Zaphonia]]"
+    start_year: 1793
+    end_year: 1825
     appointer:
     parties:
       -
-    notes:
+    notes: 157 AS to 125 AS in the family chart.
 
 # ── WRITTEN WORKS ───────────────────────────────────────────────────────────
 written_works:

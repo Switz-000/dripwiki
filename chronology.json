@@ -1,0 +1,3646 @@
+{
+ "events": [
+  {
+   "year": 1596,
+   "kind": "Birth",
+   "text": "[[Kaichet of Frajes]] born",
+   "source": "Kaichet of Frajes",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1623,
+   "kind": "Birth",
+   "text": "[[Damhor of Frajes]] born",
+   "source": "Damhor of Frajes",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1637,
+   "kind": "Birth",
+   "text": "[[Saint Emperor Mantichev]] born in [[Dripstanian Empire]]",
+   "source": "Saint Emperor Mantichev",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1653,
+   "kind": "Death",
+   "text": "[[Damhor of Frajes]] died",
+   "source": "Damhor of Frajes",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1653,
+   "kind": "Death",
+   "text": "[[Kaichet of Frajes]] died",
+   "source": "Kaichet of Frajes",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1657,
+   "kind": "Birth",
+   "text": "[[Emperor Agamilos]] born in [[Dripstanian Empire]]",
+   "source": "Emperor Agamilos",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1674,
+   "kind": "Appointment",
+   "text": "[[Saint Emperor Mantichev]] becomes Emperor of the Dripstanian Empire, appointed by [[Founder]]. *First emperor. Succeeded by [[Emperor Agamilos]].*",
+   "source": "Saint Emperor Mantichev",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1686,
+   "kind": "Appointment",
+   "text": "[[Emperor Agamilos]] becomes Emperor of the Dripstanian Empire, appointed by [[Hereditary succession]]. *Second emperor. Succeeded [[Saint Emperor Mantichev]]; the throne passed to [[Empress Veronique]] in 1740 after a regency council.*",
+   "source": "Emperor Agamilos",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1686,
+   "kind": "Death",
+   "text": "[[Saint Emperor Mantichev]] died in [[Dripstanian Empire]] (Assassination)",
+   "source": "Saint Emperor Mantichev",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1686,
+   "kind": "End of tenure",
+   "text": "[[Saint Emperor Mantichev]] leaves Emperor of the Dripstanian Empire",
+   "source": "Saint Emperor Mantichev",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1713,
+   "kind": "Birth",
+   "text": "[[Prince Apreže]] born in [[Dripstanian Empire]]",
+   "source": "Prince Apreže",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1720,
+   "kind": "Birth",
+   "text": "[[Empress Veronique]] born in [[Duolij]], [[Postia]], [[Dripstanian Empire]]",
+   "source": "Empress Veronique",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1731,
+   "kind": "Birth",
+   "text": "[[Faranes the Feared]] born",
+   "source": "Faranes the Feared",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1736,
+   "kind": "Birth",
+   "text": "[[Infante Babal]] born in [[Dripstanian Empire]]",
+   "source": "Infante Babal",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1738,
+   "kind": "Death",
+   "text": "[[Emperor Agamilos]] died in [[Dripstanian Empire]]",
+   "source": "Emperor Agamilos",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1738,
+   "kind": "Death",
+   "text": "[[Prince Apreže]] died in [[Dripstanian Empire]] (Jousting accident)",
+   "source": "Prince Apreže",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1738,
+   "kind": "End of tenure",
+   "text": "[[Emperor Agamilos]] leaves Emperor of the Dripstanian Empire",
+   "source": "Emperor Agamilos",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1738,
+   "kind": "Regency begins",
+   "text": "[[Emperor of the Dripstanian Empire]] (Regency council). *The throne passed to [[Empress Veronique]] in 1740.*",
+   "source": "",
+   "source_type": "title",
+   "country": "Susia"
+  },
+  {
+   "year": 1740,
+   "kind": "Appointment",
+   "text": "[[Empress Veronique]] becomes Empress of the Dripstanian Empire. *Reign ends at 163 AS in the family chart. Took the throne after the regency council.*",
+   "source": "Empress Veronique",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1740,
+   "kind": "Regency ends",
+   "text": "[[Emperor of the Dripstanian Empire]] (Regency council)",
+   "source": "",
+   "source_type": "title",
+   "country": "Susia"
+  },
+  {
+   "year": 1748,
+   "kind": "Birth",
+   "text": "[[Astere]] born in [[Dripstanian Empire]]",
+   "source": "Astere",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1752,
+   "kind": "Birth",
+   "text": "[[Empress Yaneoli]] born in [[Dripstanian Empire]]",
+   "source": "Empress Yaneoli",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1756,
+   "kind": "Birth",
+   "text": "[[Colin, King of the Tekurs]] born in [[Dripstanian Empire]]",
+   "source": "Colin, King of the Tekurs",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1760,
+   "kind": "Birth",
+   "text": "[[Lekhertos]] born",
+   "source": "Lekhertos",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1760,
+   "kind": "Birth",
+   "text": "[[Princess Natesse]] born in [[Dripstanian Empire]]",
+   "source": "Princess Natesse",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1766,
+   "kind": "Birth",
+   "text": "[[Empress Prazde]] born in [[Dripstanian Empire]]",
+   "source": "Empress Prazde",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1766,
+   "kind": "Birth",
+   "text": "[[Jartes I]] born in [[Dripstanian Empire]]",
+   "source": "Jartes I",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1768,
+   "kind": "Death",
+   "text": "[[Infante Babal]] died in [[Dripstanian Empire]]",
+   "source": "Infante Babal",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1778,
+   "kind": "Birth",
+   "text": "[[Countess Valista of Postia]] born in [[Dripstanian Empire]]",
+   "source": "Countess Valista of Postia",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1782,
+   "kind": "Death",
+   "text": "[[Faranes the Feared]] died",
+   "source": "Faranes the Feared",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1787,
+   "kind": "Appointment",
+   "text": "[[Empress Yaneoli]] becomes Empress of the Dripstanian Empire, appointed by [[Hereditary succession]]. *Fourth ruler. Succeeded [[Empress Veronique]]. Her death was followed by the [[Dripstanian Civil War]].*",
+   "source": "Empress Yaneoli",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1787,
+   "kind": "Death",
+   "text": "[[Empress Veronique]] died in [[Duolij]], [[Postia]], [[Dripstanian Empire]] (Gastric ulcer)",
+   "source": "Empress Veronique",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1787,
+   "kind": "End of tenure",
+   "text": "[[Empress Veronique]] leaves Empress of the Dripstanian Empire",
+   "source": "Empress Veronique",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1789,
+   "kind": "Birth",
+   "text": "[[Wanašer Gerzăn]] born in [[Carlotopolis]], [[Karlotopol']], [[Dripstanian Empire]]",
+   "source": "Wanašer Gerzăn",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1793,
+   "kind": "Appointment",
+   "text": "[[Empress Prazde]] becomes Queen of Zaphonia. *157 AS to 125 AS in the family chart.*",
+   "source": "Empress Prazde",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1793,
+   "kind": "Death",
+   "text": "[[Lekhertos]] died in [[Zaphonia]] (Poisoning)",
+   "source": "Lekhertos",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1796,
+   "kind": "Birth",
+   "text": "[[Zagoste Paroska]] born in [[Duolij]], [[Postia]], [[Dripstanian Empire]]",
+   "source": "Zagoste Paroska",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1799,
+   "kind": "Birth",
+   "text": "[[Ganzer Kieron]] born in [[Imgospalje]], [[Koštanože]], [[General Government of Confia]]",
+   "source": "Ganzer Kieron",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1800,
+   "kind": "Birth",
+   "text": "[[Prazde II of Zaphonia]] born in [[Zaphonia]]",
+   "source": "Prazde II of Zaphonia",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1801,
+   "kind": "Birth",
+   "text": "[[Armadesh Versij]] born in [[Kruie ro Yietre]], [[Vitrika]], [[Dripstanian Empire]]",
+   "source": "Armadesh Versij",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1803,
+   "kind": "Founded",
+   "text": "[[Susian Naval Academy]]",
+   "source": "Susian Naval Academy",
+   "source_type": "institution",
+   "country": "Susia"
+  },
+  {
+   "year": 1809,
+   "kind": "Birth",
+   "text": "[[Kaichet Satratonie]] born in [[Lore-Kurji]], [[Misocévia]], [[Dripstanian Empire]]",
+   "source": "Kaichet Satratonie",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1815,
+   "kind": "Appointment",
+   "text": "[[Empress Prazde]] becomes Empress of the Dripstanian Empire, appointed by [[Hereditary succession]]. *Reign disputed throughout by [[Jartes I]]. See [[Dripstanian Civil War]].*",
+   "source": "Empress Prazde",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1815,
+   "kind": "Appointment",
+   "text": "[[Jartes I]] becomes Emperor of the Dripstanian Empire, appointed by [[Hereditary succession]]. *Fifth emperor. Claimed reign began in 1815; uncontested from 1823. Succeeded by [[Jartes II]].*",
+   "source": "Jartes I",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1815,
+   "kind": "Death",
+   "text": "[[Empress Yaneoli]] died in [[Dripstanian Empire]] (Tuberculosis)",
+   "source": "Empress Yaneoli",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1815,
+   "kind": "Disputed succession begins",
+   "text": "[[Emperor of the Dripstanian Empire]]. *Civil war. [[Empress Prazde]] and [[Jartes I]] both claimed the throne.*",
+   "source": "",
+   "source_type": "title",
+   "country": "Susia"
+  },
+  {
+   "year": 1815,
+   "kind": "End of tenure",
+   "text": "[[Empress Yaneoli]] leaves Empress of the Dripstanian Empire",
+   "source": "Empress Yaneoli",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1815,
+   "kind": "Event begins",
+   "text": "[[Dripstanian Civil War]]",
+   "source": "Dripstanian Civil War",
+   "source_type": "event",
+   "country": "Susia"
+  },
+  {
+   "year": 1818,
+   "kind": "Birth",
+   "text": "[[Jartes II]] born in [[Duolij]], [[Postia]], [[Dripstanian Empire]]",
+   "source": "Jartes II",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1823,
+   "kind": "Death",
+   "text": "[[Colin, King of the Tekurs]] died in [[Dripstanian Empire]]",
+   "source": "Colin, King of the Tekurs",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1823,
+   "kind": "Disputed succession ends",
+   "text": "[[Emperor of the Dripstanian Empire]]",
+   "source": "",
+   "source_type": "title",
+   "country": "Susia"
+  },
+  {
+   "year": 1823,
+   "kind": "End of tenure",
+   "text": "[[Empress Prazde]] leaves Empress of the Dripstanian Empire",
+   "source": "Empress Prazde",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1823,
+   "kind": "Event ends",
+   "text": "[[Dripstanian Civil War]]",
+   "source": "Dripstanian Civil War",
+   "source_type": "event",
+   "country": "Susia"
+  },
+  {
+   "year": 1825,
+   "kind": "End of tenure",
+   "text": "[[Empress Prazde]] leaves Queen of Zaphonia",
+   "source": "Empress Prazde",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1826,
+   "kind": "Graduation",
+   "text": "[[Armadesh Versij]] from [[University of New Kentu]] (Law)",
+   "source": "Armadesh Versij",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1827,
+   "kind": "Death",
+   "text": "[[Prazde II of Zaphonia]] died in [[Zaphonia]]",
+   "source": "Prazde II of Zaphonia",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1829,
+   "kind": "Founded",
+   "text": "[[Union of Confian Syndicalists]]",
+   "source": "Union of Confian Syndicalists",
+   "source_type": "organization",
+   "country": "Confia"
+  },
+  {
+   "year": 1830,
+   "kind": "Founded",
+   "text": "[[Ražaw]] in [[Imgospalje]]",
+   "source": "Ražaw",
+   "source_type": "company",
+   "country": "Confia"
+  },
+  {
+   "year": 1837,
+   "kind": "Appointment",
+   "text": "[[Jartes II]] becomes Emperor of the Dripstanian Empire, appointed by [[Hereditary succession]]. *Fifth emperor. Succeeded [[Jartes I]]; succeeded by [[Soliman]].*",
+   "source": "Jartes II",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1837,
+   "kind": "Death",
+   "text": "[[Jartes I]] died in [[Dripstanian Empire]]",
+   "source": "Jartes I",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1837,
+   "kind": "End of tenure",
+   "text": "[[Jartes I]] leaves Emperor of the Dripstanian Empire",
+   "source": "Jartes I",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1838,
+   "kind": "Publication",
+   "text": "*[[Architecture of Freedom]]* by [[Armadesh Versij]]. *Written in Neoveli before the crackdown and published from exile in Gaiyan. Introduced the \"citizen guards of the republic\" argument.*",
+   "source": "Armadesh Versij",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1840,
+   "kind": "Appointment",
+   "text": "[[Armadesh Versij]] becomes Member of the General Government of the Federated Provinces of Galil, appointed by [[General Government of the Federated Provinces of Galil]]. *Became the general government's de facto leader as the rivalry between Paroska and Satratonie deepened.*",
+   "source": "Armadesh Versij",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1840,
+   "kind": "Appointment",
+   "text": "[[Kaichet Satratonie]] becomes Member of the General Government of the Federated Provinces of Galil, appointed by [[General Government of the Federated Provinces of Galil]]",
+   "source": "Kaichet Satratonie",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1840,
+   "kind": "Appointment",
+   "text": "[[Zagoste Paroska]] becomes Member of the General Government of the Federated Provinces of Galil, appointed by [[General Government of the Federated Provinces of Galil]]",
+   "source": "Zagoste Paroska",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1840,
+   "kind": "Enlists",
+   "text": "[[Kaichet Satratonie]] in [[Army]] as General. *Defected to the Dripstanian Empire in 1844.*",
+   "source": "Kaichet Satratonie",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1840,
+   "kind": "Enlists",
+   "text": "[[Zagoste Paroska]] in [[Navy]] as Admiral",
+   "source": "Zagoste Paroska",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1840,
+   "kind": "Event begins",
+   "text": "[[Liberal Revolts]]",
+   "source": "Liberal Revolts",
+   "source_type": "event",
+   "country": "Susia"
+  },
+  {
+   "year": 1841,
+   "kind": "Founded",
+   "text": "[[Confian Nation Party (1841)]] by [[Wanašer Gerzăn]]",
+   "source": "Confian Nation Party (1841)",
+   "source_type": "organization",
+   "country": "Confia"
+  },
+  {
+   "year": 1841,
+   "kind": "Founded",
+   "text": "[[PIKW]]",
+   "source": "PIKW",
+   "source_type": "company",
+   "country": "Confia"
+  },
+  {
+   "year": 1844,
+   "kind": "Charged",
+   "text": "[[Armadesh Versij]] with Treason (43 counts)",
+   "source": "Armadesh Versij",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1844,
+   "kind": "Charged",
+   "text": "[[Zagoste Paroska]] with Treason (22 counts)",
+   "source": "Zagoste Paroska",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1844,
+   "kind": "Death",
+   "text": "[[Armadesh Versij]] died in [[Neoveli]], [[Dripia]], [[Dripstanian Empire]] (Hanging)",
+   "source": "Armadesh Versij",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1844,
+   "kind": "Death",
+   "text": "[[Zagoste Paroska]] died in [[Neoveli]], [[Dripia]], [[Dripstanian Empire]] (Hanging)",
+   "source": "Zagoste Paroska",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1844,
+   "kind": "Discharge",
+   "text": "[[Kaichet Satratonie]] from [[Army]]",
+   "source": "Kaichet Satratonie",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1844,
+   "kind": "Discharge",
+   "text": "[[Zagoste Paroska]] from [[Navy]]",
+   "source": "Zagoste Paroska",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1844,
+   "kind": "End of tenure",
+   "text": "[[Armadesh Versij]] leaves Member of the General Government of the Federated Provinces of Galil",
+   "source": "Armadesh Versij",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1844,
+   "kind": "End of tenure",
+   "text": "[[Kaichet Satratonie]] leaves Member of the General Government of the Federated Provinces of Galil",
+   "source": "Kaichet Satratonie",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1844,
+   "kind": "End of tenure",
+   "text": "[[Zagoste Paroska]] leaves Member of the General Government of the Federated Provinces of Galil",
+   "source": "Zagoste Paroska",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1844,
+   "kind": "Event ends",
+   "text": "[[Liberal Revolts]]",
+   "source": "Liberal Revolts",
+   "source_type": "event",
+   "country": "Susia"
+  },
+  {
+   "year": 1844,
+   "kind": "Verdict",
+   "text": "[[Armadesh Versij]] found Guilty of Treason (43 counts), sentenced to Death",
+   "source": "Armadesh Versij",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1844,
+   "kind": "Verdict",
+   "text": "[[Zagoste Paroska]] found Guilty of Treason (22 counts), sentenced to Death",
+   "source": "Zagoste Paroska",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1852,
+   "kind": "Founded",
+   "text": "[[Žošewoš Machinery]] by [[Jagan Iliož]] in [[Detujehar]]",
+   "source": "Žošewoš Machinery",
+   "source_type": "company",
+   "country": "Confia"
+  },
+  {
+   "year": 1854,
+   "kind": "Death",
+   "text": "[[Ganzer Kieron]] died in [[Carlotopolis]], [[Karlotopol']], [[General Government of Confia]] (Tuberculosis)",
+   "source": "Ganzer Kieron",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1867,
+   "kind": "Founded",
+   "text": "[[Imperial Tobacco Company]] in [[Duolij]]",
+   "source": "Imperial Tobacco Company",
+   "source_type": "company",
+   "country": "Susia"
+  },
+  {
+   "year": 1869,
+   "kind": "Founded",
+   "text": "[[Triževa Bank]] in [[Duolij]]",
+   "source": "Triževa Bank",
+   "source_type": "company",
+   "country": "Susia"
+  },
+  {
+   "year": 1872,
+   "kind": "Death",
+   "text": "[[Kaichet Satratonie]] died in [[Unknown]], [[Unknown]], [[Unknown]] (Unknown)",
+   "source": "Kaichet Satratonie",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1873,
+   "kind": "Death",
+   "text": "[[Wanašer Gerzăn]] died in [[Talfaslaž]], [[Koštanože]], [[General Government of Confia]] (Tuberculosis under state custody)",
+   "source": "Wanašer Gerzăn",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1874,
+   "kind": "Founded",
+   "text": "[[Soiteslaj]]",
+   "source": "Soiteslaj",
+   "source_type": "city",
+   "country": "Susia"
+  },
+  {
+   "year": 1882,
+   "kind": "Death",
+   "text": "[[Jartes II]] died in [[Dripstanian Empire]] (Unknown)",
+   "source": "Jartes II",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1882,
+   "kind": "End of tenure",
+   "text": "[[Jartes II]] leaves Emperor of the Dripstanian Empire",
+   "source": "Jartes II",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1883,
+   "kind": "Founded",
+   "text": "[[Lijara]]",
+   "source": "Lijara",
+   "source_type": "company",
+   "country": "Confia"
+  },
+  {
+   "year": 1883,
+   "kind": "Founded",
+   "text": "[[Nassoj Holdings]] in [[Neoveli]]",
+   "source": "Nassoj Holdings",
+   "source_type": "company",
+   "country": "Susia"
+  },
+  {
+   "year": 1888,
+   "kind": "Founded",
+   "text": "[[POCOIL]] in [[New Duloc]]",
+   "source": "POCOIL",
+   "source_type": "company",
+   "country": "Susia"
+  },
+  {
+   "year": 1889,
+   "kind": "Founded",
+   "text": "[[Gražer-Moiyin]] in [[Kruie ro Yietre]]",
+   "source": "Gražer-Moiyin",
+   "source_type": "company",
+   "country": "Susia"
+  },
+  {
+   "year": 1893,
+   "kind": "Founded",
+   "text": "[[Silver Coast Bank]] in [[Neoveli]]",
+   "source": "Silver Coast Bank",
+   "source_type": "company",
+   "country": "Susia"
+  },
+  {
+   "year": 1896,
+   "kind": "Birth",
+   "text": "[[Mariana Torres]] born in [[Carlotopolis]], [[Karlotopol']], [[Dripstanian Empire]]",
+   "source": "Mariana Torres",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1900,
+   "kind": "Birth",
+   "text": "[[Eriežera Lensekowina]] born in [[Saint Eriogala]], [[Koštanože]], [[Dripstanian Empire]]",
+   "source": "Eriežera Lensekowina",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1909,
+   "kind": "Birth",
+   "text": "[[Lorelaj Paulowić]] born in [[Saint Eriogala]], [[Koštanože]], [[Dripstanian Empire]]",
+   "source": "Lorelaj Paulowić",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1909,
+   "kind": "Founded",
+   "text": "[[Nayotai]] in [[Duolij]]",
+   "source": "Nayotai",
+   "source_type": "company",
+   "country": "Susia"
+  },
+  {
+   "year": 1911,
+   "kind": "Birth",
+   "text": "[[Suizo Soites]] born in [[Sužielaj City]], [[Sužielaj]], [[Dripstanian Empire]]",
+   "source": "Suizo Soites",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1912,
+   "kind": "Birth",
+   "text": "[[Čalsor Boňár]] born in [[St. Yepodij]], [[Troli]], [[Dripstanian Empire]]",
+   "source": "Čalsor Boňár",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1917,
+   "kind": "Birth",
+   "text": "[[Senjap Kunsekowić]] born in [[Carlotopolis]], [[Karlotopol']], [[Dripstanian Empire]]",
+   "source": "Senjap Kunsekowić",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1920,
+   "kind": "Event begins",
+   "text": "[[Carlotopolis Uprising]]",
+   "source": "Carlotopolis Uprising",
+   "source_type": "event",
+   "country": "Confia"
+  },
+  {
+   "year": 1920,
+   "kind": "Event ends",
+   "text": "[[Carlotopolis Uprising]]",
+   "source": "Carlotopolis Uprising",
+   "source_type": "event",
+   "country": "Confia"
+  },
+  {
+   "year": 1920,
+   "kind": "Graduation",
+   "text": "[[Mariana Torres]] from [[Polytechnic Institute of Koštanože]] (Civil Engineering)",
+   "source": "Mariana Torres",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1921,
+   "kind": "Birth",
+   "text": "[[Boris Serec]] born in [[Jagansk]], [[Karlotopol']], [[Dripstanian Empire]]",
+   "source": "Boris Serec",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1923,
+   "kind": "Founded",
+   "text": "[[Van Ritter]] in [[Lore-Kurji]]",
+   "source": "Van Ritter",
+   "source_type": "company",
+   "country": "Susia"
+  },
+  {
+   "year": 1924,
+   "kind": "Birth",
+   "text": "[[Filevir Matri]] born in [[Duolij]], [[Postia]], [[Dripstanian Empire]]",
+   "source": "Filevir Matri",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1924,
+   "kind": "Graduation",
+   "text": "[[Eriežera Lensekowina]] from [[Carlotopolis State University for the Humanities]] (Baccalaureate in Philosophy)",
+   "source": "Eriežera Lensekowina",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1927,
+   "kind": "Birth",
+   "text": "[[Urgiri Tečlan]] born in [[Postia]], [[Dripstanian Empire]]",
+   "source": "Urgiri Tečlan",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1930,
+   "kind": "Founded",
+   "text": "[[Confian Liberal Party]] by [[Zanja Banelužni]]",
+   "source": "Confian Liberal Party",
+   "source_type": "organization",
+   "country": "Confia"
+  },
+  {
+   "year": 1930,
+   "kind": "Graduation",
+   "text": "[[Eriežera Lensekowina]] from [[Carlotopolis State University for the Humanities]] (Baccalaureate in Journalism)",
+   "source": "Eriežera Lensekowina",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1932,
+   "kind": "Founded",
+   "text": "[[Postian Free Farmers]]",
+   "source": "Postian Free Farmers",
+   "source_type": "organization",
+   "country": "Susia"
+  },
+  {
+   "year": 1933,
+   "kind": "Graduation",
+   "text": "[[Suizo Soites]] from [[University of New Kentu]] (Economics)",
+   "source": "Suizo Soites",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1937,
+   "kind": "Dissolved",
+   "text": "[[Confian Nation Party (1841)]]",
+   "source": "Confian Nation Party (1841)",
+   "source_type": "organization",
+   "country": "Confia"
+  },
+  {
+   "year": 1941,
+   "kind": "Birth",
+   "text": "[[Lenseka Japlenowina]] born in [[Imgospalje]], [[Koštanože]], [[Dripstanian Empire]]",
+   "source": "Lenseka Japlenowina",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1942,
+   "kind": "Founded",
+   "text": "[[White Stork Party]]",
+   "source": "White Stork Party",
+   "source_type": "organization",
+   "country": "Susia"
+  },
+  {
+   "year": 1946,
+   "kind": "Birth",
+   "text": "[[Katerina Armoljubca Nožeslawna]] born in [[Saint Meshon]], [[Karlotopol']], [[Dripstanian Empire]]",
+   "source": "Katerina Armoljubca Nožeslawna",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1948,
+   "kind": "Graduation",
+   "text": "[[Filevir Matri]] from [[University of Duolij]] (Bachelor in Law)",
+   "source": "Filevir Matri",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1951,
+   "kind": "Birth",
+   "text": "[[Ňotrič Apaj]] born in [[Yatovarlaj]], [[Misocévia]], [[Dripstanian Empire]]",
+   "source": "Ňotrič Apaj",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1952,
+   "kind": "Birth",
+   "text": "[[Chedji Soites]] born in [[Neoveli]], [[Dripia]], [[Dripstanian Empire]]",
+   "source": "Chedji Soites",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1953,
+   "kind": "Appointment",
+   "text": "[[Suizo Soites]] becomes Delegate to the Constitutional Convention, appointed by [[National Agreement]]. *Led negotiations between former imperial provinces.*",
+   "source": "Suizo Soites",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1954,
+   "kind": "Appointment",
+   "text": "[[Filevir Matri]] becomes Governor of Postia",
+   "source": "Filevir Matri",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1954,
+   "kind": "Appointment",
+   "text": "[[Suizo Soites]], President of Susia ([[Susian Liberal Party]])",
+   "source": "",
+   "source_type": "person",
+   "election": "[[1954 Susian presidential election]]"
+  },
+  {
+   "year": 1954,
+   "kind": "End of tenure",
+   "text": "[[Suizo Soites]] leaves Delegate to the Constitutional Convention",
+   "source": "Suizo Soites",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1954,
+   "kind": "Event begins",
+   "text": "[[Ant wars]]",
+   "source": "Ant wars",
+   "source_type": "event",
+   "country": "Susia"
+  },
+  {
+   "year": 1954,
+   "kind": "Founded",
+   "text": "[[Confian Syndicalist Union]] by [[Lorelaj Paulowić]] and [[Lensek Bӑrboz]]",
+   "source": "Confian Syndicalist Union",
+   "source_type": "organization",
+   "country": "Confia"
+  },
+  {
+   "year": 1954,
+   "kind": "Founded",
+   "text": "[[Knights of the Republic]]",
+   "source": "Knights of the Republic",
+   "source_type": "organization",
+   "country": "Susia"
+  },
+  {
+   "year": 1954,
+   "kind": "Founded",
+   "text": "[[Pačese ro Virspruje]]",
+   "source": "Pačese ro Virspruje",
+   "source_type": "organization",
+   "country": "Susia"
+  },
+  {
+   "year": 1954,
+   "kind": "Founded",
+   "text": "[[Progressive Republican Party]] by [[Mariana Torres]] and [[Genrih Maskernie]]",
+   "source": "Progressive Republican Party",
+   "source_type": "organization",
+   "country": "Confia"
+  },
+  {
+   "year": 1954,
+   "kind": "Founded",
+   "text": "[[Supreme Court of Susia]]",
+   "source": "Supreme Court of Susia",
+   "source_type": "institution",
+   "country": "Susia"
+  },
+  {
+   "year": 1954,
+   "kind": "Founded",
+   "text": "[[Susian Democratic Union]]",
+   "source": "Susian Democratic Union",
+   "source_type": "organization",
+   "country": "Susia"
+  },
+  {
+   "year": 1954,
+   "kind": "Founded",
+   "text": "[[Susian Liberal Party]] by [[Suizo Soites]], [[Ergagério Sienes]] and [[Filňar Čantij]]",
+   "source": "Susian Liberal Party",
+   "source_type": "organization",
+   "country": "Susia"
+  },
+  {
+   "year": 1955,
+   "kind": "Appointment",
+   "text": "[[Lorelaj Paulowić]] becomes First Secretary of the Union of Confian Syndicalists at [[Confian Syndicalist Union]], appointed by [[Confian Syndicalist Union]]",
+   "source": "Lorelaj Paulowić",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1955,
+   "kind": "Birth",
+   "text": "[[Ganzer Teahowić]] born in [[St. Sataria]], [[North Nijbania]], [[Confia]]",
+   "source": "Ganzer Teahowić",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1956,
+   "kind": "Appointment",
+   "text": "[[Lorelaj Paulowić]] becomes President of the Confian Nation at [[Confian National Government]], appointed by [[National Assembly of Confian Syndicates]]",
+   "source": "Lorelaj Paulowić",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1956,
+   "kind": "Founded",
+   "text": "[[Moviment of New Susians]]",
+   "source": "Moviment of New Susians",
+   "source_type": "organization",
+   "country": "Susia"
+  },
+  {
+   "year": 1957,
+   "kind": "Event begins",
+   "text": "[[Continental Divide]]",
+   "source": "Continental Divide",
+   "source_type": "event",
+   "country": "Susia"
+  },
+  {
+   "year": 1958,
+   "kind": "Appointment",
+   "text": "[[Ergagério Sienes]] becomes Vice President of Susia at [[Susian Federal Government]]",
+   "source": "Ergagério Sienes",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1958,
+   "kind": "Appointment",
+   "text": "[[Lorelaj Paulowić]] becomes Leader of the Confian Nation at [[Confian National Government]], appointed by [[Presidential Empowerment Amendment]]",
+   "source": "Lorelaj Paulowić",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1958,
+   "kind": "Appointment",
+   "text": "[[Suizo Soites]], President of Susia ([[Susian Liberal Party]])",
+   "source": "",
+   "source_type": "person",
+   "election": "[[1958 Susian presidential election]]"
+  },
+  {
+   "year": 1958,
+   "kind": "Death",
+   "text": "[[Urgiri Tečlan]] died in [[Duolij]], [[Postia]], [[Susia]] (Gunshot)",
+   "source": "Urgiri Tečlan",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1958,
+   "kind": "End of tenure",
+   "text": "[[Lorelaj Paulowić]] leaves President of the Confian Nation at [[Confian National Government]]",
+   "source": "Lorelaj Paulowić",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1958,
+   "kind": "End of tenure",
+   "text": "[[Suizo Soites]] leaves President of Susia at [[Susian Federal Government]]",
+   "source": "Suizo Soites",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1958,
+   "kind": "Event begins",
+   "text": "[[Matri assasination attempt (1958)]]",
+   "source": "Matri assasination attempt (1958)",
+   "source_type": "event",
+   "country": "Susia"
+  },
+  {
+   "year": 1958,
+   "kind": "Event begins",
+   "text": "[[New Duloc riot]]",
+   "source": "New Duloc riot",
+   "source_type": "event",
+   "country": "Susia"
+  },
+  {
+   "year": 1958,
+   "kind": "Event ends",
+   "text": "[[Matri assasination attempt (1958)]]",
+   "source": "Matri assasination attempt (1958)",
+   "source_type": "event",
+   "country": "Susia"
+  },
+  {
+   "year": 1958,
+   "kind": "Event ends",
+   "text": "[[New Duloc riot]]",
+   "source": "New Duloc riot",
+   "source_type": "event",
+   "country": "Susia"
+  },
+  {
+   "year": 1959,
+   "kind": "Atrocity begins",
+   "text": "[[Legrinpija Massacre]]",
+   "source": "Legrinpija Massacre",
+   "source_type": "atrocity",
+   "country": "Confia"
+  },
+  {
+   "year": 1959,
+   "kind": "Atrocity ends",
+   "text": "[[Legrinpija Massacre]]",
+   "source": "Legrinpija Massacre",
+   "source_type": "atrocity",
+   "country": "Confia"
+  },
+  {
+   "year": 1959,
+   "kind": "Dissolved",
+   "text": "[[Knights of the Republic]]",
+   "source": "Knights of the Republic",
+   "source_type": "organization",
+   "country": "Susia"
+  },
+  {
+   "year": 1959,
+   "kind": "Event ends",
+   "text": "[[Ant wars]]",
+   "source": "Ant wars",
+   "source_type": "event",
+   "country": "Susia"
+  },
+  {
+   "year": 1959,
+   "kind": "Founded",
+   "text": "[[Troli Ustaras]] in [[Donetruže]]",
+   "source": "Troli Ustaras",
+   "source_type": "company",
+   "country": "Susia"
+  },
+  {
+   "year": 1959,
+   "kind": "Publication",
+   "text": "*Rethinking Syndicalism (1959)* by [[Eriežera Lensekowina]]. *First book, published in Confia. Called for the unification of the Moderate Syndicalist movement. First proposal of abandoning the economic self-management framework entirely from a syndicalist persepctive. Published as D. K. Kasselja*",
+   "source": "Eriežera Lensekowina",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1960,
+   "kind": "Birth",
+   "text": "[[Yário Kolkov]] born in [[New Duloc]], [[Postia]], [[Susia]]",
+   "source": "Yário Kolkov",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1961,
+   "kind": "Award",
+   "text": "[[Armadesh Versij]] receives Order of the First Guard of the Republic, granted by [[Suizo Soites]] (posthumous). *First recipient*",
+   "source": "Armadesh Versij",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1962,
+   "kind": "Appointment",
+   "text": "[[Bejňar Keke]] becomes President of Yar-Firol",
+   "source": "Bejňar Keke",
+   "source_type": "person",
+   "country": "Incria"
+  },
+  {
+   "year": 1962,
+   "kind": "Appointment",
+   "text": "[[Filevir Matri]] becomes Senator for Postia at [[Susian Senate]]",
+   "source": "Filevir Matri",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1962,
+   "kind": "Appointment",
+   "text": "[[Serčev Fimžer]] becomes President of Susia at [[Susian Federal Government]]",
+   "source": "Serčev Fimžer",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1962,
+   "kind": "End of tenure",
+   "text": "[[Ergagério Sienes]] leaves Vice President of Susia at [[Susian Federal Government]]",
+   "source": "Ergagério Sienes",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1962,
+   "kind": "End of tenure",
+   "text": "[[Filevir Matri]] leaves Governor of Postia",
+   "source": "Filevir Matri",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1962,
+   "kind": "End of tenure",
+   "text": "[[Suizo Soites]] leaves President of Susia at [[Susian Federal Government]]",
+   "source": "Suizo Soites",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1962,
+   "kind": "Founded",
+   "text": "[[Rally for National Salvation]] by [[Bejňar Keke]]",
+   "source": "Rally for National Salvation",
+   "source_type": "organization",
+   "country": "Incria"
+  },
+  {
+   "year": 1966,
+   "kind": "Appointment",
+   "text": "[[Filevir Matri]] becomes Secretary of Justice at [[Susian Federal Government]], appointed by [[Serčev Fimžer]]",
+   "source": "Filevir Matri",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1966,
+   "kind": "Appointment",
+   "text": "[[Serčev Fimžer]] becomes President of Susia at [[Susian Federal Government]]",
+   "source": "Serčev Fimžer",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1966,
+   "kind": "End of tenure",
+   "text": "[[Filevir Matri]] leaves Senator for Postia at [[Susian Senate]]",
+   "source": "Filevir Matri",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1966,
+   "kind": "End of tenure",
+   "text": "[[Serčev Fimžer]] leaves President of Susia at [[Susian Federal Government]]",
+   "source": "Serčev Fimžer",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1966,
+   "kind": "Founded",
+   "text": "[[San'motko]]",
+   "source": "San'motko",
+   "source_type": "organization",
+   "country": "Incria"
+  },
+  {
+   "year": 1968,
+   "kind": "Birth",
+   "text": "[[Yavna Raroska]] born in [[Arkaime]], [[Dripia]], [[Susia]]",
+   "source": "Yavna Raroska",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1968,
+   "kind": "Founded",
+   "text": "[[Końteraf]] by [[Confian National Government]] and [[Lorelaj Paulowić]] in [[Imgospalje]]",
+   "source": "Końteraf",
+   "source_type": "company",
+   "country": "Confia"
+  },
+  {
+   "year": 1969,
+   "kind": "Appointment",
+   "text": "[[Suizo Soites]] becomes CEO of the Soites Group, appointed by [[Self-founded]]. *Founded the Soites Group in Neoveli. Retired from active management in 1981.*",
+   "source": "Suizo Soites",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1969,
+   "kind": "Founded",
+   "text": "[[Soites Group]] by [[Suizo Soites]] in [[Neoveli]]",
+   "source": "Soites Group",
+   "source_type": "company",
+   "country": "Susia"
+  },
+  {
+   "year": 1969,
+   "kind": "Publication",
+   "text": "*Susian Syndicalism* by [[Eriežera Lensekowina]]. *A polemic comparative essay contrasting the achievements of Susia to those of Confia, claiming capitalism achieved syndicalism's stated goals before syndicalism did. Published at the height of the [[Pierej Crisis]] on the [[New Kentu Truth-Teller]]. First major work published as Eriežera Lensekowina*",
+   "source": "Eriežera Lensekowina",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1970,
+   "kind": "Appointment",
+   "text": "[[Ergagério Sienes]] becomes President of Susia at [[Susian Federal Government]]",
+   "source": "Ergagério Sienes",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1970,
+   "kind": "Appointment",
+   "text": "[[Filevir Matri]] becomes Senator for Postia at [[Susian Senate]]",
+   "source": "Filevir Matri",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1970,
+   "kind": "End of tenure",
+   "text": "[[Filevir Matri]] leaves Secretary of Justice at [[Susian Federal Government]]",
+   "source": "Filevir Matri",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1970,
+   "kind": "End of tenure",
+   "text": "[[Serčev Fimžer]] leaves President of Susia at [[Susian Federal Government]]",
+   "source": "Serčev Fimžer",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1974,
+   "kind": "Appointment",
+   "text": "[[Filevir Matri]] becomes Vice President of Susia at [[Susian Federal Government]]",
+   "source": "Filevir Matri",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1974,
+   "kind": "Appointment",
+   "text": "[[Čalsor Boňár]], President of Susia ([[Susian Democratic Union]])",
+   "source": "",
+   "source_type": "person",
+   "election": "[[1974 Susian presidential election]]"
+  },
+  {
+   "year": 1974,
+   "kind": "End of tenure",
+   "text": "[[Ergagério Sienes]] leaves President of Susia at [[Susian Federal Government]]",
+   "source": "Ergagério Sienes",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1974,
+   "kind": "End of tenure",
+   "text": "[[Filevir Matri]] leaves Senator for Postia at [[Susian Senate]]",
+   "source": "Filevir Matri",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1974,
+   "kind": "Graduation",
+   "text": "[[Chedji Soites]] from [[Belluni College]] (Finance)",
+   "source": "Chedji Soites",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1975,
+   "kind": "Enlists",
+   "text": "[[Ňotrič Apaj]] in [[Susian Air Force]]. *Drafted. Served in a non-combat administrative role.*",
+   "source": "Ňotrič Apaj",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1977,
+   "kind": "Appointment",
+   "text": "[[Mariana Torres]] becomes Leader of the Confian Nation at [[Confian National Government]], appointed by [[Bayonet Revolution]]. *Interim*",
+   "source": "Mariana Torres",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1977,
+   "kind": "Death",
+   "text": "[[Lorelaj Paulowić]] died in [[Whereabouts unknown]], [[Whereabouts unknown]], [[Whereabouts unknown]] (Disappeared)",
+   "source": "Lorelaj Paulowić",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1977,
+   "kind": "Discharge",
+   "text": "[[Ňotrič Apaj]] from [[Susian Air Force]]",
+   "source": "Ňotrič Apaj",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1977,
+   "kind": "End of tenure",
+   "text": "[[Lorelaj Paulowić]] leaves First Secretary of the Union of Confian Syndicalists at [[Confian Syndicalist Union]]",
+   "source": "Lorelaj Paulowić",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1977,
+   "kind": "End of tenure",
+   "text": "[[Lorelaj Paulowić]] leaves Leader of the Confian Nation at [[Confian National Government]]",
+   "source": "Lorelaj Paulowić",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1977,
+   "kind": "End of tenure",
+   "text": "[[Mariana Torres]] leaves Leader of the Confian Nation at [[Confian National Government]]",
+   "source": "Mariana Torres",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1977,
+   "kind": "Event begins",
+   "text": "[[Bayonet Revolution]]",
+   "source": "Bayonet Revolution",
+   "source_type": "event",
+   "country": "Confia"
+  },
+  {
+   "year": 1977,
+   "kind": "Event ends",
+   "text": "[[Bayonet Revolution]]",
+   "source": "Bayonet Revolution",
+   "source_type": "event",
+   "country": "Confia"
+  },
+  {
+   "year": 1977,
+   "kind": "Event ends",
+   "text": "[[Continental Divide]]",
+   "source": "Continental Divide",
+   "source_type": "event",
+   "country": "Susia"
+  },
+  {
+   "year": 1977,
+   "kind": "Founded",
+   "text": "[[Confian Nation Party (1977)]]",
+   "source": "Confian Nation Party (1977)",
+   "source_type": "organization",
+   "country": "Confia"
+  },
+  {
+   "year": 1978,
+   "kind": "Appointment",
+   "text": "[[Boris Serec]] becomes Commissar of Education at [[Confian National Government]], appointed by [[Senjap Kunsekowić]]",
+   "source": "Boris Serec",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1978,
+   "kind": "Appointment",
+   "text": "[[Lenseka Japlenowina]] becomes President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]], appointed by [[National Assembly of Confian Syndicates]]",
+   "source": "Lenseka Japlenowina",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1978,
+   "kind": "Appointment",
+   "text": "[[Mariana Torres]], President of the Confian Nation ([[Movement for Syndicalist Renovation]]). *Left LjWP to found DSN in 1980*",
+   "source": "",
+   "source_type": "person",
+   "election": "[[1978 Confian presidential election]]"
+  },
+  {
+   "year": 1978,
+   "kind": "Appointment",
+   "text": "[[Čalsor Boňár]], President of Susia ([[Susian Democratic Union]])",
+   "source": "",
+   "source_type": "person",
+   "election": "[[1978 Susian presidential election]]"
+  },
+  {
+   "year": 1978,
+   "kind": "End of tenure",
+   "text": "[[Čalsor Boňár]] leaves President of Susia at [[Susian Federal Government]]",
+   "source": "Čalsor Boňár",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1978,
+   "kind": "Publication",
+   "text": "*Untitled work* by [[Eriežera Lensekowina]]. *A collection of articles written by Eriežera in exile.*",
+   "source": "Eriežera Lensekowina",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1979,
+   "kind": "Death",
+   "text": "[[Lensek Bӑrboz]] died in [[Imgospalje]], [[Koštanože]], [[Confia]] (Assassination by gunshot)",
+   "source": "Lensek Bӑrboz",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1979,
+   "kind": "Dissolved",
+   "text": "[[Confian Syndicalist Union]]",
+   "source": "Confian Syndicalist Union",
+   "source_type": "organization",
+   "country": "Confia"
+  },
+  {
+   "year": 1979,
+   "kind": "Founded",
+   "text": "[[Atompron]] by [[Susian Federal Government]] in [[Niqueparj]]",
+   "source": "Atompron",
+   "source_type": "company",
+   "country": "Susia"
+  },
+  {
+   "year": 1979,
+   "kind": "Founded",
+   "text": "[[Syndicalist League]] by [[Katerina Armoljubca Nožeslawna|KAN]] and [[Eriežera Lensekowina]]",
+   "source": "Syndicalist League",
+   "source_type": "organization",
+   "country": "Confia"
+  },
+  {
+   "year": 1979,
+   "kind": "Publication",
+   "text": "*On fighting in the streets* by [[Mariana Torres]]",
+   "source": "Mariana Torres",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1980,
+   "kind": "Appointment",
+   "text": "[[Senjap Kunsekowić]] becomes President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]], appointed by [[National Assembly of Confian Syndicates]]",
+   "source": "Senjap Kunsekowić",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1980,
+   "kind": "End of tenure",
+   "text": "[[Lenseka Japlenowina]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]",
+   "source": "Lenseka Japlenowina",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1980,
+   "kind": "Founded",
+   "text": "[[Armotist Democratic Party]] by [[Boris Serec]]",
+   "source": "Armotist Democratic Party",
+   "source_type": "organization",
+   "country": "Confia"
+  },
+  {
+   "year": 1980,
+   "kind": "Founded",
+   "text": "[[Făzmelj]] in [[Neoveli]]",
+   "source": "Făzmelj",
+   "source_type": "company",
+   "country": "Confia"
+  },
+  {
+   "year": 1980,
+   "kind": "Founded",
+   "text": "[[Movement for Syndicalist Renovation]] by [[Mariana Torres]] and [[Genrih Maskernie]]",
+   "source": "Movement for Syndicalist Renovation",
+   "source_type": "organization",
+   "country": "Confia"
+  },
+  {
+   "year": 1981,
+   "kind": "Appointment",
+   "text": "[[Chedji Soites]] becomes CEO of the Soites Group, appointed by [[Suizo Soites]]. *Assumed role upon Suizo's retirement from active management*",
+   "source": "Chedji Soites",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1981,
+   "kind": "Appointment",
+   "text": "[[Katerina Armoljubca Nožeslawna]], Member of the National Assembly of Confian Syndicates ([[Syndicalist League]])",
+   "source": "",
+   "source_type": "person",
+   "election": "[[1980 Confian general election]]"
+  },
+  {
+   "year": 1981,
+   "kind": "Dissolved",
+   "text": "[[Confian Nation Party (1977)]]",
+   "source": "Confian Nation Party (1977)",
+   "source_type": "organization",
+   "country": "Confia"
+  },
+  {
+   "year": 1981,
+   "kind": "Document recorded",
+   "text": "[[Graduation yearbook]] (Graduation yearbook)",
+   "source": "Graduation yearbook",
+   "source_type": "document",
+   "country": "Susia"
+  },
+  {
+   "year": 1981,
+   "kind": "End of tenure",
+   "text": "[[Suizo Soites]] leaves CEO of the Soites Group",
+   "source": "Suizo Soites",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1981,
+   "kind": "Founded",
+   "text": "[[Ljudewlaš!]] by [[Laus Darizel]]",
+   "source": "Ljudewlaš!",
+   "source_type": "organization",
+   "country": "Confia"
+  },
+  {
+   "year": 1982,
+   "kind": "Appointment",
+   "text": "[[Katerina Armoljubca Nožeslawna]], Member of the National Assembly of Confian Syndicates ([[Syndicalist League]])",
+   "source": "",
+   "source_type": "person",
+   "election": "[[1982 Confian general election]]"
+  },
+  {
+   "year": 1982,
+   "kind": "Appointment",
+   "text": "[[Čalsor Boňár]], President of Susia ([[Susian Democratic Union]]). *Died in office*",
+   "source": "",
+   "source_type": "person",
+   "election": "[[1982 Susian presidential election]]"
+  },
+  {
+   "year": 1982,
+   "kind": "End of tenure",
+   "text": "[[Boris Serec]] leaves Commissar of Education at [[Confian National Government]]",
+   "source": "Boris Serec",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1982,
+   "kind": "End of tenure",
+   "text": "[[Katerina Armoljubca Nožeslawna]] leaves Member of the National Assembly of Confian Syndicates at [[Confian National Government]]",
+   "source": "Katerina Armoljubca Nožeslawna",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1982,
+   "kind": "End of tenure",
+   "text": "[[Senjap Kunsekowić]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]",
+   "source": "Senjap Kunsekowić",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1982,
+   "kind": "End of tenure",
+   "text": "[[Čalsor Boňár]] leaves President of Susia at [[Susian Federal Government]]",
+   "source": "Čalsor Boňár",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1983,
+   "kind": "Appointment",
+   "text": "[[Boris Serec]] becomes President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]], appointed by [[National Assembly of Confian Syndicates]]",
+   "source": "Boris Serec",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1983,
+   "kind": "Appointment",
+   "text": "[[Filevir Matri]] becomes President of Susia at [[Susian Federal Government]]. *Became president after Boňár's death*",
+   "source": "Filevir Matri",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1983,
+   "kind": "Death",
+   "text": "[[Čalsor Boňár]] died in [[Soiteslaj]], [[Neutral District]], [[Susia]] (Car accident)",
+   "source": "Čalsor Boňár",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1983,
+   "kind": "End of tenure",
+   "text": "[[Filevir Matri]] leaves Vice President of Susia at [[Susian Federal Government]]",
+   "source": "Filevir Matri",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1983,
+   "kind": "End of tenure",
+   "text": "[[Čalsor Boňár]] leaves President of Susia at [[Susian Federal Government]]",
+   "source": "Čalsor Boňár",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1983,
+   "kind": "Publication",
+   "text": "*On What Came Before Me And On What Comes After* by [[Eriežera Lensekowina]]. *Lensekowina's lesser known memoir, her final book completed before passing.*",
+   "source": "Eriežera Lensekowina",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1983,
+   "kind": "Publication",
+   "text": "*[[War, Pestilence and Famine]]* by [[Ňotrič Apaj]]. *Written immediately after his return from Ditania. Argues that material scarcity was the engine of most organized human violence across history, and that its effective elimination means all contemporary conflict is a product of human construction.*",
+   "source": "Ňotrič Apaj",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1984,
+   "kind": "Death",
+   "text": "[[Eriežera Lensekowina]] died in [[Imgospalje]], [[Koštanože]], [[Confia]] (Natural causes)",
+   "source": "Eriežera Lensekowina",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1984,
+   "kind": "Document recorded",
+   "text": "[[Letters to St Yepodij]] (letter)",
+   "source": "Letters to St Yepodij",
+   "source_type": "document",
+   "country": "Susia"
+  },
+  {
+   "year": 1985,
+   "kind": "Publication",
+   "text": "*[[After Scarcity]]* by [[Ňotrič Apaj]]. *Expands the essay's argument into a full philosophical vision. Proposes a cosmopolitan post-politics grounded in universal facts of consciousness, suffering, curiosity, and mortality. Became the moral vocabulary of the Modernist Alliance's utopian faction and the ethical foundation TU built its corporate culture upon.*",
+   "source": "Ňotrič Apaj",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1986,
+   "kind": "Appointment",
+   "text": "[[Kukan Peskilonni]] becomes Director of the Central Bank of the Confian Nation",
+   "source": "Kukan Peskilonni",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1986,
+   "kind": "Appointment",
+   "text": "[[Mariana Torres]], President of the Confian Nation ([[Movement for Syndicalist Renovation]])",
+   "source": "",
+   "source_type": "person",
+   "election": "[[1986 Confian presidential election]]"
+  },
+  {
+   "year": 1986,
+   "kind": "Atrocity begins",
+   "text": "[[Nar Liewati Massacre]]",
+   "source": "Nar Liewati Massacre",
+   "source_type": "atrocity",
+   "country": "Ditania"
+  },
+  {
+   "year": 1986,
+   "kind": "Atrocity ends",
+   "text": "[[Nar Liewati Massacre]]",
+   "source": "Nar Liewati Massacre",
+   "source_type": "atrocity",
+   "country": "Ditania"
+  },
+  {
+   "year": 1986,
+   "kind": "End of tenure",
+   "text": "[[Filevir Matri]] leaves President of Susia at [[Susian Federal Government]]",
+   "source": "Filevir Matri",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1986,
+   "kind": "End of tenure",
+   "text": "[[Katerina Armoljubca Nožeslawna]] leaves Member of the National Assembly of Confian Syndicates at [[Confian National Government]]",
+   "source": "Katerina Armoljubca Nožeslawna",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1986,
+   "kind": "End of tenure",
+   "text": "[[Mariana Torres]] leaves President of the Confian Nation at [[Confian National Government]]",
+   "source": "Mariana Torres",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1987,
+   "kind": "Appointment",
+   "text": "[[Boris Serec]], President of the Confian Nation ([[Armotist Democratic Party|ALjP]])",
+   "source": "",
+   "source_type": "person",
+   "election": "[[1987 Confian presidential election]]"
+  },
+  {
+   "year": 1987,
+   "kind": "Appointment",
+   "text": "[[Katerina Armoljubca Nožeslawna]], Member of the National Assembly of Confian Syndicates ([[Syndicalist League]])",
+   "source": "",
+   "source_type": "person",
+   "election": "[[1986 Confian general election]]"
+  },
+  {
+   "year": 1987,
+   "kind": "End of tenure",
+   "text": "[[Boris Serec]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]",
+   "source": "Boris Serec",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1987,
+   "kind": "End of tenure",
+   "text": "[[Mariana Torres]] leaves President of the Confian Nation at [[Confian National Government]]",
+   "source": "Mariana Torres",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1988,
+   "kind": "Appointment",
+   "text": "[[Ganzer Teahowić]], State Governor of North Nijbania ([[Syndicalist League]])",
+   "source": "",
+   "source_type": "person",
+   "election": "[[List of Confian elections|1988 gubernatorial elections in Confia]]"
+  },
+  {
+   "year": 1988,
+   "kind": "Death",
+   "text": "[[Mariana Torres]] died in [[Carlotopolis]], [[Karlotopol']], [[Confia]] ([[Tarlanna's disease]])",
+   "source": "Mariana Torres",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1989,
+   "kind": "End of tenure",
+   "text": "[[Bejňar Keke]] leaves President of Yar-Firol",
+   "source": "Bejňar Keke",
+   "source_type": "person",
+   "country": "Incria"
+  },
+  {
+   "year": 1990,
+   "kind": "Appointment",
+   "text": "[[Katerina Armoljubca Nožeslawna]] becomes President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]], appointed by [[National Assembly of Confian Syndicates]]",
+   "source": "Katerina Armoljubca Nožeslawna",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1990,
+   "kind": "Dissolved",
+   "text": "[[Progressive Republican Party]]",
+   "source": "Progressive Republican Party",
+   "source_type": "organization",
+   "country": "Confia"
+  },
+  {
+   "year": 1990,
+   "kind": "End of tenure",
+   "text": "[[Katerina Armoljubca Nožeslawna]] leaves Member of the National Assembly of Confian Syndicates at [[Confian National Government]]",
+   "source": "Katerina Armoljubca Nožeslawna",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1990,
+   "kind": "Publication",
+   "text": "*[[Letters to a Dead Republic]]* by [[Yário Kolkov]]. *First major work. Drew on his experiences at Nayotai and Troli Ustaras. Established his critique of corporate culture as a form of ideological capture.*",
+   "source": "Yário Kolkov",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1991,
+   "kind": "Founded",
+   "text": "[[PSP]] by [[Confian National Government]] and [[Katerina Armoljubca Nožeslawna|KAN]] in [[Imgospalje]]",
+   "source": "PSP",
+   "source_type": "company",
+   "country": "Confia"
+  },
+  {
+   "year": 1992,
+   "kind": "Appointment",
+   "text": "[[Ganzer Teahowić]], State Governor of North Nijbania ([[Syndicalist League]])",
+   "source": "",
+   "source_type": "person",
+   "election": "[[List of Confian elections|1992 gubernatorial elections in Confia]]"
+  },
+  {
+   "year": 1992,
+   "kind": "Dissolved",
+   "text": "[[Confian Liberal Party]]",
+   "source": "Confian Liberal Party",
+   "source_type": "organization",
+   "country": "Confia"
+  },
+  {
+   "year": 1992,
+   "kind": "End of tenure",
+   "text": "[[Ganzer Teahowić]] leaves State Governor of North Nijbania",
+   "source": "Ganzer Teahowić",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1992,
+   "kind": "Founded",
+   "text": "[[Mi, Niteraljci!]] by [[Lenseka Japlenowina]] and [[Saserna Kašdunna]]",
+   "source": "Mi, Niteraljci!",
+   "source_type": "organization",
+   "country": "Confia"
+  },
+  {
+   "year": 1992,
+   "kind": "Graduation",
+   "text": "[[Yavna Raroska]] from [[University of New Kentu]] (Political Science)",
+   "source": "Yavna Raroska",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1992,
+   "kind": "Publication",
+   "text": "*[[Children of the Same Mother]]* by [[Ňotrič Apaj]]. *Attempts to ground cosmopolitan ethics in biological and historical universals. His most systematic work and his least-read.*",
+   "source": "Ňotrič Apaj",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1993,
+   "kind": "Founded",
+   "text": "[[KSH]] by [[Confian National Government]] and [[Katerina Armoljubca Nožeslawna|KAN]]",
+   "source": "KSH",
+   "source_type": "company",
+   "country": "Confia"
+  },
+  {
+   "year": 1994,
+   "kind": "Dissolved",
+   "text": "[[Postian Free Farmers]]",
+   "source": "Postian Free Farmers",
+   "source_type": "organization",
+   "country": "Susia"
+  },
+  {
+   "year": 1994,
+   "kind": "Publication",
+   "text": "*[[Food for the Fools]]* by [[Yário Kolkov]]. *Essay on political demagogues, attacking not the demagogues but the audience who feeds from them and the institutions that allow them. Considered controversial at its time. Includes his critique of the treatment of Versij as a saint, with the Supreme Court as its example.*",
+   "source": "Yário Kolkov",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1995,
+   "kind": "Death",
+   "text": "[[Suizo Soites]] died in [[Razrij]], [[Orlítia]], [[Susia]] (Natural causes)",
+   "source": "Suizo Soites",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1996,
+   "kind": "Appointment",
+   "text": "[[Ganzer Teahowić]] becomes Commissar of Health at [[North Nijbania]], appointed by [[Noljež Teššan]]",
+   "source": "Ganzer Teahowić",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1996,
+   "kind": "Appointment",
+   "text": "[[Lenseka Japlenowina]], Mayor of Imgospalje ([[Mi, Niteraljci!]])",
+   "source": "",
+   "source_type": "person",
+   "election": "[[1996 Imgospalje mayoral elections]]"
+  },
+  {
+   "year": 1996,
+   "kind": "End of tenure",
+   "text": "[[Boris Serec]] leaves President of the Confian Nation at [[Confian National Government]]",
+   "source": "Boris Serec",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1996,
+   "kind": "End of tenure",
+   "text": "[[Ganzer Teahowić]] leaves State Governor of North Nijbania",
+   "source": "Ganzer Teahowić",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1996,
+   "kind": "End of tenure",
+   "text": "[[Katerina Armoljubca Nožeslawna]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]",
+   "source": "Katerina Armoljubca Nožeslawna",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1996,
+   "kind": "End of tenure",
+   "text": "[[Kukan Peskilonni]] leaves Director of the Central Bank of the Confian Nation",
+   "source": "Kukan Peskilonni",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1997,
+   "kind": "Founded",
+   "text": "[[Atom Party]]",
+   "source": "Atom Party",
+   "source_type": "organization",
+   "country": "Confia"
+  },
+  {
+   "year": 1997,
+   "kind": "Publication",
+   "text": "*[[Evolution of Governance]]* by [[Yário Kolkov]]. *Central statement of Kolkovianism. Argues democracy is an evolutionary organism rather than a fixed structure. Became assigned reading at multiple universities and the text most cited by the Modernist Alliance. Returns to and expands the critique of the Supreme Court first made in Food for the Fools.*",
+   "source": "Yário Kolkov",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1998,
+   "kind": "Charged",
+   "text": "[[Boris Serec]] with Active corruption, Conspiracy to commit crimes, Cartel formation, Perversion of the office of Prime Minister and Mishandling of the means of production",
+   "source": "Boris Serec",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1998,
+   "kind": "End of tenure",
+   "text": "[[Ganzer Teahowić]] leaves Commissar of Health at [[North Nijbania]]",
+   "source": "Ganzer Teahowić",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1998,
+   "kind": "Verdict",
+   "text": "[[Boris Serec]] found Guilty of Passive corruption (21 counts)",
+   "source": "Boris Serec",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1999,
+   "kind": "Charged",
+   "text": "[[Boris Serec]] with Passive corruption (21 counts)",
+   "source": "Boris Serec",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1999,
+   "kind": "Verdict",
+   "text": "[[Boris Serec]] found Guilty of Active corruption, Conspiracy to commit crimes, Cartel formation, Perversion of the office of Prime Minister and Mishandling of the means of production",
+   "source": "Boris Serec",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 2000,
+   "kind": "Dissolved",
+   "text": "[[Armotist Democratic Party]]",
+   "source": "Armotist Democratic Party",
+   "source_type": "organization",
+   "country": "Confia"
+  },
+  {
+   "year": 2000,
+   "kind": "Founded",
+   "text": "[[Armotist Democracy (Confian party, 2000)]] by [[Panož Zastranni]]",
+   "source": "Armotist Democracy (Confian party, 2000)",
+   "source_type": "organization",
+   "country": "Confia"
+  },
+  {
+   "year": 2000,
+   "kind": "Founded",
+   "text": "[[Confian Democratic Party]] by [[Japlen Razol]]",
+   "source": "Confian Democratic Party",
+   "source_type": "organization",
+   "country": "Confia"
+  },
+  {
+   "year": 2000,
+   "kind": "Founded",
+   "text": "[[Shield!]]",
+   "source": "Shield!",
+   "source_type": "organization",
+   "country": "Confia"
+  },
+  {
+   "year": 2001,
+   "kind": "Appointment",
+   "text": "[[Ganzer Teahowić]] becomes President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]], appointed by [[National Assembly of Confian Syndicates]]",
+   "source": "Ganzer Teahowić",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 2002,
+   "kind": "Birth",
+   "text": "[[Venvek Rashera]] born in [[Damčev]], [[Sužielaj]], [[Susia]]",
+   "source": "Venvek Rashera",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 2002,
+   "kind": "Death",
+   "text": "[[Filevir Matri]] died in [[Duolij]], [[Postia]], [[Susia]] (Natural causes)",
+   "source": "Filevir Matri",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 2002,
+   "kind": "End of tenure",
+   "text": "[[Lenseka Japlenowina]] leaves Mayor of Imgospalje",
+   "source": "Lenseka Japlenowina",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 2003,
+   "kind": "Founded",
+   "text": "[[Red Iron]] in [[Neoveli]]",
+   "source": "Red Iron",
+   "source_type": "company",
+   "country": "Susia"
+  },
+  {
+   "year": 2006,
+   "kind": "Publication",
+   "text": "*[[The Tyranny of Order]]* by [[Yário Kolkov]]. *Critique of rigid institutional systems. Warns against the transformation of living philosophy into dead doctrine.*",
+   "source": "Yário Kolkov",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 2008,
+   "kind": "Founded",
+   "text": "[[Astralis Banking Group]] in [[Sužielaj city]]",
+   "source": "Astralis Banking Group",
+   "source_type": "company",
+   "country": "Susia"
+  },
+  {
+   "year": 2008,
+   "kind": "Publication",
+   "text": "*[[Democracy as an Organism]]* by [[Yário Kolkov]]. *Final completed book before his death.*",
+   "source": "Yário Kolkov",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 2009,
+   "kind": "Appointment",
+   "text": "[[Ganzer Teahowić]], President of the Confian Social Republic ([[Syndicalist League]])",
+   "source": "",
+   "source_type": "person",
+   "election": "[[List of Confian elections|2009 Confian presidential election]]"
+  },
+  {
+   "year": 2009,
+   "kind": "Document recorded",
+   "text": "[[Grawolja Lasmanna with the Five of Goretopol']] (interview)",
+   "source": "Grawolja Lasmanna with the Five of Goretopol'",
+   "source_type": "document",
+   "country": "Confia"
+  },
+  {
+   "year": 2009,
+   "kind": "Document recorded",
+   "text": "[[Kolkov Interview 2009]] (interview)",
+   "source": "Kolkov Interview 2009",
+   "source_type": "document",
+   "country": "Susia"
+  },
+  {
+   "year": 2009,
+   "kind": "End of tenure",
+   "text": "[[Ganzer Teahowić]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]",
+   "source": "Ganzer Teahowić",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 2011,
+   "kind": "Death",
+   "text": "[[Ganzer Teahowić]] died in [[Imgospalje]], [[Koštanože]], [[Confia]] (Car bomb)",
+   "source": "Ganzer Teahowić",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 2011,
+   "kind": "Death",
+   "text": "[[Yário Kolkov]] died in [[New Duloc]], [[Postia]], [[Susia]] (Lung cancer)",
+   "source": "Yário Kolkov",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 2011,
+   "kind": "End of tenure",
+   "text": "[[Ganzer Teahowić]] leaves President of the Confian Social Republic at [[Confian National Government]]",
+   "source": "Ganzer Teahowić",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 2012,
+   "kind": "Death",
+   "text": "[[Senjap Kunsekowić]] died in [[Saint Feriol]], [[Koštanože]], [[Confia]] (Natural causes)",
+   "source": "Senjap Kunsekowić",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 2013,
+   "kind": "Dissolved",
+   "text": "[[Ljudewlaš!]]",
+   "source": "Ljudewlaš!",
+   "source_type": "organization",
+   "country": "Confia"
+  },
+  {
+   "year": 2013,
+   "kind": "Dissolved",
+   "text": "[[Shield!]]",
+   "source": "Shield!",
+   "source_type": "organization",
+   "country": "Confia"
+  },
+  {
+   "year": 2013,
+   "kind": "Founded",
+   "text": "[[Republican Promise]] by [[Nisa Peskilonna]]",
+   "source": "Republican Promise",
+   "source_type": "organization",
+   "country": "Confia"
+  },
+  {
+   "year": 2014,
+   "kind": "Appointment",
+   "text": "[[Nisa Peskilonna]], President of the Confian Social Republic ([[Republican Promise]])",
+   "source": "",
+   "source_type": "person",
+   "election": "[[List of Confian elections#2014 Confian presidential election]]"
+  },
+  {
+   "year": 2014,
+   "kind": "Publication",
+   "text": "*[[Dead Man's Wit]]* by [[Yário Kolkov]]. *Kolkov's unfinished manuscript, kept private through the final years of his life and never submitted for publication. Recovered from the University of New Kentu archives by a former student in 2014 and published online. More personal and less systematic than his other work.*",
+   "source": "Yário Kolkov",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 2018,
+   "kind": "End of tenure",
+   "text": "[[Nisa Peskilonna]] leaves President of the Confian Social Republic at [[Confian National Government]]",
+   "source": "Nisa Peskilonna",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 2019,
+   "kind": "Appointment",
+   "text": "[[Nisa Peskilonna]] becomes President of the Confian Social Republic at [[Confian National Government]]",
+   "source": "Nisa Peskilonna",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 2023,
+   "kind": "End of tenure",
+   "text": "[[Nisa Peskilonna]] leaves President of the Confian Social Republic at [[Confian National Government]]",
+   "source": "Nisa Peskilonna",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 2024,
+   "kind": "Death",
+   "text": "[[Boris Serec]] died in [[Carlotopolis State Prison]], [[Karlotopol']], [[Confia]] (Natural causes)",
+   "source": "Boris Serec",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 2031,
+   "kind": "End of tenure",
+   "text": "[[Chedji Soites]] leaves CEO of the Soites Group",
+   "source": "Chedji Soites",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 2031,
+   "kind": "Founded",
+   "text": "[[Yerčemark]] by [[Venvek Rashera]] in [[New Kentu]]",
+   "source": "Yerčemark",
+   "source_type": "company",
+   "country": "Susia"
+  },
+  {
+   "year": 2031,
+   "kind": "Yarnojte granted",
+   "text": "[[POCOIL]]",
+   "source": "POCOIL",
+   "source_type": "company",
+   "country": "Susia"
+  },
+  {
+   "year": 2034,
+   "kind": "Death",
+   "text": "[[Chedji Soites]] died in [[Neoveli]], [[Dripia]], [[Susia]] (Natural causes)",
+   "source": "Chedji Soites",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 2037,
+   "kind": "Death",
+   "text": "[[Yavna Raroska]] died in [[Neoveli]], [[Dripia]], [[Susia]] (Natural causes)",
+   "source": "Yavna Raroska",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 2038,
+   "kind": "Dissolved",
+   "text": "[[Susian Liberal Party]]",
+   "source": "Susian Liberal Party",
+   "source_type": "organization",
+   "country": "Susia"
+  },
+  {
+   "year": 2041,
+   "kind": "Yarnojte granted",
+   "text": "[[Atompron]]",
+   "source": "Atompron",
+   "source_type": "company",
+   "country": "Susia"
+  },
+  {
+   "year": 2041,
+   "kind": "Yarnojte granted",
+   "text": "[[Troli Ustaras]]",
+   "source": "Troli Ustaras",
+   "source_type": "company",
+   "country": "Susia"
+  },
+  {
+   "year": 2041,
+   "kind": "Yarnojte granted",
+   "text": "[[Van Ritter]]",
+   "source": "Van Ritter",
+   "source_type": "company",
+   "country": "Susia"
+  },
+  {
+   "year": 2042,
+   "kind": "Death",
+   "text": "[[Ňotrič Apaj]] died in [[Neoveli]], [[Dripia]], [[Susia]] ([[Kashovne's syndrome]])",
+   "source": "Ňotrič Apaj",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 2044,
+   "kind": "Yarnojte granted",
+   "text": "[[Van Ritter]]",
+   "source": "Van Ritter",
+   "source_type": "company",
+   "country": "Susia"
+  },
+  {
+   "year": 2045,
+   "kind": "Document recorded",
+   "text": "[[Untitled]] (text chat)",
+   "source": "Untitled",
+   "source_type": "document",
+   "country": "Susia"
+  },
+  {
+   "year": 2047,
+   "kind": "Yarnojte revoked",
+   "text": "[[Troli Ustaras]]. *Revoked due to the Troli Ustaras corruption scandal*",
+   "source": "Troli Ustaras",
+   "source_type": "company",
+   "country": "Susia"
+  },
+  {
+   "year": 2047,
+   "kind": "Yarnojte revoked",
+   "text": "[[Van Ritter]]. *Revoked due to the Troli Ustaras corruption scandal*",
+   "source": "Van Ritter",
+   "source_type": "company",
+   "country": "Susia"
+  },
+  {
+   "year": 2050,
+   "kind": "Yarnojte granted",
+   "text": "[[Nayotai]]",
+   "source": "Nayotai",
+   "source_type": "company",
+   "country": "Susia"
+  },
+  {
+   "year": 2050,
+   "kind": "Yarnojte granted",
+   "text": "[[Soites Group]]",
+   "source": "Soites Group",
+   "source_type": "company",
+   "country": "Susia"
+  },
+  {
+   "year": 2051,
+   "kind": "Yarnojte granted",
+   "text": "[[Troli Ustaras]]. *Restored after company wide restructuring*",
+   "source": "Troli Ustaras",
+   "source_type": "company",
+   "country": "Susia"
+  },
+  {
+   "year": 2051,
+   "kind": "Yarnojte granted",
+   "text": "[[Van Ritter]]. *Restored after company wide restructuring*",
+   "source": "Van Ritter",
+   "source_type": "company",
+   "country": "Susia"
+  },
+  {
+   "year": 2063,
+   "kind": "Death",
+   "text": "[[Venvek Rashera]] died in [[Velúria]], [[Orlítia]], [[Susia]] (Drug overdose)",
+   "source": "Venvek Rashera",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 2065,
+   "kind": "Founded",
+   "text": "[[Lischev-Verene]] in [[Sužielaj city]]",
+   "source": "Lischev-Verene",
+   "source_type": "company",
+   "country": "Susia"
+  },
+  {
+   "year": 2072,
+   "kind": "Project begins",
+   "text": "[[Project NIRVEV]] (organized by [[Frumentarze]])",
+   "source": "Project NIRVEV",
+   "source_type": "project",
+   "country": "Susia"
+  },
+  {
+   "year": 2073,
+   "kind": "Founded",
+   "text": "[[Rǎz Lizňir]] in [[Velúria]]",
+   "source": "Rǎz Lizňir",
+   "source_type": "company",
+   "country": "Susia"
+  },
+  {
+   "year": 2077,
+   "kind": "Project begins",
+   "text": "[[Presidential Continuity Program]] (organized by [[Frumentarze]])",
+   "source": "Presidential Continuity Program",
+   "source_type": "project",
+   "country": "Susia"
+  },
+  {
+   "year": 2080,
+   "kind": "Document recorded",
+   "text": "[[Vitakei statement]] (report)",
+   "source": "Vitakei statement",
+   "source_type": "document",
+   "country": "Susia"
+  },
+  {
+   "year": 2084,
+   "kind": "Project ends",
+   "text": "[[Presidential Continuity Program]]. Officially ended on ethical grounds, most probably discontinued due to technical limitations",
+   "source": "Presidential Continuity Program",
+   "source_type": "project",
+   "country": "Susia"
+  },
+  {
+   "year": 2087,
+   "kind": "Yarnojte revoked",
+   "text": "[[POCOIL]]",
+   "source": "POCOIL",
+   "source_type": "company",
+   "country": "Susia"
+  }
+ ],
+ "spans": [
+  {
+   "lane": "titles",
+   "label": "Saint Emperor Mantichev",
+   "start": 1674,
+   "end": 1686,
+   "country": "Susia",
+   "title": "Emperor of the Dripstanian Empire",
+   "display": "Emperor of the Dripstanian Empire",
+   "holder": "Saint Emperor Mantichev"
+  },
+  {
+   "lane": "titles",
+   "label": "Emperor Agamilos",
+   "start": 1686,
+   "end": 1738,
+   "country": "Susia",
+   "title": "Emperor of the Dripstanian Empire",
+   "display": "Emperor of the Dripstanian Empire",
+   "holder": "Emperor Agamilos"
+  },
+  {
+   "lane": "titles",
+   "label": "Regency council",
+   "start": 1738,
+   "end": 1740,
+   "title": "Emperor of the Dripstanian Empire",
+   "interlude": "regency",
+   "country": "Susia"
+  },
+  {
+   "lane": "titles",
+   "label": "Empress Veronique",
+   "start": 1740,
+   "end": 1787,
+   "country": "Susia",
+   "title": "Emperor of the Dripstanian Empire",
+   "display": "Empress of the Dripstanian Empire",
+   "holder": "Empress Veronique"
+  },
+  {
+   "lane": "titles",
+   "label": "Empress Yaneoli",
+   "start": 1787,
+   "end": 1815,
+   "country": "Susia",
+   "title": "Emperor of the Dripstanian Empire",
+   "display": "Empress of the Dripstanian Empire",
+   "holder": "Empress Yaneoli"
+  },
+  {
+   "lane": "titles",
+   "label": "Empress Prazde",
+   "start": 1793,
+   "end": 1825,
+   "country": "Susia",
+   "title": "Queen of Zaphonia",
+   "display": "Queen of Zaphonia",
+   "holder": "Empress Prazde"
+  },
+  {
+   "lane": "institutions",
+   "label": "Susian Naval Academy",
+   "start": 1803,
+   "end": null,
+   "country": "Susia"
+  },
+  {
+   "lane": "titles",
+   "label": "Disputed succession",
+   "start": 1815,
+   "end": 1823,
+   "title": "Emperor of the Dripstanian Empire",
+   "interlude": "disputed",
+   "country": "Susia"
+  },
+  {
+   "lane": "events",
+   "label": "Dripstanian Civil War",
+   "start": 1815,
+   "end": 1823,
+   "country": "Susia"
+  },
+  {
+   "lane": "titles",
+   "label": "Empress Prazde",
+   "start": 1815,
+   "end": 1823,
+   "country": "Susia",
+   "title": "Emperor of the Dripstanian Empire",
+   "display": "Empress of the Dripstanian Empire",
+   "holder": "Empress Prazde"
+  },
+  {
+   "lane": "titles",
+   "label": "Jartes I",
+   "start": 1815,
+   "end": 1837,
+   "country": "Susia",
+   "title": "Emperor of the Dripstanian Empire",
+   "display": "Emperor of the Dripstanian Empire",
+   "holder": "Jartes I"
+  },
+  {
+   "lane": "institutions",
+   "label": "Union of Confian Syndicalists",
+   "start": 1829,
+   "end": null,
+   "country": "Confia"
+  },
+  {
+   "lane": "institutions",
+   "label": "Ražaw",
+   "start": 1830,
+   "end": null,
+   "country": "Confia"
+  },
+  {
+   "lane": "titles",
+   "label": "Jartes II",
+   "start": 1837,
+   "end": 1882,
+   "country": "Susia",
+   "title": "Emperor of the Dripstanian Empire",
+   "display": "Emperor of the Dripstanian Empire",
+   "holder": "Jartes II"
+  },
+  {
+   "lane": "titles",
+   "label": "Armadesh Versij",
+   "start": 1840,
+   "end": 1844,
+   "country": "Susia",
+   "title": "Member of the General Government of the Federated Provinces of Galil",
+   "display": "Member of the General Government of the Federated Provinces of Galil",
+   "holder": "Armadesh Versij"
+  },
+  {
+   "lane": "titles",
+   "label": "Kaichet Satratonie",
+   "start": 1840,
+   "end": 1844,
+   "country": "Susia",
+   "title": "Member of the General Government of the Federated Provinces of Galil",
+   "display": "Member of the General Government of the Federated Provinces of Galil",
+   "holder": "Kaichet Satratonie"
+  },
+  {
+   "lane": "events",
+   "label": "Liberal Revolts",
+   "start": 1840,
+   "end": 1844,
+   "country": "Susia"
+  },
+  {
+   "lane": "titles",
+   "label": "Zagoste Paroska",
+   "start": 1840,
+   "end": 1844,
+   "country": "Susia",
+   "title": "Member of the General Government of the Federated Provinces of Galil",
+   "display": "Member of the General Government of the Federated Provinces of Galil",
+   "holder": "Zagoste Paroska"
+  },
+  {
+   "lane": "institutions",
+   "label": "Confian Nation Party (1841)",
+   "start": 1841,
+   "end": 1937,
+   "country": "Confia"
+  },
+  {
+   "lane": "institutions",
+   "label": "PIKW",
+   "start": 1841,
+   "end": null,
+   "country": "Confia"
+  },
+  {
+   "lane": "institutions",
+   "label": "Žošewoš Machinery",
+   "start": 1852,
+   "end": null,
+   "country": "Confia"
+  },
+  {
+   "lane": "institutions",
+   "label": "Imperial Tobacco Company",
+   "start": 1867,
+   "end": null,
+   "country": "Susia"
+  },
+  {
+   "lane": "institutions",
+   "label": "Triževa Bank",
+   "start": 1869,
+   "end": null,
+   "country": "Susia"
+  },
+  {
+   "lane": "institutions",
+   "label": "Lijara",
+   "start": 1883,
+   "end": null,
+   "country": "Confia"
+  },
+  {
+   "lane": "institutions",
+   "label": "Nassoj Holdings",
+   "start": 1883,
+   "end": null,
+   "country": "Susia"
+  },
+  {
+   "lane": "institutions",
+   "label": "POCOIL",
+   "start": 1888,
+   "end": null,
+   "country": "Susia"
+  },
+  {
+   "lane": "institutions",
+   "label": "Gražer-Moiyin",
+   "start": 1889,
+   "end": null,
+   "country": "Susia"
+  },
+  {
+   "lane": "institutions",
+   "label": "Silver Coast Bank",
+   "start": 1893,
+   "end": null,
+   "country": "Susia"
+  },
+  {
+   "lane": "institutions",
+   "label": "Nayotai",
+   "start": 1909,
+   "end": null,
+   "country": "Susia"
+  },
+  {
+   "lane": "events",
+   "label": "Carlotopolis Uprising",
+   "start": 1920,
+   "end": 1920,
+   "country": "Confia"
+  },
+  {
+   "lane": "institutions",
+   "label": "Van Ritter",
+   "start": 1923,
+   "end": null,
+   "country": "Susia"
+  },
+  {
+   "lane": "institutions",
+   "label": "Confian Liberal Party",
+   "start": 1930,
+   "end": 1992,
+   "country": "Confia"
+  },
+  {
+   "lane": "institutions",
+   "label": "Postian Free Farmers",
+   "start": 1932,
+   "end": 1994,
+   "country": "Susia"
+  },
+  {
+   "lane": "institutions",
+   "label": "White Stork Party",
+   "start": 1942,
+   "end": null,
+   "country": "Susia"
+  },
+  {
+   "lane": "titles",
+   "label": "Suizo Soites",
+   "start": 1953,
+   "end": 1954,
+   "country": "Susia",
+   "title": "Delegate to the Constitutional Convention",
+   "display": "Delegate to the Constitutional Convention",
+   "holder": "Suizo Soites"
+  },
+  {
+   "lane": "titles",
+   "label": "Suizo Soites",
+   "start": 1954,
+   "end": 1958,
+   "country": "Susia",
+   "title": "President of Susia",
+   "display": "President of Susia",
+   "holder": "Suizo Soites"
+  },
+  {
+   "lane": "events",
+   "label": "Ant wars",
+   "start": 1954,
+   "end": 1959,
+   "country": "Susia"
+  },
+  {
+   "lane": "institutions",
+   "label": "Knights of the Republic",
+   "start": 1954,
+   "end": 1959,
+   "country": "Susia"
+  },
+  {
+   "lane": "titles",
+   "label": "Filevir Matri",
+   "start": 1954,
+   "end": 1962,
+   "country": "Susia",
+   "title": "Susian Governor",
+   "display": "Governor of Postia",
+   "seat": "Postia",
+   "holder": "Filevir Matri"
+  },
+  {
+   "lane": "institutions",
+   "label": "Confian Syndicalist Union",
+   "start": 1954,
+   "end": 1979,
+   "country": "Confia"
+  },
+  {
+   "lane": "institutions",
+   "label": "Progressive Republican Party",
+   "start": 1954,
+   "end": 1990,
+   "country": "Confia"
+  },
+  {
+   "lane": "institutions",
+   "label": "Susian Liberal Party",
+   "start": 1954,
+   "end": 2038,
+   "country": "Susia"
+  },
+  {
+   "lane": "institutions",
+   "label": "Pačese ro Virspruje",
+   "start": 1954,
+   "end": null,
+   "country": "Susia"
+  },
+  {
+   "lane": "institutions",
+   "label": "Supreme Court of Susia",
+   "start": 1954,
+   "end": null,
+   "country": "Susia"
+  },
+  {
+   "lane": "institutions",
+   "label": "Susian Democratic Union",
+   "start": 1954,
+   "end": null,
+   "country": "Susia"
+  },
+  {
+   "lane": "titles",
+   "label": "Lorelaj Paulowić",
+   "start": 1955,
+   "end": 1977,
+   "country": "Confia",
+   "title": "First Secretary of the Union of Confian Syndicalists",
+   "display": "First Secretary of the Union of Confian Syndicalists",
+   "holder": "Lorelaj Paulowić"
+  },
+  {
+   "lane": "titles",
+   "label": "Lorelaj Paulowić",
+   "start": 1956,
+   "end": 1958,
+   "country": "Confia",
+   "title": "Confian President",
+   "display": "President of the Confian Nation",
+   "holder": "Lorelaj Paulowić"
+  },
+  {
+   "lane": "institutions",
+   "label": "Moviment of New Susians",
+   "start": 1956,
+   "end": null,
+   "country": "Susia"
+  },
+  {
+   "lane": "events",
+   "label": "Continental Divide",
+   "start": 1957,
+   "end": 1977,
+   "country": "Susia"
+  },
+  {
+   "lane": "events",
+   "label": "Matri assasination attempt (1958)",
+   "start": 1958,
+   "end": 1958,
+   "country": "Susia"
+  },
+  {
+   "lane": "events",
+   "label": "New Duloc riot",
+   "start": 1958,
+   "end": 1958,
+   "country": "Susia"
+  },
+  {
+   "lane": "titles",
+   "label": "Ergagério Sienes",
+   "start": 1958,
+   "end": 1962,
+   "country": "Susia",
+   "title": "Vice President of Susia",
+   "display": "Vice President of Susia",
+   "holder": "Ergagério Sienes"
+  },
+  {
+   "lane": "titles",
+   "label": "Suizo Soites",
+   "start": 1958,
+   "end": 1962,
+   "country": "Susia",
+   "title": "President of Susia",
+   "display": "President of Susia",
+   "holder": "Suizo Soites"
+  },
+  {
+   "lane": "titles",
+   "label": "Lorelaj Paulowić",
+   "start": 1958,
+   "end": 1977,
+   "country": "Confia",
+   "title": "Confian President",
+   "display": "Leader of the Confian Nation",
+   "holder": "Lorelaj Paulowić"
+  },
+  {
+   "lane": "events",
+   "label": "Legrinpija Massacre",
+   "start": 1959,
+   "end": 1959,
+   "country": "Confia"
+  },
+  {
+   "lane": "institutions",
+   "label": "Troli Ustaras",
+   "start": 1959,
+   "end": null,
+   "country": "Susia"
+  },
+  {
+   "lane": "titles",
+   "label": "Filevir Matri",
+   "start": 1962,
+   "end": 1966,
+   "country": "Susia",
+   "title": "Senator",
+   "display": "Senator for Postia",
+   "seat": "Postia",
+   "holder": "Filevir Matri"
+  },
+  {
+   "lane": "titles",
+   "label": "Serčev Fimžer",
+   "start": 1962,
+   "end": 1966,
+   "country": "Susia",
+   "title": "President of Susia",
+   "display": "President of Susia",
+   "holder": "Serčev Fimžer"
+  },
+  {
+   "lane": "titles",
+   "label": "Bejňar Keke",
+   "start": 1962,
+   "end": 1989,
+   "country": "Incria",
+   "title": "President of Yar-Firol",
+   "display": "President of Yar-Firol",
+   "holder": "Bejňar Keke"
+  },
+  {
+   "lane": "institutions",
+   "label": "Rally for National Salvation",
+   "start": 1962,
+   "end": null,
+   "country": "Incria"
+  },
+  {
+   "lane": "titles",
+   "label": "Filevir Matri",
+   "start": 1966,
+   "end": 1970,
+   "country": "Susia",
+   "title": "Susian Secretary",
+   "display": "Secretary of Justice",
+   "seat": "Justice",
+   "holder": "Filevir Matri"
+  },
+  {
+   "lane": "titles",
+   "label": "Serčev Fimžer",
+   "start": 1966,
+   "end": 1970,
+   "country": "Susia",
+   "title": "President of Susia",
+   "display": "President of Susia",
+   "holder": "Serčev Fimžer"
+  },
+  {
+   "lane": "institutions",
+   "label": "San'motko",
+   "start": 1966,
+   "end": null,
+   "country": "Incria"
+  },
+  {
+   "lane": "institutions",
+   "label": "Końteraf",
+   "start": 1968,
+   "end": null,
+   "country": "Confia"
+  },
+  {
+   "lane": "titles",
+   "label": "Suizo Soites",
+   "start": 1969,
+   "end": 1981,
+   "country": "Susia",
+   "title": "CEO of the Soites Group",
+   "display": "CEO of the Soites Group",
+   "holder": "Suizo Soites"
+  },
+  {
+   "lane": "institutions",
+   "label": "Soites Group",
+   "start": 1969,
+   "end": null,
+   "country": "Susia"
+  },
+  {
+   "lane": "titles",
+   "label": "Ergagério Sienes",
+   "start": 1970,
+   "end": 1974,
+   "country": "Susia",
+   "title": "President of Susia",
+   "display": "President of Susia",
+   "holder": "Ergagério Sienes"
+  },
+  {
+   "lane": "titles",
+   "label": "Filevir Matri",
+   "start": 1970,
+   "end": 1974,
+   "country": "Susia",
+   "title": "Senator",
+   "display": "Senator for Postia",
+   "seat": "Postia",
+   "holder": "Filevir Matri"
+  },
+  {
+   "lane": "titles",
+   "label": "Čalsor Boňár",
+   "start": 1974,
+   "end": 1978,
+   "country": "Susia",
+   "title": "President of Susia",
+   "display": "President of Susia",
+   "holder": "Čalsor Boňár"
+  },
+  {
+   "lane": "titles",
+   "label": "Filevir Matri",
+   "start": 1974,
+   "end": 1983,
+   "country": "Susia",
+   "title": "Vice President of Susia",
+   "display": "Vice President of Susia",
+   "holder": "Filevir Matri"
+  },
+  {
+   "lane": "events",
+   "label": "Bayonet Revolution",
+   "start": 1977,
+   "end": 1977,
+   "country": "Confia"
+  },
+  {
+   "lane": "titles",
+   "label": "Mariana Torres",
+   "start": 1977,
+   "end": 1977,
+   "country": "Confia",
+   "title": "Confian President",
+   "display": "Leader of the Confian Nation",
+   "holder": "Mariana Torres"
+  },
+  {
+   "lane": "institutions",
+   "label": "Confian Nation Party (1977)",
+   "start": 1977,
+   "end": 1981,
+   "country": "Confia"
+  },
+  {
+   "lane": "titles",
+   "label": "Lenseka Japlenowina",
+   "start": 1978,
+   "end": 1980,
+   "country": "Confia",
+   "title": "Confian Prime Minister",
+   "display": "President of the Council of Commissars of the United Syndicates of Confia",
+   "holder": "Lenseka Japlenowina"
+  },
+  {
+   "lane": "titles",
+   "label": "Boris Serec",
+   "start": 1978,
+   "end": 1982,
+   "country": "Confia",
+   "title": "Confian Commissar",
+   "display": "Commissar of Education",
+   "seat": "Education",
+   "holder": "Boris Serec"
+  },
+  {
+   "lane": "titles",
+   "label": "Čalsor Boňár",
+   "start": 1978,
+   "end": 1982,
+   "country": "Susia",
+   "title": "President of Susia",
+   "display": "President of Susia",
+   "holder": "Čalsor Boňár"
+  },
+  {
+   "lane": "titles",
+   "label": "Mariana Torres",
+   "start": 1978,
+   "end": 1986,
+   "country": "Confia",
+   "title": "Confian President",
+   "display": "President of the Confian Nation",
+   "holder": "Mariana Torres"
+  },
+  {
+   "lane": "institutions",
+   "label": "Atompron",
+   "start": 1979,
+   "end": null,
+   "country": "Susia"
+  },
+  {
+   "lane": "institutions",
+   "label": "Syndicalist League",
+   "start": 1979,
+   "end": null,
+   "country": "Confia"
+  },
+  {
+   "lane": "titles",
+   "label": "Senjap Kunsekowić",
+   "start": 1980,
+   "end": 1982,
+   "country": "Confia",
+   "title": "Confian Prime Minister",
+   "display": "President of the Council of Commissars of the United Syndicates of Confia",
+   "holder": "Senjap Kunsekowić"
+  },
+  {
+   "lane": "institutions",
+   "label": "Armotist Democratic Party",
+   "start": 1980,
+   "end": 2000,
+   "country": "Confia"
+  },
+  {
+   "lane": "institutions",
+   "label": "Făzmelj",
+   "start": 1980,
+   "end": null,
+   "country": "Confia"
+  },
+  {
+   "lane": "institutions",
+   "label": "Movement for Syndicalist Renovation",
+   "start": 1980,
+   "end": null,
+   "country": "Confia"
+  },
+  {
+   "lane": "titles",
+   "label": "Katerina Armoljubca Nožeslawna",
+   "start": 1981,
+   "end": 1982,
+   "country": "Confia",
+   "title": "Member of the National Assembly of Confian Syndicates",
+   "display": "Member of the National Assembly of Confian Syndicates",
+   "holder": "Katerina Armoljubca Nožeslawna"
+  },
+  {
+   "lane": "institutions",
+   "label": "Ljudewlaš!",
+   "start": 1981,
+   "end": 2013,
+   "country": "Confia"
+  },
+  {
+   "lane": "titles",
+   "label": "Chedji Soites",
+   "start": 1981,
+   "end": 2031,
+   "country": "Susia",
+   "title": "CEO of the Soites Group",
+   "display": "CEO of the Soites Group",
+   "holder": "Chedji Soites"
+  },
+  {
+   "lane": "titles",
+   "label": "Čalsor Boňár",
+   "start": 1982,
+   "end": 1983,
+   "country": "Susia",
+   "title": "President of Susia",
+   "display": "President of Susia",
+   "holder": "Čalsor Boňár"
+  },
+  {
+   "lane": "titles",
+   "label": "Katerina Armoljubca Nožeslawna",
+   "start": 1982,
+   "end": 1986,
+   "country": "Confia",
+   "title": "Member of the National Assembly of Confian Syndicates",
+   "display": "Member of the National Assembly of Confian Syndicates",
+   "holder": "Katerina Armoljubca Nožeslawna"
+  },
+  {
+   "lane": "titles",
+   "label": "Filevir Matri",
+   "start": 1983,
+   "end": 1986,
+   "country": "Susia",
+   "title": "President of Susia",
+   "display": "President of Susia",
+   "holder": "Filevir Matri"
+  },
+  {
+   "lane": "titles",
+   "label": "Boris Serec",
+   "start": 1983,
+   "end": 1987,
+   "country": "Confia",
+   "title": "Confian Prime Minister",
+   "display": "President of the Council of Commissars of the United Syndicates of Confia",
+   "holder": "Boris Serec"
+  },
+  {
+   "lane": "events",
+   "label": "Nar Liewati Massacre",
+   "start": 1986,
+   "end": 1986,
+   "country": "Ditania"
+  },
+  {
+   "lane": "titles",
+   "label": "Mariana Torres",
+   "start": 1986,
+   "end": 1987,
+   "country": "Confia",
+   "title": "Confian President",
+   "display": "President of the Confian Nation",
+   "holder": "Mariana Torres"
+  },
+  {
+   "lane": "titles",
+   "label": "Kukan Peskilonni",
+   "start": 1986,
+   "end": 1996,
+   "country": "Confia",
+   "title": "Director of the Central Bank of the Confian Nation",
+   "display": "Director of the Central Bank of the Confian Nation",
+   "holder": "Kukan Peskilonni"
+  },
+  {
+   "lane": "titles",
+   "label": "Katerina Armoljubca Nožeslawna",
+   "start": 1987,
+   "end": 1990,
+   "country": "Confia",
+   "title": "Member of the National Assembly of Confian Syndicates",
+   "display": "Member of the National Assembly of Confian Syndicates",
+   "holder": "Katerina Armoljubca Nožeslawna"
+  },
+  {
+   "lane": "titles",
+   "label": "Boris Serec",
+   "start": 1987,
+   "end": 1996,
+   "country": "Confia",
+   "title": "Confian President",
+   "display": "President of the Confian Nation",
+   "holder": "Boris Serec"
+  },
+  {
+   "lane": "titles",
+   "label": "Ganzer Teahowić",
+   "start": 1988,
+   "end": 1992,
+   "country": "Confia",
+   "title": "Confian State Governor",
+   "display": "State Governor of North Nijbania",
+   "seat": "North Nijbania",
+   "holder": "Ganzer Teahowić"
+  },
+  {
+   "lane": "titles",
+   "label": "Katerina Armoljubca Nožeslawna",
+   "start": 1990,
+   "end": 1996,
+   "country": "Confia",
+   "title": "Confian Prime Minister",
+   "display": "President of the Council of Commissars of the United Syndicates of Confia",
+   "holder": "Katerina Armoljubca Nožeslawna"
+  },
+  {
+   "lane": "institutions",
+   "label": "PSP",
+   "start": 1991,
+   "end": null,
+   "country": "Confia"
+  },
+  {
+   "lane": "titles",
+   "label": "Ganzer Teahowić",
+   "start": 1992,
+   "end": 1996,
+   "country": "Confia",
+   "title": "Confian State Governor",
+   "display": "State Governor of North Nijbania",
+   "seat": "North Nijbania",
+   "holder": "Ganzer Teahowić"
+  },
+  {
+   "lane": "institutions",
+   "label": "Mi, Niteraljci!",
+   "start": 1992,
+   "end": null,
+   "country": "Confia"
+  },
+  {
+   "lane": "institutions",
+   "label": "KSH",
+   "start": 1993,
+   "end": null,
+   "country": "Confia"
+  },
+  {
+   "lane": "titles",
+   "label": "Ganzer Teahowić",
+   "start": 1996,
+   "end": 1998,
+   "country": "Confia",
+   "title": "North Nijbanian Commissar",
+   "display": "Commissar of Health",
+   "seat": "Health",
+   "holder": "Ganzer Teahowić"
+  },
+  {
+   "lane": "titles",
+   "label": "Lenseka Japlenowina",
+   "start": 1996,
+   "end": 2002,
+   "country": "Confia",
+   "title": "Confian Mayor",
+   "display": "Mayor of Imgospalje",
+   "seat": "Imgospalje",
+   "holder": "Lenseka Japlenowina"
+  },
+  {
+   "lane": "institutions",
+   "label": "Atom Party",
+   "start": 1997,
+   "end": null,
+   "country": "Confia"
+  },
+  {
+   "lane": "institutions",
+   "label": "Shield!",
+   "start": 2000,
+   "end": 2013,
+   "country": "Confia"
+  },
+  {
+   "lane": "institutions",
+   "label": "Armotist Democracy (Confian party, 2000)",
+   "start": 2000,
+   "end": null,
+   "country": "Confia"
+  },
+  {
+   "lane": "institutions",
+   "label": "Confian Democratic Party",
+   "start": 2000,
+   "end": null,
+   "country": "Confia"
+  },
+  {
+   "lane": "titles",
+   "label": "Ganzer Teahowić",
+   "start": 2001,
+   "end": 2009,
+   "country": "Confia",
+   "title": "Confian Prime Minister",
+   "display": "President of the Council of Commissars of the United Syndicates of Confia",
+   "holder": "Ganzer Teahowić"
+  },
+  {
+   "lane": "institutions",
+   "label": "Red Iron",
+   "start": 2003,
+   "end": null,
+   "country": "Susia"
+  },
+  {
+   "lane": "institutions",
+   "label": "Astralis Banking Group",
+   "start": 2008,
+   "end": null,
+   "country": "Susia"
+  },
+  {
+   "lane": "titles",
+   "label": "Ganzer Teahowić",
+   "start": 2009,
+   "end": 2011,
+   "country": "Confia",
+   "title": "Confian President",
+   "display": "President of the Confian Social Republic",
+   "holder": "Ganzer Teahowić"
+  },
+  {
+   "lane": "institutions",
+   "label": "Republican Promise",
+   "start": 2013,
+   "end": null,
+   "country": "Confia"
+  },
+  {
+   "lane": "titles",
+   "label": "Nisa Peskilonna",
+   "start": 2014,
+   "end": 2018,
+   "country": "Confia",
+   "title": "Confian President",
+   "display": "President of the Confian Social Republic",
+   "holder": "Nisa Peskilonna"
+  },
+  {
+   "lane": "titles",
+   "label": "Nisa Peskilonna",
+   "start": 2019,
+   "end": 2023,
+   "country": "Confia",
+   "title": "Confian President",
+   "display": "President of the Confian Social Republic",
+   "holder": "Nisa Peskilonna"
+  },
+  {
+   "lane": "institutions",
+   "label": "Yerčemark",
+   "start": 2031,
+   "end": null,
+   "country": "Susia"
+  },
+  {
+   "lane": "institutions",
+   "label": "Lischev-Verene",
+   "start": 2065,
+   "end": null,
+   "country": "Susia"
+  },
+  {
+   "lane": "events",
+   "label": "Project NIRVEV",
+   "start": 2072,
+   "end": null,
+   "country": "Susia"
+  },
+  {
+   "lane": "institutions",
+   "label": "Rǎz Lizňir",
+   "start": 2073,
+   "end": null,
+   "country": "Susia"
+  },
+  {
+   "lane": "events",
+   "label": "Presidential Continuity Program",
+   "start": 2077,
+   "end": 2084,
+   "country": "Susia"
+  }
+ ]
+}

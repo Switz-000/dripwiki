@@ -56,14 +56,20 @@ parties:
   - "[[Armotist Democratic Party|Armotist Democratic Party (1980-2000)]]"
 organizations:
   -
-offices:
-  - title: President of the Republic
-    employer:
+titles:
+  - title: "[[Confian President]]"
     start_year: 2014
-    end_year: 2019
+    end_year: 2018
     appointer: "[[List of Confian elections#2014 Confian presidential election]]"
     parties:
       - "[[Republican Promise]]"
+    notes:
+  - title: "[[Confian President]]"
+    start_year: 2019
+    end_year: 2023
+    appointer:
+    parties:
+      -
     notes:
 written_works:
   - title:
