@@ -77,10 +77,9 @@ parties:
 organizations:
   - "[[Federated Provinces of Galil]]"
 
-# ── OFFICES ─────────────────────────────────────────────────────────────────
-offices:
-  - title: Member of the General Government of the Federated Provinces of Galil
-    employer:
+# ── TITLES AND ROLES ────────────────────────────────────────────────────────
+titles:
+  - title: "[[Member of the General Government of the Federated Provinces of Galil]]"
     start_year: 1840
     end_year: 1844
     appointer: General Government of the Federated Provinces of Galil

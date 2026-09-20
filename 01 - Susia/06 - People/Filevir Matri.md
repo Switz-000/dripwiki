@@ -79,50 +79,48 @@ parties:                                        # partidos que ela ja pertenceu
 organizations:
   - "[[Susian Democratic Union]]"
 
-# ── OFFICES ─────────────────────────────────────────────────────────────────
-offices:
-  - title: Governor of Postia
-    employer: "[[Government of Postia]]"
+# ── TITLES AND ROLES ────────────────────────────────────────────────────────
+titles:
+  - title: "[[Susian Governor]]"
+    seat: "[[Postia]]"
     start_year: 1954
     end_year: 1962
     appointer:
     parties:
       - "[[Susian Democratic Union]]"
     notes:
-  - title: Senator for Postia
-    employer: "[[Susian Senate]]"
+  - title: "[[Senator]]"
+    seat: "[[Postia]]"
     start_year: 1962
     end_year: 1966
     appointer:
     parties:
       - "[[Susian Democratic Union]]"
     notes:
-  - title: Secretary of Justice
-    employer: "[[Susian Federal Government]]"
+  - title: "[[Susian Secretary]]"
+    seat: "[[Justice]]"
     start_year: 1966
     end_year: 1970
     appointer: "[[Serčev Fimžer]]"
     parties:
       - "[[Susian Democratic Union]]"
     notes:
-  - title: Senator for Postia
-    employer: "[[Susian Senate]]"
+  - title: "[[Senator]]"
+    seat: "[[Postia]]"
     start_year: 1970
     end_year: 1974
     appointer:
     parties:
       - "[[Susian Democratic Union]]"
     notes:
-  - title: Vice President of Susia
-    employer: "[[Susian Federal Government]]"
+  - title: "[[Vice President of Susia]]"
     start_year: 1974
     end_year: 1983
     appointer:
     parties:
       - "[[Susian Democratic Union]]"
     notes:
-  - title: President of Susia
-    employer: "[[Susian Federal Government]]"
+  - title: "[[President of Susia]]"
     start_year: 1983
     end_year: 1986
     appointer:

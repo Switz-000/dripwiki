@@ -55,17 +55,16 @@ parties:
   - "[[Progressive Republican Party]]"
 organizations:
   -
-offices:
-  - title: President of the Council of Commissars of the United Syndicates of Confia
-    employer: "[[Confian National Government]]"
+titles:
+  - title: "[[Confian Prime Minister]]"
     start_year: 1978
     end_year: 1980
     appointer: "[[National Assembly of Confian Syndicates]]"
     parties:
       - "[[Progressive Republican Party]]"
     notes:
-  - title: Mayor of Imgospalje
-    employer: "[[Imgospalje|Imgospalje City Government]]"
+  - title: "[[Confian Mayor]]"
+    seat: "[[Imgospalje]]"
     start_year: 1996
     end_year: 2002
     appointer: "[[1996 Imgospalje mayoral elections]]"

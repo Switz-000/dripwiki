@@ -54,14 +54,21 @@ parties:
   -
 organizations:
   -
-offices:
+titles:
   - title:
-    employer:
+    seat:
     start_year:
     end_year:
     appointer:
     parties:
       -
+    notes:
+
+roles:
+  - role:
+    employer:
+    start_year:
+    end_year:
     notes:
 written_works:
   - title:

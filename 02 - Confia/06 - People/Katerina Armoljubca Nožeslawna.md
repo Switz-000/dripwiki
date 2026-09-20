@@ -33,7 +33,7 @@ education:
   - degree:
     institution:
     year:
-  - 
+  -
 occupation:
   - title: Politician
     start_year:
@@ -48,7 +48,7 @@ military_service:
     start_year:
     end_year:
     conflicts:
-      - 
+      -
     notes:
 political_alignment:
   - "[[Syndicalism#New Syndicalism|New Syndicalism]]"
@@ -57,33 +57,29 @@ parties:
   - "[[Syndicalist League]]"
 organizations:
   - "[[Organization of the Syndicalist Youth of the Confian Nation|Organization of the Syndicalist Youth of the Confian Nation (1956-1967)]]"
-offices:
-  - title: President of the Council of Commissars of the United Syndicates of Confia
-    employer: "[[Confian National Government]]"
+titles:
+  - title: "[[Confian Prime Minister]]"
     start_year: 1990
     end_year: 1996
     appointer: "[[National Assembly of Confian Syndicates]]"
     parties:
       - "[[Syndicalist League]]"
     notes:
-  - title: Member of the National Assembly of Confian Syndicates
-    employer: "[[Confian National Government]]"
+  - title: "[[Member of the National Assembly of Confian Syndicates]]"
     start_year: 1987
     end_year: 1990
     appointer: "[[1986 Confian general election]]"
     parties:
       - "[[Syndicalist League]]"
     notes:
-  - title: Member of the National Assembly of Confian Syndicates
-    employer: "[[Confian National Government]]"
+  - title: "[[Member of the National Assembly of Confian Syndicates]]"
     start_year: 1982
     end_year: 1986
     appointer: "[[1982 Confian general election]]"
     parties:
       - "[[Syndicalist League]]"
     notes:
-  - title: Member of the National Assembly of Confian Syndicates
-    employer: "[[Confian National Government]]"
+  - title: "[[Member of the National Assembly of Confian Syndicates]]"
     start_year: 1981
     end_year: 1982
     appointer: "[[1980 Confian general election]]"
@@ -117,7 +113,7 @@ awards:
     country:
     notes:
 era:
-  - 
+  -
 tags:
   - politics/governance
   - economy/agriculture

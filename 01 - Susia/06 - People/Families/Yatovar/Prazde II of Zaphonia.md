@@ -84,15 +84,22 @@ parties:                                        # partidos que ela ja pertenceu
 organizations:
   - "[[Zaphonia]]"
 
-# ── OFFICES ─────────────────────────────────────────────────────────────────
-offices:
+# ── TITLES AND ROLES ────────────────────────────────────────────────────────
+titles:
   - title:
-    employer:
+    seat:
     start_year:
     end_year:
     appointer:
     parties:
       -
+    notes:
+
+roles:
+  - role:
+    employer:
+    start_year:
+    end_year:
     notes:
 
 # ── WRITTEN WORKS ───────────────────────────────────────────────────────────

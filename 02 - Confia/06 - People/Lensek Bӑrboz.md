@@ -8,9 +8,9 @@ sex: Male
 ethnicity: "[[East Gaiyanese]]"
 religion: "[[Armotist Church of the Confian Synod]]"
 citizenship:
-  - 
+  -
 nationality:
-  - 
+  -
 enhanced: false
 birth:
   year:
@@ -31,7 +31,7 @@ education:
   - degree:
     institution:
     year:
-  - 
+  -
 occupation:
   - title:
     start_year:
@@ -43,7 +43,7 @@ military_service:
     start_year:
     end_year:
     conflicts:
-      - 
+      -
     notes:
 political_alignment:
   - Far-left
@@ -51,15 +51,22 @@ party: "[[Confian Syndicalist Union]]"
 parties:
   - "[[Confian Syndicalist Union]]"
 organizations:
-  - 
-offices:
+  -
+titles:
   - title:
-    employer:
+    seat:
     start_year:
     end_year:
     appointer:
     parties:
-      - 
+      -
+    notes:
+
+roles:
+  - role:
+    employer:
+    start_year:
+    end_year:
     notes:
 written_works:
   - title:
@@ -88,9 +95,9 @@ awards:
     country:
     notes:
 era:
-  - 
+  -
 tags:
-  - 
+  -
 meta:
   stub: true
   verified: false

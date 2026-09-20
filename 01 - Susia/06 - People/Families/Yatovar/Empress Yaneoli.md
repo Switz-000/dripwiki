@@ -67,9 +67,9 @@ education:
 
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
-  - title: Empress
-    start_year: 1787
-    end_year: 1815
+  - title:
+    start_year:
+    end_year:
 
 military_service:
   - allegiance:
@@ -91,10 +91,9 @@ parties:                                        # partidos que ela ja pertenceu
 organizations:
   - "[[Dripstanian Empire]]"
 
-# ── OFFICES ─────────────────────────────────────────────────────────────────
-offices:
-  - title: Empress of the Dripstanian Empire
-    employer:
+# ── TITLES AND ROLES ────────────────────────────────────────────────────────
+titles:
+  - title: "[[Emperor of the Dripstanian Empire]]"
     start_year: 1787
     end_year: 1815
     appointer: Hereditary succession
