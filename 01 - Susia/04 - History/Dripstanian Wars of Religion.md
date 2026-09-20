@@ -10,12 +10,12 @@ tags:
   - belief/religion
   - conflict/military
   - society/education
-date_start:
-date_end:
+date_start: 1689
+date_end: 1736
 meta:
   stub: false
   verified: false
-  image: null
+  image:
 ---
 
 The **Dripstanian Wars of Religion** were a series of intermittent conflicts in the [[Dripstanian Empire]] spanning 47 years of the reign of [[Emperor Agamilos]] (1686–1738). They were fought between the imperial army, loyal dukes and religious militias on one side and a shifting opposition of peasant revolts, dissident religious movements and rebellious duchies, some allied with [[Konph]] states, on the other. Agamilos united the empire's three largest [[Armotism|Armotist]] denominations into a single church under the emperor, and the rivalry of their universities became the origin of the empire's highest court and its university system.

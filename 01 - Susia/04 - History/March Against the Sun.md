@@ -12,8 +12,8 @@ tags:
 location:
   - "[[Kingdom of Tekuria]]"
   - "[[New Celiolaj]]"
-date_start:
-date_end:
+date_start: 1834
+date_end: 1841
 target: The Tekur population of the Kingdom of Tekuria
 victims: Tekurs
 death_toll: 210000
@@ -22,13 +22,13 @@ perpetrators:
   - "[[Jartes I]]"
   - "[[Dripstanian Empire]]"
 motivation:
-  -
+  - 
 related_events:
   - "[[Dripstanian Civil War]]"
 meta:
   stub: false
   verified: false
-  image: null
+  image:
 ---
 
 The **March Against the Sun** was the forced deportation of the [[Tekur]] population of the [[Kingdom of Tekuria]] to the Tekur Territory, the region that became the [[Susia|Susian]] state of [[New Celiolaj]]. It was ordered by Emperor [[Jartes I]] after the [[Dripstanian Civil War]]. Of approximately 350,000 deportees, roughly 60% died during the march, and historians classify it as a genocide.
