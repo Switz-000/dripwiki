@@ -42,15 +42,14 @@
             "id": "75bb6a0234e9f553",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "01 - Susia/06 - People/Soites/Trevda Soites.md",
-                "bFile": "01 - Susia/06 - People/Soites/Trevda Soites.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "01 - Susia/01 - Goverment/Federal/Federal Cognitive Enhancement Program.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Trevda Soites  (Index)"
+              "icon": "lucide-file",
+              "title": "Federal Cognitive Enhancement Program"
             }
           },
           {
