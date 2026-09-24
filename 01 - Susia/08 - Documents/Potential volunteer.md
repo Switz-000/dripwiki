@@ -25,7 +25,14 @@ Time was passing by, I was lying ashore trying to process all of the different e
 
 I found my shoes uphill. They were appropriate for my feet. The left one was a bit tighter than the right one, maybe my left foot was too swollen. The little pieces of sand in it and the hole that made my toe stick out didn't help either.
 
-I kept walking by the shore, reading the letter over and over again. The scalding heat was baking my head, yet I seemed closer and closer to figuring the message.
+---
+By the shore, I see a little man, no older than twelve, digging a small hole. His knees pressed against the scalding sand, clearly determined to accomplish this futile and ultimately doomed goal.
+
+I approach him and say: "Toil, toil, little landman! For this world is always short of sea! It is in your sweat, it is in your tears! You were born inland, but don't forget, everything the sea creates, it takes back!"
+
+He looks at me, unglamorously, dissecting me with his eyes and replies: "Are you the delivery man? My dad is waiting for his beer." I replied: "What? Do you take me for a delivery man? I have lectured you on the problems of the real and the metaphysical, and you scrub me off with such meaningless indifference? The tide will come, and it destroy everything you've built, do you not understand it?" the boy just looks at me and says: "I like digging holes".
+
+I did not know what to reply, I turned back, and retreated. I kept walking by the shore, reading the letter over and over again. The scalding heat was baking my head, yet I seemed closer and closer to figuring the message.
 
 >  You have been chosen from many citizens to serve as a volunteer
 >  You have 15 days to access the website

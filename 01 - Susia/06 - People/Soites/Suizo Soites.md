@@ -49,7 +49,7 @@ education:
 # ── CAREER ──────────────────────────────────────────────────────────────────
 occupation:
   - title: Politician
-    start_year:
+    start_year: 
     end_year:
   - title: Entrepreneur
     start_year:
