@@ -1,5 +1,5 @@
 ---
-type: law
+type: project
 era:
   - techno-federative-era
   - global-cold-war
