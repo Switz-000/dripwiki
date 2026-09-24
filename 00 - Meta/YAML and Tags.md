@@ -536,6 +536,7 @@ that file governs the type-specific fields and this one governs the base.
 | `atrocity` | Atrocity Template | — |
 | `ideology` | Ideology Template | — |
 | `document` | Interview Template | — |
+| `product` | Product Template | — |
 
 The remaining types have no template yet. Use the base header from section 2
 and add fields as the article needs them. Templates get written as each type

@@ -9,9 +9,11 @@ founded:
 founding_place:
 headquarters:
 market_cap: 221000000000
-yarnojte: false
-yarnojte_granted:
-yarnojte_revoked: true
+yarnojte_status:
+  - status: Revoked
+    granted: 2053
+    revoked: 2083
+    notes: Revoked due to fiscal health concerns and failed to meet the 2082 growth goals.
 fez_locations:
 defunct: true
 ---
