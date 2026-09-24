@@ -40,9 +40,12 @@ relations:
   - person: "[[Suizo Soites]]"
     relation: Adoptive brother
     notes: Legally adopted him as a brother.
-  - person:
+  - person: [[Trevda Soites]]
     relation: Child
-    notes: One child, not named in canon.
+    notes: Older child
+  - person: [[Trevda Soites]]
+    relation: Child
+    notes: Older child
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
