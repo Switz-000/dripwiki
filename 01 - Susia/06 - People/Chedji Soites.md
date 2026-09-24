@@ -30,7 +30,7 @@ birth:
 
 death:
   year: 2034
-  city: "[[Neoveli]]"
+  city: "[[Arkaime]]"
   state: "[[Dripia]]"
   country: "[[Susia]]"
   cause: Natural causes
