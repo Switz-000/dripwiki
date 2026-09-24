@@ -58,16 +58,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Susia/06 - People/Soites/Suizo Soites.md",
+                "file": "01 - Susia/06 - People/Chedji Soites.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Suizo Soites"
+              "title": "Chedji Soites"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -245,12 +244,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "75bb6a0234e9f553",
+  "active": "644dd45a10aceb85",
   "lastOpenFiles": [
-    "01 - Susia/03 - Companies/Yarnojtes/Soites Group.md",
-    "01 - Susia/06 - People/Soites/Suizo Soites.md",
+    "01 - Susia/06 - People/Chedji Soites.md",
     "01 - Susia/06 - People/Soites/Soites Family chart.canvas",
+    "01 - Susia/06 - People/Soites/Suizo Soites.md",
     "01 - Susia/06 - People/Soites/Trevda Soites.md",
+    "02 - Confia/00 - Index & Maps/List of Confian leaders.md",
+    "01 - Susia/03 - Companies/Yarnojtes/Soites Group.md",
     "01 - Susia/06 - People/Soites/Yepodij Soites.md",
     "01 - Susia/06 - People/Soites/Natesse Soites.md",
     "01 - Susia/08 - Documents/Potential volunteer.md"
