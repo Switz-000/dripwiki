@@ -39,20 +39,6 @@
             }
           },
           {
-            "id": "75bb6a0234e9f553",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "00 - Meta/Templates/Product Template.md",
-                "bFile": "00 - Meta/Templates/Product Template.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Product Template  (Working Tree)"
-            }
-          },
-          {
             "id": "f51a55e7bb47ffe4",
             "type": "leaf",
             "state": {
@@ -259,7 +245,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "75bb6a0234e9f553",
+  "active": "f51a55e7bb47ffe4",
   "lastOpenFiles": [
     "01 - Susia/03 - Companies/Yarnojtes/Vandernij & Milier.md",
     "01 - Susia/03 - Companies/Yarnojtes/Troli Ustaras.md",
