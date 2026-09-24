@@ -4,7 +4,7 @@ native_name:
 lusitanized_name:
 aliases:
   - 
-summary:
+summary: Susian executive and third chief executive of the Soites Group, which he led from 2031 to 2052. He launched the Soites Experimenter Program and the partnership with Troli Ustaras that produced early cognitive enhancement technology, and was tried and acquitted in 2050-52 on charges stemming from the Federal Cognitive Enhancement Program's deaths and injuries.
 sex: Male
 ethnicity: West Gaiyanese
 religion:
@@ -16,9 +16,9 @@ nationality:
 enhanced: false
 birth:
   year: 1983
-  city: [[Neoveli]]
-  state: [[Dripia]]
-  country: [[Susia]]
+  city: "[[Neoveli]]"
+  state: "[[Dripia]]"
+  country: "[[Susia]]"
 death:
   year:
   city:
@@ -26,15 +26,15 @@ death:
   country:
   cause:
 relations:
-  - person: [[Chedji Soites]]
+  - person: "[[Chedji Soites]]"
     relation: Parent
     notes:
-  - person: [[Yepodij Soites]]
-  - relation: Brother
-  - notes: Younger brother
+  - person: "[[Yepodij Soites]]"
+    relation: Brother
+    notes: Younger brother
 education:
   - degree: Computer science
-    institution: [[Federal Institute of Technology]]
+    institution: "[[Federal Institute of Technology]]"
     year: 2008
   - 
 occupation:
@@ -128,7 +128,11 @@ criminal_charges:
     in_absentia: false
     notes: Tied to the pressured NDAs and incomplete compensation extracted from victims' families, 2041-48. Dismissed on the same insulation theory, routed through counsel and HR rather than direct order.
 known_for:
-  - item: [[Soites Experimenter Program]]
+  - item: "[[Soites Experimenter Program]]"
+    notes:
+  - item: "[[Cognitive enhancement]]"
+    notes: Co-developed through the Soites-TU partnership he launched as CEO.
+  - item: "[[Federal Cognitive Enhancement Program]]"
     notes:
 awards:
   - title:
@@ -138,9 +142,12 @@ awards:
     country:
     notes:
 era:
-  - 
+  - new-age
+  - techno-federative-era
 tags:
-  - 
+  - economy/corporate
+  - knowledge/enhancement
+  - society/crime
 meta:
   stub: true
   verified: false
