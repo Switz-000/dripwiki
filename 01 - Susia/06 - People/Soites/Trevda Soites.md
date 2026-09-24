@@ -15,10 +15,10 @@ nationality:
   - "[[Yar-Firolean]]"
 enhanced: false
 birth:
-  year:
-  city:
-  state:
-  country:
+  year: 1983
+  city: [[Neoveli]]
+  state: [[Dripia]]
+  country: [[Susia]]
 death:
   year:
   city:
@@ -26,17 +26,20 @@ death:
   country:
   cause:
 relations:
-  - person:
-    relation:
+  - person: [[Chedji Soites]]
+    relation: Parent
     notes:
+  - person: [[Yepodij Soites]]
+  - relation: Brother
+  - notes: Younger brother
 education:
-  - degree:
-    institution:
-    year:
+  - degree: Computer science
+    institution: [[Federal Institute of Technology]]
+    year: 2008
   - 
 occupation:
-  - title:
-    start_year:
+  - title: Executive
+    start_year: 
     end_year:
 military_service:
   - allegiance:
