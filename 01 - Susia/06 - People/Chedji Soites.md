@@ -40,11 +40,11 @@ relations:
   - person: "[[Suizo Soites]]"
     relation: Adoptive brother
     notes: Legally adopted him as a brother.
-  - person: [[Trevda Soites]]
-    relation: Child
+  - person: "[[Trevda Soites]]"
+    relation: Son
     notes: Older child
-  - person: [[Yepodij Soites]]
-    relation: Child
+  - person: "[[Yepodij Soites]]"
+    relation: Son
     notes: Younger child
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
