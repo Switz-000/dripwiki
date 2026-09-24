@@ -9,8 +9,10 @@ founded_by:
   - "[[Susian Federal Government]]"
 headquarters: "[[Niqueparj]]"
 market_cap: 1600000000000
-yarnojte: true
-yarnojte_granted: 2041
+yarnojte_status:
+    - status: Active
+      granted: 2041
+      notes: 
 yarnojte_revoked:
 fez_locations:
   - "[[Central Energy District]]"

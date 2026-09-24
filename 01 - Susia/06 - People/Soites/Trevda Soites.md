@@ -77,16 +77,56 @@ written_works:
     genre:
     notes:
 criminal_charges:
-  - charge:
-    counts:
-    charged_year:
-    plea:
-    verdict:
-    verdict_year:
+  - charge: Criminally negligent homicide
+    counts: 9
+    charged_year: 2050
+    plea: Not guilty
+    verdict: Acquitted
+    verdict_year: 2052
     sentence:
     served:
-    in_absentia:
-    notes:
+    in_absentia: false
+    notes: One count per Federal Cognitive Enhancement Program death (2040-46). Defense turned on TU controlling implant design and surgical execution, not Soites.
+  - charge: Reckless infliction of serious bodily injury
+    counts: 23
+    charged_year: 2050
+    plea: Not guilty
+    verdict: Acquitted
+    verdict_year: 2052
+    sentence:
+    served:
+    in_absentia: false
+    notes: One count per permanent-damage case from the same program. Tried jointly with the homicide counts, same defense.
+  - charge: Reckless endangerment
+    counts: 10
+    charged_year: 2050
+    plea: Not guilty
+    verdict: Acquitted
+    verdict_year: 2052
+    sentence:
+    served:
+    in_absentia: false
+    notes: Representative counts drawn from the 63 moderate-injury cases, not all 63 individually charged. Same trial, same verdict.
+  - charge: Conspiracy to defraud federal oversight
+    counts: 1
+    charged_year: 2050
+    plea: Not guilty
+    verdict: Dismissed
+    verdict_year: 2050
+    sentence:
+    served:
+    in_absentia: false
+    notes: Concealment from the ethics review process overseeing the program. Dismissed pretrial for insufficient evidence tying Trevda personally to what oversight was told.
+  - charge: Obstruction of justice
+    counts: 1
+    charged_year: 2050
+    plea: Not guilty
+    verdict: Dismissed
+    verdict_year: 2050
+    sentence:
+    served:
+    in_absentia: false
+    notes: Tied to the pressured NDAs and incomplete compensation extracted from victims' families, 2041-48. Dismissed on the same insulation theory, routed through counsel and HR rather than direct order.
 known_for:
   - item: [[Soites Experimenter Program]]
     notes:
