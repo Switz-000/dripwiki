@@ -42,14 +42,15 @@
             "id": "75bb6a0234e9f553",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "01 - Susia/06 - People/Soites/Trevda Soites.md",
-                "mode": "source",
-                "source": true
+                "aFile": "01 - Susia/06 - People/Soites/Trevda Soites.md",
+                "bFile": "01 - Susia/06 - People/Soites/Trevda Soites.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Trevda Soites"
+              "icon": "diff",
+              "title": "Diff: Trevda Soites  (Index)"
             }
           },
           {
@@ -261,10 +262,12 @@
   },
   "active": "75bb6a0234e9f553",
   "lastOpenFiles": [
+    "01 - Susia/03 - Companies/Yarnojtes/Atompron.md",
+    "01 - Susia/03 - Companies/Yarnojtes/Van Ritter.md",
+    "01 - Susia/06 - People/Soites/Trevda Soites.md",
     "01 - Susia/06 - People/Chedji Soites.md",
     "01 - Susia/03 - Companies/Yarnojtes/Soites Group.md",
     "01 - Susia/03 - Companies/Products/Lizne.md",
-    "01 - Susia/06 - People/Soites/Trevda Soites.md",
     "01 - Susia/06 - People/Soites/Soites Family chart.canvas",
     "01 - Susia/06 - People/Soites/Suizo Soites.md",
     "02 - Confia/00 - Index & Maps/List of Confian leaders.md",
