@@ -73,7 +73,7 @@
               "type": "markdown",
               "state": {
                 "file": "01 - Susia/03 - Companies/Yarnojtes/Soites Group.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -81,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -259,11 +259,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f51a55e7bb47ffe4",
+  "active": "75bb6a0234e9f553",
   "lastOpenFiles": [
-    "01 - Susia/06 - People/Soites/Trevda Soites.md",
     "01 - Susia/06 - People/Chedji Soites.md",
     "01 - Susia/03 - Companies/Yarnojtes/Soites Group.md",
+    "01 - Susia/03 - Companies/Products/Lizne.md",
+    "01 - Susia/06 - People/Soites/Trevda Soites.md",
     "01 - Susia/06 - People/Soites/Soites Family chart.canvas",
     "01 - Susia/06 - People/Soites/Suizo Soites.md",
     "02 - Confia/00 - Index & Maps/List of Confian leaders.md",
