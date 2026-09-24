@@ -43,9 +43,9 @@ relations:
   - person: [[Trevda Soites]]
     relation: Child
     notes: Older child
-  - person: [[Trevda Soites]]
+  - person: [[Yepodij Soites]]
     relation: Child
-    notes: Older child
+    notes: Younger child
 
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
