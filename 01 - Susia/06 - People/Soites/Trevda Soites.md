@@ -58,11 +58,10 @@ parties:
 organizations:
   - 
 titles:
-  - title:
-    seat:
-    start_year:
-    end_year:
-    appointer:
+  - title: "[[CEO of the Soites Group]]"
+    start_year: 2031
+    end_year: 2052
+    appointer: "[[Chedji Soites]]"
     parties:
       - 
     notes:
@@ -89,7 +88,7 @@ criminal_charges:
     in_absentia:
     notes:
 known_for:
-  - item:
+  - item: [[Soites Experimenter Program]]
     notes:
 awards:
   - title:
