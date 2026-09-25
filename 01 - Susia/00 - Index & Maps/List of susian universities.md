@@ -25,6 +25,8 @@ located in Susia (seat city with country: Susia). Edit those articles, not this 
 | [[University of New Kentu]] | [[New Kentu]] | [[Dripia]] | Private |  | 1792 |
 | [[Susian Naval Academy]] | [[Noňofriye]] | [[Postia]] | Military Academy | [[Department of Defense]] | 1803 |
 | [[University of New Duloc]] | [[New Duloc]] | [[Postia]] | Public | [[Postia\|State of Postia]] | 1803 |
+| [[Royal Academy of Science]] | [[Duolij]] | [[Postia]] |  |  | 1831 |
+| [[Imperial College of Duolij]] | [[Duolij]] | [[Postia]] | Public |  | 1863 |
 | [[Dripia State University]] | [[New Kentu]] | [[Dripia]] | Public | [[Dripia\|State of Dripia]] | 1864 |
 | [[Belluni College]] | [[New Kentu]] | [[Dripia]] | Private | [[Belluni Family]] | 1872 |
 | [[Neoveli School of Finance and Economics]] | [[Neoveli]] | [[Dripia]] | Private |  | 1901 |
