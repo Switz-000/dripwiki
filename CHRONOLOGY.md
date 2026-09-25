@@ -151,10 +151,6 @@ meta:
 
 - **Birth**: [[Armadesh Versij]] born in [[Kruie ro Yietre]], [[Vitrika]], [[Dripstanian Empire]]
 
-## 1803
-
-- **Founded**: [[Susian Naval Academy]]
-
 ## 1809
 
 - **Birth**: [[Kaichet Satratonie]] born in [[Lore-Kurji]], [[Misocévia]], [[Dripstanian Empire]]
