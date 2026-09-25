@@ -6,11 +6,10 @@ aliases:
   - 
 founded_by:
 summary:
-nature:
-  - Private
+nature: Private
 founded: 1767
 dissolved:
-control: 
+control:
 seat: "[[Duolij]]"
 era:
   - high-imperial

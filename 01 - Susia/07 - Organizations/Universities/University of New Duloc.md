@@ -6,8 +6,7 @@ aliases:
   - 
 founded_by:
 summary:
-nature:
-  - Public
+nature: Public
 founded: 1803
 dissolved:
 control: "[[Postia|State of Postia]]"

@@ -6,8 +6,7 @@ aliases:
   - 
 founded_by:
 summary:
-nature:
-  - Public
+nature: Public
 founded: 1864
 dissolved:
 control: "[[Dripia|State of Dripia]]"
