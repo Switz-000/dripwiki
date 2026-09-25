@@ -353,14 +353,6 @@
    "country": "Susia"
   },
   {
-   "year": 1803,
-   "kind": "Founded",
-   "text": "[[Susian Naval Academy]]",
-   "source": "Susian Naval Academy",
-   "source_type": "institution",
-   "country": "Susia"
-  },
-  {
    "year": 1809,
    "kind": "Birth",
    "text": "[[Kaichet Satratonie]] born in [[Lore-Kurji]], [[Misocévia]], [[Dripstanian Empire]]",
@@ -2970,13 +2962,6 @@
    "title": "Queen of Zaphonia",
    "display": "Queen of Zaphonia",
    "holder": "Empress Prazde"
-  },
-  {
-   "lane": "institutions",
-   "label": "Susian Naval Academy",
-   "start": 1803,
-   "end": null,
-   "country": "Susia"
   },
   {
    "lane": "titles",
