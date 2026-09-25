@@ -5,12 +5,12 @@ abbreviation:
 aliases:
   - 
 founded_by:
-summary: The Susian Naval Academy, is a federal service acadamy adjacent to [[Noňofriye]]
+summary: 
 nature: Military Academy
-founded: 1803
+founded: 
 dissolved:
-control: "[[Department of Defense]]"
-seat: "[[Noňofriye]]"
+control: 
+seat: "[[Niqueparj]]"
 era:
   - 
 tags:
@@ -31,6 +31,6 @@ person articles. Edit those articles, not this block. %%
 
 | Name | Degree | Year |
 | --- | --- | :-: |
-| [[Zagoste Paroska]] |  | ? |
+| [[Kaichet Satratonie]] |  | ? |
 
 %% alumni:end %%
