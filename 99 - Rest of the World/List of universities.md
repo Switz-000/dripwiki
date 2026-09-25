@@ -27,6 +27,7 @@ article in the vault. Edit those articles, not this block. %%
 | [[Dripia State University]] | [[New Kentu]] | [[Susia]] | Public | [[Dripia\|State of Dripia]] | 1864 |
 | [[Belluni College]] | [[New Kentu]] | [[Susia]] | Private | [[Belluni Family]] | 1872 |
 | [[Neoveli School of Finance and Economics]] | [[Neoveli]] | [[Susia]] | Private |  | 1901 |
+| [[Susian International College]] | [[Niqueparj]] | [[Susia]] | Private |  | 1963 |
 | [[Federal Institute of Technology]] | [[New Kentu]] | [[Susia]] | Public | [[Susian Federal Government\|Federal government]] | 1965 |
 | [[Lasman Valley State University]] | [[Lore-Kurji]] | [[Susia]] | Public | [[Misocévia\|State of Misocévia]] | 1974 |
 | [[Kolkov Institute for Innovation]] | [[Neoveli]] | [[Susia]] | Private | [[Troli Ustaras]] | 2002 |
