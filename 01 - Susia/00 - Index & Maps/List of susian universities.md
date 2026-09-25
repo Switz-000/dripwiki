@@ -27,6 +27,7 @@ located in Susia (seat city with country: Susia). Edit those articles, not this 
 | [[Dripia State University]] | [[New Kentu]] | [[Dripia]] | Public | [[Dripia\|State of Dripia]] | 1864 |
 | [[Belluni College]] | [[New Kentu]] | [[Dripia]] | Private | [[Belluni Family]] | 1872 |
 | [[Neoveli School of Finance and Economics]] | [[Neoveli]] | [[Dripia]] | Private |  | 1901 |
+| [[Susian International College]] | [[Niqueparj]] | [[Misocévia]] | Private |  | 1963 |
 | [[Federal Institute of Technology]] | [[New Kentu]] | [[Dripia]] | Public | [[Susian Federal Government\|Federal government]] | 1965 |
 | [[Lasman Valley State University]] | [[Lore-Kurji]] | [[Misocévia]] | Public | [[Misocévia\|State of Misocévia]] | 1974 |
 | [[Kolkov Institute for Innovation]] | [[Neoveli]] | [[Dripia]] | Private | [[Troli Ustaras]] | 2002 |
