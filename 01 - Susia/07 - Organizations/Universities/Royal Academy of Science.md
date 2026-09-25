@@ -4,17 +4,17 @@ native_name:
 abbreviation:
 aliases:
   - 
-founded_by:
+founded_by: "[[Jartes I]]"
 summary:
 nature:
-founded:
+founded: 1831
 dissolved:
 control:
-seat:
+seat: "[[Duolij]]"
 era:
   - 
 tags:
-  - society/education
+  - 
 meta:
   stub: true
   verified: false

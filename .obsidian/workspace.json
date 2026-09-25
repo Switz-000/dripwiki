@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Susia/07 - Organizations/Universities/Royal Acadamy of Science.md",
+                "file": "00 - Meta/Templates/University Template.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Royal Acadamy of Science"
+              "title": "University Template"
             }
           }
         ],
@@ -216,8 +216,9 @@
   },
   "active": "9c97ee58ade12ecb",
   "lastOpenFiles": [
+    "01 - Susia/07 - Organizations/Universities/Imperial College of Duolij.md",
+    "01 - Susia/07 - Organizations/Universities/Royal Academy of Science.md",
     "01 - Susia/07 - Organizations/Universities/University of St Lichev.md",
-    "01 - Susia/07 - Organizations/Universities/Royal Acadamy of Science.md",
     "01 - Susia/07 - Organizations/Universities/Susian International College.md",
     "01 - Susia/06 - People/Armadesh Versij.md",
     "01 - Susia/00 - Index & Maps/List of susian universities.md",
@@ -241,7 +242,6 @@
     "00 - Meta/Frontmatter reference.md",
     "00 - Meta/Templates/State Template.md",
     "00 - Meta/Templates/University Template.md",
-    "01 - Susia/07 - Organizations/Universities/Federal Institute of Technology.md",
     "01 - Susia/07 - Organizations/Universities",
     "01 - Susia/06 - People/Soites/Soites Family chart.canvas"
   ]
