@@ -20,6 +20,7 @@ article in the vault. Edit those articles, not this block. %%
 
 | School | City | Country | Type | Control | Founded |
 | --- | --- | --- | --- | --- | :-: |
+| [[University of St Lichev]] | [[Noňofriye]] | [[Susia]] | Private |  | 1752 |
 | [[University of Duolij]] | [[Duolij]] | [[Susia]] | Private |  | 1767 |
 | [[University of New Kentu]] | [[New Kentu]] | [[Susia]] | Private |  | 1792 |
 | [[Susian Naval Academy]] | [[Noňofriye]] | [[Susia]] | Military Academy | [[Department of Defense]] | 1803 |
@@ -35,5 +36,6 @@ article in the vault. Edit those articles, not this block. %%
 | [[Apaj Academy of Sciences and Engineering]] | [[Susian Innovation Center]] | [[Susia]] | Private | [[Troli Ustaras]] | 2046 |
 | [[Southern Technical College]] | [[Donetruže]] | [[Susia]] | Private | [[Troli Ustaras]] | 2053 |
 | [[Military Academy of Niqueparj]] | [[Niqueparj]] | [[Susia]] | Military Academy |  | ? |
+| [[Royal Acadamy of Science]] |  |  |  |  | ? |
 
 %% universities:end %%

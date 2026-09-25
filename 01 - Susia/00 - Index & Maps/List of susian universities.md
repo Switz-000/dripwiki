@@ -20,6 +20,7 @@ located in Susia (seat city with country: Susia). Edit those articles, not this 
 
 | School | City | State | Type | Control | Founded |
 | --- | --- | --- | --- | --- | :-: |
+| [[University of St Lichev]] | [[Noňofriye]] | [[Postia]] | Private |  | 1752 |
 | [[University of Duolij]] | [[Duolij]] | [[Postia]] | Private |  | 1767 |
 | [[University of New Kentu]] | [[New Kentu]] | [[Dripia]] | Private |  | 1792 |
 | [[Susian Naval Academy]] | [[Noňofriye]] | [[Postia]] | Military Academy | [[Department of Defense]] | 1803 |
