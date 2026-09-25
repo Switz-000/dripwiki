@@ -20,3 +20,11 @@ meta:
   verified: false
   image:
 ---
+
+## Alumni
+
+%% alumni:start %%
+
+*No alumni recorded yet.*
+
+%% alumni:end %%
