@@ -11,14 +11,14 @@
             "id": "96473f9572ecd71d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "01 - Susia/00 - Index & Maps/List of susian universities.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "List of susian universities"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "University Template"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,14 +213,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c97ee58ade12ecb",
+  "active": "96473f9572ecd71d",
   "lastOpenFiles": [
+    "01 - Susia/00 - Index & Maps/List of susian universities.md",
+    "00 - Meta/Templates/University Template.md",
     "01 - Susia/07 - Organizations/Universities/Imperial College of Duolij.md",
     "01 - Susia/07 - Organizations/Universities/Royal Academy of Science.md",
     "01 - Susia/07 - Organizations/Universities/University of St Lichev.md",
     "01 - Susia/07 - Organizations/Universities/Susian International College.md",
     "01 - Susia/06 - People/Armadesh Versij.md",
-    "01 - Susia/00 - Index & Maps/List of susian universities.md",
     "00 - Meta/YAML and Tags.md",
     "00 - Meta/Titles.md",
     "01 - Susia/06 - People/Filevir Matri.md",
@@ -241,7 +241,6 @@
     "01 - Susia/06 - People/Čalsor Boňár.md",
     "00 - Meta/Frontmatter reference.md",
     "00 - Meta/Templates/State Template.md",
-    "00 - Meta/Templates/University Template.md",
     "01 - Susia/07 - Organizations/Universities",
     "01 - Susia/06 - People/Soites/Soites Family chart.canvas"
   ]
