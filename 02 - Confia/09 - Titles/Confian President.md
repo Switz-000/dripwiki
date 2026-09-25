@@ -51,16 +51,17 @@ person articles. Edit those articles, not this block. %%
 
 | No. | Name | Term | Party | Election | Notes |
 | :-: | --- | :-: | --- | --- | --- |
-| 1 | [[Mariana Torres]] | 1978 - 1986 | [[Movement for Syndicalist Renovation]] | [[1978 Confian presidential election]] | Left LjWP to found DSN in 1980 |
-| - | [[Mariana Torres]] | 1986 - 1987 | [[Movement for Syndicalist Renovation]] | [[1986 Confian presidential election]] |  |
-| 2 | [[Boris Serec]] | 1987 - 1996 | [[Armotist Democratic Party\|ALjP]] | [[1987 Confian presidential election]] |  |
+| 1 | [[Mariana Torres]] | 1978 - 1985 | [[Movement for Syndicalist Renovation]] | [[List of Confian elections#1977 Confian presidential election]] | Left LjWP to found DSN in 1980 |
+| - | [[Mariana Torres]] | 1986 - 1986 | [[Movement for Syndicalist Renovation]] | [[List of Confian elections#1985 Confian presidential election]] | Resigned |
+| 2 | [[Boris Serec]] | 1987 - 1993 | [[Armotist Democratic Party\|ALjP]] | [[List of Confian elections#1986 Confian presidential election]] |  |
+| - | [[Boris Serec]] | 1994 - 1998 | [[Armotist Democratic Party\|ALjP]] | [[List of Confian elections#1993 Confian presidential election]] | Resigned |
 
 ### President of the Confian Social Republic (2009 - present)
 
 | No. | Name | Term | Party | Election |
 | :-: | --- | :-: | --- | --- |
 | 1 | [[Ganzer Teahowić]] | 2009 - 2011 | [[Syndicalist League]] | [[List of Confian elections\|2009 Confian presidential election]] |
-| 2 | [[Nisa Peskilonna]] | 2014 - 2018 | [[Republican Promise]] | [[List of Confian elections#2014 Confian presidential election]] |
-| - | [[Nisa Peskilonna]] | 2019 - 2023 |  |  |
+| 2 | [[Nisa Peskilonna]] | 2014 - 2018 | [[Republican Promise]] | [[List of Confian elections#2013 Confian presidential election]] |
+| - | [[Nisa Peskilonna]] | 2019 - 2023 | [[Republican Promise]] | [[List of Confian elections#2018 Confian presidential election]] |
 
 %% holders:end %%

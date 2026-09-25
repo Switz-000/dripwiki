@@ -28,10 +28,6 @@ person articles. Edit those articles, not this block. %%
 
 %% holders:start %%
 
-### Commissar of Health
-
-| No. | Name | Term | Party | Appointed by |
-| :-: | --- | :-: | --- | --- |
-| 1 | [[Ganzer Teahowić]] | 1996 - 1998 | [[Syndicalist League]] | [[Noljež Teššan]] |
+*No holders recorded yet.*
 
 %% holders:end %%
