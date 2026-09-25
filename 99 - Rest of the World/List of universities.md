@@ -25,6 +25,8 @@ article in the vault. Edit those articles, not this block. %%
 | [[University of New Kentu]] | [[New Kentu]] | [[Susia]] | Private |  | 1792 |
 | [[Susian Naval Academy]] | [[Noňofriye]] | [[Susia]] | Military Academy | [[Department of Defense]] | 1803 |
 | [[University of New Duloc]] | [[New Duloc]] | [[Susia]] | Public | [[Postia\|State of Postia]] | 1803 |
+| [[Royal Academy of Science]] | [[Duolij]] | [[Susia]] |  |  | 1831 |
+| [[Imperial College of Duolij]] | [[Duolij]] | [[Susia]] | Public |  | 1863 |
 | [[Dripia State University]] | [[New Kentu]] | [[Susia]] | Public | [[Dripia\|State of Dripia]] | 1864 |
 | [[Belluni College]] | [[New Kentu]] | [[Susia]] | Private | [[Belluni Family]] | 1872 |
 | [[Neoveli School of Finance and Economics]] | [[Neoveli]] | [[Susia]] | Private |  | 1901 |
@@ -36,6 +38,5 @@ article in the vault. Edit those articles, not this block. %%
 | [[Apaj Academy of Sciences and Engineering]] | [[Susian Innovation Center]] | [[Susia]] | Private | [[Troli Ustaras]] | 2046 |
 | [[Southern Technical College]] | [[Donetruže]] | [[Susia]] | Private | [[Troli Ustaras]] | 2053 |
 | [[Military Academy of Niqueparj]] | [[Niqueparj]] | [[Susia]] | Military Academy |  | ? |
-| [[Royal Acadamy of Science]] |  |  |  |  | ? |
 
 %% universities:end %%
