@@ -6,11 +6,11 @@ aliases:
   - 
 founded_by:
 summary:
-nature: Private
-founded: 1752
+nature:
+founded:
 dissolved:
 control:
-seat: "[[Noňofriye]]"
+seat:
 era:
   - 
 tags:
