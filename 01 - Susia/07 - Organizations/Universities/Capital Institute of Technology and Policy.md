@@ -6,8 +6,7 @@ aliases:
   - 
 founded_by:
 summary:
-nature:
-  - Private
+nature: Private
 founded: 2021
 dissolved:
 control: "[[Troli Ustaras]]"

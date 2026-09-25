@@ -6,8 +6,7 @@ aliases:
   - 
 founded_by:
 summary:
-nature:
-  - Public
+nature: Public
 founded: 1965
 dissolved:
 control: "[[Susian Federal Government|Federal government]]"

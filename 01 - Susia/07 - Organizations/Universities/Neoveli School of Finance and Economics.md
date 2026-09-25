@@ -6,8 +6,7 @@ aliases:
   - 
 founded_by:
 summary:
-nature:
-  - Private
+nature: Private
 founded: 1901
 dissolved:
 control: 

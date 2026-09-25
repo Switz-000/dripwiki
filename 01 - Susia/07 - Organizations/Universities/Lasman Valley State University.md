@@ -6,8 +6,7 @@ aliases:
   - 
 founded_by:
 summary:
-nature:
-  - Public
+nature: Public
 founded: 1974
 dissolved:
 control: "[[Misocévia|State of Misocévia]]"
