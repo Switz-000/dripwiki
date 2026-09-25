@@ -10,7 +10,7 @@ nature:
   - Private
 founded: 1767
 dissolved:
-parent_institution: 
+control: 
 seat: "[[Duolij]]"
 era:
   - high-imperial

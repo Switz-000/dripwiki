@@ -11,14 +11,14 @@
             "id": "644dd45a10aceb85",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "00 - Meta/Titles.md",
-                "mode": "source",
-                "source": false
+                "aFile": "01 - Susia/07 - Organizations/Universities/Apaj Academy of Sciences and Engineering.md",
+                "bFile": "01 - Susia/07 - Organizations/Universities/Apaj Academy of Sciences and Engineering.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Titles"
+              "icon": "diff",
+              "title": "Diff: Apaj Academy of Sciences and Engineering  (Working Tree)"
             }
           },
           {
@@ -257,6 +257,9 @@
   },
   "active": "644dd45a10aceb85",
   "lastOpenFiles": [
+    "01 - Susia/00 - Index & Maps/List of susian universities.md",
+    "99 - Rest of the World/List of universities.md",
+    "00 - Meta/Titles.md",
     "01 - Susia/07 - Organizations/Universities/Neoveli School of Finance and Economics.md",
     "01 - Susia/07 - Organizations/Universities/Lasman Valley State University.md",
     "01 - Susia/07 - Organizations/Universities/Apaj Academy of Sciences and Engineering.md",
@@ -270,7 +273,6 @@
     "01 - Susia/07 - Organizations/Universities/Belluni College.md",
     "01 - Susia/07 - Organizations/Universities/University of New Kentu.md",
     "01 - Susia/06 - People/Armadesh Versij.md",
-    "01 - Susia/00 - Index & Maps/List of susian universities.md",
     "00 - Meta/Templates/University Template.md",
     "Belluni College.md",
     "01 - Susia/01 - Goverment/Federal/Judicial/Supreme Court of Susia.md",
@@ -282,8 +284,6 @@
     "01 - Susia/07 - Organizations/Universities",
     "01 - Susia/01 - Goverment/Federal/Federal Cognitive Enhancement Program.md",
     "01 - Susia/01 - Goverment/Federal/National Guard.md",
-    "01 - Susia/01 - Goverment/Federal/Federal Authority of Commerce and Competition.md",
-    "01 - Susia/00 - Index & Maps/List of Dripstanian emperors.md",
     "01 - Susia/06 - People/Soites/Soites Family chart.canvas"
   ]
 }

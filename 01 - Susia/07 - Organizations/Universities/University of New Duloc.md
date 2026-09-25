@@ -10,7 +10,7 @@ nature:
   - Public
 founded: 1803
 dissolved:
-parent_institution: "[[Postia|State of Postia]]"
+control: "[[Postia|State of Postia]]"
 seat: "[[New Duloc]]"
 era:
   - high-imperial

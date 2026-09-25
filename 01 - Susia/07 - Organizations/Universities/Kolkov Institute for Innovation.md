@@ -10,7 +10,7 @@ nature:
   - Private
 founded: 2002
 dissolved:
-parent_institution: "[[Troli Ustaras]]"
+control: "[[Troli Ustaras]]"
 seat: "[[Neoveli]]"
 era:
   - post-war

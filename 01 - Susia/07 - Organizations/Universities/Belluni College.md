@@ -10,7 +10,7 @@ nature:
   - Private
 founded: 1872
 dissolved:
-parent_institution: "[[Belluni Family]]"
+control: "[[Belluni Family]]"
 seat: "[[New Kentu]]"
 era:
   - late-imperial

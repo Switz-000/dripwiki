@@ -10,7 +10,7 @@ nature:
   - Private
 founded: 2046
 dissolved:
-parent_institution: "[[Troli Ustaras]]"
+control: "[[Troli Ustaras]]"
 seat: "[[Susian Innovation Center]]"
 era:
   - techno-federative-era

@@ -10,7 +10,7 @@ nature:
   - Private
 founded: 1792
 dissolved:
-parent_institution: 
+control: 
 seat: "[[New Kentu]]"
 era:
   - high-imperial

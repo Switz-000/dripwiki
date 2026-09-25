@@ -10,7 +10,7 @@ nature:
   - Private
 founded: 1901
 dissolved:
-parent_institution: 
+control: 
 seat: "[[Neoveli]]"
 era:
   - late-imperial
