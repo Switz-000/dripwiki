@@ -11,35 +11,17 @@
             "id": "644dd45a10aceb85",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "01 - Susia/06 - People/Soites/Soites Family chart.canvas",
-                "viewState": {
-                  "x": 617.6618074606392,
-                  "y": 287.6571309329901,
-                  "zoom": -1.2588986312645887
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Soites Family chart"
-            }
-          },
-          {
-            "id": "6808d3a55631b937",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Susia/03 - Companies/Yarnojtes/Soites Group.md",
+                "file": "01 - Susia/09 - Titles/Delegate to the Constitutional Convention.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Soites Group"
+              "title": "Delegate to the Constitutional Convention"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,13 +199,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6808d3a55631b937",
+  "active": "2c8bfdfa82ed5652",
   "lastOpenFiles": [
+    "01 - Susia/09 - Titles/CEO of the Soites Group.md",
+    "01 - Susia/08 - Documents/Graduation yearbook.md",
+    "00 - Meta/Templates/City Template.md",
+    "01 - Susia/06 - People/Soites/Soites Family chart.canvas",
+    "02 - Confia/09 - Titles/North Nijbanian Commissar.md",
+    "01 - Susia/03 - Companies/Yarnojtes/Soites Group.md",
     "01 - Susia/06 - People/Soites/Chedji Soites.md",
     "01 - Susia/03 - Companies/Yarnojtes/Troli Ustaras.md",
     "01 - Susia/06 - People/Chedji Soites.md",
-    "01 - Susia/03 - Companies/Yarnojtes/Soites Group.md",
-    "01 - Susia/06 - People/Soites/Soites Family chart.canvas",
     "01 - Susia/03 - Companies/Yarnojtes/Vandernij & Milier.md",
     "00 - Meta/Templates/Product Template.md",
     "01 - Susia/03 - Companies/Yarnojtes/Van Ritter.md",
