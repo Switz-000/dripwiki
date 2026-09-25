@@ -30,7 +30,6 @@ person articles. Edit those articles, not this block. %%
 
 | Name | Degree | Year |
 | --- | --- | :-: |
-| [[Armadesh Versij]] | Law | 1826 |
 | [[Suizo Soites]] | Economics | 1933 |
 | [[Yavna Raroska]] | Political Science | 1992 |
 
