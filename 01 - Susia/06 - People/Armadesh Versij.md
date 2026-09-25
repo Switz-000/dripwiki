@@ -41,7 +41,7 @@ relations:
 # ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
   - degree: Law
-    institution: "[[University of New Kentu]]"
+    institution: "[[University ]]"
     year: 1826
   -
 
