@@ -22,6 +22,7 @@ located in Susia (seat city with country: Susia). Edit those articles, not this 
 | --- | --- | --- | --- | --- | :-: |
 | [[University of Duolij]] | [[Duolij]] | [[Postia]] | Private |  | 1767 |
 | [[University of New Kentu]] | [[New Kentu]] | [[Dripia]] | Private |  | 1792 |
+| [[Susian Naval Academy]] | [[Noňofriye]] | [[Postia]] | Military Academy | [[Department of Defense]] | 1803 |
 | [[University of New Duloc]] | [[New Duloc]] | [[Postia]] | Public | [[Postia\|State of Postia]] | 1803 |
 | [[Dripia State University]] | [[New Kentu]] | [[Dripia]] | Public | [[Dripia\|State of Dripia]] | 1864 |
 | [[Belluni College]] | [[New Kentu]] | [[Dripia]] | Private | [[Belluni Family]] | 1872 |
@@ -32,5 +33,6 @@ located in Susia (seat city with country: Susia). Edit those articles, not this 
 | [[Capital Institute of Technology and Policy]] | [[Soiteslaj]] | [[Neutral District]] | Private | [[Troli Ustaras]] | 2021 |
 | [[Apaj Academy of Sciences and Engineering]] | [[Susian Innovation Center]] | [[Dripia]] | Private | [[Troli Ustaras]] | 2046 |
 | [[Southern Technical College]] | [[Donetruže]] | [[Troli]] | Private | [[Troli Ustaras]] | 2053 |
+| [[Military Academy of Niqueparj]] | [[Niqueparj]] | [[Misocévia]] | Military Academy |  | ? |
 
 %% universities:end %%
