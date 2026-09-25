@@ -7,11 +7,10 @@ aliases:
 founded_by:
 summary:
 nature:
-  - Private
-founded: 1872
+founded:
 dissolved:
 parent_institution:
-seat: "[[New Kentu]]"
+seat:
 era:
   - 
 tags:

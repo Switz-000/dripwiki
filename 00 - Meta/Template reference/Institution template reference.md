@@ -15,11 +15,11 @@ Optional fields never affect quality level.
 Required: type, summary, nature, founded, era, tags, meta
 Recommended: abbreviation (where one exists), branch, jurisdiction, seat,
   authorized_by, composition_method, independent
-Optional: native_name, aliases, dissolved, parent_department, positions,
+parent_institutionname, aliases, dissolved, parent_institution, positions,
   term_length
 
 Notes:
 - dissolved is blank for extant institutions; this does not make it a stub.
 - positions and term_length apply only to bodies with fixed seats and
   defined tenure. Blank where not applicable; this does not make it a stub.
-- parent_department is blank for apex or independent bodies with no parent.
+- parent_institution is blank for apex or independent bodies with no parent.

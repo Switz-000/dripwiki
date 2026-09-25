@@ -15,7 +15,7 @@ authorized_by:          # legal instrument, usually the constitution
 
 # ── PLACEMENT ────────────────────────────────────────────────────────────────
 branch:                 # Judicial, Executive, Legislative
-parent_department:      # blank if supreme / no parent
+parent_institution:      # blank if supreme / no parent
 independent: false      # structurally insulated from political control
 jurisdiction:           # link of the country, state, city etc
 seat:                   # headquarters city
