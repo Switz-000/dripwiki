@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Susia/00 - Index & Maps/List of susian universities.md",
+                "file": "01 - Susia/06 - People/Armadesh Versij.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "List of susian universities"
+              "title": "Armadesh Versij"
             }
           },
           {
@@ -77,8 +77,7 @@
               "title": "Supreme Court of Susia"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -256,11 +255,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c718ffcf9987488e",
+  "active": "644dd45a10aceb85",
   "lastOpenFiles": [
-    "Belluni College.md",
-    "00 - Meta/Templates/University Template.md",
+    "01 - Susia/07 - Organizations/Universities/Neoveli School of Finance and Economics.md",
+    "01 - Susia/07 - Organizations/Universities/Lasman Valley State University.md",
+    "01 - Susia/07 - Organizations/Universities/Apaj Academy of Sciences and Engineering.md",
+    "01 - Susia/07 - Organizations/Universities/University of New Duloc.md",
+    "01 - Susia/07 - Organizations/Universities/University of Duolij.md",
+    "01 - Susia/07 - Organizations/Universities/Kolkov Institute for Innovation.md",
+    "01 - Susia/07 - Organizations/Universities/Southern Technical College.md",
+    "01 - Susia/07 - Organizations/Universities/Capital Institute of Technology and Policy.md",
+    "01 - Susia/07 - Organizations/Universities/Dripia State University.md",
+    "01 - Susia/07 - Organizations/Universities/Federal Institute of Technology.md",
+    "01 - Susia/07 - Organizations/Universities/Belluni College.md",
+    "01 - Susia/07 - Organizations/Universities/University of New Kentu.md",
+    "01 - Susia/06 - People/Armadesh Versij.md",
     "01 - Susia/00 - Index & Maps/List of susian universities.md",
+    "00 - Meta/Templates/University Template.md",
+    "Belluni College.md",
     "01 - Susia/01 - Goverment/Federal/Judicial/Supreme Court of Susia.md",
     "01 - Susia/01 - Goverment/Federal/Susian Naval Academy.md",
     "01 - Susia/01 - Goverment/Postian National Guard.md",
@@ -272,19 +284,6 @@
     "01 - Susia/01 - Goverment/Federal/National Guard.md",
     "01 - Susia/01 - Goverment/Federal/Federal Authority of Commerce and Competition.md",
     "01 - Susia/00 - Index & Maps/List of Dripstanian emperors.md",
-    "00 - Meta/Style Guide.md",
-    "00 - Meta/Frontmatter reference.md",
-    "01 - Susia/06 - People/Soites/Natesse Soites.md",
-    "00 - Meta/Titles.md",
-    "00 - Meta/YAML and Tags.md",
-    "01 - Susia/09 - Titles/CEO of the Soites Group.md",
-    "01 - Susia/00 - Index & Maps/List of first names.md",
-    "01 - Susia/00 - Index & Maps/List of Susian Presidents.md",
-    "01 - Susia/00 - Index & Maps/List of susian idioms.md",
-    "01 - Susia/00 - Index & Maps/List of susian holidays.md",
-    "01 - Susia/00 - Index & Maps/List of susian foods and drinks.md",
-    "00 - Meta/Templates/Person Template.md",
-    "00 - Meta/Templates/Political Party Template.md",
     "01 - Susia/06 - People/Soites/Soites Family chart.canvas"
   ]
 }

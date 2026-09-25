@@ -381,13 +381,87 @@ def write_into(title: dict, table: str) -> str:
     return "unchanged"
 
 
+# ── Universities and their alumni ─────────────────────────────────────────────
+
+A_START = "%% alumni:start %%"
+A_END   = "%% alumni:end %%"
+
+
+def load_universities() -> dict:
+    """name -> university article, for every note with type: university."""
+    unis = {}
+    for md in sorted(VAULT_ROOT.rglob("*.md")):
+        rel = md.relative_to(VAULT_ROOT)
+        if any(part in SKIP_DIRS for part in rel.parts):
+            continue
+        if rel.parts[0] == "00 - Meta":
+            continue  # the template itself
+        fm = read_frontmatter(md)
+        if fm.get("type") == "university":
+            unis[md.stem] = {"path": md, "name": md.stem, "alumni": []}
+    return unis
+
+
+def collect_alumni(unis: dict) -> list[str]:
+    """Read every person's education entries into the university they name."""
+    problems = []
+    for md in sorted(VAULT_ROOT.rglob("*.md")):
+        rel = md.relative_to(VAULT_ROOT)
+        if any(part in SKIP_DIRS for part in rel.parts):
+            continue
+        fm = read_frontmatter(md)
+        if fm.get("type") != "person":
+            continue
+        for entry in fm.get("education") or []:
+            if not isinstance(entry, dict) or not _has(entry.get("institution")):
+                continue
+            name = _name(entry["institution"])
+            uni = unis.get(name)
+            if uni is None:
+                continue  # schools without a university article are fine
+            uni["alumni"].append({
+                "person": md.stem,
+                "degree": _text(entry.get("degree")),
+                "year":   _year(entry.get("year")),
+            })
+    return problems
+
+
+def render_alumni(uni: dict) -> str:
+    rows = sorted(uni["alumni"],
+                  key=lambda a: (a["year"] if a["year"] is not None else BIG, a["person"]))
+    if not rows:
+        return "*No alumni recorded yet.*"
+    out = ["| Name | Degree | Year |", "| --- | --- | :-: |"]
+    for a in rows:
+        year = str(a["year"]) if a["year"] is not None else "?"
+        out.append(f"| {_cell('[[' + a['person'] + ']]')} | {_cell(a['degree'])} | {year} |")
+    return "\n".join(out)
+
+
+def write_alumni(uni: dict, table: str) -> str:
+    path = uni["path"]
+    text = path.read_text(encoding="utf-8-sig", errors="replace")
+    block = f"{A_START}\n\n{table}\n\n{A_END}"
+    if A_START in text and A_END in text:
+        before, rest = text.split(A_START, 1)
+        _, after = rest.split(A_END, 1)
+        new = before + block + after
+    else:
+        new = text.rstrip("\n") + "\n\n## Alumni\n\n" + block + "\n"
+    if new != text:
+        with open(path, "w", encoding="utf-8", newline="\n") as f:
+            f.write(new)
+        return "written"
+    return "unchanged"
+
+
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 def main():
     titles = load_titles()
     if not titles:
         print("No title articles found.")
-        return
     problems = collect(titles)
 
     written = 0
@@ -397,6 +471,16 @@ def main():
         holders = len({h["holder"] for h in title["holdings"]})
         print(f"  {name}: {holders} holder(s), {state}")
         written += state == "written"
+
+    unis = load_universities()
+    problems += collect_alumni(unis)
+    uni_written = 0
+    for name in sorted(unis):
+        uni = unis[name]
+        state = write_alumni(uni, render_alumni(uni))
+        print(f"  {name}: {len(uni['alumni'])} alumnus/alumni, {state}")
+        uni_written += state == "written"
+    print(f"University articles updated: {uni_written} of {len(unis)}.")
 
     # The old list articles belong to this script's previous shape.
     if LISTS_DIR.is_dir():
