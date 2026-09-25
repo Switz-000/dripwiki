@@ -11,14 +11,14 @@
             "id": "96473f9572ecd71d",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "01 - Susia/07 - Organizations/Universities/Belluni College.md",
-                "bFile": "01 - Susia/07 - Organizations/Universities/Belluni College.md",
-                "aRef": ""
+                "file": "01 - Susia/06 - People/Filevir Matri.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "diff",
-              "title": "Diff: Belluni College  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Filevir Matri"
             }
           }
         ]
@@ -201,32 +201,32 @@
   },
   "active": "96473f9572ecd71d",
   "lastOpenFiles": [
+    "01 - Susia/06 - People/Milǎr Frelach.md",
+    "01 - Susia/06 - People/Serčev Fimžer.md",
+    "01 - Susia/06 - People/Urgiri Tečlan.md",
+    "01 - Susia/06 - People/Velnmojar Yapenj.md",
+    "01 - Susia/06 - People/Vermon Uyagne.md",
+    "01 - Susia/06 - People/Yário Kolkov.md",
+    "01 - Susia/06 - People/Yavna Raroska.md",
+    "01 - Susia/06 - People/Zagoste Paroska.md",
+    "01 - Susia/06 - People/Venvek Rashera.md",
+    "01 - Susia/06 - People/Kaichet Satratonie.md",
+    "01 - Susia/06 - People/Filevir Matri.md",
+    "01 - Susia/06 - People/Filevir Gatojete.md",
+    "01 - Susia/06 - People/Ergagério Sienes.md",
+    "01 - Susia/06 - People/Čalsor Boňár.md",
+    "01 - Susia/06 - People/Armadesh Versij.md",
+    "01 - Susia/00 - Index & Maps/List of susian universities.md",
     "00 - Meta/Frontmatter reference.md",
     "00 - Meta/Templates/State Template.md",
     "00 - Meta/Templates/University Template.md",
     "01 - Susia/07 - Organizations/Universities/Federal Institute of Technology.md",
-    "01 - Susia/00 - Index & Maps/List of susian universities.md",
     "01 - Susia/07 - Organizations/Universities/University of Duolij.md",
     "01 - Susia/01 - Goverment/Federal/Judicial/Supreme Court of Susia.md",
-    "01 - Susia/06 - People/Armadesh Versij.md",
     "01 - Susia/03 - Companies/Yarnojtes/Troli Ustaras.md",
     "99 - Rest of the World/List of universities.md",
     "00 - Meta/Titles.md",
     "01 - Susia/07 - Organizations/Universities/Neoveli School of Finance and Economics.md",
-    "01 - Susia/07 - Organizations/Universities/Lasman Valley State University.md",
-    "01 - Susia/07 - Organizations/Universities/Apaj Academy of Sciences and Engineering.md",
-    "01 - Susia/07 - Organizations/Universities/University of New Duloc.md",
-    "01 - Susia/07 - Organizations/Universities/Kolkov Institute for Innovation.md",
-    "01 - Susia/07 - Organizations/Universities/Southern Technical College.md",
-    "01 - Susia/07 - Organizations/Universities/Capital Institute of Technology and Policy.md",
-    "01 - Susia/07 - Organizations/Universities/Dripia State University.md",
-    "01 - Susia/07 - Organizations/Universities/Belluni College.md",
-    "01 - Susia/07 - Organizations/Universities/University of New Kentu.md",
-    "Belluni College.md",
-    "01 - Susia/01 - Goverment/Federal/Susian Naval Academy.md",
-    "01 - Susia/01 - Goverment/Postian National Guard.md",
-    "00 - Meta/Template reference/Institution template reference.md",
-    "00 - Meta/Templates/Institution Template.md",
     "01 - Susia/07 - Organizations/Universities",
     "01 - Susia/06 - People/Soites/Soites Family chart.canvas"
   ]
