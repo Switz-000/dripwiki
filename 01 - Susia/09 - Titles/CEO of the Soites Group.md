@@ -25,5 +25,8 @@ person articles. Edit those articles, not this block. %%
 | :-: | --- | :-: | --- | --- |
 | 1 | [[Suizo Soites]] | 1969 - 1981 | [[Self-founded]] | Founded the Soites Group in Neoveli. Retired from active management in 1981. |
 | 2 | [[Chedji Soites]] | 1981 - 2031 | [[Suizo Soites]] | Assumed role upon Suizo's retirement from active management |
+| 3 | [[Trevda Soites]] | 2031 - 2052 | [[Chedji Soites]] |  |
+| 4 | [[Yepodij Soites]] | 2052 - 2068 | [[Soites Group board of directors]] | Installed after Trevda Soites's 2052 acquittal. The board judged that the verdict cleared him legally without repairing the company's standing two years into its Yarnojte status, and kept leadership within the family rather than looking outside it. |
+| 5 | [[Natesse Soites]] | 2068 - ? | [[Yepodij Soites]] |  |
 
 %% holders:end %%

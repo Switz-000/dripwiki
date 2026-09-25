@@ -81,6 +81,14 @@
    "country": "Susia"
   },
   {
+   "year": 1689,
+   "kind": "War begins",
+   "text": "[[Dripstanian Wars of Religion]]",
+   "source": "Dripstanian Wars of Religion",
+   "source_type": "war",
+   "country": "Susia"
+  },
+  {
    "year": 1713,
    "kind": "Birth",
    "text": "[[Prince Apreže]] born in [[Dripstanian Empire]]",
@@ -110,6 +118,14 @@
    "text": "[[Infante Babal]] born in [[Dripstanian Empire]]",
    "source": "Infante Babal",
    "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1736,
+   "kind": "War ends",
+   "text": "[[Dripstanian Wars of Religion]]",
+   "source": "Dripstanian Wars of Religion",
+   "source_type": "war",
    "country": "Susia"
   },
   {
@@ -147,7 +163,7 @@
   {
    "year": 1740,
    "kind": "Appointment",
-   "text": "[[Empress Veronique]] becomes Empress of the Dripstanian Empire. *Reign ends at 163 AS in the family chart. Took the throne after the regency council.*",
+   "text": "[[Empress Veronique]] becomes Empress of the Dripstanian Empire",
    "source": "Empress Veronique",
    "source_type": "person",
    "country": "Susia"
@@ -166,6 +182,22 @@
    "text": "[[Astere]] born in [[Dripstanian Empire]]",
    "source": "Astere",
    "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1750,
+   "kind": "Event begins",
+   "text": "[[Babalist Revolt]]",
+   "source": "Babalist Revolt",
+   "source_type": "event",
+   "country": "Susia"
+  },
+  {
+   "year": 1750,
+   "kind": "Event ends",
+   "text": "[[Babalist Revolt]]",
+   "source": "Babalist Revolt",
+   "source_type": "event",
    "country": "Susia"
   },
   {
@@ -465,6 +497,14 @@
    "country": "Confia"
   },
   {
+   "year": 1834,
+   "kind": "Atrocity begins",
+   "text": "[[March Against the Sun]]",
+   "source": "March Against the Sun",
+   "source_type": "atrocity",
+   "country": "Susia"
+  },
+  {
    "year": 1837,
    "kind": "Appointment",
    "text": "[[Jartes II]] becomes Emperor of the Dripstanian Empire, appointed by [[Hereditary succession]]. *Fifth emperor. Succeeded [[Jartes I]]; succeeded by [[Soliman]].*",
@@ -542,6 +582,14 @@
    "text": "[[Liberal Revolts]]",
    "source": "Liberal Revolts",
    "source_type": "event",
+   "country": "Susia"
+  },
+  {
+   "year": 1841,
+   "kind": "Atrocity ends",
+   "text": "[[March Against the Sun]]",
+   "source": "March Against the Sun",
+   "source_type": "atrocity",
    "country": "Susia"
   },
   {
@@ -673,6 +721,14 @@
    "country": "Confia"
   },
   {
+   "year": 1860,
+   "kind": "Birth",
+   "text": "[[Emperor Sallemaj]] born in [[Soiteslaj|St. Mantichev city]], [[Neutral District]], [[Dripstanian Empire]]",
+   "source": "Emperor Sallemaj",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
    "year": 1867,
    "kind": "Founded",
    "text": "[[Imperial Tobacco Company]] in [[Duolij]]",
@@ -710,6 +766,14 @@
    "text": "[[Soiteslaj]]",
    "source": "Soiteslaj",
    "source_type": "city",
+   "country": "Susia"
+  },
+  {
+   "year": 1882,
+   "kind": "Appointment",
+   "text": "[[Emperor Sallemaj]] becomes Emperor of the Dripstanian Empire. *Dies with no clear sucessor, interim goverment takes over*",
+   "source": "Emperor Sallemaj",
+   "source_type": "person",
    "country": "Susia"
   },
   {
@@ -889,6 +953,14 @@
    "country": "Susia"
   },
   {
+   "year": 1927,
+   "kind": "Event ends",
+   "text": "[[War of Confian Secession]]",
+   "source": "War of Confian Secession",
+   "source_type": "event",
+   "country": "Confia"
+  },
+  {
    "year": 1930,
    "kind": "Founded",
    "text": "[[Confian Liberal Party]] by [[Zanja Banelužni]]",
@@ -958,6 +1030,38 @@
    "text": "[[Filevir Matri]] from [[University of Duolij]] (Bachelor in Law)",
    "source": "Filevir Matri",
    "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1950,
+   "kind": "Death",
+   "text": "[[Emperor Sallemaj]] died in [[Soiteslaj|St. Mantichev city]], [[Neutral District]], [[Dripstanian Empire]] (Stroke)",
+   "source": "Emperor Sallemaj",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1950,
+   "kind": "End of tenure",
+   "text": "[[Emperor Sallemaj]] leaves Emperor of the Dripstanian Empire",
+   "source": "Emperor Sallemaj",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1950,
+   "kind": "Event begins",
+   "text": "[[War of Confian Secession]]",
+   "source": "War of Confian Secession",
+   "source_type": "event",
+   "country": "Confia"
+  },
+  {
+   "year": 1950,
+   "kind": "Regency begins",
+   "text": "[[Emperor of the Dripstanian Empire]] (Filevir Gatojete). *Not royal. Served as Regent until collapse*",
+   "source": "",
+   "source_type": "title",
    "country": "Susia"
   },
   {
@@ -1070,6 +1174,14 @@
    "text": "[[Susian Liberal Party]] by [[Suizo Soites]], [[Ergagério Sienes]] and [[Filňar Čantij]]",
    "source": "Susian Liberal Party",
    "source_type": "organization",
+   "country": "Susia"
+  },
+  {
+   "year": 1954,
+   "kind": "Regency ends",
+   "text": "[[Emperor of the Dripstanian Empire]] (Filevir Gatojete)",
+   "source": "",
+   "source_type": "title",
    "country": "Susia"
   },
   {
@@ -1574,7 +1686,7 @@
    "text": "[[Mariana Torres]], President of the Confian Nation ([[Movement for Syndicalist Renovation]]). *Left LjWP to found DSN in 1980*",
    "source": "",
    "source_type": "person",
-   "election": "[[1978 Confian presidential election]]"
+   "election": "[[List of Confian elections#1977 Confian presidential election]]"
   },
   {
    "year": 1978,
@@ -1794,6 +1906,14 @@
   },
   {
    "year": 1983,
+   "kind": "Birth",
+   "text": "[[Trevda Soites]] born in [[Neoveli]], [[Dripia]], [[Susia]]",
+   "source": "Trevda Soites",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1983,
    "kind": "Death",
    "text": "[[Čalsor Boňár]] died in [[Soiteslaj]], [[Neutral District]], [[Susia]] (Car accident)",
    "source": "Čalsor Boňár",
@@ -1850,6 +1970,14 @@
   },
   {
    "year": 1985,
+   "kind": "End of tenure",
+   "text": "[[Mariana Torres]] leaves President of the Confian Nation at [[Confian National Government]]",
+   "source": "Mariana Torres",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1985,
    "kind": "Publication",
    "text": "*[[After Scarcity]]* by [[Ňotrič Apaj]]. *Expands the essay's argument into a full philosophical vision. Proposes a cosmopolitan post-politics grounded in universal facts of consciousness, suffering, curiosity, and mortality. Became the moral vocabulary of the Modernist Alliance's utopian faction and the ethical foundation TU built its corporate culture upon.*",
    "source": "Ňotrič Apaj",
@@ -1867,10 +1995,10 @@
   {
    "year": 1986,
    "kind": "Appointment",
-   "text": "[[Mariana Torres]], President of the Confian Nation ([[Movement for Syndicalist Renovation]])",
+   "text": "[[Mariana Torres]], President of the Confian Nation ([[Movement for Syndicalist Renovation]]). *Resigned*",
    "source": "",
    "source_type": "person",
-   "election": "[[1986 Confian presidential election]]"
+   "election": "[[List of Confian elections#1985 Confian presidential election]]"
   },
   {
    "year": 1986,
@@ -1918,7 +2046,7 @@
    "text": "[[Boris Serec]], President of the Confian Nation ([[Armotist Democratic Party|ALjP]])",
    "source": "",
    "source_type": "person",
-   "election": "[[1987 Confian presidential election]]"
+   "election": "[[List of Confian elections#1986 Confian presidential election]]"
   },
   {
    "year": 1987,
@@ -1930,17 +2058,17 @@
   },
   {
    "year": 1987,
-   "kind": "End of tenure",
-   "text": "[[Boris Serec]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]",
-   "source": "Boris Serec",
+   "kind": "Birth",
+   "text": "[[Yepodij Soites]] born in [[Neoveli]], [[Dripia]], [[Susia]]",
+   "source": "Yepodij Soites",
    "source_type": "person",
-   "country": "Confia"
+   "country": "Susia"
   },
   {
    "year": 1987,
    "kind": "End of tenure",
-   "text": "[[Mariana Torres]] leaves President of the Confian Nation at [[Confian National Government]]",
-   "source": "Mariana Torres",
+   "text": "[[Boris Serec]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]",
+   "source": "Boris Serec",
    "source_type": "person",
    "country": "Confia"
   },
@@ -2058,11 +2186,27 @@
   },
   {
    "year": 1993,
+   "kind": "End of tenure",
+   "text": "[[Boris Serec]] leaves President of the Confian Nation at [[Confian National Government]]",
+   "source": "Boris Serec",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1993,
    "kind": "Founded",
    "text": "[[KSH]] by [[Confian National Government]] and [[Katerina Armoljubca Nožeslawna|KAN]]",
    "source": "KSH",
    "source_type": "company",
    "country": "Confia"
+  },
+  {
+   "year": 1994,
+   "kind": "Appointment",
+   "text": "[[Boris Serec]], President of the Confian Nation ([[Armotist Democratic Party|ALjP]]). *Resigned*",
+   "source": "",
+   "source_type": "person",
+   "election": "[[List of Confian elections#1993 Confian presidential election]]"
   },
   {
    "year": 1994,
@@ -2091,7 +2235,7 @@
   {
    "year": 1996,
    "kind": "Appointment",
-   "text": "[[Ganzer Teahowić]] becomes Commissar of Health at [[North Nijbania]], appointed by [[Noljež Teššan]]",
+   "text": "[[Ganzer Teahowić]] becomes Confian Commissar for Health at [[Confian National Government]], appointed by [[Noljež Teššan]]",
    "source": "Ganzer Teahowić",
    "source_type": "person",
    "country": "Confia"
@@ -2103,14 +2247,6 @@
    "source": "",
    "source_type": "person",
    "election": "[[1996 Imgospalje mayoral elections]]"
-  },
-  {
-   "year": 1996,
-   "kind": "End of tenure",
-   "text": "[[Boris Serec]] leaves President of the Confian Nation at [[Confian National Government]]",
-   "source": "Boris Serec",
-   "source_type": "person",
-   "country": "Confia"
   },
   {
    "year": 1996,
@@ -2154,6 +2290,14 @@
   },
   {
    "year": 1998,
+   "kind": "Appointment",
+   "text": "[[Katerina Armoljubca Nožeslawna]], Confian President ([[Syndicalist League]])",
+   "source": "",
+   "source_type": "person",
+   "election": "[[List of Confian elections#1998 Confian presidential election]]"
+  },
+  {
+   "year": 1998,
    "kind": "Charged",
    "text": "[[Boris Serec]] with Active corruption, Conspiracy to commit crimes, Cartel formation, Perversion of the office of Prime Minister and Mishandling of the means of production",
    "source": "Boris Serec",
@@ -2163,7 +2307,15 @@
   {
    "year": 1998,
    "kind": "End of tenure",
-   "text": "[[Ganzer Teahowić]] leaves Commissar of Health at [[North Nijbania]]",
+   "text": "[[Boris Serec]] leaves President of the Confian Nation at [[Confian National Government]]",
+   "source": "Boris Serec",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1998,
+   "kind": "End of tenure",
+   "text": "[[Ganzer Teahowić]] leaves Confian Commissar for Health at [[Confian National Government]]",
    "source": "Ganzer Teahowić",
    "source_type": "person",
    "country": "Confia"
@@ -2202,6 +2354,14 @@
   },
   {
    "year": 2000,
+   "kind": "End of tenure",
+   "text": "[[Katerina Armoljubca Nožeslawna]] leaves Confian President at [[Confian National Government]]",
+   "source": "Katerina Armoljubca Nožeslawna",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 2000,
    "kind": "Founded",
    "text": "[[Armotist Democracy (Confian party, 2000)]] by [[Panož Zastranni]]",
    "source": "Armotist Democracy (Confian party, 2000)",
@@ -2231,6 +2391,14 @@
    "source": "Ganzer Teahowić",
    "source_type": "person",
    "country": "Confia"
+  },
+  {
+   "year": 2001,
+   "kind": "Appointment",
+   "text": "[[Katerina Armoljubca Nožeslawna]], Confian President ([[Syndicalist League]]). *Term overriden by 2008 constitution*",
+   "source": "",
+   "source_type": "person",
+   "election": "[[List of Confian elections#2000 Confian presidential election]]"
   },
   {
    "year": 2002,
@@ -2274,10 +2442,34 @@
   },
   {
    "year": 2008,
+   "kind": "End of tenure",
+   "text": "[[Ganzer Teahowić]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]",
+   "source": "Ganzer Teahowić",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 2008,
+   "kind": "End of tenure",
+   "text": "[[Katerina Armoljubca Nožeslawna]] leaves Confian President at [[Confian National Government]]",
+   "source": "Katerina Armoljubca Nožeslawna",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 2008,
    "kind": "Founded",
    "text": "[[Astralis Banking Group]] in [[Sužielaj city]]",
    "source": "Astralis Banking Group",
    "source_type": "company",
+   "country": "Susia"
+  },
+  {
+   "year": 2008,
+   "kind": "Graduation",
+   "text": "[[Trevda Soites]] from [[Federal Institute of Technology]] (Computer science)",
+   "source": "Trevda Soites",
+   "source_type": "person",
    "country": "Susia"
   },
   {
@@ -2311,14 +2503,6 @@
    "source": "Kolkov Interview 2009",
    "source_type": "document",
    "country": "Susia"
-  },
-  {
-   "year": 2009,
-   "kind": "End of tenure",
-   "text": "[[Ganzer Teahowić]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]",
-   "source": "Ganzer Teahowić",
-   "source_type": "person",
-   "country": "Confia"
   },
   {
    "year": 2011,
@@ -2382,7 +2566,7 @@
    "text": "[[Nisa Peskilonna]], President of the Confian Social Republic ([[Republican Promise]])",
    "source": "",
    "source_type": "person",
-   "election": "[[List of Confian elections#2014 Confian presidential election]]"
+   "election": "[[List of Confian elections#2013 Confian presidential election]]"
   },
   {
    "year": 2014,
@@ -2403,10 +2587,10 @@
   {
    "year": 2019,
    "kind": "Appointment",
-   "text": "[[Nisa Peskilonna]] becomes President of the Confian Social Republic at [[Confian National Government]]",
-   "source": "Nisa Peskilonna",
+   "text": "[[Nisa Peskilonna]], President of the Confian Social Republic ([[Republican Promise]])",
+   "source": "",
    "source_type": "person",
-   "country": "Confia"
+   "election": "[[List of Confian elections#2018 Confian presidential election]]"
   },
   {
    "year": 2023,
@@ -2426,6 +2610,14 @@
   },
   {
    "year": 2031,
+   "kind": "Appointment",
+   "text": "[[Trevda Soites]] becomes CEO of the Soites Group, appointed by [[Chedji Soites]]",
+   "source": "Trevda Soites",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 2031,
    "kind": "End of tenure",
    "text": "[[Chedji Soites]] leaves CEO of the Soites Group",
    "source": "Chedji Soites",
@@ -2441,17 +2633,9 @@
    "country": "Susia"
   },
   {
-   "year": 2031,
-   "kind": "Yarnojte granted",
-   "text": "[[POCOIL]]",
-   "source": "POCOIL",
-   "source_type": "company",
-   "country": "Susia"
-  },
-  {
    "year": 2034,
    "kind": "Death",
-   "text": "[[Chedji Soites]] died in [[Neoveli]], [[Dripia]], [[Susia]] (Natural causes)",
+   "text": "[[Chedji Soites]] died in [[Arkaime]], [[Dripia]], [[Susia]] (Natural causes)",
    "source": "Chedji Soites",
    "source_type": "person",
    "country": "Susia"
@@ -2473,6 +2657,14 @@
    "country": "Susia"
   },
   {
+   "year": 2040,
+   "kind": "Project begins",
+   "text": "[[Federal Cognitive Enhancement Program]] (organized by [[Susian Federal Government]])",
+   "source": "Federal Cognitive Enhancement Program",
+   "source_type": "project",
+   "country": "Susia"
+  },
+  {
    "year": 2041,
    "kind": "Yarnojte granted",
    "text": "[[Atompron]]",
@@ -2483,16 +2675,16 @@
   {
    "year": 2041,
    "kind": "Yarnojte granted",
-   "text": "[[Troli Ustaras]]",
-   "source": "Troli Ustaras",
+   "text": "[[POCOIL]]",
+   "source": "POCOIL",
    "source_type": "company",
    "country": "Susia"
   },
   {
    "year": 2041,
    "kind": "Yarnojte granted",
-   "text": "[[Van Ritter]]",
-   "source": "Van Ritter",
+   "text": "[[Troli Ustaras]]",
+   "source": "Troli Ustaras",
    "source_type": "company",
    "country": "Susia"
   },
@@ -2529,11 +2721,27 @@
    "country": "Susia"
   },
   {
-   "year": 2047,
-   "kind": "Yarnojte revoked",
-   "text": "[[Van Ritter]]. *Revoked due to the Troli Ustaras corruption scandal*",
-   "source": "Van Ritter",
-   "source_type": "company",
+   "year": 2048,
+   "kind": "Project ends",
+   "text": "[[Federal Cognitive Enhancement Program]]. Nine deaths, twenty-three cases of permanent cognitive damage, and sixty-three moderate injuries between 2040 and 2046; suspended in 2047, terminated following the 2049 public exposure of its safety record and concealment practices.",
+   "source": "Federal Cognitive Enhancement Program",
+   "source_type": "project",
+   "country": "Susia"
+  },
+  {
+   "year": 2050,
+   "kind": "Charged",
+   "text": "[[Trevda Soites]] with Criminally negligent homicide (9 counts), Reckless infliction of serious bodily injury (23 counts), Reckless endangerment (10 counts), Conspiracy to defraud federal oversight and Obstruction of justice",
+   "source": "Trevda Soites",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 2050,
+   "kind": "Verdict",
+   "text": "[[Trevda Soites]] found Dismissed of Conspiracy to defraud federal oversight and Obstruction of justice",
+   "source": "Trevda Soites",
+   "source_type": "person",
    "country": "Susia"
   },
   {
@@ -2569,6 +2777,38 @@
    "country": "Susia"
   },
   {
+   "year": 2052,
+   "kind": "Appointment",
+   "text": "[[Yepodij Soites]] becomes CEO of the Soites Group, appointed by [[Soites Group board of directors]]. *Installed after Trevda Soites's 2052 acquittal. The board judged that the verdict cleared him legally without repairing the company's standing two years into its Yarnojte status, and kept leadership within the family rather than looking outside it.*",
+   "source": "Yepodij Soites",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 2052,
+   "kind": "End of tenure",
+   "text": "[[Trevda Soites]] leaves CEO of the Soites Group",
+   "source": "Trevda Soites",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 2052,
+   "kind": "Verdict",
+   "text": "[[Trevda Soites]] found Acquitted of Criminally negligent homicide (9 counts), Reckless infliction of serious bodily injury (23 counts) and Reckless endangerment (10 counts)",
+   "source": "Trevda Soites",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 2053,
+   "kind": "Yarnojte granted",
+   "text": "[[Vandernij & Milier]]",
+   "source": "Vandernij & Milier",
+   "source_type": "company",
+   "country": "Susia"
+  },
+  {
    "year": 2063,
    "kind": "Death",
    "text": "[[Venvek Rashera]] died in [[Velúria]], [[Orlítia]], [[Susia]] (Drug overdose)",
@@ -2582,6 +2822,22 @@
    "text": "[[Lischev-Verene]] in [[Sužielaj city]]",
    "source": "Lischev-Verene",
    "source_type": "company",
+   "country": "Susia"
+  },
+  {
+   "year": 2068,
+   "kind": "Appointment",
+   "text": "[[Natesse Soites]] becomes CEO of the Soites Group, appointed by [[Yepodij Soites]]",
+   "source": "Natesse Soites",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 2068,
+   "kind": "End of tenure",
+   "text": "[[Yepodij Soites]] leaves CEO of the Soites Group",
+   "source": "Yepodij Soites",
+   "source_type": "person",
    "country": "Susia"
   },
   {
@@ -2614,6 +2870,14 @@
    "text": "[[Vitakei statement]] (report)",
    "source": "Vitakei statement",
    "source_type": "document",
+   "country": "Susia"
+  },
+  {
+   "year": 2083,
+   "kind": "Yarnojte revoked",
+   "text": "[[Vandernij & Milier]]. *Revoked due to fiscal health concerns and failed to meet the 2082 growth goals.*",
+   "source": "Vandernij & Milier",
+   "source_type": "company",
    "country": "Susia"
   },
   {
@@ -2655,6 +2919,13 @@
    "holder": "Emperor Agamilos"
   },
   {
+   "lane": "events",
+   "label": "Dripstanian Wars of Religion",
+   "start": 1689,
+   "end": 1736,
+   "country": "Susia"
+  },
+  {
    "lane": "titles",
    "label": "Regency council",
    "start": 1738,
@@ -2672,6 +2943,13 @@
    "title": "Emperor of the Dripstanian Empire",
    "display": "Empress of the Dripstanian Empire",
    "holder": "Empress Veronique"
+  },
+  {
+   "lane": "events",
+   "label": "Babalist Revolt",
+   "start": 1750,
+   "end": 1750,
+   "country": "Susia"
   },
   {
    "lane": "titles",
@@ -2749,6 +3027,13 @@
    "start": 1830,
    "end": null,
    "country": "Confia"
+  },
+  {
+   "lane": "events",
+   "label": "March Against the Sun",
+   "start": 1834,
+   "end": 1841,
+   "country": "Susia"
   },
   {
    "lane": "titles",
@@ -2833,6 +3118,16 @@
    "country": "Susia"
   },
   {
+   "lane": "titles",
+   "label": "Emperor Sallemaj",
+   "start": 1882,
+   "end": 1950,
+   "country": "Susia",
+   "title": "Emperor of the Dripstanian Empire",
+   "display": "Emperor of the Dripstanian Empire",
+   "holder": "Emperor Sallemaj"
+  },
+  {
    "lane": "institutions",
    "label": "Lijara",
    "start": 1883,
@@ -2907,6 +3202,22 @@
    "label": "White Stork Party",
    "start": 1942,
    "end": null,
+   "country": "Susia"
+  },
+  {
+   "lane": "events",
+   "label": "War of Confian Secession",
+   "start": 1950,
+   "end": 1927,
+   "country": "Confia"
+  },
+  {
+   "lane": "titles",
+   "label": "Filevir Gatojete",
+   "start": 1950,
+   "end": 1954,
+   "title": "Emperor of the Dripstanian Empire",
+   "interlude": "regency",
    "country": "Susia"
   },
   {
@@ -3278,7 +3589,7 @@
    "lane": "titles",
    "label": "Mariana Torres",
    "start": 1978,
-   "end": 1986,
+   "end": 1985,
    "country": "Confia",
    "title": "Confian President",
    "display": "President of the Confian Nation",
@@ -3397,21 +3708,21 @@
    "holder": "Boris Serec"
   },
   {
+   "lane": "titles",
+   "label": "Mariana Torres",
+   "start": 1986,
+   "end": 1986,
+   "country": "Confia",
+   "title": "Confian President",
+   "display": "President of the Confian Nation",
+   "holder": "Mariana Torres"
+  },
+  {
    "lane": "events",
    "label": "Nar Liewati Massacre",
    "start": 1986,
    "end": 1986,
    "country": "Ditania"
-  },
-  {
-   "lane": "titles",
-   "label": "Mariana Torres",
-   "start": 1986,
-   "end": 1987,
-   "country": "Confia",
-   "title": "Confian President",
-   "display": "President of the Confian Nation",
-   "holder": "Mariana Torres"
   },
   {
    "lane": "titles",
@@ -3437,7 +3748,7 @@
    "lane": "titles",
    "label": "Boris Serec",
    "start": 1987,
-   "end": 1996,
+   "end": 1993,
    "country": "Confia",
    "title": "Confian President",
    "display": "President of the Confian Nation",
@@ -3498,12 +3809,22 @@
   },
   {
    "lane": "titles",
+   "label": "Boris Serec",
+   "start": 1994,
+   "end": 1998,
+   "country": "Confia",
+   "title": "Confian President",
+   "display": "President of the Confian Nation",
+   "holder": "Boris Serec"
+  },
+  {
+   "lane": "titles",
    "label": "Ganzer Teahowić",
    "start": 1996,
    "end": 1998,
    "country": "Confia",
-   "title": "North Nijbanian Commissar",
-   "display": "Commissar of Health",
+   "title": "Confian Commissar",
+   "display": "Confian Commissar for Health",
    "seat": "Health",
    "holder": "Ganzer Teahowić"
   },
@@ -3524,6 +3845,16 @@
    "start": 1997,
    "end": null,
    "country": "Confia"
+  },
+  {
+   "lane": "titles",
+   "label": "Katerina Armoljubca Nožeslawna",
+   "start": 1998,
+   "end": 2000,
+   "country": "Confia",
+   "title": "Confian President",
+   "display": "Confian President",
+   "holder": "Katerina Armoljubca Nožeslawna"
   },
   {
    "lane": "institutions",
@@ -3550,11 +3881,21 @@
    "lane": "titles",
    "label": "Ganzer Teahowić",
    "start": 2001,
-   "end": 2009,
+   "end": 2008,
    "country": "Confia",
    "title": "Confian Prime Minister",
    "display": "President of the Council of Commissars of the United Syndicates of Confia",
    "holder": "Ganzer Teahowić"
+  },
+  {
+   "lane": "titles",
+   "label": "Katerina Armoljubca Nožeslawna",
+   "start": 2001,
+   "end": 2008,
+   "country": "Confia",
+   "title": "Confian President",
+   "display": "Confian President",
+   "holder": "Katerina Armoljubca Nožeslawna"
   },
   {
    "lane": "institutions",
@@ -3608,6 +3949,16 @@
    "holder": "Nisa Peskilonna"
   },
   {
+   "lane": "titles",
+   "label": "Trevda Soites",
+   "start": 2031,
+   "end": 2052,
+   "country": "Susia",
+   "title": "CEO of the Soites Group",
+   "display": "CEO of the Soites Group",
+   "holder": "Trevda Soites"
+  },
+  {
    "lane": "institutions",
    "label": "Yerčemark",
    "start": 2031,
@@ -3615,11 +3966,38 @@
    "country": "Susia"
   },
   {
+   "lane": "events",
+   "label": "Federal Cognitive Enhancement Program",
+   "start": 2040,
+   "end": 2048,
+   "country": "Susia"
+  },
+  {
+   "lane": "titles",
+   "label": "Yepodij Soites",
+   "start": 2052,
+   "end": 2068,
+   "country": "Susia",
+   "title": "CEO of the Soites Group",
+   "display": "CEO of the Soites Group",
+   "holder": "Yepodij Soites"
+  },
+  {
    "lane": "institutions",
    "label": "Lischev-Verene",
    "start": 2065,
    "end": null,
    "country": "Susia"
+  },
+  {
+   "lane": "titles",
+   "label": "Natesse Soites",
+   "start": 2068,
+   "end": null,
+   "country": "Susia",
+   "title": "CEO of the Soites Group",
+   "display": "CEO of the Soites Group",
+   "holder": "Natesse Soites"
   },
   {
    "lane": "events",

@@ -48,6 +48,10 @@ meta:
 - **Death**: [[Saint Emperor Mantichev]] died in [[Dripstanian Empire]] (Assassination)
 - **End of tenure**: [[Saint Emperor Mantichev]] leaves Emperor of the Dripstanian Empire
 
+## 1689
+
+- **War begins**: [[Dripstanian Wars of Religion]]
+
 ## 1713
 
 - **Birth**: [[Prince Apreže]] born in [[Dripstanian Empire]]
@@ -63,6 +67,7 @@ meta:
 ## 1736
 
 - **Birth**: [[Infante Babal]] born in [[Dripstanian Empire]]
+- **War ends**: [[Dripstanian Wars of Religion]]
 
 ## 1738
 
@@ -73,12 +78,17 @@ meta:
 
 ## 1740
 
-- **Appointment**: [[Empress Veronique]] becomes Empress of the Dripstanian Empire. *Reign ends at 163 AS in the family chart. Took the throne after the regency council.*
+- **Appointment**: [[Empress Veronique]] becomes Empress of the Dripstanian Empire
 - **Regency ends**: [[Emperor of the Dripstanian Empire]] (Regency council)
 
 ## 1748
 
 - **Birth**: [[Astere]] born in [[Dripstanian Empire]]
+
+## 1750
+
+- **Event begins**: [[Babalist Revolt]]
+- **Event ends**: [[Babalist Revolt]]
 
 ## 1752
 
@@ -189,6 +199,10 @@ meta:
 
 - **Founded**: [[Ražaw]] in [[Imgospalje]]
 
+## 1834
+
+- **Atrocity begins**: [[March Against the Sun]]
+
 ## 1837
 
 - **Appointment**: [[Jartes II]] becomes Emperor of the Dripstanian Empire, appointed by [[Hereditary succession]]. *Fifth emperor. Succeeded [[Jartes I]]; succeeded by [[Soliman]].*
@@ -210,6 +224,7 @@ meta:
 
 ## 1841
 
+- **Atrocity ends**: [[March Against the Sun]]
 - **Founded**: [[Confian Nation Party (1841)]] by [[Wanašer Gerzăn]]
 - **Founded**: [[PIKW]]
 
@@ -236,6 +251,10 @@ meta:
 
 - **Death**: [[Ganzer Kieron]] died in [[Carlotopolis]], [[Karlotopol']], [[General Government of Confia]] (Tuberculosis)
 
+## 1860
+
+- **Birth**: [[Emperor Sallemaj]] born in [[Soiteslaj|St. Mantichev city]], [[Neutral District]], [[Dripstanian Empire]]
+
 ## 1867
 
 - **Founded**: [[Imperial Tobacco Company]] in [[Duolij]]
@@ -258,6 +277,7 @@ meta:
 
 ## 1882
 
+- **Appointment**: [[Emperor Sallemaj]] becomes Emperor of the Dripstanian Empire. *Dies with no clear sucessor, interim goverment takes over*
 - **Death**: [[Jartes II]] died in [[Dripstanian Empire]] (Unknown)
 - **End of tenure**: [[Jartes II]] leaves Emperor of the Dripstanian Empire
 
@@ -325,6 +345,7 @@ meta:
 ## 1927
 
 - **Birth**: [[Urgiri Tečlan]] born in [[Postia]], [[Dripstanian Empire]]
+- **Event ends**: [[War of Confian Secession]]
 
 ## 1930
 
@@ -359,6 +380,13 @@ meta:
 
 - **Graduation**: [[Filevir Matri]] from [[University of Duolij]] (Bachelor in Law)
 
+## 1950
+
+- **Death**: [[Emperor Sallemaj]] died in [[Soiteslaj|St. Mantichev city]], [[Neutral District]], [[Dripstanian Empire]] (Stroke)
+- **End of tenure**: [[Emperor Sallemaj]] leaves Emperor of the Dripstanian Empire
+- **Event begins**: [[War of Confian Secession]]
+- **Regency begins**: [[Emperor of the Dripstanian Empire]] (Filevir Gatojete). *Not royal. Served as Regent until collapse*
+
 ## 1951
 
 - **Birth**: [[Ňotrič Apaj]] born in [[Yatovarlaj]], [[Misocévia]], [[Dripstanian Empire]]
@@ -383,6 +411,7 @@ meta:
 - **Founded**: [[Supreme Court of Susia]]
 - **Founded**: [[Susian Democratic Union]]
 - **Founded**: [[Susian Liberal Party]] by [[Suizo Soites]], [[Ergagério Sienes]] and [[Filňar Čantij]]
+- **Regency ends**: [[Emperor of the Dripstanian Empire]] (Filevir Gatojete)
 
 ### [[1954 Susian presidential election]]
 
@@ -506,13 +535,13 @@ meta:
 - **End of tenure**: [[Čalsor Boňár]] leaves President of Susia at [[Susian Federal Government]]
 - **Publication**: *Untitled work* by [[Eriežera Lensekowina]]. *A collection of articles written by Eriežera in exile.*
 
-### [[1978 Confian presidential election]]
-
-- [[Mariana Torres]], President of the Confian Nation ([[Movement for Syndicalist Renovation]]). *Left LjWP to found DSN in 1980*
-
 ### [[1978 Susian presidential election]]
 
 - [[Čalsor Boňár]], President of Susia ([[Susian Democratic Union]])
+
+### [[List of Confian elections#1977 Confian presidential election]]
+
+- [[Mariana Torres]], President of the Confian Nation ([[Movement for Syndicalist Renovation]]). *Left LjWP to found DSN in 1980*
 
 ## 1979
 
@@ -561,6 +590,7 @@ meta:
 
 - **Appointment**: [[Boris Serec]] becomes President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]], appointed by [[National Assembly of Confian Syndicates]]
 - **Appointment**: [[Filevir Matri]] becomes President of Susia at [[Susian Federal Government]]. *Became president after Boňár's death*
+- **Birth**: [[Trevda Soites]] born in [[Neoveli]], [[Dripia]], [[Susia]]
 - **Death**: [[Čalsor Boňár]] died in [[Soiteslaj]], [[Neutral District]], [[Susia]] (Car accident)
 - **End of tenure**: [[Filevir Matri]] leaves Vice President of Susia at [[Susian Federal Government]]
 - **End of tenure**: [[Čalsor Boňár]] leaves President of Susia at [[Susian Federal Government]]
@@ -574,6 +604,7 @@ meta:
 
 ## 1985
 
+- **End of tenure**: [[Mariana Torres]] leaves President of the Confian Nation at [[Confian National Government]]
 - **Publication**: *[[After Scarcity]]* by [[Ňotrič Apaj]]. *Expands the essay's argument into a full philosophical vision. Proposes a cosmopolitan post-politics grounded in universal facts of consciousness, suffering, curiosity, and mortality. Became the moral vocabulary of the Modernist Alliance's utopian faction and the ethical foundation TU built its corporate culture upon.*
 
 ## 1986
@@ -585,20 +616,20 @@ meta:
 - **End of tenure**: [[Katerina Armoljubca Nožeslawna]] leaves Member of the National Assembly of Confian Syndicates at [[Confian National Government]]
 - **End of tenure**: [[Mariana Torres]] leaves President of the Confian Nation at [[Confian National Government]]
 
-### [[1986 Confian presidential election]]
+### [[List of Confian elections#1985 Confian presidential election]]
 
-- [[Mariana Torres]], President of the Confian Nation ([[Movement for Syndicalist Renovation]])
+- [[Mariana Torres]], President of the Confian Nation ([[Movement for Syndicalist Renovation]]). *Resigned*
 
 ## 1987
 
+- **Birth**: [[Yepodij Soites]] born in [[Neoveli]], [[Dripia]], [[Susia]]
 - **End of tenure**: [[Boris Serec]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]
-- **End of tenure**: [[Mariana Torres]] leaves President of the Confian Nation at [[Confian National Government]]
 
 ### [[1986 Confian general election]]
 
 - [[Katerina Armoljubca Nožeslawna]], Member of the National Assembly of Confian Syndicates ([[Syndicalist League]])
 
-### [[1987 Confian presidential election]]
+### [[List of Confian elections#1986 Confian presidential election]]
 
 - [[Boris Serec]], President of the Confian Nation ([[Armotist Democratic Party|ALjP]])
 
@@ -639,6 +670,7 @@ meta:
 
 ## 1993
 
+- **End of tenure**: [[Boris Serec]] leaves President of the Confian Nation at [[Confian National Government]]
 - **Founded**: [[KSH]] by [[Confian National Government]] and [[Katerina Armoljubca Nožeslawna|KAN]]
 
 ## 1994
@@ -646,14 +678,17 @@ meta:
 - **Dissolved**: [[Postian Free Farmers]]
 - **Publication**: *[[Food for the Fools]]* by [[Yário Kolkov]]. *Essay on political demagogues, attacking not the demagogues but the audience who feeds from them and the institutions that allow them. Considered controversial at its time. Includes his critique of the treatment of Versij as a saint, with the Supreme Court as its example.*
 
+### [[List of Confian elections#1993 Confian presidential election]]
+
+- [[Boris Serec]], President of the Confian Nation ([[Armotist Democratic Party|ALjP]]). *Resigned*
+
 ## 1995
 
 - **Death**: [[Suizo Soites]] died in [[Razrij]], [[Orlítia]], [[Susia]] (Natural causes)
 
 ## 1996
 
-- **Appointment**: [[Ganzer Teahowić]] becomes Commissar of Health at [[North Nijbania]], appointed by [[Noljež Teššan]]
-- **End of tenure**: [[Boris Serec]] leaves President of the Confian Nation at [[Confian National Government]]
+- **Appointment**: [[Ganzer Teahowić]] becomes Confian Commissar for Health at [[Confian National Government]], appointed by [[Noljež Teššan]]
 - **End of tenure**: [[Ganzer Teahowić]] leaves State Governor of North Nijbania
 - **End of tenure**: [[Katerina Armoljubca Nožeslawna]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]
 - **End of tenure**: [[Kukan Peskilonni]] leaves Director of the Central Bank of the Confian Nation
@@ -670,8 +705,13 @@ meta:
 ## 1998
 
 - **Charged**: [[Boris Serec]] with Active corruption, Conspiracy to commit crimes, Cartel formation, Perversion of the office of Prime Minister and Mishandling of the means of production
-- **End of tenure**: [[Ganzer Teahowić]] leaves Commissar of Health at [[North Nijbania]]
+- **End of tenure**: [[Boris Serec]] leaves President of the Confian Nation at [[Confian National Government]]
+- **End of tenure**: [[Ganzer Teahowić]] leaves Confian Commissar for Health at [[Confian National Government]]
 - **Verdict**: [[Boris Serec]] found Guilty of Passive corruption (21 counts)
+
+### [[List of Confian elections#1998 Confian presidential election]]
+
+- [[Katerina Armoljubca Nožeslawna]], Confian President ([[Syndicalist League]])
 
 ## 1999
 
@@ -681,6 +721,7 @@ meta:
 ## 2000
 
 - **Dissolved**: [[Armotist Democratic Party]]
+- **End of tenure**: [[Katerina Armoljubca Nožeslawna]] leaves Confian President at [[Confian National Government]]
 - **Founded**: [[Armotist Democracy (Confian party, 2000)]] by [[Panož Zastranni]]
 - **Founded**: [[Confian Democratic Party]] by [[Japlen Razol]]
 - **Founded**: [[Shield!]]
@@ -688,6 +729,10 @@ meta:
 ## 2001
 
 - **Appointment**: [[Ganzer Teahowić]] becomes President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]], appointed by [[National Assembly of Confian Syndicates]]
+
+### [[List of Confian elections#2000 Confian presidential election]]
+
+- [[Katerina Armoljubca Nožeslawna]], Confian President ([[Syndicalist League]]). *Term overriden by 2008 constitution*
 
 ## 2002
 
@@ -705,14 +750,16 @@ meta:
 
 ## 2008
 
+- **End of tenure**: [[Ganzer Teahowić]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]
+- **End of tenure**: [[Katerina Armoljubca Nožeslawna]] leaves Confian President at [[Confian National Government]]
 - **Founded**: [[Astralis Banking Group]] in [[Sužielaj city]]
+- **Graduation**: [[Trevda Soites]] from [[Federal Institute of Technology]] (Computer science)
 - **Publication**: *[[Democracy as an Organism]]* by [[Yário Kolkov]]. *Final completed book before his death.*
 
 ## 2009
 
 - **Document recorded**: [[Grawolja Lasmanna with the Five of Goretopol']] (interview)
 - **Document recorded**: [[Kolkov Interview 2009]] (interview)
-- **End of tenure**: [[Ganzer Teahowić]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]
 
 ### [[List of Confian elections|2009 Confian presidential election]]
 
@@ -738,7 +785,7 @@ meta:
 
 - **Publication**: *[[Dead Man's Wit]]* by [[Yário Kolkov]]. *Kolkov's unfinished manuscript, kept private through the final years of his life and never submitted for publication. Recovered from the University of New Kentu archives by a former student in 2014 and published online. More personal and less systematic than his other work.*
 
-### [[List of Confian elections#2014 Confian presidential election]]
+### [[List of Confian elections#2013 Confian presidential election]]
 
 - [[Nisa Peskilonna]], President of the Confian Social Republic ([[Republican Promise]])
 
@@ -748,7 +795,9 @@ meta:
 
 ## 2019
 
-- **Appointment**: [[Nisa Peskilonna]] becomes President of the Confian Social Republic at [[Confian National Government]]
+### [[List of Confian elections#2018 Confian presidential election]]
+
+- [[Nisa Peskilonna]], President of the Confian Social Republic ([[Republican Promise]])
 
 ## 2023
 
@@ -760,13 +809,13 @@ meta:
 
 ## 2031
 
+- **Appointment**: [[Trevda Soites]] becomes CEO of the Soites Group, appointed by [[Chedji Soites]]
 - **End of tenure**: [[Chedji Soites]] leaves CEO of the Soites Group
 - **Founded**: [[Yerčemark]] by [[Venvek Rashera]] in [[New Kentu]]
-- **Yarnojte granted**: [[POCOIL]]
 
 ## 2034
 
-- **Death**: [[Chedji Soites]] died in [[Neoveli]], [[Dripia]], [[Susia]] (Natural causes)
+- **Death**: [[Chedji Soites]] died in [[Arkaime]], [[Dripia]], [[Susia]] (Natural causes)
 
 ## 2037
 
@@ -776,11 +825,15 @@ meta:
 
 - **Dissolved**: [[Susian Liberal Party]]
 
+## 2040
+
+- **Project begins**: [[Federal Cognitive Enhancement Program]] (organized by [[Susian Federal Government]])
+
 ## 2041
 
 - **Yarnojte granted**: [[Atompron]]
+- **Yarnojte granted**: [[POCOIL]]
 - **Yarnojte granted**: [[Troli Ustaras]]
-- **Yarnojte granted**: [[Van Ritter]]
 
 ## 2042
 
@@ -792,15 +845,20 @@ meta:
 
 ## 2045
 
-- **Document recorded**: [[Jagan Lostăn]] (text chat)
+- **Document recorded**: [[Untitled]] (text chat)
 
 ## 2047
 
 - **Yarnojte revoked**: [[Troli Ustaras]]. *Revoked due to the Troli Ustaras corruption scandal*
-- **Yarnojte revoked**: [[Van Ritter]]. *Revoked due to the Troli Ustaras corruption scandal*
+
+## 2048
+
+- **Project ends**: [[Federal Cognitive Enhancement Program]]. Nine deaths, twenty-three cases of permanent cognitive damage, and sixty-three moderate injuries between 2040 and 2046; suspended in 2047, terminated following the 2049 public exposure of its safety record and concealment practices.
 
 ## 2050
 
+- **Charged**: [[Trevda Soites]] with Criminally negligent homicide (9 counts), Reckless infliction of serious bodily injury (23 counts), Reckless endangerment (10 counts), Conspiracy to defraud federal oversight and Obstruction of justice
+- **Verdict**: [[Trevda Soites]] found Dismissed of Conspiracy to defraud federal oversight and Obstruction of justice
 - **Yarnojte granted**: [[Nayotai]]
 - **Yarnojte granted**: [[Soites Group]]
 
@@ -809,6 +867,16 @@ meta:
 - **Yarnojte granted**: [[Troli Ustaras]]. *Restored after company wide restructuring*
 - **Yarnojte granted**: [[Van Ritter]]. *Restored after company wide restructuring*
 
+## 2052
+
+- **Appointment**: [[Yepodij Soites]] becomes CEO of the Soites Group, appointed by [[Soites Group board of directors]]. *Installed after Trevda Soites's 2052 acquittal. The board judged that the verdict cleared him legally without repairing the company's standing two years into its Yarnojte status, and kept leadership within the family rather than looking outside it.*
+- **End of tenure**: [[Trevda Soites]] leaves CEO of the Soites Group
+- **Verdict**: [[Trevda Soites]] found Acquitted of Criminally negligent homicide (9 counts), Reckless infliction of serious bodily injury (23 counts) and Reckless endangerment (10 counts)
+
+## 2053
+
+- **Yarnojte granted**: [[Vandernij & Milier]]
+
 ## 2063
 
 - **Death**: [[Venvek Rashera]] died in [[Velúria]], [[Orlítia]], [[Susia]] (Drug overdose)
@@ -816,6 +884,11 @@ meta:
 ## 2065
 
 - **Founded**: [[Lischev-Verene]] in [[Sužielaj city]]
+
+## 2068
+
+- **Appointment**: [[Natesse Soites]] becomes CEO of the Soites Group, appointed by [[Yepodij Soites]]
+- **End of tenure**: [[Yepodij Soites]] leaves CEO of the Soites Group
 
 ## 2072
 
@@ -832,6 +905,10 @@ meta:
 ## 2080
 
 - **Document recorded**: [[Vitakei statement]] (report)
+
+## 2083
+
+- **Yarnojte revoked**: [[Vandernij & Milier]]. *Revoked due to fiscal health concerns and failed to meet the 2082 growth goals.*
 
 ## 2084
 
