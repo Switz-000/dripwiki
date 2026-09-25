@@ -55,7 +55,7 @@ organizations:
 titles:
   - title: "[[CEO of the Soites Group]]"
     start_year: 2068
-    end_year:
+    end_year: "present"
     appointer: "[[Yepodij Soites]]"
     parties:
       - 
