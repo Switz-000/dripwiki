@@ -10,7 +10,7 @@ founded: 1803
 dissolved:
 authorized_by:
 branch: Executive
-parent_department: "[[Department of Defense]]"
+parent_institution: "[[Department of Defense]]"
 location: "[[Noňofriye]]"
 era:
   -

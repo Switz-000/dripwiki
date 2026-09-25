@@ -15,15 +15,14 @@ authorized_by: "[[Susian Constitution]]"
 
 # ── PLACEMENT ────────────────────────────────────────────────────────────────
 branch: Executive
-parent_department: "[[National Guard]]"
+parent_institution: "[[National Guard]]"
 independent: false
 jurisdiction: "[[Postia]]"
 seat: "[[Duolij]]"
 
 # ── COMPOSITION ──────────────────────────────────────────────────────────────
 positions:
-term_length:
-composition_method: Volunteer enlistment following mandatory national service
+teparent_institutionition_method: Volunteer enlistment following mandatory national service
 
 # ── META ─────────────────────────────────────────────────────────────────────
 era:

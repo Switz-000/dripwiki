@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Belluni College.md",
-                "mode": "source",
-                "source": false
+                "file": "00 - Meta/Templates/University Template.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Belluni College"
+              "title": "University Template"
             }
           },
           {
@@ -69,16 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Meta/Templates/Institution Template.md",
+                "file": "01 - Susia/01 - Goverment/Federal/Judicial/Supreme Court of Susia.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Institution Template"
+              "title": "Supreme Court of Susia"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -256,10 +256,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c33d1b442d68a591",
+  "active": "c718ffcf9987488e",
   "lastOpenFiles": [
     "Belluni College.md",
+    "00 - Meta/Templates/University Template.md",
     "01 - Susia/00 - Index & Maps/List of susian universities.md",
+    "01 - Susia/01 - Goverment/Federal/Judicial/Supreme Court of Susia.md",
+    "01 - Susia/01 - Goverment/Federal/Susian Naval Academy.md",
+    "01 - Susia/01 - Goverment/Postian National Guard.md",
+    "00 - Meta/Template reference/Institution template reference.md",
+    "00 - Meta/Templates/Institution Template.md",
     "01 - Susia/03 - Companies/Yarnojtes/Troli Ustaras.md",
     "01 - Susia/07 - Organizations/Universities",
     "01 - Susia/01 - Goverment/Federal/Federal Cognitive Enhancement Program.md",
@@ -279,12 +285,6 @@
     "01 - Susia/00 - Index & Maps/List of susian foods and drinks.md",
     "00 - Meta/Templates/Person Template.md",
     "00 - Meta/Templates/Political Party Template.md",
-    "02 - Confia/06 - People/Ganzer Teahowić.md",
-    "02 - Confia/09 - Titles/North Nijbanian Commissar.md",
-    "01 - Susia/09 - Titles/Delegate to the Constitutional Convention.md",
-    "01 - Susia/09 - Titles/Emperor of the Dripstanian Empire.md",
-    "01 - Susia/09 - Titles/Member of the General Government of the Federated Provinces of Galil.md",
-    "01 - Susia/09 - Titles/Senator.md",
     "01 - Susia/06 - People/Soites/Soites Family chart.canvas"
   ]
 }

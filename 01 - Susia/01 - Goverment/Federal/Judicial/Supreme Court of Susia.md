@@ -10,7 +10,7 @@ founded: 1954
 dissolved:
 authorized_by: "[[Susian Constitution]]"
 branch: Judicial
-parent_department:
+parent_institution:
 independent: true
 jurisdiction: "[[Susia]]"
 seat: "[[Soiteslaj]]"
