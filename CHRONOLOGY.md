@@ -181,7 +181,7 @@ meta:
 
 ## 1826
 
-- **Graduation**: [[Armadesh Versij]] from [[University of New Kentu]] (Law)
+- **Graduation**: [[Armadesh Versij]] from [[University ]] (Law)
 
 ## 1827
 
