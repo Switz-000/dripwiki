@@ -10,7 +10,7 @@ nature:
   - Public
 founded: 1965
 dissolved:
-parent_institution: "[[Susian Federal Government|Federal government]]"
+control: "[[Susian Federal Government|Federal government]]"
 seat: "[[New Kentu]]"
 era:
   - continental-divide

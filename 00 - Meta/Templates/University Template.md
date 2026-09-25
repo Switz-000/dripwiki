@@ -9,7 +9,7 @@ summary:
 nature:
 founded:
 dissolved:
-parent_institution:
+control:
 seat:
 era:
   - 

@@ -10,7 +10,7 @@ nature:
   - Public
 founded: 1864
 dissolved:
-parent_institution: "[[Dripia|State of Dripia]]"
+control: "[[Dripia|State of Dripia]]"
 seat: "[[New Kentu]]"
 era:
   - late-imperial

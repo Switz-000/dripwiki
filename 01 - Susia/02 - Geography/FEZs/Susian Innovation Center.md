@@ -1,5 +1,7 @@
 ---
 type: fez
+country: "[[Susia]]"
+state: "[[Dripia]]"
 aliases:
   - SIC
 abbreviation: SIC

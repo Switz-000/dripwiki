@@ -10,7 +10,7 @@ nature:
   - Private
 founded: 2053
 dissolved:
-parent_institution: "[[Troli Ustaras]]"
+control: "[[Troli Ustaras]]"
 seat: "[[Donetruže]]"
 era:
   - techno-federative-era

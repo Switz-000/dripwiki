@@ -10,7 +10,7 @@ nature:
   - Public
 founded: 1974
 dissolved:
-parent_institution: "[[Misocévia|State of Misocévia]]"
+control: "[[Misocévia|State of Misocévia]]"
 seat: "[[Lore-Kurji]]"
 era:
   - continental-divide

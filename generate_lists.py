@@ -398,7 +398,7 @@ def load_universities() -> dict:
             continue  # the template itself
         fm = read_frontmatter(md)
         if fm.get("type") == "university":
-            unis[md.stem] = {"path": md, "name": md.stem, "alumni": []}
+            unis[md.stem] = {"path": md, "name": md.stem, "alumni": [], "fm": fm}
     return unis
 
 
@@ -456,6 +456,76 @@ def write_alumni(uni: dict, table: str) -> str:
     return "unchanged"
 
 
+# ── University lists ──────────────────────────────────────────────────────────
+
+U_START = "%% universities:start %%"
+U_END   = "%% universities:end %%"
+# index article -> country filter (None = every university)
+UNIVERSITY_LISTS = {
+    "List of susian universities": "Susia",
+    "List of universities": None,
+}
+
+
+def load_cities() -> dict:
+    cities = {}
+    for md in sorted(VAULT_ROOT.rglob("*.md")):
+        rel = md.relative_to(VAULT_ROOT)
+        if any(part in SKIP_DIRS for part in rel.parts):
+            continue
+        fm = read_frontmatter(md)
+        # any place a university can sit in: cities, FEZs, etc.
+        if _has(fm.get("country")) or _has(fm.get("state")):
+            cities[md.stem] = fm
+    return cities
+
+
+def render_university_list(unis: dict, cities: dict, country) -> str:
+    rows = []
+    for name, uni in unis.items():
+        fm = uni["fm"]
+        city = _name(fm.get("seat"))
+        cfm = cities.get(city, {})
+        c = _name(cfm.get("country"))
+        if country and c.casefold() != country.casefold():
+            continue
+        nature = fm.get("nature")
+        nature = ", ".join(str(n) for n in nature if _has(n)) if isinstance(nature, list) else _text(nature)
+        rows.append({"name": name, "city": _wl(city), "state": _wl(_name(cfm.get("state"))),
+                     "country": _wl(c), "type": nature, "control": _wl(fm.get("control")),
+                     "founded": _year(fm.get("founded"))})
+    rows.sort(key=lambda r: (r["founded"] if r["founded"] is not None else BIG, r["name"]))
+    if not rows:
+        return "*No universities recorded yet.*"
+    head = ["School", "City", "State" if country else "Country", "Type", "Control", "Founded"]
+    out = ["| " + " | ".join(head) + " |",
+           "| " + " | ".join(":-:" if h == "Founded" else "---" for h in head) + " |"]
+    for r in rows:
+        cells = [f"[[{r['name']}]]", r["city"], r["state"] if country else r["country"],
+                 r["type"], r["control"], str(r["founded"]) if r["founded"] is not None else "?"]
+        out.append("| " + " | ".join(_cell(x) for x in cells) + " |")
+    return "\n".join(out)
+
+
+def write_university_lists(unis: dict) -> None:
+    cities = load_cities()
+    for md in sorted(VAULT_ROOT.rglob("*.md")):
+        rel = md.relative_to(VAULT_ROOT)
+        if any(part in SKIP_DIRS for part in rel.parts) or md.stem not in UNIVERSITY_LISTS:
+            continue
+        text = md.read_text(encoding="utf-8-sig", errors="replace")
+        if U_START not in text or U_END not in text:
+            continue
+        table = render_university_list(unis, cities, UNIVERSITY_LISTS[md.stem])
+        before, rest = text.split(U_START, 1)
+        _, after = rest.split(U_END, 1)
+        new = before + f"{U_START}\n\n{table}\n\n{U_END}" + after
+        if new != text:
+            with open(md, "w", encoding="utf-8", newline="\n") as f:
+                f.write(new)
+        print(f"  {md.stem}: {'written' if new != text else 'unchanged'}")
+
+
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 def main():
@@ -481,6 +551,7 @@ def main():
         print(f"  {name}: {len(uni['alumni'])} alumnus/alumni, {state}")
         uni_written += state == "written"
     print(f"University articles updated: {uni_written} of {len(unis)}.")
+    write_university_lists(unis)
 
     # The old list articles belong to this script's previous shape.
     if LISTS_DIR.is_dir():

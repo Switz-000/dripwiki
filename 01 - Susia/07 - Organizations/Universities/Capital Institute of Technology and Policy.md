@@ -10,7 +10,7 @@ nature:
   - Private
 founded: 2021
 dissolved:
-parent_institution: "[[Troli Ustaras]]"
+control: "[[Troli Ustaras]]"
 seat: "[[Soiteslaj]]"
 era:
   - new-age
