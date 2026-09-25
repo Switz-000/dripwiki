@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Susia/06 - People/Soites/Natesse Soites.md",
+                "file": "01 - Susia/01 - Goverment/Federal/Federal Cognitive Enhancement Program.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Natesse Soites"
+              "title": "Federal Cognitive Enhancement Program"
             }
           }
         ],
@@ -216,12 +216,13 @@
   },
   "active": "5cf0b3575423f8bf",
   "lastOpenFiles": [
+    "01 - Susia/01 - Goverment/Federal/Federal Authority of Commerce and Competition.md",
+    "01 - Susia/06 - People/Soites/Natesse Soites.md",
     "00 - Meta/Titles.md",
     "00 - Meta/Style Guide.md",
     "00 - Meta/Frontmatter reference.md",
     "00 - Meta/YAML and Tags.md",
     "01 - Susia/09 - Titles/CEO of the Soites Group.md",
-    "01 - Susia/06 - People/Soites/Natesse Soites.md",
     "01 - Susia/00 - Index & Maps/List of first names.md",
     "01 - Susia/00 - Index & Maps/List of Susian Presidents.md",
     "01 - Susia/00 - Index & Maps/List of susian idioms.md",
@@ -241,7 +242,6 @@
     "00 - Meta/Templates/City Template.md",
     "01 - Susia/06 - People/Soites/Soites Family chart.canvas",
     "01 - Susia/03 - Companies/Yarnojtes/Soites Group.md",
-    "01 - Susia/06 - People/Soites/Chedji Soites.md",
-    "01 - Susia/03 - Companies/Yarnojtes/Troli Ustaras.md"
+    "01 - Susia/06 - People/Soites/Chedji Soites.md"
   ]
 }
