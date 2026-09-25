@@ -32,7 +32,7 @@ wings:
   - 
 area_served:
 international_affiliation:
-national_affiliation:
+national_affiliation: "[[Atom Party]]"
 regional_affiliation:
 ---
 

@@ -16,7 +16,7 @@ legalized_by:
 headquarters:
 newspaper:
 think_tank:
-youth_wing:
+youth_wing: "[[Atom Youth]]"
 paramilitary:
 ideology:
   - "[[Modernism|Modernism (2028-)]]"
