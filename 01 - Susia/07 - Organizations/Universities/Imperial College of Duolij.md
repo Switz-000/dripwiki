@@ -6,15 +6,15 @@ aliases:
   - 
 founded_by:
 summary:
-nature:
-founded:
+nature: Public
+founded: 1863
 dissolved:
 control:
-seat:
+seat: "[[Duolij]]"
 era:
-  - 
+  - late-imperial
 tags:
-  - 
+  - society/education
 meta:
   stub: true
   verified: false
