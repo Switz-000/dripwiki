@@ -652,6 +652,7 @@ meta:
 - **Dissolved**: [[Progressive Republican Party]]
 - **End of tenure**: [[Katerina Armoljubca Nožeslawna]] leaves Member of the National Assembly of Confian Syndicates at [[Confian National Government]]
 - **Publication**: *[[Letters to a Dead Republic]]* by [[Yário Kolkov]]. *First major work. Drew on his experiences at Nayotai and Troli Ustaras. Established his critique of corporate culture as a form of ideological capture.*
+- **War begins**: [[Bershadi Civil War]]
 
 ## 1991
 
@@ -775,6 +776,7 @@ meta:
 ## 2012
 
 - **Death**: [[Senjap Kunsekowić]] died in [[Saint Feriol]], [[Koštanože]], [[Confia]] (Natural causes)
+- **War ends**: [[Bershadi Civil War]]
 
 ## 2013
 
