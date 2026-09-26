@@ -116,7 +116,7 @@ Keke was a [[Sanye people|Sanye]] Armotist. He emerged from the civil service an
 
 Keke took power in 1962 through an emergency-administrative consolidation, not a coup, and governed through a one-party state.
 
-He built his legitimacy on order, prosperity and comparison: [[Bershad]] below and [[Ashgerad]] across the border. He encouraged Armotists from across [[Incria]], especially [[Haiel people|Haiel]] facing persecution in Bershad and in [[Tehtíe]], to migrate to Yar-Firol and settle its interior.
+He built his legitimacy on order, prosperity and comparison: [[Bershad]] below and [[Ashgerad]] across the border. He encouraged Armotists from across [[Incria]], especially [[Haiel people|Haiel]] facing persecution in Bershad and Armotists from [[Tehtíe]], to migrate to Yar-Firol and settle its interior.
 
 > *Main article: [[Buta genocide]]*
 
