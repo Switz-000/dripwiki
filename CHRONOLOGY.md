@@ -470,6 +470,10 @@ meta:
 - **End of tenure**: [[Suizo Soites]] leaves President of Susia at [[Susian Federal Government]]
 - **Founded**: [[Rally for National Salvation]] by [[Bejňar Keke]]
 
+## 1963
+
+- **Atrocity begins**: [[Buta genocide]]
+
 ## 1966
 
 - **Appointment**: [[Filevir Matri]] becomes Secretary of Justice at [[Susian Federal Government]], appointed by [[Serčev Fimžer]]
@@ -558,6 +562,7 @@ meta:
 ## 1981
 
 - **Appointment**: [[Chedji Soites]] becomes CEO of the Soites Group, appointed by [[Suizo Soites]]. *Assumed role upon Suizo's retirement from active management*
+- **Death**: [[Boe Nguan]] died in [[Bershad]] (Cardiac failure)
 - **Dissolved**: [[Confian Nation Party (1977)]]
 - **Document recorded**: [[Graduation yearbook]] (Graduation yearbook)
 - **End of tenure**: [[Suizo Soites]] leaves CEO of the Soites Group

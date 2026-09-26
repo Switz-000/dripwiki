@@ -1417,6 +1417,14 @@
    "country": "Incria"
   },
   {
+   "year": 1963,
+   "kind": "Atrocity begins",
+   "text": "[[Buta genocide]]",
+   "source": "Buta genocide",
+   "source_type": "atrocity",
+   "country": "Incria"
+  },
+  {
    "year": 1966,
    "kind": "Appointment",
    "text": "[[Filevir Matri]] becomes Secretary of Justice at [[Susian Federal Government]], appointed by [[Serčev Fimžer]]",
@@ -1799,6 +1807,14 @@
    "source": "",
    "source_type": "person",
    "election": "[[1980 Confian general election]]"
+  },
+  {
+   "year": 1981,
+   "kind": "Death",
+   "text": "[[Boe Nguan]] died in [[Bershad]] (Cardiac failure)",
+   "source": "Boe Nguan",
+   "source_type": "person",
+   "country": "Incria"
   },
   {
    "year": 1981,
@@ -3419,6 +3435,13 @@
    "lane": "institutions",
    "label": "Rally for National Salvation",
    "start": 1962,
+   "end": null,
+   "country": "Incria"
+  },
+  {
+   "lane": "events",
+   "label": "Buta genocide",
+   "start": 1963,
    "end": null,
    "country": "Incria"
   },
