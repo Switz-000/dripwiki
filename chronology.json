@@ -1386,6 +1386,14 @@
   },
   {
    "year": 1962,
+   "kind": "Dissolved",
+   "text": "[[United Independence Party]]",
+   "source": "United Independence Party",
+   "source_type": "organization",
+   "country": "Incria"
+  },
+  {
+   "year": 1962,
    "kind": "End of tenure",
    "text": "[[Ergagério Sienes]] leaves Vice President of Susia at [[Susian Federal Government]]",
    "source": "Ergagério Sienes",
@@ -4050,6 +4058,13 @@
    "start": 2077,
    "end": 2084,
    "country": "Susia"
+  },
+  {
+   "lane": "institutions",
+   "label": "United Independence Party",
+   "start": null,
+   "end": 1962,
+   "country": "Incria"
   }
  ]
 }
