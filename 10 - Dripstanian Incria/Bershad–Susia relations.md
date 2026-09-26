@@ -35,7 +35,7 @@ Between around 1980 and 1982 Susian public opinion turned toward intervention. T
 
 > *Main article: [[Bershadi Civil War#Susian intervention]]*
 
-From around 2000 Susia led a nation-building effort in Bershad in collaboration with its [[ODDN]] allies in Incria: [[Veskera]], [[Yar-Firol]] and [[Sekyo]]. It was framed as the rescue of the empire's own people. Its operational logic was Susia's rivalry with [[Ashgerad]], which made a resolution in Bershad geopolitically useful.
+From around 2000 Susia led a nation-building effort in Bershad in collaboration with its [[ODDN]] allies in Incria: [[Veskera]], [[Yar-Firol]] and [[Sekyo]]. It was framed as the rescue of the empire's own people.
 
 ## Since the intervention
 
@@ -57,7 +57,7 @@ Sorophine extracted from Bershad reaches the Susian pharmaceutical market throug
 
 - Title uses an en dash, following the Wikipedia convention for bilateral relations.
 - The consolidated draft's Frumentarze bullet lives here; [[Frumentarze]] has no dedicated article.
-- CONFLICT, not resolved: the consolidated draft gives the intervention's operational logic as "the Ashgeradi cold war", and has Ashgerad sponsoring Nguan against Susia from 1962. [[Susia]] (Tier 1) dates contact escalating into a cold war to after 2006. Written here as "rivalry with Ashgerad".
+- Ruling of 2026-09-26: the Susian rivalry with [[Ashgerad]] begins after 2006, per [[Susia]]. Ashgerad sponsored Nguan as a friendly regime for reasons other than Susia. The consolidated draft's claim that the Ashgeradi cold war was the intervention's operational logic is dropped. TODO: the intervention's operational logic.
 - TODO: details of the intervention and how it ended, including the [[War of Arempur]].
 - TODO: name and identity of the Wave 1 figure.
 - Susia's non-participation in degredo lives in [[Modern degredo]]. %%

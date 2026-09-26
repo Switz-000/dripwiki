@@ -21,11 +21,15 @@ major_cities:
   -
 continent: Incria
 borders_east:
+  - Sea
 borders_west:
   - "[[Ashgerad]]"
 borders_north:
+  - "[[Tehtíe]]"
+  - "[[Ashgerad]]"
 borders_south:
   - "[[Bershad]]"
+  - "[[Sekyo]]"
 era:
   - general-government
   - united-republics
@@ -43,11 +47,11 @@ meta:
   image: null
 ---
 
-**Yar-Firol** is a country in [[Incria]], bordering [[Bershad]] and [[Ashgerad]]. It inherited the capital, civil service and Armotist church infrastructure of the [[General Government of Incria]] and has been a one-party state under the [[Rally for National Salvation]] since 1962. The state carried out the [[Buta genocide]] from 1963, and its official prosperity is substantially funded by illicit extraction from Bershad laundered through state boards. It is the most influential outside actor in Bershadi affairs.
+**Yar-Firol** is a country in [[Incria]], bordering [[Tehtíe]], [[Ashgerad]], [[Bershad]] and [[Sekyo]]. It inherited the capital, civil service and Armotist church infrastructure of the [[General Government of Incria]] and has been a one-party state under the [[Rally for National Salvation]] since 1962. The state carried out the [[Buta genocide]] from 1963, and its official prosperity is substantially funded by illicit extraction from Bershad laundered through state boards. It is the most influential outside actor in Bershadi affairs.
 
 ## Geography
 
-Yar-Firol divides into a coastal zone and an interior. The coast is home to the [[Sanye people|Sanye]], [[Bokta people|Bokta]] and Dripstanian populations. The interior was historically the [[Buta people|Buta]] zone and was settled after independence by Armotist migrants from elsewhere in Incria. Yar-Firol borders Ashgerad directly to the west.
+Yar-Firol borders [[Tehtíe]] to the northeast, [[Ashgerad]] from the northwest to the west, Bershad to the south and Sekyo along a short border in the southeast, with the sea to the east. It divides into a coastal zone and an interior. The coast is home to the [[Sanye people|Sanye]], [[Bokta people|Bokta]] and Dripstanian populations. The interior was historically the [[Buta people|Buta]] zone and was settled after independence by Armotist migrants from elsewhere in Incria.
 
 ## History
 
@@ -63,7 +67,7 @@ Yar-Firol inherited the capital, the civil service and the Armotist church infra
 
 > *Main article: [[Bejňar Keke]]*
 
-Keke encouraged Armotists from across Incria to migrate to Yar-Firol and settle the interior, especially [[Haiel people|Haiel]] facing persecution in Bershad and in [[Tehtíe]]. The settlers have developed a distinct mixed culture of their own.
+Keke encouraged Armotists from across Incria to migrate to Yar-Firol and settle the interior, especially [[Haiel people|Haiel]] facing persecution in Bershad and Armotists from [[Tehtíe]]. The settlers have developed a distinct mixed culture of their own.
 
 > *Main article: [[Buta genocide]]*
 
@@ -131,9 +135,9 @@ The Armotist settlers of the interior, drawn from across Incria, have developed 
 
 - Figures in the composition table and the economy table are working figures from CONSOLIDATED DRAFT (2026-09-26).
 - The post-genocide composition gives only Buta about 30% and "coastal coalition 65%+". SESSION CANON (2026-09-26) adds the interior settlers, who are not coastal; the split of the remaining 65% or more between coastal groups and settlers is not established.
-- SESSION CANON (2026-09-26): before independence Dripstanians concentrated in the cities and on the coast; after independence Keke encouraged Armotists from across Incria, especially Haiel persecuted in Bershad and in Tehtíe, to settle the interior; the settlers develop their own mixed culture. Not yet in a consolidated draft. Whether "in Tehtíe" refers to Haiel living there or to Armotists generally is unconfirmed.
+- SESSION CANON (2026-09-26): before independence Dripstanians concentrated in the cities and on the coast; after independence Keke encouraged Armotists from across Incria, especially Haiel persecuted in Bershad and in Tehtíe, to settle the interior; the settlers develop their own mixed culture. Not yet in a consolidated draft. Clarified 2026-09-26: Armotists from Tehtíe, not Haiel living there.
 - The retired sentence in [[Cultures of Bershad]] placing Yar-Firolian Dripstanians in the interior is superseded by the above.
-- borders_south: the 1950 census places the Buta in Bershad's northwest, bordering Yar-Firol, so Bershad lies to Yar-Firol's south or southeast. Direction is an inference.
+- Borders set by the author on 2026-09-26. The eastern sea is unnamed.
 - Independence date not recorded. Keke's accession in 1962 is taken as the start of the Rally state. Membership in the [[United Republics of East Incria]] (1954 to 1962) is an inference; see the note in YAML and Tags.
 - TODO: name of the capital (former GGI seat), the main port, the signature cash crop, Keke's successor, and the founding-era crisis of 1959 to 1961 that licensed the regime's anti-Buta nationalism.
 - TODO: when Yar-Firol moved from recognizing the northern coalition to sanctioning the Western Coalition Zone.

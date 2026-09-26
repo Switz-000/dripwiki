@@ -19,12 +19,15 @@ major_cities:
   - "[[Hertpatt]]"
 continent: Incria
 borders_east:
+  - "[[Sekyo]]"
   - "[[Yarteroy]]"
 borders_west:
+  - Sea
 borders_north:
   - "[[Yar-Firol]]"
-  - "[[Sekyo]]"
+  - "[[Ashgerad]]"
 borders_south:
+  - Sea
 era:
   - general-government
   - dissolution
@@ -47,6 +50,8 @@ meta:
 **Bershad** is a country in [[Incria]], formerly part of the [[General Government of Incria]]. It became independent in 1962 and was ruled by the [[Nguan regime]] until the state collapsed in 1973. Since the [[Bershadi Civil War]] it has been partitioned between two governments, neither of them sovereign. Between 1962 and the 2020s an estimated six to ten million Bershadis died.
 
 ## Geography
+
+Bershad borders [[Yar-Firol]] to the north, [[Sekyo]] and [[Yarteroy]] to the east, and [[Ashgerad]] along a short border in the northwest. The sea lies to the south, west and southeast.
 
 > *Main article: [[Cultures of Bershad]]*
 
@@ -127,6 +132,6 @@ The population was probably 35 to 40 million before the Nguan regime and around 
 - Who deposed Zambar in 1962 is not recorded.
 - The retired Politics article says almost all colonies voted to remain in 1950, "the empire is going to collapse either way". Kept as the vote result only.
 - Population and death figures are working figures from CONSOLIDATED DRAFT (2026-09-26).
-- Borders inferred from the 1950 census distribution: Yar-Firol and Sekyo to the north (Buta northwest, Xaya northeast), Yarteroy to the east (Baya east coast).
+- Borders set by the author on 2026-09-26. The seas are unnamed.
 - TODO: the southern government's territorial control in the 2080s (as of the 2020s: a capital and two ports); the capital is unnamed; the northern government's later history.
 - Links to pages that do not yet exist: [[United Republics of East Incria]], [[Umbata Zambar]], [[United Independence Party]], [[Yarteroy]], [[Veskera]]. %%
