@@ -11,14 +11,14 @@
             "id": "96473f9572ecd71d",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/app.json",
-                "bFile": ".obsidian/app.json",
-                "aRef": ""
+                "file": "00 - Meta/Suizo's Artistic Bible/1 - The non-negotiables.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: app.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "1 - The non-negotiables"
             }
           },
           {
@@ -215,6 +215,9 @@
   },
   "active": "96473f9572ecd71d",
   "lastOpenFiles": [
+    "00 - Meta/Suizo's Artistic Bible/3 - Reading characters and institutions.md",
+    "00 - Meta/Suizo's Artistic Bible/2 - Themes and tendencies.md",
+    "00 - Meta/Suizo's Artistic Bible/1 - The non-negotiables.md",
     "CHRONOLOGY.md",
     "Biology/Animals/Comparison of bovine animals.md",
     "dripwiki/Welcome.md",
@@ -238,9 +241,6 @@
     "01 - Susia/06 - People/Yavna Raroska.md",
     "01 - Susia/06 - People/Zagoste Paroska.md",
     "01 - Susia/06 - People/Venvek Rashera.md",
-    "01 - Susia/06 - People/Kaichet Satratonie.md",
-    "01 - Susia/06 - People/Filevir Gatojete.md",
-    "01 - Susia/06 - People/Ergagério Sienes.md",
     "01 - Susia/07 - Organizations/Universities",
     "01 - Susia/06 - People/Soites/Soites Family chart.canvas"
   ]
