@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Meta/Suizo's Artistic Bible/1 - The non-negotiables.md",
+                "file": "00 - Meta/Suizo's Artistic Bible/4 - Global facts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - The non-negotiables"
+              "title": "4 - Global facts"
             }
           },
           {
@@ -218,6 +218,7 @@
     "00 - Meta/Suizo's Artistic Bible/3 - Reading characters and institutions.md",
     "00 - Meta/Suizo's Artistic Bible/2 - Themes and tendencies.md",
     "00 - Meta/Suizo's Artistic Bible/1 - The non-negotiables.md",
+    "00 - Meta/Suizo's Artistic Bible/4 - Global facts.md",
     "CHRONOLOGY.md",
     "Biology/Animals/Comparison of bovine animals.md",
     "dripwiki/Welcome.md",
@@ -240,7 +241,6 @@
     "01 - Susia/06 - People/Yário Kolkov.md",
     "01 - Susia/06 - People/Yavna Raroska.md",
     "01 - Susia/06 - People/Zagoste Paroska.md",
-    "01 - Susia/06 - People/Venvek Rashera.md",
     "01 - Susia/07 - Organizations/Universities",
     "01 - Susia/06 - People/Soites/Soites Family chart.canvas"
   ]
