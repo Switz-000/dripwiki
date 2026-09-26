@@ -1,12 +1,12 @@
 ---
 type: city
-summary:
+summary: City in Bershad, predominantly Yokno with a large Buta diaspora.
 aliases:
   -
 era:
-  -
+  - contemporary
 tags:
-  -
+  - society/urbanism
 meta:
   stub: true
   verified: false

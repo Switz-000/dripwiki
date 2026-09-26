@@ -1,10 +1,15 @@
 ---
 type: index
-summary:
+summary: List of the governors and heads of government of Sekyo from the Yerpos-Kelej Company charter of 1831 to the United Republic of Sekyo.
 aliases:
   -
 era:
-  -
+  - company-rule
+  - dominion-of-sekyo
+  - sekyan-free-state
+  - sekyan-provisional-government
+  - state-of-sekyo
+  - united-republic-of-sekyo
 tags:
   - politics/governance
   - land/colonial
@@ -105,4 +110,4 @@ Fifteen governments held office in 792 days. Four of them were co-governments, t
 - [[J. Kelej]] shares a surname with [[Trǎchet Kelej]], Company governor 1836-1841. Not established whether they are the same family.
 - [[Teltev Zumir]], [[P. Ugbade]], [[C. Pegdar]] and [[J. Kelej]] have no articles.
 - Governor-General names for the Dominion of Sekyo remain unfilled, as do the names of every leader from 1954 onward except the four above.
-- The era field is empty. %%
+- era filled 2026-09-26 from the Incria era vocabulary. %%

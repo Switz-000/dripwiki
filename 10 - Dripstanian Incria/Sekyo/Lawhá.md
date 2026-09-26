@@ -1,10 +1,11 @@
 ---
 type: region
-summary:
+summary: Mainland coastal strip of Sekyo south and west of Yerpos, a Xaya-majority plantation and logging belt holding roughly 70% of the population without proportionate political weight.
 aliases:
   -
 era:
-  -
+  - dominion-of-sekyo
+  - united-republic-of-sekyo
 tags:
   - land/colonial
   - economy/agriculture

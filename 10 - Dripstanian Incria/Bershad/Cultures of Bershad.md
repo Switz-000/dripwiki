@@ -18,19 +18,19 @@ meta:
 
 The last census was conducted in 1950 by the [[General Government of Incria]] during [[Dripstanian Empire|imperial]] rule over the country. No census has been conducted since the purge of the country's economists and accountants in 1968, under the [[Nguan regime]].
 
-| Name | % of total population | Distribution | Religion | Dripstanian contact |
-| ------------------- | --------------------- | -------------------------------------------------------- | ------------------------- | -------------------------------------------- |
-| [[Yokno people|Yokno]] | 25% | Central interior. | 70% Armotist, 30% Pagan | Settlement, extraction and quotas. |
-| [[Haiel people|Haiel]] | 23% | Dominant in the south coast and the islands | 95% Armotist | Trade, Conversion, Integration, Miscegenation |
-| [[Parund people|Parund]] | 11% | Western seaboard | 82% Pagan | Tri |
-| [[Mtole people|Mtole]] | 8% | Southwestern, mostly inland | 77% Pagan | Settlement, extraction and quotas. |
-| [[Daiko people|Daiko]] | 7% | Northwestern, inland | 92% Pagan |  |
-| [[Xaya people|Xaya]] | 5% | Northeastern, inland, border with [[Sekyo]] | 73% Pagan | Settlement, extraction and quotas. |
-| [[Buta people|Buta]] | 5% | Northwest, inland, border with [[Yar-Firol]] | 52% Pagan<br>31% Armotist | Settlement, colonization and quotas. |
-| [[Kadus people|Kadus]] | 3% | Western, inland, ethnic enclave | 98% Pagan | None |
-| Dripstanian & Mixed | 3% | Major cities along the coast | 99% Armotist |  |
-| [[Baya people|Baya]] | 2% | Eastern coast, Small spillover, border with [[Yarteroy]] | 74% Armotist<br>8% Pagan | Trade, Conversion, Integration, Miscegenation |
-| Others | 8% | Other ethnicities, especially in the west. |  |  |
+| Name                | % of total population | Distribution                               | Religion                                                 | Dripstanian contact       |                                               |
+| ------------------- | --------------------- | ------------------------------------------ | -------------------------------------------------------- | ------------------------- | --------------------------------------------- |
+| [[Yokno people      | Yokno]]               | 25%                                        | Central interior.                                        | 70% Armotist, 30% Pagan   | Settlement, extraction and quotas.            |
+| [[Haiel people      | Haiel]]               | 23%                                        | Dominant in the south coast and the islands              | 95% Armotist              | Trade, Conversion, Integration, Miscegenation |
+| [[Parund people     | Parund]]              | 11%                                        | Western seaboard                                         | 82% Pagan                 | Tri                                           |
+| [[Mtole people      | Mtole]]               | 8%                                         | Southwestern, mostly inland                              | 77% Pagan                 | Settlement, extraction and quotas.            |
+| [[Daiko people      | Daiko]]               | 7%                                         | Northwestern, inland                                     | 92% Pagan                 |                                               |
+| [[Xaya people       | Xaya]]                | 5%                                         | Northeastern, inland, border with [[Sekyo]]              | 73% Pagan                 | Settlement, extraction and quotas.            |
+| [[Buta people       | Buta]]                | 5%                                         | Northwest, inland, border with [[Yar-Firol]]             | 52% Pagan<br>31% Armotist | Settlement, colonization and quotas.          |
+| [[Kadus people      | Kadus]]               | 3%                                         | Western, inland, ethnic enclave                          | 98% Pagan                 | None                                          |
+| Dripstanian & Mixed | 3%                    | Major cities along the coast               | 99% Armotist                                             |                           |                                               |
+| [[Baya people       | Baya]]                | 2%                                         | Eastern coast, Small spillover, border with [[Yarteroy]] | 74% Armotist<br>8% Pagan  | Trade, Conversion, Integration, Miscegenation |
+| Others              | 8%                    | Other ethnicities, especially in the west. |                                                          |                           |                                               |
 
 Dripstanians in Bershad live in the urban centers alongside people of mixed descent; the native peoples live in the interior.
 
