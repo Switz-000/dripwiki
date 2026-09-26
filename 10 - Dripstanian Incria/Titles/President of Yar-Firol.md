@@ -1,13 +1,14 @@
 ---
 type: title
-summary:
+summary: Head of state of Yar-Firol since 1962, held by the Rally for National Salvation throughout.
 aliases:
   -
 era:
-  -
+  - rally-state
+  - keke-era
 tags:
-  -
-institution:
+  - politics/governance
+institution: "[[Yar-Firol]]"
 max_holders: 1
 numbered: true
 meta:

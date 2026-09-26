@@ -101,7 +101,7 @@ tags:
   - politics/nationalism
   - society/race
 meta:
-  stub: false
+  stub: true
   verified: false
   image:
 ---
@@ -140,6 +140,6 @@ Keke was dignified in public and mythologized in life, and was granted a state f
 %% FLAGS:
 
 - TODO: how his rule ended in 1989, death or retirement. The state funeral does not settle this.
-- Birth and death details are not recorded.
+- Birth and death details are not recorded; `birth` is Required, so the article remains a stub.
 - SESSION CANON (2026-09-26): the settlement policy for the interior. Not yet in a consolidated draft.
 - The consolidated draft places his origin in "the inherited GGI civil service or technical-administrative class"; written as one class. %%
