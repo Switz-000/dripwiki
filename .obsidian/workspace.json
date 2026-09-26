@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 - Dripstanian Incria/Bershad/Politics.md",
+                "file": "00 - Meta/Session Reports/2026-06-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Politics"
+              "title": "2026-06-22"
             }
           },
           {
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bokta",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +108,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -230,10 +231,10 @@
   },
   "active": "2ca72f954cf7b346",
   "lastOpenFiles": [
+    "10 - Dripstanian Incria/Bershad/Politics.md",
     "10 - Dripstanian Incria/Bershad/San'motko.md",
     "10 - Dripstanian Incria/Bershad/Hertpatt.md",
     "10 - Dripstanian Incria/Bershad/Cultures of Bershad.md",
-    "10 - Dripstanian Incria/Bershad/Politics.md",
     "00 - Meta/Suizo's Artistic Bible/4 - Global facts.md",
     "00 - Meta/Style Guide.md",
     "00 - Meta/Titles.md",
