@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bokta",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,8 +108,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -229,7 +228,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ca72f954cf7b346",
+  "active": "2c8bfdfa82ed5652",
   "lastOpenFiles": [
     "10 - Dripstanian Incria/Bershad/Politics.md",
     "10 - Dripstanian Incria/Bershad/San'motko.md",
