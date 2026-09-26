@@ -465,6 +465,7 @@ meta:
 - **Appointment**: [[Bejňar Keke]] becomes President of Yar-Firol
 - **Appointment**: [[Filevir Matri]] becomes Senator for Postia at [[Susian Senate]]
 - **Appointment**: [[Serčev Fimžer]] becomes President of Susia at [[Susian Federal Government]]
+- **Dissolved**: [[United Independence Party]]
 - **End of tenure**: [[Ergagério Sienes]] leaves Vice President of Susia at [[Susian Federal Government]]
 - **End of tenure**: [[Filevir Matri]] leaves Governor of Postia
 - **End of tenure**: [[Suizo Soites]] leaves President of Susia at [[Susian Federal Government]]
