@@ -2137,6 +2137,14 @@
    "country": "Susia"
   },
   {
+   "year": 1990,
+   "kind": "War begins",
+   "text": "[[Bershadi Civil War]]",
+   "source": "Bershadi Civil War",
+   "source_type": "war",
+   "country": "Incria"
+  },
+  {
    "year": 1991,
    "kind": "Founded",
    "text": "[[PSP]] by [[Confian National Government]] and [[Katerina Armoljubca Nožeslawna|KAN]] in [[Imgospalje]]",
@@ -2543,6 +2551,14 @@
    "source": "Senjap Kunsekowić",
    "source_type": "person",
    "country": "Confia"
+  },
+  {
+   "year": 2012,
+   "kind": "War ends",
+   "text": "[[Bershadi Civil War]]",
+   "source": "Bershadi Civil War",
+   "source_type": "war",
+   "country": "Incria"
   },
   {
    "year": 2013,
@@ -3782,6 +3798,13 @@
    "title": "Confian Prime Minister",
    "display": "President of the Council of Commissars of the United Syndicates of Confia",
    "holder": "Katerina Armoljubca Nožeslawna"
+  },
+  {
+   "lane": "events",
+   "label": "Bershadi Civil War",
+   "start": 1990,
+   "end": 2012,
+   "country": "Incria"
   },
   {
    "lane": "institutions",
