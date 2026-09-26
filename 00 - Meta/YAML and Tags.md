@@ -235,6 +235,55 @@ social-republic           2009–present, begins 01/01/2009
 > and safe to use. Treat the **dates** as provisional until this note is
 > removed.
 
+### Incria
+
+Covers the former Dripstanian colonies of Incria. Slugs marked *(shared)* are
+the same slugs as in the Susian list and mean the same span; use them as they
+are. `united-republics` is shared between Bershad and Yar-Firol.
+
+```
+Incria (shared)
+pre-colonial                before imperial contact
+company-rule                1831–1843, Yerpos-Kelej charter (Sekyo)
+imperial-era                (shared)
+    late-imperial           (shared) 1837–1954
+        general-government  ?–1954, GGI under Jartes II onward
+        dissolution         (shared) 1950–1954, Gatojete referendum
+global-cold-war             (shared) 2006–present
+contemporary                (shared) 2070s–2090s
+
+Bershad
+united-republics            1954–1962, United Republics of East Incria
+nguan-regime                1962–1973, program and panic
+warlord-period              1973–1990, collapse, zone equilibrium
+bershadi-civil-war          1990–2012
+bershadi-partition          2012–present
+
+Yar-Firol
+united-republics            (shared with Bershad) 1954–1962
+rally-state                 1962–present
+    keke-era                1962–1989
+
+Sekyo
+dominion-of-sekyo           1843–1954
+sekyan-free-state           1954–1976
+sekyan-provisional-government  1976–1978
+state-of-sekyo              1978–1985
+united-republic-of-sekyo    1985–present
+```
+
+> **Some Incrian dates are provisional.** The 2012 boundary between
+> `bershadi-civil-war` and `bershadi-partition` is inferred from the [[War of Arempur]]
+> (2012); the link between that war and the freezing of the
+> partition is not yet canon. `united-republics` rests on the retired Bershad
+> politics article and on Yar-Firol's inheritance of the GGI apparatus; Yar-Firol's
+> membership is an inference. The start year of `general-government` is not
+> recorded. The `state-of-sekyo` / `united-republic-of-sekyo` boundary takes the
+> 1985 proclamation date, pending the 1984 overlap flagged in [[List of Sekyan leaders]].
+> Veskera, Ashgerad and Pajanpar have no period vocabulary yet.
+> The **slugs** are safe to use; treat these **dates** as provisional until
+> this note is removed.
+
 ---
 
 ## 5. `tags` — what subject area the article belongs to
@@ -603,6 +652,11 @@ Remove these on sight when editing any file.
 
 Newest first. If you have not written for the vault since a date below, the
 entries above it are what changed under you.
+
+**2026-09-26**
+- Added an Incria era vocabulary in section 4: shared imperial slugs, then
+  Bershad, Yar-Firol and Sekyo. Several of its dates are flagged as
+  provisional.
 
 **2026-08-26**
 - Tags rebuilt as a two-tier vocabulary: eight parents, forty leaves, written
