@@ -37,7 +37,10 @@ ERAS = set("""pre-colonial settlement imperial-era early-imperial high-imperial 
 late-imperial liberal-revolts dissolution republican-era continental-divide continental-war
 post-war new-age great-transition global-cold-war techno-federative-era enhancement-era
 contemporary aiding-state home-rule secession-war state-of-confia confian-anarchy
-united-syndicates paulowic-regime syndicalist-republic social-republic""".split())
+united-syndicates paulowic-regime syndicalist-republic social-republic
+company-rule general-government united-republics nguan-regime warlord-period bershadi-civil-war
+bershadi-partition rally-state keke-era dominion-of-sekyo sekyan-free-state
+sekyan-provisional-government state-of-sekyo united-republic-of-sekyo""".split())
 
 TAG_TREE = {
  "politics":  "governance elections dissent monarchy revolution nationalism law diplomacy".split(),

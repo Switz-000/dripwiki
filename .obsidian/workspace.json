@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ryо̄žža",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,8 +108,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -229,8 +228,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "15ca59748f6fb36e",
+  "active": "2c8bfdfa82ed5652",
   "lastOpenFiles": [
+    "10 - Dripstanian Incria/Bershad/Cannibalism in Bershad.md",
     "00 - Meta/Session Reports/2026-06-22.md",
     "00 - Meta/Session Reports/2026-06-23.md",
     "00 - Meta/Session Reports/2026-06-26.md",
@@ -257,7 +257,6 @@
     "dripwiki/Welcome.md",
     "01 - Susia/00 - Index & Maps/List of susian universities.md",
     "00 - Meta/Templates/University Template.md",
-    "01 - Susia/07 - Organizations/Universities/Imperial College of Duolij.md",
     "01 - Susia/07 - Organizations/Universities",
     "01 - Susia/06 - People/Soites/Soites Family chart.canvas"
   ]
