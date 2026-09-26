@@ -18,7 +18,7 @@ meta:
   image: null
 ---
 
-**Cannibalism in Bershad** refers to institutionalized cannibalism among five of the peoples of [[Bershad]]: the [[Parund]], [[Mtole]], [[Daiko]], [[Xaya]] and [[Baya]]. The five practices differ in who is eaten, for what purpose and in what form. The Baya practice ended with their conversion to [[Armotism]]. The Parund, Mtole and Daiko practices continue in the [[Western Coalition Zone]].
+**Cannibalism in Bershad** refers to institutionalized cannibalism among five of the peoples of [[Bershad]]: the [[Parund people|Parund]], [[Mtole people|Mtole]], [[Daiko people|Daiko]], [[Xaya people|Xaya]] and [[Baya people|Baya]]. The five practices differ in who is eaten, for what purpose and in what form. The Baya practice ended with their conversion to [[Armotism]]. The Parund, Mtole and Daiko practices continue in the [[Western Coalition Zone]].
 
 The term covers cannibalism accepted by the culture in which it occurs. It excludes acts committed under starvation for immediate survival and acts by isolated individuals regarded as criminal by their own society.
 
@@ -26,7 +26,7 @@ The term covers cannibalism accepted by the culture in which it occurs. It exclu
 
 The practices predate Dripstanian contact. Parund predation in particular is a pre-Dripstanian ideology of Parund supremacy.
 
-According to a Dripstanian colonial account, the Parund, who live along the coast, and the Mtole, whose territory runs from a coastal section deep into the interior, were better fed than the peoples of the interior and often physically larger and stronger. The account states that they "raided inland 'bush' people with impunity and little care", primarily the [[Kadus]], Daiko and [[Yokno]], all of them inland peoples, and that they hunted people for food even when game was plentiful.
+According to a Dripstanian colonial account, the Parund, who live along the coast, and the Mtole, whose territory runs from a coastal section deep into the interior, were better fed than the peoples of the interior and often physically larger and stronger. The account states that they "raided inland 'bush' people with impunity and little care", primarily the [[Kadus people|Kadus]], Daiko and [[Yokno people|Yokno]], all of them inland peoples, and that they hunted people for food even when game was plentiful.
 
 ## Terminology
 
@@ -97,9 +97,9 @@ In the [[Western Coalition Zone]], the Parund, Mtole and Daiko each continue the
 - Moved from [[Cultures of Bershad]]: the terminology, the typology table, the Daiko material, the Mt'yorsur legend, the Dripstanian raiding account and the reporter interview. Cultures of Bershad now summarizes and links.
 - Per CONSOLIDATED DRAFT (2026-09-26): gastronomic column added (the Mtole "As normal food" row was the unlabeled gastronomic case); ritualistic definition completed; Parund, Mtole, Xaya and Baya descriptions.
 - SESSION CANON (2026-09-26): the Parund keep to the coast; Mtole territory runs from a coastal section deep into the interior; the Daiko, Kadus and Yokno are inland. Resolves the apparent conflict between the raiding account and the 1950 census ("southwestern, mostly inland").
-- The Dripstanian raiding account is unattributed. %% TODO: author and date of the account %%
+- The Dripstanian raiding account is unattributed. TODO: author and date of the account.
 - The reporter interview is dated in the vault only as "the Bershadian civil war"; tagged bershadi-civil-war (1990 to 2012). The reporter is unnamed. Whether this is the Susian photojournalist in the consolidated draft's TODO is not established.
 - Xaya "rite of passing" (old table) read as funerary, per the consolidated draft.
 - The temple conversions are summarized here; the fact lives in [[Nguan regime]].
-- People links use the bare form ([[Parund]]), following [[Yokno]]. [[Bejňar Keke]] uses [[Sanye People]]; the convention is unsettled. Buta linked as [[Buta people]] per the carving plan.
-- Links to pages that do not yet exist: [[Western Coalition Zone]], [[Nguan regime]], [[Bershadi Civil War]], [[Buta people]], [[Parund]], [[Mtole]], [[Daiko]], [[Xaya]], [[Baya]], [[Kadus]], [[Mt'yorsur]]. %%
+- People links follow the "X people" convention of [[Hertpatt]] ([[Parund people|Parund]]).
+- Links to pages that do not yet exist: [[Western Coalition Zone]], [[Nguan regime]], [[Bershadi Civil War]], [[Buta people]], [[Parund people]], [[Mtole people]], [[Daiko people]], [[Xaya people]], [[Baya people]], [[Kadus people]], [[Mt'yorsur]]. %%
