@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Ryо̄žža",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +108,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -228,7 +229,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ca72f954cf7b346",
+  "active": "15ca59748f6fb36e",
   "lastOpenFiles": [
     "00 - Meta/Session Reports/2026-06-22.md",
     "00 - Meta/Session Reports/2026-06-23.md",
