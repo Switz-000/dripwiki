@@ -65,11 +65,9 @@ Bershad was governed as part of the General Government of Incria. In 1950 [[File
 
 ### United Republics (1954 to 1962)
 
-In 1954 the General Government was reformed into the [[United Republics of East Incria]]. The constitution restricted the vote to property owners, excluding most rural native peoples from government.
+> *Main article: [[United Republics of East Incria]]*
 
-The Armotist, wealthier and more integrated peoples, the [[Sanye people|Sanye]], Baya, Haiel, Yokno, [[Bokta people|Bokta]] and Dripstanians, supported the government. The Parund, [[Daiko people|Daiko]], [[Kadus people|Kadus]], [[Mtole people|Mtole]], Xaya and Buta, who were more isolated, pagan and poorer, opposed it.
-
-[[Umbata Zambar]], a Sanye Armotist, led the republic from 1955 to 1962. He promoted a one-party system, arguing that multiparty democracy would fragment the republic along ethnic lines, and founded the [[United Independence Party]]. He was deposed in a coup in 1962, the republic was dissolved, and Bershad became independent.
+In 1954 the General Government was reformed into the United Republics of East Incria, with a franchise restricted to property owners. [[Umbata Zambar]] led the republic from 1955 until a coup in 1962 dissolved it, and Bershad became independent.
 
 ### Nguan regime (1962 to 1973)
 
@@ -127,11 +125,11 @@ The population was probably 35 to 40 million before the Nguan regime and around 
 
 %% FLAGS:
 
-- Imperial-era, United Republics and Zambar content carried over from the retired Politics article (Tier 1). The consolidated draft does not contradict it. The Politics article is retired on the author's ruling of 2026-09-26.
+- Imperial-era content carried over from the retired Politics article (Tier 1); the United Republics and Zambar content now lives in [[United Republics of East Incria]] and [[Umbata Zambar]]. The consolidated draft does not contradict it. The Politics article is retired on the author's ruling of 2026-09-26.
 - Zambar's title and the office he held are not recorded; no title article created.
 - Who deposed Zambar in 1962 is not recorded.
 - The retired Politics article says almost all colonies voted to remain in 1950, "the empire is going to collapse either way". Kept as the vote result only.
 - Population and death figures are working figures from CONSOLIDATED DRAFT (2026-09-26).
 - Borders set by the author on 2026-09-26. The seas are unnamed.
 - TODO: the southern government's territorial control in the 2080s (as of the 2020s: a capital and two ports); the capital is unnamed; the northern government's later history.
-- Links to pages that do not yet exist: [[United Republics of East Incria]], [[Umbata Zambar]], [[United Independence Party]], [[Yarteroy]], [[Veskera]]. %%
+- Links to pages that do not yet exist: [[Yarteroy]]. %%
