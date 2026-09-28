@@ -598,8 +598,8 @@ meta:
 - **Founded**: [[Armotist Democratic Party]] by [[Boris Serec]]
 - **Founded**: [[Făzmelj]] in [[Neoveli]]
 - **Founded**: [[Movement for Syndicalist Renovation]] by [[Mariana Torres]] and [[Genrih Maskernie]]
-- **Regency begins**: [[Confian Prime Minister]] ([['Genrih Maskernie']]). *Interim government*
-- **Regency ends**: [[Confian Prime Minister]] ([['Genrih Maskernie']])
+- **Regency begins**: [[Confian Prime Minister]] ([[Genrih Maskernie]]). *Interim government*
+- **Regency ends**: [[Confian Prime Minister]] ([[Genrih Maskernie]])
 
 ## 1981
 

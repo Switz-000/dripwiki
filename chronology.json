@@ -1923,7 +1923,7 @@
   {
    "year": 1980,
    "kind": "Regency begins",
-   "text": "[[Confian Prime Minister]] ([['Genrih Maskernie']]). *Interim government*",
+   "text": "[[Confian Prime Minister]] ([[Genrih Maskernie]]). *Interim government*",
    "source": "",
    "source_type": "title",
    "country": "Confia"
@@ -1931,7 +1931,7 @@
   {
    "year": 1980,
    "kind": "Regency ends",
-   "text": "[[Confian Prime Minister]] ([['Genrih Maskernie']])",
+   "text": "[[Confian Prime Minister]] ([[Genrih Maskernie]])",
    "source": "",
    "source_type": "title",
    "country": "Confia"
@@ -3927,7 +3927,7 @@
   },
   {
    "lane": "titles",
-   "label": "[['Genrih Maskernie']]",
+   "label": "[[Genrih Maskernie]]",
    "start": 1980,
    "end": 1980,
    "title": "Confian Prime Minister",
