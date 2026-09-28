@@ -69,16 +69,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Confia/06 - People/Katerina Armoljubca Nožeslawna.md",
+                "file": "02 - Confia/06 - People/Japlen Razol.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Katerina Armoljubca Nožeslawna"
+              "title": "Japlen Razol"
+            }
+          },
+          {
+            "id": "fd00f8ca7f84b5f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Confia/06 - People/Noljež Teššan.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Noljež Teššan"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -256,10 +270,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b0eee2be3a4322f",
+  "active": "fd00f8ca7f84b5f8",
   "lastOpenFiles": [
-    "02 - Confia/06 - People/Boris Serec.md",
     "02 - Confia/06 - People/Japlen Razol.md",
+    "02 - Confia/06 - People/Katerina Armoljubca Nožeslawna.md",
+    "02 - Confia/06 - People/Boris Serec.md",
     "01 - Susia/03 - Companies/Companies/Gražer-Moiyin.md",
     "01 - Susia/03 - Companies/Products/Soites Experimenter Program.md",
     "01 - Susia/03 - Companies/Products/Lizne.md",
@@ -286,7 +301,6 @@
     "10 - Dripstanian Incria/Bershad/Western Coalition Zone.md",
     "10 - Dripstanian Incria/Bershad/Politics.md",
     "10 - Dripstanian Incria/Bershad/Nguan regime.md",
-    "10 - Dripstanian Incria/Bershad/Cultures of Bershad.md",
     "00 - Meta/Consolidated Drafts",
     "01 - Susia/07 - Organizations/Universities",
     "01 - Susia/06 - People/Soites/Soites Family chart.canvas"

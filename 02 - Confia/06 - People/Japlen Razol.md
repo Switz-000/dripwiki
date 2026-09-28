@@ -159,6 +159,6 @@ portrait:
     frames: "#5b4900"
     outfit: "#ffffff"
     suit: "#131010"
-    shirt: "#ceedf4"
-    tie: "#ed1c24"
+    shirt: "#ebebeb"
+    tie: "#00a2e8"
 ---

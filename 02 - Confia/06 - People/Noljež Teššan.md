@@ -133,4 +133,30 @@ meta:
   stub: true
   verified: false
   image: null
+
+portrait:
+  eyes: dot
+  eyeliner: none
+  brows: arched
+  nose: hook
+  mouth: smile
+  hair: crown
+  facial: []
+  eyewear: none
+  outfit: suit
+  extras: [forehead]
+  shape:
+    headW: 0.92
+    headH: 0.93
+    bodyW: 1.30
+    bodyH: 1.00
+  palette:
+    skin: "#ffffff"
+    hair: "#4d1100"
+    facial: "#6b4a2e"
+    frames: "#41230a"
+    outfit: "#ffffff"
+    suit: "#131010"
+    shirt: "#ebebeb"
+    tie: "#ed1c24"
 ---
