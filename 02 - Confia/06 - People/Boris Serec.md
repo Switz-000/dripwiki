@@ -178,6 +178,32 @@ meta:
   stub: true
   verified: false
   image:
+
+portrait:
+  eyes: dot
+  eyeliner: none
+  brows: wavy
+  nose: slope
+  mouth: smile
+  hair: quiff
+  facial: []
+  eyewear: none
+  outfit: suit
+  extras: []
+  shape:
+    headW: 0.94
+    headH: 0.97
+    bodyW: 1.00
+    bodyH: 1.00
+  palette:
+    skin: "#ffffff"
+    hair: "#bd8530"
+    facial: "#bd8530"
+    frames: "#41230a"
+    outfit: "#ffffff"
+    suit: "#09135e"
+    shirt: "#ceedf4"
+    tie: "#ed1c24"
 ---
 
 %%
