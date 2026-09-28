@@ -1,14 +1,14 @@
 ---
 # ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
-native_name: Japlen Baljueewic Razol
+native_name:
 lusitanized_name:
 aliases:
-  - Razol
+  - Aljerni
 summary:
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
-sex: Male
+sex:
 ethnicity:
 religion:
 citizenship:
@@ -44,6 +44,12 @@ education:
     year:
   -
 
+# ── CAREER ──────────────────────────────────────────────────────────────────
+occupation:
+  - title:
+    start_year:
+    end_year:
+
 military_service:
   - allegiance:
     branch:
@@ -57,11 +63,9 @@ military_service:
 political_alignment:
   -
 
-party: "[[Confian Democratic Party|Confian Democratic Party (2000 - present)]]"        # principal partido, ou partido atual
+party: "[[Liberty! with Kunsek Aljerni]]"        # principal partido, ou partido atual
 parties:                                        # partidos que ela ja pertenceu
-  - "[[Confian Democratic Party|Confian Democratic Party (2000 - present)]]"
-  - "[[Armotist Democratic Party|Armotist Democratic Party (1982 - 2000)]]"
-  - "[[Confian Liberal Party|Confian Liberal Party (1977 - 1982)]]"
+  - "[[Liberty! with Kunsek Aljerni]]"
 
 organizations:
   -
@@ -69,19 +73,12 @@ organizations:
 # ── TITLES AND ROLES ────────────────────────────────────────────────────────
 titles:
   - title: "[[Confian President]]"
-    start_year: 2037
-    end_year: 2038
+    start_year: 2036
+    end_year: 2037
     appointer:
     parties:
-      -
-    notes: Took office as speaker of the National Assembly
-  - title: "[[Confian Prime Minister]]"
-    start_year: 1986
-    end_year: 1990
-    appointer: "[[National Assembly of Confian Syndicates]]"
-    parties:
-      - "[[Armotist Democratic Party|ALjP]]"
-    notes: Elected by governing coalition
+      - "[[Liberty! with Kunsek Aljerni]]"
+    notes: Took office as vice-president; resigned
 
 roles:
   - role:
@@ -135,30 +132,8 @@ meta:
   stub: true
   verified: false
   image: null
-
-portrait:
-  eyes: dot
-  eyeliner: none
-  brows: none
-  nose: straight
-  mouth: wide
-  hair: wave
-  facial: []
-  eyewear: square
-  outfit: suit
-  extras: []
-  shape:
-    headW: 0.95
-    headH: 0.93
-    bodyW: 0.98
-    bodyH: 1.00
-  palette:
-    skin: "#ffffff"
-    hair: "#5c4b43"
-    facial: "#6b4a2e"
-    frames: "#5b4900"
-    outfit: "#ffffff"
-    suit: "#131010"
-    shirt: "#ebebeb"
-    tie: "#00a2e8"
 ---
+
+**Kunsek Aljerni** is a Confian politician who served as the 7th President of [[Confia]] from 2036 to 2037, representing [[Liberty! with Kunsek Aljerni]].
+
+%% TODO: expand %%
