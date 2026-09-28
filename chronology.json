@@ -2627,14 +2627,6 @@
   {
    "year": 2008,
    "kind": "End of tenure",
-   "text": "[[Ganzer Teahowić]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]",
-   "source": "Ganzer Teahowić",
-   "source_type": "person",
-   "country": "Confia"
-  },
-  {
-   "year": 2008,
-   "kind": "End of tenure",
    "text": "[[Katerina Armoljubca Nožeslawna]] leaves Confian President at [[Confian National Government]]",
    "source": "Katerina Armoljubca Nožeslawna",
    "source_type": "person",
@@ -2687,6 +2679,14 @@
    "source": "Kolkov Interview 2009",
    "source_type": "document",
    "country": "Susia"
+  },
+  {
+   "year": 2009,
+   "kind": "End of tenure",
+   "text": "[[Ganzer Teahowić]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]",
+   "source": "Ganzer Teahowić",
+   "source_type": "person",
+   "country": "Confia"
   },
   {
    "year": 2011,
@@ -4221,16 +4221,6 @@
   },
   {
    "lane": "titles",
-   "label": "Ganzer Teahowić",
-   "start": 2001,
-   "end": 2008,
-   "country": "Confia",
-   "title": "Confian Prime Minister",
-   "display": "President of the Council of Commissars of the United Syndicates of Confia",
-   "holder": "Ganzer Teahowić"
-  },
-  {
-   "lane": "titles",
    "label": "Katerina Armoljubca Nožeslawna",
    "start": 2001,
    "end": 2008,
@@ -4238,6 +4228,16 @@
    "title": "Confian President",
    "display": "Confian President",
    "holder": "Katerina Armoljubca Nožeslawna"
+  },
+  {
+   "lane": "titles",
+   "label": "Ganzer Teahowić",
+   "start": 2001,
+   "end": 2009,
+   "country": "Confia",
+   "title": "Confian Prime Minister",
+   "display": "President of the Council of Commissars of the United Syndicates of Confia",
+   "holder": "Ganzer Teahowić"
   },
   {
    "lane": "institutions",
