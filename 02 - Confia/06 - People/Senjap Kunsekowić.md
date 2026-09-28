@@ -76,7 +76,7 @@ organizations:
 titles:
   - title: "[[Confian Prime Minister]]"
     start_year: 1980
-    end_year: 1982
+    end_year: 1981
     appointer: "[[National Assembly of Confian Syndicates]]"
     parties:
       - "[[Confian Liberal Party]]"

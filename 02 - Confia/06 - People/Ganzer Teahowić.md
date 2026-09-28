@@ -57,7 +57,7 @@ titles:
     appointer: "[[List of Confian elections|2009 Confian presidential election]]"
     parties:
       - "[[Syndicalist League]]"
-    notes:
+    notes: Died in office
   - title: "[[Confian Prime Minister]]"
     start_year: 2001
     end_year: 2009

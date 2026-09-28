@@ -87,6 +87,7 @@ titles:
     end_year: 1985
     appointer: "[[List of Confian elections#1977 Confian presidential election]]"
     parties:
+      - "[[Progressive Republican Party]]"
       - "[[Movement for Syndicalist Renovation]]"
     notes: Left LjWP to found DSN in 1980
   - title: "[[Confian President]]"

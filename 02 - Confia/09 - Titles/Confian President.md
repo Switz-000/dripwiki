@@ -12,14 +12,14 @@ max_holders: 1
 numbered: true
 subtitles:   # years taken from the holders, not from canon
   - name: President of the Confian Nation
-    start_year:
+    start_year: 1956
     end_year: 1958
   - name: Leader of the Confian Nation
     start_year: 1958
     end_year: 1977
   - name: President of the Confian Nation
     start_year: 1978
-    end_year: 1996
+    end_year: 2008
   - name: President of the Confian Social Republic
     start_year: 2009
     end_year:

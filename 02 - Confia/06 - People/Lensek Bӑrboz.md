@@ -53,13 +53,12 @@ parties:
 organizations:
   -
 titles:
-  - title:
-    seat:
-    start_year:
-    end_year:
-    appointer:
+  - title: "[[Confian Prime Minister]]"
+    start_year: 1956
+    end_year: 1958
+    appointer: "[[National Assembly of Confian Syndicates]]"
     parties:
-      -
+      - "[[Confian Syndicalist Union]]"
     notes:
 
 roles:

@@ -72,14 +72,20 @@ organizations:
 
 # ── TITLES AND ROLES ────────────────────────────────────────────────────────
 titles:
-  - title:
-    seat:
-    start_year:
-    end_year:
-    appointer:
+  - title: "[[Confian Prime Minister]]"
+    start_year: 1996
+    end_year: 1998
+    appointer: "[[National Assembly of Confian Syndicates]]"
     parties:
-      -
+      - "[[Syndicalist League]]"
     notes:
+  - title: "[[Confian Prime Minister]]"
+    start_year: 1996
+    end_year: 1996
+    appointer: "[[List of Confian elections#1996 coup|1996 coup]]"
+    parties:
+      - "[[Syndicalist League]]"
+    notes: Interim
 
 roles:
   - role:

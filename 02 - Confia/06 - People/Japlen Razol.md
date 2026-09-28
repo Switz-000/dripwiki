@@ -86,14 +86,20 @@ organizations:
 
 # ── TITLES AND ROLES ────────────────────────────────────────────────────────
 titles:
-  - title:
-    seat:
-    start_year:
-    end_year:
+  - title: "[[Confian President]]"
+    start_year: 2037
+    end_year: 2038
     appointer:
     parties:
       -
-    notes:
+    notes: Took office as speaker of the National Assembly
+  - title: "[[Confian Prime Minister]]"
+    start_year: 1986
+    end_year: 1990
+    appointer: "[[National Assembly of Confian Syndicates]]"
+    parties:
+      - "[[Armotist Democratic Party|ALjP]]"
+    notes: Elected by governing coalition
 
 roles:
   - role:

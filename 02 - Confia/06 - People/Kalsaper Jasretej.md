@@ -55,13 +55,19 @@ parties:
 organizations:
   -
 titles:
-  - title:
-    seat:
-    start_year:
-    end_year:
+  - title: "[[Confian President]]"
+    start_year: 2048
+    end_year: 2052
     appointer:
     parties:
-      -
+      - "[[Atom Party]]"
+    notes:
+  - title: "[[Confian President]]"
+    start_year: 2038
+    end_year: 2042
+    appointer:
+    parties:
+      - "[[Atom Party]]"
     notes:
 
 roles:

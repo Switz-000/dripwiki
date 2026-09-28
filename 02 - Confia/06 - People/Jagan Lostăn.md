@@ -55,14 +55,13 @@ parties:
 organizations:
   - 
 titles:
-  - title:
-    seat:
-    start_year:
-    end_year:
+  - title: "[[Governor-General of the Land of Confia]]"
+    start_year: 1845
+    end_year: 1859
     appointer:
     parties:
-      - 
-    notes:
+      -
+    notes: Dismissed
 roles:
   - role:
     employer:

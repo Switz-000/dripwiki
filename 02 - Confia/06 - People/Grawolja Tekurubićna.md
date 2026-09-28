@@ -57,14 +57,13 @@ parties:
 organizations:
   -
 titles:
-  - title:
-    seat:
-    start_year:
-    end_year:
-    appointer:
+  - title: "[[Governor-General of the Land of Confia]]"
+    start_year: 1797
+    end_year: 1814
+    appointer: "[[Empress Yaneoli]]"
     parties:
-      -
-    notes:
+      - "[[Tekurubićni Patrol]]"
+    notes: Resigned
 
 roles:
   - role:

@@ -69,15 +69,15 @@ titles:
       - "[[Armotist Democratic Party|ALjP]]"
     notes: Resigned
   - title: "[[Confian President]]"
-    start_year: 1987
+    start_year: 1986
     end_year: 1993
     appointer: "[[List of Confian elections#1986 Confian presidential election]]"
     parties:
       - "[[Armotist Democratic Party|ALjP]]"
     notes:
   - title: "[[Confian Prime Minister]]"
-    start_year: 1983
-    end_year: 1987
+    start_year: 1982
+    end_year: 1986
     appointer: "[[National Assembly of Confian Syndicates]]"
     parties:
       - "[[Armotist Democratic Party|ALjP]]"

@@ -57,6 +57,13 @@ parties:
 organizations:
   -
 titles:
+  - title: "[[President Director of the Free Confian Republic]]"
+    start_year: 1941
+    end_year: 1950
+    appointer:
+    parties:
+      -
+    notes:
   - title: "[[Confian President]]"
     start_year: 1958
     end_year: 1977
@@ -67,10 +74,10 @@ titles:
   - title: "[[Confian President]]"
     start_year: 1956
     end_year: 1958
-    appointer: "[[National Assembly of Confian Syndicates]]"
+    appointer: "[[List of Confian elections#1956 Confian presidential election]]"
     parties:
       - "[[Confian Syndicalist Union]]"
-    notes:
+    notes: "[[Presidential Empowerment Amendment|Self-coup]]"
   - title: "[[First Secretary of the Union of Confian Syndicalists]]"
     start_year: 1955
     end_year: 1977

@@ -82,6 +82,13 @@ titles:
     parties:
       - "Independent"
     notes:
+  - title: "[[Director of the Central Bank of the Confian Nation]]"
+    start_year: 1980
+    end_year: 1986
+    appointer: "[[Senjap Kunsekowić]]"
+    parties:
+      -
+    notes: Replaced after Central Bank independence revoked
 
 roles:
   - role:

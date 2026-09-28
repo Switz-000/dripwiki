@@ -12,7 +12,7 @@ max_holders: 1
 numbered: true
 subtitles:   # years taken from the holders, not from canon
   - name: President of the Council of Commissars of the United Syndicates of Confia
-    start_year: 1978
+    start_year: 1956
     end_year:
 interludes:
   - kind: abolished
