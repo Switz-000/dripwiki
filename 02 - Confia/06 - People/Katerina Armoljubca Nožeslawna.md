@@ -135,6 +135,32 @@ meta:
   stub: true
   verified: false
   image:
+
+portrait:
+  eyes: dot
+  eyeliner: arc
+  brows: bold
+  nose: curl
+  mouth: smile
+  hair: bob
+  facial: []
+  eyewear: none
+  outfit: suit-open
+  extras: []
+  shape:
+    headW: 0.92
+    headH: 0.90
+    bodyW: 0.79
+    bodyH: 0.91
+  palette:
+    skin: "#ffffff"
+    hair: "#4d1100"
+    facial: "#6b4a2e"
+    frames: "#41230a"
+    outfit: "#ffffff"
+    suit: "#1c2044"
+    shirt: "#f9f06b"
+    tie: "#ed1c24"
 ---
 **Katerina Armoljubca Graljeewina Nožeslawna** (Racpalian Alphabet: Катѣрина Армољубца Граљеевіна Ножеславна), better known by the acronym **KAN**, is a Confian agricultural engineer and politician that served as the 8th Prime Minister and 4th President of the [[Confia|United Syndicates of Confia]].
 
