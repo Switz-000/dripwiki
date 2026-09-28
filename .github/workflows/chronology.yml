@@ -42,8 +42,8 @@ jobs:
 
       - name: Commit and push if changed
         run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name  "suizo"
+          git config user.email "coisasdomartinsegundo@gmail.com"
           git add CHRONOLOGY.md chronology.json
           git add -A -- '*Titles/*.md'
           git add -u -- '*.md'   # university articles (alumni blocks), wherever they live
