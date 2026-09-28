@@ -353,6 +353,14 @@
    "country": "Susia"
   },
   {
+   "year": 1797,
+   "kind": "Appointment",
+   "text": "[[Grawolja Tekurubićna]] becomes Governor-General of the Land of Confia, appointed by [[Empress Yaneoli]]. *Resigned*",
+   "source": "Grawolja Tekurubićna",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
    "year": 1799,
    "kind": "Birth",
    "text": "[[Ganzer Kieron]] born in [[Imgospalje]], [[Koštanože]], [[General Government of Confia]]",
@@ -399,6 +407,14 @@
    "source": "Kaichet Satratonie",
    "source_type": "person",
    "country": "Susia"
+  },
+  {
+   "year": 1814,
+   "kind": "End of tenure",
+   "text": "[[Grawolja Tekurubićna]] leaves Governor-General of the Land of Confia",
+   "source": "Grawolja Tekurubićna",
+   "source_type": "person",
+   "country": "Confia"
   },
   {
    "year": 1815,
@@ -745,6 +761,14 @@
    "country": "Susia"
   },
   {
+   "year": 1845,
+   "kind": "Appointment",
+   "text": "[[Jagan Lostăn]] becomes Governor-General of the Land of Confia. *Dismissed*",
+   "source": "Jagan Lostăn",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
    "year": 1852,
    "kind": "Founded",
    "text": "[[Žošewoš Machinery]] by [[Jagan Iliož]] in [[Detujehar]]",
@@ -757,6 +781,14 @@
    "kind": "Death",
    "text": "[[Ganzer Kieron]] died in [[Carlotopolis]], [[Karlotopol']], [[General Government of Confia]] (Tuberculosis)",
    "source": "Ganzer Kieron",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1859,
+   "kind": "End of tenure",
+   "text": "[[Jagan Lostăn]] leaves Governor-General of the Land of Confia",
+   "source": "Jagan Lostăn",
    "source_type": "person",
    "country": "Confia"
   },
@@ -1074,6 +1106,14 @@
   },
   {
    "year": 1941,
+   "kind": "Appointment",
+   "text": "[[Lorelaj Paulowić]] becomes President Director of the Free Confian Republic",
+   "source": "Lorelaj Paulowić",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1941,
    "kind": "Birth",
    "text": "[[Lenseka Japlenowina]] born in [[Imgospalje]], [[Koštanože]], [[Dripstanian Empire]]",
    "source": "Lenseka Japlenowina",
@@ -1119,6 +1159,14 @@
    "source": "Emperor Sallemaj",
    "source_type": "person",
    "country": "Susia"
+  },
+  {
+   "year": 1950,
+   "kind": "End of tenure",
+   "text": "[[Lorelaj Paulowić]] leaves President Director of the Free Confian Republic",
+   "source": "Lorelaj Paulowić",
+   "source_type": "person",
+   "country": "Confia"
   },
   {
    "year": 1950,
@@ -1275,10 +1323,18 @@
   {
    "year": 1956,
    "kind": "Appointment",
-   "text": "[[Lorelaj Paulowić]] becomes President of the Confian Nation at [[Confian National Government]], appointed by [[National Assembly of Confian Syndicates]]",
-   "source": "Lorelaj Paulowić",
+   "text": "[[Lensek Bӑrboz]] becomes President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]], appointed by [[National Assembly of Confian Syndicates]]",
+   "source": "Lensek Bӑrboz",
    "source_type": "person",
    "country": "Confia"
+  },
+  {
+   "year": 1956,
+   "kind": "Appointment",
+   "text": "[[Lorelaj Paulowić]], President of the Confian Nation ([[Confian Syndicalist Union]]). *[[Presidential Empowerment Amendment|Self-coup]]*",
+   "source": "",
+   "source_type": "person",
+   "election": "[[List of Confian elections#1956 Confian presidential election]]"
   },
   {
    "year": 1956,
@@ -1335,6 +1391,14 @@
    "source": "Urgiri Tečlan",
    "source_type": "person",
    "country": "Susia"
+  },
+  {
+   "year": 1958,
+   "kind": "End of tenure",
+   "text": "[[Lensek Bӑrboz]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]",
+   "source": "Lensek Bӑrboz",
+   "source_type": "person",
+   "country": "Confia"
   },
   {
    "year": 1958,
@@ -1811,7 +1875,7 @@
   {
    "year": 1978,
    "kind": "Appointment",
-   "text": "[[Mariana Torres]], President of the Confian Nation ([[Movement for Syndicalist Renovation]]). *Left LjWP to found DSN in 1980*",
+   "text": "[[Mariana Torres]], President of the Confian Nation ([[Progressive Republican Party]] and [[Movement for Syndicalist Renovation]]). *Left LjWP to found DSN in 1980*",
    "source": "",
    "source_type": "person",
    "election": "[[List of Confian elections#1977 Confian presidential election]]"
@@ -1877,6 +1941,14 @@
    "kind": "Publication",
    "text": "*On fighting in the streets* by [[Mariana Torres]]",
    "source": "Mariana Torres",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1980,
+   "kind": "Appointment",
+   "text": "[[Grawolja Lasmanna]] becomes Director of the Central Bank of the Confian Nation, appointed by [[Senjap Kunsekowić]]. *Replaced after Central Bank independence revoked*",
+   "source": "Grawolja Lasmanna",
    "source_type": "person",
    "country": "Confia"
   },
@@ -1979,6 +2051,14 @@
   {
    "year": 1981,
    "kind": "End of tenure",
+   "text": "[[Senjap Kunsekowić]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]",
+   "source": "Senjap Kunsekowić",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1981,
+   "kind": "End of tenure",
    "text": "[[Suizo Soites]] leaves CEO of the Soites Group",
    "source": "Suizo Soites",
    "source_type": "person",
@@ -1990,6 +2070,14 @@
    "text": "[[Ljudewlaš!]] by [[Laus Darizel]]",
    "source": "Ljudewlaš!",
    "source_type": "organization",
+   "country": "Confia"
+  },
+  {
+   "year": 1982,
+   "kind": "Appointment",
+   "text": "[[Boris Serec]] becomes President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]], appointed by [[National Assembly of Confian Syndicates]]",
+   "source": "Boris Serec",
+   "source_type": "person",
    "country": "Confia"
   },
   {
@@ -2027,26 +2115,10 @@
   {
    "year": 1982,
    "kind": "End of tenure",
-   "text": "[[Senjap Kunsekowić]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]",
-   "source": "Senjap Kunsekowić",
-   "source_type": "person",
-   "country": "Confia"
-  },
-  {
-   "year": 1982,
-   "kind": "End of tenure",
    "text": "[[Čalsor Boňár]] leaves President of Susia at [[Susian Federal Government]]",
    "source": "Čalsor Boňár",
    "source_type": "person",
    "country": "Susia"
-  },
-  {
-   "year": 1983,
-   "kind": "Appointment",
-   "text": "[[Boris Serec]] becomes President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]], appointed by [[National Assembly of Confian Syndicates]]",
-   "source": "Boris Serec",
-   "source_type": "person",
-   "country": "Confia"
   },
   {
    "year": 1983,
@@ -2139,7 +2211,23 @@
   {
    "year": 1986,
    "kind": "Appointment",
-   "text": "[[Kukan Peskilonni]] becomes Director of the Central Bank of the Confian Nation",
+   "text": "[[Boris Serec]], President of the Confian Nation ([[Armotist Democratic Party|ALjP]])",
+   "source": "",
+   "source_type": "person",
+   "election": "[[List of Confian elections#1986 Confian presidential election]]"
+  },
+  {
+   "year": 1986,
+   "kind": "Appointment",
+   "text": "[[Japlen Razol]] becomes President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]], appointed by [[National Assembly of Confian Syndicates]]. *Elected by governing coalition*",
+   "source": "Japlen Razol",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1986,
+   "kind": "Appointment",
+   "text": "[[Kukan Peskilonni]] becomes Director of the Central Bank of the Confian Nation, appointed by [[Boris Serec]]",
    "source": "Kukan Peskilonni",
    "source_type": "person",
    "country": "Confia"
@@ -2171,10 +2259,26 @@
   {
    "year": 1986,
    "kind": "End of tenure",
+   "text": "[[Boris Serec]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]",
+   "source": "Boris Serec",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1986,
+   "kind": "End of tenure",
    "text": "[[Filevir Matri]] leaves President of Susia at [[Susian Federal Government]]",
    "source": "Filevir Matri",
    "source_type": "person",
    "country": "Susia"
+  },
+  {
+   "year": 1986,
+   "kind": "End of tenure",
+   "text": "[[Grawolja Lasmanna]] leaves Director of the Central Bank of the Confian Nation",
+   "source": "Grawolja Lasmanna",
+   "source_type": "person",
+   "country": "Confia"
   },
   {
    "year": 1986,
@@ -2195,14 +2299,6 @@
   {
    "year": 1987,
    "kind": "Appointment",
-   "text": "[[Boris Serec]], President of the Confian Nation ([[Armotist Democratic Party|ALjP]])",
-   "source": "",
-   "source_type": "person",
-   "election": "[[List of Confian elections#1986 Confian presidential election]]"
-  },
-  {
-   "year": 1987,
-   "kind": "Appointment",
    "text": "[[Katerina Armoljubca Nožeslawna]], Member of the National Assembly of Confian Syndicates ([[Syndicalist League]])",
    "source": "",
    "source_type": "person",
@@ -2215,14 +2311,6 @@
    "source": "Yepodij Soites",
    "source_type": "person",
    "country": "Susia"
-  },
-  {
-   "year": 1987,
-   "kind": "End of tenure",
-   "text": "[[Boris Serec]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]",
-   "source": "Boris Serec",
-   "source_type": "person",
-   "country": "Confia"
   },
   {
    "year": 1988,
@@ -2267,6 +2355,14 @@
   {
    "year": 1990,
    "kind": "End of tenure",
+   "text": "[[Japlen Razol]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]",
+   "source": "Japlen Razol",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1990,
+   "kind": "End of tenure",
    "text": "[[Katerina Armoljubca Nožeslawna]] leaves Member of the National Assembly of Confian Syndicates at [[Confian National Government]]",
    "source": "Katerina Armoljubca Nožeslawna",
    "source_type": "person",
@@ -2287,6 +2383,14 @@
    "source": "Bershadi Civil War",
    "source_type": "war",
    "country": "Incria"
+  },
+  {
+   "year": 1991,
+   "kind": "End of tenure",
+   "text": "[[Kukan Peskilonni]] leaves Director of the Central Bank of the Confian Nation",
+   "source": "Kukan Peskilonni",
+   "source_type": "person",
+   "country": "Confia"
   },
   {
    "year": 1991,
@@ -2410,6 +2514,22 @@
   },
   {
    "year": 1996,
+   "kind": "Appointment",
+   "text": "[[Noljež Teššan]] becomes President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]], appointed by [[National Assembly of Confian Syndicates]]",
+   "source": "Noljež Teššan",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1996,
+   "kind": "Appointment",
+   "text": "[[Noljež Teššan]], President of the Council of Commissars of the United Syndicates of Confia ([[Syndicalist League]]). *Interim*",
+   "source": "",
+   "source_type": "person",
+   "election": "[[List of Confian elections#1996 coup|1996 coup]]"
+  },
+  {
+   "year": 1996,
    "kind": "End of tenure",
    "text": "[[Ganzer Teahowić]] leaves State Governor of North Nijbania",
    "source": "Ganzer Teahowić",
@@ -2427,8 +2547,8 @@
   {
    "year": 1996,
    "kind": "End of tenure",
-   "text": "[[Kukan Peskilonni]] leaves Director of the Central Bank of the Confian Nation",
-   "source": "Kukan Peskilonni",
+   "text": "[[Noljež Teššan]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]",
+   "source": "Noljež Teššan",
    "source_type": "person",
    "country": "Confia"
   },
@@ -2459,7 +2579,7 @@
   {
    "year": 1998,
    "kind": "Appointment",
-   "text": "[[Katerina Armoljubca Nožeslawna]], Confian President ([[Syndicalist League]])",
+   "text": "[[Katerina Armoljubca Nožeslawna]], President of the Confian Nation ([[Syndicalist League]])",
    "source": "",
    "source_type": "person",
    "election": "[[List of Confian elections#1998 Confian presidential election]]"
@@ -2485,6 +2605,14 @@
    "kind": "End of tenure",
    "text": "[[Ganzer Teahowić]] leaves Confian Commissar for Health at [[Confian National Government]]",
    "source": "Ganzer Teahowić",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1998,
+   "kind": "End of tenure",
+   "text": "[[Noljež Teššan]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]",
+   "source": "Noljež Teššan",
    "source_type": "person",
    "country": "Confia"
   },
@@ -2531,7 +2659,7 @@
   {
    "year": 2000,
    "kind": "End of tenure",
-   "text": "[[Katerina Armoljubca Nožeslawna]] leaves Confian President at [[Confian National Government]]",
+   "text": "[[Katerina Armoljubca Nožeslawna]] leaves President of the Confian Nation at [[Confian National Government]]",
    "source": "Katerina Armoljubca Nožeslawna",
    "source_type": "person",
    "country": "Confia"
@@ -2571,7 +2699,7 @@
   {
    "year": 2001,
    "kind": "Appointment",
-   "text": "[[Katerina Armoljubca Nožeslawna]], Confian President ([[Syndicalist League]]). *Term overriden by 2008 constitution*",
+   "text": "[[Katerina Armoljubca Nožeslawna]], President of the Confian Nation ([[Syndicalist League]]). *Term overriden by 2008 constitution*",
    "source": "",
    "source_type": "person",
    "election": "[[List of Confian elections#2000 Confian presidential election]]"
@@ -2627,7 +2755,7 @@
   {
    "year": 2008,
    "kind": "End of tenure",
-   "text": "[[Katerina Armoljubca Nožeslawna]] leaves Confian President at [[Confian National Government]]",
+   "text": "[[Katerina Armoljubca Nožeslawna]] leaves President of the Confian Nation at [[Confian National Government]]",
    "source": "Katerina Armoljubca Nožeslawna",
    "source_type": "person",
    "country": "Confia"
@@ -2659,7 +2787,7 @@
   {
    "year": 2009,
    "kind": "Appointment",
-   "text": "[[Ganzer Teahowić]], President of the Confian Social Republic ([[Syndicalist League]])",
+   "text": "[[Ganzer Teahowić]], President of the Confian Social Republic ([[Syndicalist League]]). *Died in office*",
    "source": "",
    "source_type": "person",
    "election": "[[List of Confian elections|2009 Confian presidential election]]"
@@ -2842,6 +2970,14 @@
   },
   {
    "year": 2037,
+   "kind": "Appointment",
+   "text": "[[Japlen Razol]] becomes President of the Confian Social Republic at [[Confian National Government]]. *Took office as speaker of the National Assembly*",
+   "source": "Japlen Razol",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 2037,
    "kind": "Death",
    "text": "[[Yavna Raroska]] died in [[Neoveli]], [[Dripia]], [[Susia]] (Natural causes)",
    "source": "Yavna Raroska",
@@ -2850,11 +2986,27 @@
   },
   {
    "year": 2038,
+   "kind": "Appointment",
+   "text": "[[Kalsaper Jasretej]] becomes President of the Confian Social Republic at [[Confian National Government]]",
+   "source": "Kalsaper Jasretej",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 2038,
    "kind": "Dissolved",
    "text": "[[Susian Liberal Party]]",
    "source": "Susian Liberal Party",
    "source_type": "organization",
    "country": "Susia"
+  },
+  {
+   "year": 2038,
+   "kind": "End of tenure",
+   "text": "[[Japlen Razol]] leaves President of the Confian Social Republic at [[Confian National Government]]",
+   "source": "Japlen Razol",
+   "source_type": "person",
+   "country": "Confia"
   },
   {
    "year": 2040,
@@ -2897,6 +3049,14 @@
    "country": "Susia"
   },
   {
+   "year": 2042,
+   "kind": "End of tenure",
+   "text": "[[Kalsaper Jasretej]] leaves President of the Confian Social Republic at [[Confian National Government]]",
+   "source": "Kalsaper Jasretej",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
    "year": 2044,
    "kind": "Yarnojte granted",
    "text": "[[Van Ritter]]",
@@ -2927,6 +3087,14 @@
    "source": "Troli Ustaras",
    "source_type": "company",
    "country": "Susia"
+  },
+  {
+   "year": 2048,
+   "kind": "Appointment",
+   "text": "[[Kalsaper Jasretej]] becomes President of the Confian Social Republic at [[Confian National Government]]",
+   "source": "Kalsaper Jasretej",
+   "source_type": "person",
+   "country": "Confia"
   },
   {
    "year": 2048,
@@ -2991,6 +3159,14 @@
    "source": "Yepodij Soites",
    "source_type": "person",
    "country": "Susia"
+  },
+  {
+   "year": 2052,
+   "kind": "End of tenure",
+   "text": "[[Kalsaper Jasretej]] leaves President of the Confian Social Republic at [[Confian National Government]]",
+   "source": "Kalsaper Jasretej",
+   "source_type": "person",
+   "country": "Confia"
   },
   {
    "year": 2052,
@@ -3209,6 +3385,16 @@
    "holder": "Empress Prazde"
   },
   {
+   "lane": "titles",
+   "label": "Grawolja Tekurubićna",
+   "start": 1797,
+   "end": 1814,
+   "country": "Confia",
+   "title": "Governor-General of the Land of Confia",
+   "display": "Governor-General of the Land of Confia",
+   "holder": "Grawolja Tekurubićna"
+  },
+  {
    "lane": "institutions",
    "label": "Susian Naval Academy",
    "start": 1803,
@@ -3348,6 +3534,16 @@
    "country": "Confia"
   },
   {
+   "lane": "titles",
+   "label": "Jagan Lostăn",
+   "start": 1845,
+   "end": 1859,
+   "country": "Confia",
+   "title": "Governor-General of the Land of Confia",
+   "display": "Governor-General of the Land of Confia",
+   "holder": "Jagan Lostăn"
+  },
+  {
    "lane": "institutions",
    "label": "Žošewoš Machinery",
    "start": 1852,
@@ -3477,6 +3673,16 @@
    "country": "Susia"
   },
   {
+   "lane": "titles",
+   "label": "Lorelaj Paulowić",
+   "start": 1941,
+   "end": 1950,
+   "country": "Confia",
+   "title": "President Director of the Free Confian Republic",
+   "display": "President Director of the Free Confian Republic",
+   "holder": "Lorelaj Paulowić"
+  },
+  {
    "lane": "institutions",
    "label": "White Stork Party",
    "start": 1942,
@@ -3595,6 +3801,16 @@
    "title": "First Secretary of the Union of Confian Syndicalists",
    "display": "First Secretary of the Union of Confian Syndicalists",
    "holder": "Lorelaj Paulowić"
+  },
+  {
+   "lane": "titles",
+   "label": "Lensek Bӑrboz",
+   "start": 1956,
+   "end": 1958,
+   "country": "Confia",
+   "title": "Confian Prime Minister",
+   "display": "President of the Council of Commissars of the United Syndicates of Confia",
+   "holder": "Lensek Bӑrboz"
   },
   {
    "lane": "titles",
@@ -3938,11 +4154,21 @@
    "lane": "titles",
    "label": "Senjap Kunsekowić",
    "start": 1980,
-   "end": 1982,
+   "end": 1981,
    "country": "Confia",
    "title": "Confian Prime Minister",
    "display": "President of the Council of Commissars of the United Syndicates of Confia",
    "holder": "Senjap Kunsekowić"
+  },
+  {
+   "lane": "titles",
+   "label": "Grawolja Lasmanna",
+   "start": 1980,
+   "end": 1986,
+   "country": "Confia",
+   "title": "Director of the Central Bank of the Confian Nation",
+   "display": "Director of the Central Bank of the Confian Nation",
+   "holder": "Grawolja Lasmanna"
   },
   {
    "lane": "institutions",
@@ -4004,6 +4230,16 @@
   },
   {
    "lane": "titles",
+   "label": "Boris Serec",
+   "start": 1982,
+   "end": 1986,
+   "country": "Confia",
+   "title": "Confian Prime Minister",
+   "display": "President of the Council of Commissars of the United Syndicates of Confia",
+   "holder": "Boris Serec"
+  },
+  {
+   "lane": "titles",
    "label": "Katerina Armoljubca Nožeslawna",
    "start": 1982,
    "end": 1986,
@@ -4024,16 +4260,6 @@
   },
   {
    "lane": "titles",
-   "label": "Boris Serec",
-   "start": 1983,
-   "end": 1987,
-   "country": "Confia",
-   "title": "Confian Prime Minister",
-   "display": "President of the Council of Commissars of the United Syndicates of Confia",
-   "holder": "Boris Serec"
-  },
-  {
-   "lane": "titles",
    "label": "Mariana Torres",
    "start": 1986,
    "end": 1986,
@@ -4051,13 +4277,33 @@
   },
   {
    "lane": "titles",
+   "label": "Japlen Razol",
+   "start": 1986,
+   "end": 1990,
+   "country": "Confia",
+   "title": "Confian Prime Minister",
+   "display": "President of the Council of Commissars of the United Syndicates of Confia",
+   "holder": "Japlen Razol"
+  },
+  {
+   "lane": "titles",
    "label": "Kukan Peskilonni",
    "start": 1986,
-   "end": 1996,
+   "end": 1991,
    "country": "Confia",
    "title": "Director of the Central Bank of the Confian Nation",
    "display": "Director of the Central Bank of the Confian Nation",
    "holder": "Kukan Peskilonni"
+  },
+  {
+   "lane": "titles",
+   "label": "Boris Serec",
+   "start": 1986,
+   "end": 1993,
+   "country": "Confia",
+   "title": "Confian President",
+   "display": "President of the Confian Nation",
+   "holder": "Boris Serec"
   },
   {
    "lane": "titles",
@@ -4068,16 +4314,6 @@
    "title": "Member of the National Assembly of Confian Syndicates",
    "display": "Member of the National Assembly of Confian Syndicates",
    "holder": "Katerina Armoljubca Nožeslawna"
-  },
-  {
-   "lane": "titles",
-   "label": "Boris Serec",
-   "start": 1987,
-   "end": 1993,
-   "country": "Confia",
-   "title": "Confian President",
-   "display": "President of the Confian Nation",
-   "holder": "Boris Serec"
   },
   {
    "lane": "titles",
@@ -4151,6 +4387,16 @@
   },
   {
    "lane": "titles",
+   "label": "Noljež Teššan",
+   "start": 1996,
+   "end": 1996,
+   "country": "Confia",
+   "title": "Confian Prime Minister",
+   "display": "President of the Council of Commissars of the United Syndicates of Confia",
+   "holder": "Noljež Teššan"
+  },
+  {
+   "lane": "titles",
    "label": "Ganzer Teahowić",
    "start": 1996,
    "end": 1998,
@@ -4159,6 +4405,16 @@
    "display": "Confian Commissar for Health",
    "seat": "Health",
    "holder": "Ganzer Teahowić"
+  },
+  {
+   "lane": "titles",
+   "label": "Noljež Teššan",
+   "start": 1996,
+   "end": 1998,
+   "country": "Confia",
+   "title": "Confian Prime Minister",
+   "display": "President of the Council of Commissars of the United Syndicates of Confia",
+   "holder": "Noljež Teššan"
   },
   {
    "lane": "titles",
@@ -4195,7 +4451,7 @@
    "end": 2000,
    "country": "Confia",
    "title": "Confian President",
-   "display": "Confian President",
+   "display": "President of the Confian Nation",
    "holder": "Katerina Armoljubca Nožeslawna"
   },
   {
@@ -4226,7 +4482,7 @@
    "end": 2008,
    "country": "Confia",
    "title": "Confian President",
-   "display": "Confian President",
+   "display": "President of the Confian Nation",
    "holder": "Katerina Armoljubca Nožeslawna"
   },
   {
@@ -4322,6 +4578,26 @@
    "country": "Susia"
   },
   {
+   "lane": "titles",
+   "label": "Japlen Razol",
+   "start": 2037,
+   "end": 2038,
+   "country": "Confia",
+   "title": "Confian President",
+   "display": "President of the Confian Social Republic",
+   "holder": "Japlen Razol"
+  },
+  {
+   "lane": "titles",
+   "label": "Kalsaper Jasretej",
+   "start": 2038,
+   "end": 2042,
+   "country": "Confia",
+   "title": "Confian President",
+   "display": "President of the Confian Social Republic",
+   "holder": "Kalsaper Jasretej"
+  },
+  {
    "lane": "events",
    "label": "Federal Cognitive Enhancement Program",
    "start": 2040,
@@ -4334,6 +4610,16 @@
    "start": 2046,
    "end": null,
    "country": "Susia"
+  },
+  {
+   "lane": "titles",
+   "label": "Kalsaper Jasretej",
+   "start": 2048,
+   "end": 2052,
+   "country": "Confia",
+   "title": "Confian President",
+   "display": "President of the Confian Social Republic",
+   "holder": "Kalsaper Jasretej"
   },
   {
    "lane": "titles",

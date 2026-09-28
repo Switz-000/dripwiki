@@ -148,6 +148,10 @@ meta:
 
 - **Birth**: [[Zagoste Paroska]] born in [[Duolij]], [[Postia]], [[Dripstanian Empire]]
 
+## 1797
+
+- **Appointment**: [[Grawolja Tekurubićna]] becomes Governor-General of the Land of Confia, appointed by [[Empress Yaneoli]]. *Resigned*
+
 ## 1799
 
 - **Birth**: [[Ganzer Kieron]] born in [[Imgospalje]], [[Koštanože]], [[General Government of Confia]]
@@ -168,6 +172,10 @@ meta:
 ## 1809
 
 - **Birth**: [[Kaichet Satratonie]] born in [[Lore-Kurji]], [[Misocévia]], [[Dripstanian Empire]]
+
+## 1814
+
+- **End of tenure**: [[Grawolja Tekurubićna]] leaves Governor-General of the Land of Confia
 
 ## 1815
 
@@ -257,6 +265,10 @@ meta:
 - **Verdict**: [[Armadesh Versij]] found Guilty of Treason (43 counts), sentenced to Death
 - **Verdict**: [[Zagoste Paroska]] found Guilty of Treason (22 counts), sentenced to Death
 
+## 1845
+
+- **Appointment**: [[Jagan Lostăn]] becomes Governor-General of the Land of Confia. *Dismissed*
+
 ## 1852
 
 - **Founded**: [[Žošewoš Machinery]] by [[Jagan Iliož]] in [[Detujehar]]
@@ -264,6 +276,10 @@ meta:
 ## 1854
 
 - **Death**: [[Ganzer Kieron]] died in [[Carlotopolis]], [[Karlotopol']], [[General Government of Confia]] (Tuberculosis)
+
+## 1859
+
+- **End of tenure**: [[Jagan Lostăn]] leaves Governor-General of the Land of Confia
 
 ## 1860
 
@@ -393,6 +409,7 @@ meta:
 
 ## 1941
 
+- **Appointment**: [[Lorelaj Paulowić]] becomes President Director of the Free Confian Republic
 - **Birth**: [[Lenseka Japlenowina]] born in [[Imgospalje]], [[Koštanože]], [[Dripstanian Empire]]
 
 ## 1942
@@ -411,6 +428,7 @@ meta:
 
 - **Death**: [[Emperor Sallemaj]] died in [[Soiteslaj|St. Mantichev city]], [[Neutral District]], [[Dripstanian Empire]] (Stroke)
 - **End of tenure**: [[Emperor Sallemaj]] leaves Emperor of the Dripstanian Empire
+- **End of tenure**: [[Lorelaj Paulowić]] leaves President Director of the Free Confian Republic
 - **Event begins**: [[War of Confian Secession]]
 - **Regency begins**: [[Emperor of the Dripstanian Empire]] (Filevir Gatojete). *Not royal. Served as Regent until collapse*
 
@@ -451,8 +469,12 @@ meta:
 
 ## 1956
 
-- **Appointment**: [[Lorelaj Paulowić]] becomes President of the Confian Nation at [[Confian National Government]], appointed by [[National Assembly of Confian Syndicates]]
+- **Appointment**: [[Lensek Bӑrboz]] becomes President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]], appointed by [[National Assembly of Confian Syndicates]]
 - **Founded**: [[Moviment of New Susians]]
+
+### [[List of Confian elections#1956 Confian presidential election]]
+
+- [[Lorelaj Paulowić]], President of the Confian Nation ([[Confian Syndicalist Union]]). *[[Presidential Empowerment Amendment|Self-coup]]*
 
 ## 1957
 
@@ -464,6 +486,7 @@ meta:
 - **Appointment**: [[Ergagério Sienes]] becomes Vice President of Susia at [[Susian Federal Government]]
 - **Appointment**: [[Lorelaj Paulowić]] becomes Leader of the Confian Nation at [[Confian National Government]], appointed by [[Presidential Empowerment Amendment]]
 - **Death**: [[Urgiri Tečlan]] died in [[Duolij]], [[Postia]], [[Susia]] (Gunshot)
+- **End of tenure**: [[Lensek Bӑrboz]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]
 - **End of tenure**: [[Lorelaj Paulowić]] leaves President of the Confian Nation at [[Confian National Government]]
 - **End of tenure**: [[Suizo Soites]] leaves President of Susia at [[Susian Federal Government]]
 - **Event begins**: [[Matri assasination attempt (1958)]]
@@ -581,7 +604,7 @@ meta:
 
 ### [[List of Confian elections#1977 Confian presidential election]]
 
-- [[Mariana Torres]], President of the Confian Nation ([[Movement for Syndicalist Renovation]]). *Left LjWP to found DSN in 1980*
+- [[Mariana Torres]], President of the Confian Nation ([[Progressive Republican Party]] and [[Movement for Syndicalist Renovation]]). *Left LjWP to found DSN in 1980*
 
 ## 1979
 
@@ -593,6 +616,7 @@ meta:
 
 ## 1980
 
+- **Appointment**: [[Grawolja Lasmanna]] becomes Director of the Central Bank of the Confian Nation, appointed by [[Senjap Kunsekowić]]. *Replaced after Central Bank independence revoked*
 - **Appointment**: [[Senjap Kunsekowić]] becomes President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]], appointed by [[National Assembly of Confian Syndicates]]
 - **End of tenure**: [[Lenseka Japlenowina]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]
 - **Founded**: [[Armotist Democratic Party]] by [[Boris Serec]]
@@ -607,6 +631,7 @@ meta:
 - **Death**: [[Boe Nguan]] died in [[Bershad]] (Cardiac failure)
 - **Dissolved**: [[Confian Nation Party (1977)]]
 - **Document recorded**: [[Graduation yearbook]] (Graduation yearbook)
+- **End of tenure**: [[Senjap Kunsekowić]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]
 - **End of tenure**: [[Suizo Soites]] leaves CEO of the Soites Group
 - **Founded**: [[Ljudewlaš!]] by [[Laus Darizel]]
 
@@ -616,9 +641,9 @@ meta:
 
 ## 1982
 
+- **Appointment**: [[Boris Serec]] becomes President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]], appointed by [[National Assembly of Confian Syndicates]]
 - **End of tenure**: [[Boris Serec]] leaves Commissar of Education at [[Confian National Government]]
 - **End of tenure**: [[Katerina Armoljubca Nožeslawna]] leaves Member of the National Assembly of Confian Syndicates at [[Confian National Government]]
-- **End of tenure**: [[Senjap Kunsekowić]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]
 - **End of tenure**: [[Čalsor Boňár]] leaves President of Susia at [[Susian Federal Government]]
 
 ### [[1982 Confian general election]]
@@ -631,7 +656,6 @@ meta:
 
 ## 1983
 
-- **Appointment**: [[Boris Serec]] becomes President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]], appointed by [[National Assembly of Confian Syndicates]]
 - **Appointment**: [[Filevir Matri]] becomes President of Susia at [[Susian Federal Government]]. *Became president after Boňár's death*
 - **Birth**: [[Trevda Soites]] born in [[Neoveli]], [[Dripia]], [[Susia]]
 - **Death**: [[Čalsor Boňár]] died in [[Soiteslaj]], [[Neutral District]], [[Susia]] (Car accident)
@@ -652,10 +676,13 @@ meta:
 
 ## 1986
 
-- **Appointment**: [[Kukan Peskilonni]] becomes Director of the Central Bank of the Confian Nation
+- **Appointment**: [[Japlen Razol]] becomes President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]], appointed by [[National Assembly of Confian Syndicates]]. *Elected by governing coalition*
+- **Appointment**: [[Kukan Peskilonni]] becomes Director of the Central Bank of the Confian Nation, appointed by [[Boris Serec]]
 - **Atrocity begins**: [[Nar Liewati Massacre]]
 - **Atrocity ends**: [[Nar Liewati Massacre]]
+- **End of tenure**: [[Boris Serec]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]
 - **End of tenure**: [[Filevir Matri]] leaves President of Susia at [[Susian Federal Government]]
+- **End of tenure**: [[Grawolja Lasmanna]] leaves Director of the Central Bank of the Confian Nation
 - **End of tenure**: [[Katerina Armoljubca Nožeslawna]] leaves Member of the National Assembly of Confian Syndicates at [[Confian National Government]]
 - **End of tenure**: [[Mariana Torres]] leaves President of the Confian Nation at [[Confian National Government]]
 
@@ -663,18 +690,17 @@ meta:
 
 - [[Mariana Torres]], President of the Confian Nation ([[Movement for Syndicalist Renovation]]). *Resigned*
 
+### [[List of Confian elections#1986 Confian presidential election]]
+
+- [[Boris Serec]], President of the Confian Nation ([[Armotist Democratic Party|ALjP]])
+
 ## 1987
 
 - **Birth**: [[Yepodij Soites]] born in [[Neoveli]], [[Dripia]], [[Susia]]
-- **End of tenure**: [[Boris Serec]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]
 
 ### [[1986 Confian general election]]
 
 - [[Katerina Armoljubca Nožeslawna]], Member of the National Assembly of Confian Syndicates ([[Syndicalist League]])
-
-### [[List of Confian elections#1986 Confian presidential election]]
-
-- [[Boris Serec]], President of the Confian Nation ([[Armotist Democratic Party|ALjP]])
 
 ## 1988
 
@@ -692,12 +718,14 @@ meta:
 
 - **Appointment**: [[Katerina Armoljubca Nožeslawna]] becomes President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]], appointed by [[National Assembly of Confian Syndicates]]
 - **Dissolved**: [[Progressive Republican Party]]
+- **End of tenure**: [[Japlen Razol]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]
 - **End of tenure**: [[Katerina Armoljubca Nožeslawna]] leaves Member of the National Assembly of Confian Syndicates at [[Confian National Government]]
 - **Publication**: *[[Letters to a Dead Republic]]* by [[Yário Kolkov]]. *First major work. Drew on his experiences at Nayotai and Troli Ustaras. Established his critique of corporate culture as a form of ideological capture.*
 - **War begins**: [[Bershadi Civil War]]
 
 ## 1991
 
+- **End of tenure**: [[Kukan Peskilonni]] leaves Director of the Central Bank of the Confian Nation
 - **Founded**: [[PSP]] by [[Confian National Government]] and [[Katerina Armoljubca Nožeslawna|KAN]] in [[Imgospalje]]
 
 ## 1992
@@ -733,13 +761,18 @@ meta:
 ## 1996
 
 - **Appointment**: [[Ganzer Teahowić]] becomes Confian Commissar for Health at [[Confian National Government]], appointed by [[Noljež Teššan]]
+- **Appointment**: [[Noljež Teššan]] becomes President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]], appointed by [[National Assembly of Confian Syndicates]]
 - **End of tenure**: [[Ganzer Teahowić]] leaves State Governor of North Nijbania
 - **End of tenure**: [[Katerina Armoljubca Nožeslawna]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]
-- **End of tenure**: [[Kukan Peskilonni]] leaves Director of the Central Bank of the Confian Nation
+- **End of tenure**: [[Noljež Teššan]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]
 
 ### [[1996 Imgospalje mayoral elections]]
 
 - [[Lenseka Japlenowina]], Mayor of Imgospalje ([[Mi, Niteraljci!]])
+
+### [[List of Confian elections#1996 coup|1996 coup]]
+
+- [[Noljež Teššan]], President of the Council of Commissars of the United Syndicates of Confia ([[Syndicalist League]]). *Interim*
 
 ## 1997
 
@@ -752,11 +785,12 @@ meta:
 - **Charged**: [[Boris Serec]] with Active corruption, Conspiracy to commit crimes, Cartel formation, Perversion of the office of Prime Minister and Mishandling of the means of production
 - **End of tenure**: [[Boris Serec]] leaves President of the Confian Nation at [[Confian National Government]]
 - **End of tenure**: [[Ganzer Teahowić]] leaves Confian Commissar for Health at [[Confian National Government]]
+- **End of tenure**: [[Noljež Teššan]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]
 - **Verdict**: [[Boris Serec]] found Guilty of Passive corruption (21 counts)
 
 ### [[List of Confian elections#1998 Confian presidential election]]
 
-- [[Katerina Armoljubca Nožeslawna]], Confian President ([[Syndicalist League]])
+- [[Katerina Armoljubca Nožeslawna]], President of the Confian Nation ([[Syndicalist League]])
 
 ## 1999
 
@@ -767,7 +801,7 @@ meta:
 
 - **Dissolved**: [[Armotist Democratic Party]]
 - **End of tenure**: [[Grawolja Lasmanna]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]
-- **End of tenure**: [[Katerina Armoljubca Nožeslawna]] leaves Confian President at [[Confian National Government]]
+- **End of tenure**: [[Katerina Armoljubca Nožeslawna]] leaves President of the Confian Nation at [[Confian National Government]]
 - **Founded**: [[Armotist Democracy (Confian party, 2000)]] by [[Panož Zastranni]]
 - **Founded**: [[Confian Democratic Party]] by [[Japlen Razol]]
 - **Founded**: [[Shield!]]
@@ -778,7 +812,7 @@ meta:
 
 ### [[List of Confian elections#2000 Confian presidential election]]
 
-- [[Katerina Armoljubca Nožeslawna]], Confian President ([[Syndicalist League]]). *Term overriden by 2008 constitution*
+- [[Katerina Armoljubca Nožeslawna]], President of the Confian Nation ([[Syndicalist League]]). *Term overriden by 2008 constitution*
 
 ## 2002
 
@@ -797,7 +831,7 @@ meta:
 
 ## 2008
 
-- **End of tenure**: [[Katerina Armoljubca Nožeslawna]] leaves Confian President at [[Confian National Government]]
+- **End of tenure**: [[Katerina Armoljubca Nožeslawna]] leaves President of the Confian Nation at [[Confian National Government]]
 - **Founded**: [[Astralis Banking Group]] in [[Sužielaj city]]
 - **Graduation**: [[Trevda Soites]] from [[Federal Institute of Technology]] (Computer science)
 - **Publication**: *[[Democracy as an Organism]]* by [[Yário Kolkov]]. *Final completed book before his death.*
@@ -810,7 +844,7 @@ meta:
 
 ### [[List of Confian elections|2009 Confian presidential election]]
 
-- [[Ganzer Teahowić]], President of the Confian Social Republic ([[Syndicalist League]])
+- [[Ganzer Teahowić]], President of the Confian Social Republic ([[Syndicalist League]]). *Died in office*
 
 ## 2011
 
@@ -871,11 +905,14 @@ meta:
 
 ## 2037
 
+- **Appointment**: [[Japlen Razol]] becomes President of the Confian Social Republic at [[Confian National Government]]. *Took office as speaker of the National Assembly*
 - **Death**: [[Yavna Raroska]] died in [[Neoveli]], [[Dripia]], [[Susia]] (Natural causes)
 
 ## 2038
 
+- **Appointment**: [[Kalsaper Jasretej]] becomes President of the Confian Social Republic at [[Confian National Government]]
 - **Dissolved**: [[Susian Liberal Party]]
+- **End of tenure**: [[Japlen Razol]] leaves President of the Confian Social Republic at [[Confian National Government]]
 
 ## 2040
 
@@ -890,6 +927,7 @@ meta:
 ## 2042
 
 - **Death**: [[Ňotrič Apaj]] died in [[Neoveli]], [[Dripia]], [[Susia]] ([[Kashovne's syndrome]])
+- **End of tenure**: [[Kalsaper Jasretej]] leaves President of the Confian Social Republic at [[Confian National Government]]
 
 ## 2044
 
@@ -909,6 +947,7 @@ meta:
 
 ## 2048
 
+- **Appointment**: [[Kalsaper Jasretej]] becomes President of the Confian Social Republic at [[Confian National Government]]
 - **Project ends**: [[Federal Cognitive Enhancement Program]]. Nine deaths, twenty-three cases of permanent cognitive damage, and sixty-three moderate injuries between 2040 and 2046; suspended in 2047, terminated following the 2049 public exposure of its safety record and concealment practices.
 
 ## 2050
@@ -926,6 +965,7 @@ meta:
 ## 2052
 
 - **Appointment**: [[Yepodij Soites]] becomes CEO of the Soites Group, appointed by [[Soites Group board of directors]]. *Installed after Trevda Soites's 2052 acquittal. The board judged that the verdict cleared him legally without repairing the company's standing two years into its Yarnojte status, and kept leadership within the family rather than looking outside it.*
+- **End of tenure**: [[Kalsaper Jasretej]] leaves President of the Confian Social Republic at [[Confian National Government]]
 - **End of tenure**: [[Trevda Soites]] leaves CEO of the Soites Group
 - **Verdict**: [[Trevda Soites]] found Acquitted of Criminally negligent homicide (9 counts), Reckless infliction of serious bodily injury (23 counts) and Reckless endangerment (10 counts)
 

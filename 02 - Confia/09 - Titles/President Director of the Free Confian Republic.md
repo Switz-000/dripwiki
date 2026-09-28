@@ -21,4 +21,8 @@ person articles. Edit those articles, not this block. %%
 
 %% holders:start %%
 
+| No. | Name | Term |
+| :-: | --- | :-: |
+| 1 | [[Lorelaj Paulowić]] | 1941 - 1950 |
+
 %% holders:end %%

@@ -36,16 +36,21 @@ person articles. Edit those articles, not this block. %%
 
 %% holders:start %%
 
-### President of the Council of Commissars of the United Syndicates of Confia (1978 - present)
+### President of the Council of Commissars of the United Syndicates of Confia (1956 - present)
 
 | No. | Name | Term | Party | Appointed by | Notes |
 | :-: | --- | :-: | --- | --- | --- |
-| 1 | [[Lenseka Japlenowina]] | 1978 - 1980 | [[Progressive Republican Party]] | [[National Assembly of Confian Syndicates]] |  |
+| 1 | [[Lensek Bӑrboz]] | 1956 - 1958 | [[Confian Syndicalist Union]] | [[National Assembly of Confian Syndicates]] |  |
+|  | *Position abolished* | 1958 - 1977 |  |  |  |
+| 2 | [[Lenseka Japlenowina]] | 1978 - 1980 | [[Progressive Republican Party]] | [[National Assembly of Confian Syndicates]] |  |
 |  | *[[Genrih Maskernie]]* | 1980 - 1980 |  |  | Interim government |
-| 2 | [[Senjap Kunsekowić]] | 1980 - 1982 | [[Confian Liberal Party]] | [[National Assembly of Confian Syndicates]] |  |
-| 3 | [[Boris Serec]] | 1983 - 1987 | [[Armotist Democratic Party\|ALjP]] | [[National Assembly of Confian Syndicates]] |  |
-| 4 | [[Katerina Armoljubca Nožeslawna]] | 1990 - 1996 | [[Syndicalist League]] | [[National Assembly of Confian Syndicates]] |  |
-| 5 | [[Grawolja Lasmanna]] | 1998 - 2000 | [[Independent]] | [[National Assembly of Confian Syndicates]] |  |
-| 6 | [[Ganzer Teahowić]] | 2001 - 2009 | [[Syndicalist League]] | [[National Assembly of Confian Syndicates]] |  |
+| 3 | [[Senjap Kunsekowić]] | 1980 - 1981 | [[Confian Liberal Party]] | [[National Assembly of Confian Syndicates]] |  |
+| 4 | [[Boris Serec]] | 1982 - 1986 | [[Armotist Democratic Party\|ALjP]] | [[National Assembly of Confian Syndicates]] |  |
+| 5 | [[Japlen Razol]] | 1986 - 1990 | [[Armotist Democratic Party\|ALjP]] | [[National Assembly of Confian Syndicates]] | Elected by governing coalition |
+| 6 | [[Katerina Armoljubca Nožeslawna]] | 1990 - 1996 | [[Syndicalist League]] | [[National Assembly of Confian Syndicates]] |  |
+| 7 | [[Noljež Teššan]] | 1996 - 1996 | [[Syndicalist League]] | [[List of Confian elections#1996 coup\|1996 coup]] | Interim |
+| - | [[Noljež Teššan]] | 1996 - 1998 | [[Syndicalist League]] | [[National Assembly of Confian Syndicates]] |  |
+| 8 | [[Grawolja Lasmanna]] | 1998 - 2000 | [[Independent]] | [[National Assembly of Confian Syndicates]] |  |
+| 9 | [[Ganzer Teahowić]] | 2001 - 2009 | [[Syndicalist League]] | [[National Assembly of Confian Syndicates]] |  |
 
 %% holders:end %%

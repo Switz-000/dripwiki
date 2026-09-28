@@ -34,11 +34,11 @@ person articles. Edit those articles, not this block. %%
 
 %% holders:start %%
 
-### President of the Confian Nation (? - 1958)
+### President of the Confian Nation (1956 - 1958)
 
-| No. | Name | Term | Party | Appointed by |
-| :-: | --- | :-: | --- | --- |
-| 1 | [[Lorelaj Paulowić]] | 1956 - 1958 | [[Confian Syndicalist Union]] | [[National Assembly of Confian Syndicates]] |
+| No. | Name | Term | Party | Election | Notes |
+| :-: | --- | :-: | --- | --- | --- |
+| 1 | [[Lorelaj Paulowić]] | 1956 - 1958 | [[Confian Syndicalist Union]] | [[List of Confian elections#1956 Confian presidential election]] | [[Presidential Empowerment Amendment\|Self-coup]] |
 
 ### Leader of the Confian Nation (1958 - 1977)
 
@@ -47,21 +47,26 @@ person articles. Edit those articles, not this block. %%
 | 1 | [[Lorelaj Paulowić]] | 1958 - 1977 | [[Confian Syndicalist Union]] | [[Presidential Empowerment Amendment]] |  |
 | 2 | [[Mariana Torres]] | 1977 - 1977 | [[Progressive Republican Party]] | [[Bayonet Revolution]] | Interim |
 
-### President of the Confian Nation (1978 - 1996)
+### President of the Confian Nation (1978 - 2008)
 
 | No. | Name | Term | Party | Election | Notes |
 | :-: | --- | :-: | --- | --- | --- |
-| 1 | [[Mariana Torres]] | 1978 - 1985 | [[Movement for Syndicalist Renovation]] | [[List of Confian elections#1977 Confian presidential election]] | Left LjWP to found DSN in 1980 |
+| 1 | [[Mariana Torres]] | 1978 - 1985 | [[Progressive Republican Party]], [[Movement for Syndicalist Renovation]] | [[List of Confian elections#1977 Confian presidential election]] | Left LjWP to found DSN in 1980 |
 | - | [[Mariana Torres]] | 1986 - 1986 | [[Movement for Syndicalist Renovation]] | [[List of Confian elections#1985 Confian presidential election]] | Resigned |
-| 2 | [[Boris Serec]] | 1987 - 1993 | [[Armotist Democratic Party\|ALjP]] | [[List of Confian elections#1986 Confian presidential election]] |  |
+| 2 | [[Boris Serec]] | 1986 - 1993 | [[Armotist Democratic Party\|ALjP]] | [[List of Confian elections#1986 Confian presidential election]] |  |
 | - | [[Boris Serec]] | 1994 - 1998 | [[Armotist Democratic Party\|ALjP]] | [[List of Confian elections#1993 Confian presidential election]] | Resigned |
+| 3 | [[Katerina Armoljubca Nožeslawna]] | 1998 - 2000 | [[Syndicalist League]] | [[List of Confian elections#1998 Confian presidential election]] |  |
+| - | [[Katerina Armoljubca Nožeslawna]] | 2001 - 2008 | [[Syndicalist League]] | [[List of Confian elections#2000 Confian presidential election]] | Term overriden by 2008 constitution |
 
 ### President of the Confian Social Republic (2009 - present)
 
-| No. | Name | Term | Party | Election |
-| :-: | --- | :-: | --- | --- |
-| 1 | [[Ganzer Teahowić]] | 2009 - 2011 | [[Syndicalist League]] | [[List of Confian elections\|2009 Confian presidential election]] |
-| 2 | [[Nisa Peskilonna]] | 2014 - 2018 | [[Republican Promise]] | [[List of Confian elections#2013 Confian presidential election]] |
-| - | [[Nisa Peskilonna]] | 2019 - 2023 | [[Republican Promise]] | [[List of Confian elections#2018 Confian presidential election]] |
+| No. | Name | Term | Party | Election | Notes |
+| :-: | --- | :-: | --- | --- | --- |
+| 1 | [[Ganzer Teahowić]] | 2009 - 2011 | [[Syndicalist League]] | [[List of Confian elections\|2009 Confian presidential election]] | Died in office |
+| 2 | [[Nisa Peskilonna]] | 2014 - 2018 | [[Republican Promise]] | [[List of Confian elections#2013 Confian presidential election]] |  |
+| - | [[Nisa Peskilonna]] | 2019 - 2023 | [[Republican Promise]] | [[List of Confian elections#2018 Confian presidential election]] |  |
+| 3 | [[Japlen Razol]] | 2037 - 2038 |  |  | Took office as speaker of the National Assembly |
+| 4 | [[Kalsaper Jasretej]] | 2038 - 2042 | [[Atom Party]] |  |  |
+| - | [[Kalsaper Jasretej]] | 2048 - 2052 | [[Atom Party]] |  |  |
 
 %% holders:end %%

@@ -21,4 +21,9 @@ person articles. Edit those articles, not this block. %%
 
 %% holders:start %%
 
+| No. | Name | Term | Party | Appointed by | Notes |
+| :-: | --- | :-: | --- | --- | --- |
+| 1 | [[Grawolja Tekurubićna]] | 1797 - 1814 | [[Tekurubićni Patrol]] | [[Empress Yaneoli]] | Resigned |
+| 2 | [[Jagan Lostăn]] | 1845 - 1859 |  |  | Dismissed |
+
 %% holders:end %%
