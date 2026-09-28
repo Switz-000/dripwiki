@@ -2818,6 +2818,14 @@
   },
   {
    "year": 2011,
+   "kind": "Appointment",
+   "text": "[[Tegiron Hari]] becomes President of the Confian Social Republic at [[Confian National Government]]. *Assumed as vice-president*",
+   "source": "Tegiron Hari",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 2011,
    "kind": "Death",
    "text": "[[Ganzer Teahowić]] died in [[Imgospalje]], [[Koštanože]], [[Confia]] (Car bomb)",
    "source": "Ganzer Teahowić",
@@ -2870,6 +2878,14 @@
    "text": "[[Shield!]]",
    "source": "Shield!",
    "source_type": "organization",
+   "country": "Confia"
+  },
+  {
+   "year": 2013,
+   "kind": "End of tenure",
+   "text": "[[Tegiron Hari]] leaves President of the Confian Social Republic at [[Confian National Government]]",
+   "source": "Tegiron Hari",
+   "source_type": "person",
    "country": "Confia"
   },
   {
@@ -2930,9 +2946,33 @@
   },
   {
    "year": 2024,
+   "kind": "Appointment",
+   "text": "[[Pawlăn Listewi]] becomes President of the Confian Social Republic at [[Confian National Government]]",
+   "source": "Pawlăn Listewi",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 2024,
    "kind": "Death",
    "text": "[[Boris Serec]] died in [[Carlotopolis State Prison]], [[Karlotopol']], [[Confia]] (Natural causes)",
    "source": "Boris Serec",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 2028,
+   "kind": "End of tenure",
+   "text": "[[Pawlăn Listewi]] leaves President of the Confian Social Republic at [[Confian National Government]]",
+   "source": "Pawlăn Listewi",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 2029,
+   "kind": "Appointment",
+   "text": "[[Armoljubca Darzedanna]] becomes President of the Confian Social Republic at [[Confian National Government]]",
+   "source": "Armoljubca Darzedanna",
    "source_type": "person",
    "country": "Confia"
   },
@@ -2961,12 +3001,44 @@
    "country": "Susia"
   },
   {
+   "year": 2033,
+   "kind": "End of tenure",
+   "text": "[[Armoljubca Darzedanna]] leaves President of the Confian Social Republic at [[Confian National Government]]",
+   "source": "Armoljubca Darzedanna",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 2034,
+   "kind": "Appointment",
+   "text": "[[Pismon Goltanni]] becomes President of the Confian Social Republic at [[Confian National Government]]. *Impeached*",
+   "source": "Pismon Goltanni",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
    "year": 2034,
    "kind": "Death",
    "text": "[[Chedji Soites]] died in [[Arkaime]], [[Dripia]], [[Susia]] (Natural causes)",
    "source": "Chedji Soites",
    "source_type": "person",
    "country": "Susia"
+  },
+  {
+   "year": 2036,
+   "kind": "Appointment",
+   "text": "[[Kunsek Aljerni]] becomes President of the Confian Social Republic at [[Confian National Government]]. *Took office as vice-president; resigned*",
+   "source": "Kunsek Aljerni",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 2036,
+   "kind": "End of tenure",
+   "text": "[[Pismon Goltanni]] leaves President of the Confian Social Republic at [[Confian National Government]]",
+   "source": "Pismon Goltanni",
+   "source_type": "person",
+   "country": "Confia"
   },
   {
    "year": 2037,
@@ -2983,6 +3055,14 @@
    "source": "Yavna Raroska",
    "source_type": "person",
    "country": "Susia"
+  },
+  {
+   "year": 2037,
+   "kind": "End of tenure",
+   "text": "[[Kunsek Aljerni]] leaves President of the Confian Social Republic at [[Confian National Government]]",
+   "source": "Kunsek Aljerni",
+   "source_type": "person",
+   "country": "Confia"
   },
   {
    "year": 2038,
@@ -4527,6 +4607,16 @@
    "holder": "Ganzer Teahowić"
   },
   {
+   "lane": "titles",
+   "label": "Tegiron Hari",
+   "start": 2011,
+   "end": 2013,
+   "country": "Confia",
+   "title": "Confian President",
+   "display": "President of the Confian Social Republic",
+   "holder": "Tegiron Hari"
+  },
+  {
    "lane": "institutions",
    "label": "Republican Promise",
    "start": 2013,
@@ -4562,6 +4652,26 @@
   },
   {
    "lane": "titles",
+   "label": "Pawlăn Listewi",
+   "start": 2024,
+   "end": 2028,
+   "country": "Confia",
+   "title": "Confian President",
+   "display": "President of the Confian Social Republic",
+   "holder": "Pawlăn Listewi"
+  },
+  {
+   "lane": "titles",
+   "label": "Armoljubca Darzedanna",
+   "start": 2029,
+   "end": 2033,
+   "country": "Confia",
+   "title": "Confian President",
+   "display": "President of the Confian Social Republic",
+   "holder": "Armoljubca Darzedanna"
+  },
+  {
+   "lane": "titles",
    "label": "Trevda Soites",
    "start": 2031,
    "end": 2052,
@@ -4576,6 +4686,26 @@
    "start": 2031,
    "end": null,
    "country": "Susia"
+  },
+  {
+   "lane": "titles",
+   "label": "Pismon Goltanni",
+   "start": 2034,
+   "end": 2036,
+   "country": "Confia",
+   "title": "Confian President",
+   "display": "President of the Confian Social Republic",
+   "holder": "Pismon Goltanni"
+  },
+  {
+   "lane": "titles",
+   "label": "Kunsek Aljerni",
+   "start": 2036,
+   "end": 2037,
+   "country": "Confia",
+   "title": "Confian President",
+   "display": "President of the Confian Social Republic",
+   "holder": "Kunsek Aljerni"
   },
   {
    "lane": "titles",

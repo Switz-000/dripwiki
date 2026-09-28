@@ -848,6 +848,7 @@ meta:
 
 ## 2011
 
+- **Appointment**: [[Tegiron Hari]] becomes President of the Confian Social Republic at [[Confian National Government]]. *Assumed as vice-president*
 - **Death**: [[Ganzer Teahowić]] died in [[Imgospalje]], [[Koštanože]], [[Confia]] (Car bomb)
 - **Death**: [[Yário Kolkov]] died in [[New Duloc]], [[Postia]], [[Susia]] (Lung cancer)
 - **End of tenure**: [[Ganzer Teahowić]] leaves President of the Confian Social Republic at [[Confian National Government]]
@@ -861,6 +862,7 @@ meta:
 
 - **Dissolved**: [[Ljudewlaš!]]
 - **Dissolved**: [[Shield!]]
+- **End of tenure**: [[Tegiron Hari]] leaves President of the Confian Social Republic at [[Confian National Government]]
 - **Founded**: [[Republican Promise]] by [[Nisa Peskilonna]]
 
 ## 2014
@@ -891,7 +893,16 @@ meta:
 
 ## 2024
 
+- **Appointment**: [[Pawlăn Listewi]] becomes President of the Confian Social Republic at [[Confian National Government]]
 - **Death**: [[Boris Serec]] died in [[Carlotopolis State Prison]], [[Karlotopol']], [[Confia]] (Natural causes)
+
+## 2028
+
+- **End of tenure**: [[Pawlăn Listewi]] leaves President of the Confian Social Republic at [[Confian National Government]]
+
+## 2029
+
+- **Appointment**: [[Armoljubca Darzedanna]] becomes President of the Confian Social Republic at [[Confian National Government]]
 
 ## 2031
 
@@ -899,14 +910,25 @@ meta:
 - **End of tenure**: [[Chedji Soites]] leaves CEO of the Soites Group
 - **Founded**: [[Yerčemark]] by [[Venvek Rashera]] in [[New Kentu]]
 
+## 2033
+
+- **End of tenure**: [[Armoljubca Darzedanna]] leaves President of the Confian Social Republic at [[Confian National Government]]
+
 ## 2034
 
+- **Appointment**: [[Pismon Goltanni]] becomes President of the Confian Social Republic at [[Confian National Government]]. *Impeached*
 - **Death**: [[Chedji Soites]] died in [[Arkaime]], [[Dripia]], [[Susia]] (Natural causes)
+
+## 2036
+
+- **Appointment**: [[Kunsek Aljerni]] becomes President of the Confian Social Republic at [[Confian National Government]]. *Took office as vice-president; resigned*
+- **End of tenure**: [[Pismon Goltanni]] leaves President of the Confian Social Republic at [[Confian National Government]]
 
 ## 2037
 
 - **Appointment**: [[Japlen Razol]] becomes President of the Confian Social Republic at [[Confian National Government]]. *Took office as speaker of the National Assembly*
 - **Death**: [[Yavna Raroska]] died in [[Neoveli]], [[Dripia]], [[Susia]] (Natural causes)
+- **End of tenure**: [[Kunsek Aljerni]] leaves President of the Confian Social Republic at [[Confian National Government]]
 
 ## 2038
 
