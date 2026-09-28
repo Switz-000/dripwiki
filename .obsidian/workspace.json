@@ -34,9 +34,37 @@
               "icon": "lucide-file",
               "title": "Gražer-Moiyin"
             }
+          },
+          {
+            "id": "7a52f4de579e9c6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Confia/06 - People/Japlen Razol.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Japlen Razol"
+            }
+          },
+          {
+            "id": "9f2d289a7b55fd87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Confia/06 - People/Boris Serec.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Boris Serec"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -214,8 +242,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c97ee58ade12ecb",
+  "active": "9f2d289a7b55fd87",
   "lastOpenFiles": [
+    "02 - Confia/06 - People/Japlen Razol.md",
+    "01 - Susia/03 - Companies/Companies/Gražer-Moiyin.md",
     "01 - Susia/03 - Companies/Products/Soites Experimenter Program.md",
     "01 - Susia/03 - Companies/Products/Lizne.md",
     "01 - Susia/09 - Titles/CEO of the Soites Group.md",
@@ -243,8 +273,6 @@
     "10 - Dripstanian Incria/Bershad/Politics.md",
     "10 - Dripstanian Incria/Bershad/Nguan regime.md",
     "10 - Dripstanian Incria/Bershad/Cultures of Bershad.md",
-    "10 - Dripstanian Incria/Bershad/Hertpatt.md",
-    "10 - Dripstanian Incria/Bershad/Cannibalism in Bershad.md",
     "00 - Meta/Consolidated Drafts",
     "01 - Susia/07 - Organizations/Universities",
     "01 - Susia/06 - People/Soites/Soites Family chart.canvas"
