@@ -470,7 +470,6 @@ meta:
 - **Event begins**: [[New Duloc riot]]
 - **Event ends**: [[Matri assasination attempt (1958)]]
 - **Event ends**: [[New Duloc riot]]
-- **Interlude begins**: [[Confian Prime Minister]] (Position abolished)
 
 ### [[1958 Susian presidential election]]
 
@@ -568,7 +567,6 @@ meta:
 - **Event ends**: [[Bayonet Revolution]]
 - **Event ends**: [[Continental Divide]]
 - **Founded**: [[Confian Nation Party (1977)]]
-- **Interlude ends**: [[Confian Prime Minister]] (Position abolished)
 
 ## 1978
 
@@ -600,6 +598,8 @@ meta:
 - **Founded**: [[Armotist Democratic Party]] by [[Boris Serec]]
 - **Founded**: [[Făzmelj]] in [[Neoveli]]
 - **Founded**: [[Movement for Syndicalist Renovation]] by [[Mariana Torres]] and [[Genrih Maskernie]]
+- **Regency begins**: [[Confian Prime Minister]] ([['Genrih Maskernie']]). *Interim government*
+- **Regency ends**: [[Confian Prime Minister]] ([['Genrih Maskernie']])
 
 ## 1981
 
