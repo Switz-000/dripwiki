@@ -136,6 +136,32 @@ meta:
   stub: true
   verified: false
   image: null
+
+portrait:
+  eyes: dot
+  eyeliner: arc
+  brows: bold
+  nose: straight
+  mouth: wavy
+  hair: swoop
+  facial: []
+  eyewear: none
+  outfit: suit-open
+  extras: [cheek-lines, crows-feet, eye-bags]
+  shape:
+    headW: 0.92
+    headH: 0.90
+    bodyW: 0.75
+    bodyH: 0.91
+  palette:
+    skin: "#ffffff"
+    hair: "#c3c3c3"
+    facial: "#6b4a2e"
+    frames: "#41230a"
+    outfit: "#ffffff"
+    suit: "#333333"
+    shirt: "#ceedf4"
+    tie: "#ed1c24"
 ---
 **Grawolja Seriewina Lasmanna** (Racpalian Alphabet: Гравоља Серьевіна Ласманна) is a Confian economist and banker that served as the 6th Prime Minister of the [[Confia|United Syndicates of Confia]], as well as the 2nd Director of its Central Bank. 
 
