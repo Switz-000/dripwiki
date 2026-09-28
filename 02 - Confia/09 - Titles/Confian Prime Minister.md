@@ -33,6 +33,7 @@ person articles. Edit those articles, not this block. %%
 | 2 | [[Senjap Kunsekowić]] | 1980 - 1982 | [[Confian Liberal Party]] | [[National Assembly of Confian Syndicates]] |
 | 3 | [[Boris Serec]] | 1983 - 1987 | [[Armotist Democratic Party\|ALjP]] | [[National Assembly of Confian Syndicates]] |
 | 4 | [[Katerina Armoljubca Nožeslawna]] | 1990 - 1996 | [[Syndicalist League]] | [[National Assembly of Confian Syndicates]] |
-| 5 | [[Ganzer Teahowić]] | 2001 - 2008 | [[Syndicalist League]] | [[National Assembly of Confian Syndicates]] |
+| 5 | [[Grawolja Lasmanna]] | 1998 - 2000 | [[Independent]] | [[National Assembly of Confian Syndicates]] |
+| 6 | [[Ganzer Teahowić]] | 2001 - 2008 | [[Syndicalist League]] | [[National Assembly of Confian Syndicates]] |
 
 %% holders:end %%

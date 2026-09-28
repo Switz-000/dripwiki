@@ -2419,6 +2419,14 @@
   {
    "year": 1998,
    "kind": "Appointment",
+   "text": "[[Grawolja Lasmanna]] becomes President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]], appointed by [[National Assembly of Confian Syndicates]]",
+   "source": "Grawolja Lasmanna",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1998,
+   "kind": "Appointment",
    "text": "[[Katerina Armoljubca Nožeslawna]], Confian President ([[Syndicalist League]])",
    "source": "",
    "source_type": "person",
@@ -2478,6 +2486,14 @@
    "text": "[[Armotist Democratic Party]]",
    "source": "Armotist Democratic Party",
    "source_type": "organization",
+   "country": "Confia"
+  },
+  {
+   "year": 2000,
+   "kind": "End of tenure",
+   "text": "[[Grawolja Lasmanna]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]",
+   "source": "Grawolja Lasmanna",
+   "source_type": "person",
    "country": "Confia"
   },
   {
@@ -4111,6 +4127,16 @@
    "start": 1997,
    "end": null,
    "country": "Confia"
+  },
+  {
+   "lane": "titles",
+   "label": "Grawolja Lasmanna",
+   "start": 1998,
+   "end": 2000,
+   "country": "Confia",
+   "title": "Confian Prime Minister",
+   "display": "President of the Council of Commissars of the United Syndicates of Confia",
+   "holder": "Grawolja Lasmanna"
   },
   {
    "lane": "titles",

@@ -744,6 +744,7 @@ meta:
 
 ## 1998
 
+- **Appointment**: [[Grawolja Lasmanna]] becomes President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]], appointed by [[National Assembly of Confian Syndicates]]
 - **Charged**: [[Boris Serec]] with Active corruption, Conspiracy to commit crimes, Cartel formation, Perversion of the office of Prime Minister and Mishandling of the means of production
 - **End of tenure**: [[Boris Serec]] leaves President of the Confian Nation at [[Confian National Government]]
 - **End of tenure**: [[Ganzer Teahowić]] leaves Confian Commissar for Health at [[Confian National Government]]
@@ -761,6 +762,7 @@ meta:
 ## 2000
 
 - **Dissolved**: [[Armotist Democratic Party]]
+- **End of tenure**: [[Grawolja Lasmanna]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]
 - **End of tenure**: [[Katerina Armoljubca Nožeslawna]] leaves Confian President at [[Confian National Government]]
 - **Founded**: [[Armotist Democracy (Confian party, 2000)]] by [[Panož Zastranni]]
 - **Founded**: [[Confian Democratic Party]] by [[Japlen Razol]]
