@@ -74,13 +74,13 @@ organizations:
 
 # ── TITLES AND ROLES ────────────────────────────────────────────────────────
 titles:
-  - title:
+  - title: "[[Confian Prime Minister]]"
     seat:
-    start_year:
-    end_year:
-    appointer:
+    start_year: 1998
+    end_year: 2000
+    appointer: "[[National Assembly of Confian Syndicates]]"
     parties:
-      -
+      - "Independent"
     notes:
 
 roles:
