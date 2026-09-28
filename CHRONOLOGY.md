@@ -797,7 +797,6 @@ meta:
 
 ## 2008
 
-- **End of tenure**: [[Ganzer Teahowić]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]
 - **End of tenure**: [[Katerina Armoljubca Nožeslawna]] leaves Confian President at [[Confian National Government]]
 - **Founded**: [[Astralis Banking Group]] in [[Sužielaj city]]
 - **Graduation**: [[Trevda Soites]] from [[Federal Institute of Technology]] (Computer science)
@@ -807,6 +806,7 @@ meta:
 
 - **Document recorded**: [[Grawolja Lasmanna with the Five of Goretopol']] (interview)
 - **Document recorded**: [[Kolkov Interview 2009]] (interview)
+- **End of tenure**: [[Ganzer Teahowić]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]
 
 ### [[List of Confian elections|2009 Confian presidential election]]
 
