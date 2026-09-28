@@ -8,62 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "96473f9572ecd71d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Meta/Suizo's Artistic Bible/4 - Global facts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4 - Global facts"
-            }
-          },
-          {
-            "id": "9c97ee58ade12ecb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Susia/03 - Companies/Companies/Gražer-Moiyin.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Gražer-Moiyin"
-            }
-          },
-          {
-            "id": "7a52f4de579e9c6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Confia/06 - People/Japlen Razol.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Japlen Razol"
-            }
-          },
-          {
-            "id": "6b0eee2be3a4322f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Confia/06 - People/Japlen Razol.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Japlen Razol"
-            }
-          },
-          {
             "id": "9f2d289a7b55fd87",
             "type": "leaf",
             "state": {
@@ -90,9 +34,51 @@
               "icon": "lucide-file",
               "title": "Grawolja Lasmanna"
             }
+          },
+          {
+            "id": "2f35fd16afcb93dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Susia/09 - Titles/Emperor of the Dripstanian Empire.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Emperor of the Dripstanian Empire"
+            }
+          },
+          {
+            "id": "c0cb59cb26fba218",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Confia/09 - Titles/Confian Prime Minister.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Confian Prime Minister"
+            }
+          },
+          {
+            "id": "f930e8d7f5bb799e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Meta/Titles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Titles"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -270,14 +256,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd00f8ca7f84b5f8",
+  "active": "2f35fd16afcb93dc",
   "lastOpenFiles": [
-    "02 - Confia/06 - People/Boris Serec.md",
+    "02 - Confia/09 - Titles/Confian Prime Minister.md",
+    "00 - Meta/Titles.md",
+    "01 - Susia/09 - Titles/Emperor of the Dripstanian Empire.md",
     "02 - Confia/06 - People/Grawolja Lasmanna.md",
+    "02 - Confia/06 - People/Boris Serec.md",
     "02 - Confia/06 - People/Japlen Razol.md",
+    "01 - Susia/03 - Companies/Companies/Gražer-Moiyin.md",
+    "00 - Meta/Suizo's Artistic Bible/4 - Global facts.md",
     "02 - Confia/06 - People/Noljež Teššan.md",
     "02 - Confia/06 - People/Katerina Armoljubca Nožeslawna.md",
-    "01 - Susia/03 - Companies/Companies/Gražer-Moiyin.md",
     "01 - Susia/03 - Companies/Products/Soites Experimenter Program.md",
     "01 - Susia/03 - Companies/Products/Lizne.md",
     "01 - Susia/09 - Titles/CEO of the Soites Group.md",
@@ -294,13 +284,9 @@
     "01 - Susia/08 - Documents/Kolkov Interview 2009.md",
     "00 - Meta/Templates/University Template.md",
     "10 - Dripstanian Incria/Sekyo/List of Sekyan leaders.md",
-    "10 - Dripstanian Incria/Bershad/San'motko.md",
     "10 - Dripstanian Incria/Tehtíe/sedgYg1q5",
-    "10 - Dripstanian Incria/Tehtíe/Tehtíe.md",
     "10 - Dripstanian Incria/Tehtíe",
-    "10 - Dripstanian Incria/Veskera/Veskera.md",
     "10 - Dripstanian Incria/Veskera",
-    "10 - Dripstanian Incria/Bershad/Western Coalition Zone.md",
     "00 - Meta/Consolidated Drafts",
     "01 - Susia/07 - Organizations/Universities",
     "01 - Susia/06 - People/Soites/Soites Family chart.canvas"
