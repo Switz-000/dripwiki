@@ -1385,14 +1385,6 @@
    "country": "Susia"
   },
   {
-   "year": 1958,
-   "kind": "Interlude begins",
-   "text": "[[Confian Prime Minister]] (Position abolished)",
-   "source": "",
-   "source_type": "title",
-   "country": "Confia"
-  },
-  {
    "year": 1959,
    "kind": "Atrocity begins",
    "text": "[[Legrinpija Massacre]]",
@@ -1801,14 +1793,6 @@
    "country": "Confia"
   },
   {
-   "year": 1977,
-   "kind": "Interlude ends",
-   "text": "[[Confian Prime Minister]] (Position abolished)",
-   "source": "",
-   "source_type": "title",
-   "country": "Confia"
-  },
-  {
    "year": 1978,
    "kind": "Appointment",
    "text": "[[Boris Serec]] becomes Commissar of Education at [[Confian National Government]], appointed by [[Senjap Kunsekowić]]",
@@ -1934,6 +1918,22 @@
    "text": "[[Movement for Syndicalist Renovation]] by [[Mariana Torres]] and [[Genrih Maskernie]]",
    "source": "Movement for Syndicalist Renovation",
    "source_type": "organization",
+   "country": "Confia"
+  },
+  {
+   "year": 1980,
+   "kind": "Regency begins",
+   "text": "[[Confian Prime Minister]] ([['Genrih Maskernie']]). *Interim government*",
+   "source": "",
+   "source_type": "title",
+   "country": "Confia"
+  },
+  {
+   "year": 1980,
+   "kind": "Regency ends",
+   "text": "[[Confian Prime Minister]] ([['Genrih Maskernie']])",
+   "source": "",
+   "source_type": "title",
    "country": "Confia"
   },
   {
@@ -3674,15 +3674,6 @@
    "country": "Confia"
   },
   {
-   "lane": "titles",
-   "label": "Position abolished",
-   "start": 1958,
-   "end": 1977,
-   "title": "Confian Prime Minister",
-   "interlude": "interim",
-   "country": "Confia"
-  },
-  {
    "lane": "events",
    "label": "Legrinpija Massacre",
    "start": 1959,
@@ -3932,6 +3923,15 @@
    "label": "Syndicalist League",
    "start": 1979,
    "end": null,
+   "country": "Confia"
+  },
+  {
+   "lane": "titles",
+   "label": "[['Genrih Maskernie']]",
+   "start": 1980,
+   "end": 1980,
+   "title": "Confian Prime Minister",
+   "interlude": "regency",
    "country": "Confia"
   },
   {
