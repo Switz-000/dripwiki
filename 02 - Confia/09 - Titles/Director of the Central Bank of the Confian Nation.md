@@ -21,8 +21,9 @@ person articles. Edit those articles, not this block. %%
 
 %% holders:start %%
 
-| No. | Name | Term |
-| :-: | --- | :-: |
-| 1 | [[Kukan Peskilonni]] | 1986 - 1996 |
+| No. | Name | Term | Appointed by | Notes |
+| :-: | --- | :-: | --- | --- |
+| 1 | [[Grawolja Lasmanna]] | 1980 - 1986 | [[Senjap Kunsekowić]] | Replaced after Central Bank independence revoked |
+| 2 | [[Kukan Peskilonni]] | 1986 - 1991 | [[Boris Serec]] |  |
 
 %% holders:end %%
