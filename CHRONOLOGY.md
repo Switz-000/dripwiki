@@ -460,6 +460,7 @@ meta:
 
 ## 1958
 
+- **Abolition begins**: [[Confian Prime Minister]] (Position abolished)
 - **Appointment**: [[Ergagério Sienes]] becomes Vice President of Susia at [[Susian Federal Government]]
 - **Appointment**: [[Lorelaj Paulowić]] becomes Leader of the Confian Nation at [[Confian National Government]], appointed by [[Presidential Empowerment Amendment]]
 - **Death**: [[Urgiri Tečlan]] died in [[Duolij]], [[Postia]], [[Susia]] (Gunshot)
@@ -469,6 +470,7 @@ meta:
 - **Event begins**: [[New Duloc riot]]
 - **Event ends**: [[Matri assasination attempt (1958)]]
 - **Event ends**: [[New Duloc riot]]
+- **Interlude begins**: [[Confian Prime Minister]] (Position abolished)
 
 ### [[1958 Susian presidential election]]
 
@@ -555,6 +557,7 @@ meta:
 
 ## 1977
 
+- **Abolition ends**: [[Confian Prime Minister]] (Position abolished)
 - **Appointment**: [[Mariana Torres]] becomes Leader of the Confian Nation at [[Confian National Government]], appointed by [[Bayonet Revolution]]. *Interim*
 - **Death**: [[Lorelaj Paulowić]] died in [[Whereabouts unknown]], [[Whereabouts unknown]], [[Whereabouts unknown]] (Disappeared)
 - **Discharge**: [[Ňotrič Apaj]] from [[Susian Air Force]]
@@ -565,6 +568,7 @@ meta:
 - **Event ends**: [[Bayonet Revolution]]
 - **Event ends**: [[Continental Divide]]
 - **Founded**: [[Confian Nation Party (1977)]]
+- **Interlude ends**: [[Confian Prime Minister]] (Position abolished)
 
 ## 1978
 
