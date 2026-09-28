@@ -209,6 +209,14 @@
    "country": "Susia"
   },
   {
+   "year": 1752,
+   "kind": "Founded",
+   "text": "[[University of St Lichev]]",
+   "source": "University of St Lichev",
+   "source_type": "university",
+   "country": "Susia"
+  },
+  {
    "year": 1756,
    "kind": "Birth",
    "text": "[[Colin, King of the Tekurs]] born in [[Dripstanian Empire]]",
@@ -246,6 +254,14 @@
    "text": "[[Jartes I]] born in [[Dripstanian Empire]]",
    "source": "Jartes I",
    "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1767,
+   "kind": "Founded",
+   "text": "[[University of Duolij]]",
+   "source": "University of Duolij",
+   "source_type": "university",
    "country": "Susia"
   },
   {
@@ -305,6 +321,14 @@
    "country": "Confia"
   },
   {
+   "year": 1792,
+   "kind": "Founded",
+   "text": "[[University of New Kentu]]",
+   "source": "University of New Kentu",
+   "source_type": "university",
+   "country": "Susia"
+  },
+  {
    "year": 1793,
    "kind": "Appointment",
    "text": "[[Empress Prazde]] becomes Queen of Zaphonia. *157 AS to 125 AS in the family chart.*",
@@ -350,6 +374,22 @@
    "text": "[[Armadesh Versij]] born in [[Kruie ro Yietre]], [[Vitrika]], [[Dripstanian Empire]]",
    "source": "Armadesh Versij",
    "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1803,
+   "kind": "Founded",
+   "text": "[[Susian Naval Academy]]",
+   "source": "Susian Naval Academy",
+   "source_type": "university",
+   "country": "Susia"
+  },
+  {
+   "year": 1803,
+   "kind": "Founded",
+   "text": "[[University of New Duloc]]",
+   "source": "University of New Duloc",
+   "source_type": "university",
    "country": "Susia"
   },
   {
@@ -487,6 +527,14 @@
    "source": "Ražaw",
    "source_type": "company",
    "country": "Confia"
+  },
+  {
+   "year": 1831,
+   "kind": "Founded",
+   "text": "[[Royal Academy of Science]] by [[Jartes I]]",
+   "source": "Royal Academy of Science",
+   "source_type": "university",
+   "country": "Susia"
   },
   {
    "year": 1834,
@@ -721,6 +769,22 @@
    "country": "Susia"
   },
   {
+   "year": 1863,
+   "kind": "Founded",
+   "text": "[[Imperial College of Duolij]]",
+   "source": "Imperial College of Duolij",
+   "source_type": "university",
+   "country": "Susia"
+  },
+  {
+   "year": 1864,
+   "kind": "Founded",
+   "text": "[[Dripia State University]]",
+   "source": "Dripia State University",
+   "source_type": "university",
+   "country": "Susia"
+  },
+  {
    "year": 1867,
    "kind": "Founded",
    "text": "[[Imperial Tobacco Company]] in [[Duolij]]",
@@ -742,6 +806,14 @@
    "text": "[[Kaichet Satratonie]] died in [[Unknown]], [[Unknown]], [[Unknown]] (Unknown)",
    "source": "Kaichet Satratonie",
    "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1872,
+   "kind": "Founded",
+   "text": "[[Belluni College]]",
+   "source": "Belluni College",
+   "source_type": "university",
    "country": "Susia"
   },
   {
@@ -839,6 +911,14 @@
    "source": "Eriežera Lensekowina",
    "source_type": "person",
    "country": "Confia"
+  },
+  {
+   "year": 1901,
+   "kind": "Founded",
+   "text": "[[Neoveli School of Finance and Economics]]",
+   "source": "Neoveli School of Finance and Economics",
+   "source_type": "university",
+   "country": "Susia"
   },
   {
    "year": 1909,
@@ -1433,6 +1513,22 @@
    "country": "Incria"
   },
   {
+   "year": 1963,
+   "kind": "Founded",
+   "text": "[[Susian International College]]",
+   "source": "Susian International College",
+   "source_type": "university",
+   "country": "Susia"
+  },
+  {
+   "year": 1965,
+   "kind": "Founded",
+   "text": "[[Federal Institute of Technology]]",
+   "source": "Federal Institute of Technology",
+   "source_type": "university",
+   "country": "Susia"
+  },
+  {
    "year": 1966,
    "kind": "Appointment",
    "text": "[[Filevir Matri]] becomes Secretary of Justice at [[Susian Federal Government]], appointed by [[Serčev Fimžer]]",
@@ -1574,6 +1670,14 @@
    "text": "[[Filevir Matri]] leaves Senator for Postia at [[Susian Senate]]",
    "source": "Filevir Matri",
    "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1974,
+   "kind": "Founded",
+   "text": "[[Lasman Valley State University]]",
+   "source": "Lasman Valley State University",
+   "source_type": "university",
    "country": "Susia"
   },
   {
@@ -2449,6 +2553,14 @@
    "country": "Confia"
   },
   {
+   "year": 2002,
+   "kind": "Founded",
+   "text": "[[Kolkov Institute for Innovation]]",
+   "source": "Kolkov Institute for Innovation",
+   "source_type": "university",
+   "country": "Susia"
+  },
+  {
    "year": 2003,
    "kind": "Founded",
    "text": "[[Red Iron]] in [[Neoveli]]",
@@ -2625,6 +2737,14 @@
    "election": "[[List of Confian elections#2018 Confian presidential election]]"
   },
   {
+   "year": 2021,
+   "kind": "Founded",
+   "text": "[[Capital Institute of Technology and Policy]]",
+   "source": "Capital Institute of Technology and Policy",
+   "source_type": "university",
+   "country": "Susia"
+  },
+  {
    "year": 2023,
    "kind": "End of tenure",
    "text": "[[Nisa Peskilonna]] leaves President of the Confian Social Republic at [[Confian National Government]]",
@@ -2745,6 +2865,14 @@
    "country": "Susia"
   },
   {
+   "year": 2046,
+   "kind": "Founded",
+   "text": "[[Apaj Academy of Sciences and Engineering]]",
+   "source": "Apaj Academy of Sciences and Engineering",
+   "source_type": "university",
+   "country": "Susia"
+  },
+  {
    "year": 2047,
    "kind": "Yarnojte revoked",
    "text": "[[Troli Ustaras]]. *Revoked due to the Troli Ustaras corruption scandal*",
@@ -2830,6 +2958,14 @@
    "text": "[[Trevda Soites]] found Acquitted of Criminally negligent homicide (9 counts), Reckless infliction of serious bodily injury (23 counts) and Reckless endangerment (10 counts)",
    "source": "Trevda Soites",
    "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 2053,
+   "kind": "Founded",
+   "text": "[[Southern Technical College]]",
+   "source": "Southern Technical College",
+   "source_type": "university",
    "country": "Susia"
   },
   {
@@ -2984,6 +3120,20 @@
    "country": "Susia"
   },
   {
+   "lane": "institutions",
+   "label": "University of St Lichev",
+   "start": 1752,
+   "end": null,
+   "country": "Susia"
+  },
+  {
+   "lane": "institutions",
+   "label": "University of Duolij",
+   "start": 1767,
+   "end": null,
+   "country": "Susia"
+  },
+  {
    "lane": "titles",
    "label": "Empress Yaneoli",
    "start": 1787,
@@ -2994,6 +3144,13 @@
    "holder": "Empress Yaneoli"
   },
   {
+   "lane": "institutions",
+   "label": "University of New Kentu",
+   "start": 1792,
+   "end": null,
+   "country": "Susia"
+  },
+  {
    "lane": "titles",
    "label": "Empress Prazde",
    "start": 1793,
@@ -3002,6 +3159,20 @@
    "title": "Queen of Zaphonia",
    "display": "Queen of Zaphonia",
    "holder": "Empress Prazde"
+  },
+  {
+   "lane": "institutions",
+   "label": "Susian Naval Academy",
+   "start": 1803,
+   "end": null,
+   "country": "Susia"
+  },
+  {
+   "lane": "institutions",
+   "label": "University of New Duloc",
+   "start": 1803,
+   "end": null,
+   "country": "Susia"
   },
   {
    "lane": "titles",
@@ -3052,6 +3223,13 @@
    "start": 1830,
    "end": null,
    "country": "Confia"
+  },
+  {
+   "lane": "institutions",
+   "label": "Royal Academy of Science",
+   "start": 1831,
+   "end": null,
+   "country": "Susia"
   },
   {
    "lane": "events",
@@ -3130,6 +3308,20 @@
   },
   {
    "lane": "institutions",
+   "label": "Imperial College of Duolij",
+   "start": 1863,
+   "end": null,
+   "country": "Susia"
+  },
+  {
+   "lane": "institutions",
+   "label": "Dripia State University",
+   "start": 1864,
+   "end": null,
+   "country": "Susia"
+  },
+  {
+   "lane": "institutions",
    "label": "Imperial Tobacco Company",
    "start": 1867,
    "end": null,
@@ -3139,6 +3331,13 @@
    "lane": "institutions",
    "label": "Triževa Bank",
    "start": 1869,
+   "end": null,
+   "country": "Susia"
+  },
+  {
+   "lane": "institutions",
+   "label": "Belluni College",
+   "start": 1872,
    "end": null,
    "country": "Susia"
   },
@@ -3184,6 +3383,13 @@
    "lane": "institutions",
    "label": "Silver Coast Bank",
    "start": 1893,
+   "end": null,
+   "country": "Susia"
+  },
+  {
+   "lane": "institutions",
+   "label": "Neoveli School of Finance and Economics",
+   "start": 1901,
    "end": null,
    "country": "Susia"
   },
@@ -3470,6 +3676,20 @@
    "country": "Incria"
   },
   {
+   "lane": "institutions",
+   "label": "Susian International College",
+   "start": 1963,
+   "end": null,
+   "country": "Susia"
+  },
+  {
+   "lane": "institutions",
+   "label": "Federal Institute of Technology",
+   "start": 1965,
+   "end": null,
+   "country": "Susia"
+  },
+  {
    "lane": "titles",
    "label": "Filevir Matri",
    "start": 1966,
@@ -3561,6 +3781,13 @@
    "title": "Vice President of Susia",
    "display": "Vice President of Susia",
    "holder": "Filevir Matri"
+  },
+  {
+   "lane": "institutions",
+   "label": "Lasman Valley State University",
+   "start": 1974,
+   "end": null,
+   "country": "Susia"
   },
   {
    "lane": "events",
@@ -3938,6 +4165,13 @@
   },
   {
    "lane": "institutions",
+   "label": "Kolkov Institute for Innovation",
+   "start": 2002,
+   "end": null,
+   "country": "Susia"
+  },
+  {
+   "lane": "institutions",
    "label": "Red Iron",
    "start": 2003,
    "end": null,
@@ -3988,6 +4222,13 @@
    "holder": "Nisa Peskilonna"
   },
   {
+   "lane": "institutions",
+   "label": "Capital Institute of Technology and Policy",
+   "start": 2021,
+   "end": null,
+   "country": "Susia"
+  },
+  {
    "lane": "titles",
    "label": "Trevda Soites",
    "start": 2031,
@@ -4012,6 +4253,13 @@
    "country": "Susia"
   },
   {
+   "lane": "institutions",
+   "label": "Apaj Academy of Sciences and Engineering",
+   "start": 2046,
+   "end": null,
+   "country": "Susia"
+  },
+  {
    "lane": "titles",
    "label": "Yepodij Soites",
    "start": 2052,
@@ -4020,6 +4268,13 @@
    "title": "CEO of the Soites Group",
    "display": "CEO of the Soites Group",
    "holder": "Yepodij Soites"
+  },
+  {
+   "lane": "institutions",
+   "label": "Southern Technical College",
+   "start": 2053,
+   "end": null,
+   "country": "Susia"
   },
   {
    "lane": "institutions",

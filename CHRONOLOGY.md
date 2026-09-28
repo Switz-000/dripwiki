@@ -93,6 +93,7 @@ meta:
 ## 1752
 
 - **Birth**: [[Empress Yaneoli]] born in [[Dripstanian Empire]]
+- **Founded**: [[University of St Lichev]]
 
 ## 1756
 
@@ -107,6 +108,10 @@ meta:
 
 - **Birth**: [[Empress Prazde]] born in [[Dripstanian Empire]]
 - **Birth**: [[Jartes I]] born in [[Dripstanian Empire]]
+
+## 1767
+
+- **Founded**: [[University of Duolij]]
 
 ## 1768
 
@@ -130,6 +135,10 @@ meta:
 
 - **Birth**: [[Wanašer Gerzăn]] born in [[Carlotopolis]], [[Karlotopol']], [[Dripstanian Empire]]
 
+## 1792
+
+- **Founded**: [[University of New Kentu]]
+
 ## 1793
 
 - **Appointment**: [[Empress Prazde]] becomes Queen of Zaphonia. *157 AS to 125 AS in the family chart.*
@@ -150,6 +159,11 @@ meta:
 ## 1801
 
 - **Birth**: [[Armadesh Versij]] born in [[Kruie ro Yietre]], [[Vitrika]], [[Dripstanian Empire]]
+
+## 1803
+
+- **Founded**: [[Susian Naval Academy]]
+- **Founded**: [[University of New Duloc]]
 
 ## 1809
 
@@ -194,6 +208,10 @@ meta:
 ## 1830
 
 - **Founded**: [[Ražaw]] in [[Imgospalje]]
+
+## 1831
+
+- **Founded**: [[Royal Academy of Science]] by [[Jartes I]]
 
 ## 1834
 
@@ -251,6 +269,14 @@ meta:
 
 - **Birth**: [[Emperor Sallemaj]] born in [[Soiteslaj|St. Mantichev city]], [[Neutral District]], [[Dripstanian Empire]]
 
+## 1863
+
+- **Founded**: [[Imperial College of Duolij]]
+
+## 1864
+
+- **Founded**: [[Dripia State University]]
+
 ## 1867
 
 - **Founded**: [[Imperial Tobacco Company]] in [[Duolij]]
@@ -262,6 +288,7 @@ meta:
 ## 1872
 
 - **Death**: [[Kaichet Satratonie]] died in [[Unknown]], [[Unknown]], [[Unknown]] (Unknown)
+- **Founded**: [[Belluni College]]
 
 ## 1873
 
@@ -301,6 +328,10 @@ meta:
 ## 1900
 
 - **Birth**: [[Eriežera Lensekowina]] born in [[Saint Eriogala]], [[Koštanože]], [[Dripstanian Empire]]
+
+## 1901
+
+- **Founded**: [[Neoveli School of Finance and Economics]]
 
 ## 1909
 
@@ -474,6 +505,11 @@ meta:
 ## 1963
 
 - **Atrocity begins**: [[Buta genocide]]
+- **Founded**: [[Susian International College]]
+
+## 1965
+
+- **Founded**: [[Federal Institute of Technology]]
 
 ## 1966
 
@@ -506,6 +542,7 @@ meta:
 - **Appointment**: [[Filevir Matri]] becomes Vice President of Susia at [[Susian Federal Government]]
 - **End of tenure**: [[Ergagério Sienes]] leaves President of Susia at [[Susian Federal Government]]
 - **End of tenure**: [[Filevir Matri]] leaves Senator for Postia at [[Susian Senate]]
+- **Founded**: [[Lasman Valley State University]]
 - **Graduation**: [[Chedji Soites]] from [[Belluni College]] (Finance)
 
 ### [[1974 Susian presidential election]]
@@ -742,6 +779,7 @@ meta:
 - **Birth**: [[Venvek Rashera]] born in [[Damčev]], [[Sužielaj]], [[Susia]]
 - **Death**: [[Filevir Matri]] died in [[Duolij]], [[Postia]], [[Susia]] (Natural causes)
 - **End of tenure**: [[Lenseka Japlenowina]] leaves Mayor of Imgospalje
+- **Founded**: [[Kolkov Institute for Innovation]]
 
 ## 2003
 
@@ -803,6 +841,10 @@ meta:
 
 - [[Nisa Peskilonna]], President of the Confian Social Republic ([[Republican Promise]])
 
+## 2021
+
+- **Founded**: [[Capital Institute of Technology and Policy]]
+
 ## 2023
 
 - **End of tenure**: [[Nisa Peskilonna]] leaves President of the Confian Social Republic at [[Confian National Government]]
@@ -851,6 +893,10 @@ meta:
 
 - **Document recorded**: [[Untitled]] (text chat)
 
+## 2046
+
+- **Founded**: [[Apaj Academy of Sciences and Engineering]]
+
 ## 2047
 
 - **Yarnojte revoked**: [[Troli Ustaras]]. *Revoked due to the Troli Ustaras corruption scandal*
@@ -879,6 +925,7 @@ meta:
 
 ## 2053
 
+- **Founded**: [[Southern Technical College]]
 - **Yarnojte granted**: [[Vandernij & Milier]]
 
 ## 2063

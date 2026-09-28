@@ -252,7 +252,7 @@ def spans_of(fm: dict, name: str, rel: Path, titles: dict) -> list[dict]:
             add("titles", name, post.get("start_year"), post.get("end_year"),
                 title=title_name, display=title_display(spec, post, fm.get("sex")),
                 seat=_name(post.get("seat")), holder=name)
-    elif kind in ("organization", "institution", "company"):
+    elif kind in ("organization", "institution", "university", "company"):
         add("institutions", name, fm.get("founded"), fm.get("dissolved"))
     elif kind in ("event", "war", "rebellion", "atrocity", "project"):
         add("events", name, fm.get("date_start"), fm.get("date_end"))
@@ -433,7 +433,7 @@ def extract_events(
                _notes_text(fm))
 
     # ── Organization / Institution ───────────────────────────────────────────
-    elif note_type in ("organization", "institution"):
+    elif note_type in ("organization", "institution", "university"):
         founders = _wl(fm.get("founded_by"))
         record([(fm.get("founded"),
                  f"**Founded**: {link}" + (f" by {founders}" if founders else "")),
