@@ -1298,6 +1298,14 @@
   },
   {
    "year": 1958,
+   "kind": "Abolition begins",
+   "text": "[[Confian Prime Minister]] (Position abolished)",
+   "source": "",
+   "source_type": "title",
+   "country": "Confia"
+  },
+  {
+   "year": 1958,
    "kind": "Appointment",
    "text": "[[Ergagério Sienes]] becomes Vice President of Susia at [[Susian Federal Government]]",
    "source": "Ergagério Sienes",
@@ -1375,6 +1383,14 @@
    "source": "New Duloc riot",
    "source_type": "event",
    "country": "Susia"
+  },
+  {
+   "year": 1958,
+   "kind": "Interlude begins",
+   "text": "[[Confian Prime Minister]] (Position abolished)",
+   "source": "",
+   "source_type": "title",
+   "country": "Confia"
   },
   {
    "year": 1959,
@@ -1698,6 +1714,14 @@
   },
   {
    "year": 1977,
+   "kind": "Abolition ends",
+   "text": "[[Confian Prime Minister]] (Position abolished)",
+   "source": "",
+   "source_type": "title",
+   "country": "Confia"
+  },
+  {
+   "year": 1977,
    "kind": "Appointment",
    "text": "[[Mariana Torres]] becomes Leader of the Confian Nation at [[Confian National Government]], appointed by [[Bayonet Revolution]]. *Interim*",
    "source": "Mariana Torres",
@@ -1774,6 +1798,14 @@
    "text": "[[Confian Nation Party (1977)]]",
    "source": "Confian Nation Party (1977)",
    "source_type": "organization",
+   "country": "Confia"
+  },
+  {
+   "year": 1977,
+   "kind": "Interlude ends",
+   "text": "[[Confian Prime Minister]] (Position abolished)",
+   "source": "",
+   "source_type": "title",
    "country": "Confia"
   },
   {
@@ -3631,6 +3663,24 @@
    "title": "Confian President",
    "display": "Leader of the Confian Nation",
    "holder": "Lorelaj Paulowić"
+  },
+  {
+   "lane": "titles",
+   "label": "Position abolished",
+   "start": 1958,
+   "end": 1977,
+   "title": "Confian Prime Minister",
+   "interlude": "abolished",
+   "country": "Confia"
+  },
+  {
+   "lane": "titles",
+   "label": "Position abolished",
+   "start": 1958,
+   "end": 1977,
+   "title": "Confian Prime Minister",
+   "interlude": "interim",
+   "country": "Confia"
   },
   {
    "lane": "events",
