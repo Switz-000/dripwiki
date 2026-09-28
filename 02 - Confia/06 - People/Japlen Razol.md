@@ -44,11 +44,23 @@ education:
     year:
   -
 
-# ── CAREER ──────────────────────────────────────────────────────────────────
-occupation:
-  - title:
+# ── TITLES AND ROLES ────────────────────────────────────────────────────────
+titles:
+  - title: "[[Confian Prime Minister]]"
+    seat:
+    start_year: 1986
+    end_year: 1990
+    appointer: "[[National Assembly of Confian Syndicates]]"
+    parties:
+      - "[[Armotist Democratic Party]]"
+    notes:
+
+roles:
+  - role:
+    employer:
     start_year:
     end_year:
+    notes:
 
 military_service:
   - allegiance:

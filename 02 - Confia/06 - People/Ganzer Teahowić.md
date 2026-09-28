@@ -34,11 +34,6 @@ education:
   - degree:
     institution:
     year:
-  -
-occupation:
-  - title:
-    start_year:
-    end_year:
 military_service:
   - allegiance:
     branch:
@@ -65,7 +60,7 @@ titles:
     notes:
   - title: "[[Confian Prime Minister]]"
     start_year: 2001
-    end_year: 2008
+    end_year: 2009
     appointer: "[[National Assembly of Confian Syndicates]]"
     parties:
       - "[[Syndicalist League]]"
