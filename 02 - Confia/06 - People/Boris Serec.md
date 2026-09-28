@@ -192,8 +192,8 @@ portrait:
   extras: []
   shape:
     headW: 0.94
-    headH: 0.97
-    bodyW: 1.00
+    headH: 1.00
+    bodyW: 1.15
     bodyH: 1.00
   palette:
     skin: "#ffffff"
@@ -201,8 +201,8 @@ portrait:
     facial: "#bd8530"
     frames: "#41230a"
     outfit: "#ffffff"
-    suit: "#09135e"
-    shirt: "#ceedf4"
+    suit: "#1c2044"
+    shirt: "#99c1f1"
     tie: "#ed1c24"
 ---
 
