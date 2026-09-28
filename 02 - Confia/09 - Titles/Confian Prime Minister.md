@@ -20,11 +20,11 @@ interludes:
     start_year: 1958
     end_year: 1977
     notes:
-  - kind: interim
-    name: Position abolished
+  - kind: regency
+    name: [[Genrih Maskernie]]
     start_year: 1958
     end_year: 1977
-    notes:
+    notes: Interim government
 meta:
   stub: true
   verified: false
