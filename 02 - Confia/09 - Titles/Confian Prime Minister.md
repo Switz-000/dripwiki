@@ -22,8 +22,8 @@ interludes:
     notes:
   - kind: regency
     name: [[Genrih Maskernie]]
-    start_year: 1958
-    end_year: 1977
+    start_year: 1980
+    end_year: 1980
     notes: Interim government
 meta:
   stub: true
