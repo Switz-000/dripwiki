@@ -146,7 +146,7 @@ meta:
 
 portrait:
   eyes: dot
-  eyeliner: arc
+  eyeliner: dash
   brows: bold
   nose: straight
   mouth: wavy
@@ -154,11 +154,11 @@ portrait:
   facial: []
   eyewear: none
   outfit: suit-open
-  extras: [cheek-lines, crows-feet, eye-bags]
+  extras: [crows-feet, eye-bags]
   shape:
     headW: 0.92
-    headH: 0.90
-    bodyW: 0.75
+    headH: 0.94
+    bodyW: 0.86
     bodyH: 0.91
   palette:
     skin: "#ffffff"
