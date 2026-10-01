@@ -72,9 +72,9 @@ organizations:
 
 # ── TITLES AND ROLES ────────────────────────────────────────────────────────
 titles:
-  - title: "[[Confian President]]"
-    start_year: 2029
-    end_year: 2033
+  - title: "[[Confian Prime Minister]]"
+    start_year: 2026
+    end_year: 2030
     appointer:
     parties:
       - "[[Democratic Bloc]]"
@@ -133,7 +133,6 @@ meta:
   verified: false
   image: null
 ---
-
-**Armoljubca Darzedanna** is a Confian politician who served as the 5th President of [[Confia]] from 2029 to 2033, representing [[Democratic Bloc]].
+**Armoljubca Darzedanna** is a Confian politician who served as the 9th Prime Minister of [[Confia]] from 2026 to 2030, representing the [[Democratic Bloc]].
 
 %% TODO: expand %%

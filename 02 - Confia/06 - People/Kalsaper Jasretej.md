@@ -111,5 +111,30 @@ meta:
   stub: true
   verified: false
   image:
+portrait:
+  eyes: dot
+  eyeliner: dash
+  brows: bold
+  nose: hook
+  mouth: wide
+  hair: swoop
+  facial: []
+  eyewear: none
+  outfit: suit
+  extras: []
+  shape:
+    headW: 0.97
+    headH: 1.01
+    bodyW: 1.00
+    bodyH: 1.00
+  palette:
+    skin: "#ffffff"
+    hair: "#370d00"
+    facial: "#6b4a2e"
+    frames: "#41230a"
+    outfit: "#ffffff"
+    suit: "#0b0b0b"
+    shirt: "#f4fcfd"
+    tie: "#030303"
 ---
 **Kalsaper Japlenowić Jasretej** is a [[Confia|Confian]] nuclear engineer and politician who served as the 9th and 11th President of the Confian Social Republic. They were the first non-binary person in recorded history to be elected head of state.****

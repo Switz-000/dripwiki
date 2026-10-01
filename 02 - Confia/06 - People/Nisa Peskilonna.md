@@ -34,7 +34,7 @@ education:
   - degree:
     institution:
     year:
-  -
+  - 
 occupation:
   - title:
     start_year:
@@ -46,16 +46,16 @@ military_service:
     start_year:
     end_year:
     conflicts:
-      -
+      - 
     notes:
 political_alignment:
-  -
+  - "[[Peskilonnism]]"
 party: "[[Republican Promise]]"
 parties:
   - "[[Shield!|Shield! (2000-2014)]]"
   - "[[Armotist Democratic Party|Armotist Democratic Party (1980-2000)]]"
 organizations:
-  -
+  - 
 titles:
   - title: "[[Confian President]]"
     start_year: 2019
@@ -100,10 +100,10 @@ awards:
 era:
   - social-republic
 tags:
-  -
+  - 
 meta:
   stub: true
   verified: false
   image:
 ---
-**Nisa Jańowina Peskilonna** is a [[Confia|Confian]] lawyer and politician who served as the 3rd President of the Confian Social Republic. She is the sister of former central banker [[Kukan Peskilonni]]
+**Nisa Jańowina Peskilonna** is a [[Confia|Confian]] lawyer and politician who served for two terms as the 3rd President of the Confian Social Republic. She is the sister of former central banker [[Kukan Peskilonni]]. Peskilonna governed as a right-wing populist.

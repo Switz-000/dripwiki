@@ -17,20 +17,20 @@ meta:
 
 President of the Nation (President)
 
-| No. |           Name            |   Term    |              Party               |   Vice President   |                             Notes                             |               Political spectrum                |
-| :-: | :-----------------------: | :-------: | :------------------------------: | :----------------: | :-----------------------------------------------------------: | :---------------------------------------------: |
-|  1  |    [[Ganzer Teahowić]]    | 2009-2011 |      [[Syndicalist League]]      |  [[Tegiron Hari]]  | [[Ganzer Teahowić#Assassination and funeral\|Died in office]] | [[Syndicalism#New Syndicalism\|Left-of-centre]] |
-|  2  |     [[Tegiron Hari]]      | 2011-2013 |      [[Syndicalist League]]      |                    |                   Assumed as vice-president                   |  [[Syndicalism#New Syndicalism\|Centre-left]]   |
-|  3  |    [[Nisa Peskilonna]]    | 2014-2018 |      [[Republican Promise]]      |                    |                                                               |          [[Peskilonnism\|Right-wing]]           |
-|  -  |    [[Nisa Peskilonna]]    | 2019-2023 |      [[Republican Promise]]      |                    |                                                               |          [[Peskilonnism\|Right-wing]]           |
-|  4  |    [[Pawlăn Listewi]]     | 2024-2028 |          *Independent*           |                    |                                                               |                 Right-of-centre                 |
-|  5  | [[Armoljubca Darzedanna]] | 2029-2033 |       [[Democratic Bloc]]        |                    |                                                               |                  Populist left                  |
-|  6  |    [[Pismon Goltanni]]    | 2034-2036 |       [[The Confian Home]]       | [[Kunsek Aljerni]] |                           Impeached                           |                 Populist right                  |
-|  7  |    [[Kunsek Aljerni]]     | 2036-2037 | [[Liberty! with Kunsek Aljerni]] |                    |            Took office as vice-president; resigned            |           Libertarian (Neo-Versijian)           |
-|  8  |     [[Japlen Razol]]      | 2037-2038 |                                  |                    |        Took office as speaker of the National Assembly        |                  Centre-right                   |
-|  9  |   [[Kalsaper Jasretej]]   | 2038-2042 |          [[Atom Party]]          |                    |                                                               |            [[Modernism\|Modernist]]             |
-| 10  |                           | 2043-2047 |                                  |                    |                                                               |                                                 |
-| 11  |   [[Kalsaper Jasretej]]   | 2048-2052 |          [[Atom Party]]          |                    |                                                               |            [[Modernism\|Modernist]]             |
+| No. |         Name          |   Term    |              Party               |   Vice President   |                             Notes                             |               Political spectrum                |
+| :-: | :-------------------: | :-------: | :------------------------------: | :----------------: | :-----------------------------------------------------------: | :---------------------------------------------: |
+|  1  |  [[Ganzer Teahowić]]  | 2009-2011 |      [[Syndicalist League]]      |  [[Tegiron Hari]]  | [[Ganzer Teahowić#Assassination and funeral\|Died in office]] | [[Syndicalism#New Syndicalism\|Left-of-centre]] |
+|  2  |   [[Tegiron Hari]]    | 2011-2013 |      [[Syndicalist League]]      |                    |                   Assumed as vice-president                   |  [[Syndicalism#New Syndicalism\|Centre-left]]   |
+|  3  |  [[Nisa Peskilonna]]  | 2014-2018 |      [[Republican Promise]]      |                    |                                                               |          [[Peskilonnism\|Right-wing]]           |
+|  -  |  [[Nisa Peskilonna]]  | 2019-2023 |      [[Republican Promise]]      |                    |                                                               |          [[Peskilonnism\|Right-wing]]           |
+|  4  |  [[Pawlăn Listewi]]   | 2024-2028 |          *Independent*           |                    |                                                               |                 Right-of-centre                 |
+|  5  |  [[Pismon Goltanni]]  | 2029-2031 |       [[The Confian Home]]       | [[Kunsek Aljerni]] |                           Impeached                           |                 Populist right                  |
+|  6  |  [[Kunsek Aljerni]]   | 2031-2032 | [[Liberty! with Kunsek Aljerni]] |  *Office vacant*   |            Took office as vice-president; resigned            |           Libertarian (Neo-Versijian)           |
+|  7  |   [[Japlen Razol]]    | 2032-2033 |   [[Confian Democratic Party]]   |                    |        Took office as speaker of the National Assembly        |                  Centre-right                   |
+|  8  | [[Kalsaper Jasretej]] | 2033-2037 |          [[Atom Party]]          |                    |                                                               |            [[Modernism\|Modernist]]             |
+|  9  |                       | 2038-2042 |                                  |                    |                                                               |                                                 |
+| 10  | [[Kalsaper Jasretej]] | 2043-2047 |          [[Atom Party]]          |                    |                                                               |            [[Modernism\|Modernist]]             |
+| 11  |                       | 2048-2052 |                                  |                    |                                                               |                                                 |
 # Syndicalist Republic (1977-2009)
 
 Presidents of the Council of Commissars of the United Syndicates of Confia (Prime Minister)
