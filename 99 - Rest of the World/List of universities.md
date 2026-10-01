@@ -25,6 +25,7 @@ article in the vault. Edit those articles, not this block. %%
 | [[University of New Kentu]] | [[New Kentu]] | [[Susia]] | Private |  | 1792 |
 | [[Susian Naval Academy]] | [[Noňofriye]] | [[Susia]] | Military Academy | [[Department of Defense]] | 1803 |
 | [[University of New Duloc]] | [[New Duloc]] | [[Susia]] | Public | [[Postia\|State of Postia]] | 1803 |
+| [[Carlotopolis State University for the Humanities]] | [[Carlotopolis]] | [[Confia]] | Public | [[Confian National Government]] | 1822 |
 | [[Royal Academy of Science]] | [[Duolij]] | [[Susia]] |  |  | 1831 |
 | [[Imperial College of Duolij]] | [[Duolij]] | [[Susia]] | Public |  | 1863 |
 | [[Dripia State University]] | [[New Kentu]] | [[Susia]] | Public | [[Dripia\|State of Dripia]] | 1864 |

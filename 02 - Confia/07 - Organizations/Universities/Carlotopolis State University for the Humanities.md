@@ -21,3 +21,13 @@ meta:
   image:
 ---
 
+## Alumni
+
+%% alumni:start %%
+
+| Name | Degree | Year |
+| --- | --- | :-: |
+| [[Eriežera Lensekowina]] | Baccalaureate in Philosophy | 1924 |
+| [[Eriežera Lensekowina]] | Baccalaureate in Journalism | 1930 |
+
+%% alumni:end %%

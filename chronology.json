@@ -473,6 +473,14 @@
    "country": "Susia"
   },
   {
+   "year": 1822,
+   "kind": "Founded",
+   "text": "[[Carlotopolis State University for the Humanities]]",
+   "source": "Carlotopolis State University for the Humanities",
+   "source_type": "university",
+   "country": "Confia"
+  },
+  {
    "year": 1823,
    "kind": "Death",
    "text": "[[Colin, King of the Tekurs]] died in [[Dripstanian Empire]]",
@@ -3523,6 +3531,13 @@
    "title": "Emperor of the Dripstanian Empire",
    "display": "Emperor of the Dripstanian Empire",
    "holder": "Jartes I"
+  },
+  {
+   "lane": "institutions",
+   "label": "Carlotopolis State University for the Humanities",
+   "start": 1822,
+   "end": null,
+   "country": "Confia"
   },
   {
    "lane": "institutions",

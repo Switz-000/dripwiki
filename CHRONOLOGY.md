@@ -190,6 +190,10 @@ meta:
 
 - **Birth**: [[Jartes II]] born in [[Duolij]], [[Postia]], [[Dripstanian Empire]]
 
+## 1822
+
+- **Founded**: [[Carlotopolis State University for the Humanities]]
+
 ## 1823
 
 - **Death**: [[Colin, King of the Tekurs]] died in [[Dripstanian Empire]]
