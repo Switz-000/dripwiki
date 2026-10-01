@@ -1,7 +1,6 @@
 ---
 type: person
-native_name:
-lusitanized_name: Lenseka Japlenowina Katinnaja
+native_name: Lenseka Japlenowina Katinnaja
 aliases:
   - Japlenowina
 summary:
@@ -34,7 +33,7 @@ education:
   - degree:
     institution:
     year:
-  -
+  - 
 occupation:
   - title:
     start_year:
@@ -46,7 +45,7 @@ military_service:
     start_year:
     end_year:
     conflicts:
-      -
+      - 
     notes:
 political_alignment:
   - "[[Social democracy]]"
@@ -54,7 +53,7 @@ party: "[[Progressive Republican Party]]"
 parties:
   - "[[Progressive Republican Party]]"
 organizations:
-  -
+  - 
 titles:
   - title: "[[Confian Prime Minister]]"
     start_year: 1978
@@ -98,7 +97,7 @@ awards:
     country:
     notes:
 era:
-  -
+  - 
 tags:
   - politics/governance
   - economy/finance
