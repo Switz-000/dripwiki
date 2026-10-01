@@ -124,6 +124,31 @@ meta:
   stub: true
   verified: false
   image:
+portrait:
+  eyes: dot
+  eyeliner: none
+  brows: worried
+  nose: slope
+  mouth: smile
+  hair: swept
+  facial: [brush, chin-tuft]
+  eyewear: none
+  outfit: suit
+  extras: []
+  shape:
+    headW: 0.94
+    headH: 1.03
+    bodyW: 1.18
+    bodyH: 1.00
+  palette:
+    skin: "#ffffff"
+    hair: "#141210"
+    facial: "#141210"
+    frames: "#41230a"
+    outfit: "#ffffff"
+    suit: "#0c0c0c"
+    shirt: "#ebebeb"
+    tie: "#c40005"
 ---
 **Ganzer Teahowić Dasunah** was a [[Confia|Confian]] hospital administrator, trade unionist and politician who served as the 9th and last Prime Minister of the United Syndicates of Confia, as well as the 1st President of the Confian Social Republic. The most popular head of government in Confian history, Teahowić became an iconic figure of the Confian moderate left, who praise his pragmatic and negotiating style of governance. His tenure is remembered positively due to the simultaneity with the 2000s economic boom in Confia, a time of social stability, reduction of inequalities and increase in standard of living.
 
