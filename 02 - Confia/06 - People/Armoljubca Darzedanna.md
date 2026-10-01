@@ -1,55 +1,42 @@
 ---
-# ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
 native_name:
 lusitanized_name:
 aliases:
   - Darzedanna
 summary:
-
-# ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
-sex:
+sex: Female
 ethnicity:
 religion:
 citizenship:
-  -
+  - 
 nationality:
-  -
+  - 
 enhanced: false
-
-# ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
 birth:
   year:
   city:
   state:
   country:
-
 death:
   year:
   city:
   state:
   country:
   cause:
-
-# ── FAMILY ──────────────────────────────────────────────────────────────────
 relations:
   - person:
     relation:
     notes:
-
-# ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
   - degree:
     institution:
     year:
-  -
-
-# ── CAREER ──────────────────────────────────────────────────────────────────
+  - 
 occupation:
   - title:
     start_year:
     end_year:
-
 military_service:
   - allegiance:
     branch:
@@ -57,20 +44,15 @@ military_service:
     start_year:
     end_year:
     conflicts:
-      -
-    notes: null
-
+      - 
+    notes:
 political_alignment:
-  -
-
-party: "[[Democratic Bloc]]"        # principal partido, ou partido atual
-parties:                                        # partidos que ela ja pertenceu
+  - 
+party: "[[Democratic Bloc]]"
+parties:
   - "[[Democratic Bloc]]"
-
 organizations:
-  -
-
-# ── TITLES AND ROLES ────────────────────────────────────────────────────────
+  - 
 titles:
   - title: "[[Confian Prime Minister]]"
     start_year: 2026
@@ -79,23 +61,17 @@ titles:
     parties:
       - "[[Democratic Bloc]]"
     notes:
-
 roles:
   - role:
     employer:
     start_year:
     end_year:
     notes:
-
-# ── WRITTEN WORKS ───────────────────────────────────────────────────────────
 written_works:
   - title:
     publication_year:
     genre:
     notes:
-
-
-# ── CRIMINAL RECORD ─────────────────────────────────────────────────────────
 criminal_charges:
   - charge:
     counts:
@@ -107,12 +83,9 @@ criminal_charges:
     served:
     in_absentia:
     notes:
-
-# ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
   - item:
     notes:
-
 awards:
   - title:
     awarded_year:
@@ -120,18 +93,14 @@ awards:
     granted_by:
     country:
     notes:
-
 era:
-  -
-
-# ── META ────────────────────────────────────────────────────────────────────
+  - 
 tags:
-  -
-
+  - 
 meta:
   stub: true
   verified: false
-  image: null
+  image:
 ---
 **Armoljubca Darzedanna** is a Confian politician who served as the 9th Prime Minister of [[Confia]] from 2026 to 2030, representing the [[Democratic Bloc]].
 
