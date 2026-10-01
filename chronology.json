@@ -2969,6 +2969,14 @@
    "country": "Confia"
   },
   {
+   "year": 2026,
+   "kind": "Appointment",
+   "text": "[[Armoljubca Darzedanna]] becomes President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]",
+   "source": "Armoljubca Darzedanna",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
    "year": 2028,
    "kind": "End of tenure",
    "text": "[[Pawlăn Listewi]] leaves President of the Confian Social Republic at [[Confian National Government]]",
@@ -2977,9 +2985,9 @@
    "country": "Confia"
   },
   {
-   "year": 2029,
-   "kind": "Appointment",
-   "text": "[[Armoljubca Darzedanna]] becomes President of the Confian Social Republic at [[Confian National Government]]",
+   "year": 2030,
+   "kind": "End of tenure",
+   "text": "[[Armoljubca Darzedanna]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]",
    "source": "Armoljubca Darzedanna",
    "source_type": "person",
    "country": "Confia"
@@ -3007,14 +3015,6 @@
    "source": "Yerčemark",
    "source_type": "company",
    "country": "Susia"
-  },
-  {
-   "year": 2033,
-   "kind": "End of tenure",
-   "text": "[[Armoljubca Darzedanna]] leaves President of the Confian Social Republic at [[Confian National Government]]",
-   "source": "Armoljubca Darzedanna",
-   "source_type": "person",
-   "country": "Confia"
   },
   {
    "year": 2034,
@@ -4678,11 +4678,11 @@
   {
    "lane": "titles",
    "label": "Armoljubca Darzedanna",
-   "start": 2029,
-   "end": 2033,
+   "start": 2026,
+   "end": 2030,
    "country": "Confia",
-   "title": "Confian President",
-   "display": "President of the Confian Social Republic",
+   "title": "Confian Prime Minister",
+   "display": "President of the Council of Commissars of the United Syndicates of Confia",
    "holder": "Armoljubca Darzedanna"
   },
   {

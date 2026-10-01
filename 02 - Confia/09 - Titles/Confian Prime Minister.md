@@ -52,5 +52,6 @@ person articles. Edit those articles, not this block. %%
 | - | [[Noljež Teššan]] | 1996 - 1998 | [[Syndicalist League]] | [[National Assembly of Confian Syndicates]] |  |
 | 8 | [[Grawolja Lasmanna]] | 1998 - 2000 | [[Independent]] | [[National Assembly of Confian Syndicates]] |  |
 | 9 | [[Ganzer Teahowić]] | 2001 - 2009 | [[Syndicalist League]] | [[National Assembly of Confian Syndicates]] |  |
+| 10 | [[Armoljubca Darzedanna]] | 2026 - 2030 | [[Democratic Bloc]] |  |  |
 
 %% holders:end %%

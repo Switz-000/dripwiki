@@ -900,23 +900,23 @@ meta:
 - **Appointment**: [[Pawlăn Listewi]] becomes President of the Confian Social Republic at [[Confian National Government]]
 - **Death**: [[Boris Serec]] died in [[Carlotopolis State Prison]], [[Karlotopol']], [[Confia]] (Natural causes)
 
+## 2026
+
+- **Appointment**: [[Armoljubca Darzedanna]] becomes President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]
+
 ## 2028
 
 - **End of tenure**: [[Pawlăn Listewi]] leaves President of the Confian Social Republic at [[Confian National Government]]
 
-## 2029
+## 2030
 
-- **Appointment**: [[Armoljubca Darzedanna]] becomes President of the Confian Social Republic at [[Confian National Government]]
+- **End of tenure**: [[Armoljubca Darzedanna]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]
 
 ## 2031
 
 - **Appointment**: [[Trevda Soites]] becomes CEO of the Soites Group, appointed by [[Chedji Soites]]
 - **End of tenure**: [[Chedji Soites]] leaves CEO of the Soites Group
 - **Founded**: [[Yerčemark]] by [[Venvek Rashera]] in [[New Kentu]]
-
-## 2033
-
-- **End of tenure**: [[Armoljubca Darzedanna]] leaves President of the Confian Social Republic at [[Confian National Government]]
 
 ## 2034
 

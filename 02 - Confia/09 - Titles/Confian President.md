@@ -67,11 +67,10 @@ person articles. Edit those articles, not this block. %%
 | 3 | [[Nisa Peskilonna]] | 2014 - 2018 | [[Republican Promise]] | [[List of Confian elections#2013 Confian presidential election]] |  |
 | - | [[Nisa Peskilonna]] | 2019 - 2023 | [[Republican Promise]] | [[List of Confian elections#2018 Confian presidential election]] |  |
 | 4 | [[Pawlăn Listewi]] | 2024 - 2028 | [[Independent]] |  |  |
-| 5 | [[Armoljubca Darzedanna]] | 2029 - 2033 | [[Democratic Bloc]] |  |  |
-| 6 | [[Pismon Goltanni]] | 2034 - 2036 | [[The Confian Home]] |  | Impeached |
-| 7 | [[Kunsek Aljerni]] | 2036 - 2037 | [[Liberty! with Kunsek Aljerni]] |  | Took office as vice-president; resigned |
-| 8 | [[Japlen Razol]] | 2037 - 2038 |  |  | Took office as speaker of the National Assembly |
-| 9 | [[Kalsaper Jasretej]] | 2038 - 2042 | [[Atom Party]] |  |  |
+| 5 | [[Pismon Goltanni]] | 2034 - 2036 | [[The Confian Home]] |  | Impeached |
+| 6 | [[Kunsek Aljerni]] | 2036 - 2037 | [[Liberty! with Kunsek Aljerni]] |  | Took office as vice-president; resigned |
+| 7 | [[Japlen Razol]] | 2037 - 2038 |  |  | Took office as speaker of the National Assembly |
+| 8 | [[Kalsaper Jasretej]] | 2038 - 2042 | [[Atom Party]] |  |  |
 | - | [[Kalsaper Jasretej]] | 2048 - 2052 | [[Atom Party]] |  |  |
 
 %% holders:end %%
