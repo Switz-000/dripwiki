@@ -9,10 +9,8 @@ sex: Male
 ethnicity: "[[East Gaiyanese]]"
 religion: "[[Armotist Church of the Confian Synod]]"
 citizenship:
-  - "[[Dripstanian Empire|Dripstanian]]"
   - "[[Confia|Confian]]"
 nationality:
-  - "[[Dripstanian Empire|Dripstanian]]"
   - "[[Confia|Confian]]"
 enhanced: false
 birth:
