@@ -149,6 +149,31 @@ meta:
   stub: true
   verified: false
   image: null
+portrait:
+  eyes: dot
+  eyeliner: none
+  brows: bushy
+  nose: hook
+  mouth: line
+  hair: crown
+  facial: []
+  eyewear: none
+  outfit: suit
+  extras: [eye-bags, cheek-lines]
+  shape:
+    headW: 1.01
+    headH: 0.93
+    bodyW: 1.24
+    bodyH: 1.10
+  palette:
+    skin: "#ffffff"
+    hair: "#5e5c64"
+    facial: "#5e5c64"
+    frames: "#5b4900"
+    outfit: "#5b2a52"
+    suit: "#b8a98a"
+    shirt: "#ebebeb"
+    tie: "#ed1c24"
 ---
 **Čalsor Boňár** (1912–1983) was a Susian general and politician who served as the fourth President of [[Susia]] from 1974 to 1983. He led Susia through the [[Continental War]] and the post-war reconstruction, founded the state energy company [[Atompron]], and expanded the powers of the federal government. His presidency realigned the Susian party system and reshaped the [[Susian Democratic Union]] around his political program. He died in office in 1983.
 
