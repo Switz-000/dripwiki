@@ -12,7 +12,6 @@ meta:
   verified: false
   image: null
 ---
-
 ## National holidays:
 
 **[[Confian National Day]]**: Celebrates the fall of the Confian Fort and the beginning of the [[War of Confian Secession]]. The single most important Confian holiday. All businesses, schools and non-essential services close down, and thousands travel to [[Imgospalje]] for the yearly parade. 14th of Vartelian.
