@@ -103,3 +103,4 @@ meta:
   verified: false
   image:
 ---
+**Jagan Eriežerowić Lostăn** was a [[General Government of Confia|Confian]] military officer and politician who served as the 9th Governor General of Confia.
