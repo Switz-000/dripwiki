@@ -1,55 +1,41 @@
 ---
-# ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
-native_name:
-lusitanized_name:
+native_name: Pawlăn Paulowić Listewi
 aliases:
   - Listewi
 summary:
-
-# ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
-sex:
-ethnicity:
-religion:
+sex: Male
+ethnicity: "[[East Gaiyanese]]"
+religion: "[[Armotist Church of the Confian Synod]]"
 citizenship:
-  -
+  - "[[Confia|Confian]]"
 nationality:
-  -
+  - "[[Confia|Confian]]"
 enhanced: false
-
-# ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
 birth:
   year:
   city:
   state:
   country:
-
 death:
   year:
   city:
   state:
   country:
   cause:
-
-# ── FAMILY ──────────────────────────────────────────────────────────────────
 relations:
   - person:
     relation:
     notes:
-
-# ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
   - degree:
     institution:
     year:
-  -
-
-# ── CAREER ──────────────────────────────────────────────────────────────────
+  - 
 occupation:
   - title:
     start_year:
     end_year:
-
 military_service:
   - allegiance:
     branch:
@@ -57,20 +43,15 @@ military_service:
     start_year:
     end_year:
     conflicts:
-      -
-    notes: null
-
+      - 
+    notes:
 political_alignment:
-  -
-
-party: Independent        # principal partido, ou partido atual
-parties:                                        # partidos que ela ja pertenceu
+  - 
+party: Independent
+parties:
   - Independent
-
 organizations:
-  -
-
-# ── TITLES AND ROLES ────────────────────────────────────────────────────────
+  - 
 titles:
   - title: "[[Confian President]]"
     start_year: 2024
@@ -79,23 +60,17 @@ titles:
     parties:
       - Independent
     notes:
-
 roles:
   - role:
     employer:
     start_year:
     end_year:
     notes:
-
-# ── WRITTEN WORKS ───────────────────────────────────────────────────────────
 written_works:
   - title:
     publication_year:
     genre:
     notes:
-
-
-# ── CRIMINAL RECORD ─────────────────────────────────────────────────────────
 criminal_charges:
   - charge:
     counts:
@@ -107,12 +82,9 @@ criminal_charges:
     served:
     in_absentia:
     notes:
-
-# ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
   - item:
     notes:
-
 awards:
   - title:
     awarded_year:
@@ -120,18 +92,14 @@ awards:
     granted_by:
     country:
     notes:
-
 era:
-  -
-
-# ── META ────────────────────────────────────────────────────────────────────
+  - 
 tags:
-  -
-
+  - 
 meta:
   stub: true
   verified: false
-  image: null
+  image:
 ---
 
-**Pawlăn Listewi** is a Confian politician and military officer who served as the 4th President of the [[Confia|Social Republic of Confia]] from 2024 to 2028. A veteran from the [[Ditanian Civil War]] and an important [[ODDN]] liaison, he was elected on an anti-polarization platform, seeking to stabilize the nation's politics from the rising
+**Pawlăn Listewi** is a Confian politician and military officer who served as the 4th President of the [[Confia|Social Republic of Confia]] from 2024 to 2028. A veteran from the [[Ditanian Civil War]] and an important [[ODDN]] liaison, he was elected on an anti-polarization platform, seeking to stabilize the nation's politics from the [[Syndicalist League]]-[[Republican Promise|Republican Oath]] duality and curb the rise of radical parties like the [[Democratic Bloc]], [[The Confian Home]] and [[Liberty! with Kunsek Aljerni|Liberty]]

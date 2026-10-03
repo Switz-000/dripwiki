@@ -82,7 +82,7 @@ titles:
   - title: "[[Confian Prime Minister]]"
     start_year: 1996
     end_year: 1996
-    appointer: "[[List of Confian elections#1996 coup|1996 coup]]"
+    appointer: "[[List of Confian elections#1996 Confian confidence vote|1996 Confian confidence vote]]"
     parties:
       - "[[Syndicalist League]]"
     notes: Interim
