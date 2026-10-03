@@ -594,6 +594,7 @@ meta:
 - **Event ends**: [[Bayonet Revolution]]
 - **Event ends**: [[Continental Divide]]
 - **Founded**: [[Confian Nation Party (1977)]]
+- **Graduation**: [[Ganzer Teahowić]] from [[Health Institute of New Gražžepalje]] (Hospital Administration)
 
 ## 1978
 
@@ -671,6 +672,7 @@ meta:
 
 ## 1984
 
+- **Appointment**: [[Ganzer Teahowić]] becomes TBA
 - **Death**: [[Eriežera Lensekowina]] died in [[Imgospalje]], [[Koštanože]], [[Confia]] (Natural causes)
 - **Document recorded**: [[Letters to St Yepodij]] (letter)
 
@@ -711,6 +713,7 @@ meta:
 ## 1988
 
 - **Death**: [[Mariana Torres]] died in [[Carlotopolis]], [[Karlotopol']], [[Confia]] ([[Tarlanna's disease]])
+- **End of tenure**: [[Ganzer Teahowić]] leaves TBA
 
 ### [[List of Confian elections|1988 gubernatorial elections in Confia]]
 

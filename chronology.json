@@ -1865,6 +1865,14 @@
    "country": "Confia"
   },
   {
+   "year": 1977,
+   "kind": "Graduation",
+   "text": "[[Ganzer Teahowić]] from [[Health Institute of New Gražžepalje]] (Hospital Administration)",
+   "source": "Ganzer Teahowić",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
    "year": 1978,
    "kind": "Appointment",
    "text": "[[Boris Serec]] becomes Commissar of Education at [[Confian National Government]], appointed by [[Senjap Kunsekowić]]",
@@ -2194,6 +2202,14 @@
   },
   {
    "year": 1984,
+   "kind": "Appointment",
+   "text": "[[Ganzer Teahowić]] becomes TBA",
+   "source": "Ganzer Teahowić",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1984,
    "kind": "Death",
    "text": "[[Eriežera Lensekowina]] died in [[Imgospalje]], [[Koštanože]], [[Confia]] (Natural causes)",
    "source": "Eriežera Lensekowina",
@@ -2349,6 +2365,14 @@
    "kind": "Death",
    "text": "[[Mariana Torres]] died in [[Carlotopolis]], [[Karlotopol']], [[Confia]] ([[Tarlanna's disease]])",
    "source": "Mariana Torres",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1988,
+   "kind": "End of tenure",
+   "text": "[[Ganzer Teahowić]] leaves TBA",
+   "source": "Ganzer Teahowić",
    "source_type": "person",
    "country": "Confia"
   },
@@ -4384,6 +4408,17 @@
    "title": "President of Susia",
    "display": "President of Susia",
    "holder": "Filevir Matri"
+  },
+  {
+   "lane": "titles",
+   "label": "Ganzer Teahowić",
+   "start": 1984,
+   "end": 1988,
+   "country": "Confia",
+   "title": "TBA",
+   "display": "TBA",
+   "seat": "Federation of Workers in North Nijbania",
+   "holder": "Ganzer Teahowić"
   },
   {
    "lane": "titles",
