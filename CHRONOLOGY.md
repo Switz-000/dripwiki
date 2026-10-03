@@ -774,7 +774,7 @@ meta:
 
 - [[Lenseka Japlenowina]], Mayor of Imgospalje ([[Mi, Niteraljci!]])
 
-### [[List of Confian elections#1996 coup|1996 coup]]
+### [[List of Confian elections#1996 Confian confidence vote|1996 Confian confidence vote]]
 
 - [[Noljež Teššan]], President of the Council of Commissars of the United Syndicates of Confia ([[Syndicalist League]]). *Interim*
 

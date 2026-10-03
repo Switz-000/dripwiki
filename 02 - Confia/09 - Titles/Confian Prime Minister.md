@@ -48,7 +48,7 @@ person articles. Edit those articles, not this block. %%
 | 4 | [[Boris Serec]] | 1982 - 1986 | [[Armotist Democratic Party\|ALjP]] | [[National Assembly of Confian Syndicates]] |  |
 | 5 | [[Japlen Razol]] | 1986 - 1990 | [[Armotist Democratic Party\|ALjP]] | [[National Assembly of Confian Syndicates]] | Elected by governing coalition |
 | 6 | [[Katerina Armoljubca Nožeslawna]] | 1990 - 1996 | [[Syndicalist League]] | [[National Assembly of Confian Syndicates]] |  |
-| 7 | [[Noljež Teššan]] | 1996 - 1996 | [[Syndicalist League]] | [[List of Confian elections#1996 coup\|1996 coup]] | Interim |
+| 7 | [[Noljež Teššan]] | 1996 - 1996 | [[Syndicalist League]] | [[List of Confian elections#1996 Confian confidence vote\|1996 Confian confidence vote]] | Interim |
 | - | [[Noljež Teššan]] | 1996 - 1998 | [[Syndicalist League]] | [[National Assembly of Confian Syndicates]] |  |
 | 8 | [[Grawolja Lasmanna]] | 1998 - 2000 | [[Independent]] | [[National Assembly of Confian Syndicates]] |  |
 | 9 | [[Ganzer Teahowić]] | 2001 - 2009 | [[Syndicalist League]] | [[National Assembly of Confian Syndicates]] |  |
