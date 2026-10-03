@@ -91,10 +91,26 @@ titles:
     parties:
       - "[[Syndicalist League]]"
     notes:
-  - title: TBA
+  - title: General Secretary
+    seat: "[[Federation of Confian Syndicates]]"
+    start_year: 1986
+    end_year: 1988
+    appointer:
+    parties:
+      - 
+    notes:
+  - title: Regional Secretary
     seat: "[[Federation of Workers in North Nijbania]]"
     start_year: 1984
-    end_year: 1988
+    end_year: 1986
+    appointer:
+    parties:
+      - 
+    notes:
+  - title: Organizing Secretary
+    seat: "[[Federation of Workers in North Nijbania]]"
+    start_year: 1980
+    end_year: 1984
     appointer:
     parties:
       - 
