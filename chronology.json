@@ -1971,6 +1971,14 @@
   {
    "year": 1980,
    "kind": "Appointment",
+   "text": "[[Ganzer Teahowić]] becomes Organizing Secretary",
+   "source": "Ganzer Teahowić",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1980,
+   "kind": "Appointment",
    "text": "[[Grawolja Lasmanna]] becomes Director of the Central Bank of the Confian Nation, appointed by [[Senjap Kunsekowić]]. *Replaced after Central Bank independence revoked*",
    "source": "Grawolja Lasmanna",
    "source_type": "person",
@@ -2211,7 +2219,7 @@
   {
    "year": 1984,
    "kind": "Appointment",
-   "text": "[[Ganzer Teahowić]] becomes TBA",
+   "text": "[[Ganzer Teahowić]] becomes Regional Secretary",
    "source": "Ganzer Teahowić",
    "source_type": "person",
    "country": "Confia"
@@ -2231,6 +2239,14 @@
    "source": "Letters to St Yepodij",
    "source_type": "document",
    "country": "Susia"
+  },
+  {
+   "year": 1984,
+   "kind": "End of tenure",
+   "text": "[[Ganzer Teahowić]] leaves Organizing Secretary",
+   "source": "Ganzer Teahowić",
+   "source_type": "person",
+   "country": "Confia"
   },
   {
    "year": 1985,
@@ -2255,6 +2271,14 @@
    "source": "",
    "source_type": "person",
    "election": "[[List of Confian elections#1986 Confian presidential election]]"
+  },
+  {
+   "year": 1986,
+   "kind": "Appointment",
+   "text": "[[Ganzer Teahowić]] becomes General Secretary",
+   "source": "Ganzer Teahowić",
+   "source_type": "person",
+   "country": "Confia"
   },
   {
    "year": 1986,
@@ -2311,6 +2335,14 @@
    "source": "Filevir Matri",
    "source_type": "person",
    "country": "Susia"
+  },
+  {
+   "year": 1986,
+   "kind": "End of tenure",
+   "text": "[[Ganzer Teahowić]] leaves Regional Secretary",
+   "source": "Ganzer Teahowić",
+   "source_type": "person",
+   "country": "Confia"
   },
   {
    "year": 1986,
@@ -2379,7 +2411,7 @@
   {
    "year": 1988,
    "kind": "End of tenure",
-   "text": "[[Ganzer Teahowić]] leaves TBA",
+   "text": "[[Ganzer Teahowić]] leaves General Secretary",
    "source": "Ganzer Teahowić",
    "source_type": "person",
    "country": "Confia"
@@ -4321,6 +4353,17 @@
   },
   {
    "lane": "titles",
+   "label": "Ganzer Teahowić",
+   "start": 1980,
+   "end": 1984,
+   "country": "Confia",
+   "title": "Organizing Secretary",
+   "display": "Organizing Secretary",
+   "seat": "Federation of Workers in North Nijbania",
+   "holder": "Ganzer Teahowić"
+  },
+  {
+   "lane": "titles",
    "label": "Grawolja Lasmanna",
    "start": 1980,
    "end": 1986,
@@ -4421,10 +4464,10 @@
    "lane": "titles",
    "label": "Ganzer Teahowić",
    "start": 1984,
-   "end": 1988,
+   "end": 1986,
    "country": "Confia",
-   "title": "TBA",
-   "display": "TBA",
+   "title": "Regional Secretary",
+   "display": "Regional Secretary",
    "seat": "Federation of Workers in North Nijbania",
    "holder": "Ganzer Teahowić"
   },
@@ -4444,6 +4487,17 @@
    "start": 1986,
    "end": 1986,
    "country": "Ditania"
+  },
+  {
+   "lane": "titles",
+   "label": "Ganzer Teahowić",
+   "start": 1986,
+   "end": 1988,
+   "country": "Confia",
+   "title": "General Secretary",
+   "display": "General Secretary",
+   "seat": "Federation of Confian Syndicates",
+   "holder": "Ganzer Teahowić"
   },
   {
    "lane": "titles",

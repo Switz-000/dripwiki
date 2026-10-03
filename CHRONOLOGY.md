@@ -622,6 +622,7 @@ meta:
 
 ## 1980
 
+- **Appointment**: [[Ganzer Teahowić]] becomes Organizing Secretary
 - **Appointment**: [[Grawolja Lasmanna]] becomes Director of the Central Bank of the Confian Nation, appointed by [[Senjap Kunsekowić]]. *Replaced after Central Bank independence revoked*
 - **Appointment**: [[Senjap Kunsekowić]] becomes President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]], appointed by [[National Assembly of Confian Syndicates]]
 - **End of tenure**: [[Lenseka Japlenowina]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]
@@ -673,9 +674,10 @@ meta:
 
 ## 1984
 
-- **Appointment**: [[Ganzer Teahowić]] becomes TBA
+- **Appointment**: [[Ganzer Teahowić]] becomes Regional Secretary
 - **Death**: [[Eriežera Lensekowina]] died in [[Imgospalje]], [[Koštanože]], [[Confia]] (Natural causes)
 - **Document recorded**: [[Letters to St Yepodij]] (letter)
+- **End of tenure**: [[Ganzer Teahowić]] leaves Organizing Secretary
 
 ## 1985
 
@@ -684,12 +686,14 @@ meta:
 
 ## 1986
 
+- **Appointment**: [[Ganzer Teahowić]] becomes General Secretary
 - **Appointment**: [[Japlen Razol]] becomes President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]], appointed by [[National Assembly of Confian Syndicates]]. *Elected by governing coalition*
 - **Appointment**: [[Kukan Peskilonni]] becomes Director of the Central Bank of the Confian Nation, appointed by [[Boris Serec]]
 - **Atrocity begins**: [[Nar Liewati Massacre]]
 - **Atrocity ends**: [[Nar Liewati Massacre]]
 - **End of tenure**: [[Boris Serec]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]
 - **End of tenure**: [[Filevir Matri]] leaves President of Susia at [[Susian Federal Government]]
+- **End of tenure**: [[Ganzer Teahowić]] leaves Regional Secretary
 - **End of tenure**: [[Grawolja Lasmanna]] leaves Director of the Central Bank of the Confian Nation
 - **End of tenure**: [[Katerina Armoljubca Nožeslawna]] leaves Member of the National Assembly of Confian Syndicates at [[Confian National Government]]
 - **End of tenure**: [[Mariana Torres]] leaves President of the Confian Nation at [[Confian National Government]]
@@ -714,7 +718,7 @@ meta:
 ## 1988
 
 - **Death**: [[Mariana Torres]] died in [[Carlotopolis]], [[Karlotopol']], [[Confia]] ([[Tarlanna's disease]])
-- **End of tenure**: [[Ganzer Teahowić]] leaves TBA
+- **End of tenure**: [[Ganzer Teahowić]] leaves General Secretary
 
 ### [[List of Confian elections|1988 gubernatorial elections in Confia]]
 
