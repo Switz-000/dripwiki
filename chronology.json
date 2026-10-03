@@ -2170,6 +2170,14 @@
   },
   {
    "year": 1983,
+   "kind": "Enlists",
+   "text": "[[Pawlăn Listewi]] as Sargeant",
+   "source": "Pawlăn Listewi",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1983,
    "kind": "Publication",
    "text": "*On What Came Before Me And On What Comes After* by [[Eriežera Lensekowina]]. *Lensekowina's lesser known memoir, her final book completed before passing.*",
    "source": "Eriežera Lensekowina",
@@ -2319,6 +2327,14 @@
    "source": "Yepodij Soites",
    "source_type": "person",
    "country": "Susia"
+  },
+  {
+   "year": 1987,
+   "kind": "Discharge",
+   "text": "[[Pawlăn Listewi]]",
+   "source": "Pawlăn Listewi",
+   "source_type": "person",
+   "country": "Confia"
   },
   {
    "year": 1988,
@@ -2874,6 +2890,14 @@
   },
   {
    "year": 2013,
+   "kind": "Discharge",
+   "text": "[[Pawlăn Listewi]] from [[ODDN Ground Forced]]",
+   "source": "Pawlăn Listewi",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 2013,
    "kind": "Dissolved",
    "text": "[[Ljudewlaš!]]",
    "source": "Ljudewlaš!",
@@ -2893,6 +2917,14 @@
    "kind": "End of tenure",
    "text": "[[Tegiron Hari]] leaves President of the Confian Social Republic at [[Confian National Government]]",
    "source": "Tegiron Hari",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 2013,
+   "kind": "Enlists",
+   "text": "[[Pawlăn Listewi]] in [[ODDN Ground Forced]] as General",
+   "source": "Pawlăn Listewi",
    "source_type": "person",
    "country": "Confia"
   },

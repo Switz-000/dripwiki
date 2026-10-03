@@ -665,6 +665,7 @@ meta:
 - **Death**: [[Čalsor Boňár]] died in [[Soiteslaj]], [[Neutral District]], [[Susia]] (Car accident)
 - **End of tenure**: [[Filevir Matri]] leaves Vice President of Susia at [[Susian Federal Government]]
 - **End of tenure**: [[Čalsor Boňár]] leaves President of Susia at [[Susian Federal Government]]
+- **Enlists**: [[Pawlăn Listewi]] as Sargeant
 - **Publication**: *On What Came Before Me And On What Comes After* by [[Eriežera Lensekowina]]. *Lensekowina's lesser known memoir, her final book completed before passing.*
 - **Publication**: *[[War, Pestilence and Famine]]* by [[Ňotrič Apaj]]. *Written immediately after his return from Ditania. Argues that material scarcity was the engine of most organized human violence across history, and that its effective elimination means all contemporary conflict is a product of human construction.*
 
@@ -701,6 +702,7 @@ meta:
 ## 1987
 
 - **Birth**: [[Yepodij Soites]] born in [[Neoveli]], [[Dripia]], [[Susia]]
+- **Discharge**: [[Pawlăn Listewi]]
 
 ### [[1986 Confian general election]]
 
@@ -864,9 +866,11 @@ meta:
 
 ## 2013
 
+- **Discharge**: [[Pawlăn Listewi]] from [[ODDN Ground Forced]]
 - **Dissolved**: [[Ljudewlaš!]]
 - **Dissolved**: [[Shield!]]
 - **End of tenure**: [[Tegiron Hari]] leaves President of the Confian Social Republic at [[Confian National Government]]
+- **Enlists**: [[Pawlăn Listewi]] in [[ODDN Ground Forced]] as General
 - **Founded**: [[Republican Promise]] by [[Nisa Peskilonna]]
 
 ## 2014
