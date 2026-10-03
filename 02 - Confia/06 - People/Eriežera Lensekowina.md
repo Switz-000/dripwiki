@@ -35,7 +35,7 @@ occupation:
   - title: Philosopher
     start_year: 1923
     end_year: 1984
-  - title: Writer
+  - title: Author
     start_year: 1959
     end_year: 1983
   - title: Journalist
