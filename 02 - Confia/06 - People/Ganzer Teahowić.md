@@ -29,7 +29,10 @@ relations:
     relation: Spouse
     notes:
 education:
-  - degree: Hospital Administration
+  - degree: Baccalaureate in Medicine (Administration Emphasis)
+    institution: "[[Health Institute of New Gražžepalje]]"
+    year: 1977
+  - degree: Master's Degree in Public Health
     institution: "[[Health Institute of New Gražžepalje]]"
     year: 1977
 military_service:
