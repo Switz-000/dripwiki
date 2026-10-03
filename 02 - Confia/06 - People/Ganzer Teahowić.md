@@ -4,7 +4,7 @@ native_name: Ganzer Teahowić Dasunah
 lusitanized_name:
 aliases:
   - Teahowić
-summary:
+summary: Confian hospital administrator, trade unionist and politician who served as the 9th and last Prime Minister of the United Syndicates of Confia, and as the 1st President of the Confian Social Republic under the 2009 constitution. Assassinated in office in 2011.
 sex: Male
 ethnicity: "[[East Gaiyanese]]"
 religion: "[[Armotist Church of the Confian Synod]]"
@@ -25,14 +25,13 @@ death:
   country: "[[Confia]]"
   cause: Car bomb
 relations:
-relations:
   - person: "[[Kunseka Dasunaha]]"
     relation: Spouse
     notes:
 education:
-  - degree:
-    institution:
-    year:
+  - degree: Hospital Administration
+    institution: "[[Health Institute of New Gražžepalje]]"
+    year: 1977
 military_service:
   - allegiance:
     branch:
@@ -41,7 +40,7 @@ military_service:
     end_year:
     conflicts:
       -
-    notes:
+    notes: null
 political_alignment:
   - "[[Syndicalism#New Syndicalism|New Syndicalism]]"
 party: "[[Syndicalist League]]"
@@ -49,6 +48,7 @@ parties:
   -
 organizations:
   - "[[Federation of Confian Syndicates]]"
+  - "[[Federation of Workers in North Nijbania]]"
 titles:
   - title: "[[Confian President]]"
     start_year: 2009
@@ -88,6 +88,14 @@ titles:
     parties:
       - "[[Syndicalist League]]"
     notes:
+  - title: TBA
+    seat: "[[Federation of Workers in North Nijbania]]"
+    start_year: 1984
+    end_year: 1988
+    appointer:
+    parties:
+      - 
+    notes:
 written_works:
   - title:
     publication_year:
@@ -105,8 +113,12 @@ criminal_charges:
     in_absentia:
     notes:
 known_for:
-  - item:
-    notes:
+  - item: "[[Federation of Workers in North Nijbania]]"
+    notes: Began his public career as an officer of the regional white-collar syndicate.
+  - item: "[[Federation of Confian Syndicates]]"
+    notes: President from 1992 to 1996.
+  - item: "[[Confian Social Republic]]"
+    notes: First President under the 2009 constitution.
 awards:
   - title:
     awarded_year:
@@ -115,7 +127,7 @@ awards:
     country:
     notes:
 era:
-  -
+  - new-age
 tags:
   - politics/governance
   - economy/labor
