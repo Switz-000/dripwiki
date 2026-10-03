@@ -148,7 +148,7 @@ meta:
   verified: false
   image: null
 ---
-**Mariana Marianowina Turreš Ljeranna** (Racpalian Alphabet: Марьана Марьановіна Турреш Љеранна) was a Confian civil engineer, revolutionary guerilla fighter, politician and stateswoman who served as the 2nd President of the [[Confia|United Syndicates of Confia]].
+**Mariana Marianowina Turreš Ljeranna** (Racpalian Alphabet: Марьана Марьановіна Турреш Љеранна) was a Confian civil engineer, revolutionary guerilla fighter, politician and stateswoman who served as the 2nd President of the [[Confia|United Syndicates of Confia]]. She was one of the Five of the [[Carlotopolis Uprising]].
 
 
 

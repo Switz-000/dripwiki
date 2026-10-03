@@ -102,4 +102,4 @@ meta:
   image:
 ---
 
-**Pawlăn Listewi** is a Confian politician and military officer who served as the 4th President of the [[Confia|Social Republic of Confia]] from 2024 to 2028. A veteran from the [[Ditanian Civil War]] and an important [[ODDN]] liaison, he was elected on an anti-polarization platform, seeking to stabilize the nation's politics from the [[Syndicalist League]]-[[Republican Promise|Republican Oath]] duality and curb the rise of radical parties like the [[Democratic Bloc]], [[The Confian Home]] and [[Liberty! with Kunsek Aljerni|Liberty]]
+**Pawlăn Listewi** is a Confian politician and military officer who served as the 4th President of the [[Confia|Social Republic of Confia]] from 2024 to 2028. A veteran from the [[Ditanian Civil War]] and an important [[ODDN]] liaison, he was elected on an anti-polarization platform, seeking to stabilize the nation's politics from the [[Syndicalist League]]-[[Republican Promise|Republican Oath]] duality and curb the rise of radical parties like the [[Democratic Bloc]], [[The Confian Home]] and [[Liberty! with Kunsek Aljerni|Liberty!]].
