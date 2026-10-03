@@ -193,8 +193,8 @@ portrait:
   shape:
     headW: 0.94
     headH: 1.00
-    bodyW: 1.15
-    bodyH: 1.00
+    bodyW: 1.26
+    bodyH: 1.12
   palette:
     skin: "#ffffff"
     hair: "#bd8530"

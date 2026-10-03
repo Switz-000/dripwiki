@@ -37,13 +37,21 @@ occupation:
     start_year:
     end_year:
 military_service:
-  - allegiance:
-    branch:
-    rank:
-    start_year:
-    end_year:
+  - allegiance: [[Confian National Armed Forces]]
+    branch: [[ODDN Ground Forced]]
+    rank: General
+    start_year: 2013
+    end_year: 2013
     conflicts:
-      - 
+      - [[War of Arempur]]
+    notes:
+  - allegiance: [[Democratizing Multinational Force in Ditania]]
+    branch: 
+    rank: Sargeant
+    start_year: 1983
+    end_year: 1987
+    conflicts:
+      - [[Ditanian Civil War]]
     notes:
 political_alignment:
   - 
@@ -100,6 +108,31 @@ meta:
   stub: true
   verified: false
   image:
+portrait:
+  eyes: dot
+  eyeliner: none
+  brows: worried
+  nose: hook
+  mouth: smile
+  hair: none
+  facial: []
+  eyewear: none
+  outfit: suit
+  extras: [crows-feet]
+  shape:
+    headW: 0.92
+    headH: 1.04
+    bodyW: 1.40
+    bodyH: 1.05
+  palette:
+    skin: "#ffffff"
+    hair: "#4d1100"
+    facial: "#4d1100"
+    frames: "#5b4900"
+    outfit: "#5b2a52"
+    suit: "#243520"
+    shirt: "#e0e6cc"
+    tie: "#111111"
 ---
 
-**Pawlăn Listewi** is a Confian politician and military officer who served as the 4th President of the [[Confia|Social Republic of Confia]] from 2024 to 2028. A veteran from the [[Ditanian Civil War]] and an important [[ODDN]] liaison, he was elected on an anti-polarization platform, seeking to stabilize the nation's politics from the [[Syndicalist League]]-[[Republican Promise|Republican Oath]] duality and curb the rise of radical parties like the [[Democratic Bloc]], [[The Confian Home]] and [[Liberty! with Kunsek Aljerni|Liberty!]].
+**Pawlăn Paulowić Listewi** is a Confian politician and military officer who served as the 4th President of the [[Confia|Social Republic of Confia]] from 2024 to 2028. A veteran from the [[Ditanian Civil War]] and an important [[ODDN]] liaison, he was elected on an anti-polarization platform, seeking to stabilize the nation's politics from the [[Syndicalist League]]-[[Republican Promise|Republican Oath]] duality and curb the rise of radical parties like the [[Democratic Bloc]], [[The Confian Home]] and [[Liberty! with Kunsek Aljerni|Liberty!]].
