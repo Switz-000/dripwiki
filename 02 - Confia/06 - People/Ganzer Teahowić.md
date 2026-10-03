@@ -25,8 +25,9 @@ death:
   country: "[[Confia]]"
   cause: Car bomb
 relations:
-  - person:
-    relation:
+relations:
+  - person: "[[Kunseka Dasunaha]]"
+    relation: Spouse
     notes:
 education:
   - degree:
