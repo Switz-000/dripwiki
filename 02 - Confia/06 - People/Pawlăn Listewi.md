@@ -134,6 +134,4 @@ meta:
   image: null
 ---
 
-**Pawlăn Listewi** is a Confian politician who served as the 4th President of [[Confia]] from 2024 to 2028, as an independent.
-
-%% TODO: expand %%
+**Pawlăn Listewi** is a Confian politician and military officer who served as the 4th President of the [[Confia|Social Republic of Confia]] from 2024 to 2028. A veteran from the [[Ditanian Civil War]] and an important [[ODDN]] liaison, he was elected on an anti-polarization platform, seeking to stabilize the nation's politics from the rising
