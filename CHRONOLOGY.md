@@ -594,7 +594,8 @@ meta:
 - **Event ends**: [[Bayonet Revolution]]
 - **Event ends**: [[Continental Divide]]
 - **Founded**: [[Confian Nation Party (1977)]]
-- **Graduation**: [[Ganzer Teahowić]] from [[Health Institute of New Gražžepalje]] (Hospital Administration)
+- **Graduation**: [[Ganzer Teahowić]] from [[Health Institute of New Gražžepalje]] (Baccalaureate in Medicine (Administration Emphasis))
+- **Graduation**: [[Ganzer Teahowić]] from [[Health Institute of New Gražžepalje]] (Master's Degree in Public Health)
 
 ## 1978
 

@@ -1867,7 +1867,15 @@
   {
    "year": 1977,
    "kind": "Graduation",
-   "text": "[[Ganzer Teahowić]] from [[Health Institute of New Gražžepalje]] (Hospital Administration)",
+   "text": "[[Ganzer Teahowić]] from [[Health Institute of New Gražžepalje]] (Baccalaureate in Medicine (Administration Emphasis))",
+   "source": "Ganzer Teahowić",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 1977,
+   "kind": "Graduation",
+   "text": "[[Ganzer Teahowić]] from [[Health Institute of New Gražžepalje]] (Master's Degree in Public Health)",
    "source": "Ganzer Teahowić",
    "source_type": "person",
    "country": "Confia"
