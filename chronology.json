@@ -1867,15 +1867,7 @@
   {
    "year": 1977,
    "kind": "Graduation",
-   "text": "[[Ganzer Teahowić]] from [[Health Institute of New Gražžepalje]] (Baccalaureate in Medicine (Administration Emphasis))",
-   "source": "Ganzer Teahowić",
-   "source_type": "person",
-   "country": "Confia"
-  },
-  {
-   "year": 1977,
-   "kind": "Graduation",
-   "text": "[[Ganzer Teahowić]] from [[Health Institute of New Gražžepalje]] (Master's Degree in Public Health)",
+   "text": "[[Ganzer Teahowić]] from [[Health Institute of New Gražžepalje]] (Baccalaureate in Hospital Administration)",
    "source": "Ganzer Teahowić",
    "source_type": "person",
    "country": "Confia"
@@ -2779,7 +2771,7 @@
   {
    "year": 2001,
    "kind": "Appointment",
-   "text": "[[Ganzer Teahowić]] becomes President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]], appointed by [[National Assembly of Confian Syndicates]]",
+   "text": "[[Ganzer Teahowić]] becomes President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]], appointed by [[National Assembly of Confian Syndicates]]. *Term overridden by 2008 constitution*",
    "source": "Ganzer Teahowić",
    "source_type": "person",
    "country": "Confia"
@@ -2787,7 +2779,7 @@
   {
    "year": 2001,
    "kind": "Appointment",
-   "text": "[[Katerina Armoljubca Nožeslawna]], President of the Confian Nation ([[Syndicalist League]]). *Term overriden by 2008 constitution*",
+   "text": "[[Katerina Armoljubca Nožeslawna]], President of the Confian Nation ([[Syndicalist League]]). *Term overridden by 2008 constitution*",
    "source": "",
    "source_type": "person",
    "election": "[[List of Confian elections#2000 Confian presidential election]]"
@@ -2839,6 +2831,14 @@
    "source": "Yário Kolkov",
    "source_type": "person",
    "country": "Susia"
+  },
+  {
+   "year": 2008,
+   "kind": "End of tenure",
+   "text": "[[Ganzer Teahowić]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]",
+   "source": "Ganzer Teahowić",
+   "source_type": "person",
+   "country": "Confia"
   },
   {
    "year": 2008,
@@ -2895,14 +2895,6 @@
    "source": "Kolkov Interview 2009",
    "source_type": "document",
    "country": "Susia"
-  },
-  {
-   "year": 2009,
-   "kind": "End of tenure",
-   "text": "[[Ganzer Teahowić]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]",
-   "source": "Ganzer Teahowić",
-   "source_type": "person",
-   "country": "Confia"
   },
   {
    "year": 2011,
@@ -4701,6 +4693,16 @@
   },
   {
    "lane": "titles",
+   "label": "Ganzer Teahowić",
+   "start": 2001,
+   "end": 2008,
+   "country": "Confia",
+   "title": "Confian Prime Minister",
+   "display": "President of the Council of Commissars of the United Syndicates of Confia",
+   "holder": "Ganzer Teahowić"
+  },
+  {
+   "lane": "titles",
    "label": "Katerina Armoljubca Nožeslawna",
    "start": 2001,
    "end": 2008,
@@ -4708,16 +4710,6 @@
    "title": "Confian President",
    "display": "President of the Confian Nation",
    "holder": "Katerina Armoljubca Nožeslawna"
-  },
-  {
-   "lane": "titles",
-   "label": "Ganzer Teahowić",
-   "start": 2001,
-   "end": 2009,
-   "country": "Confia",
-   "title": "Confian Prime Minister",
-   "display": "President of the Council of Commissars of the United Syndicates of Confia",
-   "holder": "Ganzer Teahowić"
   },
   {
    "lane": "institutions",

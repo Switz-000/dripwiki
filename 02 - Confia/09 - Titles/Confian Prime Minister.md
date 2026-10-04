@@ -51,7 +51,7 @@ person articles. Edit those articles, not this block. %%
 | 7 | [[Noljež Teššan]] | 1996 - 1996 | [[Syndicalist League]] | [[List of Confian elections#1996 Confian confidence vote\|1996 Confian confidence vote]] | Interim |
 | - | [[Noljež Teššan]] | 1996 - 1998 | [[Syndicalist League]] | [[National Assembly of Confian Syndicates]] |  |
 | 8 | [[Grawolja Lasmanna]] | 1998 - 2000 | [[Independent]] | [[National Assembly of Confian Syndicates]] |  |
-| 9 | [[Ganzer Teahowić]] | 2001 - 2009 | [[Syndicalist League]] | [[National Assembly of Confian Syndicates]] |  |
+| 9 | [[Ganzer Teahowić]] | 2001 - 2008 | [[Syndicalist League]] | [[National Assembly of Confian Syndicates]] | Term overridden by 2008 constitution |
 | 10 | [[Armoljubca Darzedanna]] | 2026 - 2030 | [[Democratic Bloc]] |  |  |
 
 %% holders:end %%

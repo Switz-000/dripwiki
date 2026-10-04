@@ -594,8 +594,7 @@ meta:
 - **Event ends**: [[Bayonet Revolution]]
 - **Event ends**: [[Continental Divide]]
 - **Founded**: [[Confian Nation Party (1977)]]
-- **Graduation**: [[Ganzer Teahowić]] from [[Health Institute of New Gražžepalje]] (Baccalaureate in Medicine (Administration Emphasis))
-- **Graduation**: [[Ganzer Teahowić]] from [[Health Institute of New Gražžepalje]] (Master's Degree in Public Health)
+- **Graduation**: [[Ganzer Teahowić]] from [[Health Institute of New Gražžepalje]] (Baccalaureate in Hospital Administration)
 
 ## 1978
 
@@ -822,11 +821,11 @@ meta:
 
 ## 2001
 
-- **Appointment**: [[Ganzer Teahowić]] becomes President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]], appointed by [[National Assembly of Confian Syndicates]]
+- **Appointment**: [[Ganzer Teahowić]] becomes President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]], appointed by [[National Assembly of Confian Syndicates]]. *Term overridden by 2008 constitution*
 
 ### [[List of Confian elections#2000 Confian presidential election]]
 
-- [[Katerina Armoljubca Nožeslawna]], President of the Confian Nation ([[Syndicalist League]]). *Term overriden by 2008 constitution*
+- [[Katerina Armoljubca Nožeslawna]], President of the Confian Nation ([[Syndicalist League]]). *Term overridden by 2008 constitution*
 
 ## 2002
 
@@ -845,6 +844,7 @@ meta:
 
 ## 2008
 
+- **End of tenure**: [[Ganzer Teahowić]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]
 - **End of tenure**: [[Katerina Armoljubca Nožeslawna]] leaves President of the Confian Nation at [[Confian National Government]]
 - **Founded**: [[Astralis Banking Group]] in [[Sužielaj city]]
 - **Graduation**: [[Trevda Soites]] from [[Federal Institute of Technology]] (Computer science)
@@ -854,7 +854,6 @@ meta:
 
 - **Document recorded**: [[Grawolja Lasmanna with the Five of Goretopol']] (interview)
 - **Document recorded**: [[Kolkov Interview 2009]] (interview)
-- **End of tenure**: [[Ganzer Teahowić]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]
 
 ### [[List of Confian elections|2009 Confian presidential election]]
 

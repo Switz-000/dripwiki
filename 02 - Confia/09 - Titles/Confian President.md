@@ -56,7 +56,7 @@ person articles. Edit those articles, not this block. %%
 | 2 | [[Boris Serec]] | 1986 - 1993 | [[Armotist Democratic Party\|ALjP]] | [[List of Confian elections#1986 Confian presidential election]] |  |
 | - | [[Boris Serec]] | 1994 - 1998 | [[Armotist Democratic Party\|ALjP]] | [[List of Confian elections#1993 Confian presidential election]] | Resigned |
 | 3 | [[Katerina Armoljubca Nožeslawna]] | 1998 - 2000 | [[Syndicalist League]] | [[List of Confian elections#1998 Confian presidential election]] |  |
-| - | [[Katerina Armoljubca Nožeslawna]] | 2001 - 2008 | [[Syndicalist League]] | [[List of Confian elections#2000 Confian presidential election]] | Term overriden by 2008 constitution |
+| - | [[Katerina Armoljubca Nožeslawna]] | 2001 - 2008 | [[Syndicalist League]] | [[List of Confian elections#2000 Confian presidential election]] | Term overridden by 2008 constitution |
 
 ### President of the Confian Social Republic (2009 - present)
 
