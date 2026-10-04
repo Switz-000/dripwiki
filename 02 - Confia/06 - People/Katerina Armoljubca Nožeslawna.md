@@ -64,7 +64,7 @@ titles:
     appointer: "[[List of Confian elections#2000 Confian presidential election]]"
     parties:
       - "[[Syndicalist League]]"
-    notes: Term overriden by 2008 constitution
+    notes: Term overridden by 2008 constitution
   - title: "[[Confian President]]"
     start_year: 1998
     end_year: 2000
@@ -162,6 +162,6 @@ portrait:
     shirt: "#f9f06b"
     tie: "#ed1c24"
 ---
-**Katerina Armoljubca Graljeewina Nožeslawna** (Racpalian Alphabet: Катѣрина Армољубца Граљеевіна Ножеславна), better known by the acronym **KAN**, is a Confian agricultural engineer and politician that served as the 8th Prime Minister and 4th President of the [[Confia|United Syndicates of Confia]].
+**Katerina Armoljubca Graljeewina Nožeslawna** (Racpalian Alphabet: Катѣрина Армољубца Граљеевіна Ножеславна), better known by the acronym **KAN**, is a Confian agricultural engineer and politician who served as the 8th Prime Minister and 4th President of the [[Confia|United Syndicates of Confia]]. A staunch [[Syndicalism#New Syndicalism|New Syndicalism]], Nožeslawna was a founding member of the [[Syndicalist League]], and sought to apply its ideals during her political tenure.
 
 ## Quotes

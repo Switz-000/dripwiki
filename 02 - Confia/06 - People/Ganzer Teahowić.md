@@ -29,10 +29,7 @@ relations:
     relation: Spouse
     notes:
 education:
-  - degree: Baccalaureate in Medicine (Administration Emphasis)
-    institution: "[[Health Institute of New Gražžepalje]]"
-    year: 1977
-  - degree: Master's Degree in Public Health
+  - degree: Baccalaureate in Hospital Administration
     institution: "[[Health Institute of New Gražžepalje]]"
     year: 1977
 military_service:
@@ -62,11 +59,11 @@ titles:
     notes: Died in office
   - title: "[[Confian Prime Minister]]"
     start_year: 2001
-    end_year: 2009
+    end_year: 2008
     appointer: "[[National Assembly of Confian Syndicates]]"
     parties:
       - "[[Syndicalist League]]"
-    notes:
+    notes: Term overridden by 2008 constitution
   - title: "[[Confian Commissar]]"
     seat: "[[Health]]"
     start_year: 1996
