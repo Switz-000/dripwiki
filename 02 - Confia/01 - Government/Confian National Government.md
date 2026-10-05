@@ -24,7 +24,7 @@ The President is elected to rigidly fixed terms defined by the Confian election 
 
 ## Prime Minister
 
-The **Prime Minister** (Confian: Zări(a) Haliosolec(a)/3ъри(а) Хальесолец) of Confia, oficially the **President of the Council of Commissars of the United Syndicates of Confia** (Confian: Razawec(a) Mižessa Haliosolecih Săhnih Syndăkacam Końfiï/Разавец(а) Мижесса Халиосолецих Съхних Сындъкацам Коњфії) is the head of state of the United Syndicates of Confia. 
+The **Prime Minister** (Confian: Zări(a) Haliosolec(a)/3ъри(а) Хальесолец) of Confia, oficially the **President of the Council of Commissars of the Confian Social Republic** (Confian: Razawec(a) Mižessa Haliosolecih Końfiskana Lessana Wirspruja/Разавец(а) Мижесса Халиосолецих Съхних Сындъкацам Коњфії) and until 2008 known as the **President of the Council of Commissars of the United Syndicates of Confia** (Confian: Razawec(a) Mižessa Haliosolecih Săhnih Syndăkacam Końfiï/Разавец(а) Мижесса Халиосолецих Съхних Сындъкацам Коњфії) is the head of state of the United Syndicates of Confia. 
 They are picked by the National Assembly of Confian Syndicates and confirmed by the President, though in practice they are the leader or leading candidate of the party with the largest amount of votes.
 
 ## Council of Commmisars
