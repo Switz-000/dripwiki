@@ -31,4 +31,4 @@ meta:
 %% FLAGS:
 
 - Holiday dates are fixed in the [[Dripstanian calendar]] and stored as yearly `dd/mm`, converted on 07/10/2026. Confian National Day is 14 Veroniquean, from "14th of Vartelian" in the second superseded draft, mapped by position. Saint Mantichev Day is 13 Mantichevean, per author ruling. Revolution Day is 4 Boraly, from "4th of Boralian".
-- CONFLICT, unresolved: Revolution Day falls on 23/04, but [[Paulowić regime]] dates the [[Bayonet Revolution]] it celebrates to 25/11/1977. Both come from the same source material, and reading the month by name instead of position does not remove the gap. %%
+- RESOLVED 07/10/2026: the [[Bayonet Revolution]] took place on 23/04/1977, per author ruling, matching Revolution Day. Confian National Day confirmed as 21/08. %%
