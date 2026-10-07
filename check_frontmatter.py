@@ -143,7 +143,7 @@ def date_hint(v):
         return "a Dripstanian date; convert it to Gregorian"
     if re.search(GREG_MONTHS, s):
         return "a prose date; write dd/mm/yyyy or mm/yyyy"
-    if re.search(r"\d\s*(?:-|–|—|\bto\b)\s*\d", s) or re.fullmatch(r"\d{3,4}s", s):
+    if re.search(r"\d\s*(?:-|\u2013|\u2014|\bto\b)\s*\d", s) or re.fullmatch(r"\d{3,4}s", s):
         return "a range or decade; a date field holds one date"
     if re.fullmatch(r"\d{1,2}/\d{1,2}(/\d{2,4})?|\d{1,2}/\d{4}", s):
         return "day and month take two digits and must be a real date"
@@ -316,7 +316,7 @@ def main():
         show(gaps, "·")
 
     if a.dates and dates:
-        print(f"\n{'='*72}\nDATES — {len(dates)} in {len({p for p,_ in dates})} files "
+        print(f"\n{'='*72}\nDATES: {len(dates)} in {len({p for p,_ in dates})} files "
               f"(not in a stored form; matched by pattern, so check each)")
         show(dates, "!")
 

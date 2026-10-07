@@ -56,7 +56,6 @@ founded: 1966             # correct: a year is a bare integer
 founded: "1966"           # sorts as text, drops out of timeline queries
 year: 05/01/1955          # correct: a day, dd/mm/yyyy
 start_year: 03/1976       # correct: a month, mm/yyyy
-date: 21/08               # correct: a date that recurs every year, dd/mm
 year: 5/1/1955            # wrong: day and month take two digits
 year: 1955-01-05          # wrong: YAML turns this into a date object
 ```
@@ -64,6 +63,8 @@ year: 1955-01-05          # wrong: YAML turns this into a date object
 A date field holds a year, or a fuller date in one of the slash forms from the
 Style Guide's Dates section. The slash forms are written unquoted, like the
 year: YAML reads them as plain text, and the scripts parse them from there.
+The fourth form, `dd/mm`, is for a date that recurs every year and names no
+year, so it never appears in the chronology.
 Fields named `..._year` take the fuller forms too. The name is historical.
 
 Use the most precise form that is known and no more. `generate_chronology.py`
