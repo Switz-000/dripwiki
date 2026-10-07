@@ -4,7 +4,9 @@ Susian liberty, Suizo's interpretation
 
 so, first things first. susia is not america, duh, if it was america with a coat in it it would be booooring. so here are the main differences (source, myself)
 
-1) susian liberty is communitarian, way more than IRL liberalism / libertarianism.
+1 - susian liberty is communitarian, way more than IRL liberalism / libertarianism.
+
+if it isn't evident, susian culture is very communitarian. the [[Sorzenko]] are private institutions but created, staffed, and operated by a community. it is independent from the state, so much so a city can have many different sorzenkos. they were originally created due to the need for protecting small communities from native attacks, as shooting club for militias. but they only took their modern shape with the [[Dripstanian Wars of Religion]]. during this era, communities would constantly be harnessed by either the empire's forces, 
 
 The mistake every outsider makes, and every reader will make, is to hear "natural rights, gun culture, suspicion of the state" and file [[Susia]] next to America. It is the wrong shelf. American liberty is a wall between the individual and everyone else; the right is a thing you hold against the community. Susian liberty is the opposite move dressed in the same words. The right is yours, pre-political, Versijian, inalienable, but it is real only because the people around you have agreed to take up arms to make it real. So the most individualist rights theory on the continent is secured by the most communal duty culture on the continent, and neither half can be removed. The right is mine. The guarantee is ours. Therefore the duty is mine again. It loops back into obligation, always.
 
