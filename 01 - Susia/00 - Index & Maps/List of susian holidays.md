@@ -16,7 +16,7 @@ meta:
 ## Federal holidays:
 
 **[[Hăjaven]]**: Celebrated during the start of winter. 25/11
-**[[Versij Day]]**: Honors Armadesh Versij's execution (1844), the martyr of liberty. 26/09
+**[[Versij Day]]**: Honors Armadesh Versij's execution (1844), the martyr of liberty. 01/10
 **[[Foundation Day]]**: Commemorates the signing of the Tahuni Accords (1954) and Susia's founding. 15/07
 **[[Liberation Day]]**: Celebrates the end of the Continental War (1977) and victory over syndicalism. 25/05
 **[[Reconciliation Day]]**: Marks [[Tekur Susians|Tekur]] citizenship grant (1997), acknowledges historical injustice. 08/04
@@ -35,4 +35,4 @@ meta:
 %% FLAGS:
 
 - Hăjaven is 1 Vereny, Foundation Day 14 Agamilean, Liberation Day 36 Boraly and Reconciliation Day 25 Vertery in the [[Dripstanian calendar]], per the author's holiday table of 07/10/2026, stored as yearly `dd/mm`.
-- Versij Day is 14 Versijean and Saint Mantichev Day is 13 Mantichevean in the [[Dripstanian calendar]], per author ruling on 07/10/2026, stored as yearly `dd/mm`. %%
+- Versij Day is 19 Versijean and Saint Mantichev Day is 13 Mantichevean in the [[Dripstanian calendar]], per author ruling on 07/10/2026, stored as yearly `dd/mm`. %%
