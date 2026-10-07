@@ -55,7 +55,7 @@ party:
 parties:
   - "[[Progressive Republican Party|Progressive Republican Party (1954-1955)]]"
 organizations:
-  -
+  - 
 titles:
   - title:
     seat:
@@ -63,9 +63,8 @@ titles:
     end_year:
     appointer:
     parties:
-      -
+      - 
     notes:
-
 roles:
   - role:
     employer:
