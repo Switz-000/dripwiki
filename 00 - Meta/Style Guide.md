@@ -124,10 +124,14 @@ stored form has to stay machine-readable.
   AS years, in body text or in the flags block. The one exception is
   [[Dripstanian calendar]], which describes that calendar in its own terms and
   holds the conversion reference. Convert source material before recording it.
-- The month names olódio, mantichévio, nikolaio, borálio, agamílio, tichendo,
-  petendo, chestendo, semendo and vossendo are a superseded draft, not an
-  in-world form. Where one turns up in source material, map it by position to
-  the canon month in [[Dripstanian calendar]], then convert to Gregorian.
+- Two superseded drafts of the calendar survive in source material: olódio,
+  mantichévio, nikolaio, borálio, agamílio, tichendo, petendo, chestendo,
+  semendo, vossendo; and lichévio, mantichévio, doremógio, borálio, agamílio,
+  veroníquio, vartélio, olódio, jártio, verênio (also anglicised, as
+  *Vartelian* or *Verenian*). Neither is an in-world form. Map a month by its
+  position in its draft, never by its name, to the canon month in
+  [[Dripstanian calendar]], then convert to Gregorian. The calendar article's
+  flags list both drafts in order.
 - Approximate dates in prose use *circa* or *around*: *around 1820*, 
   *circa 1740*. Do not use *c.* abbreviation in body text.
 - Frontmatter year fields stay bare integers (see `YAML and Tags.md`). Until

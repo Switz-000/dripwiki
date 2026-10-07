@@ -15,7 +15,7 @@ meta:
   image: null
 ---
 
-From the [[Presidential Empowerment Amendment]] in Vartelian 21st, 1958 to the [[Bayonet Revolution]] in Verenian 2nd, 1977, Confia was under a totalitarian dictatorship led by [[Lorelaj Paulowić]].
+From the [[Presidential Empowerment Amendment]] on 27/08/1958 to the [[Bayonet Revolution]] on 25/11/1977, Confia was under a totalitarian dictatorship led by [[Lorelaj Paulowić]].
 
 # History
 
@@ -59,3 +59,7 @@ Although the regime's state propaganda aimed to convey the idea that a popular g
 Urban development, particularly in capitals and large cities, was relegated to mayors appointed by Paulowić. In general, housing construction was mixed, with cheaper, more affordable houses being built by the municipal government and more luxurious and expensive houses being built, sold, and rented by so-called housing collectives — local groups that emerged together with the syndicates in the late Empire.
 During Mixed Planning, these groups began to dominate the real estate market, leading to the cartelization of construction contracts through geographical division and abusive rents, with little to no competition. Government-built buildings, even with subsidized energy, water, and other costs, were built far from the city centers where economic growth was booming, such as [[Saint Eriogala]] in [[Imgospalje]]
 Due to the precariousness or non-existence of public transportation, citizens living in neighborhoods with subsidized buildings were forced to buy cars to get around. These were rarely cheap and often low-quality, given the lack of competition resulting from the state monopoly of the automotive industry under [[Žošewoš Machinery]]. Thus, many went into debt at exorbitant interest rates to finance their automobiles, the only means of transportation available.
+
+%% FLAGS:
+
+- Dates of the Presidential Empowerment Amendment, 27/08/1958, and the Bayonet Revolution, 25/11/1977, converted on 07/10/2026 from source material in the second superseded draft of the [[Dripstanian calendar]], mapping each month by position. The source form is recorded in that article's flags. %%

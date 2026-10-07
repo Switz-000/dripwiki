@@ -137,7 +137,7 @@ meta:
 
 ## Early life and education
 
-Kunsekowić was born to an upper-middle class family in [[Carlotopolis]] in Verenian 3rd, 1917. He fled Confia with his family in 1930, in the lead-up to the [[War of Confian Secession]], finishing his basic education in [[Neoveli]]. He graduated in Economics in the [[University of New Kentu]] in 1940.
+Kunsekowić was born to an upper-middle class family in [[Carlotopolis]] on 27/11/1917. He fled Confia with his family in 1930, in the lead-up to the [[War of Confian Secession]], finishing his basic education in [[Neoveli]]. He graduated in Economics in the [[University of New Kentu]] in 1940.
 ## Political career
 ### Prime Minister of Confia (1980–1982)
 
@@ -169,4 +169,4 @@ The scandal, which became known as "Čirwašata/ЧірваШата" (translated 
 
 %% FLAGS:
 
-- The date of the leaked recording, 07/03/1982, was converted on 07/10/2026 from source material in the [[Dripstanian calendar]], reading the bracketed number in the source as the month's position, as in [[Roškoša Plans]]. The source form is recorded in the calendar article's flags. %%
+- Birth date 27/11/1917 and the date of the leaked recording, 07/03/1982, converted on 07/10/2026 from source material in the second superseded draft of the [[Dripstanian calendar]], mapping each month by position. The source form is recorded in that article's flags. %%

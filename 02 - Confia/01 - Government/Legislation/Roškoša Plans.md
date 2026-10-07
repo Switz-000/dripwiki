@@ -34,5 +34,5 @@ In the end, the Roškoša plans failed to control inflation. In 1977, a year bef
 
 %% FLAGS:
 
-- Dates converted on 07/10/2026 from source material in the [[Dripstanian calendar]], reading the bracketed number in the source as the month's position. The source form and the conversions are recorded in that article's flags. Read by name instead, Roškoša II would precede Roškoša I.
+- Dates converted on 07/10/2026 from source material in the second superseded draft of the [[Dripstanian calendar]], mapping each month by position. The source form is recorded in that article's flags. The source wrote each month's position in brackets, which matches that draft's order.
 - Month-precision dates take the Gregorian month holding the middle of the Dripstanian month. %%
