@@ -141,7 +141,7 @@ meta:
 
 ## 1793
 
-- **Appointment**: [[Empress Prazde]] becomes Queen of Zaphonia. *157 AS to 125 AS in the family chart.*
+- **Appointment**: [[Empress Prazde]] becomes Queen of Zaphonia. *1793 to 1825 in the family chart.*
 - **Death**: [[Lekhertos]] died in [[Zaphonia]] (Poisoning)
 
 ## 1796
