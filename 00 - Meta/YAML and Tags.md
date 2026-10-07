@@ -49,19 +49,37 @@ citizenship:
   - [[Confia|Confian]]         # silently broken
 ```
 
-### 1.2 Years are bare integers
+### 1.2 Dates take one of four forms, never quoted
 
 ```yaml
-founded: 1966       # correct
-founded: "1966"     # sorts as text, drops out of timeline queries
+founded: 1966             # correct: a year is a bare integer
+founded: "1966"           # sorts as text, drops out of timeline queries
+year: 05/01/1955          # correct: a day, dd/mm/yyyy
+start_year: 03/1976       # correct: a month, mm/yyyy
+date: 21/08               # correct: a date that recurs every year, dd/mm
+year: 5/1/1955            # wrong: day and month take two digits
+year: 1955-01-05          # wrong: YAML turns this into a date object
 ```
 
-An approximate year goes in the field as the best single value, with the
-approximation recorded in the flags block. Never `~1959`, never `circa 1740`,
-never a range.
+A date field holds a year, or a fuller date in one of the slash forms from the
+Style Guide's Dates section. The slash forms are written unquoted, like the
+year: YAML reads them as plain text, and the scripts parse them from there.
+Fields named `..._year` take the fuller forms too. The name is historical.
 
-A year field holds a year and nothing else. `year: Disappeared 1977` belongs in
-two fields: `year: 1977` and `cause: Disappeared`.
+Use the most precise form that is known and no more. `generate_chronology.py`
+orders events inside a year by month and day, and puts those known only by
+year first.
+
+An approximate date goes in the field as the best single value, with the
+approximation recorded in the flags block. Never `~1959`, never `circa 1740`,
+never a range, never a decade such as `1990s`.
+
+A date field holds a date and nothing else. `year: Disappeared 1977` belongs in
+two fields: `year: 1977` and `cause: Disappeared`. A term that has not ended
+leaves `end_year` empty; it does not say `present`.
+
+`python check_frontmatter.py` reports any other value in a date field as an
+error.
 
 ### 1.3 No quotes around any number
 
@@ -652,6 +670,19 @@ Remove these on sight when editing any file.
 
 Newest first. If you have not written for the vault since a date below, the
 entries above it are what changed under you.
+
+**2026-10-07**
+- Date fields now accept the four stored forms from the Style Guide: `yyyy`,
+  `mm/yyyy`, `dd/mm/yyyy`, and `dd/mm` for a date that recurs every year. Rule
+  1.2 is rewritten. A year is still a bare integer, and the slash forms are
+  written unquoted.
+- `generate_chronology.py` and `generate_lists.py` read all four through one
+  shared parser, `vault_dates.py`. Events inside a year are ordered by month
+  and day. `chronology.json` gains the stored form and its precision on every
+  event and span.
+- `check_frontmatter.py` reports anything else in a date field as an error:
+  prose dates, ISO dates, `~1959`, ranges, decades, Dripstanian dates. Its new
+  `--dates` flag lists dates in article bodies that are not in a stored form.
 
 **2026-09-26**
 - Added an Incria era vocabulary in section 4: shared imperial slugs, then

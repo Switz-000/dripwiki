@@ -20,6 +20,8 @@ import sys
 import yaml
 from pathlib import Path
 
+from vault_dates import parse as _parse_date
+
 # ── Configuration ────────────────────────────────────────────────────────────
 
 VAULT_ROOT = Path(os.environ.get("VAULT_ROOT", "."))
@@ -55,11 +57,33 @@ def _has(value) -> bool:
     return True
 
 
-def _year(value):
+def _date(value):
+    """The value as a VaultDate that names a year, or None. Accepts a year,
+    mm/yyyy or dd/mm/yyyy; a yearly dd/mm has no year and is None here."""
+    d = _parse_date(value)
+    return d if d is not None and d.year is not None else None
+
+
+def _int(value):
+    """A whole number that is not a date, such as max_holders. None otherwise."""
     if isinstance(value, bool) or value is None:
         return None
     s = str(value).strip()
     return int(s) if s.lstrip("-").isdigit() else None
+
+
+def _ends(start, end) -> dict:
+    """Both ends of a term or period. `start` and `end` are years, which is
+    what overlaps are worked out in; `start_d` and `end_d` keep the full date
+    for ordering and for showing the stored form."""
+    a, b = _date(start), _date(end)
+    return {"start": a.year if a else None, "end": b.year if b else None,
+            "start_d": a, "end_d": b}
+
+
+def _order(d) -> tuple:
+    """Sort key for a date that may be missing. Missing sorts last."""
+    return d.sort_key if d is not None else (BIG,)
 
 
 def _key(text) -> str:
@@ -175,8 +199,7 @@ def collect(titles: dict) -> list[str]:
             title["holdings"].append({
                 "holder":    md.stem,
                 "seat":      seat,
-                "start":     _year(entry.get("start_year")),
-                "end":       _year(entry.get("end_year")),
+                **_ends(entry.get("start_year"), entry.get("end_year")),
                 "party":     _wl(entry.get("parties")),
                 "appointer": entry.get("appointer"),
                 "notes":     str(entry.get("notes")).strip() if _has(entry.get("notes")) else "",
@@ -193,8 +216,8 @@ def sections(title: dict) -> list[dict]:
             continue
         out.append({"heading": _text(s.get("name")) or f"{title['name']} for {_name(s.get('for'))}",
                     "seat": _name(s.get("for")),
-                    "start": None, "end": None,
-                    "max_holders": _year(s.get("max_holders")) or _year(title.get("max_holders")) or BIG})
+                    **_ends(None, None),
+                    "max_holders": _int(s.get("max_holders")) or _int(title.get("max_holders")) or BIG})
     if out:
         return out
     for s in title.get("subtitles") or []:
@@ -202,13 +225,13 @@ def sections(title: dict) -> list[dict]:
             continue
         out.append({"heading": _text(s.get("name")) or title["name"],
                     "seat": None,
-                    "start": _year(s.get("start_year")), "end": _year(s.get("end_year")),
-                    "max_holders": _year(s.get("max_holders")) or _year(title.get("max_holders")) or BIG})
+                    **_ends(s.get("start_year"), s.get("end_year")),
+                    "max_holders": _int(s.get("max_holders")) or _int(title.get("max_holders")) or BIG})
     if out:
         return out
     # No max_holders means no limit: a body, not a seat.
-    return [{"heading": None, "seat": None, "start": None, "end": None,
-             "max_holders": _year(title.get("max_holders")) or BIG}]
+    return [{"heading": None, "seat": None, **_ends(None, None),
+             "max_holders": _int(title.get("max_holders")) or BIG}]
 
 
 def place(holding, parts: list[dict]) -> dict | None:
@@ -241,7 +264,8 @@ def interludes_of(title: dict, part: dict) -> list[dict]:
     for i in title.get("interludes") or []:
         if not isinstance(i, dict):
             continue
-        start, end = _year(i.get("start_year")), _year(i.get("end_year"))
+        ends = _ends(i.get("start_year"), i.get("end_year"))
+        start = ends["start"]
         if part["seat"] is not None:
             continue
         a = part["start"] if part["start"] is not None else -BIG
@@ -252,7 +276,7 @@ def interludes_of(title: dict, part: dict) -> list[dict]:
         what = _text(i.get("name"))
         rows.append({"interlude": True, "label": f"*{what or label}*",
                      "kind": str(i.get("kind") or "").strip().lower(),
-                     "start": start, "end": end,
+                     **ends,
                      "notes": str(i.get("notes")).strip() if _has(i.get("notes")) else ""})
     return rows
 
@@ -260,14 +284,14 @@ def interludes_of(title: dict, part: dict) -> list[dict]:
 # ── Rendering ─────────────────────────────────────────────────────────────────
 
 def _term(row) -> str:
-    start = row["start"] if row["start"] is not None else "?"
-    end = row["end"] if row["end"] is not None else "?"
+    start = row["start_d"].stored if row["start_d"] is not None else "?"
+    end = row["end_d"].stored if row["end_d"] is not None else "?"
     return f"{start} - {end}"
 
 
 def render_part(title: dict, part: dict, holdings: list[dict], problems: list[str]) -> list[str]:
     dated = sorted((h for h in holdings if h["start"] is not None),
-                   key=lambda h: (h["start"], h["end"] if h["end"] is not None else BIG, h["holder"]))
+                   key=lambda h: (_order(h["start_d"]), _order(h["end_d"]), h["holder"]))
     undated = sorted((h for h in holdings if h["start"] is None), key=lambda h: h["holder"])
     numbered = title.get("numbered") is not False and part["max_holders"] == 1
 
@@ -291,8 +315,7 @@ def render_part(title: dict, part: dict, holdings: list[dict], problems: list[st
                                   f"above max_holders {part['max_holders']}")
 
     rows_src = dated + undated + interludes_of(title, part)
-    rows_src.sort(key=lambda r: (r["start"] if r["start"] is not None else BIG,
-                                 r["end"] if r["end"] is not None else BIG))
+    rows_src.sort(key=lambda r: (_order(r["start_d"]), _order(r["end_d"])))
 
     appointers = [h.get("appointer") for h in rows_src if _has(h.get("appointer"))]
     show_party = any(h.get("party") for h in rows_src)
@@ -339,7 +362,7 @@ def render_part(title: dict, part: dict, holdings: list[dict], problems: list[st
     if part["heading"]:
         years = ""
         if part["seat"] is None and (part["start"] is not None or part["end"] is not None):
-            years = f" ({part['start'] or '?'} - {part['end'] or 'present'})"
+            years = f" ({part['start_d'] or '?'} - {part['end_d'] or 'present'})"
         out += [f"### {part['heading']}{years}", ""]
     out += ["| " + " | ".join(head) + " |",
             "| " + " | ".join(":-:" if c in ("No.", "Term") else "---" for c in head) + " |"]
@@ -357,7 +380,7 @@ def render(title: dict, problems: list[str]) -> str:
     for h in title["holdings"]:
         if place(h, parts) is None:
             problems.append(f"{title['name']}: {h['holder']}'s term "
-                            f"({h['start']} to {h['end']}) fits no seat or period")
+                            f"({h['start_d'] or '?'} to {h['end_d'] or '?'}) fits no seat or period")
     if not body:
         body = ["*No holders recorded yet.*", ""]
     return "\n".join(body).rstrip("\n")
@@ -422,19 +445,19 @@ def collect_alumni(unis: dict) -> list[str]:
             uni["alumni"].append({
                 "person": md.stem,
                 "degree": _text(entry.get("degree")),
-                "year":   _year(entry.get("year")),
+                "date":   _date(entry.get("year")),
             })
     return problems
 
 
 def render_alumni(uni: dict) -> str:
     rows = sorted(uni["alumni"],
-                  key=lambda a: (a["year"] if a["year"] is not None else BIG, a["person"]))
+                  key=lambda a: (_order(a["date"]), a["person"]))
     if not rows:
         return "*No alumni recorded yet.*"
     out = ["| Name | Degree | Year |", "| --- | --- | :-: |"]
     for a in rows:
-        year = str(a["year"]) if a["year"] is not None else "?"
+        year = a["date"].stored if a["date"] is not None else "?"
         out.append(f"| {_cell('[[' + a['person'] + ']]')} | {_cell(a['degree'])} | {year} |")
     return "\n".join(out)
 
@@ -493,8 +516,8 @@ def render_university_list(unis: dict, cities: dict, country) -> str:
         nature = ", ".join(str(n) for n in nature if _has(n)) if isinstance(nature, list) else _text(nature)
         rows.append({"name": name, "city": _wl(city), "state": _wl(_name(cfm.get("state"))),
                      "country": _wl(c), "type": nature, "control": _wl(fm.get("control")),
-                     "founded": _year(fm.get("founded"))})
-    rows.sort(key=lambda r: (r["founded"] if r["founded"] is not None else BIG, r["name"]))
+                     "founded": _date(fm.get("founded"))})
+    rows.sort(key=lambda r: (_order(r["founded"]), r["name"]))
     if not rows:
         return "*No universities recorded yet.*"
     head = ["School", "City", "State" if country else "Country", "Type", "Control", "Founded"]
@@ -502,7 +525,7 @@ def render_university_list(unis: dict, cities: dict, country) -> str:
            "| " + " | ".join(":-:" if h == "Founded" else "---" for h in head) + " |"]
     for r in rows:
         cells = [f"[[{r['name']}]]", r["city"], r["state"] if country else r["country"],
-                 r["type"], r["control"], str(r["founded"]) if r["founded"] is not None else "?"]
+                 r["type"], r["control"], r["founded"].stored if r["founded"] is not None else "?"]
         out.append("| " + " | ".join(_cell(x) for x in cells) + " |")
     return "\n".join(out)
 

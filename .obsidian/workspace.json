@@ -214,8 +214,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "693c54f4ecf7a16c",
+  "active": "2c8bfdfa82ed5652",
   "lastOpenFiles": [
+    "__pycache__/vault_dates.cpython-314.pyc",
+    "__pycache__",
+    "vault_dates.py",
+    "vault_dates.py.tmp.27482.37642112acc7",
     "00 - Meta/Titles.md",
     "00 - Meta/Suizo's Artistic Bible/Entries/Lichev Verene, Suizo's Interpretation.md",
     "00 - Meta/Suizo's Artistic Bible/Entries/Liberty, the susian way.md",
@@ -241,7 +245,6 @@
     "02 - Confia/06 - People/Pawlăn Listewi.md",
     "02 - Confia/06 - People/Tegiron Hari.md",
     "02 - Confia/09 - Titles/President Director of the Free Confian Republic.md",
-    "02 - Confia/09 - Titles/Governor-General of the Land of Confia.md",
     "10 - Dripstanian Incria/Tehtíe/sedgYg1q5",
     "10 - Dripstanian Incria/Tehtíe",
     "10 - Dripstanian Incria/Veskera",

@@ -4,9 +4,13 @@ generate_chronology.py
 Walks the vault, extracts dated events from article frontmatter, and writes a
 sorted CHRONOLOGY.md to the repo root.
 
-Reads the fields defined by the templates in 00 - Meta/Templates/. A year
+Reads the fields defined by the templates in 00 - Meta/Templates/. A date
 written in a field this script does not read will not appear; see the
 extract_events() branches for what is read per type.
+
+A date field holds any of the four stored forms read by vault_dates.py: a
+year, mm/yyyy, dd/mm/yyyy or a yearly dd/mm. A yearly date has no year, so it
+has no place in a chronology and is left out.
 """
 
 import json
@@ -16,6 +20,8 @@ import sys
 import yaml
 from pathlib import Path
 from collections import defaultdict
+
+from vault_dates import parse as _parse_date, year_of as _year
 
 # ── Configuration ────────────────────────────────────────────────────────────
 
@@ -48,18 +54,23 @@ def _has(value) -> bool:
     return True
 
 
-def _year(value):
-    """Return the value as an int year, or None if it is not one.
+def _date(value):
+    """The value as a VaultDate that names a year, or None.
 
-    Booleans are rejected explicitly: YAML reads `yes`/`true` as True, and
-    str(True) is not a year.
+    A yearly dd/mm date parses but has no year, so it is None here too.
+    _year(), from vault_dates, gives the year alone for callers that only
+    compare years.
     """
+    d = _parse_date(value)
+    return d if d is not None and d.year is not None else None
+
+
+def _int(value):
+    """A whole number that is not a date, such as a count. None otherwise."""
     if isinstance(value, bool) or value is None:
         return None
     s = str(value).strip()
-    if s.lstrip("-").isdigit():
-        return int(s)
-    return None
+    return int(s) if s.lstrip("-").isdigit() else None
 
 
 def _wl(value) -> str:
@@ -194,7 +205,7 @@ def load_titles(files) -> dict:
     return titles
 
 
-def interlude_events(titles: dict, paths: dict) -> list[tuple[int, str, str]]:
+def interlude_events(titles: dict, paths: dict) -> list[tuple]:
     """Years a title stood in regency, dispute, vacancy or abolition."""
     events = []
     for name, spec in titles.items():
@@ -206,7 +217,7 @@ def interlude_events(titles: dict, paths: dict) -> list[tuple[int, str, str]]:
             what = _text(i.get("name"))
             tail = f" ({what})" if what else ""
             notes = _notes_text(i)
-            start, end = _year(i.get("start_year")), _year(i.get("end_year"))
+            start, end = _date(i.get("start_year")), _date(i.get("end_year"))
             country = country_of(paths[name]) if name in paths else ""
             if start is not None:
                 events.append((start, f"**{label} begins**: {link}{tail}{notes}", country))
@@ -231,17 +242,33 @@ def country_of(rel: Path) -> str:
     return COUNTRIES.get(rel.parts[0], "")
 
 
+def _span_years(a, b) -> dict:
+    """A span's ends as years. The site places bars by these."""
+    return {"start": a.year if a else None, "end": b.year if b else None}
+
+
+def _span_dates(a, b) -> dict:
+    """The stored form and precision of each end a span has."""
+    out = {}
+    for side, d in (("start", a), ("end", b)):
+        if d is not None:
+            out[f"{side}_date"] = d.stored
+            out[f"{side}_precision"] = d.precision
+    return out
+
+
 def spans_of(fm: dict, name: str, rel: Path, titles: dict) -> list[dict]:
     country = country_of(rel)
     kind = str(fm.get("type") or "")
     out = []
 
     def add(lane, label, start, end, **extra):
-        a, b = _year(start), _year(end)
+        a, b = _date(start), _date(end)
         if a is None and b is None:
             return
-        out.append({"lane": lane, "label": label, "start": a, "end": b,
-                    "country": country, **{k: v for k, v in extra.items() if v}})
+        out.append({"lane": lane, "label": label, **_span_years(a, b),
+                    "country": country, **{k: v for k, v in extra.items() if v},
+                    **_span_dates(a, b)})
 
     if kind == "person":
         for post in (fm.get("titles") or []):
@@ -266,13 +293,14 @@ def interlude_spans(titles: dict, paths: dict) -> list[dict]:
             if not isinstance(i, dict):
                 continue
             label = INTERLUDE_LABELS.get(str(i.get("kind") or "").strip().lower(), "Interlude")
-            a, b = _year(i.get("start_year")), _year(i.get("end_year"))
+            a, b = _date(i.get("start_year")), _date(i.get("end_year"))
             if a is None and b is None:
                 continue
             out.append({"lane": "titles", "label": _text(i.get("name")) or label,
-                        "start": a, "end": b, "title": name,
+                        **_span_years(a, b), "title": name,
                         "interlude": str(i.get("kind") or "other").strip().lower(),
-                        "country": country_of(paths[name])})
+                        "country": country_of(paths[name]),
+                        **_span_dates(a, b)})
     return out
 
 
@@ -283,12 +311,13 @@ def extract_events(
     title: str,
     by_election: dict,
     titles: dict | None = None,
-) -> list[tuple[int, str]]:
+) -> list[tuple]:
     """
-    Returns a list of (year, label) tuples for regular (non-election) events.
-    Election-appointed offices are written directly into by_election instead.
+    Returns a list of (date, label) tuples for regular (non-election) events,
+    where date is a VaultDate. Election-appointed offices are written directly
+    into by_election instead, which groups by year.
     """
-    events: list[tuple[int, str]] = []
+    events: list[tuple] = []
     link = f"[[{title}]]"
 
     def record(lines, notes: str = "", notes_on: str = "first"):
@@ -299,19 +328,19 @@ def extract_events(
         record produces. They go on the earliest line by default, or on the
         latest with notes_on="last".
         """
-        dated = [(y, lbl) for y, lbl in ((_year(y), lbl) for y, lbl in lines) if y is not None]
+        dated = [(d, lbl) for d, lbl in ((_date(v), lbl) for v, lbl in lines) if d is not None]
         if not dated:
             return
         if notes:
             idx = 0
             if notes_on == "last":
-                latest = max(y for y, _ in dated)
-                idx = max(i for i, (y, _) in enumerate(dated) if y == latest)
+                latest = max(d.sort_key for d, _ in dated)
+                idx = max(i for i, (d, _) in enumerate(dated) if d.sort_key == latest)
             else:
-                earliest = min(y for y, _ in dated)
-                idx = min(i for i, (y, _) in enumerate(dated) if y == earliest)
-            y, lbl = dated[idx]
-            dated[idx] = (y, lbl + notes)
+                earliest = min(d.sort_key for d, _ in dated)
+                idx = min(i for i, (d, _) in enumerate(dated) if d.sort_key == earliest)
+            d, lbl = dated[idx]
+            dated[idx] = (d, lbl + notes)
         events.extend(dated)
 
     def entries(key):
@@ -393,18 +422,18 @@ def extract_events(
                  f"**Discharge**: {link}" + (f" from {branch}" if branch else "")),
             ], _notes_text(ms))
 
-        # Criminal charges: one line per person per year, not per count, so a
+        # Criminal charges: one line per person per date, not per count, so a
         # six-charge indictment reads as one indictment.
-        charged: defaultdict[int, list[str]] = defaultdict(list)
+        charged: defaultdict = defaultdict(list)
         verdicts: defaultdict[tuple, list[str]] = defaultdict(list)
         for c in entries("criminal_charges"):
             charge = _text(c.get("charge")) or "?"
-            counts = _year(c.get("counts"))
+            counts = _int(c.get("counts"))
             charge_str = charge + (f" ({counts} counts)" if counts and counts > 1 else "")
-            if _year(c.get("charged_year")) is not None:
-                charged[_year(c.get("charged_year"))].append(charge_str)
-            if _year(c.get("verdict_year")) is not None:
-                key = (_year(c.get("verdict_year")),
+            if _date(c.get("charged_year")) is not None:
+                charged[_date(c.get("charged_year"))].append(charge_str)
+            if _date(c.get("verdict_year")) is not None:
+                key = (_date(c.get("verdict_year")),
                        _text(c.get("verdict")) or "?",
                        _text(c.get("sentence")),
                        c.get("in_absentia") is True)
@@ -535,7 +564,8 @@ def parse_frontmatter(path: Path) -> dict:
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 def main():
-    by_year: defaultdict[int, list[str]] = defaultdict(list)
+    # by_year[year] = [(date, label)], date being the VaultDate it was filed under
+    by_year: defaultdict[int, list[tuple]] = defaultdict(list)
     # by_election[(year, "[[Election Note]]")] = [formatted person lines]
     by_election: dict[tuple[int, str], list[str]] = {}
     records: list[dict] = []          # the same events, for chronology.json
@@ -549,12 +579,16 @@ def main():
     paths = {f.stem: f.relative_to(VAULT_ROOT) for f in files}
     spans: list[dict] = []
 
-    def note(year: int, label: str, source: str, source_type: str, election: str = "",
+    def note(date, label: str, source: str, source_type: str, election: str = "",
              country: str = ""):
-        by_year[year].append(label)
+        by_year[date.year].append((date, label))
         m = re.match(r"\*\*(.+?)\*\*: (.*)", label, re.S)
         records.append({
-            "year": year,
+            # `year` is what the site groups and sorts by; `date` is the form
+            # the article stores, and `precision` says how much of it is known.
+            "year": date.year,
+            "date": date.stored,
+            "precision": date.precision,
             "kind": m.group(1) if m else "",
             "text": m.group(2) if m else label,
             "source": source,
@@ -570,12 +604,12 @@ def main():
 
         title = md_file.stem
         rel = md_file.relative_to(VAULT_ROOT)
-        for year, label in extract_events(fm, title, by_election, titles):
-            note(year, label, title, str(fm.get("type") or ""), country=country_of(rel))
+        for date, label in extract_events(fm, title, by_election, titles):
+            note(date, label, title, str(fm.get("type") or ""), country=country_of(rel))
         spans.extend(spans_of(fm, title, rel, titles))
 
-    for year, label, country in interlude_events(titles, paths):
-        note(year, label, "", "title", country=country)
+    for date, label, country in interlude_events(titles, paths):
+        note(date, label, "", "title", country=country)
     spans.extend(interlude_spans(titles, paths))
 
     if not by_year and not by_election:
@@ -618,8 +652,12 @@ def main():
         # Regular events come first, directly under the year. Election blocks
         # follow as ### subsections; placed before, the regular events would
         # sit inside the last election's section.
-        for entry in sorted(by_year[year]):
-            lines.append(f"- {entry}")
+        #
+        # Within the year, events known only by year come first, then the
+        # dated ones in order, each led by its stored form.
+        for date, entry in sorted(by_year[year], key=lambda e: (e[0].sort_key, e[1])):
+            lead = "" if date.precision == "year" else f"{date.stored}: "
+            lines.append(f"- {lead}{entry}")
         if by_year[year]:
             lines.append("")
 
@@ -643,11 +681,14 @@ def main():
     # holds every event the markdown does.
     for (year, election_link), people in by_election.items():
         for entry in people:
-            records.append({"year": year, "kind": "Appointment", "text": entry,
+            records.append({"year": year, "date": str(year), "precision": "year",
+                            "kind": "Appointment", "text": entry,
                             "source": "", "source_type": "person", "election": election_link})
-    records.sort(key=lambda r: (r["year"], r["kind"], r["text"]))
-    spans.sort(key=lambda s: (s["start"] if s["start"] is not None else 10**6,
-                              s["end"] if s["end"] is not None else 10**6, s["label"]))
+    records.sort(key=lambda r: (_parse_date(r["date"]).sort_key, r["kind"], r["text"]))
+    def span_key(s):
+        a, b = _parse_date(s.get("start_date")), _parse_date(s.get("end_date"))
+        return (a.sort_key if a else (10**6,), b.sort_key if b else (10**6,), s["label"])
+    spans.sort(key=span_key)
     with open(JSON_FILE, "w", encoding="utf-8", newline="\n") as f:
         json.dump({"events": records, "spans": spans}, f, ensure_ascii=False, indent=1)
         f.write("\n")

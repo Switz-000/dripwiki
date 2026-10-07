@@ -8,6 +8,7 @@ on:
       - ".github/workflows/chronology.yml"
       - "generate_chronology.py"
       - "generate_lists.py"
+      - "vault_dates.py"
 
   workflow_dispatch:     # lets you trigger it manually from GitHub UI
 

@@ -105,7 +105,7 @@ as of 2088 unless a specific year is stated.
 
 ### Dates
 
-Every date in the vault is Gregorian, written in one of three forms. The site
+Every date in the vault is Gregorian, written in one of four forms. The site
 converts them on the reader's side, into prose or into another calendar, so the
 stored form has to stay machine-readable.
 
@@ -140,9 +140,12 @@ stored form has to stay machine-readable.
   flags list both drafts in order.
 - Approximate dates in prose use *circa* or *around*: *around 1820*, 
   *circa 1740*. Do not use *c.* abbreviation in body text.
-- Frontmatter year fields stay bare integers (see `YAML and Tags.md`). Until
-  `generate_chronology.py` reads full dates, a day or month goes in the body
-  only; a `dd/mm/yyyy` in a year field drops out of the chronology.
+- Frontmatter date fields accept the same four forms (see rule 1.2 in
+  `YAML and Tags.md`). `generate_chronology.py` and `generate_lists.py` read
+  all of them, so a known day or month goes in the field: `year: 05/01/1955`,
+  `start_year: 03/1976`. A bare year is still correct when the year is all
+  that is known. `python check_frontmatter.py --dates` lists dates in article
+  bodies that are not in a stored form.
 
 ---
 
