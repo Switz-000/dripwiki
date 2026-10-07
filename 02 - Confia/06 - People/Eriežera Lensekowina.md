@@ -155,3 +155,7 @@ Darmaja Kunsekowina Kasselja was born on 02/08/1900 in [[Saint Eriogala]], a sub
 
 >The "appeal to Kieron" is unfortunately still tragically common from [[Movement for Syndicalist Renovation|the Orthodox party]]; as tragically common as it was during the Anarchy. A century and a half from now, if the supporters of the League ask "What would Eriežera think?" as a purportedly self-sealing defence for a destructive policy the party has come to support, then burn all I've written―you will know New Syndicalism has failed.
 >― Eriežera Lensekowina, [[On What Came Before Me And On What Comes After]] (1983)
+
+%% FLAGS:
+
+- Birth date 02/08/1900 converted on 07/10/2026 from source material in the [[Dripstanian calendar]]. The source already wrote the year as 1900. The conversion is recorded in that article's flags. %%

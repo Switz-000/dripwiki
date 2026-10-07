@@ -164,5 +164,9 @@ The Labour and Capital Reform ACCN (Amendment to the Constitution of the Confian
 
 #### Čirwašata and the fall of Kunsekowić
 
-On 31 Mantichevian (2) of 1982, an audio recording of a vulgar private conversation of Kunsekowić leaked to the public. In the tapes, he insulted Armotism and called its followers "inept jellybean munchers" (in reference to the particular sweets consumed during temple service)  among other things. 
+On 07/03/1982, an audio recording of a vulgar private conversation of Kunsekowić leaked to the public. In the tapes, he insulted Armotism and called its followers "inept jellybean munchers" (in reference to the particular sweets consumed during temple service)  among other things. 
 The scandal, which became known as "Čirwašata/ЧірваШата" (translated roughly to "Church Tapes"), spurred a massive rejection of Kunsekowić, in addition to undoing the KNP's reputational work of shedding its anti-clerical past. The audio exacerbated the already existing infighting within the KNP and split the party, with a large portion of its members joining Serec in his newly-formed [[Armotist Democratic Party]]. In the 1982 elections, Serec and his party achieved an overwhelming victory, with 49.73% of the vote. Thus, Serec became the first head of government to profess Reformed Armotism, being a member of the Church of the Five Scriptures.
+
+%% FLAGS:
+
+- The date of the leaked recording, 07/03/1982, was converted on 07/10/2026 from source material in the [[Dripstanian calendar]], reading the bracketed number in the source as the month's position, as in [[Roškoša Plans]]. The source form is recorded in the calendar article's flags. %%
