@@ -78,10 +78,10 @@ Yesvis' tectonics are thick and vigorous, giving the planet more frequent earthq
 
 ## Orbital characteristics
 
-|                  |      |      | Classification | Needs to be |
-| ---------------- | ---: | :--- | :------------: | :---------: |
-| Rotation period  |   24 | h    |     **B**      |             |
-| Semi-major axis  | 0.94 | AU   |     **S**      |             |
-| Orbital period   | ~361 | days |     **B**      |             |
-| Axial Tilt       |   32 | º    |                |    ≥ 30º    |
-| Eccentricity<br> | 0.12 |      |     **S**      |   ≥ 0.10    |
+|                  |      |      | Classification |       Needs to be       |
+| ---------------- | ---: | :--- | :------------: | :---------------------: |
+| Rotation period  |   24 | h    |     **B**      |                         |
+| Semi-major axis  | 0.94 | AU   |     **S**      |                         |
+| Orbital period   | ~361 | days |     **B**      | 365; need to fix later. |
+| Axial Tilt       |   32 | º    |                |          ≥ 30º          |
+| Eccentricity<br> | 0.12 |      |     **S**      |         ≥ 0.10          |
