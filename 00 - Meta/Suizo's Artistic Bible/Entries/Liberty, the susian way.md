@@ -10,10 +10,9 @@ if it isn't evident, susian culture is very communitarian. the [[Sorzenko]] are 
 
 shooting and self defense became intrinsically connected with maintain your religion, culture, and ways of life. it was, therefor, the duty of the elders to teach the young how to shoot. so a kind of a grassroots social contract exists between you, your neighbor, against them [...]. you owe competence to your neighbors.
 
-why [[Kaichet Satratonie]] a national villan? 
+why [[Kaichet Satratonie]] a national villain? because he used his capacity to act, a power entrusted to him by his fellow men, to get PUSSY from a woman who never loved him to begin with. 
 
-
-The mistake every outsider makes, and every reader will make, is to hear "natural rights, gun culture, suspicion of the state" and file [[Susia]] next to America. It is the wrong shelf. American liberty is a wall between the individual and everyone else; the right is a thing you hold against the community. Susian liberty is the opposite move dressed in the same words. The right is yours, pre-political, Versijian, inalienable, but it is real only because the people around you have agreed to take up arms to make it real. So the most individualist rights theory on the continent is secured by the most communal duty culture on the continent, and neither half can be removed. The right is mine. The guarantee is ours. Therefore the duty is mine again. It loops back into obligation, always.
+ill write the rest later
 
 That loop is the whole thing. You owe competence to your neighbors. Not a metaphor, civics class teaches you to shoot because a right nobody can defend is a privilege waiting to be revoked, and you cannot defend it alone. The [[Sorzenko]], the [[Hăjaven]] hunt, the conscript eating beside a stranger from a state he's never seen, They are the republic. The liberty is the process, not the outcome: the 1954 preamble unites people "not by blood, creed, or tongue, but by agreement on the manner in which they settle their differences." You are not Susian because you believe the same things. You are Susian because you agreed to the same way, and you armed yourself to keep the way open.
 
