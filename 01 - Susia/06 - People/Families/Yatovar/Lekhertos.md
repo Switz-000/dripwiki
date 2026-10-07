@@ -141,14 +141,14 @@ meta:
 
 %% FLAGS:
 
-- Recorded from the Casa Real Yatovar family chart supplied by the author. Gregorian equals 1950 minus AS, an epoch confirmed exactly against [[List of Dripstanian emperors]] for Mantichev, Agamilos, and Veronique.
+- Recorded from the Casa Real Yatovar family chart supplied by the author, converted from the [[Dripstanian calendar]] to Gregorian at the epoch recorded there, confirmed exactly against [[List of Dripstanian emperors]] for Mantichev, Agamilos, and Veronique.
 - RESOLVED, reversing an earlier ruling: he was NOT the Emperor of Zaphonia. Author-supplied material establishes that his father [[Mawesi Khoseri]] was the reigning emperor who agreed to vassalage in 1790, and that Lekhertos was the heir who married Prazde to seal it. The family chart's "Prince Consort of Zafônia" was correct and the earlier ruling in favour of the [[Zaphonia]] article was wrong.
 - CORRECTION NEEDED in [[Zaphonia]]: that article reads "The Emperor of Zaphonia agreed to become a vassal of the Dripstanian Empire, marrying princess Prazde. After his death, Prazde became queen of Zaphonia." It conflates father and son. Mawesi agreed to the vassalage; Lekhertos made the marriage; the crown reached Prazde through Mawesi's suicide, not through her husband's death alone.
-- RESOLVED: death year 1793, from 157 AS at the established epoch. The chart's dates for this generation are sound; the errors were confined to the two reign end-years, 145 for 135 and 137 for 127.
+- RESOLVED: death year 1793, from the chart. The chart's dates for this generation are sound; the errors were confined to the two reign end-years, 1805 for 1815 and 1813 for 1823.
 - RESOLVED: the three Khoseri deaths in a single year are not an artefact of the chart. They are the Tragedy of Takhesire: Lekhertos and [[Tedeli Khoseri]] poisoned by conspirators targeting Prazde, and [[Mawesi Khoseri]] a suicide a week later. The same reasoning no longer supports treating the shared Frajes death year as a placeholder.
-- CONTRADICTION, unresolved: the chart dates his marriage to Prazde at 160 AS, 1790, and the birth of [[Prazde II of Zaphonia]] at 170 AS, 1780, ten years before the marriage.
+- CONTRADICTION, unresolved: the chart dates his marriage to Prazde to 1790, and the birth of [[Prazde II of Zaphonia]] to 1780, ten years before the marriage.
 - Ethnicity and religion left blank. He is Zaphonian and no vault article establishes either for that people.
 - Era values are the Susian imperial vocabulary, used because Zaphonia was a Dripstanian vassal in this period. [[YAML and Tags]] defines no Zaphonian era set.
-- [[Mawesi Khoseri]] and [[Tedeli Khoseri]] are the Zaphonian royal couple on the chart, 236 to 157 AS and 201 to 157 AS. Neither has an article and neither is placed in the vault's folder structure, Zaphonia having no people folder.
+- [[Mawesi Khoseri]] and [[Tedeli Khoseri]] are the Zaphonian royal couple on the chart, 1714 to 1793 and 1749 to 1793. Neither has an article and neither is placed in the vault's folder structure, Zaphonia having no people folder.
 
 %%

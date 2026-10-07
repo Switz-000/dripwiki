@@ -212,9 +212,9 @@ When I contacted TU's communications department for comment on Kolkov's absence 
 
 I sent Kolkov a copy of this statement. He sent back a postcard with one sentence: "Believers making prophets out of heretics. Guess I called that one."
 
-— Y.R., University of New Kentu, December 2009
+— Y.R., University of New Kentu, 12/2009
 
-EPILOGUE (Added February 2011)
+EPILOGUE (Added 02/2011)
 
 I visited Kolkov last month. His health is deteriorating rapidly, lung cancer, stage four. He continues to smoke. "What's it going to do, kill me?" he said, lighting another cigarette. "Too late for prevention now."
 
@@ -244,4 +244,4 @@ That was three weeks ago. His doctor says he has months, maybe weeks. He's still
 
 I think he finds the irony sustaining.
 
-— Y.R., February 2011
+— Y.R., 02/2011

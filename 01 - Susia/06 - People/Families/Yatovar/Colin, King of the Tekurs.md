@@ -152,11 +152,11 @@ meta:
 
 %% FLAGS:
 
-- Dates derived from the Casa Real Yatovar family chart supplied by the author. The chart counts years in AS, descending; Gregorian equals 1950 minus AS, an epoch confirmed exactly against [[List of Dripstanian emperors]] for Mantichev, Agamilos, and Veronique.
+- Dates derived from the Casa Real Yatovar family chart supplied by the author, which counts years in the [[Dripstanian calendar]]. Converted to Gregorian at the epoch recorded there, confirmed exactly against [[List of Dripstanian emperors]] for Mantichev, Agamilos, and Veronique.
 - The chart's dates for this generation run ten years earlier than [[List of Dripstanian emperors]] and were ruled unreliable in favour of the list. Any value here taken only from the chart is provisional.
 - Birth year 1756 is stated in [[Empress Veronique]] and is independent of the chart.
-- RESOLVED: reign begins 1794, from 32 olódio 156 AS in author-supplied material, which matches the chart's 156 AS exactly at the established epoch.
-- RESOLVED: death year 1823, ruled this session. The chart's 137 AS is a digit error for 127 AS, the same error class as 145 for 135 in the preceding reign. He died in the year the [[Dripstanian Civil War]] ended.
+- RESOLVED: reign begins 1794, from author-supplied material dating it to 30/01/1794, which matches the chart's year exactly.
+- RESOLVED: death year 1823, ruled this session. The chart's 1813 is a digit error for 1823, the same error class as 1805 for 1815 in the preceding reign. He died in the year the [[Dripstanian Civil War]] ended.
 - RESOLVED: the Tekur kingship is a Dripstanian vassalage created by [[Empress Yaneoli]] over the tribes of [[Lijssick]] and [[Baabren]], united as the [[Kingdom of Tekuria]]. Colin's kingdom declared for Jartes I, who on winning deported the population it governed in the [[March Against the Sun]].
 - RESOLVED this session, the means: Tekuria's armed forces were an imperial army, and after Colin's death in 1823 Jartes I absorbed them into the imperial army, leaving the Tekur population without an armed force of its own. The motive for the deportation remains unexplained. Treated in [[March Against the Sun]].
 

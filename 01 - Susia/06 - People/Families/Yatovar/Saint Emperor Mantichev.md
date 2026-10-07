@@ -182,7 +182,7 @@ Mantichev was canonised in the [[Armotism|Armotist]] tradition. [[Saint Mantiche
 
 %% FLAGS:
 
-- Dates derived from the Casa Real Yatovar family chart supplied by the author. The chart counts years in AS, descending; Gregorian equals 1950 minus AS, an epoch confirmed exactly against [[List of Dripstanian emperors]] for Mantichev, Agamilos, and Veronique.
+- Dates derived from the Casa Real Yatovar family chart supplied by the author, which counts years in the [[Dripstanian calendar]]. Converted to Gregorian at the epoch recorded there, confirmed exactly against [[List of Dripstanian emperors]] for Mantichev, Agamilos, and Veronique.
 - Birth place not established. The chart gives his parents as Baron Kaichet of Frajes and Damhor of Frajes, neither of whom has an article.
 - Title form follows [[List of Dripstanian emperors]], which uses no regnal numeral for the first of a name. The chart writes him as Mantichev I.
 - [[Saint Mantichev Day]] and [[Soiteslaj|St. Mantichev City]] both carry his name and are treated in their own articles.

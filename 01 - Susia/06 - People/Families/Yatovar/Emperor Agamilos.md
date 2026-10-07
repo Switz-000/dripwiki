@@ -188,13 +188,13 @@ A regency governed the empire for two years while the question was argued. In 17
 
 %% FLAGS:
 
-- Dates derived from the Casa Real Yatovar family chart supplied by the author. The chart counts years in AS, descending; Gregorian equals 1950 minus AS, an epoch confirmed exactly against [[List of Dripstanian emperors]] for Mantichev, Agamilos, and Veronique.
+- Dates derived from the Casa Real Yatovar family chart supplied by the author, which counts years in the [[Dripstanian calendar]]. Converted to Gregorian at the epoch recorded there, confirmed exactly against [[List of Dripstanian emperors]] for Mantichev, Agamilos, and Veronique.
 - File was empty before this pass. All content is frontmatter; no body written.
 - Two names are in use for this person in the vault. [[Emperor Agamilos]] is the canonical article title per session decision; "Agamilos of Frajes" is retained as an alias and the bare links in [[Empress Veronique]] and [[Units of measurement]] were repointed here.
 - The regency council of 1738 to 1740 is recorded in [[List of Dripstanian emperors]]. No article exists for it, and the [[Council of Governors]] that decided the claim has none either.
 - Body added from author-supplied material on the first three reigns, translated from Portuguese. No conflict with existing canon was found for this reign.
 - The accession precedent, that the crown descended within the house rather than reverting to election among the captaincies, is an inference from the succession law passing to a brother rather than to the convention. Labelled as inference.
 - The substance of the 52-year reign was added in a later session from author-supplied canon, treated in full in [[Dripstanian Wars of Religion]]. The eleven-member body's later history as the [[Supreme Court of Susia]] is treated in that article.
-- CONTRADICTION, unresolved, carried from the family chart: the chart places both his parents' deaths at 297 AS, 1653, and his own birth at 293 AS, 1657.
+- CONTRADICTION, unresolved, carried from the family chart: the chart places both his parents' deaths in 1653 and his own birth in 1657.
 
 %%

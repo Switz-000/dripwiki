@@ -153,7 +153,7 @@ meta:
 
 %% FLAGS:
 
-- Dates derived from the Casa Real Yatovar family chart supplied by the author. The chart counts years in AS, descending; Gregorian equals 1950 minus AS, an epoch confirmed exactly against [[List of Dripstanian emperors]] for Mantichev, Agamilos, and Veronique.
+- Dates derived from the Casa Real Yatovar family chart supplied by the author, which counts years in the [[Dripstanian calendar]]. Converted to Gregorian at the epoch recorded there, confirmed exactly against [[List of Dripstanian emperors]] for Mantichev, Agamilos, and Veronique.
 - Birth year 1778 is stated in [[Empress Veronique]]. The chart gives her no dates.
 - The connection to [[Pentério Osvien]] is marked illegitimate on the chart. Whether it produced issue is not shown. He is her first cousin, a son of [[Infante Babal]], her mother's brother; the blood tie is the recorded relation per the person template reference.
 - Not to be confused with the [[Countess of Jafnidia]], a separate and unnamed figure of the [[Liberal Revolts]].

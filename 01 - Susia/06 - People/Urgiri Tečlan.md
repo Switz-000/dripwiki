@@ -2,7 +2,7 @@
 type: person
 native_name: Urgiri Tečlan
 aliases:
-summary: Susian anarchist affiliated with the Minutemen who attempted to assassinate Postian governor Filevir Matri on 14 November 1958. He was killed at the scene.
+summary: Susian anarchist affiliated with the Minutemen who attempted to assassinate Postian governor Filevir Matri on 14/11/1958. He was killed at the scene.
 known_for:
   - item: "[[Matri assassination attempt]]"
     notes: Perpetrator
@@ -45,7 +45,7 @@ meta:
   image:
 ---
 
-**Urgiri Tečlan** (1927–1958) was a Susian anarchist affiliated with the [[Minutemen]] who attempted to assassinate [[Filevir Matri]], then governor of [[Postia]], during a public event in [[Duolij]] on 14 November 1958. Three people were killed in the attack and Matri was wounded. Tečlan was shot dead at the scene by security personnel.
+**Urgiri Tečlan** (1927–1958) was a Susian anarchist affiliated with the [[Minutemen]] who attempted to assassinate [[Filevir Matri]], then governor of [[Postia]], during a public event in [[Duolij]] on 14/11/1958. Three people were killed in the attack and Matri was wounded. Tečlan was shot dead at the scene by security personnel.
 
 ## Background
 
@@ -55,7 +55,7 @@ Little is reliably documented about Tečlan's life. He was 31 years old at the t
 
 > *Main article: [[Matri assassination attempt]]*
 
-On 14 November 1958, Matri addressed an event at the Duolij Civic Hall announcing the construction of a highway connecting [[Duolij]] and [[Nikuria]]. Tečlan attended posing as a member of the press, having concealed a firearm within the shell of a camera. The press pool's position near the podium placed him within one to two meters of Matri.
+On 14/11/1958, Matri addressed an event at the Duolij Civic Hall announcing the construction of a highway connecting [[Duolij]] and [[Nikuria]]. Tečlan attended posing as a member of the press, having concealed a firearm within the shell of a camera. The press pool's position near the podium placed him within one to two meters of Matri.
 
 Tečlan opened fire during the speech, discharging multiple rounds toward the podium. A security officer pulled Matri to the ground; a round struck Matri in the lower abdomen during the fall. Two [[White Stork Party]] officials standing near the podium and one security officer were killed. Tečlan continued firing into the resulting chaos before being shot dead by security personnel.
 

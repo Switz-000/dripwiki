@@ -23,6 +23,6 @@ person articles. Edit those articles, not this block. %%
 
 | No. | Name | Term | Notes |
 | :-: | --- | :-: | --- |
-| 1 | [[Empress Prazde]] | 1793 - 1825 | 157 AS to 125 AS in the family chart. |
+| 1 | [[Empress Prazde]] | 1793 - 1825 | 1793 to 1825 in the family chart. |
 
 %% holders:end %%

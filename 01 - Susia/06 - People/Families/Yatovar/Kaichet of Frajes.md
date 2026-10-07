@@ -144,10 +144,10 @@ meta:
 
 %% FLAGS:
 
-- Recorded from the Casa Real Yatovar family chart supplied by the author. Gregorian equals 1950 minus AS, an epoch confirmed exactly against [[List of Dripstanian emperors]] for Mantichev, Agamilos, and Veronique.
-- CONTRADICTION, unresolved: the chart places both Kaichet's and Damhor's deaths at 297 AS, which is 1653, and [[Emperor Agamilos]]'s birth at 293 AS, which is 1657. Agamilos cannot be born four years after both of his parents died. Either the shared parental death year or Agamilos's birth year is wrong.
+- Recorded from the Casa Real Yatovar family chart supplied by the author, converted from the [[Dripstanian calendar]] to Gregorian at the epoch recorded there, confirmed exactly against [[List of Dripstanian emperors]] for Mantichev, Agamilos, and Veronique.
+- CONTRADICTION, unresolved: the chart places both Kaichet's and Damhor's deaths in 1653 and [[Emperor Agamilos]]'s birth in 1657. Agamilos cannot be born four years after both of his parents died. Either the shared parental death year or Agamilos's birth year is wrong.
 - Neither citizenship nor nationality is recorded. The [[Dripstanian Empire]] was founded in 1674, twenty-one years after this person's death, and the style guide forbids assigning a state to someone who predates it. The Armotist settlers came from [[Gaiyan]], but no vault article establishes that as their origin, so the field is left blank rather than inferred.
-- The chart gives the marriage as 313 AS, 1637, the same year it gives for Mantichev's birth.
+- The chart gives the marriage as 1637, the same year it gives for Mantichev's birth.
 - "Frajes" is the family's territorial name and survives as the byname of [[Emperor Agamilos|Agamilos of Frajes]]. No article exists for the place.
 - Whether the Yatovar name attaches to this generation is not established. The chart titles the house Yatovar throughout but names these two only as "of Frajes".
 

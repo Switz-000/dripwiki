@@ -100,7 +100,7 @@ titles:
     appointer:
     parties:
       -
-    notes: 157 AS to 125 AS in the family chart.
+    notes: 1793 to 1825 in the family chart.
 
 # ── WRITTEN WORKS ───────────────────────────────────────────────────────────
 written_works:
@@ -155,13 +155,13 @@ meta:
 
 %% FLAGS:
 
-- Dates derived from the Casa Real Yatovar family chart supplied by the author. The chart counts years in AS, descending; Gregorian equals 1950 minus AS, an epoch confirmed exactly against [[List of Dripstanian emperors]] for Mantichev, Agamilos, and Veronique.
+- Dates derived from the Casa Real Yatovar family chart supplied by the author, which counts years in the [[Dripstanian calendar]]. Converted to Gregorian at the epoch recorded there, confirmed exactly against [[List of Dripstanian emperors]] for Mantichev, Agamilos, and Veronique.
 - The chart's dates for this generation run ten years earlier than [[List of Dripstanian emperors]] and were ruled unreliable in favour of the list. Any value here taken only from the chart is provisional.
-- Death year left blank. The chart gives 130 AS, which converts to 1820, inside her own reign as the list dates it. The two cannot both be right.
-- The chart gives her two reigns: 145 to 137 AS and 157 to 130 AS. The first is read as the Dripstanian claim, dated here from [[List of Dripstanian emperors]] as 1815 to 1823; the second as the Zaphonian crown.
-- RESOLVED: the chart's "Poulônia" is a superseded name for [[Zaphonia]], per session decision. Prazde's second crown is therefore Zaphonian and the apparent conflict with the [[Zaphonia]] article disappears. The chart corroborates that article exactly: [[Lekhertos]] dies at 157 AS and her Zaphonian reign begins at 157 AS, matching "after his death, Prazde became queen of Zaphonia".
+- Death year left blank. The chart gives 1820, inside her own reign as the list dates it. The two cannot both be right.
+- The chart gives her two reigns: 1805 to 1813 and 1793 to 1820. The first is read as the Dripstanian claim, dated here from [[List of Dripstanian emperors]] as 1815 to 1823; the second as the Zaphonian crown.
+- RESOLVED: the chart's "Poulônia" is a superseded name for [[Zaphonia]], per session decision. Prazde's second crown is therefore Zaphonian and the apparent conflict with the [[Zaphonia]] article disappears. The chart corroborates that article exactly: [[Lekhertos]] dies in 1793 and her Zaphonian reign begins in 1793, matching "after his death, Prazde became queen of Zaphonia".
 - OPEN: [[Zaphonia]] calls her husband the Emperor of Zaphonia. The chart titles him Prince Consort of Zafônia and makes him the son of Tedeli and Mawesi Khoseri, the reigning royal couple. Emperor is followed here as the Tier 1 reading; a consort could not have left her a throne.
 - RESOLVED: [[List of Confian leaders]] previously placed Grawolja Tekurubićna under her from 1797 to 1814, a period inside [[Empress Yaneoli]]'s reign. The list has since been corrected to Yaneoli.
-- The chart makes her twin to [[Jartes I]], both born 184 AS. [[Jartes II]] describes her as his grandmother; the chart makes her his aunt, and the chart was ruled correct this session.
+- The chart makes her twin to [[Jartes I]], both born 1766. [[Jartes II]] describes her as his grandmother; the chart makes her his aunt, and the chart was ruled correct this session.
 
 %%

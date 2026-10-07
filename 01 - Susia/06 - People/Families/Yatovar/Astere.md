@@ -144,9 +144,9 @@ meta:
 
 %% FLAGS:
 
-- Dates derived from the Casa Real Yatovar family chart supplied by the author. The chart counts years in AS, descending; Gregorian equals 1950 minus AS, an epoch confirmed exactly against [[List of Dripstanian emperors]] for Mantichev, Agamilos, and Veronique.
+- Dates derived from the Casa Real Yatovar family chart supplied by the author, which counts years in the [[Dripstanian calendar]]. Converted to Gregorian at the epoch recorded there, confirmed exactly against [[List of Dripstanian emperors]] for Mantichev, Agamilos, and Veronique.
 - The chart's dates for this generation run ten years earlier than [[List of Dripstanian emperors]] and were ruled unreliable in favour of the list. Any value here taken only from the chart is provisional.
-- Death year left blank. The chart gives 147 AS, which converts to 1803 under an epoch this generation has been ruled not to follow.
+- Death year left blank. The chart's year converts to 1803, under an epoch this generation has been ruled not to follow.
 - Recorded under the personal name alone, following [[Faranes the Feared]], the other King Consort in the vault, who carries no title in his article name.
 
 %%

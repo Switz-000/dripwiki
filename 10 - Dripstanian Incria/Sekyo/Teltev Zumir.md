@@ -58,13 +58,13 @@ meta:
 
 | Office                            | From              | To                |
 | --------------------------------- | ----------------- | ----------------- |
-| Leader of the Sekyan Free State   | 1957              | February 1976     |
-| Provisional Government            | 22 April 1976     | 30 June 1976      |
-| Provisional Government, with [[C. Pegdar]] | 23 July 1976 | 31 July 1976 |
-| Provisional Government, with [[P. Ugbade]] | 31 July 1976 | 18 August 1976 |
-| Provisional Government            | 27 January 1977   | 29 March 1977     |
-| Provisional Government            | 2 August 1977     | 29 September 1977 |
-| Provisional Government            | 25 October 1977   | 5 January 1978    |
+| Leader of the Sekyan Free State   | 1957              | 02/1976     |
+| Provisional Government            | 22/04/1976     | 30/06/1976      |
+| Provisional Government, with [[C. Pegdar]] | 23/07/1976 | 31/07/1976 |
+| Provisional Government, with [[P. Ugbade]] | 31/07/1976 | 18/08/1976 |
+| Provisional Government            | 27/01/1977   | 29/03/1977     |
+| Provisional Government            | 02/08/1977     | 29/09/1977 |
+| Provisional Government            | 25/10/1977   | 05/01/1978    |
 
 ## See Also
 

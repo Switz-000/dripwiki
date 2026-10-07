@@ -95,12 +95,44 @@ the callout even if the target page does not yet exist.
 
 - Spell out numbers one through nine. Use numerals for 10 and above.
 - Spell out numbers that begin a sentence regardless of size.
-- Years are always numerals: *the 1977 ceasefire*, *born in 2031*.
+- The Susian currency is the drip. Symbol: D$. Example: *D$6.2 trillion*.
+
+### The present is 2088
+
+Every article is written as of 2088. *Currently*, *today*, *the present* and
+any undated figure mean 2088. All market caps and undated economic figures are
+as of 2088 unless a specific year is stated.
+
+### Dates
+
+Every date in the vault is Gregorian, written in one of three forms. The site
+converts them on the reader's side, into prose or into another calendar, so the
+stored form has to stay machine-readable.
+
+| Precision | Form         | Example      |
+| --------- | ------------ | ------------ |
+| Year      | `yyyy`       | `1950`       |
+| Month     | `mm/yyyy`    | `03/1976`    |
+| Day       | `dd/mm/yyyy` | `05/01/1955` |
+
+- Day and month always take two digits: `05/01/1955`, never `5/1/1955`.
+- Years are always numerals: *the 1977 ceasefire*, *born in 2031*. Decades
+  stay as numerals too: *the 2080s*.
+- Never write a date in prose. Not *5 January 1955*, *5th of January 1955*,
+  *January 5, 1955* or *January 1955*. Write `05/01/1955` or `01/1955`.
+- Never write a date in another calendar: no Dripstanian month names and no
+  AS years, in body text or in the flags block. The one exception is
+  [[Dripstanian calendar]], which describes that calendar in its own terms and
+  holds the conversion reference. Convert source material before recording it.
+- The month names olódio, mantichévio, nikolaio, borálio, agamílio, tichendo,
+  petendo, chestendo, semendo and vossendo are a superseded draft, not an
+  in-world form. Where one turns up in source material, map it by position to
+  the canon month in [[Dripstanian calendar]], then convert to Gregorian.
 - Approximate dates in prose use *circa* or *around*: *around 1820*, 
   *circa 1740*. Do not use *c.* abbreviation in body text.
-- The Susian currency is the drip. Symbol: D$. Example: *D$6.2 trillion*.
-- All market caps and undated economic figures are as of 2080 unless a 
-  specific year is stated.
+- Frontmatter year fields stay bare integers (see `YAML and Tags.md`). Until
+  `generate_chronology.py` reads full dates, a day or month goes in the body
+  only; a `dd/mm/yyyy` in a year field drops out of the chronology.
 
 ---
 

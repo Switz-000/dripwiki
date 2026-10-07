@@ -151,7 +151,7 @@ meta:
 
 %% FLAGS:
 
-- Dates derived from the Casa Real Yatovar family chart supplied by the author. The chart counts years in AS, descending; Gregorian equals 1950 minus AS, an epoch confirmed exactly against [[List of Dripstanian emperors]] for Mantichev, Agamilos, and Veronique.
+- Dates derived from the Casa Real Yatovar family chart supplied by the author, which counts years in the [[Dripstanian calendar]]. Converted to Gregorian at the epoch recorded there, confirmed exactly against [[List of Dripstanian emperors]] for Mantichev, Agamilos, and Veronique.
 - Born 1736 while his father reigned; the chart places his birth after his brother Apreže's.
 - CONFIRMED session canon: his two children [[Pentério Osvien]] and [[Pentéria Ligória]] took each other as consorts. The union produced [[Pentério Babal II]] and a stillborn child, Barfeco. Babal is therefore Babal II's grandfather along both lines of descent.
 - Barfeco was stillborn and has no article. He is recorded in the relations of his parents and brother only.

@@ -39,7 +39,7 @@ Several hundred people were killed over the course of the riot.
 
 [[Filevir Matri]] activated the [[Postian National Guard]] and declared a state of emergency, imposing curfews and deploying troops across New Duloc and parts of [[Duolij]]. The eossaj question was subsequently brought before the [[Supreme Court of Susia]], which ruled that the formal combination of political affiliation and armed organization fell outside constitutional protection.
 
-Matri used the ruling as the basis for a comprehensive crackdown across syndicalist organizations, union leadership, [[Minutemen]] networks, and the [[Knights of the Republic]]. The [[Movement of New Susians]] was swept into these operations despite its defensive conduct during the riot and its lack of political affiliation. The crackdown ended the eossaj period in Postia and contributed to the political conditions that preceded the [[Matri assassination attempt]] in November of the same year.
+Matri used the ruling as the basis for a comprehensive crackdown across syndicalist organizations, union leadership, [[Minutemen]] networks, and the [[Knights of the Republic]]. The [[Movement of New Susians]] was swept into these operations despite its defensive conduct during the riot and its lack of political affiliation. The crackdown ended the eossaj period in Postia and contributed to the political conditions that preceded the [[Matri assassination attempt]] in 11/1958.
 
 ## See also
 

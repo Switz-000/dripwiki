@@ -146,12 +146,12 @@ meta:
 
 %% FLAGS:
 
-- Dates derived from the Casa Real Yatovar family chart supplied by the author. The chart counts years in AS, descending; Gregorian equals 1950 minus AS, an epoch confirmed exactly against [[List of Dripstanian emperors]] for Mantichev, Agamilos, and Veronique.
+- Dates derived from the Casa Real Yatovar family chart supplied by the author, which counts years in the [[Dripstanian calendar]]. Converted to Gregorian at the epoch recorded there, confirmed exactly against [[List of Dripstanian emperors]] for Mantichev, Agamilos, and Veronique.
 - The chart's dates for this generation run ten years earlier than [[List of Dripstanian emperors]] and were ruled unreliable in favour of the list. Any value here taken only from the chart is provisional.
-- Reign dates and the 1815 or 1823 ambiguity follow [[List of Dripstanian emperors]]. The chart gives 137 to 123 AS, converting to 1813 to 1827, and was ruled unreliable.
-- Death year set to 1837 from the accession of [[Jartes II]], stated in his article and in the list. The chart gives 123 AS, converting to 1827.
+- Reign dates and the 1815 or 1823 ambiguity follow [[List of Dripstanian emperors]]. The chart gives 1813 to 1827 and was ruled unreliable.
+- Death year set to 1837 from the accession of [[Jartes II]], stated in his article and in the list. The chart gives 1827.
 - The Tekur deportation is treated in [[March Against the Sun]], named this session, which now holds the figures previously taken from [[Cericeiro]] and the [[Susia]] country article. [[Empress Veronique]] separately records ethnic cleansing of the Konph under her own reign; the two events are distinct.
 - Kamino records him as the aggressor of [[The Bakurian Campaign]] and as widely hated there. Three further conquests are referenced as "four major conquests" without being named.
-- The chart makes him twin to [[Empress Prazde]], both born 184 AS. Their war is the [[fraternal-war]] era of 1815 to 1823 in [[YAML and Tags]].
+- The chart makes him twin to [[Empress Prazde]], both born 1766. Their war is the [[fraternal-war]] era of 1815 to 1823 in [[YAML and Tags]].
 
 %%

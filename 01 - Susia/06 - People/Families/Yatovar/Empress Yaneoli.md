@@ -218,11 +218,11 @@ The vassal arrangements she created outlasted her. Zaphonia remained under Drips
 
 %% FLAGS:
 
-- Dates derived from the Casa Real Yatovar family chart supplied by the author. The chart counts years in AS, descending; Gregorian equals 1950 minus AS, an epoch confirmed exactly against [[List of Dripstanian emperors]] for Mantichev, Agamilos, and Veronique.
+- Dates derived from the Casa Real Yatovar family chart supplied by the author, which counts years in the [[Dripstanian calendar]]. Converted to Gregorian at the epoch recorded there, confirmed exactly against [[List of Dripstanian emperors]] for Mantichev, Agamilos, and Veronique.
 - The chart's dates for this generation run ten years earlier than [[List of Dripstanian emperors]] and were ruled unreliable in favour of the list. Any value here taken only from the chart is provisional.
 - Birth year 1752 is stated in [[Empress Veronique]] and is independent of the chart.
-- RESOLVED: death year 1815, confirmed by author-supplied material giving her reign as 163 to 135 AS and her death at 32 petendo 135 AS, aged 63. At the established epoch 135 AS is 1815, which matches [[List of Dripstanian emperors]] exactly and is consistent with a birth in 1752. Cause of death is tuberculosis.
+- RESOLVED: death year 1815, confirmed by author-supplied material giving her reign as 1787 to 1815 and her death on 08/09/1815, aged 63. This matches [[List of Dripstanian emperors]] exactly and is consistent with a birth in 1752. Cause of death is tuberculosis.
 - The Zaphonoterfaj is a Trolian observance named here for the first time. It has no article.
-- RESOLVED: the family chart's 145 AS for the end of her reign is a digit error for 135 AS, not an epoch discrepancy. The same error appears as 137 for 127 in the following reign. The epoch, Gregorian equals 1950 minus AS, holds without exception across all four reigns now recorded.
+- RESOLVED: the family chart's 1805 for the end of her reign is a digit error for 1815, not an epoch discrepancy. The same error appears as 1813 for 1823 in the following reign. The epoch recorded in [[Dripstanian calendar]] holds without exception across all four reigns now recorded.
 
 %%

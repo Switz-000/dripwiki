@@ -48,7 +48,7 @@ The ruling was contested. The [[Knights of the Republic]] and [[Pačese ro Virsp
 
 ## Aftermath
 
-The crackdown ended the eossaj period in Postia. Eossajs did not reappear as a formal institution in Susian political history. The [[Matri assassination attempt]] of November 1958, carried out by the Minutemen affiliate [[Urgiri Tečlan]] during the crackdown, wounded Matri and provided him with political capital that shaped the remainder of his career.
+The crackdown ended the eossaj period in Postia. Eossajs did not reappear as a formal institution in Susian political history. The [[Matri assassination attempt]] of 11/1958, carried out by the Minutemen affiliate [[Urgiri Tečlan]] during the crackdown, wounded Matri and provided him with political capital that shaped the remainder of his career.
 
 The [[Movement of New Susians]] suffered a lasting deterioration in its position after the 1961 [[Federal Loyalty Act]], which recast Confian immigrants as a security risk. The Ant Wars are remembered as a formative episode of the early republic, and Matri's conduct during the period remains contested in assessments of his record.
 

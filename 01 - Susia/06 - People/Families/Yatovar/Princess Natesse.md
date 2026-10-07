@@ -153,7 +153,7 @@ meta:
 
 %% FLAGS:
 
-- Dates derived from the Casa Real Yatovar family chart supplied by the author. The chart counts years in AS, descending; Gregorian equals 1950 minus AS, an epoch confirmed exactly against [[List of Dripstanian emperors]] for Mantichev, Agamilos, and Veronique.
+- Dates derived from the Casa Real Yatovar family chart supplied by the author, which counts years in the [[Dripstanian calendar]]. Converted to Gregorian at the epoch recorded there, confirmed exactly against [[List of Dripstanian emperors]] for Mantichev, Agamilos, and Veronique.
 - Birth year 1760 is stated in [[Empress Veronique]]. The chart gives her no dates at all.
 - [[Empress Veronique]] previously listed Capraže among her five children. The chart shows him as Natesse's husband, and that reading was adopted this session, reducing Veronique's children to four.
 
