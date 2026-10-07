@@ -14,8 +14,8 @@ meta:
 ---
 ## National holidays:
 
-**[[Confian National Day]]**: Celebrates the fall of the Confian Fort and the beginning of the [[War of Confian Secession]]. The single most important Confian holiday. All businesses, schools and non-essential services close down, and thousands travel to [[Imgospalje]] for the yearly parade. 14th of Vartelian.
-**[[Saint Mantichev Day]]**: Celebrates the birthday of [[Saint Emperor Mantichev]]. Shared with formerly Dripstanian countries. 13th of Mantichevian
+**[[Confian National Day]]**: Celebrates the fall of the Confian Fort and the beginning of the [[War of Confian Secession]]. The single most important Confian holiday. All businesses, schools and non-essential services close down, and thousands travel to [[Imgospalje]] for the yearly parade. 21/08.
+**[[Saint Mantichev Day]]**: Celebrates the birthday of [[Saint Emperor Mantichev]]. Shared with formerly Dripstanian countries. 08/06.
 **[[Veteran’s Day]]**: Commemorates the lives of those who fell in the [[Continental War]]. Shared with [[Susia]].
 **[[National Democracy Day]]**: Celebrates the [[List of Confian elections#1977 Confian general election|1977 Confian elections]], the first fully democratic elections in the country's history. Replaced [[Revolution Day]].
 **[[Constitution Day (Confia)|Constitution Day]]**: Celebrates the ratification of the [[2008 Constitution]].
@@ -24,6 +24,11 @@ meta:
 **[[Day of Confian Artistry]]**: Celebrates the life of Confia's national poet [[Fata Tojenna]], whose birthday also coincides with the theatrical release of [[Across the Banks of the Lasman (1980)]].
 ## Former holidays:
 
-**[[Revolution Day]]**: Celebrated the [[Bayonet Revolution]] that overthrew the [[Paulowić regime]]. Replaced in 2002 with [[National Democracy Day]]. 4th of Boralian.
+**[[Revolution Day]]**: Celebrated the [[Bayonet Revolution]] that overthrew the [[Paulowić regime]]. Replaced in 2002 with [[National Democracy Day]]. 23/04.
 **[[Syndicate Day]]**: Celebrated the publication of [[When Workers Rule Their Own]] by [[Ganzer Kieron]]. Extinguished in 1986 as [[Boris Serec]]'s first order in office.
 **[[Paulowić Day]]**: Celebrated [[Lorelaj Paulowić]]'s birthday. Extinguished in 1977.
+
+%% FLAGS:
+
+- Holiday dates are fixed in the [[Dripstanian calendar]] and stored as yearly `dd/mm`, converted on 07/10/2026. Confian National Day is 14 Veroniquean, from "14th of Vartelian" in the second superseded draft, mapped by position. Saint Mantichev Day is 13 Mantichevean, per author ruling. Revolution Day is 4 Boraly, from "4th of Boralian".
+- CONFLICT, unresolved: Revolution Day falls on 23/04, but [[Paulowić regime]] dates the [[Bayonet Revolution]] it celebrates to 25/11/1977. Both come from the same source material, and reading the month by name instead of position does not remove the gap. %%

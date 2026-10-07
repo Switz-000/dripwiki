@@ -114,7 +114,13 @@ stored form has to stay machine-readable.
 | Year      | `yyyy`       | `1950`       |
 | Month     | `mm/yyyy`    | `03/1976`    |
 | Day       | `dd/mm/yyyy` | `05/01/1955` |
+| Yearly    | `dd/mm`      | `21/08`      |
 
+- `dd/mm` is only for a date that recurs every year, such as a holiday. Most
+  holidays are fixed in the [[Dripstanian calendar]], so their Gregorian day
+  shifts by a day in some years; store the Gregorian day they fall on in a year
+  that begins on 01/01, and the site converts it back exactly. The conversion
+  rule is in the calendar article's flags.
 - Day and month always take two digits: `05/01/1955`, never `5/1/1955`.
 - Years are always numerals: *the 1977 ceasefire*, *born in 2031*. Decades
   stay as numerals too: *the 2080s*.
