@@ -1,31 +1,42 @@
 ---
 type: event
+summary: Shooting of Postian governor Filevir Matri by Urgiri Tečlan at the Duolij Civic Hall on 14/11/1958, broadcast live. Matri was wounded and three others were killed; it was the third and most prominent of the attempts on his life during the Ant Wars.
+aliases:
+  -
 date_start: 1958
 date_end: 1958
 location: "[[Duolij]]"
 key_figures:
   - "[[Filevir Matri]]"
   - "[[Urgiri Tečlan]]"
-cause: Minutemen opposition to Matri's anti-syndicalist crackdown during the Ant Wars
+cause: Nevir opposition to Matri's anti-syndicalist crackdown during the Ant Wars
 outcome: Matri wounded and three killed; Tečlan killed at the scene
 related_events:
   - "[[Ant wars]]"
   - "[[New Duloc riot (1958)]]"
+  - "[[Matri assassination attempt (1956)]]"
+  - "[[Matri assassination attempt (1957)]]"
 era:
   - republican-era
   - continental-divide
 tags:
   - politics/dissent
   - society/crime
+meta:
+  stub: false
+  verified: false
+  image: null
 ---
 
-The **Matri assassination attempt** was an attack on [[Filevir Matri]], then governor of [[Postia]], on 14/11/1958 in [[Duolij]]. [[Urgiri Tečlan]], an anarchist affiliated with the [[Minutemen]], opened fire on Matri during a public address, wounding him and killing three others before being shot dead at the scene. The attack occurred during the crackdown that followed the [[New Duloc riot (1958)]] and was the most prominent assassination attempt of the [[Ant wars]]. It is the earliest known political assassination attempt recorded on film in Susian history.
+The **Matri assassination attempt** was an attack on [[Filevir Matri]], then governor of [[Postia]], on 14/11/1958 in [[Duolij]]. [[Urgiri Tečlan]], an anarchist affiliated with the [[Nevirs]], opened fire on Matri during a public address, wounding him and killing three others before being shot dead at the scene. The attack occurred during the crackdown that followed the [[New Duloc riot (1958)]] and was the third and most prominent of the attempts on Matri's life during the [[Ant wars]]. It is the earliest known political assassination attempt recorded on film in Susian history.
 
 ## Background
 
 > *Main article: [[Ant wars]]*
 
-By late 1958, Matri's state government was conducting a comprehensive crackdown on political organizations across [[Postia]], following the [[New Duloc riot (1958)]] and the [[Supreme Court of Susia|Supreme Court]] ruling that declared eossajs unconstitutional. The crackdown swept up syndicalist organizations, union leadership, and [[Minutemen]] networks. The [[Minutemen]], an anarchist network responsible for bombings and assassinations throughout the period, were among Matri's principal targets.
+By late 1958, Matri's state government was conducting a comprehensive crackdown on political organizations across [[Postia]], following the [[New Duloc riot (1958)]] and the [[Supreme Court of Susia|Supreme Court]] ruling that declared eossajs unconstitutional. The crackdown swept up syndicalist organizations, union leadership, and the cells it attributed to the [[Nevirs]], the anarchist current responsible for bombings and assassinations throughout the period. Matri had already survived two attempts on his life, in 1956 and 1957.
+
+> *See also: [[Matri assassination attempt (disambiguation)]]*
 
 ## The attack
 
@@ -47,7 +58,8 @@ The attack strengthened Matri's political standing. Surviving a recorded assassi
 - [[New Duloc riot (1958)]]
 - [[Urgiri Tečlan]]
 - [[Filevir Matri]]
-- [[Minutemen]]
+- [[Nevirs]]
+- [[Matri assassination attempt (disambiguation)]]
 - [[White Stork Party]]
 - [[Duolij]]
 - [[Nikuria]]
@@ -55,11 +67,11 @@ The attack strengthened Matri's political standing. Surviving a recorded assassi
 
 %% FLAGS:
 - Date 14/11/1958: session canon.
-- Title "Matri assassination attempt" chosen to match links established across session articles. Alternative titles (e.g. by date or location) not considered canonical.
+- Title takes the year, 09/10/2026, after the 1956 and 1957 attempts were established. The undated title is the disambiguation page.
 - Casualty figures (three killed: two White Stork officials and one security officer; Matri wounded): session canon.
 - Lower abdomen wound with lasting consequences: session canon.
 - Duolij General Hospital: named in session for the scene. Treated as session canon, minor detail. Stub-level, unlikely to need its own article.
-- White Stork Party, Minutemen: linked, no confirmed dedicated body content in vault. Stub candidates.
+- [[Nevirs]] replaces the retired Minutemen link. Whether a Nevir letter about Tečlan ever reached a newsroom is deliberately left unrecorded; the Nevirs never publicly claimed him.
 - Secretary of Justice, Čalsor Boňár: linked, confirmed in vault per List of Susian Presidents and Matri article.
 - Postian Public Television: named in session as the broadcaster. No dedicated article. Minor detail, stub candidate at most.
 %%
