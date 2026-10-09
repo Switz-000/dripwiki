@@ -104,7 +104,7 @@ The [[Knights of the Republic]] were dissolved in 1959 following the [[Supreme C
 
 > *Main article: [[Continental Divide]]*
 
-In 1961 Soites signed the [[Federal Loyalty Act]], a measure sponsored by [[Čalsor Boňár]] of the [[Susian Democratic Union]].
+In 1961 Soites signed the [[Federal Loyalty Act]].
 
 [[Ergagério Sienes]] held the presidency from 1970 to 1974 and pursued the [[Sienes Doctrine|détente policy]] toward [[Confia]]. The entry of [[Sutsa-Fuhu]] into the syndicalist bloc in 1973 ended the policy's remaining credibility within significant parts of the party.
 
@@ -159,7 +159,6 @@ The federation was dissolved in 2038 at [[The Great Transition|the Great Transit
 - meta.stub left true: headquarters is unfilled.
 - CONFLICT, resolved by author statement of 09/10/2026: Structure previously said the federation ran under a common banner for Senate seats. Senate candidates are put forward by state parties. See [[Party Federation]].
 - The three wings, the Democratic Laborists as the labor-wing affiliate in Postia, the intra-federation fighting of the Ant Wars, Dravda, and Soites signing the Federal Loyalty Act: session canon, 09/10/2026.
-- Boňár as sponsor of the Federal Loyalty Act is from [[Continental Divide]]. [[Čalsor Boňár]] states he held no civil office before 1974, so the form of his sponsorship is unclear.
 - political_position Right predates the labor wing and may need revisiting.
 
 %%
