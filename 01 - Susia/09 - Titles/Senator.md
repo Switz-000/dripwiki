@@ -53,9 +53,10 @@ person articles. Edit those articles, not this block. %%
 
 ### Senator for Postia
 
-| Name | Term | Party |
-| --- | :-: | --- |
-| [[Filevir Matri]] | 1962 - 1966 | [[Susian Democratic Union]] |
-| [[Filevir Matri]] | 1970 - 1974 | [[Susian Democratic Union]] |
+| Name | Term | Party | Notes |
+| --- | :-: | --- | --- |
+| [[Halios Dravda]] | 1954 - 1955 | [[Susian Liberal Party]] | Killed in office. |
+| [[Filevir Matri]] | 1962 - 1966 | [[Susian Democratic Union]] |  |
+| [[Filevir Matri]] | 1970 - 1974 | [[Susian Democratic Union]] |  |
 
 %% holders:end %%
