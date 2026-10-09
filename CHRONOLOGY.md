@@ -188,7 +188,7 @@ meta:
 
 ## 1818
 
-- **Birth**: [[Jartes II]] born in [[Duolij]], [[Postia]], [[Dripstanian Empire]]
+- 06/12/1818: **Birth**: [[Jartes II]] born in [[Duolij]], [[Postia]], [[Dripstanian Empire]]
 
 ## 1822
 
@@ -258,8 +258,6 @@ meta:
 
 - **Charged**: [[Armadesh Versij]] with Treason (43 counts)
 - **Charged**: [[Zagoste Paroska]] with Treason (22 counts)
-- **Death**: [[Armadesh Versij]] died in [[Neoveli]], [[Dripia]], [[Dripstanian Empire]] (Hanging)
-- **Death**: [[Zagoste Paroska]] died in [[Neoveli]], [[Dripia]], [[Dripstanian Empire]] (Hanging)
 - **Discharge**: [[Kaichet Satratonie]] from [[Army]]
 - **Discharge**: [[Zagoste Paroska]] from [[Navy]]
 - **End of tenure**: [[Armadesh Versij]] leaves Member of the General Government of the Federated Provinces of Galil
@@ -268,6 +266,8 @@ meta:
 - **Event ends**: [[Liberal Revolts]]
 - **Verdict**: [[Armadesh Versij]] found Guilty of Treason (43 counts), sentenced to Death
 - **Verdict**: [[Zagoste Paroska]] found Guilty of Treason (22 counts), sentenced to Death
+- 30/09/1844: **Death**: [[Armadesh Versij]] died in [[Neoveli]], [[Dripia]], [[Dripstanian Empire]] (Hanging)
+- 30/09/1844: **Death**: [[Zagoste Paroska]] died in [[Neoveli]], [[Dripia]], [[Dripstanian Empire]] (Hanging)
 
 ## 1845
 
