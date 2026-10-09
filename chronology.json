@@ -1894,16 +1894,6 @@
    "year": 1958,
    "date": "1958",
    "precision": "year",
-   "kind": "Event begins",
-   "text": "[[New Duloc riot (1958)]]",
-   "source": "New Duloc riot (1958)",
-   "source_type": "event",
-   "country": "Susia"
-  },
-  {
-   "year": 1958,
-   "date": "1958",
-   "precision": "year",
    "kind": "Event ends",
    "text": "[[Matri assassination attempt (1958)]]",
    "source": "Matri assassination attempt (1958)",
@@ -1915,6 +1905,16 @@
    "date": "1958",
    "precision": "year",
    "kind": "Event ends",
+   "text": "[[New Duloc riot (1958)]]",
+   "source": "New Duloc riot (1958)",
+   "source_type": "event",
+   "country": "Susia"
+  },
+  {
+   "year": 1958,
+   "date": "11/02/1958",
+   "precision": "day",
+   "kind": "Event begins",
    "text": "[[New Duloc riot (1958)]]",
    "source": "New Duloc riot (1958)",
    "source_type": "event",
@@ -5272,17 +5272,6 @@
    "end_precision": "year"
   },
   {
-   "lane": "events",
-   "label": "New Duloc riot (1958)",
-   "start": 1958,
-   "end": 1958,
-   "country": "Susia",
-   "start_date": "1958",
-   "start_precision": "year",
-   "end_date": "1958",
-   "end_precision": "year"
-  },
-  {
    "lane": "titles",
    "label": "Ergagério Sienes",
    "start": 1958,
@@ -5335,6 +5324,17 @@
    "start_date": "1958",
    "start_precision": "year",
    "end_date": "1977",
+   "end_precision": "year"
+  },
+  {
+   "lane": "events",
+   "label": "New Duloc riot (1958)",
+   "start": 1958,
+   "end": 1958,
+   "country": "Susia",
+   "start_date": "11/02/1958",
+   "start_precision": "day",
+   "end_date": "1958",
    "end_precision": "year"
   },
   {

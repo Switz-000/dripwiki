@@ -504,9 +504,9 @@ meta:
 - **End of tenure**: [[Lorelaj Paulowić]] leaves President of the Confian Nation at [[Confian National Government]]
 - **End of tenure**: [[Suizo Soites]] leaves President of Susia at [[Susian Federal Government]]
 - **Event begins**: [[Matri assassination attempt (1958)]]
-- **Event begins**: [[New Duloc riot (1958)]]
 - **Event ends**: [[Matri assassination attempt (1958)]]
 - **Event ends**: [[New Duloc riot (1958)]]
+- 11/02/1958: **Event begins**: [[New Duloc riot (1958)]]
 
 ### [[1958 Susian presidential election]]
 
