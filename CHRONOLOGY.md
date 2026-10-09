@@ -729,13 +729,13 @@ meta:
 - **Death**: [[Mariana Torres]] died in [[Carlotopolis]], [[Karlotopol']], [[Confia]] ([[Tarlanna's disease]])
 - **End of tenure**: [[Ganzer Teahowić]] leaves General Secretary
 
-### [[List of Confian elections|1988 gubernatorial elections in Confia]]
-
-- [[Ganzer Teahowić]], State Governor of North Nijbania ([[Syndicalist League]])
-
 ## 1989
 
 - **End of tenure**: [[Bejňar Keke]] leaves President of Yar-Firol
+
+### [[List of Confian elections|1988 gubernatorial elections in Confia]]
+
+- [[Ganzer Teahowić]], State Governor of North Nijbania ([[Syndicalist League]])
 
 ## 1990
 
@@ -759,14 +759,14 @@ meta:
 - **Graduation**: [[Yavna Raroska]] from [[University of New Kentu]] (Political Science)
 - **Publication**: *[[Children of the Same Mother]]* by [[Ňotrič Apaj]]. *Attempts to ground cosmopolitan ethics in biological and historical universals. His most systematic work and his least-read.*
 
-### [[List of Confian elections|1992 gubernatorial elections in Confia]]
-
-- [[Ganzer Teahowić]], State Governor of North Nijbania ([[Syndicalist League]])
-
 ## 1993
 
 - **End of tenure**: [[Boris Serec]] leaves President of the Confian Nation at [[Confian National Government]]
 - **Founded**: [[KSH]] by [[Confian National Government]] and [[Katerina Armoljubca Nožeslawna|KAN]]
+
+### [[List of Confian elections|1992 gubernatorial elections in Confia]]
+
+- [[Ganzer Teahowić]], State Governor of North Nijbania ([[Syndicalist League]])
 
 ## 1994
 

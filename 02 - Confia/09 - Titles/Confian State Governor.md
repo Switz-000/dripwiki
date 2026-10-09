@@ -55,7 +55,7 @@ person articles. Edit those articles, not this block. %%
 
 | No. | Name | Term | Party | Election |
 | :-: | --- | :-: | --- | --- |
-| 1 | [[Ganzer Teahowić]] | 1988 - 1992 | [[Syndicalist League]] | [[List of Confian elections\|1988 gubernatorial elections in Confia]] |
-| - | [[Ganzer Teahowić]] | 1992 - 1996 | [[Syndicalist League]] | [[List of Confian elections\|1992 gubernatorial elections in Confia]] |
+| 1 | [[Ganzer Teahowić]] | 1989 - 1992 | [[Syndicalist League]] | [[List of Confian elections\|1988 gubernatorial elections in Confia]] |
+| - | [[Ganzer Teahowić]] | 1993 - 1996 | [[Syndicalist League]] | [[List of Confian elections\|1992 gubernatorial elections in Confia]] |
 
 %% holders:end %%

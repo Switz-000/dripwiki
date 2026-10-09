@@ -3084,16 +3084,6 @@
    "year": 1988,
    "date": "1988",
    "precision": "year",
-   "kind": "Appointment",
-   "text": "[[Ganzer Teahowić]], State Governor of North Nijbania ([[Syndicalist League]])",
-   "source": "",
-   "source_type": "person",
-   "election": "[[List of Confian elections|1988 gubernatorial elections in Confia]]"
-  },
-  {
-   "year": 1988,
-   "date": "1988",
-   "precision": "year",
    "kind": "Death",
    "text": "[[Mariana Torres]] died in [[Carlotopolis]], [[Karlotopol']], [[Confia]] ([[Tarlanna's disease]])",
    "source": "Mariana Torres",
@@ -3109,6 +3099,16 @@
    "source": "Ganzer Teahowić",
    "source_type": "person",
    "country": "Confia"
+  },
+  {
+   "year": 1989,
+   "date": "1989",
+   "precision": "year",
+   "kind": "Appointment",
+   "text": "[[Ganzer Teahowić]], State Governor of North Nijbania ([[Syndicalist League]])",
+   "source": "",
+   "source_type": "person",
+   "election": "[[List of Confian elections|1988 gubernatorial elections in Confia]]"
   },
   {
    "year": 1989,
@@ -3204,16 +3204,6 @@
    "year": 1992,
    "date": "1992",
    "precision": "year",
-   "kind": "Appointment",
-   "text": "[[Ganzer Teahowić]], State Governor of North Nijbania ([[Syndicalist League]])",
-   "source": "",
-   "source_type": "person",
-   "election": "[[List of Confian elections|1992 gubernatorial elections in Confia]]"
-  },
-  {
-   "year": 1992,
-   "date": "1992",
-   "precision": "year",
    "kind": "Dissolved",
    "text": "[[Confian Liberal Party]]",
    "source": "Confian Liberal Party",
@@ -3259,6 +3249,16 @@
    "source": "Ňotrič Apaj",
    "source_type": "person",
    "country": "Susia"
+  },
+  {
+   "year": 1993,
+   "date": "1993",
+   "precision": "year",
+   "kind": "Appointment",
+   "text": "[[Ganzer Teahowić]], State Governor of North Nijbania ([[Syndicalist League]])",
+   "source": "",
+   "source_type": "person",
+   "election": "[[List of Confian elections|1992 gubernatorial elections in Confia]]"
   },
   {
    "year": 1993,
@@ -5977,14 +5977,14 @@
   {
    "lane": "titles",
    "label": "Ganzer Teahowić",
-   "start": 1988,
+   "start": 1989,
    "end": 1992,
    "country": "Confia",
    "title": "Confian State Governor",
    "display": "State Governor of North Nijbania",
    "seat": "North Nijbania",
    "holder": "Ganzer Teahowić",
-   "start_date": "1988",
+   "start_date": "1989",
    "start_precision": "year",
    "end_date": "1992",
    "end_precision": "year"
@@ -6024,21 +6024,6 @@
    "start_precision": "year"
   },
   {
-   "lane": "titles",
-   "label": "Ganzer Teahowić",
-   "start": 1992,
-   "end": 1996,
-   "country": "Confia",
-   "title": "Confian State Governor",
-   "display": "State Governor of North Nijbania",
-   "seat": "North Nijbania",
-   "holder": "Ganzer Teahowić",
-   "start_date": "1992",
-   "start_precision": "year",
-   "end_date": "1996",
-   "end_precision": "year"
-  },
-  {
    "lane": "institutions",
    "label": "Mi, Niteraljci!",
    "start": 1992,
@@ -6046,6 +6031,21 @@
    "country": "Confia",
    "start_date": "1992",
    "start_precision": "year"
+  },
+  {
+   "lane": "titles",
+   "label": "Ganzer Teahowić",
+   "start": 1993,
+   "end": 1996,
+   "country": "Confia",
+   "title": "Confian State Governor",
+   "display": "State Governor of North Nijbania",
+   "seat": "North Nijbania",
+   "holder": "Ganzer Teahowić",
+   "start_date": "1993",
+   "start_precision": "year",
+   "end_date": "1996",
+   "end_precision": "year"
   },
   {
    "lane": "institutions",
