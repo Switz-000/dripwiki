@@ -5,7 +5,7 @@ native_name: Filevir Matri
 lusitanized_name:
 aliases:
   - Matri
-summary: Susian lawyer and politician; fifth President of Susia (1984–1986); also served as Governor of Postia, Senator, Secretary of Justice, and Vice President under Čalsor Bonár; known for the Ditanian Intervention, the Confian reaprochment and for his lobster table style of politics.
+summary: Susian lawyer and politician; fifth President of Susia (1983–1986); also served as Governor of Postia, Senator, Secretary of Justice, and Vice President under Čalsor Bonár; known for the Ditanian Intervention, the Confian reaprochment and for his lobster table style of politics.
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: Male
@@ -274,7 +274,7 @@ FLAGS:
 - University of Duolij: referenced in existing frontmatter. No vault article confirmed. Stub candidate.
 - [[Nevirs]] replaces the retired Minutemen link. "Anarcho-syndicalist" is attributed to his government, per session canon of 09/10/2026: the Nevirs were anarchists and the label was applied from outside.
 - The three attempts, their dates, his enforcement of the Federal Loyalty Act as Secretary of Justice, and the zigzag habit dating from 1957: session canon, 07/10/2026 to 09/10/2026.
-- CONFLICT, pre-existing: summary gives the presidency as 1984–1986, body and titles give 1983–1986. Not resolved here.
+- RESOLVED 09/10/2026: the summary gave the presidency as beginning in 1984. Author ruling: 1983, matching the body and titles.
 - Ditanian Intervention: linked in existing article. Stub candidate, no body confirmed.
 - The existing article contained a number of invented biographical details (drinking habits described at length, character descriptions, inner life) that have no source in the docs or vault. These have been removed.
 - The Sienes détente policy name remains "Sienes Doctrine" per the Continental Divide article frontmatter. The vault note flagging "Lasman Doctrine" as a leading candidate predates the Continental Divide article's frontmatter, which uses "Sienes Doctrine." Treated as resolved in favor of the vault article.
