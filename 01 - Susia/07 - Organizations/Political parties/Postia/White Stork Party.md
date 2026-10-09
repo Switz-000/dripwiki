@@ -1,6 +1,7 @@
 ---
 type: organization
 name: White Stork Party
+summary: Centre-right party of Postia and an affiliate of the Susian Democratic Union, founded as a gentleman's club of the Postian propertied class. It was the party of Filevir Matri and kept no eossaj, relying on the Postian National Guard during the Ant Wars.
 native_name:
 abbreviation:
 aliases:
@@ -43,6 +44,10 @@ era:
   - continental-divide
 tags:
   - politics/elections
+meta:
+  stub: true
+  verified: false
+  image: null
 ---
 
 The **White Stork Party** is a centre-right political party in [[Postia]], affiliated with the [[Susian Democratic Union]] federation. Originating as a gentleman's club among the Postian propertied class before the republic, it became a formal party in 1942 and rose to prominence under [[Filevir Matri]], who served as governor of Postia during the [[Ant wars]]. It takes its name from the state animal of Postia.
@@ -56,6 +61,12 @@ The party maintained close ties with the [[Ženeže family]], whose financial sp
 ## Politics and conduct
 
 The White Stork Party held a centre-right, anti-syndicalist position rooted in the interests of Postian business and the commercial elite of [[Duolij]]. Unlike most parties active in Postia during the early republic, it maintained no eossaj. During [[Filevir Matri|Matri's]] governorship, the [[Postian National Guard]] served as the party's instrument of order, a position that proved decisive during the [[Ant wars]] when Matri used state force against the eossajs while the party itself remained formally outside the street violence.
+
+## Senate
+
+In the first [[Susian Senate]] election of 1954 the party won one of Postia's five seats. It held more of them in later decades.
+
+%% TODO: the party's Senate seat count by election is to be decided by the author. %%
 
 ## Ant Wars
 
@@ -77,6 +88,7 @@ The party's governor, [[Filevir Matri]], oversaw the response to the [[Ant wars]
 - [[Duolij]]
 
 %% FLAGS:
+- One of five Postian Senate seats in 1954: session canon, 09/10/2026. Its growth to three or four seats was raised and deferred by the author.
 - Founded date 1942: drawn from a figure referenced in the Postia worldbuilding document during session search (White Stork Party existing since 1942). Treated as canon. Recommend confirmation against the source document.
 - Gentleman's club origin and Ženeže family sponsorship of Matri: session canon established this session.
 - Founded by: no individual founder established. Field left blank.
