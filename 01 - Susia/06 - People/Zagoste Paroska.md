@@ -26,7 +26,7 @@ birth:
   state: "[[Postia]]"
   country: "[[Dripstanian Empire]]"
 death:
-  year: 1844
+  year: 30/09/1844
   city: "[[Neoveli]]"
   state: "[[Dripia]]"
   country: "[[Dripstanian Empire]]"
@@ -171,7 +171,7 @@ Satratonie concluded that wealth, status, and the death of his rival together wo
 
 ### Defeat and execution
 
-Satratonie defected. The fort at [[Jaffnidia]] fell, the republic was split in two, and imperial troops entered Neoveli in 1844. Paroska, Versij, and the rest of the republican leadership were publicly executed. Paroska was convicted on 22 counts of treason, having pleaded not guilty, and was hanged.
+Satratonie defected. The fort at [[Jaffnidia]] fell, the republic was split in two, and imperial troops entered Neoveli in 1844. Paroska, Versij, and the rest of the republican leadership were publicly executed. Paroska was convicted on 22 counts of treason, having pleaded not guilty, and was hanged with Versij at 10:13 on 30/09/1844, at an hour chosen by Jartes II.
 
 ## Legacy
 
@@ -192,6 +192,7 @@ Paroska and Versij are remembered in Susia as the martyrs of the Liberal Revolts
 - [[Neoveli]]
 
 %% FLAGS:
+- Execution date and hour shared with Versij: session canon, 09/10/2026. The reason for the hour lives in [[Armadesh Versij]].
 
 - Article migrated from the pre-migration person schema to the current Person Template. Legacy fields removed: person_name, birth_place (a four-value list), death_year, death_cause, alma_mater, allegiance, and the flat occupation and known_for lists. The type value was stored as '"person"' with embedded quotes, which broke type matching in every Dataview query in the vault; corrected to person.
 - Legacy birth_place listed [[Duolij]], [[Postia]], [[Susia]], and [[Dripstanian Empire]] together. [[Susia]] removed: Paroska was born in 1796 and Susia did not exist until 1954. The style guide names this specific error.

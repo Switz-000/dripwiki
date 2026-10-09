@@ -26,7 +26,7 @@ birth:
   country: "[[Dripstanian Empire]]"
 
 death:
-  year: 1844
+  year: 30/09/1844
   city: "[[Neoveli]]"
   state: "[[Dripia]]"
   country: "[[Dripstanian Empire]]"
@@ -212,7 +212,9 @@ The general government was constituted as a body of three equals. Its authority 
 
 ### Trial and execution
 
-The war was fought as guerrilla warfare over four years. Unable to win militarily, Jartes II secretly offered Satratonie land, money, and a royal pardon in exchange for changing sides. Satratonie defected, the fort at [[Jaffnidia]] fell, the republic was split in two, and imperial troops entered Neoveli in 1844. Versij, Paroska, and the rest of the republican leadership were publicly executed. Versij was convicted on 43 counts of treason, having pleaded not guilty, and was hanged.
+The war was fought as guerrilla warfare over four years. Unable to win militarily, Jartes II secretly offered Satratonie land, money, and a royal pardon in exchange for changing sides. Satratonie defected, the fort at [[Jaffnidia]] fell, the republic was split in two, and imperial troops entered Neoveli in 1844. Versij, Paroska, and the rest of the republican leadership were publicly executed. Versij was convicted on 43 counts of treason, having pleaded not guilty, and was hanged with Paroska in Neoveli at 10:13 on 30/09/1844.
+
+Jartes II had wanted the executions carried out on his own birthday, two months later, but would not keep Versij alive that long. The hour he chose instead, 10:13, reverses the day and month of his birthday in the [[Dripstanian calendar]]. He had a meeting at 13:10 the same day. The [[Neoveli Stock Exchange]] opens each day at 10:13.
 
 A statement attributed to him at the execution is the most widely circulated line in Susian civic memory: "You will have me die for treason. So be it. Yet know this: had my fellows not been disarmed you would not now stand to pronounce it." Its authenticity is contested. Its cultural currency is not, and it became the defining articulation of the reading that Jartes II's disarmament campaign was the precondition of the revolt's failure.
 
@@ -282,6 +284,7 @@ Versijism and [[Neoversijism]] are recognized traditions in Susian political phi
 - [[Versijian Square]]
 
 %% FLAGS:
+- Execution on 30/09/1844 at 10:13, the hour as the reversal of Jartes II's birthday, the two-month gap, and his 13:10 meeting: session canon, 09/10/2026. The date is the anniversary kept by [[Versij Day]]. The reversal holds only in the Dripstanian day and month, so the body names the calendar rather than writing the date in it; the conversion is in [[Dripstanian calendar]].
 
 - The article had no body before this pass. All body content is summarized from existing Tier 1 vault articles. No new facts invented beyond the two session decisions recorded below.
 - SESSION CANON, not yet in any dedicated article: the general government of the Federated Provinces of Galil was a body of three equals in which Versij became de facto leader over the course of the war, as the Paroska and Satratonie rivalry hardened. Belongs primarily to a [[Federated Provinces of Galil]] or [[Liberal Revolts]] article once written. The prior frontmatter office "Presiding Councillor of the Federated Provinces of Galil" was removed: no formal presiding title existed, and neither [[Jartes II]] nor the [[Susia]] country article names one.

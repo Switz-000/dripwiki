@@ -19,7 +19,7 @@ enhanced: false
 
 # ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
 birth:
-  year: 1818
+  year: 06/12/1818
   city: "[[Duolij]]"
   state: "[[Postia]]"
   country: "[[Dripstanian Empire]]"
@@ -164,7 +164,7 @@ In an attempt to stabilize growing unrest, Jartes II banned [[Sorzenko|Sorzenkos
 
 In 1840, a general assembly in [[Neoveli]] proclaimed the [[Federated Provinces of Galil]], with [[Duolij]], [[New Kentu]], and [[Niqueparj]] joining the revolt. The republic's general government was composed of Versij, [[Zagoste Paroska|Admiral Paroska]], and General [[Kaichet Satratonie]].
 
-The war dragged on for years as brutal guerrilla warfare. Jartes II, unable to win militarily, secretly contacted Satratonie and offered him land, money, and a royal pardon in exchange for switching sides. Satratonie defected. The fort at [[Jaffnidia]] fell, the republic was split, and imperial troops entered Neoveli in 1844. Paroska, Versij, and the entire republican leadership were publicly executed.
+The war dragged on for years as brutal guerrilla warfare. Jartes II, unable to win militarily, secretly contacted Satratonie and offered him land, money, and a royal pardon in exchange for switching sides. Satratonie defected. The fort at [[Jaffnidia]] fell, the republic was split, and imperial troops entered Neoveli in 1844. Paroska, Versij, and the entire republican leadership were publicly executed. Jartes II set the hour of Versij's and Paroska's hanging, on 30/09/1844, by reversing the day and month of his own birthday.
 
 After the revolts, Jartes enacted limited political reforms, including universal male suffrage, as a concession to prevent further unrest.
 
@@ -189,3 +189,8 @@ Jartes II died in 1882 and was succeeded by Emperor [[Soliman]]. His reign ended
 In Susian memory, Jartes II is the paradigmatic tyrant. His disarmament campaign is cited as the reason the [[Liberal Revolts]] failed and is the direct historical justification for the [[Right to rebel|constitutional right to rebel]] enshrined in the [[Susian constitution]]. The saying "Pulling a [[Kaichet Satratonie|Satratonie]]" — meaning betraying your principles for personal gain — originated from his successful bribery of [[Kaichet Satratonie|Satratonie]].
 
 [[Armadesh Versij|Versij]] and [[Zagoste Paroska|Paroska]] are remembered as martyrs. Jartes II is remembered as the man who killed them.
+
+%% FLAGS:
+- Birth date 06/12/1818: converted from the author's ruling of 09/10/2026 that his birthday falls on the 13th day of the 10th Dripstanian month. The year 1818 is from the existing frontmatter.
+- The hour of the 1844 executions: session canon, 09/10/2026. Full account in [[Armadesh Versij]].
+%%

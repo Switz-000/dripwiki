@@ -116,5 +116,5 @@ The Neoveli bombing led to the [[Dravda Act]] of 1956, which founded the federal
 - political_position left blank: not established.
 - [[Frumentarze]] is to be renamed by author decision; the name of the agency is pending.
 - Further attacks proposed in session (a rail station, the Senate gallery, a harbor ship, a crolball final) are not canon and are not recorded.
-- Links to pages that do not exist: [[Halios Dravda]] and [[Dravda Act]] are written this session; [[Frumentarze]], [[Neoveli Stock Exchange]].
+- Links to pages that do not exist: [[Halios Dravda]] and [[Dravda Act]] are written this session; [[Frumentarze]].
 %%

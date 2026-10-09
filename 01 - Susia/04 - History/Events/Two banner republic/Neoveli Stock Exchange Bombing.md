@@ -35,9 +35,9 @@ By 1955 the [[Nevirs]] were conducting bombings and assassinations in [[Postia]]
 
 ## The bombing
 
-%% TODO: time of day, the device, the bomber and the bomber's fate, and the Nevir letter that claimed the attack are unestablished. %%
+The bomb detonated inside the [[Neoveli Stock Exchange]] at 10:33 on 30/05/1955, twenty minutes after the opening bell, and killed 43 people. The exchange opens at 10:13, the minute of [[Armadesh Versij|Versij's]] execution.
 
-The bomb detonated at the Neoveli Stock Exchange on 30/05/1955 and killed 43 people.
+%% TODO: the device, the bomber and the bomber's fate, and the Nevir letter that claimed the attack are unestablished. %%
 
 ## Aftermath
 
@@ -54,10 +54,10 @@ The bombing gave the Nevir campaign national attention. [[Halios Dravda]], a sen
 - [[Filevir Matri]]
 
 %% FLAGS:
-- Date 30/05/1955: session canon, 09/10/2026.
+- Date 30/05/1955 and detonation at 10:33, twenty minutes after the opening bell: session canon, 09/10/2026.
 - Death toll of 43: from [[Filevir Matri]], which predates this article.
 - "Deadliest of the Ant Wars period": the [[New Duloc riot (1958)]] killed several hundred, but as a riot rather than an attack. Recorded here as the deadliest attack.
 - era: republican-era only. The attack predates the continental-divide era (1957).
 - [[Frumentarze]] is to be renamed by author decision.
-- Links to pages that do not exist: [[Neoveli Stock Exchange]], [[Frumentarze]]. [[Halios Dravda]] and [[Dravda Act]] written this session.
+- Links to pages that do not exist: [[Frumentarze]]. [[Halios Dravda]] and [[Dravda Act]] written this session.
 %%
