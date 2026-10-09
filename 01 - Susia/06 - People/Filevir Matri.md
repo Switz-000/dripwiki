@@ -187,13 +187,19 @@ Matri was born in [[Duolij]] in 1924 and studied law at the [[University of Duol
 
 ## Governor of Postia (1954–1962)
 
-Matri was elected Governor of [[Postia]] for the [[White Stork Party]] in 1954 at thirty years old, part of the first generation of politicians to hold office under the republic. His tenure was defined in its early years by the [[Minutemen]] crisis, in which anarcho-syndicalist cells conducted bombings and assassinations across [[Susia]]. The most consequential attack was the [[Neoveli Stock Exchange Bombing]] of 1955, which killed 43 people.
+Matri was elected Governor of [[Postia]] for the [[White Stork Party]] in 1954 at thirty years old, part of the first generation of politicians to hold office under the republic. His tenure was defined in its early years by the [[Nevirs]], anarchists whose bombings and assassinations his government described as the work of anarcho-syndicalist cells operating across [[Susia]]. The most consequential attack was the [[Neoveli Stock Exchange Bombing]] of 30/05/1955, which killed 43 people.
 
 Matri's response included the authorization of aggressive surveillance of union organizations and labor groups, mass arrests of suspected sympathizers, and crackdowns on organizations deemed connected to [[Syndicalism|syndicalist]] networks. The measures drew sustained criticism from [[Postia|Postia's]] working class, who argued that legitimate [[labor|labor organizing]] was suppressed alongside genuine security threats. By the late 1950s Postia's syndicalist networks had been largely dismantled or driven underground.
 
+### Assassination attempts
+
+> *Main article: [[Matri assassination attempt (disambiguation)]]*
+
+Matri survived three attempts on his life as governor. On 19/05/1956 a bomb placed under his official car in [[Duolij]] failed to detonate ([[Matri assassination attempt (1956)|1956]]). On 30/09/1957 a man drew a pistol during his [[Versij Day]] address in [[Nikuria]] and was disarmed by the crowd before firing ([[Matri assassination attempt (1957)|1957]]). On 14/11/1958 [[Urgiri Tečlan]] shot him at the Duolij Civic Hall in front of live television cameras, wounding him and killing three others ([[Matri assassination attempt (1958)|1958]]).
+
 ## Senate and Federal Career (1962–1974)
 
-In 1962 Matri couldn't run for another term as governor of Postia so he ran and won the election to the [[Susian Senate]] representing [[Postia]]. In 1966, Fimžer appointed him [[Secretary of Justice]], a position he held through the remainder of Fimžer's second term. He returned to the Senate in 1970.
+In 1962 Matri couldn't run for another term as governor of Postia so he ran and won the election to the [[Susian Senate]] representing [[Postia]]. In 1966, Fimžer appointed him [[Secretary of Justice]], a position he held through the remainder of Fimžer's second term. As Secretary of Justice he enforced the [[Federal Loyalty Act]] of 1961 at the national level. He returned to the Senate in 1970.
 
 During the Sienes years, Matri was a consistent critic of [[Ergagério Sienes]]' [[Sienes Doctrine|détente policy]] toward [[Confia]], arguing that the approach was strategically counterproductive. The outcome of the [[Sutsa-Fuhu Civil War]] in 1973, which Susia did not contest, reinforced his position within the [[Susian Democratic Union]].
 
@@ -233,7 +239,7 @@ He is consistently cited as a practitioner of the [[Lobster table|lobster table]
 
 ## Miscellaneous
 
-- After three assassination attempts, Matri grew increasingly paranoid, one of his most characteristic mannerisms is not being able to walk in straight line, it is speculated that this is his way to make him a harder target. Giving origin to the popular susian expression *Lasprer*, which is often translated to "Zig-zagining" which referes to a overly paranoid person who refuses to admit so.
+- After three assassination attempts, Matri grew increasingly paranoid. One of his most characteristic mannerisms, dating from the second attempt in 1957, was not being able to walk in a straight line, speculated to be his way of making himself a harder target. It gave origin to the popular Susian expression *Lasprer*, often translated as "zig-zagging", for an overly paranoid person who refuses to admit it.
 
 ## See Also
 
@@ -249,7 +255,8 @@ He is consistently cited as a practitioner of the [[Lobster table|lobster table]
 - [[Continental Divide]]
 - [[Lasman Economic Initiative]]
 - [[Ditanian Intervention]]
-- [[Minutemen]]
+- [[Nevirs]]
+- [[Matri assassination attempt (disambiguation)]]
 - [[Neoveli Stock Exchange Bombing]]
 - [[Susian Democratic Union]]
 - [[Sienes Doctrine]]
@@ -265,8 +272,9 @@ He is consistently cited as a practitioner of the [[Lobster table|lobster table]
 FLAGS:
 - "Yavna Matri" (spouse): named in frontmatter of the existing article. No vault file confirmed for this person.
 - University of Duolij: referenced in existing frontmatter. No vault article confirmed. Stub candidate.
-- Minutemen: linked throughout vault articles. No body content confirmed in stub.
-- Neoveli Stock Exchange Bombing: linked in existing article. Stub candidate, no body confirmed.
+- [[Nevirs]] replaces the retired Minutemen link. "Anarcho-syndicalist" is attributed to his government, per session canon of 09/10/2026: the Nevirs were anarchists and the label was applied from outside.
+- The three attempts, their dates, his enforcement of the Federal Loyalty Act as Secretary of Justice, and the zigzag habit dating from 1957: session canon, 07/10/2026 to 09/10/2026.
+- CONFLICT, pre-existing: summary gives the presidency as 1984–1986, body and titles give 1983–1986. Not resolved here.
 - Ditanian Intervention: linked in existing article. Stub candidate, no body confirmed.
 - The existing article contained a number of invented biographical details (drinking habits described at length, character descriptions, inner life) that have no source in the docs or vault. These have been removed.
 - The Sienes détente policy name remains "Sienes Doctrine" per the Continental Divide article frontmatter. The vault note flagging "Lasman Doctrine" as a leading candidate predates the Continental Divide article's frontmatter, which uses "Sienes Doctrine." Treated as resolved in favor of the vault article.
