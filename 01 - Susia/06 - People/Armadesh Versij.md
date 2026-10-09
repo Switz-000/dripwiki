@@ -152,6 +152,31 @@ meta:
   stub: false
   verified: false
   image: null
+portrait:
+  eyes: dot
+  eyeliner: none
+  brows: arched
+  nose: angle
+  mouth: wide
+  hair: swoop
+  facial: [chin-tuft, mustache]
+  eyewear: none
+  outfit: suit-open
+  extras: []
+  shape:
+    headW: 1.04
+    headH: 1.01
+    bodyW: 0.84
+    bodyH: 1.04
+  palette:
+    skin: "#ffffff"
+    hair: "#d5d1ae"
+    facial: "#d5d1ae"
+    frames: "#111111"
+    outfit: "#d9d9d9"
+    suit: "#3c302a"
+    shirt: "#5e5c64"
+    tie: "#10205e"
 ---
 
 **Armadesh Versij** (1801–1844) was a [[Dripstanian Empire|Dripstanian]] lawyer and political philosopher whose natural rights doctrine became the philosophical foundation of the [[Susia|Susian]] republic. He sat on the general government of the [[Federated Provinces of Galil]] during the [[Liberal Revolts]] and became its de facto leader, and was publicly executed in [[Neoveli]] in 1844 following the republic's defeat.
