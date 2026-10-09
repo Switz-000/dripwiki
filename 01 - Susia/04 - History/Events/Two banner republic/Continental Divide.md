@@ -142,7 +142,7 @@ Syndicalist militias attempted to overthrow Sutsa-Fuhu's despotic government in 
 
 By 1973 Susia was flanked by syndicalist-aligned states to the south and east, its access to Zaphonian oil had been severed causing high energy prices and oil rationing among-st the populace. 
 
-Bonár, a general and sponsor of the [[Federal Loyalty Act]], won the 1974 election with an explicitly anti-syndicalist platform. His vice-presidential selection, [[Filevir Matri]] was another staunch anti-syndicalist and ex-governor of [[Postia]]. The [[Susian Senate]] elections were a landslide for Bonár's party, the [[Susian Democratic Union]]. Enabling him to enact special emergency powers and the [[MAGEN act]].
+Bonár, a general who had spoken in favor of the [[Federal Loyalty Act]], won the 1974 election with an explicitly anti-syndicalist platform. His vice-presidential selection, [[Filevir Matri]] was another staunch anti-syndicalist and ex-governor of [[Postia]]. The [[Susian Senate]] elections were a landslide for Bonár's party, the [[Susian Democratic Union]]. Enabling him to enact special emergency powers and the [[MAGEN act]].
 
 In 1974, Susia started a immense military buildup, coordinating with others [[ODDN]] allies, resumed support for anti-syndicalists in countries like Zaphonia, Ariwaro and Garecia, and most importantly planing what would've become [[Operation Red Sand]].
 
