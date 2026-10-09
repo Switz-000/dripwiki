@@ -195,5 +195,5 @@ When publicly asked about her religion during [[Grawolja Lasmanna with the Five 
 > "[[Žošewoš|Žošewošians]] are not deserving of choosing even what they will have for dinner."
 > ― Grawolja Lasmanna, [[Grawolja Lasmanna with the Five of Goretopol'|Interview]] (2009)
 
-> "I would bring back Soliman from Kalti's chamber if it meant I could replace him with [[Olga Karwenna|Olga]]."
+> "I would bring back Sallemaj from Kalti's chamber if it meant I could replace him with [[Olga Karwenna|Olga]]."
 > ― Grawolja Lasmanna, [[Grawolja Lasmanna with the Five of Goretopol'|Interview]] (2009)

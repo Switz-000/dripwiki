@@ -1,7 +1,7 @@
 ---
 type: event
-date_end: 1927
-date_start: 1950
+date_end: 1950
+date_start: 1927
 location:
   - "[[Confia]]"
   - "[[Pierej]]"

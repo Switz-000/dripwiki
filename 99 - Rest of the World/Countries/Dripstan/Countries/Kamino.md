@@ -31,7 +31,7 @@ During the [[Dripstanian Empire]]:
 
 During the [[Confian Secession War|Secession War]]:
 
-- After the Capture of the Fort in Imgospalje in 1936, the Dripstanian [[Emperor Soliman]] agreed to grant independence to the Kamino garrison on the condition that they fight the Confianist rebels. Even so, the combined armies of [[Confia]] and [[Zaphonia]] launched a northern campaign through [[Cadack]] and forced Kamino’s capitulation before [[Hutivia]] fell. From 1944 to 1950, Kamino briefly existed as the [[Free Bakurian Republic]], joining the [[Free Confian Republic]] under the [[Treaty of Hutivia]]. During this period, 50,000 Bakuro soldiers were sent to fight on the Susian fronts in support of the rebels.
+- After the Capture of the Fort in Imgospalje in 1936, the Dripstanian [[Emperor Sallemaj]] agreed to grant independence to the Kamino garrison on the condition that they fight the Confianist rebels. Even so, the combined armies of [[Confia]] and [[Zaphonia]] launched a northern campaign through [[Cadack]] and forced Kamino’s capitulation before [[Hutivia]] fell. From 1944 to 1950, Kamino briefly existed as the [[Free Bakurian Republic]], joining the [[Free Confian Republic]] under the [[Treaty of Hutivia]]. During this period, 50,000 Bakuro soldiers were sent to fight on the Susian fronts in support of the rebels.
     
 
 Algyn’s Kamino:

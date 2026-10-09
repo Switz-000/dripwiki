@@ -48,10 +48,10 @@ Governor-Generals
 |  5  |      |    1869     |    1874     | [[Jartes II]] |                           |
 |  6  |      |    1874     |    1878     | [[Jartes II]] |                           |
 |  7  |      |    1878     |      -      | [[Jartes II]] |                           |
-|  -  |      |      -      |    1891     |  [[Soliman]]  |                           |
-|  8  |      |    1891     |    1908     |  [[Soliman]]  |                           |
-|  9  |      |    1908     |    1923     |  [[Soliman]]  |                           |
-| 10  |      |    1923     |    1954     |  [[Soliman]]  |                           |
+|  -  |      |      -      |    1891     |  [[Sallemaj]]  |                           |
+|  8  |      |    1891     |    1908     |  [[Sallemaj]]  |                           |
+|  9  |      |    1908     |    1923     |  [[Sallemaj]]  |                           |
+| 10  |      |    1923     |    1954     |  [[Sallemaj]]  |                           |
 
 ## Independence
 

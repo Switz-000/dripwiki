@@ -9,7 +9,7 @@ legalist_participants:
   - "[[General Government of Confia]]"
 key_figures:
   - "[[Mariana Torres]]"
-  - "[[Emperor Soliman]]"
+  - "[[Emperor Sallemaj]]"
 cause:
   - "[[Syndicalism]]"
 outcome: Suppression of the revolt, beginning of Confian home rule in 1922

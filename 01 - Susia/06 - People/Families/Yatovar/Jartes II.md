@@ -88,7 +88,7 @@ titles:
     appointer: Hereditary succession
     parties:
       -
-    notes: Fifth emperor. Succeeded [[Jartes I]]; succeeded by [[Soliman]].
+    notes: Fifth emperor. Succeeded [[Jartes I]]; succeeded by [[Sallemaj]].
 
 # ── WRITTEN WORKS ───────────────────────────────────────────────────────────
 written_works:
@@ -182,7 +182,7 @@ Jartes II was obsessed with monumental architecture as a display of imperial pow
 
 ## Death and Legacy
 
-Jartes II died in 1882 and was succeeded by Emperor [[Soliman]]. His reign ended without resolution to the tensions he had created, which would eventually culminate in the [[War of Confian Secession]] a generation later.
+Jartes II died in 1882 and was succeeded by Emperor [[Sallemaj]]. His reign ended without resolution to the tensions he had created, which would eventually culminate in the [[War of Confian Secession]] a generation later.
 
 > *Main article: [[War of Confian Secession]]*
 

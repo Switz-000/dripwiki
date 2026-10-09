@@ -46,7 +46,7 @@ Prazde abolished slavery during the civil war, while the throne was contested. T
 
 ## Integration
 
-The freed Zaphonian population was absorbed into the empire over the period running from the reign of [[Jartes I]] to that of [[Emperor Soliman|Soliman]]. Zaphonians converted to [[Armotism]], took up Dripstanian customs and institutions, moved within the empire under internal migration, and volunteered for imperial military service.
+The freed Zaphonian population was absorbed into the empire over the period running from the reign of [[Jartes I]] to that of [[Emperor Sallemaj|Sallemaj]]. Zaphonians converted to [[Armotism]], took up Dripstanian customs and institutions, moved within the empire under internal migration, and volunteered for imperial military service.
 
 Freed Zaphonians and their descendants intermarried with the settled population of Troli. They constitute the largest minority in the modern state.
 
@@ -78,6 +78,6 @@ Troli also observes [[Cericeiro Heritage Week]], which honours the frontier sett
 - The Troli and Vitrika contrast, plantation against homestead, is author-supplied. It is consistent with the vault's existing treatment of Vitrikan wine culture, which implies smallholdings, but no vault article states either state's agricultural organisation directly.
 - [[Cericeiro Heritage Week]] is recorded in [[List of susian holidays]] as a state holiday of Troli, Misocévia, and Sužielaj honouring the frontier settlers. Its relation to the descendants of the people those settlers raided is stated here as adjacent fact and is not developed.
 - Zaphonians as an ethnic group have no vault article. [[Tekur]] is filed under Biology as a racial group and [[Konph]] under Countries; Zaphonians are treated in neither.
-- The integration period is given in the source as the Jartes to Soliman era. Rendered here as the reign of [[Jartes I]] through that of [[Emperor Soliman|Soliman]], roughly the 1820s to 1950.
+- The integration period is given in the source as the Jartes to Sallemaj era. Rendered here as the reign of [[Jartes I]] through that of [[Emperor Sallemaj|Sallemaj]], roughly the 1820s to 1950.
 
 %%

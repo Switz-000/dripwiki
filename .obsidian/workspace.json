@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Susia/06 - People/Yário Kolkov.md",
+                "file": "01 - Susia/09 - Titles/Emperor of the Dripstanian Empire.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Yário Kolkov"
+              "title": "Emperor of the Dripstanian Empire"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "soliman",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -216,7 +217,20 @@
   },
   "active": "693c54f4ecf7a16c",
   "lastOpenFiles": [
+    "Soliman.md",
+    "01 - Susia/09 - Titles/Emperor of the Dripstanian Empire.md",
+    "99 - Rest of the World/Countries/Dripstan/Countries/Susia.md",
+    "01 - Susia/04 - History/Events/Empire/Slavery in the Dripstanian Empire.md",
+    "10 - Dripstanian Incria/Sekyo/List of Sekyan leaders.md",
     "CHRONOLOGY.md",
+    "01 - Susia/00 - Index & Maps/List of Dripstanian emperors.md",
+    "99 - Rest of the World/Countries/Dripstan/Countries/Kamino.md",
+    "01 - Susia/06 - People/Families/Yatovar/Jartes II.md",
+    "02 - Confia/06 - People/Grawolja Lasmanna.md",
+    "02 - Confia/04 - History/Events/Carlotopolis Uprising.md",
+    "00 - Meta/Session Reports/2026-08-24.md",
+    "02 - Confia/04 - History/Events/War of Confian Secession.md",
+    "01 - Susia/06 - People/Yário Kolkov.md",
     "01 - Susia/00 - Index & Maps/List of first names.md",
     "01 - Susia/07 - Organizations/sedcJJGNM",
     "01 - Susia/03 - Companies/Companies/Financial/Neoveli Stock Exchange.md",
@@ -234,19 +248,6 @@
     "00 - Meta/Style Guide.md",
     "99 - Rest of the World/Planet/Science! yeah science!.md",
     "01 - Susia/07 - Organizations/Newspapers/Ti-ka!.md",
-    "02 - Confia/06 - People/Eriežera Lensekowina.md",
-    "01 - Susia/06 - People/Families/Yatovar/Kaichet of Frajes.md",
-    "02 - Confia/06 - People/Boris Serec.md",
-    "02 - Confia/06 - People/Grawolja Lasmanna.md",
-    "02 - Confia/06 - People/Ganzer Teahowić.md",
-    "02 - Confia/06 - People/Japlen Razol.md",
-    "02 - Confia/09 - Titles/Confian Prime Minister.md",
-    "02 - Confia/00 - Index & Maps/List of Confian holidays.md",
-    "02 - Confia/00 - Index & Maps/List of Confian leaders.md",
-    "01 - Susia/09 - Titles/Emperor of the Dripstanian Empire.md",
-    "02 - Confia/06 - People/Kunsek Aljerni.md",
-    "02 - Confia/06 - People/Pismon Goltanni.md",
-    "02 - Confia/06 - People/Armoljubca Darzedanna.md",
     "10 - Dripstanian Incria/Tehtíe/sedgYg1q5",
     "10 - Dripstanian Incria/Tehtíe",
     "10 - Dripstanian Incria/Veskera",
