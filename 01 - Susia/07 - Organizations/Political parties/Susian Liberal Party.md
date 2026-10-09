@@ -40,7 +40,9 @@ ideology:
 political_position:
   - Right
 wings:
-  -
+  - Versijian wing
+  - Labor wing
+  - Centrist pragmatic wing
 
 area_served: "[[Susia]]"
 
@@ -82,9 +84,11 @@ The party was founded in 1954, the year the [[Dripstanian Empire]] was dissolved
 
 > *Main article: [[Party Federation]]*
 
-The party was a federation of affiliated state parties coordinating on federal policy and running under a common banner for the presidency and for seats in the [[Susian Senate]]. Its recorded affiliate is the [[Pačese ro Virspruje]] in [[Postia]], founded in 1954, which maintained the newspaper [[The Versijian]], the youth organization [[Young Versijians]], and the paramilitary wing [[Knights of the Republic]]. The federation maintained no equivalent bodies of its own.
+The party was a federation of affiliated state parties coordinating on federal policy. It put forward candidates for the presidency under its own name; its affiliates put forward candidates for the [[Susian Senate]] under theirs, identified on the ballot as members of the federation.
 
-%% TODO: affiliated state parties outside Postia, the federation's headquarters, and its internal organization are unestablished. %%
+The federation was organized in three wings. The Versijian wing was represented in [[Postia]] by the [[Pačese ro Virspruje]], founded in 1954, which maintained the newspaper [[The Versijian]], the youth organization [[Young Versijians]], and the paramilitary wing [[Knights of the Republic]]. The labor wing was represented in Postia by the [[Democratic Laborist Party]], whose eossaj was syndicalist. The centrist pragmatic wing was associated with [[Suizo Soites]]. The federation maintained no newspaper, youth organization or paramilitary of its own.
+
+%% TODO: affiliated state parties outside Postia and the federation's headquarters are unestablished. %%
 
 ## Republican era
 
@@ -92,11 +96,15 @@ The party was a federation of affiliated state parties coordinating on federal p
 
 > *Main article: [[Ant wars]]*
 
+The federation's two Postian affiliates fought each other through their eossajs during the Ant Wars: the [[Knights of the Republic]] of the Pačese ro Virspruje against the syndicalist eossaj of the [[Democratic Laborist Party]]. A Postian senator of the Pačese ro Virspruje, [[Halios Dravda]], drafted the bill of federal intervention in Postia that became the [[Dravda Act]] after his assassination in 1955.
+
 The [[Knights of the Republic]] were dissolved in 1959 following the [[Supreme Court of Susia|Supreme Court]] ruling that declared eossajs unconstitutional and the crackdown conducted in [[Postia]] under governor [[Filevir Matri]]. The [[Pačese ro Virspruje]] contested the ruling and lost its principal organizational instrument.
 
 ### Continental Divide
 
 > *Main article: [[Continental Divide]]*
+
+In 1961 Soites signed the [[Federal Loyalty Act]], a measure sponsored by [[Čalsor Boňár]] of the [[Susian Democratic Union]].
 
 [[Ergagério Sienes]] held the presidency from 1970 to 1974 and pursued the [[Sienes Doctrine|détente policy]] toward [[Confia]]. The entry of [[Sutsa-Fuhu]] into the syndicalist bloc in 1973 ended the policy's remaining credibility within significant parts of the party.
 
@@ -125,6 +133,9 @@ The federation was dissolved in 2038 at [[The Great Transition|the Great Transit
 - [[List of Susian presidents]]
 - [[Ant wars]]
 - [[Continental Divide]]
+- [[Democratic Laborist Party]]
+- [[Halios Dravda]]
+- [[Federal Loyalty Act]]
 - [[National Care Act of 1981]]
 - [[Coalition of State's Rights]]
 - [[Democratic-Federalist Party]]
@@ -146,5 +157,9 @@ The federation was dissolved in 2038 at [[The Great Transition|the Great Transit
 - Main article and first-reference links to pages that do not exist: [[Coalition of State's Rights]], [[Democratic-Federalist Party]], [[Susian Constitution]], [[Tahuni Accords]], [[National Agreement]], [[War of Confian Secession]], [[The Versijian]], [[Young Versijians]], [[Sienes Doctrine]], [[Filňar Čantij]], [[Susian party system]].
 - [[The Great Transition]] exists as an empty stub. The 2038 dissolution date is taken from the [[Susia]] country article.
 - meta.stub left true: headquarters is unfilled.
+- CONFLICT, resolved by author statement of 09/10/2026: Structure previously said the federation ran under a common banner for Senate seats. Senate candidates are put forward by state parties. See [[Party Federation]].
+- The three wings, the Democratic Laborists as the labor-wing affiliate in Postia, the intra-federation fighting of the Ant Wars, Dravda, and Soites signing the Federal Loyalty Act: session canon, 09/10/2026.
+- Boňár as sponsor of the Federal Loyalty Act is from [[Continental Divide]]. [[Čalsor Boňár]] states he held no civil office before 1974, so the form of his sponsorship is unclear.
+- political_position Right predates the labor wing and may need revisiting.
 
 %%
