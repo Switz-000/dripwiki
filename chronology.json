@@ -582,8 +582,8 @@
   },
   {
    "year": 1818,
-   "date": "1818",
-   "precision": "year",
+   "date": "06/12/1818",
+   "precision": "day",
    "kind": "Birth",
    "text": "[[Jartes II]] born in [[Duolij]], [[Postia]], [[Dripstanian Empire]]",
    "source": "Jartes II",
@@ -864,26 +864,6 @@
    "year": 1844,
    "date": "1844",
    "precision": "year",
-   "kind": "Death",
-   "text": "[[Armadesh Versij]] died in [[Neoveli]], [[Dripia]], [[Dripstanian Empire]] (Hanging)",
-   "source": "Armadesh Versij",
-   "source_type": "person",
-   "country": "Susia"
-  },
-  {
-   "year": 1844,
-   "date": "1844",
-   "precision": "year",
-   "kind": "Death",
-   "text": "[[Zagoste Paroska]] died in [[Neoveli]], [[Dripia]], [[Dripstanian Empire]] (Hanging)",
-   "source": "Zagoste Paroska",
-   "source_type": "person",
-   "country": "Susia"
-  },
-  {
-   "year": 1844,
-   "date": "1844",
-   "precision": "year",
    "kind": "Discharge",
    "text": "[[Kaichet Satratonie]] from [[Army]]",
    "source": "Kaichet Satratonie",
@@ -956,6 +936,26 @@
    "precision": "year",
    "kind": "Verdict",
    "text": "[[Zagoste Paroska]] found Guilty of Treason (22 counts), sentenced to Death",
+   "source": "Zagoste Paroska",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1844,
+   "date": "30/09/1844",
+   "precision": "day",
+   "kind": "Death",
+   "text": "[[Armadesh Versij]] died in [[Neoveli]], [[Dripia]], [[Dripstanian Empire]] (Hanging)",
+   "source": "Armadesh Versij",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1844,
+   "date": "30/09/1844",
+   "precision": "day",
+   "kind": "Death",
+   "text": "[[Zagoste Paroska]] died in [[Neoveli]], [[Dripia]], [[Dripstanian Empire]] (Hanging)",
    "source": "Zagoste Paroska",
    "source_type": "person",
    "country": "Susia"
