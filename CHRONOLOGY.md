@@ -451,6 +451,7 @@ meta:
 ## 1954
 
 - **Appointment**: [[Filevir Matri]] becomes Governor of Postia
+- **Appointment**: [[Halios Dravda]] becomes Senator for Postia at [[Susian Senate]]. *Killed in office.*
 - **End of tenure**: [[Suizo Soites]] leaves Delegate to the Constitutional Convention
 - **Event begins**: [[Ant wars]]
 - **Founded**: [[Confian Syndicalist Union]] by [[Lorelaj Paulowić]] and [[Lensek Bӑrboz]]
@@ -460,6 +461,7 @@ meta:
 - **Founded**: [[Supreme Court of Susia]]
 - **Founded**: [[Susian Democratic Union]]
 - **Founded**: [[Susian Liberal Party]] by [[Suizo Soites]], [[Ergagério Sienes]] and [[Filňar Čantij]]
+- **Founded**: [[Susian Senate]]
 - **Regency ends**: [[Emperor of the Dripstanian Empire]] (Filevir Gatojete)
 
 ### [[1954 Susian presidential election]]
@@ -470,11 +472,17 @@ meta:
 
 - **Appointment**: [[Lorelaj Paulowić]] becomes First Secretary of the Union of Confian Syndicalists at [[Confian Syndicalist Union]], appointed by [[Confian Syndicalist Union]]
 - **Birth**: [[Ganzer Teahowić]] born in [[St. Sataria]], [[North Nijbania]], [[Confia]]
+- **End of tenure**: [[Halios Dravda]] leaves Senator for Postia at [[Susian Senate]]
+- 30/05/1955: **Event begins**: [[Neoveli Stock Exchange Bombing]]
+- 30/05/1955: **Event ends**: [[Neoveli Stock Exchange Bombing]]
+- 17/10/1955: **Death**: [[Halios Dravda]] died in [[Soiteslaj]], [[Neutral District]], [[Susia]] (Letter bomb)
 
 ## 1956
 
 - **Appointment**: [[Lensek Bӑrboz]] becomes President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]], appointed by [[National Assembly of Confian Syndicates]]
-- **Founded**: [[Moviment of New Susians]]
+- **Founded**: [[Movement of New Susians]]
+- 19/05/1956: **Event begins**: [[Matri assassination attempt (1956)]]
+- 19/05/1956: **Event ends**: [[Matri assassination attempt (1956)]]
 
 ### [[List of Confian elections#1956 Confian presidential election]]
 
@@ -483,6 +491,8 @@ meta:
 ## 1957
 
 - **Event begins**: [[Continental Divide]]
+- 30/09/1957: **Event begins**: [[Matri assassination attempt (1957)]]
+- 30/09/1957: **Event ends**: [[Matri assassination attempt (1957)]]
 
 ## 1958
 
@@ -493,10 +503,10 @@ meta:
 - **End of tenure**: [[Lensek Bӑrboz]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]
 - **End of tenure**: [[Lorelaj Paulowić]] leaves President of the Confian Nation at [[Confian National Government]]
 - **End of tenure**: [[Suizo Soites]] leaves President of Susia at [[Susian Federal Government]]
-- **Event begins**: [[Matri assasination attempt (1958)]]
-- **Event begins**: [[New Duloc riot]]
-- **Event ends**: [[Matri assasination attempt (1958)]]
-- **Event ends**: [[New Duloc riot]]
+- **Event begins**: [[Matri assassination attempt (1958)]]
+- **Event begins**: [[New Duloc riot (1958)]]
+- **Event ends**: [[Matri assassination attempt (1958)]]
+- **Event ends**: [[New Duloc riot (1958)]]
 
 ### [[1958 Susian presidential election]]
 

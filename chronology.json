@@ -1535,6 +1535,16 @@
    "date": "1954",
    "precision": "year",
    "kind": "Appointment",
+   "text": "[[Halios Dravda]] becomes Senator for Postia at [[Susian Senate]]. *Killed in office.*",
+   "source": "Halios Dravda",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1954,
+   "date": "1954",
+   "precision": "year",
+   "kind": "Appointment",
    "text": "[[Suizo Soites]], President of Susia ([[Susian Liberal Party]])",
    "source": "",
    "source_type": "person",
@@ -1634,6 +1644,16 @@
    "year": 1954,
    "date": "1954",
    "precision": "year",
+   "kind": "Founded",
+   "text": "[[Susian Senate]]",
+   "source": "Susian Senate",
+   "source_type": "institution",
+   "country": "Susia"
+  },
+  {
+   "year": 1954,
+   "date": "1954",
+   "precision": "year",
    "kind": "Regency ends",
    "text": "[[Emperor of the Dripstanian Empire]] (Filevir Gatojete)",
    "source": "",
@@ -1661,6 +1681,46 @@
    "country": "Confia"
   },
   {
+   "year": 1955,
+   "date": "1955",
+   "precision": "year",
+   "kind": "End of tenure",
+   "text": "[[Halios Dravda]] leaves Senator for Postia at [[Susian Senate]]",
+   "source": "Halios Dravda",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
+   "year": 1955,
+   "date": "30/05/1955",
+   "precision": "day",
+   "kind": "Event begins",
+   "text": "[[Neoveli Stock Exchange Bombing]]",
+   "source": "Neoveli Stock Exchange Bombing",
+   "source_type": "event",
+   "country": "Susia"
+  },
+  {
+   "year": 1955,
+   "date": "30/05/1955",
+   "precision": "day",
+   "kind": "Event ends",
+   "text": "[[Neoveli Stock Exchange Bombing]]",
+   "source": "Neoveli Stock Exchange Bombing",
+   "source_type": "event",
+   "country": "Susia"
+  },
+  {
+   "year": 1955,
+   "date": "17/10/1955",
+   "precision": "day",
+   "kind": "Death",
+   "text": "[[Halios Dravda]] died in [[Soiteslaj]], [[Neutral District]], [[Susia]] (Letter bomb)",
+   "source": "Halios Dravda",
+   "source_type": "person",
+   "country": "Susia"
+  },
+  {
    "year": 1956,
    "date": "1956",
    "precision": "year",
@@ -1685,9 +1745,29 @@
    "date": "1956",
    "precision": "year",
    "kind": "Founded",
-   "text": "[[Moviment of New Susians]]",
-   "source": "Moviment of New Susians",
+   "text": "[[Movement of New Susians]]",
+   "source": "Movement of New Susians",
    "source_type": "organization",
+   "country": "Susia"
+  },
+  {
+   "year": 1956,
+   "date": "19/05/1956",
+   "precision": "day",
+   "kind": "Event begins",
+   "text": "[[Matri assassination attempt (1956)]]",
+   "source": "Matri assassination attempt (1956)",
+   "source_type": "event",
+   "country": "Susia"
+  },
+  {
+   "year": 1956,
+   "date": "19/05/1956",
+   "precision": "day",
+   "kind": "Event ends",
+   "text": "[[Matri assassination attempt (1956)]]",
+   "source": "Matri assassination attempt (1956)",
+   "source_type": "event",
    "country": "Susia"
   },
   {
@@ -1697,6 +1777,26 @@
    "kind": "Event begins",
    "text": "[[Continental Divide]]",
    "source": "Continental Divide",
+   "source_type": "event",
+   "country": "Susia"
+  },
+  {
+   "year": 1957,
+   "date": "30/09/1957",
+   "precision": "day",
+   "kind": "Event begins",
+   "text": "[[Matri assassination attempt (1957)]]",
+   "source": "Matri assassination attempt (1957)",
+   "source_type": "event",
+   "country": "Susia"
+  },
+  {
+   "year": 1957,
+   "date": "30/09/1957",
+   "precision": "day",
+   "kind": "Event ends",
+   "text": "[[Matri assassination attempt (1957)]]",
+   "source": "Matri assassination attempt (1957)",
    "source_type": "event",
    "country": "Susia"
   },
@@ -1785,8 +1885,8 @@
    "date": "1958",
    "precision": "year",
    "kind": "Event begins",
-   "text": "[[Matri assasination attempt (1958)]]",
-   "source": "Matri assasination attempt (1958)",
+   "text": "[[Matri assassination attempt (1958)]]",
+   "source": "Matri assassination attempt (1958)",
    "source_type": "event",
    "country": "Susia"
   },
@@ -1795,8 +1895,8 @@
    "date": "1958",
    "precision": "year",
    "kind": "Event begins",
-   "text": "[[New Duloc riot]]",
-   "source": "New Duloc riot",
+   "text": "[[New Duloc riot (1958)]]",
+   "source": "New Duloc riot (1958)",
    "source_type": "event",
    "country": "Susia"
   },
@@ -1805,8 +1905,8 @@
    "date": "1958",
    "precision": "year",
    "kind": "Event ends",
-   "text": "[[Matri assasination attempt (1958)]]",
-   "source": "Matri assasination attempt (1958)",
+   "text": "[[Matri assassination attempt (1958)]]",
+   "source": "Matri assassination attempt (1958)",
    "source_type": "event",
    "country": "Susia"
   },
@@ -1815,8 +1915,8 @@
    "date": "1958",
    "precision": "year",
    "kind": "Event ends",
-   "text": "[[New Duloc riot]]",
-   "source": "New Duloc riot",
+   "text": "[[New Duloc riot (1958)]]",
+   "source": "New Duloc riot (1958)",
    "source_type": "event",
    "country": "Susia"
   },
@@ -4932,6 +5032,21 @@
   },
   {
    "lane": "titles",
+   "label": "Halios Dravda",
+   "start": 1954,
+   "end": 1955,
+   "country": "Susia",
+   "title": "Senator",
+   "display": "Senator for Postia",
+   "seat": "Postia",
+   "holder": "Halios Dravda",
+   "start_date": "1954",
+   "start_precision": "year",
+   "end_date": "1955",
+   "end_precision": "year"
+  },
+  {
+   "lane": "titles",
    "label": "Suizo Soites",
    "start": 1954,
    "end": 1958,
@@ -5042,6 +5157,15 @@
    "start_precision": "year"
   },
   {
+   "lane": "institutions",
+   "label": "Susian Senate",
+   "start": 1954,
+   "end": null,
+   "country": "Susia",
+   "start_date": "1954",
+   "start_precision": "year"
+  },
+  {
    "lane": "titles",
    "label": "Lorelaj Paulowić",
    "start": 1955,
@@ -5054,6 +5178,17 @@
    "start_precision": "year",
    "end_date": "1977",
    "end_precision": "year"
+  },
+  {
+   "lane": "events",
+   "label": "Neoveli Stock Exchange Bombing",
+   "start": 1955,
+   "end": 1955,
+   "country": "Susia",
+   "start_date": "30/05/1955",
+   "start_precision": "day",
+   "end_date": "30/05/1955",
+   "end_precision": "day"
   },
   {
    "lane": "titles",
@@ -5085,12 +5220,23 @@
   },
   {
    "lane": "institutions",
-   "label": "Moviment of New Susians",
+   "label": "Movement of New Susians",
    "start": 1956,
    "end": null,
    "country": "Susia",
    "start_date": "1956",
    "start_precision": "year"
+  },
+  {
+   "lane": "events",
+   "label": "Matri assassination attempt (1956)",
+   "start": 1956,
+   "end": 1956,
+   "country": "Susia",
+   "start_date": "19/05/1956",
+   "start_precision": "day",
+   "end_date": "19/05/1956",
+   "end_precision": "day"
   },
   {
    "lane": "events",
@@ -5105,7 +5251,18 @@
   },
   {
    "lane": "events",
-   "label": "Matri assasination attempt (1958)",
+   "label": "Matri assassination attempt (1957)",
+   "start": 1957,
+   "end": 1957,
+   "country": "Susia",
+   "start_date": "30/09/1957",
+   "start_precision": "day",
+   "end_date": "30/09/1957",
+   "end_precision": "day"
+  },
+  {
+   "lane": "events",
+   "label": "Matri assassination attempt (1958)",
    "start": 1958,
    "end": 1958,
    "country": "Susia",
@@ -5116,7 +5273,7 @@
   },
   {
    "lane": "events",
-   "label": "New Duloc riot",
+   "label": "New Duloc riot (1958)",
    "start": 1958,
    "end": 1958,
    "country": "Susia",
