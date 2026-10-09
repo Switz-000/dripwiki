@@ -167,6 +167,31 @@ meta:
   stub: true
   verified: false
   image: null
+portrait:
+  eyes: dot
+  eyeliner: none
+  brows: arched
+  nose: straight
+  mouth: wide
+  hair: swept
+  facial: []
+  eyewear: browline
+  outfit: suit-open
+  extras: [eye-bags, crows-feet, forehead, cheek-lines]
+  shape:
+    headW: 0.96
+    headH: 0.94
+    bodyW: 1.07
+    bodyH: 1.09
+  palette:
+    skin: "#ffffff"
+    hair: "#5c4b43"
+    facial: "#6b4a2e"
+    frames: "#41230a"
+    outfit: "#ffffff"
+    suit: "#333333"
+    shirt: "#adc9a6"
+    tie: "#ed1c24"
 ---
 
 **Yário Kolkov** (1960–2011), born Yaroch Kolkov, was a [[Susia|Susian]] philosopher and engineer whose theory of democracy as a living adaptive system became the foundation of [[The Great Transition]] and the techno-federative constitution. He worked as an engineer at [[Nayotai]] and [[Troli Ustaras]] before turning to writing, and spent his later years warning against the institutional capture of ideas, TU's use of his own work among them.
