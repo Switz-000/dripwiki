@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHRONOLOGY.md",
+                "file": "01 - Susia/06 - People/Yário Kolkov.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "CHRONOLOGY"
+              "title": "Yário Kolkov"
             }
           }
         ],
@@ -216,6 +216,7 @@
   },
   "active": "693c54f4ecf7a16c",
   "lastOpenFiles": [
+    "CHRONOLOGY.md",
     "01 - Susia/00 - Index & Maps/List of first names.md",
     "01 - Susia/07 - Organizations/sedcJJGNM",
     "01 - Susia/03 - Companies/Companies/Financial/Neoveli Stock Exchange.md",
@@ -246,7 +247,6 @@
     "02 - Confia/06 - People/Kunsek Aljerni.md",
     "02 - Confia/06 - People/Pismon Goltanni.md",
     "02 - Confia/06 - People/Armoljubca Darzedanna.md",
-    "02 - Confia/06 - People/Pawlăn Listewi.md",
     "10 - Dripstanian Incria/Tehtíe/sedgYg1q5",
     "10 - Dripstanian Incria/Tehtíe",
     "10 - Dripstanian Incria/Veskera",
