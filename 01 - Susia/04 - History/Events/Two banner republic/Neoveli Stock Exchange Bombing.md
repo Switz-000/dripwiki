@@ -37,9 +37,9 @@ By 1955 the Nevirs were conducting bombings and assassinations in [[Postia]], wh
 
 The bomber drove a truck loaded with explosives made from agricultural fertilizer to the exchange, parked it in the street beside the building and left on foot. It detonated at 10:33, twenty minutes after the exchange's 10:13 opening bell, and killed 43 people.
 
-The bomber was never identified. Investigators established that the truck had been stolen in Duolij.
+A Nevir letter claimed the attack. The bomber was never identified. Investigators established that the truck had been stolen in Duolij, and the inquiry went no further.
 
-%% TODO: the Nevir letter that claimed the attack is unestablished. %%
+%% TODO: the text of the Nevir letter and the newspapers it reached are unestablished. %%
 
 ## Aftermath
 
