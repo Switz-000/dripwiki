@@ -1,14 +1,15 @@
 ---
 type: event
-summary: Several days of rioting in New Duloc in early 1958, triggered by the Nevir assassination of a Knights of the Republic leader during a dock labor standoff. Several hundred people died; it was the central event of the Ant Wars and led to the Supreme Court ruling against eossajs.
+summary: Several days of rioting in New Duloc from 11/02/1958, triggered by the Nevir assassination of Knights of the Republic leader Rǎžňel Tertev during a dock labor standoff. Several hundred people died; it was the central event of the Ant Wars and led to the Supreme Court ruling against eossajs.
 aliases:
   -
-date_start: 1958
+date_start: 11/02/1958
 date_end: 1958
 location: "[[New Duloc]]"
 key_figures:
   - "[[Filevir Matri]]"
-cause: Nevir assassination of a Knights of the Republic leader during a labor standoff
+  - "[[Rǎžňel Tertev]]"
+cause: Nevir assassination of Knights of the Republic leader Rǎžňel Tertev during a labor standoff
 outcome: Citywide riot suppressed by the Postian National Guard; state of emergency declared
 related_events:
   - "[[Ant wars]]"
@@ -24,7 +25,7 @@ meta:
   image: null
 ---
 
-The **New Duloc riot** was a period of sustained civil violence in [[New Duloc]], [[Postia]], in early 1958. Triggered by the assassination of a [[Knights of the Republic]] leader during an ongoing labor standoff, the riot caused several hundred deaths over several days and prompted [[Filevir Matri|Matri's]] state government to declare a state of emergency. It was the central event of the [[Ant wars]] and precipitated the [[Supreme Court of Susia|Supreme Court]] ruling that declared eossajs unconstitutional.
+The **New Duloc riot** was a period of sustained civil violence in [[New Duloc]], [[Postia]], beginning on 11/02/1958. Triggered by the assassination of [[Rǎžňel Tertev]], a leader of the [[Knights of the Republic]], during an ongoing labor standoff, the riot caused several hundred deaths over several days and prompted [[Filevir Matri|Matri's]] state government to declare a state of emergency. It was the central event of the [[Ant wars]] and precipitated the [[Supreme Court of Susia|Supreme Court]] ruling that declared eossajs unconstitutional.
 
 ## Background
 
@@ -36,7 +37,7 @@ At the time of the riot, a labor standoff was already underway at the New Duloc 
 
 ## The riot
 
-The riot was triggered by the assassination of a leader of the [[Knights of the Republic]], who was shot in his car by a Nevir. The Knights mobilized across the city in response. Police were redeployed from the dock standoff to address the Knight mobilization, and the reduction in police presence at the docks caused the standoff there to collapse into open violence. Within hours the two situations had merged into a general breakdown of order across New Duloc.
+The riot was triggered on 11/02/1958 by the assassination of Rǎžňel Tertev, a leader of the [[Knights of the Republic]], who was shot in his car by a Nevir. The Knights mobilized across the city in response. Police were redeployed from the dock standoff to address the Knight mobilization, and the reduction in police presence at the docks caused the standoff there to collapse into open violence. Within hours the two situations had merged into a general breakdown of order across New Duloc.
 
 The ensuing days saw widespread looting and arson. With police withdrawn from a perimeter around the immigrant districts, the [[Movement of New Susians]] engaged directly with rioting crowds, including union workers. The movement's membership, many of them veterans of the [[Confian secession war]], held their neighborhoods on a defensive basis while surrounding areas burned. Casualties in the defended districts were significantly lower than elsewhere in the city, a contrast that was visible once order was restored.
 
@@ -62,8 +63,8 @@ Matri used the ruling as the basis for a comprehensive crackdown across syndical
 - [[Postia]]
 
 %% FLAGS:
-- Knight leader assassination: the triggering event, carried out by a Nevir per session canon of 09/10/2026. Victim and killer unnamed.
-- Start and end dates: "early 1958" per session canon. Exact dates and duration ("several days") not precisely established. Frontmatter date fields set to 1958 for both start and end.
+- Knight leader assassination: the triggering event. Victim Rǎžňel Tertev, killed by a Nevir on 11/02/1958: session canon, 09/10/2026, the day chosen in session at the author's request. The killer is unnamed.
+- Start date 11/02/1958, the day of Tertev's killing. End date and duration ("several days") not precisely established; date_end left at 1958.
 - Death toll: "several hundred" per session canon. No precise figure established.
 - Confian secession war: linked. No dedicated vault article confirmed. Stub candidate.
 - Postian National Guard: linked. No dedicated vault article confirmed. Stub candidate.

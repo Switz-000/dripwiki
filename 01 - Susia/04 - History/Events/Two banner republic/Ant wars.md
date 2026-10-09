@@ -60,7 +60,7 @@ Three attempts were made on Matri's life during the period: a car bomb in 1956 t
 
 > *Main article: [[New Duloc riot (1958)]]*
 
-The central event of the Ant Wars was the [[New Duloc riot (1958)]]. The assassination of a [[Knights of the Republic]] leader by a Nevir, occurring while a labor standoff was already underway at the New Duloc docks, triggered a citywide breakdown of order. Police redeployed from the docks to contain the mobilizing Knights, the dock standoff collapsed, and the two situations merged into several days of rioting that left several hundred dead. The [[Movement of New Susians]] held its neighborhoods through the violence while surrounding districts burned.
+The central event of the Ant Wars was the [[New Duloc riot (1958)]]. The assassination of [[Rǎžňel Tertev]], a leader of the [[Knights of the Republic]], by a Nevir on 11/02/1958, occurring while a labor standoff was already underway at the New Duloc docks, triggered a citywide breakdown of order. Police redeployed from the docks to contain the mobilizing Knights, the dock standoff collapsed, and the two situations merged into several days of rioting that left several hundred dead. The [[Movement of New Susians]] held its neighborhoods through the violence while surrounding districts burned.
 
 ## Supreme Court ruling and crackdown
 
@@ -101,7 +101,7 @@ The [[Movement of New Susians]] suffered a lasting deterioration in its position
 %% FLAGS:
 - Period dates 1954–1959: session canon. Start at constitutional ratification and eossaj formation; end at the post-ruling crackdown.
 - Mandatory military service: used here to reinforce the militia-capacity constitutional argument. The reinstatement was previously dated 1959, which placed it before [[Serčev Fimžer]] took office in 1962. Resolved by ruling: the date moves to 1964 and the attribution to Fimžer stands. [[Military Service in Susia]], [[Susia]] and [[Fortress complex]] updated.
-- Knight leader assassination: triggering event of the riot, carried out by a Nevir per session canon of 09/10/2026. Victim and killer unnamed.
+- Knight leader assassination: triggering event of the riot, carried out by a Nevir per session canon of 09/10/2026. Victim Rǎžňel Tertev, 11/02/1958; killer unnamed.
 - Supreme Court of Susia: judicial review and power to strike down rights-violating laws confirmed against vault canon. No case name established for the eossaj ruling. Stub candidate.
 - Confian secession war, Postian National Guard, White Stork Party, Federal Loyalty Act: linked, no dedicated vault articles confirmed. Stub candidates.
 - [[Nevirs]] replaces the retired Minutemen link. The Nevirs section, the Liberal affiliation of both main eossajs, the Laborists' eossaj as the syndicalist eossaj, Dravda and his act: session canon, 07/10/2026 to 09/10/2026.

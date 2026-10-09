@@ -68,7 +68,7 @@ The Knights fought on two simultaneous fronts across the eossaj period: against 
 
 > *Main article: [[Ant wars]]*
 
-The assassination of a Knights leader by a Nevir in early 1958 triggered the [[New Duloc riot (1958)]], the central event of the Ant Wars. Knights mobilized across [[New Duloc]] in response, contributing to the collapse of police containment at the [[New Duloc]] docks and the subsequent citywide explosion of violence.
+The assassination of Knights leader [[Rǎžňel Tertev]] by a Nevir on 11/02/1958 triggered the [[New Duloc riot (1958)]], the central event of the Ant Wars. Knights mobilized across [[New Duloc]] in response, contributing to the collapse of police containment at the [[New Duloc]] docks and the subsequent citywide explosion of violence.
 
 Following the riot, Matri declared a state of emergency and brought the eossaj question before the [[Supreme Court of Susia]]. The Court ruled eossajs unconstitutional on the grounds that formal political affiliation combined with armed organization fell outside constitutional protections. The Knights contested the ruling publicly as a misreading of Versij. The ruling nonetheless gave Matri the legal instrument he needed. The Knights were formally dissolved under the subsequent crackdown, alongside syndicalist organizations and, incidentally, the [[Movement of New Susians]].
 
@@ -94,7 +94,7 @@ Some members complied. Others did not, continuing to operate informally for a pe
 - Founded by: no individual founder established in session canon. Field left blank.
 - Native name: not established. Left blank per editorial rule.
 - Banned by: attributed to Supreme Court ruling. The ruling declared eossajs unconstitutional; the enforcement was Matri's crackdown. Both are implicated. Flagged for potential refinement.
-- Knight leader assassination: the triggering event of the New Duloc riot, carried out by a [[Nevirs|Nevir]] per session canon of 09/10/2026. Victim and killer unnamed.
+- Knight leader assassination: the triggering event of the New Duloc riot, carried out by a [[Nevirs|Nevir]] per session canon of 09/10/2026. Victim Rǎžňel Tertev, 11/02/1958; killer unnamed.
 - Supreme Court of Susia: linked. No dedicated article confirmed in vault. Stub candidate.
 - Eossaj: linked. No dedicated article confirmed in vault. Stub candidate.
 - New Duloc riot (1958): linked. Article not yet written — session canon, scheduled for this session.
