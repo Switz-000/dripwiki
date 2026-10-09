@@ -46,7 +46,7 @@ The Nevir letter claiming the attack had been mailed the day before so that it w
 
 No one was charged with planting the device.
 
-The editors of Duolij's newspapers agreed to pass every Nevir letter to the police before printing it. The arrangement was voluntary and never written into law.
+The editors of Duolij's newspapers agreed to pass every Nevir letter to the police before printing it. Since the killing of Senator [[Halios Dravda]] by a letter bomb in 1955, post from an unknown sender had also been treated as a danger, and the police opened the letters first. The arrangement was voluntary and never written into law.
 
 Matri's car was inspected daily from then on, and his routes were varied.
 

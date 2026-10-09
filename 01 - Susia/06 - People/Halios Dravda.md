@@ -5,7 +5,7 @@ native_name: Halios Dravda
 lusitanized_name:
 aliases:
   - Dravda
-summary: Susian politician of the Pačese ro Virspruje and senator for Postia from 1954 until his assassination by a Nevir in 1955. He drafted the bill of federal intervention in Postia that passed in 1956 as the Dravda Act.
+summary: Susian politician of the Pačese ro Virspruje and senator for Postia from 1954 until he was killed by a Nevir letter bomb in 1955. He drafted the bill of federal intervention in Postia that passed in 1956 as the Dravda Act.
 
 # ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: Male
@@ -25,11 +25,11 @@ birth:
   country:
 
 death:
-  year: 1955
-  city:
-  state:
+  year: 17/10/1955
+  city: "[[Soiteslaj]]"
+  state: "[[Neutral District]]"
   country: "[[Susia]]"
-  cause: Assassination
+  cause: Letter bomb
 
 # ── FAMILY ──────────────────────────────────────────────────────────────────
 relations:
@@ -139,7 +139,7 @@ meta:
   image: null
 ---
 
-**Halios Dravda** (died 1955) was a [[Susia|Susian]] politician of the [[Pačese ro Virspruje]] who served as a senator for [[Postia]] from 1954 until his death. After the [[Neoveli Stock Exchange Bombing]] he drafted a bill of federal intervention in Postia. He was assassinated by a Nevir in 1955, and the bill passed the following year as the [[Dravda Act]].
+**Halios Dravda** (died 1955) was a [[Susia|Susian]] politician of the [[Pačese ro Virspruje]] who served as a senator for [[Postia]] from 1954 until his death. After the [[Neoveli Stock Exchange Bombing]] he drafted a bill of federal intervention in Postia. He was killed by a Nevir letter bomb in [[Soiteslaj]] on 17/10/1955, and the bill passed the following year as the [[Dravda Act]].
 
 ## Early Life
 
@@ -155,9 +155,11 @@ Following the [[Neoveli Stock Exchange Bombing]] of 30/05/1955, Dravda drafted a
 
 ## Assassination
 
-Dravda was killed by a Nevir in 1955, before the bill came to a vote.
+On 17/10/1955, while his bill was in committee, a parcel addressed to Dravda arrived at his Senate office in [[Soiteslaj]]. He opened it himself and was killed by the bomb it contained. The sender was never identified. A Nevir letter claiming the killing reached the newspapers the following day.
 
-%% TODO: the date, place and method of the killing, and the Nevir letter that claimed it, are unestablished. %%
+The bomb had passed through the federal post into the Senate building in the federal capital, and the investigation fell to the federal government, which had no body charged with political violence. The case produced no suspect.
+
+%% TODO: the text of the Nevir letter is unestablished. %%
 
 ## Legacy
 
@@ -179,7 +181,8 @@ The bill passed in 1956 as the [[Dravda Act]]. The commissioner provision was re
 - Name, party, office, the 1955 assassination by a Nevir, and authorship of the bill: session canon, 07/10/2026 to 09/10/2026.
 - Birth, ethnicity, religion, education: unestablished. birth left blank, which keeps the article a stub.
 - Citizenship recorded as Susian only. If he was born before 1954, Dripstanian citizenship applies as well; unestablished.
-- death.cause recorded as Assassination pending the method.
+- Date 17/10/1955, Soiteslaj, letter bomb opened in his Senate office, sender never identified, claim the next day: session canon, 09/10/2026. Day chosen in session at the author's request.
+- death.state recorded as [[Neutral District]], the federal district containing the capital.
 - sex Male: from the pronoun used for him in session.
 - The successor on the list is unnamed.
 %%

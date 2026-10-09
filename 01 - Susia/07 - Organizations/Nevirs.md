@@ -84,7 +84,7 @@ The Nevirs conducted bombings of buildings and cars and assassinations of politi
 | Date | Attack | Place | Notes |
 | --- | --- | --- | --- |
 | 30/05/1955 | [[Neoveli Stock Exchange Bombing]] | [[Neoveli]] | 43 killed |
-| 1955 | Assassination of [[Halios Dravda]] | | Senator for Postia |
+| 17/10/1955 | Assassination of [[Halios Dravda]] | [[Soiteslaj]] | Letter bomb opened in his Senate office |
 | 19/05/1956 | [[Matri assassination attempt (1956)]] | [[Duolij]] | Car bomb, failed to detonate |
 | 30/09/1957 | [[Matri assassination attempt (1957)]] | [[Nikuria]] | Filed as a Nevir attack; the attacker had no connection to the Nevirs |
 | 1958 | Assassination of a [[Knights of the Republic]] leader | [[New Duloc]] | Triggered the [[New Duloc riot (1958)]] |
@@ -113,7 +113,6 @@ The Neoveli bombing led to the [[Dravda Act]] of 1956, which founded the federal
 - Replaces the Minutemen link used across the vault until 09/10/2026. The renaming is session canon; "Minutemen" is retired.
 - Name, singular signature, plural as an outside label, motto, outside "anarcho-syndicalist" label, lone actors, no structure: session canon, 07/10/2026 to 09/10/2026.
 - The 1958 Knight leader killing is dated by year only, "early 1958" per [[New Duloc riot (1958)]]. Exact date unestablished.
-- Dravda's assassination: method, place and day unestablished.
 - founded and dissolved left blank. The first Nevir letter is undated, and the current never formally ended.
 - political_position left blank: not established.
 - [[Frumentarze]] is to be renamed by author decision; the name of the agency is pending.

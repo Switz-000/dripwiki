@@ -50,7 +50,7 @@ The labor movement added a further dimension through strikes and workplace stand
 
 The Nevirs announced and claimed their attacks in letters signed with a single pseudonym, Nevir, which belonged to no real person. Most of their attacks were carried out by individuals acting alone. [[Filevir Matri|Matri's]] government described them as an anarcho-syndicalist network of cells and pursued that network across Postia, and the label joined the anarchists to the syndicalist movement in official usage.
 
-The [[Neoveli Stock Exchange Bombing]] of 30/05/1955 killed 43 people and took the campaign outside Postia. Senator [[Halios Dravda]] of the [[Pačese ro Virspruje]] drafted a bill of federal intervention in Postia in response and was assassinated by a Nevir later in 1955. The bill passed in 1956 as the [[Dravda Act]], without its provision for a federal commissioner, leaving the response in Postia with the governor.
+The [[Neoveli Stock Exchange Bombing]] of 30/05/1955 killed 43 people and took the campaign outside Postia. Senator [[Halios Dravda]] of the [[Pačese ro Virspruje]] drafted a bill of federal intervention in Postia in response and was killed by a Nevir letter bomb in [[Soiteslaj]] on 17/10/1955. The bill passed in 1956 as the [[Dravda Act]], without its provision for a federal commissioner, leaving the response in Postia with the governor.
 
 Three attempts were made on Matri's life during the period: a car bomb in 1956 that failed to detonate, a shooting in 1957 stopped by the crowd, and the shooting by [[Urgiri Tečlan]] in 1958.
 
