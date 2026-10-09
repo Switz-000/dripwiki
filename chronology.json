@@ -715,7 +715,7 @@
    "date": "1837",
    "precision": "year",
    "kind": "Appointment",
-   "text": "[[Jartes II]] becomes Emperor of the Dripstanian Empire, appointed by [[Hereditary succession]]. *Fifth emperor. Succeeded [[Jartes I]]; succeeded by [[Soliman]].*",
+   "text": "[[Jartes II]] becomes Emperor of the Dripstanian Empire, appointed by [[Hereditary succession]]. *Fifth emperor. Succeeded [[Jartes I]]; succeeded by [[Sallemaj]].*",
    "source": "Jartes II",
    "source_type": "person",
    "country": "Susia"
@@ -1334,7 +1334,7 @@
    "year": 1927,
    "date": "1927",
    "precision": "year",
-   "kind": "Event ends",
+   "kind": "Event begins",
    "text": "[[War of Confian Secession]]",
    "source": "War of Confian Secession",
    "source_type": "event",
@@ -1474,7 +1474,7 @@
    "year": 1950,
    "date": "1950",
    "precision": "year",
-   "kind": "Event begins",
+   "kind": "Event ends",
    "text": "[[War of Confian Secession]]",
    "source": "War of Confian Secession",
    "source_type": "event",
@@ -4948,6 +4948,17 @@
    "start_precision": "year"
   },
   {
+   "lane": "events",
+   "label": "War of Confian Secession",
+   "start": 1927,
+   "end": 1950,
+   "country": "Confia",
+   "start_date": "1927",
+   "start_precision": "year",
+   "end_date": "1950",
+   "end_precision": "year"
+  },
+  {
    "lane": "institutions",
    "label": "Confian Liberal Party",
    "start": 1930,
@@ -4991,17 +5002,6 @@
    "country": "Susia",
    "start_date": "1942",
    "start_precision": "year"
-  },
-  {
-   "lane": "events",
-   "label": "War of Confian Secession",
-   "start": 1950,
-   "end": 1927,
-   "country": "Confia",
-   "start_date": "1950",
-   "start_precision": "year",
-   "end_date": "1927",
-   "end_precision": "year"
   },
   {
    "lane": "titles",

@@ -231,7 +231,7 @@ meta:
 
 ## 1837
 
-- **Appointment**: [[Jartes II]] becomes Emperor of the Dripstanian Empire, appointed by [[Hereditary succession]]. *Fifth emperor. Succeeded [[Jartes I]]; succeeded by [[Soliman]].*
+- **Appointment**: [[Jartes II]] becomes Emperor of the Dripstanian Empire, appointed by [[Hereditary succession]]. *Fifth emperor. Succeeded [[Jartes I]]; succeeded by [[Sallemaj]].*
 - **Death**: [[Jartes I]] died in [[Dripstanian Empire]]
 - **End of tenure**: [[Jartes I]] leaves Emperor of the Dripstanian Empire
 
@@ -392,7 +392,7 @@ meta:
 ## 1927
 
 - **Birth**: [[Urgiri Tečlan]] born in [[Postia]], [[Dripstanian Empire]]
-- **Event ends**: [[War of Confian Secession]]
+- **Event begins**: [[War of Confian Secession]]
 
 ## 1930
 
@@ -433,7 +433,7 @@ meta:
 - **Death**: [[Emperor Sallemaj]] died in [[Soiteslaj|St. Mantichev city]], [[Neutral District]], [[Dripstanian Empire]] (Stroke)
 - **End of tenure**: [[Emperor Sallemaj]] leaves Emperor of the Dripstanian Empire
 - **End of tenure**: [[Lorelaj Paulowić]] leaves President Director of the Free Confian Republic
-- **Event begins**: [[War of Confian Secession]]
+- **Event ends**: [[War of Confian Secession]]
 - **Regency begins**: [[Emperor of the Dripstanian Empire]] (Filevir Gatojete). *Not royal. Served as Regent until collapse*
 
 ## 1951

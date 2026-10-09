@@ -50,7 +50,7 @@ person articles. Edit those articles, not this block. %%
 | 5 | [[Empress Prazde]] | 1815 - 1823 | [[Hereditary succession]] | Reign disputed throughout by [[Jartes I]]. See [[Dripstanian Civil War]]. |
 |  | *Disputed succession* | 1815 - 1823 |  | Civil war. [[Empress Prazde]] and [[Jartes I]] both claimed the throne. |
 | 6 | [[Jartes I]] | 1815 - 1837 | [[Hereditary succession]] | Fifth emperor. Claimed reign began in 1815; uncontested from 1823. Succeeded by [[Jartes II]]. |
-| 7 | [[Jartes II]] | 1837 - 1882 | [[Hereditary succession]] | Fifth emperor. Succeeded [[Jartes I]]; succeeded by [[Soliman]]. |
+| 7 | [[Jartes II]] | 1837 - 1882 | [[Hereditary succession]] | Fifth emperor. Succeeded [[Jartes I]]; succeeded by [[Sallemaj]]. |
 | 8 | [[Emperor Sallemaj]] | 1882 - 1950 |  | Dies with no clear sucessor, interim goverment takes over |
 |  | *Filevir Gatojete* | 1950 - 1954 |  | Not royal. Served as Regent until collapse |
 
