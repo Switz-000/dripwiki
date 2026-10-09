@@ -1,6 +1,7 @@
 ---
 type: organization
 name: Movement of New Susians
+summary: Self-defense organization of Confian refugees in New Duloc, founded in 1956, that held its neighborhoods during the New Duloc riot of 1958. It stayed outside partisan politics but was swept into Matri's crackdown and later placed under surveillance after the Federal Loyalty Act.
 native_name:
 abbreviation:
 aliases:
@@ -43,6 +44,10 @@ era:
 tags:
   - conflict/military
   - society/immigration
+meta:
+  stub: false
+  verified: false
+  image: null
 ---
 
 The **Movement of New Susians** was a self-defense organization formed by [[Confia|Confian]] refugees in [[New Duloc]], [[Postia]], in the early years of the republic. Organized around neighborhood militias, it operated outside partisan politics and functioned primarily to protect immigrant enclaves from street violence during the [[Ant wars]] (1954–1959).
@@ -62,6 +67,8 @@ The movement maintained no formal relationship with the [[Pačese ro Virspruje|P
 ## Ant Wars and the New Duloc riot
 
 > *Main article: [[Ant wars]]*
+
+On 30/09/1957, a veteran of the [[War of Confian Secession]] who lived in the movement's neighborhood disarmed a man who had drawn a pistol on governor [[Filevir Matri]] during the [[Versij Day]] address ([[Matri assassination attempt (1957)]]) in [[Nikuria]]. He was naturalized as a Susian citizen in 1959 and later received the [[Order of the First Guard of the Republic]], its first recipient born outside Susia.
 
 During the [[New Duloc riot (1958)]], the movement's military discipline and the combat experience of its membership produced outcomes distinct from the rest of the city. While surrounding neighborhoods suffered sustained looting and arson over several days, the movement's defended blocks held. Casualties among the Confian community were significantly lower than in comparable areas. The contrast was visible and documented when the [[Postian National Guard]] arrived to restore order.
 
@@ -94,7 +101,6 @@ The movement's position deteriorated sharply after 1961, when the [[Federal Loya
 - Federal Loyalty Act: linked. No body content confirmed in vault. Stub candidate.
 - Eossaj: linked. No dedicated article confirmed in vault. Stub candidate.
 - Confian secession war: linked. No dedicated article confirmed in vault. Stub candidate.
-- New Duloc riot (1958): linked. Article not yet written — session canon, scheduled for this session.
-- Ant Wars: linked. Article not yet written — session canon, scheduled for this session.
+- The veteran's intervention in 1957, his naturalization in 1959 and his award: session canon, 07/10/2026 to 09/10/2026. He is unnamed, and the year of his award is open. Whether he was a member of the movement, rather than a resident of its neighborhood, is unestablished.
 - Postian National Guard: linked. No dedicated article confirmed in vault. Stub candidate.
 %%
