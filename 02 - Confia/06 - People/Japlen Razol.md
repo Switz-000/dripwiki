@@ -140,7 +140,7 @@ portrait:
   eyes: dot
   eyeliner: none
   brows: none
-  nose: straight
+  nose: curl
   mouth: wide
   hair: wave
   facial: []

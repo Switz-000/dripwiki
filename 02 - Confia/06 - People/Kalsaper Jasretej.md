@@ -115,7 +115,7 @@ portrait:
   eyes: dot
   eyeliner: dash
   brows: bold
-  nose: hook
+  nose: curl
   mouth: wide
   hair: swoop
   facial: []

@@ -148,7 +148,7 @@ portrait:
   eyes: dot
   eyeliner: dash
   brows: bold
-  nose: straight
+  nose: curl
   mouth: wavy
   hair: swoop
   facial: []

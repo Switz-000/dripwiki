@@ -155,7 +155,7 @@ portrait:
   eyes: dot
   eyeliner: none
   brows: worried
-  nose: slope
+  nose: curl
   mouth: smile
   hair: swept
   facial: [brush, chin-tuft]
