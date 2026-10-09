@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Meta/YAML and Tags.md",
+                "file": "01 - Susia/00 - Index & Maps/List of first names.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "YAML and Tags"
+              "title": "List of first names"
             }
           }
         ],
@@ -214,8 +214,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c8bfdfa82ed5652",
+  "active": "693c54f4ecf7a16c",
   "lastOpenFiles": [
+    "00 - Meta/YAML and Tags.md",
     "__pycache__/vault_dates.cpython-314.pyc",
     "__pycache__",
     "vault_dates.py",
