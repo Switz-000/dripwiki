@@ -1,6 +1,6 @@
 ---
 type: event
-summary: Nevir bombing of the Neoveli Stock Exchange on 30/05/1955 that killed 43 people. The deadliest single attack of the Ant Wars period, it led to the Dravda Act and the founding of a federal security agency.
+summary: Nevir truck bombing outside the Neoveli Stock Exchange on 30/05/1955 that killed 43 people. The deadliest single attack of the Ant Wars period, it led to the Dravda Act and the founding of a federal security agency.
 aliases:
   -
 date_start: 30/05/1955
@@ -11,7 +11,7 @@ rebellious_participants:
 legalist_participants:
 key_figures:
 cause: Nevir anarchist campaign
-outcome: 43 killed; Senator Halios Dravda drafts a bill of federal intervention in Postia
+outcome: 43 killed; truck traced to Duolij; Senator Halios Dravda drafts a bill of federal intervention in Postia
 related_events:
   - "[[Ant wars]]"
 era:
@@ -25,23 +25,25 @@ meta:
   image: null
 ---
 
-The **Neoveli Stock Exchange Bombing** was a bombing of the [[Neoveli Stock Exchange]] in [[Neoveli]], [[Dripia]], on 30/05/1955. It killed 43 people. The attack was attributed to the [[Nevirs]] and was the deadliest single attack of the [[Ant wars]] period. It prompted Senator [[Halios Dravda]] to draft the bill that became the [[Dravda Act]].
+The **Neoveli Stock Exchange Bombing** was a truck bombing outside the [[Neoveli Stock Exchange]] in [[Neoveli]], [[Dripia]], on 30/05/1955. It killed 43 people. The attack was attributed to the [[Nevirs]] and was the deadliest single attack of the [[Ant wars]] period. The truck was traced to [[Duolij]], in [[Postia]], and the bombing prompted Senator [[Halios Dravda]] to draft the bill that became the [[Dravda Act]].
 
 ## Background
 
 > *Main article: [[Nevirs]]*
 
-By 1955 the [[Nevirs]] were conducting bombings and assassinations in [[Postia]], where the eossaj violence of the [[Ant wars]] was already continuous. The Neoveli attack took the campaign outside Postia.
+By 1955 the Nevirs were conducting bombings and assassinations in [[Postia]], where the eossaj violence of the Ant Wars was already continuous. The Neoveli attack was carried out outside Postia.
 
 ## The bombing
 
-The bomb detonated inside the [[Neoveli Stock Exchange]] at 10:33 on 30/05/1955, twenty minutes after the opening bell, and killed 43 people. The exchange opens at 10:13, the minute of [[Armadesh Versij|Versij's]] execution.
+The bomber drove a truck loaded with explosives made from agricultural fertilizer to the exchange, parked it in the street beside the building and left on foot. It detonated at 10:33, twenty minutes after the exchange's 10:13 opening bell, and killed 43 people.
 
-%% TODO: the device, the bomber and the bomber's fate, and the Nevir letter that claimed the attack are unestablished. %%
+The bomber was never identified. Investigators established that the truck had been stolen in Duolij.
+
+%% TODO: the Nevir letter that claimed the attack is unestablished. %%
 
 ## Aftermath
 
-The bombing gave the Nevir campaign national attention. [[Halios Dravda]], a senator for [[Postia]], drafted a bill of federal intervention in Postia in response. Dravda was killed by a Nevir later in 1955, and the bill passed in 1956 as the [[Dravda Act]], which founded the federal security agency [[Frumentarze]].
+The tracing of the truck to Duolij tied the attack in Neoveli to the violence in Postia. [[Halios Dravda]], a senator for Postia, drafted a bill of federal intervention in the state. Dravda was killed by a Nevir letter bomb in [[Soiteslaj]] on 17/10/1955, and the bill passed in 1956 as the [[Dravda Act]], which founded the federal security agency [[Frumentarze]].
 
 ## See also
 
@@ -51,13 +53,13 @@ The bombing gave the Nevir campaign national attention. [[Halios Dravda]], a sen
 - [[Dravda Act]]
 - [[Neoveli Stock Exchange]]
 - [[Neoveli]]
+- [[Duolij]]
 - [[Filevir Matri]]
 
 %% FLAGS:
-- Date 30/05/1955 and detonation at 10:33, twenty minutes after the opening bell: session canon, 09/10/2026.
-- Death toll of 43: from [[Filevir Matri]], which predates this article.
-- "Deadliest of the Ant Wars period": the [[New Duloc riot (1958)]] killed several hundred, but as a riot rather than an attack. Recorded here as the deadliest attack.
+- Date 30/05/1955, detonation at 10:33, the truck bomb parked in the street and abandoned, fertilizer-based explosive, the truck stolen in Duolij, and the bomber never identified: session canon, 09/10/2026.
+- Death toll of 43: from [[Filevir Matri]], which predates this article. Kept by author ruling of 09/10/2026.
+- "Deadliest single attack": the [[New Duloc riot (1958)]] killed several hundred, but as a riot rather than an attack.
 - era: republican-era only. The attack predates the continental-divide era (1957).
-- [[Frumentarze]] is to be renamed by author decision.
-- Links to pages that do not exist: [[Frumentarze]]. [[Halios Dravda]] and [[Dravda Act]] written this session.
+- [[Frumentarze]] is to be renamed by author decision; no article exists under the current name.
 %%

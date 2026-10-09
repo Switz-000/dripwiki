@@ -83,7 +83,7 @@ The Nevirs conducted bombings of buildings and cars and assassinations of politi
 
 | Date | Attack | Place | Notes |
 | --- | --- | --- | --- |
-| 30/05/1955 | [[Neoveli Stock Exchange Bombing]] | [[Neoveli]] | 43 killed |
+| 30/05/1955 | [[Neoveli Stock Exchange Bombing]] | [[Neoveli]] | Truck bomb; 43 killed |
 | 17/10/1955 | Assassination of [[Halios Dravda]] | [[Soiteslaj]] | Letter bomb opened in his Senate office |
 | 19/05/1956 | [[Matri assassination attempt (1956)]] | [[Duolij]] | Car bomb, failed to detonate |
 | 30/09/1957 | [[Matri assassination attempt (1957)]] | [[Nikuria]] | Filed as a Nevir attack; the attacker had no connection to the Nevirs |

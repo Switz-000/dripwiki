@@ -47,7 +47,7 @@ The **Neoveli Stock Exchange** is the primary securities market of [[Susia]], ba
 
 > *Main article: [[Neoveli Stock Exchange Bombing]]*
 
-On 30/05/1955 a bomb attributed to the [[Nevirs]] detonated in the exchange at 10:33, twenty minutes after the opening bell, killing 43 people.
+On 30/05/1955 a truck bomb attributed to the [[Nevirs]], parked in the street beside the exchange, detonated at 10:33, twenty minutes after the opening bell, killing 43 people.
 
 ## Culture
 

@@ -21,7 +21,7 @@ The **Dravda Act** is a [[Susia|Susian]] federal law passed in 1956 and named af
 
 > *Main article: [[Ant wars]]*
 
-The [[Nevirs]] bombed the [[Neoveli Stock Exchange]] on 30/05/1955, killing 43 people. [[Postia]] was then in the second year of the [[Ant wars]], and its governor, [[Filevir Matri]], was conducting the state's response through the [[Postian National Guard]] and his own administration.
+The [[Nevirs]] bombed the [[Neoveli Stock Exchange]] on 30/05/1955, killing 43 people, with a truck that investigators traced to [[Duolij]]. [[Postia]] was then in the second year of the [[Ant wars]], and its governor, [[Filevir Matri]], was conducting the state's response through the [[Postian National Guard]] and his own administration.
 
 [[Halios Dravda]], a senator for Postia from the [[Pačese ro Virspruje]], drafted a bill of federal intervention in the state. On 17/10/1955, while the bill was in committee, he was killed by a Nevir letter bomb opened in his Senate office in [[Soiteslaj]]. The investigation fell to the federal government, which had no body charged with political violence, and produced no suspect.
 
