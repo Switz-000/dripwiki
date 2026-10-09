@@ -30,7 +30,7 @@ meta:
   image: null
 ---
 
-The **Ant Wars** were a period of political violence in [[Postia]] between 1954 and 1959, during the early years of the [[Susia|Susian]] republic. The conflict was driven by eossajs, party-affiliated paramilitary organizations that fought in the streets of Postia's cities, and by the [[Nevirs]], an anarchist current conducting bombings and assassinations under a single pseudonym. The period ended with a [[Supreme Court of Susia|Supreme Court]] ruling declaring eossajs unconstitutional and the subsequent crackdown overseen by governor [[Filevir Matri]]. The name derives from eossaj, the Susian term for ant nest.
+The **Ant Wars** were a period of political violence in [[Postia]] between 1954 and 1959, during the early years of the [[Susia|Susian]] republic. The conflict was driven by eossajs, party-affiliated paramilitary organizations that fought in the streets of Postia's cities, and by the [[Nevirs]], an anarchist current conducting bombings and assassinations under a single pseudonym. The period ended with a [[Supreme Court of Susia|Supreme Court]] ruling declaring eossajs unconstitutional and the subsequent crackdown overseen by governor [[Filevir Matri]]. Around 3,000 people were killed over the period. The name derives from eossaj, the Susian term for ant nest.
 
 ## Background
 
@@ -99,6 +99,7 @@ The [[Movement of New Susians]] suffered a lasting deterioration in its position
 - [[Continental Divide]]
 
 %% FLAGS:
+- Death toll of around 3,000: author ruling, 09/10/2026. An estimate for the whole period, including the [[New Duloc riot (1958)]] and the [[Neoveli Stock Exchange Bombing]]. No breakdown established.
 - Period dates 1954–1959: session canon. Start at constitutional ratification and eossaj formation; end at the post-ruling crackdown.
 - Mandatory military service: used here to reinforce the militia-capacity constitutional argument. The reinstatement was previously dated 1959, which placed it before [[Serčev Fimžer]] took office in 1962. Resolved by ruling: the date moves to 1964 and the attribution to Fimžer stands. [[Military Service in Susia]], [[Susia]] and [[Fortress complex]] updated.
 - Knight leader assassination: triggering event of the riot, carried out by a Nevir per session canon of 09/10/2026. Victim Rǎžňel Tertev, 11/02/1958; killer unnamed.
