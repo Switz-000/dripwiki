@@ -96,6 +96,14 @@ The Nevirs conducted bombings of buildings and cars and assassinations of politi
 
 The Neoveli bombing led to the [[Dravda Act]] of 1956, which founded the federal security agency [[Frumentarze]]. In [[Postia]], the Nevirs supplied the justification for [[Filevir Matri|Matri's]] crackdown, which reached unions, syndicalist organizations, the eossajs and the [[Movement of New Susians]].
 
+## Operation Nevirkroch
+
+Letters signed Nevir continued to appear occasionally after the Ant Wars ended in 1959. In 1967, [[Filevir Matri]], then [[Secretary of Justice]], launched Operation Nevirkroch through the federal security agency created by the Dravda Act. The operation made mass arrests in several states and was announced as the dismantling of the Nevir network.
+
+No Nevir letter was published after the operation. Since 1956 the letters had passed to the police before reaching the press. Whether any were written after 1967 is not recorded.
+
+%% TODO: the scale of the operation, the states it reached, and the number of arrests are unestablished. %%
+
 ## See also
 
 - [[Ant wars]]
@@ -105,6 +113,7 @@ The Neoveli bombing led to the [[Dravda Act]] of 1956, which founded the federal
 - [[Matri assassination attempt (disambiguation)]]
 - [[Urgiri Tečlan]]
 - [[Filevir Matri]]
+- [[Secretary of Justice]]
 - [[Ti-ka!]]
 - [[Syndicalism]]
 - [[Postia]]
@@ -113,6 +122,8 @@ The Neoveli bombing led to the [[Dravda Act]] of 1956, which founded the federal
 - Replaces the Minutemen link used across the vault until 09/10/2026. The renaming is session canon; "Minutemen" is retired.
 - Name, singular signature, plural as an outside label, motto, outside "anarcho-syndicalist" label, lone actors, no structure: session canon, 07/10/2026 to 09/10/2026.
 - founded and dissolved left blank. The first Nevir letter is undated, and the current never formally ended.
+- Operation Nevirkroch, 1967, under Matri as Secretary of Justice, through the Dravda Act agency, with no Nevir letter published afterward: session canon, 09/10/2026. The name is the author's. The year 1967 was proposed in session and not contested.
+- Nevir and Nevirkroch are not yet in [[Susian lexicon by root]].
 - political_position left blank: not established.
 - [[Frumentarze]] is to be renamed by author decision; the name of the agency is pending.
 - Further attacks proposed in session (a rail station, the Senate gallery, a harbor ship, a crolball final) are not canon and are not recorded.

@@ -199,7 +199,7 @@ Matri survived three attempts on his life as governor. On 19/05/1956 a bomb plac
 
 ## Senate and Federal Career (1962–1974)
 
-In 1962 Matri couldn't run for another term as governor of Postia so he ran and won the election to the [[Susian Senate]] representing [[Postia]]. In 1966, Fimžer appointed him [[Secretary of Justice]], a position he held through the remainder of Fimžer's second term. As Secretary of Justice he enforced the [[Federal Loyalty Act]] of 1961 at the national level. He returned to the Senate in 1970.
+In 1962 Matri couldn't run for another term as governor of Postia so he ran and won the election to the [[Susian Senate]] representing [[Postia]]. In 1966, Fimžer appointed him [[Secretary of Justice]], a position he held through the remainder of Fimžer's second term. As Secretary of Justice he enforced the [[Federal Loyalty Act]] of 1961 at the national level, and in 1967 he launched [[Nevirs#Operation Nevirkroch|Operation Nevirkroch]], a national operation against the [[Nevirs]] announced as the dismantling of their network. No Nevir letter was published after it. He returned to the Senate in 1970.
 
 During the Sienes years, Matri was a consistent critic of [[Ergagério Sienes]]' [[Sienes Doctrine|détente policy]] toward [[Confia]], arguing that the approach was strategically counterproductive. The outcome of the [[Sutsa-Fuhu Civil War]] in 1973, which Susia did not contest, reinforced his position within the [[Susian Democratic Union]].
 
@@ -273,6 +273,7 @@ FLAGS:
 - "Yavna Matri" (spouse): named in frontmatter of the existing article. No vault file confirmed for this person.
 - University of Duolij: referenced in existing frontmatter. No vault article confirmed. Stub candidate.
 - [[Nevirs]] replaces the retired Minutemen link. "Anarcho-syndicalist" is attributed to his government, per session canon of 09/10/2026: the Nevirs were anarchists and the label was applied from outside.
+- Operation Nevirkroch, 1967: session canon, 09/10/2026; full account in [[Nevirs]].
 - The three attempts, their dates, his enforcement of the Federal Loyalty Act as Secretary of Justice, and the zigzag habit dating from 1957: session canon, 07/10/2026 to 09/10/2026.
 - RESOLVED 09/10/2026: the summary gave the presidency as beginning in 1984. Author ruling: 1983, matching the body and titles.
 - Ditanian Intervention: linked in existing article. Stub candidate, no body confirmed.
