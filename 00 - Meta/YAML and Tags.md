@@ -378,8 +378,8 @@ banned from contesting one is dissent.
 
 **`politics/dissent`** — opposition outside ordinary politics: protest,
 repression, exile, banned organisations, political violence.
-*Examples:* [[Matri assasination attempt (1958)]], [[Urgiri Tečlan]],
-[[Knights of the Republic]], [[Moviment of New Susians]]
+*Examples:* [[Matri assassination attempt (1958)]], [[Urgiri Tečlan]],
+[[Knights of the Republic]], [[Movement of New Susians]]
 *Not* `politics/revolution`, which is the attempt to replace the order rather
 than resist it.
 
@@ -453,7 +453,7 @@ treated.
 [[Tekurubićni Patrol]]
 
 **`society/immigration`** — movement of people across borders and its politics.
-*Examples:* [[Ant wars]], [[Moviment of New Susians]], [[New Duloc riot]]
+*Examples:* [[Ant wars]], [[Movement of New Susians]], [[New Duloc riot (1958)]]
 
 **`society/urbanism`** — cities as built and planned things: growth, housing,
 metropolitan development.

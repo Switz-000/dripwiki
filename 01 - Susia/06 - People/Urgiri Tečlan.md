@@ -4,7 +4,7 @@ native_name: Urgiri Tečlan
 aliases:
 summary: Susian anarchist affiliated with the Minutemen who attempted to assassinate Postian governor Filevir Matri on 14/11/1958. He was killed at the scene.
 known_for:
-  - item: "[[Matri assassination attempt]]"
+  - item: "[[Matri assassination attempt (1958)]]"
     notes: Perpetrator
   - item: "[[Minutemen]]"
     notes: Affiliated member
@@ -53,7 +53,7 @@ Little is reliably documented about Tečlan's life. He was 31 years old at the t
 
 ## The assassination attempt
 
-> *Main article: [[Matri assassination attempt]]*
+> *Main article: [[Matri assassination attempt (1958)]]*
 
 On 14/11/1958, Matri addressed an event at the Duolij Civic Hall announcing the construction of a highway connecting [[Duolij]] and [[Nikuria]]. Tečlan attended posing as a member of the press, having concealed a firearm within the shell of a camera. The press pool's position near the podium placed him within one to two meters of Matri.
 
@@ -67,7 +67,7 @@ The official record offered no platform for Tečlan's account, and the absence o
 
 ## See also
 
-- [[Matri assassination attempt]]
+- [[Matri assassination attempt (1958)]]
 - [[Filevir Matri]]
 - [[Minutemen]]
 - [[Ant wars]]
