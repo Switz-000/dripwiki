@@ -4,6 +4,7 @@ name: Armotist Democratic Party
 native_name: Armockei Ljudewlaššen Parcesse
 abbreviation: ALjP
 aliases:
+  - ALjP
 status: Defunct
 founded_by:
   - "[[Boris Serec]]"
@@ -28,9 +29,10 @@ ideology:
 political_position:
   - Centre-right
 wings:
-  -
+  - 
 area_served:
 international_affiliation:
 national_affiliation:
 regional_affiliation:
 ---
+The **Armotist Democratic Party** (Confian: Armockei Ljudewlaššen Parcesse/Армоцкей Људевлашшен Парцессе)
