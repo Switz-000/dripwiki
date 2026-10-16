@@ -21,7 +21,7 @@ meta:
 **[[Constitution Day (Confia)|Constitution Day]]**: Celebrates the ratification of the [[2008 Constitution]].
 **[[Resistance Day]]**: Known officially as the Day of Resistance against Tyranny. Celebrates the [[Carlotopolis Uprising]]. On the national calendar, but celebrated primarily in [[Karlotopol']].
 **Election day**. Election days are a national holiday in Confia. Electoral silence must be observed during it and the last two days.
-**[[Day of Confian Artistry]]**: Celebrates the life of Confia's national poet [[Fata Tojenna]], whose birthday also coincides with the theatrical release of [[Across the Banks of the Lasman (1980)]].
+**[[Day of Confian Artistry]]**: Celebrates the life of Confia's national poet [[Fata Tojenna]], whose birthday also coincides with the theatrical release of [[As I Trod Your Soil (1980)]].
 ## Former holidays:
 
 **[[Revolution Day]]**: Celebrated the [[Bayonet Revolution]] that overthrew the [[Paulowić regime]]. Replaced in 2002 with [[National Democracy Day]]. 23/04.
