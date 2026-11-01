@@ -22,7 +22,7 @@ tags:
 meta:
   stub: false
   verified: false
-  image: null
+  image: "![[New Duloc riot 1958.jpg]]"
 ---
 
 The **New Duloc riot** was a period of sustained civil violence in [[New Duloc]], [[Postia]], beginning on 11/02/1958. Triggered by the assassination of [[Rǎžňel Tertev]], a leader of the [[Knights of the Republic]], during an ongoing labor standoff, the riot caused several hundred deaths over several days and prompted [[Filevir Matri|Matri's]] state government to declare a state of emergency. It was the central event of the [[Ant wars]] and precipitated the [[Supreme Court of Susia|Supreme Court]] ruling that declared eossajs unconstitutional.
@@ -40,6 +40,8 @@ At the time of the riot, a labor standoff was already underway at the New Duloc 
 The riot was triggered on 11/02/1958 by the assassination of Rǎžňel Tertev, a leader of the [[Knights of the Republic]], who was shot in his car by a Nevir. The Knights mobilized across the city in response. Police were redeployed from the dock standoff to address the Knight mobilization, and the reduction in police presence at the docks caused the standoff there to collapse into open violence. Within hours the two situations had merged into a general breakdown of order across New Duloc.
 
 The ensuing days saw widespread looting and arson. With police withdrawn from a perimeter around the immigrant districts, the [[Movement of New Susians]] engaged directly with rioting crowds, including union workers. The movement's membership, many of them veterans of the [[Confian secession war]], held their neighborhoods on a defensive basis while surrounding areas burned. Casualties in the defended districts were significantly lower than elsewhere in the city, a contrast that was visible once order was restored.
+
+![[New Duloc riot 1958.jpg|Members of the Movement of New Susians at a barricade on the edge of a defended district, New Duloc, February 1958]]
 
 Several hundred people were killed over the course of the riot.
 
@@ -70,4 +72,5 @@ Matri used the ruling as the basis for a comprehensive crackdown across syndical
 - Postian National Guard: linked. No dedicated vault article confirmed. Stub candidate.
 - Supreme Court of Susia: linked. No dedicated vault article confirmed. Stub candidate. No case name established for the eossaj ruling.
 - [[Nevirs]] replaces the retired Minutemen link. The syndicalist eossaj is named as the [[Democratic Laborist Party|Democratic Laborists']] street wing per session canon of 09/10/2026; the eossaj itself is unnamed.
+- Photograph: added 01/11/2026. The armbands worn by the Movement of New Susians, the 1950s industrial look of New Duloc (wide streets, trolley wires, brick commercial blocks, a city bus), and the shop signs USTARAS and LERČAV were set by you from the image. The vault does not otherwise describe the Movement's identifying marks or the city's appearance. Photographer and agency unnamed.
 %%

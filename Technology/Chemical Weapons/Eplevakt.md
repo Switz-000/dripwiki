@@ -24,7 +24,7 @@ tags:
 meta:
   stub: false
   verified: false
-  image:
+  image: "![[Eplevakt 1978.jpg]]"
 ---
 
 | Producer designation | Eplevakt 11                                                         |
@@ -61,6 +61,8 @@ Neither designation corresponded to a fixed formulation. The works held no speci
 ## Production
 
 Production ran at the same works throughout, using the plant, staff and accounting of the pesticide line. The product sheet was never amended. Shell manifests issued through 1976 and 1977 describe the contents of consignments by the chemical name of the fungicide the Eplevakt line had carried before 1976.
+
+![[Eplevakt 1978.jpg|Spray drums and artillery shells under the Eplevakt 11 designation, photographed during the examination of the works records, 1978]]
 
 ## Employment
 
@@ -121,4 +123,6 @@ The kapioggean product name and the Confian field name were coined independently
 - Casualty figures, the post-war commission and the continental chemical weapons
   convention are all referenced from [[Sweet Apple Incidents]] and are not stated
   here, per one fact one place. The commission and the convention are both
-  uncoined. %%
+  uncoined.
+- Photograph: added 01/11/2026. It implies that filled shells were still in the works' storehouse when the 1978 commission examined it; the vault does not otherwise say that any stock survived the war. The grey-green paint, the 200-litre drums and the stencil style on drums and shells were set from the image. Photographer unnamed.
+%%
