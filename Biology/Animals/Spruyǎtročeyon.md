@@ -16,7 +16,7 @@ meta:
 
 The **Spruyǎtročeyon** (*Bromačij Spruyǎtroch*) is the largest wild bovine on the [[Dripstanian Continent]] and the larger of the two bison species native to [[Susia]]. Its name in [[Susian language|Susian]] translates approximately as "absolute sovereign of the plains". Found along the margins of the [[Pounnun Desert]] and in the parkland of the eastern interior, it has been the prestige game of the [[Cericeiro|Cericeiros]] since the [[Dripstanian Empire|imperial period]].
 
-![[Spruyatroceyon Varnec.png|Photograph by L. Varneč, Donetruže]]
+![[Spruyatroceyon Varnec.png|A Cericeiro with a hunted Spruyǎtročeyon, Troli Province, c. 1892]]
 
 Mature bulls weigh 1,600 to 2,000 kg and stand approximately 2.4 to 2.5 m at the shoulder, with horn spreads of 1.8 to 2.4 m. Cows weigh 900 to 1,150 kg. The species is distinguished from the [[Susian wild bison]] by its larger body, more pronounced shoulder hump, and significantly longer horns, which curve outward rather than upward. The coat is dark brown across the body and lighter on the forequarters, with longer guard hair than its smaller relative.
 
@@ -40,6 +40,6 @@ The Spruyǎtročeyon has no commercial ranching presence. Its size, defensive be
 - Federal permit and seasonal restriction system: implied by the canon-established conservation context (Pounnun FEZ presence, Cericeiro Heritage Week) but the specific regulatory regime is not yet articulated in any vault article. Stub candidate for a hunting regulation article when ranching/wildlife law is developed.
 - meta.stub left implicit: frontmatter is intentionally minimal per the [[Duolij lobster]] and [[Galil lobster]] precedent. If the Biology/Animals format is migrated to a richer frontmatter, this article migrates with it.
 
-- Photograph by L. Varneč, Donetruže: caption taken only from the card. The date, the subject, and who L. Varneč is are not yet in canon.
+- Photograph (card credit: L. Varneč, Photographer, Donetruže): date c. 1892 and "Troli Province" set by you on 01/11/2026 from the photo's look. The hunter is unnamed, and L. Varneč is not yet in any other article.
 
 %%
