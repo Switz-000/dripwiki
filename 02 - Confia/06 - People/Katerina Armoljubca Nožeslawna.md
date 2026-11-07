@@ -16,7 +16,7 @@ nationality:
 enhanced: false
 birth:
   year: 1946
-  city: "[[Saint Meshon]]"
+  city: "[[St Meshon]]"
   state: "[[Karlotopol']]"
   country: "[[Dripstanian Empire]]"
 death:

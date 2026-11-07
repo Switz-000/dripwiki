@@ -347,7 +347,7 @@ meta:
 
 ## 1900
 
-- **Birth**: [[Eriežera Lensekowina]] born in [[Saint Eriogala]], [[Koštanože]], [[Dripstanian Empire]]
+- **Birth**: [[Eriežera Lensekowina]] born in [[St Eriogala]], [[Koštanože]], [[Dripstanian Empire]]
 
 ## 1901
 
@@ -355,7 +355,7 @@ meta:
 
 ## 1909
 
-- **Birth**: [[Lorelaj Paulowić]] born in [[Saint Eriogala]], [[Koštanože]], [[Dripstanian Empire]]
+- **Birth**: [[Lorelaj Paulowić]] born in [[St Eriogala]], [[Koštanože]], [[Dripstanian Empire]]
 - **Founded**: [[Nayotai]] in [[Duolij]]
 
 ## 1911
@@ -422,7 +422,7 @@ meta:
 
 ## 1946
 
-- **Birth**: [[Katerina Armoljubca Nožeslawna]] born in [[Saint Meshon]], [[Karlotopol']], [[Dripstanian Empire]]
+- **Birth**: [[Katerina Armoljubca Nožeslawna]] born in [[St Meshon]], [[Karlotopol']], [[Dripstanian Empire]]
 
 ## 1948
 
@@ -878,7 +878,7 @@ meta:
 
 ## 2012
 
-- **Death**: [[Senjap Kunsekowić]] died in [[Saint Feriol]], [[Koštanože]], [[Confia]] (Natural causes)
+- **Death**: [[Senjap Kunsekowić]] died in [[St Feriol]], [[Koštanože]], [[Confia]] (Natural causes)
 - **War ends**: [[Bershadi Civil War]]
 
 ## 2013

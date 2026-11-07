@@ -8,7 +8,7 @@ capital: "[[Carlotopolis]]"
 largest_city: "[[Carlotopolis]]"
 cities:
   - "[[Carlotopolis]]"
-  - "[[Saint Meshon]]"
+  - "[[St Meshon]]"
   - "[[Jagansk]]"
 population_2080:
 population_2000:

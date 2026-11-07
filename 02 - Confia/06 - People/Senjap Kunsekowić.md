@@ -28,7 +28,7 @@ birth:
 
 death:
   year: 2012
-  city: "[[Saint Feriol]]"
+  city: "[[St Feriol]]"
   state: "[[Koštanože]]"
   country: "[[Confia]]"
   cause: Natural causes

@@ -4,7 +4,7 @@ country: "[[Confia]]"
 state_name: Koštanože
 demonym: Koštanožan
 state_animal:
-capital: "[[Saint Feriol]]"
+capital: "[[St Feriol]]"
 largest_city: "[[Imgospalje]]"
 cities:
 population_2080:

@@ -6,7 +6,7 @@ company_type: Public corporation
 founded: 1883
 founded_by:
 founding_place:
-headquarters: "[[Saint Meshon]]"
+headquarters: "[[St Meshon]]"
 market_cap:
 yarnojte: false
 yarnojte_granted:
