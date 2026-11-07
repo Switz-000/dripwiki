@@ -1,5 +1,7 @@
 ---
 type: city
+country: "[[Confia]]"
+state: "[[Legrinpija]]"
 summary:
 aliases:
   -

@@ -1,7 +1,7 @@
 ---
 type: city
 country: "[[Confia]]"
-state:
+state: "[[Žošewoš]]"
 population_2080: 1
 population_2000:
 population_1970:
