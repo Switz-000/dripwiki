@@ -1,10 +1,10 @@
 Today, the sun decided to scrape my scales. It has made my limbs numb, my back red and my eyes swollen. Worst of all, my socks are wet and my feet itch.
 
-How could I describe the state I am in as anything but one of the worst conceivable? If men and fish were made separate, what must I have done to become like one? I could swim the world as I am, but I hear duty calling inland. 
+How could I describe the state I am in as anything but one of the worst conceivable? If men and fish were made separate, what must I have done to become like one? I could swim the world as I am, but I still hear duty calling inland.
 
-To take a fish of the sea is one arduous step, many dedicate their lives to search my home for food. Yet, I have been summoned by one of the landsmen to stand before a room of many. How can they summon me, without me knowing the subject of these discussions?
+To take a fish from the sea is one arduous step; many dedicate their lives to searching my home for food.
 
-As I checked my pockets, I found a letter, folded exactly six times.  It was obvious that the man who printed this couldn't even fold a seventh time. He lacks any authority, unable to impose his will upon this mere paper.
+As I check my pockets, I find a letter, folded exactly six times. It is obvious that the man who printed this could not even fold a seventh time. He lacks any authority, unable to impose his will upon this mere paper.
 
 ```
 Techno-Federative Republic of Susia
@@ -19,43 +19,52 @@ For any questions, call the State Information Line +01 (32) 5719-9499
 DO NOT APPEAR AT YOUR CITY COUNCIL UNTIL SUMMONED AND SPECIFICALLY INSTRUCTED TO DO SO!
 ```
 
-I was in complete awe. The republic itself drafted a letter for me. What could have I done to be officially called by the state to stand before a trial? And they asked me to dial? How can I even defend myself over the phone or through the internet? Perhaps I judged the man who folded this too harshly, I am at war with him and now and soon it's his turn to judge me.
+I am in complete awe. The republic *itself* has drafted a letter for me. What could I have done to be officially called by the state to stand before a trial? How can they summon me without my knowing the subject of these discussions?
 
-Time was passing by, I was lying ashore trying to process all of the different emotions and worries that poured and emptied my head. For my sun-related problems were not enough, now both nature and landmen violently harass my existence. As i got up and took a step forward, I noticed my shoes weren't correctly placed, as they were supposed to be, guarding my feet from the sun-kissed sand.
+And they ask me to dial? How am I supposed to defend myself over the phone or through the internet? Perhaps I judged the man who folded this too harshly. I am at war with him and soon it is his turn to judge me.
 
-I found my shoes uphill. They were appropriate for my feet. The left one was a bit tighter than the right one, maybe my left foot was too swollen. The little pieces of sand in it and the hole that made my toe stick out didn't help either.
+Time passes. I lie ashore, trying to process all the different emotions and worries that pour in and empty my head. As if my sun-related problems were not enough, now both nature and landmen violently harass my existence. As I get up and take a step forward, I notice that my shoes are not where they are supposed to be, guarding my feet from the sun-violated sand.
+
+I find my shoes uphill. They are appropriate for my feet. The left one is a bit tighter than the right one; perhaps my left foot is too swollen. The little grains of sand in it, and the hole that lets my toe stick out, do not help either.
 
 ---
-By the shore, I see a little man, no older than twelve, digging a small hole. His knees pressed against the scalding sand, clearly determined to accomplish this futile and ultimately doomed goal.
 
-I approach him and say: "Toil, toil, little landman! For this world is always short of sea! It is in your sweat, it is in your tears! You were born inland, but don't forget, everything the sea creates, it takes back!"
+By the shore, I see a little man, no older than twelve, digging a small hole. His knees are pressed against the scalding sand; he is clearly determined to achieve a futile and ultimately doomed goal.
 
-He looks at me, unglamorously, dissecting me with his eyes and replies: "Are you the delivery man? My dad is waiting for his beer." I replied: "What? Do you take me for a delivery man? I have lectured you on the problems of the real and the metaphysical, and you scrub me off with such meaningless indifference? The tide will come, and it destroy everything you've built, do you not understand it?" the boy just looks at me and says: "I like digging holes".
+I approach him and say: "Toil, toil, little landman! For this world is always short of sea! It is in your sweat, it is in your tears! You were born inland, but do not forget: everything the sea creates, it takes back!"
 
-I did not know what to reply, I turned back, and retreated. I kept walking by the shore, reading the letter over and over again. The scalding heat was baking my head, yet I seemed closer and closer to figuring the message.
+He looks at me unglamorously, dissecting me with his eyes, and replies: "Are you the delivery man? My dad is waiting for his beer."
 
->  You have been chosen from many citizens to serve as a volunteer
->  You have 15 days to access the website
->  Answer the questions honestly
->  Follow the instructions on the site
+I reply: "What? Do you take me for a delivery man? I have lectured you on the problems of the real and the metaphysical, and you scrub me off with such meaningless indifference? The tide will come, and it will destroy everything you have built. Do you not understand?"
 
-I saw across the street a bench in the shade. Tempting. The strong winds, however, made me afraid of losing this important paper of mine. While crossing the street, I closed my eyes, and repeated what I had gathered from it.
+The boy just looks at me and says: "I do. I like digging holes."
 
->  I was chosen
+I do not know what to reply. I turn back and retreat. I keep walking by the shore, reading the letter over and over again. The scalding heat is baking my head, yet I seem closer and closer to figuring out the message.
+
+>  You have been chosen from a random selection of citizens to serve as a potential volunteer
+>  You have fifteen days to access the official website at ttj.orlitia.su
+>  You should follow the instructions on the site
+>  You should answer the questions honestly
+
+---
+
+I see across the street a bench in the shade. Tempting. The strong winds, however, make me lose this important paper of mine. While crossing the street, I close my eyes and repeat what I have gathered from it.
+
+>  I was chosen from a random selection of citizens
 >  Some citizens serve as volunteers to the state
 >  I have 15 days to answer the questions honestly
 >  I need to follow the instructions on the site
 
-As I finish repeating my mission, I hear the screech of tires. I turn and some sort of a white land vessel stopped in front of me. How had I not heard this three-ton machine sailing towards me? I turned around and knocked on the captain's window. He didn't reply. As I squint my eyes through the black-tinted glass, I realized there was no one in the tight cabin. 
+As I finish repeating my mission, I hear the violent screech of a whale. I turn, and some sort of white land vessel has stopped in front of me. How have I not heard this three-ton machine sailing towards me? I knock on the captain's window. He does not reply. I squint through the black-tinted glass, but I cannot see anyone inside the tight cabin. 
 
-Before I could even act in some way, the white vessel accelerated toward the horizon. Was the state developing two-ton silent death machines? What else could they be hiding? 
+Before I can act at all, the white vessel accelerates toward the horizon. Is the state developing three-ton silent death machines? What else could they be hiding?
 
-As I sat in the bench, I finally had a break from the wicked fireball in the sky. I can now think about what I should do next. 
+As I sit on the bench, I finally have a break from the wicked fireball in the sky. Now I can think about what I should do next.
 
-Inside my pocket, I reach for a small crumpled box
+Out of habit, I reach into my pocket for the letter. My fingers find only a small, crumpled box.
 
 ```
-FRONT LABLEL
+FRONT LABEL
 
 Zertepton, L-V 1 mg
 
@@ -63,7 +72,7 @@ Sold only with medical prescription. The abuse of this drug may cause addiction
 
 (A white lily with green stem and faint iris-purple throat serves as the company's logo in the bottom right corner)
 
-BACK LABLEL
+BACK LABEL
 
 May make you sleepy or dizzy. Do not mix with alcohol. Use care when operating vehicle, vessel or machinery. Swallow whole. Do not chew or crush. 
 Don't worry, this is the same medicine you have been getting.
@@ -78,9 +87,34 @@ Lischev-Verene Biomedical Corporation
 Garden of Latice Free Economic Zone, Sužielaj, Susia
 ```
 
-The mission the great republic had endowed me,
+Even the landmen's boxes speak to me as if they know me. I put it back in my pocket.
 
->  I was chosen
->  Citizens serve the state
+The paper is lost to the wind, but the mission the great republic has endowed me with is not. I recite it from memory:
+
+>  I was chosen from a selection of many citizens
+>  Some citizens serve the state
 >  In 15 days I will be questioned
 >  I need to follow the instructions honestly
+
+---
+
+The more I ponder, the more I sense judgement day looming. I continue my expedition into the heartland, into the landmen’s nest.
+
+My sore feet keep marching across the bridge. Its planks are sturdy concrete, a material of almost religious significance to bipeds. It is made of millions of tiny grains of sun-violated sand, extracted from the border of my home.
+
+By the metal fence, I see a man smoking. He offers me a cigarette. Never accept gifts from landmen. They will first flatter you, then sell you something. Do not mistake this for kindness.
+
+"Nice view, huh?" he says. He does not look at my twisted, disfigured face, not even once.
+
+I approach the railing and stare down, observing a river that leads to my home.
+
+The landman continues: "Y'know, when I was younger, me and my buddies would come down here..."
+
+I listen to his deep voice and his dry coughs of coal fumes, but I struggle to understand what he says.
+
+"(...) we played stupid games, y'know, we would get bricks, and we would throw 'em off the bridge at the kayaks down there. But anyways, Bejňar threw a brick and it fell ten stories onto a tourist's head and it just went SPLAT! Y'know? But that's what we do over here!"
+
+I quietly imagine the scene unfolding. The landmen would be more dangerous if they were not infighting most of the time. 
+
+"You should've seen it! The city took a week to clean up the mess!" he says, without a single note of remorse in his voice. It is probably the closest thing to war that a beast who craves it will ever see.
+
