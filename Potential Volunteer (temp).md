@@ -97,3 +97,7 @@ The paper is lost to the wind, but the mission the great republic has endowed me
 >  I need to follow the instructions honestly
 
 ---
+
+The more I ponder the more I sense judgement day looming, I continue my expedition into the heartland, into the lendmen's nest.
+
+My feet sore feet continue march
