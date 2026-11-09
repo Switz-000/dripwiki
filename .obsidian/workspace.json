@@ -35,7 +35,8 @@
               "title": "Potential Volunteer (temp)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,10 +215,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f2d289a7b55fd87",
+  "active": "296241b89c10ce0b",
   "lastOpenFiles": [
-    "Potential Volunteer (temp).md",
     "01 - Susia/08 - Documents/Potential volunteer.md",
+    "Potential Volunteer (temp).md",
     "02 - Confia/06 - People/Eriežera Lensekowina.md",
     "02 - Confia/02 - Geography/Cities/Koštanože/Wastonna of the Hills.md",
     "01 - Susia/06 - People/Urgiri Tečlan.md",
