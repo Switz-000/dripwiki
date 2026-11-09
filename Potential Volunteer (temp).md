@@ -101,3 +101,5 @@ The paper is lost to the wind, but the mission the great republic has endowed me
 The more I ponder, the more I sense judgement day looming. I continue my expedition into the heartland, into the landmen’s nest.
 
 My sore feet keep marching across the bridge. Its planks are sturdy concrete, a material of almost religious significance to bipeds. It is made of millions of tiny grains of sun-violated sand, extracted from the border of my home.
+
+By the metal fence, I see a man smoking; He offers me a cigarette. Never accept gifts from landmen. They will first flatter you, 
