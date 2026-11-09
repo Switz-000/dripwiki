@@ -26,3 +26,11 @@ And they ask me to dial? How am I supposed to defend myself over the phone or th
 Time passes. I lie ashore, trying to process all the different emotions and worries that pour in and empty my head. As if my sun-related problems were not enough, now both nature and landmen violently harass my existence. As I get up and take a step forward, I notice that my shoes are not where they are supposed to be, guarding my feet from the sun-violated sand.
 
 I find my shoes uphill. They are appropriate for my feet. The left one is a bit tighter than the right one; perhaps my left foot is too swollen. The little grains of sand in it, and the hole that lets my toe stick out, do not help either.
+
+---
+
+By the shore, I see a little man, no older than twelve, digging a small hole. His knees pressed against the scalding sand, clearly determined to accomplish this futile and ultimately doomed goal.
+
+I approach him and say: "Toil, toil, little landman! For this world is always short of sea! It is in your sweat, it is in your tears! You were born inland, but don't forget, everything the sea creates, it takes back!"
+
+He looks at me, unglamorously, dissecting me with his eyes and replies: "Are you the delivery man? My dad is waiting for his beer." I replied: "What? Do you take me for a delivery man? I have lectured you on the problems of the real and the metaphysical, and you scrub me off with such meaningless indifference? The tide will come, and it destroy everything you've built, do you not understand it?" the boy just looks at me and says: "I like digging holes".
