@@ -15,7 +15,6 @@ religion:
 languages:
 currency:
 international_organizations:
-  - "[[ODDN]]"
 capital:
 major_cities:
   -
@@ -102,7 +101,7 @@ Extraction from Bershad is laundered into official prosperity through state-owne
 
 ## Foreign Relations
 
-Yar-Firol is officially anti-imperial in rhetoric and pro-Susian in practice, and is a member of the [[ODDN]]. Its regime has built its legitimacy on comparison with its neighbours: Bershad on one side, Ashgerad across the border on the other.
+Yar-Firol is officially anti-imperial in rhetoric and pro-Susian in practice, and is a regional [[ODDN]] partner, not a full member. Its regime has built its legitimacy on comparison with its neighbours: Bershad on one side, Ashgerad across the border on the other.
 
 Yar-Firol has recognized the northern Bershadi government since the Bershadi Conference. It runs the largest [[Modern degredo|modern degredo]] program in the region, and handles Veskeran convicts under deportation orders for a fee.
 

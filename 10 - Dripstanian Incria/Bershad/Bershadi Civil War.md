@@ -44,7 +44,7 @@ Open war resumed around 2000, fought over a state that existed on paper.
 
 > *Main article: [[Bershad–Susia relations]]*
 
-From around 2000 Susia led a nation-building intervention in Bershad in collaboration with its [[ODDN]] allies in Incria: [[Veskera]], [[Yar-Firol]] and [[Sekyo]].
+From around 2000 Susia led a nation-building intervention in Bershad in collaboration with the [[ODDN]] member [[Veskera]] and the regional ODDN partners [[Yar-Firol]] and [[Sekyo]].
 
 ### Partition
 

@@ -18,7 +18,7 @@ tags:
   - economy/agriculture
 ---
 Marketshare:
-- Cigarettes (16%): Premium kaminoan and confian tobacco, hand rolled. Costs D$ 20 a pack. Has a distinctive strong smell.
+- Cigarettes (16%): Premium kaminoan and confian tobacco, hand rolled. Costs TĐ20 a pack. Has a distinctive strong smell.
 
 Other notes:
 - Favorite brand of [[Poceiros]], [[POCOIL]] executives and burnt out [[Nassoj Holdings|Nassoj]]/[[Red Iron]] investment bankers.

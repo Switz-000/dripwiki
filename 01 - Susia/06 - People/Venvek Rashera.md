@@ -141,7 +141,7 @@ meta:
 ---
 **Venvek Rashera** was an technology entrepreneur and founder of [[Yerčemark|Yerčemark Corporation]] and co-founder of [[Verene Biosciences]].
 
-In 2063, his fortune was estimated to be D$43 billion, all of which was divided equally among his children.
+In 2063, his fortune was estimated to be TĐ43 billion, all of which was divided equally among his children.
 ## Personal Life
 
 ### Children

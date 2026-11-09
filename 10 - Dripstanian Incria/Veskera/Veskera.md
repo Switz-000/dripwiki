@@ -1,7 +1,7 @@
 ---
 official_name:
 type: country
-summary: Archipelago state in Incria and an ODDN ally of Susia. It refines and ships sorophine extracted from Bershad, and its smuggling registry carries the Western Coalition Zone's sorophine to international markets.
+summary: Archipelago state in Incria and a member of the ODDN alongside Susia. It refines and ships sorophine extracted from Bershad, and its smuggling registry carries the Western Coalition Zone's sorophine to international markets.
 aliases:
   -
 goverment_type:
@@ -35,7 +35,7 @@ meta:
   image: null
 ---
 
-**Veskera** is an archipelago state in [[Incria]] and an [[ODDN]] ally of [[Susia]]. It refines and ships the sorophine that [[Yar-Firol]] and [[Sekyo]] extract from [[Bershad]], and its smuggling registry carries the [[Western Coalition Zone]]'s sorophine to international markets.
+**Veskera** is an archipelago state in [[Incria]] and a member of the [[ODDN]] alongside [[Susia]]. It refines and ships the sorophine that [[Yar-Firol]] and [[Sekyo]] extract from [[Bershad]], and its smuggling registry carries the [[Western Coalition Zone]]'s sorophine to international markets.
 
 ## Geography
 

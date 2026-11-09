@@ -23,7 +23,7 @@ The Armotist settlers who crossed the ocean from [[Gaiyan]] in 1651 arrived on a
 
 The response to this first siege established the structural template that subsequent sieges would reinforce: fortified settlements, an armed citizenry understood as a collective obligation rather than an individual choice, expansion treated as a form of preemptive defense, and religious justification for the costs of survival. The [[Cericeiro|Cericeiros]] who pushed the frontier eastward through what are now [[Misocévia]], [[Sužielaj]], and [[Troli]] carried this template with them. It was not dissolved when the frontier closed; it was absorbed into civic identity.
 
-### Second siege: syndicalism (1957–1977)
+### Second siege: syndicalism (1956–1977)
 
 > *Main article: [[Continental Divide]]*
 

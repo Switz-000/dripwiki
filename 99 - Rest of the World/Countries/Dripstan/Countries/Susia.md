@@ -1,30 +1,37 @@
 ---
 official_name: Techno-Federative Republic of Susia
 type: country
+summary: Federal presidential republic in the west of the Dripstan continent, founded in 1954 at the dissolution of the Dripstanian Empire and reorganized as the Techno-Federative Republic in 2038. It has the largest economy on the continent and is a founding member of the ODDN.
+aliases:
+  - Techno-Federative Republic of Susia
+era:
+  - republican-era
+  - techno-federative-era
 goverment_type:
   - Federal
   - Techno-Corporate
   - Presidential
   - Republic
-population_2080: 247140000
+population_2080: 239600000
 population_2000: 168903000
 population_1970: 93403000
 population_1954: 74598000
 religion: "[[Reformed Armotism]]"
 languages: "[[Susian language|Susian]]"
-currency: "[[Susian monetary system|Federal and Transactional Drip]]"
+currency: "[[Susian monetary system|Transactional Drip and Federal Reserve Unit]]"
 international_organizations:
   - "[[ODDN]]"
   - "[[Lasman Economic Initiative]]"
-  - "[[Tekuri Ljas Accord]]"
+  - "[[Transcontinental Trade and Developmental Organization]]"
 capital: "[[Soiteslaj]]"
 major_cities:
-  - "[[Neoveli]]"
   - "[[Duolij]]"
+  - "[[Neoveli]]"
   - "[[Sužielaj city]]"
+  - "[[Donetruže]]"
+  - "[[Niqueparj]]"
   - "[[Soiteslaj]]"
   - "[[New Duloc]]"
-  - "[[Donetruže]]"
 continent: Dripstan
 borders_east:
   - "[[Confia]]"
@@ -37,273 +44,292 @@ borders_north:
 borders_south:
   - "[[Astofayan]]"
   - "[[Sutsa-Fuhu]]"
-gdp_per_capita_2080: 251000
-gdp_2080: 62521000000000
+gdp_per_capita_2080: 237900
+gdp_2080: 57000000000000
 tags:
   - politics/governance
   - economy/corporate
   - culture/firearms
+meta:
+  stub: false
+  verified: true
+  image: null
 ---
-**Susia**, officially the **Techno-Federative Republic of Susia**, is a federal presidential republic located on the [[Dripstan]] continent, bordered by [[Confia]] to the east, [[Drippalia]] to the northeast, [[Zaphonia]] to the southeast, [[Astofayan]] and [[Sutsa-Fuhu]] to the south, and the [[Sea of Galil]] to the west and north. The country was established in 1954 following the dissolution of the [[Dripstanian Empire]] through the [[Tahuni Accords]], and adopted its current constitutional framework in 2038 following the [[The Great Transition|Great Transition]]. With a population of approximately 247 million and a GDP of D$62.5 trillion as of 2080, Susia is the most economically developed nation on the Dripstanian continent and the founder of the [[ODDN]] liberal-capitalist bloc.
-### Geography
+**Susia**, officially the **Techno-Federative Republic of Susia**, is a federal presidential republic in the west of the [[Dripstan]] continent. It was founded in 1954 at the dissolution of the [[Dripstanian Empire]] and adopted its present constitution in 2038, at the end of the [[The Great Transition|Great Transition]]. With 239.6 million people and a GDP of TĐ57 trillion in 2080, it has the largest economy on the continent and is a founding member of the [[ODDN]].
 
-Susia occupies the western portions of the [[Dripstan]] continent, covering nine states and one federal district. The [[Neutral District]], which contains the capital [[Soiteslaj]], is an enclave surrounded entirely by the state of [[Misocévia]].
+## Geography
 
-Climate and topography vary across the country's north-south extent. The northern states of [[Nessel]] and [[New Celiolaj]] have boreal and arctic conditions, with tundra and sparse population. The central states of [[Dripia]], [[Postia]], and [[Misocévia]] have temperate oceanic climates with plains and forested uplands. The [[Lasman river]] runs westward through Dripia and Postia before emptying into the Sea of Galil. The southern states of [[Vitrika]] and [[Orlítia]] have Mediterranean climates with coastal access along the Sea of Galil. [[Troli]], in the southeast, has a warm Mediterranean climate; its eastern reaches transition into the [[Pounnun Desert]], which contains the country's oil and natural gas deposits. [[Sužielaj]] occupies the central-east interior with a temperate continental climate.
+Susia is bordered by [[Confia]] to the east, [[Drippalia]] to the northeast, [[Zaphonia]] to the southeast, [[Astofayan]] and [[Sutsa-Fuhu]] to the south, and the [[Sea of Galil]] to the west and north. It is divided into nine states and one federal district, the [[Neutral District]], an enclave inside [[Misocévia]] that contains the capital, [[Soiteslaj]]. The capital was founded by [[Jartes II]] in 1874 as St. Mantichev City and renamed by President [[Čalsor Boňár]] in 1978 after [[Suizo Soites]].
 
-Susia's coastline along the Sea of Galil supports its major port infrastructure. [[Postia]] holds the country's largest ports, anchored by [[New Duloc]]. [[Dripia]] and [[Orlítia]] also have significant coastal access, with Orlítia serving as the primary domestic tourism destination.
+The northern states, [[Nessel]] and [[New Celiolaj]], are boreal and arctic, with tundra and a sparse population. [[Dripia]], [[Postia]] and [[Misocévia]] in the centre have a temperate oceanic climate, with plains and forested uplands. [[Vitrika]] and [[Orlítia]] in the south and [[Troli]] in the southeast are warm, with dry summers; the east of Troli becomes the [[Pounnun Desert]], which holds the country's oil and natural gas. [[Sužielaj]], in the central east, has a temperate continental climate.
 
-### History
+The [[Lasman river]] enters Susia from Confia, forms the border between New Celiolaj and Misocévia, runs south through Misocévia and then west to the Sea of Galil at [[Jaffnidia]], in Dripia. Postia holds the largest ports, centred on [[New Duloc]]. Dripia and Orlítia also have long coastlines, and Orlítia is the main destination of domestic tourism.
 
-> _Main article: [[Dripstanian Empire]]_
+## History
 
-#### Settlement and imperial era (1651–1954)
+> *Main article: [[Dripstanian Empire]]*
 
-The territory of modern Susia was settled beginning in 1651 by [[Armotism|Armotist]] refugees from the continent of [[Gaiyan]], fleeing religious persecution following the [[Armotist Revolution]]. The first permanent colony was established at [[Forchev]] in 1654. In 1674, [[Saint Emperor Mantichev|Saint Mantichev of Frajes]] convened the [[Convention of Forchev]], uniting the coastal kingdoms under a single imperial structure and founding the [[Dripstanian Empire]]. The reign of his brother [[Emperor Agamilos|Agamilos]] (1686–1738) was dominated by the [[Dripstanian Wars of Religion]], during which Agamilos united the three largest Armotist denominations into a single church under the emperor.
+### Settlement and empire (1651 to 1954)
 
-Over the following two centuries, the empire expanded eastward through the settlement campaigns of the [[Cericeiros]], displacing and in large part destroying indigenous populations including the [[Tekur]]. The [[Empress Veronique|reign of Empress Veronique]] (1740–1787) established the Dripstanian Senate, created a standing professional army, and oversaw the forced colonization of territories that became [[Confia]]. Under [[Jartes I]], the Tekur population of the vassal [[Kingdom of Tekuria]] was deported to the Tekur Territory, now [[New Celiolaj]], in the [[March Against the Sun]]; the majority of the deportees died on the march.
+[[Armotism|Armotist]] refugees from the [[Kingdom of Duloc|Holy Kingdom of Duloc]], a theocracy on the continent of [[Gaiyan]], began settling the territory in 1651 after the [[Armotist Revolution]]. The first permanent colony was founded at [[Forchev]] in 1654. In 1674 [[Saint Emperor Mantichev|Mantichev]], king of Forchev, convened the [[Convention of Forchev]], which united the coastal kingdoms as the Dripstanian Empire. The reign of his brother [[Emperor Agamilos|Agamilos]] (1686 to 1738) was taken up by the [[Dripstanian Wars of Religion]], which ended with the three largest Armotist denominations united in a single church under the emperor.
 
-#### Liberal Revolts (1840–1844)
+Over the following two centuries the [[Cericeiro|Cericeiros]] led the settlement of the east, displacing and in large part destroying its indigenous peoples. [[Empress Veronique]] (1740 to 1787) created the [[Dripstanian Senate]] and a permanent army, opened the colonization of [[Confia]] and removed the [[Konph]] from their land. After the [[Dripstanian Civil War]] (1815 to 1823), [[Jartes I]] deported the [[Tekur]] population of the [[Kingdom of Tekuria]] to the Tekur Territory, now New Celiolaj, in the [[March Against the Sun]]; most of the deportees died on the way.
 
-> _Main article: [[Liberal Revolts]]_
+### Liberal Revolts (1840 to 1844)
 
-[[Jartes II]] banned [[Sorzenko|Sorzenkos]] and restricted civilian gun ownership in 1840, triggering an armed republican uprising. A general assembly in [[Neoveli]] proclaimed the [[Federated Provinces of Galil]], with leadership composed of philosopher [[Armadesh Versij]], Admiral [[Zagoste Paroska]], and General [[Kaichet Satratonie]]. After years of guerrilla warfare, Satratonie accepted a secret offer from Jartes II and switched sides. The fort at [[Jaffnidia]] fell, the republic collapsed, and Versij and Paroska were publicly executed in 1844. The revolt failed but established Versij's natural rights philosophy as the foundational intellectual reference for subsequent republican movements.
+> *Main article: [[Liberal Revolts]]*
 
-#### Dissolution (1950–1954)
+After his accession in 1837, [[Jartes II]] banned the [[Sorzenko|Sorzenkos]] and restricted civilian firearms. In 1840 an assembly in [[Neoveli]] proclaimed the [[Federated Provinces of Galil]], led by [[Armadesh Versij]], Admiral [[Zagoste Paroska]] and General [[Kaichet Satratonie]]. After four years of guerrilla war Satratonie accepted a secret offer from Jartes II and changed sides, the fort at Jaffnidia fell, and Versij and Paroska were hanged in 1844. Jartes II reigned until 1882, conceding universal male suffrage, electrifying the major cities and opening [[Incria]] to imperial extraction.
 
-> _Main article: [[Tahuni Accords]]_
+### Dissolution (1950 to 1954)
 
-Following the [[War of Confian Secession]] (1927–1950), the empire was partitioned into two autonomous provinces. After the death of [[Emperor Sallemaj]] in 1950, negotiations produced the [[Tahuni Accords]] of 1954, which dissolved the [[Dripstanian Empire]] and established Susia and [[Confia]] as independent successor states. In Susia, [[Suizo Soites]] led negotiations between the former imperial provinces through the [[National Agreement]], allowing the country to unify under a single constitutional framework. The accession of the northern states, [[Nessel]] and [[New Celiolaj]], was secured by excluding the [[Tekur Susians|Tekur]] population from citizenship. Soites was elected the republic's first president in 1954.
+> *Main article: [[Tahuni Accords]]*
 
-#### Continental Divide and Continental War (1957–1977)
+The [[War of Confian Secession]] (1927 to 1950) ended after the death of [[Emperor Sallemaj]] with the [[Treaty of Sužielaj]] of 1950, which split the empire into two autonomous provinces. The empire formally ended in 1954 with the [[Tahuni Accords]], which divided it into several countries, Susia and Confia among them. [[Suizo Soites]] brought the former imperial provinces of Susia together through the [[National Agreement]]. The northern states, Nessel and New Celiolaj, joined on the condition that [[Tekur Susians|Tekurs]] be excluded from citizenship. Soites was elected the republic's first president in 1954.
 
-> _Main article: [[Continental Divide]]_
+### Continental Divide (1956 to 1977)
 
-The [[Tahuni Accords]] left Susia and Confia as neighboring states with incompatible political models. In 1957 [[Lorelaj Paulowić]] established an authoritarian syndicalist government in Confia, beginning the [[Continental Divide]]. Susia responded with the [[MAGEN act]] of 1975, which banned left-wing parties domestically, built the [[ODDN]] alliance with [[Kapiogg]] and [[Astofayan]], and conducted a series of proxy interventions across the continent over the following two decades.
+> *Main article: [[Continental Divide]]*
 
-Open war began in 1975 after Susia's direct intervention in the [[Zaphonian Civil War]]. The [[Continental War]] (1975–1977) ended with the defeat of the [[Pact of Imgospalje]] bloc and the overthrow of Paulowić's government. The subsequent [[Flower Revolutions]] produced democratic transitions in Confia and several formerly syndicalist states.
+In 1956 [[Lorelaj Paulowić]] founded the United Syndicates of Confia, a syndicalist state, beginning a cold war between the two successor states. Susia answered Confian infiltration with the [[Federal Loyalty Act]] of 1961 and in the same year founded the [[ODDN]] with [[Kapiogg]] and [[Astofayan]]. The blocs fought by proxy across the continent for two decades. President [[Ergagério Sienes]] (1970 to 1974) pursued détente with Confia, which ended when [[Sutsa-Fuhu]] joined the Confian bloc in 1973.
 
-#### Post-war period (1977–2006)
+President [[Čalsor Boňár]], elected in 1974, passed the [[MAGEN act]] in 1975, which banned left-wing parties and restricted strikes. In the [[100 Days Crisis]] of 1975 Paulowić threatened war unless Susia halted its operations; on the eve of his deadline the [[Frumentarze]] captured [[Pjetrik Purpić]], the Confian governor of Zaphonia, in [[Operation Red Sand]], and Confia declared war. The [[Continental War]] (1975 to 1977) ended with the defeat of the [[Pact of Imgospalje]] and the fall of Paulowić in the [[Bayonet Revolution]]. The [[Flower Revolutions]] that followed brought democratic governments to Confia and several former syndicalist states.
 
-> _Main article: [[Post-war Susia]]_
+### Post-war period (1977 to 2006)
 
-The post-war decades saw economic expansion, the growth of the corporations that would later become [[Yarnojte|Yarnojtes]], and the slow domestic unwinding of wartime legislation. The [[Tekur Susians|Tekur]] population, long economically marginalized and legally excluded, received citizenship in 1997. Susia developed nuclear weapons after the Continental War, though the technology arrived too late for wartime use; nuclear energy was adopted widely in the following decades. Confia joined the ODDN in 1993 and entered the [[Lasman Economic Initiative]] customs union with Susia in 2000.
+> *Main article: [[Post-war Susia]]*
 
-#### Global Cold War and the Great Transition (2006–2038)
+The post-war decades brought economic growth, the expansion of the corporations that later became [[Yarnojte|Yarnojtes]], and the gradual repeal of wartime legislation. Susia developed nuclear weapons after the Continental War, too late for use in it, and adopted nuclear power widely in the following decades. Tekurs received citizenship in 1997 under the [[Reconciliation Act]]. From around 2000 Susia led a nation-building intervention in [[Bershad]] with its ODDN allies in Incria.
 
-> _Main article: [[The Great Transition]]_
+### Global cold war and Great Transition (2006 to 2038)
 
-Contact with [[Ashgerad]], a technate on the continent of [[Incria]], escalated into a sustained cold war after 2006. The [[War of Arempur]] (2012), a proxy conflict fought overseas, ended in a Susian defeat. Domestic pressure for institutional reform, combined with lobbying from major corporations and the growth of the [[Modernist Alliance]] political movement, produced a constitutional convention from 2036 to 2038. The new constitution, ratified in 2038, established the [[Techno-Federative Republic of Susia|Techno-Federative]] system, created the [[Yarnojte]] framework, and reorganized federal institutions around the [[Secretariat of Efficiency]].
+> *Main article: [[The Great Transition]]*
 
-#### Techno-federative era (2038–present)
+Contact with [[Ashgerad]], a technate on the continent of Incria, became a cold war after 2006. The [[War of Arempur]] (2012), fought overseas by proxy, ended in a Susian defeat. Pressure for institutional reform, corporate lobbying and the rise of the [[Modernist Alliance]] led to a constitutional convention from 2036 to 2038. The constitution ratified in 2038 created the Techno-Federative Republic and the [[Secretariat of Efficiency]].
 
-> _Main article: [[Techno-federative era]]_
+### Techno-federative era (2038 to present)
 
-The period since 2038 has been defined by the expansion of [[Free Economic Zone|Free Economic Zones]], the emergence of [[Cognitive enhancement]] as a mass technology in the 2060s, and the ongoing cold war with [[Ashgerad]]. %% TODO: Further detail on contemporary period pending additional canon. %%
-### Government
+> *Main article: [[Techno-federative era]]*
 
-> _Main article: [[Susian Federal Government]]_
+An amendment of 2041 added the [[Yarnojte]] status and [[Free Economic Zone|Free Economic Zones]] to the constitution, and the first Yarnojtes were named that year. [[Cognitive enhancement]] became a mass technology in the 2060s. The cold war with Ashgerad continues.
 
-Susia is a federal presidential republic. The constitution of 2038 established the current governmental framework, retaining democratic institutions from the 1954 constitution while adding the [[Secretariat of Efficiency]] and the [[Yarnojte]] system.
+%% TODO: further detail on the contemporary period pending canon. %%
 
-#### Executive
+## Government
 
-The president serves terms of up to ten years, with a confidence vote required every five years by a majority of the [[Susian Senate]]. The president holds authority over foreign policy, military command, executive appointments, and veto power over legislation. The office is constitutionally non-partisan: sitting presidents may not hold party affiliation. Presidential candidates run under ranked-choice voting.
+> *Main article: [[Susian Federal Government]]*
 
-The president does not govern [[Free Economic Zone|Free Economic Zones]] directly, and daily state-level administration remains with state governments. The primary executive functions are crisis coordination, long-term strategic planning, treaty negotiation, and appointments to federal institutions including the judiciary and the director of the [[Frumentarze]].
+The constitution of 2038 kept the democratic institutions of the 1954 constitution and added the Secretariat of Efficiency.
 
-#### Legislature
+### Executive
 
-The legislature is bicameral, composed of the [[Susian Senate]] and the [[Chamber of Experts]].
+The president serves up to ten years and must win a confidence vote of two thirds of the [[Susian Senate]] every five years. The president directs foreign policy, commands the military, appoints the executive and may veto legislation. Before 2038 presidential candidates were put forward by the [[Party Federation|party federations]]; since 2038 the president holds no party affiliation. Presidents are elected by national popular vote using ranked-choice voting.
 
-The Senate holds 50 seats, five for each of the nine states and five for the [[Neutral District]]. Senators are elected by their respective states and are responsible for legislation, budgets, treaty ratification, and major appointments. The Senate may override a presidential veto by supermajority and may impeach the president for high crimes.
+The president does not govern FEZs, and daily administration remains with the states. The office's main functions are crisis coordination, long-term planning, treaties, and appointments to federal institutions, including the judiciary and the director of the Frumentarze.
 
-The Chamber of Experts holds 350 seats, filled through a national examination process every three years. Members serve a maximum of two terms. The chamber is drawn from professionals across technical fields and must approve legislation alongside the Senate. Its function is to apply technical expertise to complex policy questions as a check on both populism and executive discretion.
+### Legislature
 
-#### Judiciary
+The legislature is bicameral. The Senate has 50 seats, five for each state and five for the Neutral District, elected by party list in each state. It passes legislation and budgets, ratifies treaties, confirms major appointments, may override a presidential veto by supermajority, and may impeach the president. The [[Chamber of Experts]] checks the Senate.
 
-The [[Supreme Court of Susia]] interprets the constitution, resolves interstate disputes, and may strike down legislation that violates constitutional rights. It provides judicial review over both legislative acts and [[Secretariat of Efficiency]] decisions.
+### Judiciary
 
-#### Secretariat of Efficiency
+> *Main article: [[Supreme Court of Susia]]*
 
-> _Main article: [[Secretariat of Efficiency]]_
+The Supreme Court has eleven justices who serve for life and sit together on every case. It hears disputes between states, appeals against Secretariat decisions and fundamental constitutional questions, and issues every decision as a single unsigned opinion.
 
-The [[Secretariat of Efficiency]] is an independent body, not subordinate to the cabinet or the president, responsible for oversight of the [[Yarnojte]] and [[Free Economic Zone|FEZ]] system. Its 350 members are selected through national examination, serve rotating three-year terms, and are barred from corporate affiliations during service. The Secretariat grants and revokes Yarnojte status, approves FEZ creation and expansion, investigates constitutional violations within FEZs, and oversees the [[Federal Authority of Commerce and Competition]]. The president may temporarily suspend Secretariat decisions for judicial review, subject to Senate override.
+### Secretariat of Efficiency
 
-#### Free Economic Zones
+> *Main article: [[Secretariat of Efficiency]]*
 
-> _Main article: [[Free Economic Zone]]_
+The Secretariat is an independent body of 350 members chosen by national examination, outside the cabinet. It grants and revokes Yarnojte status, approves FEZs and oversees the [[Federal Authority of Commerce and Competition]]. The president may suspend a Secretariat decision pending judicial review, subject to Senate override.
 
-[[Free Economic Zone|Free Economic Zones]] are city-scale territories leased by state governments to [[Yarnojte|Yarnojtes]] under tripartite agreements between the state, the Yarnojte, and the Secretariat. Within their boundaries, the governing Yarnojte provides housing, healthcare, education, infrastructure, and internal law enforcement. Residents retain full federal constitutional protections. Creation of a FEZ requires state legislative approval, a public referendum, and Secretariat authorization. As of 2080, approximately 0.25% of the Susian population lives inside a FEZ.
+### Free Economic Zones
 
-#### Intelligence
+> *Main article: [[Free Economic Zone]]*
 
-> _Main article: [[Frumentarze]]_
+FEZs are city-scale territories that a state leases to a Yarnojte under an agreement between the state, the Yarnojte and the Secretariat. The Yarnojte provides housing, healthcare, education, infrastructure and policing inside the zone, and residents keep their constitutional rights. A zone needs the approval of the state legislature, a referendum and the Secretariat, and the constitution allows at most 12. About 0.25% of Susians live in one.
 
-The [[Frumentarze]] is Susia's federal intelligence agency, founded in 1956 and reorganized after the Great Transition. It operates under presidential authority, with its director appointed by the president and confirmed by the Senate. Its mandate covers counter-intelligence, foreign operations, and national security. Its budget is partially classified.
+### Rights and the right to rebel
 
-#### Political parties
+> *Main articles: [[Gun Culture in Susia]], [[Right to rebel]]*
 
-Susia uses a [[Party Federation]] system, in which federal parties are composed of affiliated state parties that coordinate on federal policy. The three active federal groupings as of 2080 are the [[Coalition of State's Rights]], the [[Democratic-Federalist Party]], and the [[Modernist Alliance]]. The [[Susian Democratic Union]] and the [[Susian Liberal Party]], which dominated the republican era, dissolved in 2038 with its constituent parties splitting between the Coalition and the Democratic Federalists. Susian party politics is organized around ideology and state interest rather than ethnic or religious identity.
+The [[Susian Constitution]] guarantees the right to bear arms and a [[Right to rebel|right of rebellion]] against a government that systematically violates natural rights. Both trace to the disarmament that preceded the Liberal Revolts.
 
-### Economy
+### Intelligence
 
-Susia has a GDP of D$62.5 trillion and a GDP per capita of D$251,000 as of 2080, making it the most economically developed nation on the [[Dripstanian Continent]]. The economy is structured around finance, technology, manufacturing, energy, and services, with state-level variation across the nine states.
+> *Main article: [[Frumentarze]]*
 
-#### Currency
+The Frumentarze is the federal intelligence agency, founded in 1956 and reorganized after the Great Transition. Its director is appointed by the president and confirmed by the Senate. It covers counter-intelligence, foreign operations and national security, and its budget is partly classified.
 
-> _Main article: [[Susian monetary system]]_
+### Political parties
 
-The Susian currency is the drip. Following the suspension of the gold standard in 1975 to finance the [[Continental War]], which produced 32% inflation by 1977, Susia did not restore commodity backing to the standard currency. In 2047 the monetary system was restructured into two instruments. The Transactional Drip, a standard fiat currency issued by the [[Susian Central Bank]], is used for daily transactions and carries an intentional annual inflation rate of three to four percent. The [[Federal Reserve Unit]], a commodity-basket backed instrument covering metals, food commodities, energy futures, computing power, and oil, is used for long-term contracts exceeding ten years, including [[Free Economic Zone|FEZ]] leases, infrastructure bonds, and pension accounts. It cannot be printed at will and maintains an annual value change of zero to one percent. As of the 2070s, one Federal Reserve Unit exchanges for approximately 3.2 Transactional Drips.
+> *Main article: [[Party Federation]]*
 
-#### Yarnojtes and the FEZ economy
+Federal parties are federations of state parties. The [[Susian Liberal Party]] and the [[Susian Democratic Union]], the two federations of the republican era, dissolved in 2038, their state parties dividing between the [[Coalition of State's Rights]] and the [[Democratic-Federalist Party]]. These two and the [[Modernist Alliance]] are the three federations today. Susian party politics is organized around ideology and state interest rather than ethnicity or religion.
 
-> _Main article: [[Yarnojte]]_
+## Economy
 
-Six corporations hold active [[Yarnojte]] status as of 2080: [[Troli Ustaras]] (technology, AI, and automation), [[Soites Group]] (retail and consumer staples), [[Nayotai]] (manufacturing and infrastructure), [[Van Ritter]] (defense and aerospace), [[Lischev-Verene]] (healthcare and biomedical), and [[Atompron]] (nuclear energy). Yarnojtes employ approximately 3% of the Susian workforce and govern [[Free Economic Zone|Free Economic Zones]] housing roughly 0.25% of the population. Their tax contributions fund a substantial share of state-level public services in [[Postia]] and [[Dripia]].
+Susia had a GDP of TĐ57 trillion in 2080, or about TĐ238,000 per person. Its main sectors are finance, technology, manufacturing, energy and services.
 
-Two corporations have had Yarnojte status revoked: [[Vandernij & Milier]] in 2083 and [[POCOIL]] in 2087.
+### Currency
 
-#### Energy
+> *Main article: [[Susian monetary system]]*
 
-[[Atompron]] holds a monopoly on Susian nuclear energy production and supplies approximately 78% of the country's electricity as of 2080. Nuclear energy was adopted widely in the post-war decades, associated with the economic expansion of that period. [[Atompron]] commercialized a thorium fuel cycle in 2061 and achieved a commercial fusion breakthrough in 2081. [[POCOIL]], formerly a Yarnojte, continues operating as a petrochemical company following the revocation of its status. Oil and gas extraction remains an oligopolistic sector, with [[POCOIL]] holding a 52% share alongside the [[Harios Petroleum Company]] and the [[Sužielaj Energy Cooperative]].
+Susia suspended the gold standard in 1975 to pay for the Continental War, and inflation reached 32% by 1977; commodity backing was never restored to the ordinary currency. Since 2047 the system has two instruments. The **Transactional Drip** (TĐ), a fiat currency issued by the [[Susian Central Bank]], is used for daily transactions and inflates by three to four percent a year by design. The **[[Federal Reserve Unit]]** (FĐ), backed by a basket of metals, food commodities, energy futures, computing power and oil, is used for contracts longer than ten years, including FEZ leases, infrastructure bonds and pensions. It cannot be issued at will and changes in value by zero to one percent a year. In the 2070s one Federal Reserve Unit exchanged for about 3.2 Transactional Drips. The Federal Reserve Unit is often called the "Federal Drip", a name that has no official standing.
 
-#### Finance
+### Yarnojtes
 
-The [[Neoveli Stock Exchange]], based in [[Neoveli]], is the country's primary securities market. Major financial institutions include [[Nassoj Holdings]], [[Triževa Bank]], [[Yerčemark]], [[Silver Coast Bank]], [[Astralis Banking Group]], and [[Red Iron|Red Iron Incorporated]]. [[Nassoj Holdings]], founded in 1883, holds the largest share of corporate and investment banking and is the primary institution for [[Free Economic Zone|FEZ]] lease financing and infrastructure bonds. [[Triževa Bank]], founded in 1869, serves the broadest share of the retail market.
+> *Main article: [[Yarnojte]]*
 
-#### Regional economic variation
+Six corporations hold Yarnojte status:
 
-GDP per capita varies substantially across states. [[Dripia]] holds the highest figure at D$320,000, anchored by finance and technology. [[Postia]] follows at D$289,000, driven by shipping, corporate headquarters, and manufacturing. The [[Neutral District]] records D$607,000 per capita, reflecting its concentration of federal government employment and ancillary services. The southern and northern states record lower figures, with [[Nessel]] at D$140,000 and [[Vitrika]] at D$170,000, both economies oriented toward primary sectors and tourism respectively.
+| Corporation | Sector | Status since |
+| --- | --- | --- |
+| [[Troli Ustaras]] | Technology, AI, automation | 2041 (revoked 2047, regranted 2051) |
+| [[Atompron]] | Nuclear energy | 2041 |
+| [[Van Ritter]] | Defense, aerospace | 2044 |
+| [[Soites Group]] | Retail, consumer staples | 2050 |
+| [[Nayotai]] | Manufacturing, infrastructure | 2050 |
+| [[Lischev-Verene]] | Healthcare, biomedicine | 2073 |
 
-### Military
+Status has been revoked three times: from Troli Ustaras in 2047, [[Vandernij & Milier]] in 2083 and [[POCOIL]] in 2087. Yarnojtes employ about 3% of the workforce, and their taxes fund much of the state services of Postia and Dripia.
 
-> _Main article: [[Military Service in Susia]]_
+### Energy
 
-#### Structure
+Atompron holds a monopoly on nuclear power, which supplied about 78% of Susia's electricity in 2080. It commercialized a thorium fuel cycle in 2061 and fusion in 2081. Oil and gas extraction is shared by POCOIL, with 52%, the [[Harios Petroleum Company]] and the [[Sužielaj Energy Cooperative]].
 
-The Susian armed forces operate under the [[Secretary of Defense]] as part of the federal executive. The professional military is a volunteer career force. It is supplemented by the [[National Guard]], a state-level reserve force with dual activation authority: state governors may activate it for natural disasters and public disorder, and the federal government may activate it for foreign missions.
+### Finance
 
-[[Van Ritter]] is Susia's primary defense contractor, producing fighter aircraft, bombers, missiles, armored vehicles, military satellites, electronic warfare systems, and nuclear-powered submarines in partnership with [[Atompron]]. Government cybersecurity and intelligence technology, including AI-powered threat detection developed jointly with [[Troli Ustaras]], is also produced under Van Ritter contracts. The company holds Yarnojte status and operates the [[Eastern Industrial Complex FEZ]] in [[Misocévia]] as its primary production base.
+The [[Neoveli Stock Exchange]] is the main securities market. [[Triževa Bank]] (1869) has the largest share of retail banking, [[Nassoj Holdings]] (1883) of corporate banking, including FEZ lease financing, and [[Red Iron]] of investment banking. Other major institutions are [[Yerčemark]], [[Silver Coast Bank]] and [[Astralis Banking Group]].
 
-Susia developed nuclear weapons after the [[Continental War]]. The development program did not conclude in time for wartime use.
+### Regional variation
 
-#### Mandatory service
+GDP per person is highest in the Neutral District (TĐ607,000), where federal employment is concentrated, followed by Dripia (TĐ320,000), driven by finance and technology, and Postia (TĐ289,000), driven by shipping, corporate headquarters and manufacturing. It is lowest in the north and south: Nessel at TĐ140,000 rests on primary industry, and Vitrika is at TĐ170,000.
 
-All Susian citizens are required to complete national service upon reaching adulthood. Citizens may choose a combat track, requiring one year of service in a military role, or a non-combat track, requiring two years in logistics, medical support, infrastructure, communications, or civil defense roles. Mandatory service was reinstated in 1964 by President [[Serčev Fimžer]] during the [[Continental Divide]].
+## Military
 
-The service requirement produces a civilian population with baseline competence in firearms handling, physical fitness, and emergency response. Conscripts are assigned to units drawn from across the country, placing people from different states, economic backgrounds, and FEZ or non-FEZ origins in shared conditions. This cross-class mixing is a recognized civic function of the institution in Susian political culture.
+> *Main article: [[Military Service in Susia]]*
 
-#### Civic arms tradition
+The armed forces are a volunteer career force under the [[Secretary of Defense]]. The [[National Guard]] is a reserve in each state that governors may call up for disasters and public disorder and the federal government for foreign missions. [[Van Ritter]] is the main defense contractor. Susia has had nuclear weapons since the post-war period.
 
-> _Main article: [[Gun Culture in Susia]]_
+Every citizen completes national service on reaching adulthood: one year on a combat track or two years on a non-combat track in logistics, medicine, infrastructure, communications or civil defense. President [[Serčev Fimžer]] reinstated mandatory service in 1964. Conscripts are posted to units drawn from across the country.
 
-The [[Susian Constitution]] guarantees the right to bear arms and includes an explicit [[Right to rebel|right of rebellion]], permitting citizens to take up arms against a government that systematically violates constitutionally recognized natural rights. Both provisions trace directly to the [[Liberal Revolts]] of 1840 to 1844, in which [[Jartes II]]'s disarmament of the population preceded his suppression of the [[Federated Provinces of Galil]].
+## Foreign Relations
 
-[[Sorzenko|Sorzenkos]], civic shooting clubs with roots in the early settlement period, remain active across Susia, particularly in rural areas and the eastern states. Gun safety is a mandatory component of the civics curriculum in all Susian middle and high schools. The [[Hăjaven]] festival, organized through Sorzenkos, involves a communal hunt and shared meal and is observed nationally.
+> *Main article: [[Democratic evangelism]]*
 
-### Foreign relations
+Susian foreign policy draws on the [[Fortress complex]], which treats Susian security as permanently threatened, and on [[Democratic evangelism]], which holds that Susia should spread democratic government. Applied to the continent, the Fortress complex becomes the [[Continental Fortress Doctrine]], which treats Dripstan as Susia's defensive perimeter against Ashgerad.
 
-> _Main article: [[Democratic evangelism]]_
+### ODDN
 
-Susian foreign policy is organized around three overlapping orientations: the [[Fortress complex]], which treats the maintenance of territorial and institutional security as the governing priority; [[Democratic evangelism]], which holds that Susia has an interest in the spread of democratic governance across the continent and beyond; and the [[Continental Fortress Doctrine]], which frames the [[Dripstanian Continent]] as Susia's primary defensive perimeter against [[Ashgerad]].
+> *Main article: [[ODDN]]*
 
-#### ODDN
+The ODDN (Organization of the Democratic Dripstanian Nations) was founded in 1961 as an anti-syndicalist alliance and has since turned toward the containment of Ashgerad. Its members are:
 
-> _Main article: [[ODDN]]_
+| Member | Joined |
+| --- | --- |
+| Susia | 1961 |
+| [[Kapiogg]] | 1961 |
+| [[Astofayan]] | 1961 |
+| [[Pierej]] | 1970 |
+| [[Drippalia]] | 1981 |
+| [[Kamino]] | 1986 |
+| [[Confia]] | 1993 |
 
-The [[ODDN]] (Organization of the Democratic Dripstanian Nations) is the primary vehicle of Susian foreign policy. Founded in 1961 as an anti-syndicalist military alliance, it has evolved into a broader democratic security structure reoriented toward the containment of [[Ashgerad]]. Current members are Susia (1961), [[Kapiogg]] (1961), [[Astofayan]] (1962), [[Pierej]] (1970), [[Drippalia]] (1981), [[Kamino]] (1986), and [[Confia]] (1993).
+Drippalia, annexed by Confia and Kapiogg in 1960, was restored after the Continental War.
 
-#### Confia
+### Confia
 
-Susia and [[Confia]] share the longest and most consequential bilateral relationship on the continent. The two countries fought an active cold war from 1957 to 1975 and a direct war from 1975 to 1977. Following the [[Bayonet Revolution]] and the democratic transition in Confia, the relationship normalized over the following two decades. Confia joined the ODDN in 1993 and entered the [[Lasman Economic Initiative]] customs union with Susia in 2000, named for the [[Lasman river]] that crosses both countries. Susian companies, including [[Nayotai]] and [[Soites Group]], operate in Confia, and [[Troli Ustaras]] recruits from Confian universities.
+After the [[Bayonet Revolution]] relations with Confia normalized over two decades. Confia joined the ODDN in 1993, and the [[Lasman Economic Initiative]], signed in 1995, made the two countries a customs union from 2000. [[Nayotai]] and Soites Group operate in Confia, and Troli Ustaras recruits from its universities.
 
-#### Economic agreements
+### Agreements and interventions
 
-The [[Lasman Economic Initiative]], signed in 1995 and in force from 2000, established a customs union between Susia and Confia. The [[Transcontinental Trade and Developmental Organization]] (TTDO), founded in 2002, facilitates trade and monetary exchange among a broader group including Susia, [[Kapiogg]], [[Astofayan]], [[Pierej]], [[Drippalia]], [[Confia]], [[Kamino]], [[Balcheque]], and [[Macoxile]]. Susia is also a signatory to the [[Tekuri Ljas Accord]], which authorized multilateral intervention in [[Ditania]] in 1983.
+The [[Transcontinental Trade and Developmental Organization]], founded in 2002, handles trade and monetary exchange among Susia, Kapiogg, Astofayan, Pierej, Drippalia, Confia, Kamino, [[Balsheck]] and [[Macoxile]]. In 1983 Susia signed the [[Tekuri Ljas Accord]], which authorized a multilateral intervention in [[Ditania]].
 
-#### Ashgerad
+> *Main article: [[Bershad–Susia relations]]*
 
-> _Main article: [[Ashgerad]]_
+Susia recognized [[Bershad]] at its independence in 1962. Its nation-building intervention there from around 2000 failed, and its policy since has been sanctions and non-intervention.
 
-The cold war with [[Ashgerad]], a technate located on the continent of [[Incria]], has been the defining foreign policy challenge since 2006. The two civilizations developed in isolation and share no cultural, historical, religious, or philosophical common ground. The [[War of Arempur]] (2012), a proxy conflict fought overseas, ended in a Susian defeat. The ongoing competition shapes Susian defense investment, intelligence operations, and the domestic framing of the [[The Great Transition|Great Transition]] itself, whose institutional reforms were partly justified as a response to Ashgeradi technological pressure.
+### Ashgerad
 
-Contemporary Susian foreign policy toward Ashgerad operates through the [[ODDN]] alliance, covert support for democratic movements in states where Ashgeradi influence is growing, and conditions attached to trade and aid agreements. The [[Frumentarze]]'s [[Foreign Operations Division]] runs classified programs in this area.
+> *Main article: [[Ashgerad]]*
 
-### Culture
+The cold war with Ashgerad has shaped Susian foreign policy since 2006, including the defeat at Arempur and the reforms of the Great Transition, which were partly justified by Ashgeradi technological competition. Susia acts against Ashgeradi influence through the ODDN, covert support for democratic movements and conditions on trade and aid. The Frumentarze's [[Foreign Operations Division]] runs classified programs in this field.
 
-#### Religion
+## States
 
-> _Main article: [[Reformed Armotism]]_
+| State | Capital | Largest city | Population (2080) | GDP per person (2080) |
+| --- | --- | --- | --- | --- |
+| [[Dripia]] | [[New Kentu]] | [[Neoveli]] | 40,000,000 | TĐ320,000 |
+| [[Misocévia]] | [[Niqueparj]] | [[Niqueparj]] | 25,000,000 | TĐ195,000 |
+| [[Nessel]] | [[Kloshijie]] | [[Kloshijie]] | 8,300,000 | TĐ140,000 |
+| [[Neutral District]] | [[Soiteslaj]] | [[Soiteslaj]] | 2,800,000 | TĐ607,000 |
+| [[New Celiolaj]] | [[Unarete]] | [[Unarete]] | 5,500,000 | TĐ155,000 |
+| [[Orlítia]] | [[Hǎvesna]] | [[Velúria]] | 27,000,000 | TĐ185,000 |
+| [[Postia]] | [[Duolij]] | [[Duolij]] | 45,000,000 | TĐ289,000 |
+| [[Sužielaj]] | [[Sužielaj city]] | [[Sužielaj city]] | 36,000,000 | TĐ230,000 |
+| [[Troli]] | [[Donetruže]] | [[Donetruže]] | 35,000,000 | TĐ205,000 |
+| [[Vitrika]] | [[Kruie ro Yietre]] | [[Kruie ro Yietre]] | 15,000,000 | TĐ170,000 |
 
-[[Reformed Armotism]] is the predominant religion of Susia, practiced by the majority of the population. It derives from [[Armotism]], the faith brought by the original settlers from [[Gaiyan]], and developed into its reformed variant through the theological revisions of the imperial and early republican periods. [[Nessel]] is an exception, where [[Doremojism]] is the majority practice.
+## Culture
 
-#### Philosophy and civic identity
+### Religion
 
-> _Main articles: [[Armadesh Versij]], [[Susian Exceptionalism]]_
+> *Main article: [[Reformed Armotism]]*
 
-Susian civic identity is organized around three intellectual traditions that are taught in the national civics curriculum and present across political discourse. [[Armadesh Versij]]'s natural rights philosophy, developed in [[Architecture of Freedom]] and other works, holds that rights are discovered through reason and exist independent of government recognition. [[Suizo Soites]]' pragmatic liberalism treats institutions as tools to be evaluated by their practical outcomes. [[Yário Kolkov]]'s competitive governance theory, the most recent of the three, argues that healthy political systems require multiple competing governance forms to avoid calcification.
+Most Susians practise [[Reformed Armotism]], which developed from the [[Armotism]] of the first settlers. Nessel is the exception: its majority is [[Doremojism|Doremojist]].
 
-These traditions do not always agree, and the disputes between their adherents form a recurring axis of Susian political and cultural debate. They share a common commitment to procedural values: how a society governs is treated as more fundamental than what it believes.
+### Philosophy and civic identity
 
-[[Susian Exceptionalism]], the position that Susia's institutions represent a distinct historical achievement worth defending and spreading, draws on all three traditions and is present across the ideological spectrum. Its components range from the Armotist theological framing of the settlement as a divinely guided refuge to the Soitesian argument that the institutions simply work.
+> *Main articles: [[Armadesh Versij]], [[Susian Exceptionalism]]*
 
-#### Civic traditions
+Three bodies of thought are taught in the civics curriculum and recur in political debate: Armadesh Versij's natural rights philosophy, set out in [[Architecture of Freedom]], which holds that rights are discovered by reason and exist without government recognition; Suizo Soites' pragmatic liberalism, which judges institutions by their results; and [[Yário Kolkov]]'s competitive governance theory, which holds that a political system needs competing forms of government to avoid calcifying. [[Susian Exceptionalism]], the belief that Susian institutions are a distinct historical achievement worth defending and spreading, draws on all three and on the Armotist reading of the settlement as a divinely guided refuge.
 
-> _Main articles: [[Sorzenko]], [[Hăjaven]], [[Cericeiro]]_
+### Civic traditions
 
-The [[Sorzenko]] system, a network of civic shooting clubs with roots in the settlement era, remains active across Susia, particularly in rural areas and the eastern states. Sorzenkos provide firearms training, organize communal defense, and function as cross-class social institutions. [[Hăjaven]], a federal public holiday at the start of winter, originated in the Sorzenko militia tradition as a communal hunt followed by a shared meal. It is observed nationally, in urban areas through household dinners and in rural communities through the traditional organized hunt.
+> *Main articles: [[Sorzenko]], [[Hăjaven]], [[Cericeiro]]*
 
-The [[Cericeiro]] tradition, associated with the frontier horsemen who settled the eastern states, remains a strong marker of regional identity in [[Misocévia]], [[Sužielaj]], and [[Troli]], expressed through festivals, civic organizations, and popular culture.
+[[Sorzenko|Sorzenkos]], civic shooting clubs dating from the settlement, remain active across Susia, most of all in rural areas and the eastern states. They provide firearms training and organize communal defense. Gun safety is part of the civics curriculum in every middle and high school. [[Hăjaven]], a federal holiday at the start of winter, began as a Sorzenko hunt followed by a shared meal; rural communities still hold the hunt, and urban households keep the dinner. The [[Cericeiro]] tradition of the frontier horsemen marks the regional identity of Misocévia, Sužielaj and Troli.
 
-#### Sport
+### Sport
 
-> _Main article: [[Crolball]]_
+> *Main article: [[Crolball]]*
 
-[[Crolball]] is the most popular sport in Susia and is played across much of the [[Dripstanian Continent]]. The game originated during the imperial era and is organized domestically through the [[Susian National Crolball League]]. It is played between two teams of eight players, with scoring determined by holding possession in the opposing team's dead zone through a thirty-second contested period known as the Breči, during which unrestricted physical contact is permitted.
+[[Crolball]] is the most popular sport in Susia. It dates from the imperial era and is organized by the [[Susian National Crolball League]].
 
-#### Language and demography
+### Language and demography
 
-Susian is spoken by approximately 94% of the population. [[Tekur Susians]] constitute a minority concentrated primarily in [[New Celiolaj]], where they represent approximately 40% of the state population. They were granted citizenship in 1997 under the [[Reconciliation Act]].
+Susian is spoken by about 94% of the population. [[Tekur Susians]] are concentrated in New Celiolaj, where they are about 40% of the population.
 
-#### Cognitive enhancement
+### Cognitive enhancement
 
-> _Main article: [[Cognitive enhancement]]_
+> *Main article: [[Cognitive enhancement]]*
 
-[[Cognitive enhancement]], commercially available since the 2060s, has become a defining social division of the contemporary era. As of 2080, approximately 17% of the Susian population has undergone procedures. Enhanced individuals earn between 200% and 300% more than unenhanced individuals in comparable roles, producing economic stratification that cuts across existing class and regional lines. Adoption rates range from 98% within [[Troli Ustaras]]' FEZ to 16% in independent Susia. The long-term effects of enhancement on personality, mood, and sense of self remain contested in the scientific literature.
+Cognitive enhancement has been sold commercially since 2051 and became widespread after the [[Cognitive Rights Act]] of 2061. In the 2080s about 17% of Susians had been enhanced, from 98% in the [[Susian Innovation Center]] to 16% outside FEZs. Enhanced workers earn two to three times as much as unenhanced workers in comparable roles.
 
-#### Public holidays
+### Public holidays
 
-> _Main article: [[List of susian holidays]]_
+> *Main article: [[List of susian holidays]]*
 
-Federal public holidays include [[Hăjaven]], [[Versij Day]] (marking [[Armadesh Versij]]'s execution in 1844), [[Foundation Day]] (commemorating the [[Tahuni Accords]] of 1954), [[Liberation Day]] (marking the end of the [[Continental War]] in 1977), [[Reconciliation Day]] (marking [[Tekur Susians|Tekur]] citizenship in 1997), [[Saint Mantichev Day]], [[Veteran's Day]], and [[Democracy Day]].
+Federal holidays are Hăjaven, [[Versij Day]] (Versij's execution in 1844), [[Foundation Day]] (the Tahuni Accords of 1954), [[Liberation Day]] (the end of the Continental War in 1977), [[Reconciliation Day]] (Tekur citizenship in 1997), [[Saint Mantichev Day]], [[Veteran’s Day]] and [[Democracy Day]].
 
-### See also
+## See Also
 
-- [[Dripstanian Empire]]
-- [[Tahuni Accords]]
-- [[The Great Transition]]
 - [[Susian Constitution]]
-- [[Susian Federal Government]]
-- [[ODDN]]
-- [[Lasman Economic Initiative]]
-- [[Yarnojte]]
-- [[Free Economic Zone]]
-- [[Secretariat of Efficiency]]
-- [[Frumentarze]]
-- [[Continental Divide]]
-- [[Continental War]]
-- [[Ashgerad]]
-- [[Armadesh Versij]]
-- [[Suizo Soites]]
-- [[Yário Kolkov]]
-- [[Reformed Armotism]]
-- [[Sorzenko]]
-- [[Cericeiro]]
-- [[Tekur Susians]]
-- [[Cognitive enhancement]]
-- [[Crolball]]
+- [[Susian monetary system]]
 - [[Susian language]]
-- [[Fortress complex]]
-- [[Democratic evangelism]]
-- [[Susian Exceptionalism]]
+- [[List of susian holidays]]
+- [[Bershad–Susia relations]]
+
+%% FLAGS:
+
+- Rulings by the author, 09/11/2026: Lasman course per [[Lasman river]]; United Syndicates founded 1956, so the Continental Divide is dated 1956 to 1977; Astofayan a founding ODDN member in 1961; Drippalia annexed in 1960 and restored after the Continental War, ODDN member from 1981; Yarnojte status and FEZs added by amendment in 2041; confidence vote by two thirds of the Senate; Chamber of Experts described only as a check on the Senate; federations put forward presidents before 2038, presidents hold no party affiliation since; Supreme Court hears interstate disputes, Secretariat decisions and fundamental constitutional questions; Treaty of Sužielaj (1950), after Sallemaj's death, split the empire into two autonomous provinces, which formally ended in 1954; settlers fled the Armotist Revolution in the Holy Kingdom of Duloc, a theocracy; population 239.6 million and GDP TĐ57 trillion; currency names Transactional Drip (TĐ) and Federal Reserve Unit (FĐ), "Federal Drip" a misnomer; Sužielaj Energy Cooperative is Susian; Vitrika's economy not described as tourism; counts as of 2088.
+- gdp_per_capita_2080 (237,900) is arithmetic from the author's population and GDP. The state figures sum to TĐ57.39 trillion; the author set TĐ57 trillion.
+- Population figures for 1954, 1970 and 2000 are unchanged and were not re-checked against the new 2080 total.
+- The date Drippalia was restored is not established.
+- Ruling by the author, 09/11/2026: modern amounts are written TĐ; D$ is the old drip, used from imperial times to post-war Susia. When the drip gave way to the Transactional Drip is not established.
+- Held only in this article, with no other source: the president's ten-year term, five-yearly confidence vote and ranked-choice election; the Senate's powers beyond those in [[Susian Senate]]; the presidential suspension of Secretariat decisions; the Frumentarze's founding in 1956; the currency paragraph; Atompron's 78% share and its 2061 thorium and 2081 fusion dates; POCOIL's 52% share; nuclear weapons; the 94% Susian speakers.
+- The author's session report of 05/07/2026 (not canon) dates commercial thorium to 2051; this article keeps 2061.
+- Tekuri Ljas Accord removed from international_organizations: a treaty, not an organization.
+- Links to pages that do not exist include: [[Reformed Armotism]], [[Susian language]], [[Susian monetary system]], [[Lasman Economic Initiative]], [[Transcontinental Trade and Developmental Organization]], [[Sea of Galil]], [[Tahuni Accords]], [[Treaty of Sužielaj]], [[Kingdom of Duloc]], [[Armotist Revolution]], [[Convention of Forchev]], [[Kingdom of Tekuria]], [[Federated Provinces of Galil]], [[National Agreement]], [[Federal Loyalty Act]], [[Pact of Imgospalje]], [[Flower Revolutions]], [[Post-war Susia]], [[War of Arempur]], [[Modernist Alliance]], [[Techno-federative era]], [[Chamber of Experts]], [[Frumentarze]], [[Coalition of State's Rights]], [[Democratic-Federalist Party]], [[Susian Central Bank]], [[Federal Reserve Unit]], [[Harios Petroleum Company]], [[Sužielaj Energy Cooperative]], [[Secretary of Defense]], [[Continental Fortress Doctrine]], [[Macoxile]], [[Foreign Operations Division]], [[Doremojism]], [[Architecture of Freedom]], [[Susian National Crolball League]], [[Reconciliation Act]], and the holiday pages.
+%%

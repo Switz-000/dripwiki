@@ -3,9 +3,9 @@ type: event
 event_name: Continental Divide
 aliases:
   - The Divide
-date_start: 1957
+date_start: 1956
 date_end: 1977
-duration: 20 years
+duration: 21 years
 location:
   - "[[Dripstan]]"
 theatre:
@@ -68,11 +68,11 @@ tags:
   - politics/law
   - belief/ideology
 ---
-The **Continental Divide** (1957–1977) was a cold war between [[Susia]]'s liberal-capitalist bloc and [[Confia]]'s authoritarian syndicalist bloc, constituting the defining geopolitical conflict of Susia's early republican period. The divide shaped two decades of Susian domestic policy, foreign alliances, and institutional development before culminating in the [[Continental War]] (1975–1977) and the defeat of the syndicalist bloc. Its institutional legacy persisted well beyond the conflict itself, embedding the [[Fortress complex]] orientation in Susian political culture and producing the foreign policy architecture that governed the post-war era.
+The **Continental Divide** (1956–1977) was a cold war between [[Susia]]'s liberal-capitalist bloc and [[Confia]]'s authoritarian syndicalist bloc, constituting the defining geopolitical conflict of Susia's early republican period. The divide shaped two decades of Susian domestic policy, foreign alliances, and institutional development before culminating in the [[Continental War]] (1975–1977) and the defeat of the syndicalist bloc. Its institutional legacy persisted well beyond the conflict itself, embedding the [[Fortress complex]] orientation in Susian political culture and producing the foreign policy architecture that governed the post-war era.
 
 ## Background
 
-The [[Tahuni Accords]] of 1954 dissolved the [[Dripstanian Empire]] and granted independence to Susia and [[Confia]] as successor states. The two states inherited a shared continent, a shared imperial history, and an immediate ideological divergence. In 1957 [[Confia]] was established under an authoritarian syndicalist government led by [[Lorelaj Paulowić]] marking the start of the Continental Divide. Susia, founded under [[Suizo Soites]] on the natural rights philosophy of [[Armadesh Versij]], organized as a liberal-capitalist republic and regarded the Confian model as an existential challenge to its own foundations. The competition between the two successor states had intensified into a structured continental rivalry, dividing the continent into two opposing blocs.
+The [[Tahuni Accords]] of 1954 dissolved the [[Dripstanian Empire]] and granted independence to Susia and [[Confia]] as successor states. The two states inherited a shared continent, a shared imperial history, and an immediate ideological divergence. In 1956 [[Lorelaj Paulowić]] founded the United Syndicates of Confia under an authoritarian syndicalist government, marking the start of the Continental Divide. Susia, founded under [[Suizo Soites]] on the natural rights philosophy of [[Armadesh Versij]], organized as a liberal-capitalist republic and regarded the Confian model as an existential challenge to its own foundations. The competition between the two successor states had intensified into a structured continental rivalry, dividing the continent into two opposing blocs.
 
 ## The two blocs
 
@@ -98,7 +98,7 @@ The **[[MAGEN act]]**, passed in 1975, granted emergency executive powers to the
 
 > _Main article: [[List of conflicts related to the Continental Divide]]_
 
-The Continental Divide produced a sustained pattern of proxy competition across the Dripstan continent. Neither Susia nor Confia committed their own forces directly during this phase; instead, both blocs intervened through client states, armed factions, covert operations, and economic leverage to determine the political orientation of smaller continental nations. The result was a sequence of civil wars, coups, and political crises across the continent throughout the 1957–1977 period, each of which the two blocs treated as a theater in the broader ideological contest.
+The Continental Divide produced a sustained pattern of proxy competition across the Dripstan continent. Neither Susia nor Confia committed their own forces directly during this phase; instead, both blocs intervened through client states, armed factions, covert operations, and economic leverage to determine the political orientation of smaller continental nations. The result was a sequence of civil wars, coups, and political crises across the continent throughout the 1956–1977 period, each of which the two blocs treated as a theater in the broader ideological contest.
 
 ### The Second War of the Forest (1958–1960)
 
@@ -168,7 +168,7 @@ The combination of economic isolation, northern attrition, and the collapse of t
 
 ## Aftermath
 
-The post-war [[Flower Revolutions]] brought democratic governments to Confia and several formerly syndicalist-aligned states across the continent. Confia's transition from adversary to partner proceeded through the following decades: Confia joined the ODDN in 1993, and the [[Lasman Economic Initiative]] of 2000 established a customs union between the two states.
+The post-war [[Flower Revolutions]] brought democratic governments to Confia and several formerly syndicalist-aligned states across the continent. [[Drippalia]], annexed by Confia and Kapiogg in 1960, was restored after the war and joined the ODDN in 1981. Confia's transition from adversary to partner proceeded through the following decades: Confia joined the ODDN in 1993, and the [[Lasman Economic Initiative]] of 2000 established a customs union between the two states.
 
 The ODDN itself evolved from an anti-syndicalist alliance into a broader democratic security structure, reorienting toward the containment of [[Ashgerad]] as the primary threat of the following century.
 

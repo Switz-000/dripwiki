@@ -214,7 +214,7 @@ imperial-era              1674–1954
         liberal-revolts   1840–1844
         dissolution       1950–1954, Tahuni Accords to the republic
 republican-era            1954–2038
-    continental-divide    1957–1977, cold war with Confia
+    continental-divide    1956–1977, cold war with Confia
         continental-war   1975–1977, hot war
     post-war              1977–2006, reconstruction and boom
     new-age               2006–2038, Amepur war, modernist movement
@@ -236,7 +236,7 @@ imperial-era              1786–1954
     late-imperial         1837–1954, Jartes II through dissolution
         aiding-state      1845–1922
         home-rule         1922–1937, rule from St. Mantichev City
-        secession-war     1937–1950
+        secession-war     1927–1950
         state-of-confia   1950–1954        
 confian-anarchy   1954–1956
 united-syndicates         1956–2008, Proclamation to the 2008 constitution
@@ -671,6 +671,11 @@ Remove these on sight when editing any file.
 
 Newest first. If you have not written for the vault since a date below, the
 entries above it are what changed under you.
+
+**2026-11-09**
+- `continental-divide` now starts in 1956, the year the United Syndicates
+  of Confia were founded (author ruling). `secession-war` now starts in
+  1927, matching [[War of Confian Secession]] and [[Confia]].
 
 **2026-10-07**
 - Date fields now accept the four stored forms from the Style Guide: `yyyy`,

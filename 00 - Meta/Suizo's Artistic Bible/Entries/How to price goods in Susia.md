@@ -1,6 +1,6 @@
 Method: every price is built from one baseline anchor, then each lever applied in order. A good's final shelf price is a path through the levers. To price a new good, walk the levers and ask which apply.
 **Step 0 — Anchor by ratio, never by IRL conversion.**
-**Price against an established good, not a real-world price. The commodity anchors are: bread D$3.80 / 500g, milk D$3.20 / 1L, commodity beef D$11 / 500g. A new good's pre-tax baseline is set by its ratio to the nearest anchor, justified by mechanism. (This is the discipline that kept correcting beef downward.)**
+**Price against an established good, not a real-world price. The commodity anchors are: bread TĐ3.80 / 500g, milk TĐ3.20 / 1L, commodity beef TĐ11 / 500g. A new good's pre-tax baseline is set by its ratio to the nearest anchor, justified by mechanism. (This is the discipline that kept correcting beef downward.)**
 **Lever 1 — Commodity input floor (sets the ratio).**
 **What are the raw inputs, and are they Susia-cheap? Grain, sugar, dairy, bison-meat, and animal coproducts (tallow, butterfat, hide) are all cheap — LV yield-compression on crops, the coproduct web off the meat/dairy systems. A good made mostly of these has a low floor. Establishes where in the ratio-space the good starts.**
 **Lever 2 — Processing / overhead share (the master lever).**

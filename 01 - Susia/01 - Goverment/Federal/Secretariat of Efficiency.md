@@ -72,7 +72,7 @@ Why It Doesn't Work:
 - Received [[Yarnojte]] scholarship or studied in a Yarnojte university
 - Ban on immediate family in Yarnojte positions
 - Spouse must disclose financial statements
-- Any financial relationships > D$ 10,000 in past 10 years
+- Any financial relationships > TĐ10,000 in past 10 years
 - More than 1% stock portfolio in any single Yarnojte
 - Must wait 5 years after corporate ties end to apply
 

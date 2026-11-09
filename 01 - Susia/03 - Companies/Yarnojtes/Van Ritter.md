@@ -15,8 +15,8 @@ fez:
       creation: 2044
 yarnojte_status:
     - status: Active
-      granted: 2051
-      notes: Restored after company wide restructuring
+      granted: 2044
+      notes:
 yarnojte_revoked:
 fez_locations:
   - "[[Eastern Industrial Complex FEZ]]"
@@ -40,7 +40,7 @@ tags:
   - knowledge/science
 ---
 
-**Van Ritter Incorporated** is a [[Susia|Susian]] defense and aerospace corporation and one of the nation's six active [[Yarnojte|Yarnojtes]]. Founded in 1923 in [[Lore-Kurji]], [[Misocévia]] as an aerospace engineering firm, it is now Susia's primary defense contractor, producing military hardware, aerospace systems, and government cybersecurity and intelligence technology. The company is headquartered at the [[Eastern Industrial Complex FEZ]] in [[Misocévia]] and employs approximately 680,000 people. Its market capitalization is D$1.4 trillion as of 2080. [[Yarnojte]] status was granted in 2044.
+**Van Ritter Incorporated** is a [[Susia|Susian]] defense and aerospace corporation and one of the nation's six active [[Yarnojte|Yarnojtes]]. Founded in 1923 in [[Lore-Kurji]], [[Misocévia]] as an aerospace engineering firm, it is now Susia's primary defense contractor, producing military hardware, aerospace systems, and government cybersecurity and intelligence technology. The company is headquartered at the [[Eastern Industrial Complex FEZ]] in [[Misocévia]] and employs approximately 680,000 people. Its market capitalization is TĐ1.4 trillion as of 2080. [[Yarnojte]] status was granted in 2044.
 
 Van Ritter occupies a structural position in the Susian state with no equivalent among the other Yarnojtes. Its primary client is the [[Susian Federal Government]], and much of its work is conducted under classification levels that place it outside normal institutional oversight. The company also maintains substantial civilian product lines in transportation, communications, and GPS infrastructure, competing directly with [[Nayotai]] in several sectors. The company's culture, its FEZs, and its employment structure all reflect an organization that treats security as both its core product and its governing logic.
 

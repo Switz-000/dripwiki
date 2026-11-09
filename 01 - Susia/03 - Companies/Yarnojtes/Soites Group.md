@@ -32,7 +32,7 @@ meta:
   image:
 ---
 
-**Soites Group** (commonly known as **Soites**) is a [[Susia|Susian]] multinational conglomerate and one of the nation's six [[Yarnojte|Yarnojtes]], operating in retail, logistics, financial services, entertainment, data analytics, and advertising. Founded in 1969 as a discount retail chain by [[Suizo Soites]] (1911-1995), Susia's first president, it is headquartered at the [[Soites Federal Free Trade Zone]] in [[Postia]] and employs approximately 2.4 million people. Its market capitalization is D$3.8 trillion, and its corporate motto is "Your life, Your way."
+**Soites Group** (commonly known as **Soites**) is a [[Susia|Susian]] multinational conglomerate and one of the nation's six [[Yarnojte|Yarnojtes]], operating in retail, logistics, financial services, entertainment, data analytics, and advertising. Founded in 1969 as a discount retail chain by [[Suizo Soites]] (1911-1995), Susia's first president, it is headquartered at the [[Soites Federal Free Trade Zone]] in [[Postia]] and employs approximately 2.4 million people. Its market capitalization is TĐ3.8 trillion, and its corporate motto is "Your life, Your way."
 
 ## History
 
@@ -52,9 +52,9 @@ From 2034 to 2048 Soites partnered with [[Troli Ustaras]], combining its behavio
 
 > _Main article: [[Cognitive enhancement]]_
 
-### Yarnojte status (2038-2050)
+### Yarnojte status (2041-2050)
 
-[[The Great Transition|The Great Transition of 2038]] created the [[Free Economic Zone]] system. Soites was granted [[Yarnojte]] status in 2050 and established the [[Soites Federal Free Trade Zone]] (FFTZ) in [[Postia]], relocating its headquarters there.
+The [[Free Economic Zone]] system was added to the constitution in 2041, three years after [[The Great Transition|the Great Transition of 2038]]. Soites was granted [[Yarnojte]] status in 2050 and established the [[Soites Federal Free Trade Zone]] (FFTZ) in [[Postia]], relocating its headquarters there.
 
 ### Modern era (2050-present)
 

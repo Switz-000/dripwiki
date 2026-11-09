@@ -38,7 +38,7 @@ tags:
     
 - [[Drippalia]] invaded Kapiogg to annex its western provinces leading to the [[Second War of the Forest]] (1958-1960), Drippalia lost and it was split in half between [[Confia]] and Kapiogg
     
-- Kapiogg founded the [[ONND]] alongside [[Susia]] and [[Astofayan]] to contain Confia. Susia conditioned Kapiogg’s entry to the bloc if it would agree to gradually transition from an absolute monarchy into a parliamentary one.
+- Kapiogg founded the [[ODDN]] in 1961 alongside [[Susia]] and [[Astofayan]] to contain Confia. Susia conditioned Kapiogg’s entry to the bloc if it would agree to gradually transition from an absolute monarchy into a parliamentary one.
     
 - Kapiogg fought in the [[Continental War]] alongside Susia, holding the line against Confia while Susia focused on the Southern Front
     
@@ -55,7 +55,6 @@ tags:
   in the vault.
 - [[Jaeregg]], the sister province, is linked from [[Continental Divide]] and has no
   article.
-- The body refers to [[ONND]] while the frontmatter and [[Continental Divide]] use
-  [[ODDN]]. One of the two is wrong; not resolved here.
+- The body's former [[ONND]] was a typo for [[ODDN]]; corrected 09/11/2026.
 - The Drippalia link in the History section is written as a full vault path rather
   than a page name. %%

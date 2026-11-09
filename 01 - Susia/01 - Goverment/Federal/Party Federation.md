@@ -1,6 +1,6 @@
 ---
 type: concept
-summary: Form of federal political organization in Susia in which state parties affiliate under a common federal banner to run candidates for the presidency. Federations pursue a federal agenda and leave state politics to their affiliates, which can differ sharply from state to state.
+summary: Form of federal political organization in Susia in which state parties affiliate under a common federal banner. Until 2038 federations ran the candidates for the presidency; since then presidents hold no party affiliation. Federations pursue a federal agenda and leave state politics to their affiliates, which can differ sharply from state to state.
 aliases:
   - federation
   - party federations
@@ -16,7 +16,7 @@ meta:
   image: null
 ---
 
-A **party federation** is a type of political organization in [[Susia]], composed of state parties that agree on a common federal policy. Federations put forward candidates for the presidency; state parties put forward candidates for the [[Susian Senate]], under their own names and identified with their federation.
+A **party federation** is a type of political organization in [[Susia]], composed of state parties that agree on a common federal policy. Until 2038 federations put forward the candidates for the presidency; since the constitution of 2038 the president holds no party affiliation. State parties put forward candidates for the [[Susian Senate]], under their own names and identified with their federation.
 
 ## Origins
 
@@ -34,7 +34,7 @@ A federation can contain organized wings. The Liberal federation had three: a Ve
 
 ## Ballots
 
-On the presidential ballot, a candidate appears with his or her name and federation only, because the federation, as a collection of parties, puts the candidate forward. On the Senate ballot, a candidate appears with his or her party and, beside it, the party's federation, which influences some votes.
+Until 2038, a candidate on the presidential ballot appeared with his or her name and federation only, because the federation, as a collection of parties, put the candidate forward. On the Senate ballot, a candidate appears with his or her party and, beside it, the party's federation, which influences some votes.
 
 ## Federal and state politics
 
@@ -48,7 +48,7 @@ The presidency, elected by national popular vote, tends to represent the larger 
 
 ## Contemporary Relevance
 
-The federations active as of 2080 are the [[Coalition of State's Rights]], the [[Democratic-Federalist Party]] and the [[Modernist Alliance]]. The Liberal federation and the Democratic Union dissolved in 2038.
+The federations active today are the [[Coalition of State's Rights]], the [[Democratic-Federalist Party]] and the [[Modernist Alliance]]. The Liberal federation and the Democratic Union dissolved in 2038.
 
 ## See also
 
@@ -65,6 +65,7 @@ The federations active as of 2080 are the [[Coalition of State's Rights]], the [
 - CONFLICT, resolved by author statement of 09/10/2026: the earlier text said federations run under a common banner for Senate seats. Senate candidates are put forward by state parties, with the federation shown beside the party on the ballot. The [[Susian Liberal Party]] carried the same wording and is corrected.
 - Non-state federal agenda, diversity of affiliates, more than one affiliate per state, the Dripian affiliate's position, ballot design, the pre-1975 practice, its erosion with the Loyalty Act as an early step, Boňár as its end with external causes, Soites's broad support, and the presidency against the Senate: session canon, 09/10/2026.
 - The Postian Free Farmers are recorded as an SDU affiliate per their own frontmatter.
-- The 2080 federations are from [[Susia]].
+- The present federations are from [[Susia]].
+- SESSION CANON, set by the author 09/11/2026: federations put forward presidential candidates before 2038; since 2038 presidents hold no party affiliation.
 - Links to pages that do not exist: [[Federal Loyalty Act]], [[Susian party system]], [[Coalition of State's Rights]], [[Democratic-Federalist Party]], [[Modernist Alliance]].
 %%

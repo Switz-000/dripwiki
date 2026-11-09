@@ -54,7 +54,7 @@ Until the 1970s, matters internal to a state were settled in the Senate rather t
 
 > *Main article: [[Susia]]*
 
-Since the constitution of 2038 the legislature has been bicameral, composed of the Senate and the [[Chamber of Experts]].
+Since the constitution of 2038 the legislature has been bicameral, composed of the Senate and the [[Chamber of Experts]], which checks the Senate.
 
 %% TODO: whether the republican-era electoral rules below continued after 2038 is unestablished. %%
 
@@ -68,7 +68,7 @@ Senate candidates are put forward by state parties, not by federations. A voter 
 
 ## Powers and Limitations
 
-Spending bills originate in the Senate, as required by the constitution. The Senate confirms nominations to the [[Supreme Court of Susia]] by supermajority. Its present powers are described in [[Susia]].
+Spending bills originate in the Senate, as required by the constitution. The Senate confirms nominations to the [[Supreme Court of Susia]] by supermajority. Every five years it holds a confidence vote on the president, which the president must win by two thirds of the Senate. Its other present powers are described in [[Susia]].
 
 The president is elected by national popular vote without an intermediate electoral body, and tends to represent the interests of the larger states. The Senate, with equal representation for every state, is the counterweight.
 
@@ -91,5 +91,6 @@ The president is elected by national popular vote without an intermediate electo
 - Whether the republican-era legislature had a second chamber is unestablished. The Chamber of Experts dates from the 2038 constitution.
 - Spending bills originating in the Senate: from [[National Care Act of 1981]]. Supreme Court confirmation: from [[Supreme Court of Susia]].
 - seat Soiteslaj: the capital, per [[Susia]]. The Senate's building is not named.
+- SESSION CANON, set by the author 09/11/2026: the presidential confidence vote requires two thirds of the Senate; the Chamber of Experts exists to check the Senate.
 - Links to pages that do not exist: [[Susian Constitution]], [[Federal Loyalty Act]], [[Chamber of Experts]].
 %%

@@ -4,7 +4,7 @@ native_name:
 lusitanized_name:
 aliases:
   - 
-summary:
+summary: Emperor of the Dripstanian Empire, reigning from 1882 to 1950. He died with no clear successor, and the Treaty of Sužielaj, signed after his death, split the empire into two autonomous provinces.
 sex: Male
 ethnicity: West Gaiyanese
 religion: "[[Reformed Armotism]]"
@@ -15,14 +15,14 @@ nationality:
 enhanced: false
 birth:
   year: 1860
-  city: "[[Soiteslaj|St. Mantichev city]]"
-  state: "[[Neutral District]]"
+  city: "[[Duolij]]"
+  state: "[[Postia]]"
   country: "[[Dripstanian Empire]]"
 death:
   year: 1950
   city: "[[Soiteslaj|St. Mantichev city]]"
   state: "[[Neutral District]]"
-  country: [[Dripstanian Empire]]
+  country: "[[Dripstanian Empire]]"
   cause: Stroke
 relations:
   - person:
@@ -103,3 +103,11 @@ meta:
   verified: false
   image:
 ---
+
+**Sallemaj** (1860–1950) was emperor of the [[Dripstanian Empire]], reigning from 1882 to 1950 after [[Jartes II]]. His reign covered the [[War of Confian Secession]] (1927 to 1950). He died of a stroke in 1950 with no clear successor, and an interim government took over. The [[Treaty of Sužielaj]], signed after his death, ended the war and split the empire into two autonomous provinces; the empire formally ended in 1954.
+
+%% FLAGS:
+- Treaty of Sužielaj after his death: author ruling, 09/11/2026. Interim government from [[Emperor of the Dripstanian Empire]].
+- Born in [[Duolij]] by author ruling, 09/11/2026.
+- country in death was an unquoted wikilink; quoted.
+%%

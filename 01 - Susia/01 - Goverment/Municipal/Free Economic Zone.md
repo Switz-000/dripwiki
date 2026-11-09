@@ -16,7 +16,7 @@ tags:
   - culture
   - belief/philosophy
 ---
-A **Free Economic Zone** (FEZ) is a city-scale territory within [[Susia]] leased by the federal government to a [[Yarnojte]], a corporation granted strategic status by the [[Secretariat of Efficiency]], which governs the zone in place of a conventional municipal or state authority. FEZs were created by the [[Susian Constitution|constitution of 2038]] as part of the [[The Great Transition|Great Transition]] and are the structural core of the [[Susia|Techno-Federative Republic]]'s distinctive governing model. Within their boundaries, the governing Yarnojte provides housing, healthcare, education, infrastructure, and internal law enforcement. Residents retain full federal constitutional protections. Participation is voluntary: no Susian is required to live or work in a FEZ.
+A **Free Economic Zone** (FEZ) is a city-scale territory within [[Susia]] leased by a state government to a [[Yarnojte]], a corporation granted strategic status by the [[Secretariat of Efficiency]], which governs the zone in place of a conventional municipal or state authority. FEZs were added to the [[Susian Constitution]] by an amendment of 2041, three years after the [[The Great Transition|Great Transition]], and are the structural core of the [[Susia|Techno-Federative Republic]]'s distinctive governing model. Within their boundaries, the governing Yarnojte provides housing, healthcare, education, infrastructure, and internal law enforcement. Residents retain full federal constitutional protections. Participation is voluntary: no Susian is required to live or work in a FEZ.
 
 As of 2080, approximately 0.25% of the Susian population lives inside a FEZ. [[Yarnojte|Yarnojtes]] and their subsidiaries employ roughly 3% of the total Susian workforce, the majority of whom live and work in independent Susia rather than inside the zones themselves.
 
@@ -28,7 +28,7 @@ The FEZ concept has a contested intellectual genealogy. [[Yário Kolkov]], writi
 
 The [[Modernist Alliance]], which drove the constitutional convention of 2036 to 2038, formed around Kolkov's ideas but was not ideologically unified. Corporate modernists within the movement, backed by substantial lobbying from [[Troli Ustaras]] and [[Nayotai]], pressed for an interpretation of Kolkov's work that centered corporate FEZ governance as the primary form of institutional competition. The resulting constitutional text reflected this faction's influence. Kolkov himself, who died in 2011, had already identified that TU was stripping his framework of the oversight and exit provisions he considered essential.
 
-The FEZ system as ratified narrowed Kolkov's pluralist vision into a specifically corporate model. Whether it constitutes a valid implementation of competitive governance principles or a corporate co-optation of a philosophy that never endorsed it remains a genuine line of debate in Susian political theory.
+The FEZ system as adopted narrowed Kolkov's pluralist vision into a specifically corporate model. Whether it constitutes a valid implementation of competitive governance principles or a corporate co-optation of a philosophy that never endorsed it remains a genuine line of debate in Susian political theory.
 
 ## Creation process
 
@@ -62,7 +62,7 @@ Critics argue that this framing obscures the economic coercion involved. For wor
 
 FEZ taxes are paid at standard federal and state rates. In states with large FEZ presences, this tax revenue is significant: [[Postia]] and [[Dripia]] in particular depend substantially on Yarnojte tax contributions to fund state-level universal healthcare and education services in independent Susia. Susians living in states without FEZs benefit indirectly through the consumer prices made possible by Yarnojte-scale production, as well as through federal services partially funded by Yarnojte taxation.
 
-Yarnojtes pay FEZ lease fees in [[Federal Reserve Unit|Federal Drips]] (FD$), the commodity-backed currency used for long-term contracts, which provides the host state and federal government with inflation-stable long-term revenue.
+Yarnojtes pay FEZ lease fees in [[Federal Reserve Unit|Federal Reserve Units]] (FĐ), the commodity-backed currency used for long-term contracts, which provides the host state and federal government with inflation-stable long-term revenue.
 
 ## Scale and public perception
 

@@ -28,7 +28,7 @@ tags:
   - knowledge/technology
   - culture
 ---
-**Nayotai Corporation** is a [[Susia|Susian]] multinational corporation and one of the nation's six active [[Yarnojte|Yarnojtes]]. Founded in 1909 in [[Duolij]] through the merger of three engineering firms, Nayotai is Susia's primary manufacturer of transportation vehicles and infrastructure systems and one of the largest infrastructure contractors on the [[Dripstan]] continent. The company is headquartered at the [[Postia Manufacturing Center FEZ]] in [[Postia]] and employs approximately 700,000 people worldwide. As of 2080, its market capitalization is D$2.2 trillion. Its motto is "On Time, All the Time."
+**Nayotai Corporation** is a [[Susia|Susian]] multinational corporation and one of the nation's six active [[Yarnojte|Yarnojtes]]. Founded in 1909 in [[Duolij]] through the merger of three engineering firms, Nayotai is Susia's primary manufacturer of transportation vehicles and infrastructure systems and one of the largest infrastructure contractors on the [[Dripstan]] continent. The company is headquartered at the [[Postia Manufacturing Center FEZ]] in [[Postia]] and employs approximately 700,000 people worldwide. As of 2080, its market capitalization is TĐ2.2 trillion. Its motto is "On Time, All the Time."
 
 Nayotai holds [[Yarnojte]] status granted in 2050 and operates two [[Free Economic Zone|Free Economic Zones]]: the [[Postia Manufacturing Center]] in [[Postia]] and the [[Sužielaj Industrial Park]] in [[Sužielaj]]. The company is publicly respected for the reliability of its engineering work and publicly criticized for the conditions under which that work is produced.
 
@@ -93,7 +93,7 @@ The FEZs provide comprehensive employee benefits: housing assigned by role and s
 
 Therapy utilization among Nayotai employees is approximately 62% of the workforce, the highest rate among all active Yarnojtes. Divorce rates among FEZ residents run at approximately 35%. Stress-related illness, including chronic insomnia, anxiety disorders, and gastrointestinal conditions, is common. Nayotai provides mental health services as a standard employee benefit; the services exist to sustain the workforce under conditions the company's own structure produces.
 
-Engineer salaries range from approximately D$125,000 to D$230,000 annually. Advancement is merit-based and the promotional path is clearly defined, which contributes to retention despite the working conditions. The company's reputation for reliability is itself a professional credential: employment at Nayotai carries weight in the Susian engineering labor market.
+Engineer salaries range from approximately TĐ125,000 to TĐ230,000 annually. Advancement is merit-based and the promotional path is clearly defined, which contributes to retention despite the working conditions. The company's reputation for reliability is itself a professional credential: employment at Nayotai carries weight in the Susian engineering labor market.
 
 ### Cognitive enhancement
 
@@ -115,7 +115,7 @@ The reform restored functional operations. On-time delivery recovered to 84% by 
 
 ### 2075 unpaid overtime class action
 
-In 2075, a whistleblower complaint triggered an [[Federal Authority of Commerce and Competition|AFCC]] investigation into Nayotai's overtime practices. The investigation found that salaried employees across the company's Susian operations had systematically worked between 600 and 700 hours of unpaid overtime per year. Nayotai's position was that salaried employees working on project-based schedules were not entitled to overtime compensation. The AFCC and subsequently the courts ruled that the practice constituted systematic labor exploitation. Nayotai paid a fine of D$780 million and back pay to approximately 12,000 affected employees.
+In 2075, a whistleblower complaint triggered an [[Federal Authority of Commerce and Competition|AFCC]] investigation into Nayotai's overtime practices. The investigation found that salaried employees across the company's Susian operations had systematically worked between 600 and 700 hours of unpaid overtime per year. Nayotai's position was that salaried employees working on project-based schedules were not entitled to overtime compensation. The AFCC and subsequently the courts ruled that the practice constituted systematic labor exploitation. Nayotai paid a fine of TĐ780 million and back pay to approximately 12,000 affected employees.
 
 The ruling did alter working conditions within the FEZs. Unpaid overtime remains less of a structural feature of Nayotai employment.
 

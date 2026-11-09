@@ -27,6 +27,6 @@ Marketshare:
 
 Other Notes:
 - If you're under 35, probably your bank
-- Zero-fee checking with FD$ / TD$ automatic optimization
+- Zero-fee checking with FĐ / TĐ automatic optimization
 - Yarčemaek app loved by tech savvy people 
 - Partners with [[Soites Group|Soites]] for in-store financing

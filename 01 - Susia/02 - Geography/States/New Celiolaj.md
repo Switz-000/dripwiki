@@ -102,7 +102,7 @@ New Celiolaj's governors have a more direct style of government than those of ot
 - The frontmatter lists the eastern neighbour as [[Dripália]]; the body follows [[Susia]] and the vault generally in using [[Drippalia]]. Not changed in the frontmatter pending confirmation that the two are the same.
 - Terminology: the dukes of New Celiolaj in 1815 predate the designation of the Tekur Territory. The vault's convention of modern names for imperial-era regions covers this. When and how the duchy and the Tekur Territory became one administrative unit is not established.
 - The 40% Tekur share is undated in [[Susia]]. The share in 1954 is not established.
-- The name of Atompron's FEZ in the state is not established. GDP per capita (D$155,000, 2080) is held in the frontmatter only.
+- The name of Atompron's FEZ in the state is not established. GDP per capita (TĐ155,000, 2080) is held in the frontmatter only.
 - Base header fields (summary, aliases, era, tags, meta) added this session to the existing state frontmatter. "Tekur Territory" added as an alias so that historical references resolve here.
 - Links to pages that do not exist: [[Kingdom of Tekuria]], [[Reconciliation Act]], [[Tekur Heritage Month]]. [[Unarete]] has frontmatter only.
 

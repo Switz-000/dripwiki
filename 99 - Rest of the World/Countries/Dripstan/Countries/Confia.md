@@ -67,6 +67,8 @@ After the gradual occupation of Confian territory, in 1786 the General Governmen
 ## War of Confian Secession (1927-1950) and the last days of the Empire (1950-1954)
 > Main article: [[War of Confian Secession]]
 
+The war ended after the death of [[Emperor Sallemaj]] with the [[Treaty of Sužielaj]] of 1950, which split the empire into two autonomous provinces. The empire formally ended in 1954 with the [[Tahuni Accords]].
+
 
 ## The Confian Anarchy (1954-1956)
 
@@ -121,7 +123,7 @@ The snap elections of 1980 produced a [[Confian Liberal Party]] majority governm
 # Government
 # Economy
 
-The Confian economy is the second largest in the Dripstanian continent both nominal (D$ 2.2 trillion) and per-capita terms. Since the 1990s, Confia has engaged in market-based reforms that reduced and modernized its regulatory apparatus, as well as the process of "desyndicalization" of the political and economic scene, which saw syndicates turn from vectors for worker self-management and [[Ragged-sleeve|ragged-sleeve]] control to vehicles for sectoral bargaining.
+The Confian economy is the second largest in the Dripstanian continent both nominal (TĐ2.2 trillion) and per-capita terms, at about TĐ17,900 per person. Since the 1990s, Confia has engaged in market-based reforms that reduced and modernized its regulatory apparatus, as well as the process of "desyndicalization" of the political and economic scene, which saw syndicates turn from vectors for worker self-management and [[Ragged-sleeve|ragged-sleeve]] control to vehicles for sectoral bargaining.
 # Military
 # Foreign relations
 # Culture

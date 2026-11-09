@@ -24,7 +24,7 @@ aliases:
   - Rǎz Lizňir Corporation
 ---
 
-**Rǎz Lizňir Corporation** is a [[Susia|Susian]] Public Benefit Corporation headquartered in [[Velúria]], [[Orlítia]], founded in 2073. The company operates in the post-mortem organ procurement market, purchasing the rights to a living client's organs in exchange for an upfront cash payment, then harvesting and auctioning those organs upon the client's natural death. Rǎz Lizňir was founded one year after the [[Bodily Autonomy Act of 2072]], which legalized the regulated for-profit organ market in [[Susia]], and is widely credited with resolving the organ supply crisis that preceded the act. With a market capitalization of D$73.2 billion as of 2080, it is the dominant player in the sector.
+**Rǎz Lizňir Corporation** is a [[Susia|Susian]] Public Benefit Corporation headquartered in [[Velúria]], [[Orlítia]], founded in 2073. The company operates in the post-mortem organ procurement market, purchasing the rights to a living client's organs in exchange for an upfront cash payment, then harvesting and auctioning those organs upon the client's natural death. Rǎz Lizňir was founded one year after the [[Bodily Autonomy Act of 2072]], which legalized the regulated for-profit organ market in [[Susia]], and is widely credited with resolving the organ supply crisis that preceded the act. With a market capitalization of TĐ73.2 billion as of 2080, it is the dominant player in the sector.
 
 ## Business Model
 
@@ -32,10 +32,10 @@ aliases:
 
 Rǎz Lizňir's core product is a pre-purchase organ contract. A living client signs over the rights to their organs in exchange for an immediate lump-sum payment. The amount offered is calculated actuarially based on the client's age, health, and projected organ viability at time of death:
 
-- Healthy individual aged 25: FD$180,000 (full package)
-- Healthy individual aged 45: FD$120,000
-- Individual aged 65: FD$60,000
-- High-risk or unhealthy individuals: FD$20,000 to FD$40,000
+- Healthy individual aged 25: FĐ180,000 (full package)
+- Healthy individual aged 45: FĐ120,000
+- Individual aged 65: FĐ60,000
+- High-risk or unhealthy individuals: FĐ20,000 to FĐ40,000
 
 Individual organ sales are also available on an à la carte basis for clients who wish to sell rights to specific organs rather than the full package.
 

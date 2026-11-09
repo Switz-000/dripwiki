@@ -177,11 +177,11 @@ Worker ownership and management of the means of production through syndicates. T
 
 ### Anti-Syndicalism
 
-The position that syndicalist governance and economics represent a fundamental threat to individual liberty and economic prosperity, and should be opposed both domestically and abroad. The defining foreign policy orientation of Susia during the [[Continental Divide]] (1957–1977), when syndicalism spreading across the continent was treated as an existential threat. Domestically, the stance justified the [[MAGEN act]] of 1975, which restricted left-wing parties, and the [[Federal Loyalty Act]]. Present as an explicit ideology of Susian conservative parties such as the [[White Stork Party]] and historically across the [[Susian Democratic Union]]. The stance lost its primary target after the [[Continental War]] but its institutional legacy, including the [[ODDN]], the [[Frumentarze]]'s expanded powers, and the [[Fortress complex]] orientation, persisted well beyond the conflict.
+The position that syndicalist governance and economics represent a fundamental threat to individual liberty and economic prosperity, and should be opposed both domestically and abroad. The defining foreign policy orientation of Susia during the [[Continental Divide]] (1956–1977), when syndicalism spreading across the continent was treated as an existential threat. Domestically, the stance justified the [[MAGEN act]] of 1975, which restricted left-wing parties, and the [[Federal Loyalty Act]]. Present as an explicit ideology of Susian conservative parties such as the [[White Stork Party]] and historically across the [[Susian Democratic Union]]. The stance lost its primary target after the [[Continental War]] but its institutional legacy, including the [[ODDN]], the [[Frumentarze]]'s expanded powers, and the [[Fortress complex]] orientation, persisted well beyond the conflict.
 
 ### Cooperativism
 
-Worker- or community-owned enterprises as the preferred economic unit, without the centralized state apparatus of syndicalism. A minority position in post-war Confia; present in worker-owned formations such as the [[Sužielaj Energy Cooperative]].
+Worker- or community-owned enterprises as the preferred economic unit, without the centralized state apparatus of syndicalism. A minority position in post-war Confia, and in Susia, where it is present in worker-owned formations such as the [[Sužielaj Energy Cooperative]].
 
 ### Automationalism
 

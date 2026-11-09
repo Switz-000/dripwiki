@@ -95,7 +95,7 @@ the callout even if the target page does not yet exist.
 
 - Spell out numbers one through nine. Use numerals for 10 and above.
 - Spell out numbers that begin a sentence regardless of size.
-- The Susian currency is the drip. Symbol: D$. Example: *D$6.2 trillion*.
+- The Susian currency is the Transactional Drip. Symbol: TĐ. Example: *TĐ6.2 trillion*. Long-term contracts use the Federal Reserve Unit (FĐ); never call it the "Federal Drip". Use D$ only for the old drip, from imperial times to post-war Susia.
 
 ### The present is 2088
 

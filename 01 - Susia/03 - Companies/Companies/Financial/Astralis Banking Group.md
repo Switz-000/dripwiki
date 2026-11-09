@@ -20,4 +20,4 @@ tags:
 Other notes:
 - If you live east of [[Misocévia]], probably your bank
 - Agricultural loans for farmers in [[Troli]], [[Sužielaj]], [[Vitrika]], [[Misocévia]]
-- FD$ savings accounts marketed heavily to [[Cericeiro]] heritage communities. “Embody the frontier spirit!”
+- FĐ savings accounts marketed heavily to [[Cericeiro]] heritage communities. “Embody the frontier spirit!”

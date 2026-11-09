@@ -35,7 +35,7 @@ Between around 1980 and 1982 Susian public opinion turned toward intervention. T
 
 > *Main article: [[Bershadi Civil War#Susian intervention]]*
 
-From around 2000 Susia led a nation-building effort in Bershad in collaboration with its [[ODDN]] allies in Incria: [[Veskera]], [[Yar-Firol]] and [[Sekyo]]. It was framed as the rescue of the empire's own people.
+From around 2000 Susia led a nation-building effort in Bershad in collaboration with the [[ODDN]] member [[Veskera]] and the regional ODDN partners [[Yar-Firol]] and [[Sekyo]]. It was framed as the rescue of the empire's own people.
 
 ## Since the intervention
 

@@ -16,13 +16,13 @@ tags:
   - land/infrastructure
   - belief/philosophy
 ---
-A **Yarnojte** is a corporation granted strategic status by the [[Susian Federal Government]], conferring the authority to govern city sized zones ([[Free Economic Zone|FEZs]]) and participate in federal economic planning. The Yarnojte system was created as part of the [[The Great Transition|Great Transition]] of 2038, establishing the constitutional framework of the [[Susia|Techno-Federative Republic of Susia]]. As of 2080, six corporations hold active Yarnojte status, while three former Yarnojtes have had their status revoked.
+A **Yarnojte** is a corporation granted strategic status by the [[Susian Federal Government]], conferring the authority to govern city sized zones ([[Free Economic Zone|FEZs]]) and participate in federal economic planning. Yarnojte status was added to the [[Susian Constitution]] by an amendment of 2041, three years after the [[The Great Transition|Great Transition]] of 2038 established the [[Susia|Techno-Federative Republic of Susia]]. Six corporations hold active Yarnojte status, and status has been revoked three times.
 
 ## Origins
 
 > *Main article: [[The Great Transition]]*
 
-The Yarnojte system emerged from the constitutional reforms of 2036 to 2038, but its relationship to its supposed intellectual foundation is contested and substantially distorted.
+The Yarnojte system emerged from the constitutional reforms of 2036 to 2038 and the amendment of 2041, but its relationship to its supposed intellectual foundation is contested and substantially distorted.
 
 ### Kolkov's Philosophy
 
@@ -42,7 +42,7 @@ The [[Modernist Alliance]], the political movement that drove the Great Transiti
 
 Major corporations, particularly [[Troli Ustaras]] and [[Nayotai]], had actively funded and lobbied the Modernist factions most amenable to their interests during the lead-up to the constitutional convention. By the time the convention opened in 2036, corporate modernists held significant influence over the movement's direction, and TU in particular had invested heavily in shaping how Kolkov's framework was interpreted in policy circles, a process Kolkov himself described as intellectual capture.
 
-The Yarnojte system as ratified in 2038 was the product of negotiation between these competing factions, further compromised by the practical demands of constitutional consensus. The result bore a recognizable family resemblance to Kolkov's ideas: institutional competition, structured autonomy, oversight mechanisms, and easy exit. But the system narrowed his pluralist vision considerably, centering corporate FEZ governance as the primary alternative model rather than one among many. The competition, oversight, and exit provisions Kolkov considered non-negotiable were present in the final text but diluted from what more reform-oriented factions had proposed.
+The Yarnojte system as adopted in 2041 was the product of negotiation between these competing factions, further compromised by the practical demands of constitutional consensus. The result bore a recognizable family resemblance to Kolkov's ideas: institutional competition, structured autonomy, oversight mechanisms, and easy exit. But the system narrowed his pluralist vision considerably, centering corporate FEZ governance as the primary alternative model rather than one among many. The competition, oversight, and exit provisions Kolkov considered non-negotiable were present in the final text but diluted from what more reform-oriented factions had proposed.
 
 Whether the Yarnojte system represents a reasonable implementation of competitive governance principles or a corporate co-optation of a philosophy that never endorsed it remains a subject of genuine debate in Susian political theory.
 
@@ -85,7 +85,7 @@ When a Yarnojte loses its status, all FEZ leases are immediately canceled. The a
 
 Three revocations have occurred since the system's founding:
 
-- **[[Troli Ustaras]]** (2047): Status revoked after an attempt to bribe a [[Secretariat of Efficiency|Secretariat]] member reviewing a FEZ expansion application. TU was fined D$500 million, its FEZ operations were suspended, and its leadership was criminally prosecuted. Status was regranted in 2051 following a full corporate restructuring under new management. TU had originally been granted status in 2041, making the scandal a decade into its operation.
+- **[[Troli Ustaras]]** (2047): Status revoked after an attempt to bribe a [[Secretariat of Efficiency|Secretariat]] member reviewing a FEZ expansion application. TU was fined TĐ500 million, its FEZ operations were suspended, and its leadership was criminally prosecuted. Status was regranted in 2051 following a full corporate restructuring under new management. TU had originally been granted status in 2041, making the scandal a decade into its operation.
 - **[[Vandernij & Milier]]** (2083): Status revoked due to financial deterioration, resource depletion, and declining strategic relevance. The Nikuria Industrial District FEZ reverted to [[Postia]] state control. V&M continues to operate as a standard corporation.
 - **[[POCOIL]]** (2087): Status revoked after the company lost strategic importance in the energy sector, displaced by [[Atompron]]'s dominance in nuclear energy. POCOIL rebranded as a petrochemical company and continues operating without FEZ authority.
 
@@ -93,7 +93,7 @@ The TU case established the clearest precedent in Yarnojte history. No corporati
 
 ## Current Yarnojtes
 
-As of 2080, the following corporations hold active Yarnojte status:
+The following corporations hold active Yarnojte status:
 
 | Corporation        | Sector                        | Original Grant | Notes                        |
 | ------------------ | ----------------------------- | -------------- | ---------------------------- |

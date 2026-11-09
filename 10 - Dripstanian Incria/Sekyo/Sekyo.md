@@ -64,7 +64,7 @@ Sekyo has recognized the southern Bershadi government since the [[Bershadi Confe
 
 ### Susia
 
-Sekyo hosts Susian military bases and is an [[ODDN]] ally of [[Susia]] in Incria.
+Sekyo hosts Susian military bases and is a regional [[ODDN]] partner, not a full member.
 
 ## See Also
 

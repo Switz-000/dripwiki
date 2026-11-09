@@ -26,7 +26,7 @@ tags:
 yarnojte_status:
   fez_locations:
 ---
-**Lischev-Verene Biomedical Corporation** (commonly known as **LV** or **LV Biomedical**) is a [[Susia|Susian]] multinational corporation and one of the nation's six active [[Yarnojte|Yarnojtes]]. Formed in 2065 through the merger of [[Lischev Pharmaceuticals]] and [[Verene Biosciences]], the company operates in cognitive enhancement procedures, life extension programs, pharmaceuticals, and healthcare services. It is headquartered at the [[Garden of Latice FEZ]] in [[Sužielaj]] and employs approximately 880,000 people. Its market capitalization is D$3.2 trillion as of 2080. [[Yarnojte]] status was granted in 2073.
+**Lischev-Verene Biomedical Corporation** (commonly known as **LV** or **LV Biomedical**) is a [[Susia|Susian]] multinational corporation and one of the nation's six active [[Yarnojte|Yarnojtes]]. Formed in 2065 through the merger of [[Lischev Pharmaceuticals]] and [[Verene Biosciences]], the company operates in cognitive enhancement procedures, life extension programs, pharmaceuticals, and healthcare services. It is headquartered at the [[Garden of Latice FEZ]] in [[Sužielaj]] and employs approximately 880,000 people. Its market capitalization is TĐ3.2 trillion as of 2080. [[Yarnojte]] status was granted in 2073.
 
 Lischev-Verene occupies a distinct position among the Yarnojtes, defined in large part by its philosophical opposition to the post-human trajectory associated with [[Troli Ustaras]]. Where TU treats the human body as a platform to be upgraded, LV treats it as the irreducible substrate of consciousness, to be preserved, optimized, and extended rather than transcended. This distinction is the basis of both the companies' mandated partnership and their sustained institutional hostility.
 
@@ -56,7 +56,7 @@ Lischev-Verene was granted [[Yarnojte]] status in 2073, eight years after the me
 
 ### Products and Services
 
-Lischev-Verene's core product lines span three domains. In pharmaceuticals, it manufactures pain management compounds, disease treatments, and the biological compatibility drugs used in cognitive enhancement procedures. In enhancement and life extension, it performs enhancement procedures using its own less invasive biological approach, develops genetic therapies, and administers the [[VITAKEI]] life extension and health monitoring system. In healthcare services, it operates clinics and provides coverage at D$800 per month for full healthcare with genetic data sharing, or D$2,000 per month without.
+Lischev-Verene's core product lines span three domains. In pharmaceuticals, it manufactures pain management compounds, disease treatments, and the biological compatibility drugs used in cognitive enhancement procedures. In enhancement and life extension, it performs enhancement procedures using its own less invasive biological approach, develops genetic therapies, and administers the [[VITAKEI]] life extension and health monitoring system. In healthcare services, it operates clinics and provides coverage at TĐ800 per month for full healthcare with genetic data sharing, or TĐ2,000 per month without.
 
 Among the company's documented medical achievements as of 2090 are the near-elimination in [[Susia]] of breast, prostate, colorectal, stomach, and lung cancer; effective treatments for [[Tarlanna's disease]] and [[Jashevor's disease]]; and treatment for osteoporosis and several forms of dementia. Residents of the [[Garden of Latice FEZ]] have documented lifespans of 120 to 140 years under the full life extension program.
 
@@ -70,7 +70,7 @@ The agricultural division operates largely independently of the company's health
 
 Residency in the [[Garden of Latice FEZ]] involves a structured agreement between the company and the resident. In exchange for free healthcare coverage, access to life extension programming, rare disease treatments, and participation in experimental treatments, residents surrender permanent rights to their genetic data, submit to continuous biological monitoring including daily and weekly tests, and cede a degree of personal autonomy to [[VITAKEI]]'s health directives, which govern diet, sleep, and activity patterns. The genetic data transfer is permanent and survives termination of residency.
 
-The compact also includes access to experimental treatments at financial incentives: D$10,000 for low-risk drug trials, D$40,000 for medium-risk treatments, and D$100,000 for high-risk untested procedures.
+The compact also includes access to experimental treatments at financial incentives: TĐ10,000 for low-risk drug trials, TĐ40,000 for medium-risk treatments, and TĐ100,000 for high-risk untested procedures.
 
 ## Free Economic Zones
 
@@ -122,7 +122,7 @@ Critics argue that the practical effect of the enforcement program is to make sm
 
 Lischev-Verene's experimental treatment program operates in a legal gray zone produced by the distinction in Susian law between an "experimental treatment" and a "clinical trial." Participants in experimental treatments are classified as "patients receiving care" rather than "test subjects," which subjects the program to a different and less demanding regulatory framework than formal clinical trials.
 
-The program offers financial incentives of D$10,000 for low-risk drug trials, D$40,000 for medium-risk treatments, and D$100,000 for high-risk untested procedures. Participants include terminal patients with limited alternatives, individuals who cannot afford the standard D$800 monthly coverage, uninsured Susians, and people seeking cognitive enhancement or financial relief. A portion of participants are employees who report cultural pressure to participate, with participation framed internally as demonstrating commitment to the company's mission.
+The program offers financial incentives of TĐ10,000 for low-risk drug trials, TĐ40,000 for medium-risk treatments, and TĐ100,000 for high-risk untested procedures. Participants include terminal patients with limited alternatives, individuals who cannot afford the standard TĐ800 monthly coverage, uninsured Susians, and people seeking cognitive enhancement or financial relief. A portion of participants are employees who report cultural pressure to participate, with participation framed internally as demonstrating commitment to the company's mission.
 
 The program has not been the subject of a successful regulatory action as of 2080. The [[Federal Authority of Commerce and Competition]] has reviewed the classification framework on several occasions without finding a legal basis for intervention under current statute.
 
@@ -158,7 +158,7 @@ The program has not been the subject of a successful regulatory action as of 208
 
 %%
 FLAGS:
-- Employee count (880k) and market cap (D$3.2 trillion) sourced from both the vault stub and the source doc, which agree.
+- Employee count (880k) and market cap (TĐ3.2 trillion) sourced from both the vault stub and the source doc, which agree.
 - The source doc describes the experimental wellness program but cuts off before completing the "Legal Gray Zone" section. The article treats what is present as complete canon and does not speculate about the truncated content.
 - Agricultural biotechnology section: figures (34% licensed, 60% GMO total) and export markets sourced from session canon. No source doc or vault article previously established this. Recorded here as session-decided canon.
 - The connection between Verene Biosciences' agricultural work and LV's current seed market position is a reasonable inference from the merger timeline and Verene's stated focus on genetic research. Flagged as inferred bridging detail.

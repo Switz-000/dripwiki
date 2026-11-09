@@ -43,7 +43,7 @@ tags:
   - knowledge/medicine
 ---
 
-**Troli Ustaras** (TU) is a Susian technology corporation founded in 1959 in [[Donetruže]], [[Troli]], and the largest company by market capitalization in [[Susia]] as of 2080, with a market cap of D$6.2 trillion. TU holds [[Yarnojte]] status, granted in 2041 and restored in 2051 following revocation during the [[Troli Ustaras Corruption Scandal (2047)|corruption scandal of 2047]], and governs the [[Susian Innovation Center]] Free Economic Zone in [[Dripia]]. Its primary sectors are artificial intelligence, robotics, automation, computing, and cognitive enhancement hardware. TU employs approximately 800,000 people, including FEZ residents.
+**Troli Ustaras** (TU) is a Susian technology corporation founded in 1959 in [[Donetruže]], [[Troli]], and the largest company by market capitalization in [[Susia]] as of 2080, with a market cap of TĐ6.2 trillion. TU holds [[Yarnojte]] status, granted in 2041 and restored in 2051 following revocation during the [[Troli Ustaras Corruption Scandal (2047)|corruption scandal of 2047]], and governs the [[Susian Innovation Center]] Free Economic Zone in [[Dripia]]. Its primary sectors are artificial intelligence, robotics, automation, computing, and cognitive enhancement hardware. TU employs approximately 800,000 people, including FEZ residents.
 
 ## History
 
@@ -73,13 +73,13 @@ In 1985 TU contracted [[Ňotrič Apaj]] to write its training materials, funded 
 
 TU was among the most active corporate participants in the political process that produced the [[Great Transition]] of 2038. Alongside [[Nayotai]], TU funded and lobbied the Modernist Alliance factions most amenable to corporate FEZ governance. By the time the constitutional convention opened in 2036, TU had invested substantially in shaping how Kolkov's framework would be translated into policy, a process that produced a constitutional text favorable to structured corporate autonomy.
 
-The [[Susian Constitution|constitution of 2038]] established the Yarnojte system and the FEZ framework. TU was granted Yarnojte status in 2041, among the earliest recipients. The grant authorized TU to govern the [[Susian Innovation Center]] FEZ in Dripia, which it had been developing as a campus and residential community for years prior to formal Yarnojte designation.
+An amendment of 2041 to the [[Susian Constitution]] established the Yarnojte system and the FEZ framework. TU was granted Yarnojte status in 2041, among the earliest recipients. The grant authorized TU to govern the [[Susian Innovation Center]] FEZ in Dripia, which it had been developing as a campus and residential community for years prior to formal Yarnojte designation.
 
 ### Corruption scandal and restructuring (2047–2051)
 
 > *Main article: [[Troli Ustaras Corruption Scandal (2047)]]*
 
-In 2047, TU was found to have attempted to bribe a member of the [[Secretariat of Efficiency]] in connection with a FEZ expansion application. The attempted bribe triggered automatic Yarnojte status revocation under the constitution's absolute prohibition on corrupting federal officials. TU was fined D$500 million, its FEZ operations were suspended, and its leadership faced criminal prosecution.
+In 2047, TU was found to have attempted to bribe a member of the [[Secretariat of Efficiency]] in connection with a FEZ expansion application. The attempted bribe triggered automatic Yarnojte status revocation under the constitution's absolute prohibition on corrupting federal officials. TU was fined TĐ500 million, its FEZ operations were suspended, and its leadership faced criminal prosecution.
 
 The scandal coincided with the 2049 public exposure of the [[Federal Cognitive Enhancement Program]], in which TU had been a central participant. The program, which ran from 2040 to 2048, had produced nine deaths, 23 cases of permanent cognitive damage, and 63 moderate injuries. Families of deceased participants had been pressured into signing non-disclosure agreements and received incomplete compensation. The simultaneous exposure of the bribery and the enhancement program deaths produced a severe crisis of public trust.
 
@@ -149,7 +149,7 @@ Between 2040 and 2046, TU's participation in the federal cognitive enhancement p
 
 > *Main article: [[Troli Ustaras Corruption Scandal (2047)]]*
 
-TU's attempted bribery of a Secretariat of Efficiency member in 2047 resulted in automatic Yarnojte status revocation, a D$500 million fine, FEZ suspension, and criminal prosecution of company leadership. The revocation is the most significant regulatory action taken against any Yarnojte in the system's history and remains the primary reference point in Susian public and legal discourse on corporate accountability within the FEZ framework.
+TU's attempted bribery of a Secretariat of Efficiency member in 2047 resulted in automatic Yarnojte status revocation, a TĐ500 million fine, FEZ suspension, and criminal prosecution of company leadership. The revocation is the most significant regulatory action taken against any Yarnojte in the system's history and remains the primary reference point in Susian public and legal discourse on corporate accountability within the FEZ framework.
 
 ## In popular culture
 
@@ -189,7 +189,7 @@ FLAGS:
 - Kolkov Learning Center: referenced in the Kolkov Interview 2009 vault document. No dedicated vault article confirmed. Stub candidate.
 - Federal Cognitive Enhancement Program: referenced in the Cognitive Enhancement vault article. No dedicated event article confirmed. Stub candidate.
 - TU founding place is Donetruže per the existing vault stub frontmatter. The docs confirm this. Canon.
-- Market cap figure of D$6.2 trillion is from the existing vault stub and docs. Treated as current as of 2080 per style guide.
+- Market cap figure of TĐ6.2 trillion is from the existing vault stub and docs. Treated as current as of 2080 per style guide.
 - Antitrust action in artificial intelligence: author-supplied session canon. The specific year of the ruling, the instrument it was issued under, and the privileges withdrawn are unestablished and written around. The Secretariat is named as the deciding body and the Federal Authority of Commerce and Competition as the enforcing one, per the Secretariat's Commerce Enforcement function.
 - Market share figures of 50 percent and 20 percent are author-supplied and approximate. No source year is established beyond "by the 2050s".
 - The anti-TU artificial intelligence firm is unnamed and flagged with a TODO. It is a stub candidate and probably warrants its own article.

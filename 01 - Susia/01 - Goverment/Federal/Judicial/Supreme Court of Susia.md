@@ -4,7 +4,7 @@ native_name:
 abbreviation:
 aliases:
   - Susian supreme court
-summary: The highest court of Susia and final interpreter of the Susian Constitution. It sits rarely, hears only foundational constitutional questions, and rules as a single unsigned institutional voice.
+summary: The highest court of Susia and final interpreter of the Susian Constitution. It sits rarely, hears disputes between states, appeals against Secretariat of Efficiency decisions and fundamental constitutional questions, and rules as a single unsigned institutional voice.
 nature: Supreme court
 founded: 1954
 dissolved:
@@ -28,7 +28,7 @@ meta:
   image:
 ---
 
-The **Susian Supreme Court** is the highest court of [[Susia]] and the final interpreter of the [[Susian Constitution]]. Established with the republic in 1954, it is composed of eleven justices who serve for life and sit together on every case. It hears few cases, confines itself to fundamental constitutional questions, and issues its decisions as a single unsigned opinion rather than under the names of individual justices.
+The **Susian Supreme Court** is the highest court of [[Susia]] and the final interpreter of the [[Susian Constitution]]. Established with the republic in 1954, it is composed of eleven justices who serve for life and sit together on every case. It hears few cases, confined to disputes between states, appeals against decisions of the [[Secretariat of Efficiency]], and fundamental constitutional questions, and issues its decisions as a single unsigned opinion rather than under the names of individual justices.
 
 ## History
 
@@ -54,7 +54,7 @@ The Court's foundational role was established early through its ruling on the co
 
 The Court is composed of eleven justices who serve for life. Justices are nominated by the [[President of Susia|president]] and confirmed by a supermajority of the [[Susian Senate]]. There is no fixed retirement age, and a seat becomes vacant only on the death or resignation of its holder.
 
-All eleven justices sit on every case; the Court does not divide into panels. Because it hears only questions of fundamental constitutional interpretation, its caseload is small, and most legal disputes in Susia are resolved by state courts without ever reaching it.
+All eleven justices sit on every case; the Court does not divide into panels. Because it hears only disputes between states, appeals against Secretariat decisions and questions of fundamental constitutional interpretation, its caseload is small, and most legal disputes in Susia are resolved by state courts without ever reaching it.
 
 The Court issues each decision as a single opinion attributed to the Court as a whole. Individual justices are not named as authors, and the Court does not publish vote counts, concurrences, or dissents. The internal deliberations and the division of votes behind a ruling are sealed for 20 years, after which the full record is opened.
 
@@ -87,5 +87,6 @@ Versijians adopted the comparison as a point of pride, and some use it openly. K
 - History and Structure raised from ### to ## to follow the style guide; the article previously skipped a level.
 - era left at republican-era and techno-federative-era. The imperial predecessor is treated in the History section only and has no article or name of its own.
 - The members of the imperial body are called justices following the author.
+- SESSION CANON, set by the author 09/11/2026: the Court hears interstate disputes, Secretariat of Efficiency decisions and fundamental constitutional questions. When appeals against Secretariat decisions began (the Secretariat dates from 2038) is not established.
 
 %%

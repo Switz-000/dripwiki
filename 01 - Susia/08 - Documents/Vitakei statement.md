@@ -68,8 +68,8 @@ Residents in your current band sometimes find that participation in our supervis
 
 You are **pre-qualified** for the following:
 
-- **Cardiovascular Regeneration Trial (medium-risk):** projected cardiovascular benefit; enrollment incentive **D$40,000**.
-- **Cellular Longevity Study (high-risk, investigational):** for residents motivated to pursue the frontier of the program; incentive **D$100,000**.
+- **Cardiovascular Regeneration Trial (medium-risk):** projected cardiovascular benefit; enrollment incentive **TĐ40,000**.
+- **Cellular Longevity Study (high-risk, investigational):** for residents motivated to pursue the frontier of the program; incentive **TĐ100,000**.
 
 Many residents tell us these programs restore not only their metrics but their sense of purpose. Enrollment is, of course, entirely voluntary. Your physician can discuss eligibility at your overdue consultation.
 

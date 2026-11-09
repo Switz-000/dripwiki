@@ -156,7 +156,7 @@ meta:
   image: null
 ---
 
-**Veronique** (1720–1787) was the third ruler of the [[Dripstanian Empire]], reigning from 1740 to 1787. Her accession followed a two-year regency convened to determine whether imperial succession law admitted a woman to the throne. Her reign established the [[Dripstanian Senate]], replaced the captaincy levy with a permanent army, and opened the colonization of the western territories that became [[Confia]].
+**Veronique** (1720–1787) was the third ruler of the [[Dripstanian Empire]], reigning from 1740 to 1787. Her accession followed a two-year regency convened to determine whether imperial succession law admitted a woman to the throne. Her reign established the [[Dripstanian Senate]], replaced the captaincy levy with a permanent army, and opened the colonization of the eastern territories that became [[Confia]].
 
 ## Early Life
 
