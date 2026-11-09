@@ -1,0 +1,1 @@
+Today, the sun decided to scrape my scales. It has made my limbs numb, my back red and my eyes swollen. Worst of all, my socks are wet and my feet itch.
