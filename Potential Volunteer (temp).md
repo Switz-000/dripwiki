@@ -102,8 +102,8 @@ The more I ponder, the more I sense judgement day looming. I continue my expedit
 
 My sore feet keep marching across the bridge. Its planks are sturdy concrete, a material of almost religious significance to bipeds. It is made of millions of tiny grains of sun-violated sand, extracted from the border of my home.
 
-By the metal fence, I see a man smoking; He offers me a cigarette. Never accept gifts from landmen. They will first flatter you, then sell you something. Do not mistake this for kindness.
+By the metal fence, I see a man smoking. He offers me a cigarette. Never accept gifts from landmen. They will first flatter you, then sell you something. Do not mistake this for kindness.
 
-"Nice view, huh?", he says. Not looking at my twisted and disfigured face not even once.
+"Nice view, huh?" he says. Not looking at my twisted and disfigured face not even once.
 
-I approach the railing and stare down, observing a creek that leads to my home
+I approach the railing and stare down, observing a river that leads to my home.
