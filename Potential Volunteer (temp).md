@@ -107,3 +107,9 @@ By the metal fence, I see a man smoking. He offers me a cigarette. Never accept 
 "Nice view, huh?" he says. Not looking at my twisted and disfigured face not even once.
 
 I approach the railing and stare down, observing a river that leads to my home.
+
+The landmen continues, "Y'know, when I was younger, me and my buddies would come down here"
+
+I listen to his deep voice and his dry coughs of coal fumes, but I struggle to understand what he says.
+
+"(...) we played stupied games, y'know, we would get bricks, and we would trhow it off the bridge at the kayaks down there, y'know, its funny. But anyways, "
