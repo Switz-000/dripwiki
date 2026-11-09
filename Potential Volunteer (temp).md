@@ -41,20 +41,55 @@ The boy just looks at me and says: "I do. I like digging holes."
 
 I do not know what to reply. I turn back and retreat. I keep walking by the shore, reading the letter over and over again. The scalding heat is baking my head, yet I seem closer and closer to figuring out the message.
 
->  You been chosen from a random selection of citizens to serve as a potential volunteer
->  You fifteen days to access the official website at ttj.orlitia.su
+>  You have been chosen from a random selection of citizens to serve as a potential volunteer
+>  You have fifteen days to access the official website at ttj.orlitia.su
 >  You should follow the instructions on the site
 >  You should answer the questions honestly
 
 ---
 
-I saw across the street a bench in the shade. Tempting. The strong winds, however, made me lose this important paper of mine. While crossing the street, I closed my eyes, repeated what I had gathered from it.
+I see across the street a bench in the shade. Tempting. The strong winds, however, make me lose this important paper of mine. While crossing the street, I close my eyes and repeat what I have gathered from it.
 
 >  I was chosen from a random selection of citizens
 >  Some citizens serve as volunteers to the state
 >  I have 15 days to answer the questions honestly
 >  I need to follow the instructions on the site
 
-As I finish repeating my mission, I hear violent screech of a whale. I turn and some sort of land vessel stopped in front of me. How had I not heard this three-ton machine sailing towards me? I turned around and knocked on the captain's window. He didn't reply. As I squint my eyes through the black-tinted glass, but I couldn't see anything inside tight cabin. 
+As I finish repeating my mission, I hear the violent screech of a whale. I turn, and some sort of white land vessel has stopped in front of me. How have I not heard this three-ton machine sailing towards me? I knock on the captain's window. He does not reply. I squint through the black-tinted glass, but I cannot see anyone inside the tight cabin. 
 
-Before I could even act in some way, the white vessel accelerated toward the horizon. Was the state developing two-ton silent death machines? What else could they be hiding? 
+Before I can act at all, the white vessel accelerates toward the horizon. Is the state developing three-ton silent death machines? What else could they be hiding? 
+
+As I sat in the bench, I finally had a break from the wicked fireball in the sky. I can now think about what I should do next. 
+
+Inside my pocket, I reach for a small crumpled box
+
+```
+FRONT LABEL
+
+Zertepton, L-V 1 mg
+
+Sold only with medical prescription. The abuse of this drug may cause addiction
+
+(A white lily with green stem and faint iris-purple throat serves as the company's logo in the bottom right corner)
+
+BACK LABLEL
+
+May make you sleepy or dizzy. Do not mix with alcohol. Use care when operating vehicle, vessel or machinery. Swallow whole. Do not chew or crush. 
+Don't worry, this is the same medicine you have been getting.
+
+EXP 03-2070
+PC: 0574017744803985
+SN: 1000012739749234
+Batch: 1086541
+
+Lischev-Verene Biomedical Corporation 
+"Always here for you."
+Garden of Latice Free Economic Zone, Sužielaj, Susia
+```
+
+The mission the great republic had endowed me,
+
+>  I was chosen
+>  Citizens serve the state
+>  In 15 days I will be questioned
+>  I need to follow the instructions honestly

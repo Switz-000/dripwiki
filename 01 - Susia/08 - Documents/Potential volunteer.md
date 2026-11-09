@@ -59,7 +59,7 @@ FRONT LABLEL
 
 Zertepton, L-V 1 mg
 
-Sale only with medical prescription. The abuse of this drug may cause addiction
+Sold only with medical prescription. The abuse of this drug may cause addiction
 
 (A white lily with green stem and faint iris-purple throat serves as the company's logo in the bottom right corner)
 
