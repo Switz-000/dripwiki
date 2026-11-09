@@ -63,7 +63,7 @@ Susia is bordered by [[Confia]] to the east, [[Drippalia]] to the northeast, [[Z
 
 The northern states, [[Nessel]] and [[New Celiolaj]], are boreal and arctic, with tundra and a sparse population. [[Dripia]], [[Postia]] and [[Misocévia]] in the centre have a temperate oceanic climate, with plains and forested uplands. [[Vitrika]] and [[Orlítia]] in the south and [[Troli]] in the southeast are warm, with dry summers; the east of Troli becomes the [[Pounnun Desert]], which holds the country's oil and natural gas. [[Sužielaj]], in the central east, has a temperate continental climate.
 
-The [[Lasman river]] enters Susia from Confia, forms the border between New Celiolaj and Misocévia, runs south through Misocévia and then west to the Sea of Galil at [[Jaffnidia]], in Dripia. Postia holds the largest ports, centred on [[New Duloc]]. Dripia and Orlítia also have long coastlines, and Orlítia is the main destination of domestic tourism.
+The [[Lasman river]] enters Susia from Confia, forms the border between New Celiolaj and Misocévia, runs south through Misocévia and then west to the Sea of Galil at [[Jaffnidia]], in Dripia. Five states have a coastline on the west: [[Nessel]], [[Dripia]], [[Postia]], [[Vitrika]] and [[Orlítia]]. Postia holds the largest ports, centred on [[New Duloc]], and Orlítia is the main destination of domestic tourism.
 
 ## History
 
