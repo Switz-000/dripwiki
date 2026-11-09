@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,10 +229,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7b33515b7e70600",
+  "active": "296241b89c10ce0b",
   "lastOpenFiles": [
-    "Potential Volunteer (temp).md",
     "01 - Susia/08 - Documents/Potential volunteer.md",
+    "01 - Susia/00 - Index & Maps/List of first names.md",
+    "Potential Volunteer (temp).md",
     "02 - Confia/06 - People/Eriežera Lensekowina.md",
     "02 - Confia/02 - Geography/Cities/Koštanože/Wastonna of the Hills.md",
     "01 - Susia/06 - People/Urgiri Tečlan.md",
@@ -259,7 +260,6 @@
     "01 - Susia/00 - Index & Maps/List of Dripstanian emperors.md",
     "99 - Rest of the World/Countries/Dripstan/Countries/Kamino.md",
     "01 - Susia/06 - People/Families/Yatovar/Jartes II.md",
-    "02 - Confia/06 - People/Grawolja Lasmanna.md",
     "01 - Susia/07 - Organizations/sedcJJGNM",
     "__pycache__/vault_dates.cpython-314.pyc",
     "__pycache__",

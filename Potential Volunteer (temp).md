@@ -112,4 +112,9 @@ The landmen continues, "Y'know, when I was younger, me and my buddies would come
 
 I listen to his deep voice and his dry coughs of coal fumes, but I struggle to understand what he says.
 
-"(...) we played stupied games, y'know, we would get bricks, and we would trhow it off the bridge at the kayaks down there, y'know, its funny. But anyways, "
+"(...) we played stupid games, y'know, we would get bricks, and we would throw it off the bridge at the kayaks down there, y'know, its funny. But anyways, Bejňar threw a brick and it fell 10 stories at a tourist head and it just went, SPLAT! y'know? but that's what we do over here!"
+
+I quietly imagine the scene unfolding. The landmen would be more dangerous if they weren't infighting most of the time. 
+
+"You should've seen it! The city took a week to clean the mess!" He says, with not a single tone of remorse in his voice. Probably the closest thing a wild beast will 
+
