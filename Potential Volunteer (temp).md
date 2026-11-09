@@ -57,11 +57,11 @@ I see across the street a bench in the shade. Tempting. The strong winds, howeve
 
 As I finish repeating my mission, I hear the violent screech of a whale. I turn, and some sort of white land vessel has stopped in front of me. How have I not heard this three-ton machine sailing towards me? I knock on the captain's window. He does not reply. I squint through the black-tinted glass, but I cannot see anyone inside the tight cabin. 
 
-Before I can act at all, the white vessel accelerates toward the horizon. Is the state developing three-ton silent death machines? What else could they be hiding? 
+Before I can act at all, the white vessel accelerates toward the horizon. Is the state developing three-ton silent death machines? What else could they be hiding?
 
-As I sat in the bench, I finally had a break from the wicked fireball in the sky. I can now think about what I should do next. 
+As I sit on the bench, I finally have a break from the wicked fireball in the sky. Now I can think about what I should do next.
 
-Inside my pocket, I reach for a small crumpled box
+Out of habit, I reach into my pocket for the letter. My fingers find only a small, crumpled box.
 
 ```
 FRONT LABEL
@@ -72,7 +72,7 @@ Sold only with medical prescription. The abuse of this drug may cause addiction
 
 (A white lily with green stem and faint iris-purple throat serves as the company's logo in the bottom right corner)
 
-BACK LABLEL
+BACK LABEL
 
 May make you sleepy or dizzy. Do not mix with alcohol. Use care when operating vehicle, vessel or machinery. Swallow whole. Do not chew or crush. 
 Don't worry, this is the same medicine you have been getting.
@@ -87,9 +87,11 @@ Lischev-Verene Biomedical Corporation
 Garden of Latice Free Economic Zone, Sužielaj, Susia
 ```
 
-The mission the great republic had endowed me,
+Even the landmen's boxes speak to me as if they know me. I put it back in my pocket.
 
->  I was chosen
->  Citizens serve the state
+The paper is lost to the wind, but the mission the great republic has endowed me with is not. I recite it from memory:
+
+>  I was chosen from a selection of many citizens
+>  Some citizens serve the state
 >  In 15 days I will be questioned
 >  I need to follow the instructions honestly
