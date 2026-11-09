@@ -39,12 +39,11 @@ I reply: "What? Do you take me for a delivery man? I have lectured you on the pr
 
 The boy just looks at me and says: "I do. I like digging holes."
 
-I did not know what to reply, I turned back, and retreated. I kept walking by the shore, reading the letter over and over again. The scalding heat was baking my head, yet I seemed closer and closer to figuring the message.
+I do not know what to reply. I turn back and retreat. I keep walking by the shore, reading the letter over and over again. The scalding heat is baking my head, yet I seem closer and closer to figuring out the message.
 
->  I have been chosen from a random selection of citizens to serve as a potential volunteer
->  I have fifteen days to access the website
->  I should answer the questions honestly
->  I should follow the instructions on the site
-
+>  You been chosen from a random selection of citizens to serve as a potential volunteer
+>  You fifteen days to access the official website at ttj.orlitia.su
+>  You should follow the instructions on the site
+>  You should answer the questions honestly
 ---
 
