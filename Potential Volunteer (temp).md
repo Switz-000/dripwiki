@@ -46,4 +46,13 @@ I do not know what to reply. I turn back and retreat. I keep walking by the shor
 >  You should follow the instructions on the site
 >  You should answer the questions honestly
 ---
+I saw across the street a bench in the shade. Tempting. The strong winds, however, made me afraid of losing this important paper of mine. While crossing the street, I closed my eyes, repeated what I had gathered from it.
 
+>  I was chosen from a random selection of citizens
+>  Some citizens serve as volunteers to the state
+>  I have 15 days to answer the questions honestly
+>  I need to follow the instructions on the site
+
+As I finish repeating my mission, I hear the screech of tires. I turn and some sort of a white land vessel stopped in front of me. How had I not heard this three-ton machine sailing towards me? I turned around and knocked on the captain's window. He didn't reply. As I squint my eyes through the black-tinted glass, I realized there was no one in the tight cabin. 
+
+Before I could even act in some way, the white vessel accelerated toward the horizon. Was the state developing two-ton silent death machines? What else could they be hiding? 
