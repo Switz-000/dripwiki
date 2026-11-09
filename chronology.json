@@ -1005,7 +1005,7 @@
    "date": "1860",
    "precision": "year",
    "kind": "Birth",
-   "text": "[[Emperor Sallemaj]] born in [[Soiteslaj|St. Mantichev city]], [[Neutral District]], [[Dripstanian Empire]]",
+   "text": "[[Emperor Sallemaj]] born in [[Duolij]], [[Postia]], [[Dripstanian Empire]]",
    "source": "Emperor Sallemaj",
    "source_type": "person",
    "country": "Susia"
@@ -1744,6 +1744,16 @@
    "year": 1956,
    "date": "1956",
    "precision": "year",
+   "kind": "Event begins",
+   "text": "[[Continental Divide]]",
+   "source": "Continental Divide",
+   "source_type": "event",
+   "country": "Susia"
+  },
+  {
+   "year": 1956,
+   "date": "1956",
+   "precision": "year",
    "kind": "Founded",
    "text": "[[Movement of New Susians]]",
    "source": "Movement of New Susians",
@@ -1767,16 +1777,6 @@
    "kind": "Event ends",
    "text": "[[Matri assassination attempt (1956)]]",
    "source": "Matri assassination attempt (1956)",
-   "source_type": "event",
-   "country": "Susia"
-  },
-  {
-   "year": 1957,
-   "date": "1957",
-   "precision": "year",
-   "kind": "Event begins",
-   "text": "[[Continental Divide]]",
-   "source": "Continental Divide",
    "source_type": "event",
    "country": "Susia"
   },
@@ -4151,6 +4151,16 @@
    "country": "Susia"
   },
   {
+   "year": 2044,
+   "date": "2044",
+   "precision": "year",
+   "kind": "Yarnojte granted",
+   "text": "[[Van Ritter]]",
+   "source": "Van Ritter",
+   "source_type": "company",
+   "country": "Susia"
+  },
+  {
    "year": 2045,
    "date": "2045",
    "precision": "year",
@@ -4247,16 +4257,6 @@
    "kind": "Yarnojte granted",
    "text": "[[Troli Ustaras]]. *Restored after company wide restructuring*",
    "source": "Troli Ustaras",
-   "source_type": "company",
-   "country": "Susia"
-  },
-  {
-   "year": 2051,
-   "date": "2051",
-   "precision": "year",
-   "kind": "Yarnojte granted",
-   "text": "[[Van Ritter]]. *Restored after company wide restructuring*",
-   "source": "Van Ritter",
    "source_type": "company",
    "country": "Susia"
   },
@@ -5219,6 +5219,17 @@
    "end_precision": "year"
   },
   {
+   "lane": "events",
+   "label": "Continental Divide",
+   "start": 1956,
+   "end": 1977,
+   "country": "Susia",
+   "start_date": "1956",
+   "start_precision": "year",
+   "end_date": "1977",
+   "end_precision": "year"
+  },
+  {
    "lane": "institutions",
    "label": "Movement of New Susians",
    "start": 1956,
@@ -5237,17 +5248,6 @@
    "start_precision": "day",
    "end_date": "19/05/1956",
    "end_precision": "day"
-  },
-  {
-   "lane": "events",
-   "label": "Continental Divide",
-   "start": 1957,
-   "end": 1977,
-   "country": "Susia",
-   "start_date": "1957",
-   "start_precision": "year",
-   "end_date": "1977",
-   "end_precision": "year"
   },
   {
    "lane": "events",

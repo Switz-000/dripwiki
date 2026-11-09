@@ -287,7 +287,7 @@ meta:
 
 ## 1860
 
-- **Birth**: [[Emperor Sallemaj]] born in [[Soiteslaj|St. Mantichev city]], [[Neutral District]], [[Dripstanian Empire]]
+- **Birth**: [[Emperor Sallemaj]] born in [[Duolij]], [[Postia]], [[Dripstanian Empire]]
 
 ## 1863
 
@@ -480,6 +480,7 @@ meta:
 ## 1956
 
 - **Appointment**: [[Lensek Bӑrboz]] becomes President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]], appointed by [[National Assembly of Confian Syndicates]]
+- **Event begins**: [[Continental Divide]]
 - **Founded**: [[Movement of New Susians]]
 - 19/05/1956: **Event begins**: [[Matri assassination attempt (1956)]]
 - 19/05/1956: **Event ends**: [[Matri assassination attempt (1956)]]
@@ -490,7 +491,6 @@ meta:
 
 ## 1957
 
-- **Event begins**: [[Continental Divide]]
 - 30/09/1957: **Event begins**: [[Matri assassination attempt (1957)]]
 - 30/09/1957: **Event ends**: [[Matri assassination attempt (1957)]]
 
@@ -979,6 +979,7 @@ meta:
 ## 2044
 
 - **Yarnojte granted**: [[Van Ritter]]
+- **Yarnojte granted**: [[Van Ritter]]
 
 ## 2045
 
@@ -1007,7 +1008,6 @@ meta:
 ## 2051
 
 - **Yarnojte granted**: [[Troli Ustaras]]. *Restored after company wide restructuring*
-- **Yarnojte granted**: [[Van Ritter]]. *Restored after company wide restructuring*
 
 ## 2052
 
