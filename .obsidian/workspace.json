@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - Rest of the World/Countries/Dripstan/History/ODDN.md",
+                "file": "02 - Confia/06 - People/Ganzer Teahowić.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ODDN"
+              "title": "Ganzer Teahowić"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zastranni",
+                "query": "1993",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -201,6 +202,7 @@
   },
   "active": "c30247625d701f83",
   "lastOpenFiles": [
+    "99 - Rest of the World/Countries/Dripstan/History/ODDN.md",
     "02 - Confia/04 - History/Events/Carlotopolis Uprising.md",
     "02 - Confia/06 - People/Wanašer Gerzăn.md",
     "02 - Confia/08 - Documents/On Nations.md",
@@ -229,7 +231,6 @@
     "00 - Meta/Images/Eplevakt 1978.jpg",
     "01 - Susia/06 - People/Ňotrič Apaj.md",
     "01 - Susia/06 - People/Milǎr Frelach.md",
-    "01 - Susia/09 - Titles/Emperor of the Dripstanian Empire.md",
     "01 - Susia/07 - Organizations/sedcJJGNM",
     "__pycache__/vault_dates.cpython-314.pyc",
     "__pycache__",
