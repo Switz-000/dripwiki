@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Confia/04 - History/Events/Carlotopolis Uprising.md",
+                "file": "99 - Rest of the World/Countries/Dripstan/History/ODDN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Carlotopolis Uprising"
+              "title": "ODDN"
             }
           }
         ]
@@ -199,7 +199,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c8bfdfa82ed5652",
+  "active": "c30247625d701f83",
   "lastOpenFiles": [
     "02 - Confia/04 - History/Events/Carlotopolis Uprising.md",
     "02 - Confia/06 - People/Wanašer Gerzăn.md",
