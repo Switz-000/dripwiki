@@ -94,8 +94,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -215,7 +214,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d32616c2e771cfdd",
+  "active": "2c8bfdfa82ed5652",
   "lastOpenFiles": [
     "02 - Confia/06 - People/Ganzer Teahowić.md",
     "99 - Rest of the World/Countries/Dripstan/History/ODDN.md",
