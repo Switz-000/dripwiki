@@ -54,7 +54,7 @@ The country's topography is sharply defined by the mountainous terrain of Highla
 
 Before the arrival of the Dripstanians, Confia was inhabited by the [[Konph|Konphs]], a now-extinct ethnic group that organized itself into two confederations, the Northern Konphs and the Southern Konphs. The Konphs were a significantly more developed civilization than the [[Tekur|Tekurs]] to the north, possessing standardized currency, resistant structures adaptable to the local temperature, complex social hierarchies, and functional sewage systems. There were some small groups of Susian settlers who accepted Armotism but rejected the church and fled to the east known as Pažens (plural in Susian: paženes. plural in Confian: paceni), the largest of these communities being [[Maznasorlaj]], [[Karlotopol']].
 
-During the Second Gaiyan Migration (c. 1783-1811), The Racpalian immigrants were mostly proletarian, but there was a minority presence of classes such as the scientific-intellectual class and the mežnuci, wealthy merchants who distinguished themselves in terms of riches and influence among the new immigrants, but not enough to benefit from the oligarchic and plutocratic system of government present in the original Raquepalian land. As such, the new arrivals quickly caused an urban saturation crisis in the Empire's port cities, settling in working-class neighborhoods and forming unsanitary and inadequate tenements and slums.
+During the Second Gaiyan Migration (c. 1783-1811), The Racpalian immigrants were mostly proletarian, but there was a minority presence of classes such as the scientific-intellectual class and the mežnuci, wealthy merchants who distinguished themselves in terms of riches and influence among the new immigrants, but not enough to benefit from the oligarchic and plutocratic system of government present in the original Racpalian land. As such, the new arrivals quickly caused an urban saturation crisis in the Empire's port cities, settling in working-class neighborhoods and forming unsanitary and inadequate tenements and slums.
 
 As a way to remedy this issue, Empress Veronique I sanctioned the Act of Rural Properties (1796), which established rules and limits for the occupation and possession of territories conquered from the Konphs beyond the Xth parallel. The act gave priority of occupation to the Racpalians, aiming to combat the problem of overpopulation in Susia and occupying the territories to the east for the Empire, expanding its domains and defeating the Konphs. The act sanctioned a tax of 30,000 drips per hectare for private landowners of West Gaiyanese origin, discouraging Susian landowners from holding land for lease or speculation. However, these lands were sold at subsidized prices to Racpalian families, with some being set aside for urban development.
 
@@ -125,8 +125,12 @@ The snap elections of 1980 produced a [[Confian Liberal Party]] majority governm
 
 The Confian economy is the second largest in the Dripstanian continent both nominal (TĐ2.2 trillion) and per-capita terms, at about TĐ17,900 per person. Since the 1990s, Confia has engaged in market-based reforms that reduced and modernized its regulatory apparatus, as well as the process of "desyndicalization" of the political and economic scene, which saw syndicates turn from vectors for worker self-management and [[Ragged-sleeve|ragged-sleeve]] control to vehicles for sectoral bargaining.
 
-Confia's currency is the New Swobo (Н¢), established in 1990 during the [[New Torch Plan]]. The main monetary au
+Confia's currency is the New Swobo (Н¢), established in 1990 during the [[New Torch Plan]]. The country's monetary authority, the [[Central Bank of the Confian Nation]], is constitutionally autonomous.
 # Military
 # Foreign relations
+
+Confia is a member of the [[ODDN|Organization of the Democratic Dripstanian Nations]], having joined it in 1993. It ratified the [[Lasman Economic Initiative]] with [[Susia]] in 2000.
 # Culture
+
+### Religion 
 # See also

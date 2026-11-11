@@ -43,7 +43,7 @@
               "state": {
                 "file": "99 - Rest of the World/Countries/Dripstan/Countries/Confia.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Confia"
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zilo",
+                "query": "raquep",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +108,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
