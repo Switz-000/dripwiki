@@ -46,9 +46,9 @@ Confia is often perceived as the "second-in-command" to [[Susia]] in continental
 
 # Geography
 
-Confia occupies the very centre of the [[Dripstanian Continent]], spanning ten states divided into four macroregions: Southwest ([[Koštanože]] and [[Žošewoš]]), Northwest ([[Karlotopol']] and [[Legrinpija]]), Highland ([[Gorepalje]] and [[North Nijbania|North]] and [[South Nijbania]]), and West ([[Hašterlan]], [[Nakotšatija]], [[Ewenogia]]).
+Confia occupies the very centre of the [[Dripstanian Continent]], spanning ten states divided into four macroregions: Southwest ([[Koštanože]] and [[Žošewoš]]), Northwest ([[Karlotopol']] and [[Legrinpija]]), Highland ([[Gorepalje]] and [[North Nijbania|North]] and [[South Nijbania]]), and East ([[Hašterlan]], [[Nakotšatija]], [[Ewenogia]]). The capital and largest city is [[Imgospalje]], Koštanože, while the largest metropolitan area is [[Carlotopolis]], [[Karlotopol']].
 
-The country's topography is sharply defined by the mountainous terrain of Highlands. Fertile steppes cover the eastern states, powering its agricultural economy with the [[Garzoel River]]. The western states are mostly flag plains; the southwest has a subtropical climate and is somewhat hilly in the [[Žošewoš]]-adjacent region while the northwest is covered by the Great Plains, with the [[Lasman river]] flowing through it. The valley of the Lasman River in the state of Karlotopol' are prominent agriculture hubs.
+The country's topography is sharply defined by the mountainous terrain of Highlands. Fertile steppes cover the eastern states, marked by the [[Garzoel River]]. The western states are mostly flag plains; the southwest has a subtropical climate and is somewhat hilly in the [[Žošewoš]]-adjacent region while the northwest is covered by the Great Plains, with the [[Lasman river]] flowing through it. The valley of the Lasman River in the state of Karlotopol' and the Garzoel basin are prominent agriculture hubs.
 # History
 ## Pre-Dripstanian history
 
@@ -124,6 +124,8 @@ The snap elections of 1980 produced a [[Confian Liberal Party]] majority governm
 # Economy
 
 The Confian economy is the second largest in the Dripstanian continent both nominal (TĐ2.2 trillion) and per-capita terms, at about TĐ17,900 per person. Since the 1990s, Confia has engaged in market-based reforms that reduced and modernized its regulatory apparatus, as well as the process of "desyndicalization" of the political and economic scene, which saw syndicates turn from vectors for worker self-management and [[Ragged-sleeve|ragged-sleeve]] control to vehicles for sectoral bargaining.
+
+Confia's currency is the New Swobo (Н¢), established in 1990 during the [[New Torch Plan]]. The main monetary au
 # Military
 # Foreign relations
 # Culture
