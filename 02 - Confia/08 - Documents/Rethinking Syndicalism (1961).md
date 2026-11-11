@@ -13,4 +13,4 @@ meta:
   image: null
 ---
 
-**Rethinking Syndicalism**, subtitled in modern editions as "Words of the Madman", is a 1961 book written by [[Lorelaj Paulowić]]
+**Rethinking Syndicalism**, subtitled in modern editions as "**Words of the Madman**", is a 1961 book written by [[Lorelaj Paulowić]].
