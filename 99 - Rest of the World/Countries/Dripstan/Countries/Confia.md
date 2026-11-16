@@ -124,7 +124,7 @@ The snap elections of 1980 produced a [[Confian Liberal Party]] majority governm
 > *Main article: [[Confian National Government]]*
 # Economy
 
-The Confian economy is the second largest in the Dripstanian continent both nominal (TĐ2.2 trillion) and per-capita terms, at about TĐ17,900 per person in 2003. Its main sectors are heavy manufacturing,  
+The Confian economy is the second largest in the Dripstanian continent both nominal (TĐ2.2 trillion) and per-capita terms, at about TĐ17,900 per person in 2003. Its most prominent sectors are electronics, pharmaceuticals, green manufact 
 
 Since the 1990s, Confia has engaged in market-based reforms that reduced and modernized its regulatory apparatus, as well as the process of "desyndicalization" of the political and economic scene, which saw syndicates turn from vectors for worker self-management and [[Ragged-sleeve|ragged-sleeve]] control to vehicles for sectoral bargaining.
 
