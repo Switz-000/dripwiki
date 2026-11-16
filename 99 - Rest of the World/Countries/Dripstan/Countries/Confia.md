@@ -34,7 +34,7 @@ tags:
   - belief/ideology
   - economy/labor
 ---
-**Confia** (Confian: Końfija/Коњфія), officially the **Confian Social Republic** (Confian: Końfiska Lessaja Wirspruže/Лессая Вірспруже) and known until 2009 as the **United Syndicates of Confia** (in Confian: Săhni Syndăkaci Końfiï/Съхні Сындъкаци Коњфії), also known as Confia, is a country located in the center of the [[Dripstanian Continent]] , bisected by the [[Confian Highlands]]. Confia borders [[Susia]] to the west, [[Pierej]] to the east, [[Kapiogg]] to the northwest, [[Zaphonia]] to the south, and shares a small border with [[Kamino]] to the southeast. The country is composed of ten states. The capital and largest commercial center of the country is [[Imgospalje]], while the largest city by area and population is [[Carlotopolis]].
+**Confia** (Confian: Końfija/Коњфія), officially the **Confian Social Republic** (Confian: Końfiska Lessaja Wirspruže/Коњфіска Лессая Вірспруже) and known until 2009 as the **United Syndicates of Confia** (in Confian: Săhni Syndăkaci Końfiï/Съхні Сындъкаци Коњфії), also known as Confia, is a country located in the center of the [[Dripstanian Continent]] , bisected by the [[Confian Highlands]]. Confia borders [[Susia]] to the west, [[Pierej]] to the east, [[Kapiogg]] to the northwest, [[Zaphonia]] to the south, and shares a small border with [[Kamino]] to the southeast. The country is composed of ten states. The capital and largest commercial center of the country is [[Imgospalje]], while the largest city by area and population is [[Carlotopolis]].
 
 The territory where Confia is currently located began to be occupied by Racpalians (East Gaiyanese) from the Second Gaiyan Migration in the late 1780s and early 1800s, following the [[Rural Properties Act]], sanctioned by [[Empress Veronique]]. With the gradual occupation of the territory west of the mountains, the [[General Government of Confia]] was established, a new territory directly controlled by the Empress.
 
@@ -124,7 +124,9 @@ The snap elections of 1980 produced a [[Confian Liberal Party]] majority governm
 > *Main article: [[Confian National Government]]*
 # Economy
 
-The Confian economy is the second largest in the Dripstanian continent both nominal (TĐ2.2 trillion) and per-capita terms, at about TĐ17,900 per person. Since the 1990s, Confia has engaged in market-based reforms that reduced and modernized its regulatory apparatus, as well as the process of "desyndicalization" of the political and economic scene, which saw syndicates turn from vectors for worker self-management and [[Ragged-sleeve|ragged-sleeve]] control to vehicles for sectoral bargaining.
+The Confian economy is the second largest in the Dripstanian continent both nominal (TĐ2.2 trillion) and per-capita terms, at about TĐ17,900 per person in 2003. Its main sectors are heavy manufacturing,  
+
+Since the 1990s, Confia has engaged in market-based reforms that reduced and modernized its regulatory apparatus, as well as the process of "desyndicalization" of the political and economic scene, which saw syndicates turn from vectors for worker self-management and [[Ragged-sleeve|ragged-sleeve]] control to vehicles for sectoral bargaining.
 
 Confia's currency is the New Swobo (Н¢), established in 1990 during the [[New Torch Plan]]. The country's monetary authority, the [[Central Bank of the Confian Nation]], is constitutionally autonomous.
 # Military
