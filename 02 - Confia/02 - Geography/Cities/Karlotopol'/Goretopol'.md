@@ -8,5 +8,4 @@ population_1975:
 population_1970:
 landlocked: true
 ---
-
 **Goretopol'** is a hilly suburb of [[Carlotopolis]], known for its concentration of Confian media companies and studios.

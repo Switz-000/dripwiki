@@ -144,8 +144,11 @@ Confian culture is influenced by [[Racpalia|Racpalian]] philosophies, which put 
 The vast majority of Confians are part of the [[Armotist Church of the Confian Synod]], an [[Armotism|Armotist]] synod which developed from the traditionalist tradition, influenced by [[Racpalia|Racpalian]] mysticism.
 ### Cultural production 
 
-Cinema and theatre are viewed as a cornerstone of Confian cultural identity, with roots in pre-migration [[Racpalia]]. Confia has worldwide soft power through its media industry concentrated in the [[Carlotopolis]] metropolitan region, particularly in [[Goretopol']]. It is the site of the [[Theatre of the Nation]], a large connected complex of theatres.
+Cinema and theatre are viewed as a cornerstone of Confian cultural identity, with roots in pre-migration [[Racpalia]]. Confia has worldwide soft power through its media industry concentrated in the [[Carlotopolis]] metropolitan region, particularly in [[Goretopol']]. It is the site of the [[Theatre of the Nation]], a large connected complex of theatres that is a notable tourist attraction and a renowned symbol of Confia.
 ### Language and demography
 
 Confian is spoken by 99.7% of the population.
+### Public holidays
+
+> *Main article: [[List of Confian holidays]]*
 # See also
