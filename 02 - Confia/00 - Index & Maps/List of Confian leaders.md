@@ -20,7 +20,7 @@ President of the Nation (President)
 | No. |         Name          |   Term    |              Party               |   Vice President   |                             Notes                             |               Political spectrum                |
 | :-: | :-------------------: | :-------: | :------------------------------: | :----------------: | :-----------------------------------------------------------: | :---------------------------------------------: |
 |  1  |  [[Ganzer Teahowić]]  | 2009-2011 |      [[Syndicalist League]]      |  [[Tegiron Hari]]  | [[Ganzer Teahowić#Assassination and funeral\|Died in office]] | [[Syndicalism#New Syndicalism\|Left-of-centre]] |
-|  2  |   [[Tegiron Hari]]    | 2011-2013 |      [[Syndicalist League]]      |                    |                   Assumed as vice-president                   |  [[Syndicalism#New Syndicalism\|Centre-left]]   |
+|  2  |   [[Tegiron Hari]]    | 2011-2013 |      [[Syndicalist League]]      |                    |                 Took office as vice-president                 |  [[Syndicalism#New Syndicalism\|Centre-left]]   |
 |  3  |  [[Nisa Peskilonna]]  | 2014-2018 |      [[Republican Promise]]      |                    |                                                               |          [[Peskilonnism\|Right-wing]]           |
 |  -  |  [[Nisa Peskilonna]]  | 2019-2023 |      [[Republican Promise]]      |                    |                                                               |          [[Peskilonnism\|Right-wing]]           |
 |  4  |  [[Pawlăn Listewi]]   | 2024-2028 |          *Independent*           |                    |                                                               |                 Right-of-centre                 |

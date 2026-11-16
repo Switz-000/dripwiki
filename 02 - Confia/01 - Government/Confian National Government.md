@@ -18,7 +18,7 @@ The **Confian National Government** (Confian: Końfiski Sowjažei Wlaššesse/К
 ## President
 
 The **President of Confia** (Confian: Razawec(a) Końfiï/Разавец(а) Коњфії), officially the **President of the Confian Nation** (Confian: Razawec(a) Końfiskie Wjaže/Разавец(а) Коњфіскіе Вяже) is the head of state of the Confian Social Republic.
-The President is elected directly via single transferrable vote since 2036, with the first elections conducted in such a manner being the 2009 presidential election. Before that, they were elected via two-round first-past-the-post. 
+The President is elected directly via single transferrable vote since 2036, with the first elections conducted in such a manner being the 2037 presidential election. Before that, they were elected via two-round first-past-the-post. 
 The President is elected to rigidly fixed terms defined by the Confian election system and can be reelected up to two times.
 
 ## Prime Minister
