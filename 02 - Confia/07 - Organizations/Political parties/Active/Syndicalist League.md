@@ -39,4 +39,4 @@ tags:
 ---
 The **Syndicalist League** (Confian: Syndăkalicka Fežka/Сындъкаліцка Фежка) is a major Confian centre-left party. It is based on the ideals of [[Syndicalism#New Syndicalism|New Syndicalism]].
 
-The party symbol is  the "League Helix": a two-bladed helix, usually coloured in red when alone or in gold when used against the red background of the party's flag. The Helix, designed by [[Kariz ]]
+The party symbol is  the "League Helix": a two-bladed helix, usually coloured in red when alone or in gold when used against the red background of the party's flag. The Helix, designed by [[Kariz Daljoăn]], is said to mirror the wingspan of the Confian black falcon.
