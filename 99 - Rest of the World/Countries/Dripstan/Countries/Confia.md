@@ -124,11 +124,11 @@ The snap elections of 1980 produced a [[Confian Liberal Party]] majority governm
 > *Main article: [[Confian National Government]]*
 # Economy
 
-The Confian economy is the second largest in the Dripstanian continent both nominal (TĐ2.2 trillion) and per-capita terms, at about TĐ17,900 per person in 2003. Its most prominent sectors are electronics, pharmaceuticals, green manufact 
+The Confian economy is the second largest in the Dripstanian continent both nominal (TĐ2.2 trillion) and per-capita terms, at about TĐ17,900 per person in 2003. Its most prominent sectors are electronics, green manufacturing, technology and services
 
-Since the 1990s, Confia has engaged in market-based reforms that reduced and modernized its regulatory apparatus, as well as the process of "desyndicalization" of the political and economic scene, which saw syndicates turn from vectors for worker self-management and [[Ragged-sleeve|ragged-sleeve]] control to vehicles for sectoral bargaining.
+Confia's economy was historically concentrated in [[Ragged-sleeve|ragged-sleeve]] conglomerates such as [[PIKW]], [[Ražaw]], and [[Žošewoš Machinery]]. Since the 1990s, Confia has engaged in market-based reforms that reduced and modernized its regulatory apparatus, as well as the process of "desyndicalization" of the political and economic scene, which saw syndicates turn from vectors for ragged-sleeve control to vehicles for sectoral bargaining.
 
-Confia's currency is the New Swobo (Н¢), established in 1990 during the [[New Torch Plan]]. The country's monetary authority, the [[Central Bank of the Confian Nation]], is constitutionally autonomous.
+Confia's currency is the New Swobo (Н¢), established in 1980 during the [[New Torch Plan]]. The country's monetary authority, the [[Central Bank of the Confian Nation]], is constitutionally autonomous.
 # Military
 # Foreign relations
 
