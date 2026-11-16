@@ -130,11 +130,17 @@ Confia's economy was historically concentrated in [[Ragged-sleeve|ragged-sleeve]
 
 # Military
 
-The [[Confian National Government#President|President of Confia]] is the commander-in-chief of the Armed Forces of the Confian Nation, which is composed of the Confian Ground Forces, the Confian Navy and the Confian Air Force. Since 1979, the military answers
+The [[Confian National Government#President|President of Confia]] is the commander-in-chief of the Armed Forces of the Confian Nation, which is composed of the Confian Ground Forces, the Confian Navy and the Confian Air Force. Since 1979, the Comissar of Defence and later the Minister of Defence is a civilian appointed by the prime-minister.
+
+Confia abolished mandatory military service in 1978.
 # Foreign relations
 
-Confia is a member of the [[ODDN|Organization of the Democratic Dripstanian Nations]], having joined it in 1993. It ratified the [[Lasman Economic Initiative]] with [[Susia]] in 2000.
+Confia is a member of the [[ODDN|Organization of the Democratic Dripstanian Nations]], having joined it in 1993. It signed the [[Lasman Economic Initiative]] with [[Susia]] in 1995 and ratified it in 2000.
 # Culture
 
 ### Religion 
+
+The vast majority of Confians are part of the [[Armotist Church of the Confian Synod]], an [[Armotism|Armotist]] synod which developed from the traditionalist tradition, influen
+
+
 # See also
