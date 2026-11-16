@@ -124,12 +124,13 @@ The snap elections of 1980 produced a [[Confian Liberal Party]] majority governm
 > *Main article: [[Confian National Government]]*
 # Economy
 
-The Confian economy is the second largest in the Dripstanian continent both nominal (TĐ2.2 trillion) and per-capita terms, at about TĐ17,900 per person in 2003. Its most prominent sectors are electronics, green manufacturing, technology and services
+The Confian economy is the second largest in the Dripstanian continent both nominal (TĐ2.2 trillion) and per-capita terms, at about TĐ17,900 per person in 2003. Its most prominent sectors are electronics, green manufacturing, technology and services. Confia's currency is the New Swobo (Н¢), established in 1980 during the [[New Torch Plan]]. The country's monetary authority, the [[Central Bank of the Confian Nation]], is constitutionally autonomous.
 
-Confia's economy was historically concentrated in [[Ragged-sleeve|ragged-sleeve]] conglomerates such as [[PIKW]], [[Ražaw]], and [[Žošewoš Machinery]]. Since the 1990s, Confia has engaged in market-based reforms that reduced and modernized its regulatory apparatus, as well as the process of "desyndicalization" of the political and economic scene, which saw syndicates turn from vectors for ragged-sleeve control to vehicles for sectoral bargaining.
+Confia's economy was historically concentrated in [[Ragged-sleeve|ragged-sleeve]] conglomerates such as [[PIKW]], [[Ražaw]], and [[Žošewoš Machinery]]. During the 1980s and 1990s, Confia engaged in market-based reforms that reduced and modernized its regulatory apparatus, as well as the process of "desyndicalization" of the political and economic scene, which saw syndicates turn from vectors for ragged-sleeve control to vehicles for sectoral bargaining.
 
-Confia's currency is the New Swobo (Н¢), established in 1980 during the [[New Torch Plan]]. The country's monetary authority, the [[Central Bank of the Confian Nation]], is constitutionally autonomous.
 # Military
+
+The [[Confian National Government#President|President of Confia]] is the commander-in-chief of the Armed Forces of the Confian Nation, which is composed of the Confian Ground Forces, the Confian Navy and the Confian Air Force. Since 1979, the military answers
 # Foreign relations
 
 Confia is a member of the [[ODDN|Organization of the Democratic Dripstanian Nations]], having joined it in 1993. It ratified the [[Lasman Economic Initiative]] with [[Susia]] in 2000.
