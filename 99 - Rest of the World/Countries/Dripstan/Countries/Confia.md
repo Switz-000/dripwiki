@@ -136,11 +136,16 @@ Confia abolished mandatory military service in 1978.
 # Foreign relations
 
 Confia is a member of the [[ODDN|Organization of the Democratic Dripstanian Nations]], having joined it in 1993. It signed the [[Lasman Economic Initiative]] with [[Susia]] in 1995 and ratified it in 2000.
-# Culture
+# Culture and society
 
+Confian culture is influenced by [[Racpalia|Racpalian]] philosophies, which put an emphasis on communitarianism, steadiness and self-realization. 
 ### Religion 
 
-The vast majority of Confians are part of the [[Armotist Church of the Confian Synod]], an [[Armotism|Armotist]] synod which developed from the traditionalist tradition, influen
+The vast majority of Confians are part of the [[Armotist Church of the Confian Synod]], an [[Armotism|Armotist]] synod which developed from the traditionalist tradition, influenced by [[Racpalia|Racpalian]] mysticism.
+### Cultural production 
 
+Cinema and theatre are viewed as a quintessential part of Confian cultural identity, with roots in pre-migration [[Racpalia]]. 
+### Language and demography
 
+Confian is spoken by 99.7% of the population.
 # See also
