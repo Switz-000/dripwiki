@@ -1,13 +1,13 @@
 ---
 type: person
-native_name:
+native_name: Armoljubca Tegironowina Darzedanna
 lusitanized_name:
 aliases:
   - Darzedanna
-summary:
+summary: Chronological index of every dated event recorded in vault frontmatter.
 sex: Female
-ethnicity:
-religion:
+ethnicity: "[[East Gaiyanese]]"
+religion: "[[Armotist Church of the Confian Synod]]"
 citizenship:
   - 
 nationality:
