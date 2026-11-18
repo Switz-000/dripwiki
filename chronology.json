@@ -1,6 +1,16 @@
 {
  "events": [
   {
+   "year": 200,
+   "date": "200",
+   "precision": "year",
+   "kind": "Death",
+   "text": "[[Grawolja Lasmanna]] died",
+   "source": "Grawolja Lasmanna",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
    "year": 1596,
    "date": "1596",
    "precision": "year",
@@ -1379,6 +1389,16 @@
    "source": "Suizo Soites",
    "source_type": "person",
    "country": "Susia"
+  },
+  {
+   "year": 1935,
+   "date": "1935",
+   "precision": "year",
+   "kind": "Birth",
+   "text": "[[Grawolja Lasmanna]] born in [[Carlotopolis]], [[Karlotopol']], [[Confia]]",
+   "source": "Grawolja Lasmanna",
+   "source_type": "person",
+   "country": "Confia"
   },
   {
    "year": 1937,
