@@ -17,6 +17,10 @@ meta:
 
 > Auto-generated from vault frontmatter. Do not edit manually.
 
+## 200
+
+- **Death**: [[Grawolja Lasmanna]] died
+
 ## 1596
 
 - **Birth**: [[Kaichet of Frajes]] born
@@ -406,6 +410,10 @@ meta:
 ## 1933
 
 - **Graduation**: [[Suizo Soites]] from [[University of New Kentu]] (Economics)
+
+## 1935
+
+- **Birth**: [[Grawolja Lasmanna]] born in [[Carlotopolis]], [[Karlotopol']], [[Confia]]
 
 ## 1937
 
