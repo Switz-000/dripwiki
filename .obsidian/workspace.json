@@ -64,17 +64,17 @@
             }
           },
           {
-            "id": "a805edcad83a291c",
+            "id": "21f6216fb008f723",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Confia/06 - People/Senjap Kunsekowić.md",
+                "file": "02 - Confia/06 - People/Grawolja Lasmanna.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Senjap Kunsekowić"
+              "title": "Grawolja Lasmanna"
             }
           },
           {
@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -285,15 +285,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed7a181466c3af50",
+  "active": "21f6216fb008f723",
   "lastOpenFiles": [
+    "02 - Confia/00 - Index & Maps/List of Confian leaders.md",
+    "02 - Confia/00 - Index & Maps/List of Confian elections.md",
+    "02 - Confia/06 - People/Senjap Kunsekowić.md",
+    "02 - Confia/06 - People/Eriežera Lensekowina.md",
     "99 - Rest of the World/Countries/Dripstan/Countries/Confia.md",
     "Philosophy/Religion/Armotism.md",
     "02 - Confia/06 - People/Ganzer Teahowić.md",
-    "02 - Confia/00 - Index & Maps/List of Confian elections.md",
-    "02 - Confia/06 - People/Senjap Kunsekowić.md",
-    "02 - Confia/00 - Index & Maps/List of Confian leaders.md",
-    "02 - Confia/06 - People/Eriežera Lensekowina.md",
     "Philosophy/Politics/Syndicalism.md",
     "02 - Confia/06 - People/Armoljubca Darzedanna.md",
     "02 - Confia/07 - Organizations/Political parties/Active/Syndicalist League.md",

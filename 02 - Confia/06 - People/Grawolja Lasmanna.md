@@ -21,13 +21,13 @@ enhanced: false
 
 # ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
 birth:
-  year:
+  year: 1935
   city: "[[Carlotopolis]]"
   state: "[[Karlotopol']]"
   country: "[[Confia]]"
 
 death:
-  year:
+  year: 200 
   city:
   state:
   country:
@@ -170,7 +170,7 @@ portrait:
     shirt: "#ceedf4"
     tie: "#ed1c24"
 ---
-**Grawolja Seriewina Lasmanna** (Racpalian Alphabet: Гравоља Серьевіна Ласманна) is a Confian economist and banker that served as the 6th Prime Minister of the [[Confia|United Syndicates of Confia]], as well as the 2nd Director of its Central Bank. 
+**Grawolja Seriewina Lasmanna** (Racpalian Alphabet: Гравоља Серьевіна Ласманна) was a Confian economist and banker that served as the 6th Prime Minister of the [[Confia|United Syndicates of Confia]], as well as the 2nd Director of its Central Bank. 
 
 ## Personal life
 
