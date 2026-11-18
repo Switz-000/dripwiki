@@ -17,10 +17,6 @@ meta:
 
 > Auto-generated from vault frontmatter. Do not edit manually.
 
-## 200
-
-- **Death**: [[Grawolja Lasmanna]] died
-
 ## 1596
 
 - **Birth**: [[Kaichet of Frajes]] born
@@ -411,13 +407,13 @@ meta:
 
 - **Graduation**: [[Suizo Soites]] from [[University of New Kentu]] (Economics)
 
-## 1935
-
-- **Birth**: [[Grawolja Lasmanna]] born in [[Carlotopolis]], [[Karlotopol']], [[Confia]]
-
 ## 1937
 
 - **Dissolved**: [[Confian Nation Party (1841)]]
+
+## 1939
+
+- **Birth**: [[Grawolja Lasmanna]] born in [[Carlotopolis]], [[Karlotopol']], [[Confia]]
 
 ## 1941
 
@@ -862,6 +858,7 @@ meta:
 
 ## 2008
 
+- **Death**: [[Grawolja Lasmanna]] died
 - **End of tenure**: [[Ganzer Teahowić]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]
 - **End of tenure**: [[Katerina Armoljubca Nožeslawna]] leaves President of the Confian Nation at [[Confian National Government]]
 - **Founded**: [[Astralis Banking Group]] in [[Sužielaj city]]
@@ -880,6 +877,8 @@ meta:
 ## 2011
 
 - **Appointment**: [[Tegiron Hari]] becomes President of the Confian Social Republic at [[Confian National Government]]. *Assumed as vice-president*
+- **Atrocity begins**: [[Assassination of Ganzer Teahowić]]
+- **Atrocity ends**: [[Assassination of Ganzer Teahowić]]
 - **Death**: [[Ganzer Teahowić]] died in [[Imgospalje]], [[Koštanože]], [[Confia]] (Car bomb)
 - **Death**: [[Yário Kolkov]] died in [[New Duloc]], [[Postia]], [[Susia]] (Lung cancer)
 - **End of tenure**: [[Ganzer Teahowić]] leaves President of the Confian Social Republic at [[Confian National Government]]
