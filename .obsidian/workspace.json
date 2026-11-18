@@ -92,20 +92,6 @@
             }
           },
           {
-            "id": "b3993be64d0d26fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Confia/06 - People/Ganzer Teahowić.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ganzer Teahowić"
-            }
-          },
-          {
             "id": "ed7a181466c3af50",
             "type": "leaf",
             "state": {
@@ -154,7 +140,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "syndicalism",
+                "query": "D$",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 306.5
   },
   "right": {
     "id": "5f0a876e89cc6acd",
@@ -299,8 +285,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3993be64d0d26fe",
+  "active": "ed7a181466c3af50",
   "lastOpenFiles": [
+    "99 - Rest of the World/Countries/Dripstan/Countries/Confia.md",
+    "Philosophy/Religion/Armotism.md",
+    "02 - Confia/06 - People/Ganzer Teahowić.md",
     "02 - Confia/00 - Index & Maps/List of Confian elections.md",
     "02 - Confia/06 - People/Senjap Kunsekowić.md",
     "02 - Confia/00 - Index & Maps/List of Confian leaders.md",
@@ -308,13 +297,11 @@
     "Philosophy/Politics/Syndicalism.md",
     "02 - Confia/06 - People/Armoljubca Darzedanna.md",
     "02 - Confia/07 - Organizations/Political parties/Active/Syndicalist League.md",
-    "02 - Confia/06 - People/Ganzer Teahowić.md",
     "02 - Confia/04 - History/Events/Carlotopolis Uprising.md",
     "01 - Susia/08 - Documents/Graduation yearbook.md",
     "Languages/Susian/Susian lexicon by root.md",
     "02 - Confia/06 - People/Mariana Torres.md",
     "02 - Confia/07 - Organizations/Political parties/Defunct/Syndicalist republic/Progressive Republican Party.md",
-    "99 - Rest of the World/Countries/Dripstan/Countries/Confia.md",
     "02 - Confia/06 - People/Grawolja Lasmanna.md",
     "02 - Confia/01 - Government/Confian National Government.md",
     "02 - Confia/09 - Titles/Confian Prime Minister.md",
@@ -326,7 +313,6 @@
     "02 - Confia/06 - People/Ganzer Kieron.md",
     "99 - Rest of the World/Countries/Dripstan/Countries/Susia.md",
     "02 - Confia/05 - Culture/Theatre of the Nation.md",
-    "02 - Confia/08 - Documents/Rethinking Syndicalism (1961).md",
     "00 - Meta/Images/Spruyatroceyon Varnec.png",
     "00 - Meta/Images/New Duloc riot 1958.jpg",
     "00 - Meta/Images/Eplevakt 1978.jpg",
