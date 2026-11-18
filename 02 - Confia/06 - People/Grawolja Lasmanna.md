@@ -21,14 +21,14 @@ enhanced: false
 
 # ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
 birth:
-  year: 1935
+  year: 1939
   city: "[[Carlotopolis]]"
   state: "[[Karlotopol']]"
   country: "[[Confia]]"
 
 death:
-  year: 200 
-  city:
+  year: 2008 
+  city: 
   state:
   country:
   cause:
@@ -197,3 +197,6 @@ When publicly asked about her religion during [[Grawolja Lasmanna with the Five 
 
 > "I would bring back Sallemaj from Kalti's chamber if it meant I could replace him with [[Olga Karwenna|Olga]]."
 > ― Grawolja Lasmanna, [[Grawolja Lasmanna with the Five of Goretopol'|Interview]] (2009)
+
+> "Prison treated your tuft poorly."
+> ― Grawolja Lasmanna to [[Boris Serec]] during [[Ganzer Teahowić]]'s funeral (2011, attributed by [[Noljež Teššan]])

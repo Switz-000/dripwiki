@@ -185,4 +185,6 @@ His term as prime minister continued the "desyndicalization" of Confian politics
 
 ## Assassination and funeral
 
+> *Main article: [[Assassination of Ganzer Teahowić]]*
+
 After a meeting with the Confian Federation of Labour in the south side of [[Imgospalje]], Teahowić's caravan, which had a bomb planted under it, exploded, instantly killing two of his bodyguards and fatally wounding him. He was rushed to the [[Verene Central Hospital]], but died during the trip.
