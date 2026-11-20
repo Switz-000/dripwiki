@@ -117,6 +117,6 @@ I listen to his deep voice and his dry coughs of coal fumes, but I struggle to u
 
 I quietly imagine the scene unfolding. The landmen would be more dangerous if they were not infighting most of the time. 
 
-"You should've seen it! The city took a week to clean up the mess!" he says, without a single note of remorse in his voice. It is the closest thing to a war that this beast who craves it will see.
+"You should've seen it! The city took a week to clean up the mess!" he says, without a single note of remorse in his voice. It is the closest thing to a war that this beast, who craves it, will see.
 
 I do not reply. I expect him to fill the peace with more violent ramblings. He, instead, flicks his cigarette over the railing. I watch it fall the same ten stories, until the river carries it towards to my home. He does not say goodbye.
