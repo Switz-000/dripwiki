@@ -1,4 +1,4 @@
-Today, the sun decided to scrape my scales. It stared at me and I wouldn't dare to stare it back. It It made my limbs numb, my back a bright red and my eyes swollen. Worst of all, my socks are wet.
+Today, the sun decided to scrape my scales. It made my limbs numb, my back a bright red and my eyes swollen. It stared at me so harshly I wouldn't dare to stare it back. And worst of all, my socks are wet.
 
 How could I describe the state I am in as anything but one of the worst conceivable? If men and fish were made separate, what must I have done to become like one? I could swim the world as I am, but I still hear duty calling inland.
 
