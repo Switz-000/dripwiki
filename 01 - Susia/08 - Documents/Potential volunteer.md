@@ -25,9 +25,7 @@ I am in complete awe. The republic *itself* has drafted a letter for me. What co
 
 And they ask me to dial? How am I supposed to defend myself over the phone or through the internet? Perhaps I judged the man who folded this too harshly. I am at war with him and soon it is his turn to judge me.
 
-I get up and take a step forward. My shoes are not where they are supposed to be, guarding my feet from the sun-violated sand.
-
-I find my shoes uphill; I hope these are mine. The left one is a bit tighter than the right one; perhaps my left foot is too swollen. The little grains of sand in it, and the hole that lets my toe stick out, do not help either.
+As if my sun problems were not enough, now both nature and landmen violently harass my existence. I get up. My shoes are uphill, safely above the tide line, where I must have left them. I put them on over my wet socks.
 
 ---
 
@@ -117,6 +115,6 @@ I listen to his deep voice and his dry coughs of coal fumes, but I struggle to u
 
 I quietly imagine the scene unfolding. The landmen would be more dangerous if they were not infighting most of the time. 
 
-"You should've seen it! The city took a week to clean up the mess!" he says, without a single note of remorse in his voice. It is the closest thing to a war that this beast, who craves it, will see.
+"You should've seen it! The city took a week to clean up the mess!" he says, without a single note of remorse in his voice. It is the closest thing to a war that a beast, who craves it will see.
 
 I do not reply. I expect him to fill the peace with more violent ramblings. He, instead, flicks his cigarette over the railing. I watch it fall the same ten stories, until the river carries it towards to my home. He does not say goodbye.
