@@ -2,7 +2,7 @@ Today, the sun decided to scrape my scales. It has made my limbs numb, my back a
 
 How could I begin to describe the state I am in? There is this terrible ache that burdens my head; there is sand all over my face, sand in every pocket, in every hole; it even crawls under my nails, under my tongue and under each and every one of my thoughts!
 
-If men and fish were made to be separate, what terrible crime must I have done to become like one? I could swim the world as I am, but I still hear duty calling inland. Something tell
+If men and fish were made to be separate, what terrible crime must I have done to become like one? I could swim the world as I am, but I still hear duty calling inland. Something telling me to take my fins off the sand. I contemplate, for a moment, the thought of staying just a bit more.
 
 To take a fish from the sea is one arduous step; many dedicate their lives to searching my home for food.
 
