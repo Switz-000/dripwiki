@@ -116,3 +116,7 @@ I quietly imagine the scene unfolding. The landmen would be more dangerous if th
 "You should've seen it! The city took a week to clean up the mess!" he says, without a single note of remorse in his voice. It is the closest thing to war that a beast who craves it will see.
 
 I do not reply. I expect him to fill the peace with more violent ramblings. He, instead, flicks his cigarette over the railing. I watch it fall the same ten stories, until the river carries it towards my home. He does not say goodbye.
+
+---
+
+My terrible enemy starts to set, the sky dims, and in the distance I see a glimpse of light. I had not realised that I haven't 
