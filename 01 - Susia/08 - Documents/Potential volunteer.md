@@ -133,4 +133,6 @@ I hear a familiar voice calling me. "Mr keeper, is that you?" I turn around and 
 
 I know this woman, yet I cannot recall her name. I think it starts with V, or was it C? I keep staring at her, analyzing her body to see if i can find some clue. Her name tag reads "Česeda". Wait, is she going to think i'm a creep for staring at her body for too long?
 
-"Oh, lord! Your face... What happened to your face?" Does she know I turned into a fish?
+"Oh, lord! Your face... What happened to your face?" Does she know I turned into a fish? I thought it was only me who hated my twisted face. Is she going to mention my gills?
+
+"You really need to use some sunscreen sweetheart. I know It's winter, but the sun never forgives! Specially you who works in the beach all day. want to look like the tourists from up north"
