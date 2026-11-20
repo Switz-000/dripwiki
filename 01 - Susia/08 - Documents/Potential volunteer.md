@@ -127,4 +127,4 @@ I pick a red basket and start browsing. In the snack section, I find cashews of 
 
 I open a pack of lightly salted cashews and continue browsing. At the miscellaneous section I get a new pair of socks. I take the wet ones off. It slides perfectly. They still do not sell shoes here, so my left thumb is sticking out.
 
-I get sisra coffee grounds, some batteries, lime so I don't catch scurvy, printer ink, I also wanted to try this new flavor of jam
+I get sisra coffee grounds, some batteries, lime so I do not catch scurvy, printer ink, water obviously, I also wanted to try this new flavor of jam and some sinking pellets for Ye
