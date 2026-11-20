@@ -25,7 +25,7 @@ I am in complete awe. The republic *itself* has drafted a letter for me. What co
 
 And they ask me to dial? How am I supposed to defend myself over the phone or through the internet? Perhaps I judged the man who folded this too harshly. I am at war with him and soon it is his turn to judge me.
 
-Time passes. I lie ashore, trying to process all the different emotions and worries that pour in and empty my head. As if my sun problems were not enough, now both nature and landmen violently harass my existence. I get up and take a step forward, I notice that my shoes are not where they are supposed to be, guarding my feet from the sun-violated sand.
+I get up and take a step forward. My shoes are not where they are supposed to be, guarding my feet from the sun-violated sand.
 
 I find my shoes uphill; I hope these are mine. The left one is a bit tighter than the right one; perhaps my left foot is too swollen. The little grains of sand in it, and the hole that lets my toe stick out, do not help either.
 
