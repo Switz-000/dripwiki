@@ -411,6 +411,10 @@ meta:
 
 - **Dissolved**: [[Confian Nation Party (1841)]]
 
+## 1939
+
+- **Birth**: [[Grawolja Lasmanna]] born in [[Carlotopolis]], [[Karlotopol']], [[Confia]]
+
 ## 1941
 
 - **Appointment**: [[Lorelaj Paulowić]] becomes President Director of the Free Confian Republic
@@ -854,6 +858,7 @@ meta:
 
 ## 2008
 
+- **Death**: [[Grawolja Lasmanna]] died
 - **End of tenure**: [[Ganzer Teahowić]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]
 - **End of tenure**: [[Katerina Armoljubca Nožeslawna]] leaves President of the Confian Nation at [[Confian National Government]]
 - **Founded**: [[Astralis Banking Group]] in [[Sužielaj city]]
@@ -872,6 +877,8 @@ meta:
 ## 2011
 
 - **Appointment**: [[Tegiron Hari]] becomes President of the Confian Social Republic at [[Confian National Government]]. *Assumed as vice-president*
+- **Atrocity begins**: [[Assassination of Ganzer Teahowić]]
+- **Atrocity ends**: [[Assassination of Ganzer Teahowić]]
 - **Death**: [[Ganzer Teahowić]] died in [[Imgospalje]], [[Koštanože]], [[Confia]] (Car bomb)
 - **Death**: [[Yário Kolkov]] died in [[New Duloc]], [[Postia]], [[Susia]] (Lung cancer)
 - **End of tenure**: [[Ganzer Teahowić]] leaves President of the Confian Social Republic at [[Confian National Government]]

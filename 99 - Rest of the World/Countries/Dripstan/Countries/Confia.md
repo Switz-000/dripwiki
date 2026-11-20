@@ -34,7 +34,7 @@ tags:
   - belief/ideology
   - economy/labor
 ---
-**Confia** (Confian: Końfija/Коњфія), officially the **Confian Social Republic** and known until 2009 as the **United Syndicates of Confia** (in Confian: Săhni Syndăkaci Końfiï/Съхні Сындъкаци Коњфії), also known as Confia, is a country located in the center of the [[Dripstanian Continent]] , bisected by the [[Confian Highlands]]. Confia borders [[Susia]] to the west, [[Pierej]] to the east, [[Kapiogg]] to the northwest, [[Zaphonia]] to the south, and shares a small border with [[Kamino]] to the southeast. The country is composed of ten states. The capital and largest commercial center of the country is [[Imgospalje]], while the largest city by area and population is [[Carlotopolis]].
+**Confia** (Confian: Końfija/Коњфія), officially the **Confian Social Republic** (Confian: Końfiska Lessaja Wirspruže/Коњфіска Лессая Вірспруже) and known until 2009 as the **United Syndicates of Confia** (in Confian: Săhni Syndăkaci Końfiï/Съхні Сындъкаци Коњфії), also known as Confia, is a country located in the center of the [[Dripstanian Continent]] , bisected by the [[Confian Highlands]]. Confia borders [[Susia]] to the west, [[Pierej]] to the east, [[Kapiogg]] to the northwest, [[Zaphonia]] to the south, and shares a small border with [[Kamino]] to the southeast. The country is composed of ten states. The capital and largest commercial center of the country is [[Imgospalje]], while the largest city by area and population is [[Carlotopolis]].
 
 The territory where Confia is currently located began to be occupied by Racpalians (East Gaiyanese) from the Second Gaiyan Migration in the late 1780s and early 1800s, following the [[Rural Properties Act]], sanctioned by [[Empress Veronique]]. With the gradual occupation of the territory west of the mountains, the [[General Government of Confia]] was established, a new territory directly controlled by the Empress.
 
@@ -121,16 +121,34 @@ The Japlenowina government's attempts to bring inflation under control through t
 The snap elections of 1980 produced a [[Confian Liberal Party]] majority government under [[Senjap Kunsekowić]]. The [[New Torch Plan]] broke the backbone of inflation through a new currency pegged to the Susian drip and a fiscal surplus achieved by cancelling multiple sectoral subsidies. [[Labour and Capital Reforms|Structural reforms]] to the syndicate-based electoral and labour system followed. The government collapsed in 1982 following the [[Čirwašata]] scandal, fracturing the [[Confian Liberal Party]] and clearing the path for [[Boris Serec]]'s [[Armotist Democratic Party]].
 
 # Government
+> *Main article: [[Confian National Government]]*
 # Economy
 
-The Confian economy is the second largest in the Dripstanian continent both nominal (TĐ2.2 trillion) and per-capita terms, at about TĐ17,900 per person. Since the 1990s, Confia has engaged in market-based reforms that reduced and modernized its regulatory apparatus, as well as the process of "desyndicalization" of the political and economic scene, which saw syndicates turn from vectors for worker self-management and [[Ragged-sleeve|ragged-sleeve]] control to vehicles for sectoral bargaining.
+The Confian economy is the second largest in the Dripstanian continent both nominal (TĐ2.2 trillion) and per-capita terms, at about TĐ17,900 per person in 2003. Its most prominent sectors are electronics, green manufacturing, technology and services. Confia's currency is the New Swobo (Н¢), established in 1980 during the [[New Torch Plan]]. The country's monetary authority, the [[Central Bank of the Confian Nation]], is constitutionally autonomous.
 
-Confia's currency is the New Swobo (Н¢), established in 1990 during the [[New Torch Plan]]. The country's monetary authority, the [[Central Bank of the Confian Nation]], is constitutionally autonomous.
+Confia's economy was historically concentrated in [[Ragged-sleeve|ragged-sleeve]] conglomerates such as [[PIKW]], [[Ražaw]], and [[Žošewoš Machinery]]. During the 1980s and 1990s, Confia engaged in market-based reforms that reduced and modernized its regulatory apparatus, as well as the process of "desyndicalization" of the political and economic scene, which saw syndicates turn from vectors for ragged-sleeve control to vehicles for sectoral bargaining.
+
 # Military
+
+The [[Confian National Government#President|President of Confia]] is the commander-in-chief of the Armed Forces of the Confian Nation, which is composed of the Confian Ground Forces, the Confian Navy and the Confian Air Force. Since 1979, the Comissar of Defence and later the Minister of Defence is a civilian appointed by the prime-minister.
+
+Confia abolished mandatory military service in 1978.
 # Foreign relations
 
-Confia is a member of the [[ODDN|Organization of the Democratic Dripstanian Nations]], having joined it in 1993. It ratified the [[Lasman Economic Initiative]] with [[Susia]] in 2000.
-# Culture
+Confia is a member of the [[ODDN|Organization of the Democratic Dripstanian Nations]], having joined it in 1993. It signed the [[Lasman Economic Initiative]] with [[Susia]] in 1995 and ratified it in 2000.
+# Culture and society
 
+Confian culture is influenced by [[Racpalia|Racpalian]] philosophies, which put an emphasis on communitarianism, steadiness and self-realization through study and meditation. 
 ### Religion 
+
+The vast majority of Confians are part of the [[Armotist Church of the Confian Synod]], an [[Armotism|Armotist]] synod which developed from the traditionalist tradition, influenced by [[Racpalia|Racpalian]] mysticism.
+### Cultural production 
+
+Cinema and theatre are viewed as a cornerstone of Confian cultural identity, with roots in pre-migration [[Racpalia]]. Confia has worldwide soft power through its media industry concentrated in the [[Carlotopolis]] metropolitan region, particularly in [[Goretopol']]. It is the site of the [[Theatre of the Nation]], a large connected complex of theatres that is a notable tourist attraction and a renowned symbol of Confia.
+### Language and demography
+
+Confian is spoken by 99.7% of the population.
+### Public holidays
+
+> *Main article: [[List of Confian holidays]]*
 # See also

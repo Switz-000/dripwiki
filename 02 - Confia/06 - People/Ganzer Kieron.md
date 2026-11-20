@@ -33,7 +33,7 @@ education:
   - degree:
     institution:
     year:
-  -
+  - 
 occupation:
   - title:
     start_year:
@@ -45,15 +45,15 @@ military_service:
     start_year:
     end_year:
     conflicts:
-      -
+      - 
     notes:
 political_alignment:
-  -
+  - 
 party: "[[Union of Confian Syndicalists]]"
 parties:
-  -
+  - 
 organizations:
-  -
+  - 
 titles:
   - title:
     seat:
@@ -61,9 +61,8 @@ titles:
     end_year:
     appointer:
     parties:
-      -
+      - 
     notes:
-
 roles:
   - role:
     employer:
@@ -97,12 +96,12 @@ awards:
     country:
     notes:
 era:
-  -
+  - 
 tags:
-  -
+  - 
 meta:
   stub: true
   verified: false
   image:
 ---
-**Ganzer Nisewić Kieron** was a [[Confia|Confian]] philosopher, writer and politician.
+**Ganzer Nisewić Kieron** was a [[Confia|Confian]] philosopher, writer and politician who is widely credited with the foundation of modern [[Syndicalism|Syndicalist]] thought.

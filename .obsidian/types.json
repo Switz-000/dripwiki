@@ -3,6 +3,7 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "nature": "text"
+    "nature": "text",
+    "victims": "text"
   }
 }

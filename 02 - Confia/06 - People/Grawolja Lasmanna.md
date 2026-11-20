@@ -21,14 +21,14 @@ enhanced: false
 
 # ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
 birth:
-  year:
+  year: 1939
   city: "[[Carlotopolis]]"
   state: "[[Karlotopol']]"
   country: "[[Confia]]"
 
 death:
-  year:
-  city:
+  year: 2008 
+  city: 
   state:
   country:
   cause:
@@ -170,7 +170,7 @@ portrait:
     shirt: "#ceedf4"
     tie: "#ed1c24"
 ---
-**Grawolja Seriewina Lasmanna** (Racpalian Alphabet: Гравоља Серьевіна Ласманна) is a Confian economist and banker that served as the 6th Prime Minister of the [[Confia|United Syndicates of Confia]], as well as the 2nd Director of its Central Bank. 
+**Grawolja Seriewina Lasmanna** (Racpalian Alphabet: Гравоља Серьевіна Ласманна) was a Confian economist and banker that served as the 6th Prime Minister of the [[Confia|United Syndicates of Confia]], as well as the 2nd Director of its Central Bank. 
 
 ## Personal life
 
@@ -197,3 +197,6 @@ When publicly asked about her religion during [[Grawolja Lasmanna with the Five 
 
 > "I would bring back Sallemaj from Kalti's chamber if it meant I could replace him with [[Olga Karwenna|Olga]]."
 > ― Grawolja Lasmanna, [[Grawolja Lasmanna with the Five of Goretopol'|Interview]] (2009)
+
+> "Prison treated your tuft poorly."
+> ― Grawolja Lasmanna to [[Boris Serec]] during [[Ganzer Teahowić]]'s funeral (2011, attributed by [[Noljež Teššan]])

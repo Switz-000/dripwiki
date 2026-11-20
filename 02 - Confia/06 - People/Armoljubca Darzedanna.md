@@ -1,17 +1,16 @@
 ---
 type: person
-native_name:
-lusitanized_name:
+native_name: Armoljubca Tegironowina Darzedanna
 aliases:
   - Darzedanna
 summary:
 sex: Female
-ethnicity:
-religion:
+ethnicity: "[[East Gaiyanese]]"
+religion: "[[Armotist Church of the Confian Synod]]"
 citizenship:
-  - 
+  - "[[Confia|Confian]]"
 nationality:
-  - 
+  - "[[Confia|Confian]]"
 enhanced: false
 birth:
   year:

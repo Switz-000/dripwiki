@@ -4,24 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "d015d440008c4096",
+        "id": "a6ad328136cc31fa",
         "type": "tabs",
         "children": [
           {
-            "id": "0d52b1e41955f625",
+            "id": "22757797b10aba90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Meta/Style Guide.md",
+                "file": "02 - Confia/00 - Index & Maps/List of Confian leaders.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Style Guide"
+              "title": "List of Confian leaders"
+            }
+          },
+          {
+            "id": "a1436a3e66c75768",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Confia/00 - Index & Maps/List of Confian elections.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "List of Confian elections"
+            }
+          },
+          {
+            "id": "ed7a181466c3af50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Confia/06 - People/Eriežera Lensekowina.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Eriežera Lensekowina"
+            }
+          },
+          {
+            "id": "c30247625d701f83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Confia/06 - People/Ganzer Teahowić.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ganzer Teahowić"
+            }
+          },
+          {
+            "id": "c8334728a2df3455",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Assassination of Ganzer Teahowić.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Assassination of Ganzer Teahowić"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -55,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"main article\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,11 +136,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 306.5
   },
   "right": {
     "id": "5f0a876e89cc6acd",
@@ -185,8 +243,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 282.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,37 +257,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d52b1e41955f625",
+  "active": "c8334728a2df3455",
   "lastOpenFiles": [
-    "00 - Meta/YAML and Tags.md",
-    "00 - Meta/Titles.md",
-    "00 - Meta/Suizo's Artistic Bible/3 - Reading characters and institutions.md",
-    "00 - Meta/Suizo's Artistic Bible/4 - Global facts.md",
-    "00 - Meta/Suizo's Artistic Bible/2 - Themes and tendencies.md",
-    "00 - Meta/Suizo's Artistic Bible/1 - The non-negotiables.md",
-    "00 - Meta/Style Guide.md",
-    "01 - Susia/08 - Documents/Potential volunteer.md",
-    "02 - Confia/05 - Culture/Five of Goretopol'.md",
-    "01 - Susia/00 - Index & Maps/List of first names.md",
-    "Potential Volunteer (temp).md",
+    "02 - Confia/06 - People/Ganzer Teahowić.md",
     "02 - Confia/06 - People/Eriežera Lensekowina.md",
-    "02 - Confia/02 - Geography/Cities/Koštanože/Wastonna of the Hills.md",
-    "01 - Susia/06 - People/Urgiri Tečlan.md",
-    "02 - Confia/02 - Geography/Cities/Žošewoš/Wanašehar.md",
-    "02 - Confia/02 - Geography/Cities/Žošewoš/Režisk.md",
-    "02 - Confia/02 - Geography/Cities/Žošewoš/Lasmanože.md",
-    "02 - Confia/02 - Geography/Cities/Žošewoš/Bojisk.md",
-    "02 - Confia/02 - Geography/Cities/Koštanože/St Feriol.md",
-    "02 - Confia/02 - Geography/Cities/Koštanože/St Eriogala.md",
-    "02 - Confia/02 - Geography/Cities/Karlotopol'/St Meshon.md",
-    "02 - Confia/02 - Geography/Cities/Karlotopol'/Jagansk.md",
-    "02 - Confia/02 - Geography/Cities/Karlotopol'/Armotruže.md",
+    "02 - Confia/00 - Index & Maps/List of Confian leaders.md",
+    "99 - Rest of the World/Countries/Dripstan/Countries/Confia.md",
+    "99 - Rest of the World/Countries/Dripstan/Countries/Susia.md",
+    "Assassination of Ganzer Teahowić.md",
+    "02 - Confia/00 - Index & Maps/List of Confian elections.md",
+    "01 - Susia/04 - History/Events/Two banner republic/Ant wars.md",
+    "01 - Susia/06 - People/Armadesh Versij.md",
+    "10 - Dripstanian Incria/Peoples/Baya people.md",
+    "02 - Confia/06 - People/Grawolja Lasmanna.md",
+    "02 - Confia/06 - People/Boris Serec.md",
+    "02 - Confia/06 - People/Senjap Kunsekowić.md",
+    "Philosophy/Religion/Armotism.md",
+    "Philosophy/Politics/Syndicalism.md",
+    "02 - Confia/06 - People/Armoljubca Darzedanna.md",
+    "02 - Confia/07 - Organizations/Political parties/Active/Syndicalist League.md",
+    "02 - Confia/04 - History/Events/Carlotopolis Uprising.md",
+    "01 - Susia/08 - Documents/Graduation yearbook.md",
+    "Languages/Susian/Susian lexicon by root.md",
+    "02 - Confia/06 - People/Mariana Torres.md",
+    "02 - Confia/07 - Organizations/Political parties/Defunct/Syndicalist republic/Progressive Republican Party.md",
+    "02 - Confia/01 - Government/Confian National Government.md",
+    "02 - Confia/09 - Titles/Confian Prime Minister.md",
+    "CHRONOLOGY.md",
+    "02 - Confia/07 - Organizations/Political parties/Active/Atom Party.md",
     "00 - Meta/Images/Spruyatroceyon Varnec.png",
     "00 - Meta/Images/New Duloc riot 1958.jpg",
     "00 - Meta/Images/Eplevakt 1978.jpg",
-    "01 - Susia/06 - People/Ňotrič Apaj.md",
-    "01 - Susia/06 - People/Milǎr Frelach.md",
-    "01 - Susia/09 - Titles/Emperor of the Dripstanian Empire.md",
     "01 - Susia/07 - Organizations/sedcJJGNM",
     "__pycache__/vault_dates.cpython-314.pyc",
     "__pycache__",

@@ -150,8 +150,6 @@ meta:
 ---
 **Mariana Marianowina Turreš Ljeranna** (Racpalian Alphabet: Марьана Марьановіна Турреш Љеранна) was a Confian civil engineer, revolutionary guerilla fighter, politician and stateswoman who served as the 2nd President of the [[Confia|United Syndicates of Confia]]. She was one of the Five of the [[Carlotopolis Uprising]].
 
-
-
 ### Provisional Leader of Confia (1977)
 
 As leader of the RBWIZ, Mariana Torres was installed as the interim leader, temporarily occupying the role of Leader of the Nation, created by the [[Presidential Empowerment Amendment]]. The Torres Government set out a transition timeline and new elections for late 1977, with the next government taking power in 1978. The 1956 Confian syndicalist constitution would be mostly restored to its original state by then, therefore removing the [[Presidential Empowerment Amendment]] and other constitutional measures taken by Paulowić. The only change from the original text was the abrogation of Article 3, which strictly defined cooperative and state ownership as the only legitimate forms of property.

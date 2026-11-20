@@ -25,7 +25,7 @@ meta:
 ## Former holidays:
 
 **[[Revolution Day]]**: Celebrated the [[Bayonet Revolution]] that overthrew the [[Paulowić regime]]. Replaced in 2002 with [[National Democracy Day]]. 23/04.
-**[[Syndicate Day]]**: Celebrated the publication of [[When Workers Rule Their Own]] by [[Ganzer Kieron]]. Extinguished in 1986 as [[Boris Serec]]'s first order in office.
+**[[Syndicate Day]]**: Celebrated the publication of [[When Workers Rule Their Own]] by [[Ganzer Kieron]]. Extinguished in 1980 as [[Senjap Kunsekowić]]'s first order in office.
 **[[Paulowić Day]]**: Celebrated [[Lorelaj Paulowić]]'s birthday. Extinguished in 1977.
 
 %% FLAGS:

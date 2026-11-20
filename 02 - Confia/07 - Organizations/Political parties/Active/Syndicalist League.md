@@ -37,6 +37,8 @@ tags:
   - belief/ideology
   - economy/labor
 ---
-The **Syndicalist League** (Confian: Syndăkalicka Fežka/Сындъкаліцка Фежка) is a major Confian centre-left party. It is based on the ideals of [[Syndicalism#New Syndicalism|New Syndicalism]].
+The **Syndicalist League** (Confian: Syndăkalicka Fežka/Сындъкаліцка Фежка) is a major Confian centre-left party. It is based on the ideals of [[Syndicalism#New Syndicalism|New Syndicalism]] as founded by philosopher [[Eriežera Lensekowina]], who was one of the party's founders. The party ruled Confia through the 1990s, 2000s and 2010s, interrupted only by [[Grawolja Lasmanna]]'s three-year tenure. Since the 2013 election of [[Nisa Peskilonna]], the Syndicalist League has been either in the opposition or a junior partner in governments such as [[Armoljubca Darzedanna]]'s or [[Nis Soler]]'s.
 
-The party symbol is a two-bladed helix, usually coloured in red when alone or in gold when used against the red background of the party's flag.
+The Syndicalist League holds a pro-[[Susia]] foreign policy since its founding. Confia entered the [[ODDN]] and signed and ratified the [[Lasman Economic Initiative]] under the presidency of [[Katerina Armoljubca Nožeslawna]]. The party also historically supports free trade.
+
+The party symbol is the "League Helix": a two-bladed helix, usually coloured in red when alone or in gold when used against the red background of the party's flag. The Helix, designed by [[Kariz Daljoăn]], is said to be a stylized version of the wingspan of the Confian black falcon.

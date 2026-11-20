@@ -1391,6 +1391,16 @@
    "country": "Confia"
   },
   {
+   "year": 1939,
+   "date": "1939",
+   "precision": "year",
+   "kind": "Birth",
+   "text": "[[Grawolja Lasmanna]] born in [[Carlotopolis]], [[Karlotopol']], [[Confia]]",
+   "source": "Grawolja Lasmanna",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
    "year": 1941,
    "date": "1941",
    "precision": "year",
@@ -3644,6 +3654,16 @@
    "year": 2008,
    "date": "2008",
    "precision": "year",
+   "kind": "Death",
+   "text": "[[Grawolja Lasmanna]] died",
+   "source": "Grawolja Lasmanna",
+   "source_type": "person",
+   "country": "Confia"
+  },
+  {
+   "year": 2008,
+   "date": "2008",
+   "precision": "year",
    "kind": "End of tenure",
    "text": "[[Ganzer Teahowić]] leaves President of the Council of Commissars of the United Syndicates of Confia at [[Confian National Government]]",
    "source": "Ganzer Teahowić",
@@ -3729,6 +3749,24 @@
    "source": "Tegiron Hari",
    "source_type": "person",
    "country": "Confia"
+  },
+  {
+   "year": 2011,
+   "date": "2011",
+   "precision": "year",
+   "kind": "Atrocity begins",
+   "text": "[[Assassination of Ganzer Teahowić]]",
+   "source": "Assassination of Ganzer Teahowić",
+   "source_type": "atrocity"
+  },
+  {
+   "year": 2011,
+   "date": "2011",
+   "precision": "year",
+   "kind": "Atrocity ends",
+   "text": "[[Assassination of Ganzer Teahowić]]",
+   "source": "Assassination of Ganzer Teahowić",
+   "source_type": "atrocity"
   },
   {
    "year": 2011,
@@ -6259,6 +6297,17 @@
    "display": "President of the Confian Social Republic",
    "holder": "Ganzer Teahowić",
    "start_date": "2009",
+   "start_precision": "year",
+   "end_date": "2011",
+   "end_precision": "year"
+  },
+  {
+   "lane": "events",
+   "label": "Assassination of Ganzer Teahowić",
+   "start": 2011,
+   "end": 2011,
+   "country": "",
+   "start_date": "2011",
    "start_precision": "year",
    "end_date": "2011",
    "end_precision": "year"

@@ -1,13 +1,9 @@
 ---
-# ── IDENTITY ────────────────────────────────────────────────────────────────
 type: person
-native_name:
-lusitanized_name: Senjap Kunsekowić Žiwoj
+native_name: Senjap Kunsekowić Žiwoj
 aliases:
   - Kunsekowić
 summary:
-
-# ── DEMOGRAPHICS ────────────────────────────────────────────────────────────
 sex: Male
 ethnicity: "[[East Gaiyanese]]"
 religion: Atheist
@@ -18,40 +14,30 @@ nationality:
   - "[[Dripstanian Empire|Dripstanian]]"
   - "[[Confia|Confian]]"
 enhanced: false
-
-# ── BIRTH AND DEATH ────────────────────────────────────────────────────────────────
 birth:
   year: 1917
   city: "[[Carlotopolis]]"
   state: "[[Karlotopol']]"
   country: "[[Dripstanian Empire]]"
-
 death:
   year: 2012
   city: "[[St Feriol]]"
   state: "[[Koštanože]]"
   country: "[[Confia]]"
   cause: Natural causes
-
-# ── FAMILY ──────────────────────────────────────────────────────────────────
 relations:
   - person:
     relation:
     notes:
-
-# ── EDUCATION ───────────────────────────────────────────────────────────────
 education:
   - degree:
     institution:
     year:
-  -
-
-# ── CAREER ──────────────────────────────────────────────────────────────────
+  - 
 occupation:
   - title:
     start_year:
     end_year:
-
 military_service:
   - allegiance:
     branch:
@@ -59,20 +45,15 @@ military_service:
     start_year:
     end_year:
     conflicts:
-      -
-    notes: null
-
+      - 
+    notes:
 political_alignment:
   - "[[Liberal constitutionalism]]"
-
-party: "[[Confian Liberal Party]]"        # principal partido, ou partido atual
-parties:                                        # partidos que ela ja pertenceu
+party: "[[Confian Liberal Party]]"
+parties:
   - "[[Confian Liberal Party]]"
-
 organizations:
-  -
-
-# ── TITLES AND ROLES ────────────────────────────────────────────────────────
+  - 
 titles:
   - title: "[[Confian Prime Minister]]"
     start_year: 1980
@@ -81,16 +62,11 @@ titles:
     parties:
       - "[[Confian Liberal Party]]"
     notes:
-
-# ── WRITTEN WORKS ───────────────────────────────────────────────────────────
 written_works:
   - title:
     publication_year:
     genre:
     notes:
-
-
-# ── CRIMINAL RECORD ─────────────────────────────────────────────────────────
 criminal_charges:
   - charge:
     counts:
@@ -102,8 +78,6 @@ criminal_charges:
     served:
     in_absentia:
     notes:
-
-# ── ASSOCIATIONS & LEGACY ───────────────────────────────────────────────────
 known_for:
   - item: "[[Labour and Capital Reform ACCN]]"
     notes:
@@ -111,7 +85,6 @@ known_for:
     notes:
   - item: "[[Čirwašata Scandal]]"
     notes:
-
 awards:
   - title:
     awarded_year:
@@ -119,19 +92,15 @@ awards:
     granted_by:
     country:
     notes:
-
 era:
-  -
-
-# ── META ────────────────────────────────────────────────────────────────────
+  - 
 tags:
   - politics/governance
   - economy/finance
-
 meta:
   stub: true
   verified: false
-  image: null
+  image:
 ---
 **Senjap Kunsekowić Žiwoj** (Racpalian Alphabet: Сеняп Кунсековіч Живой) is a Confian economist and politician that served as the 4th Prime Minister of the [[Confia|United Syndicates of Confia]].
 

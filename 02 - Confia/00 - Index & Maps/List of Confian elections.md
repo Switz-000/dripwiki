@@ -23,10 +23,10 @@ meta:
 ## 1956 Confian presidential election
 The first election for head of state in the history of independent Confia. It was also the only presidential election in Confian history to be held indirectly, citing lack of civilian infrastructure for vote collecting for an universal suffrage vote. The only two candidates were [[Lorelaj Paulowić]] of the [[Confian Syndicalist Union]] and [[Mariana Torres]] of the [[Progressive Republican Party]]. The former was victorious and went on to institute the [[Presidential Empowerment Amendment]].
 
-|      Candidate       |               Party               |  Votes (%)  |  Status  |
-| :------------------: | :-------------------------------: | :---------: | :------: |
-| [[Lorelaj Paulowić]] | [[Confian Syndicalist Union]] | *227 seats* | Elected  |
-|  [[Mariana Torres]]  | [[Progressive Republican Party]]  | *123 seats* | Defeated |
+|      Candidate       |              Party               |  Votes (%)  |  Status  |
+| :------------------: | :------------------------------: | :---------: | :------: |
+| [[Lorelaj Paulowić]] |  [[Confian Syndicalist Union]]   | *227 seats* | Elected  |
+|  [[Mariana Torres]]  | [[Progressive Republican Party]] | *123 seats* | Defeated |
 ## 1977 Confian general election
 
 The first nationwide democratic parliamentary election with universal suffrage in Confian history. it followed the [[Bayonet Revolution]]. It produced a KNP-LjWP coalition. Turnout was 85.1%
