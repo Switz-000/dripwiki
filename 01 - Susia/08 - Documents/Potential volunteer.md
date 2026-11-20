@@ -21,13 +21,13 @@ For any questions, call the State Information Line +01 (32) 5719-9499
 DO NOT APPEAR AT YOUR CITY COUNCIL UNTIL SUMMONED AND SPECIFICALLY INSTRUCTED TO DO SO!
 ```
 
-I am in complete awe. The republic *itself* has drafted a letter for me. What could I have done to be officially summoned by the state to stand before a trial? How can they summon me without my knowing the subject of these discussions?
+I am in complete awe. The republic *itself* has drafted a letter for me. What could I have done to be officially called by the state to stand before a trial? How can they summon me without my knowing the subject of these discussions?
 
 And they ask me to dial? How am I supposed to defend myself over the phone or through the internet? Perhaps I judged the man who folded this too harshly. I am at war with him and soon it is his turn to judge me.
 
-Time passes. I lie ashore, trying to process all the different emotions and worries that pour in and empty my head. As if my sun-related problems were not enough, now both nature and landmen violently harass my existence. As I get up and take a step forward, I notice that my shoes are not where they are supposed to be, guarding my feet from the sun-violated sand.
+Time passes. I lie ashore, trying to process all the different emotions and worries that pour in and empty my head. As if my sun problems were not enough, now both nature and landmen violently harass my existence. I get up and take a step forward, I notice that my shoes are not where they are supposed to be, guarding my feet from the sun-violated sand.
 
-I find my shoes uphill. They are appropriate for my feet. The left one is a bit tighter than the right one; perhaps my left foot is too swollen. The little grains of sand in it, and the hole that lets my toe stick out, do not help either.
+I find my shoes uphill; I hope these are mine. The left one is a bit tighter than the right one; perhaps my left foot is too swollen. The little grains of sand in it, and the hole that lets my toe stick out, do not help either.
 
 ---
 
@@ -41,7 +41,7 @@ I reply: "What? Do you take me for a delivery man? I have lectured you on the pr
 
 The boy just looks at me and says: "I do. I like digging holes."
 
-I do not know what to reply. I turn back and retreat. I keep walking by the shore, reading the letter over and over again. The scalding heat is baking my head, yet I seem closer and closer to figuring out the message.
+I do not know what to reply. I turn back and make a stra retreat. I keep walking by the shore, reading the letter over and over again. The scalding heat is baking my head, yet I seem closer and closer to figuring out the message.
 
 >  You have been chosen from a random selection of citizens to serve as a potential volunteer
 >  You have fifteen days to access the official website at ttj.orlitia.su
