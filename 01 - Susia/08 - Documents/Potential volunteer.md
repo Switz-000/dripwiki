@@ -4,7 +4,7 @@ How could I begin to describe the state I am in? A terrible ache burdens my head
 
 If men and fish were made to be separate, what terrible crime must I have committed to become like one? I could swim the world as I am, but I still hear duty calling inland. Something tells me to lift my fins from the sand. For a moment, I contemplate staying a little longer.
 
-Instead of moving, I check my left pocket. My head still faces the sun, but my eyes are too scared to confront it. I find an envelope. It has no destination; every field is empty. To take a fish from the sea is one arduous step; to deliver a message to one is, arguably, harder.
+Instead of moving, I check my left pocket. My head still faces the sun, but my eyes are too scared to confront it. an envelope. It has no destination; every field is empty. To take a fish from the sea is one arduous step; to deliver a message to one is, arguably, harder.
 
 Inside, a paper, folded exactly six times. It is obvious that the man who printed this could not even fold a seventh time. He lacks any authority, unable to impose his will upon this mere paper.
 
@@ -121,5 +121,5 @@ I do not reply. I expect him to fill the peace with more violent ramblings. He, 
 
 My terrible enemy starts to set, the sky dims, and in the distance I see a glimpse of light. A convenience store. Wait. Did I eat today? A fish cannot live off sand and cashews.
 
-I do not even hesitate. The doors sense my hunger and open instantly. I feel the cold air slide through my chest, but it is the faint smell of fresh tangerines that takes me inside.
+I do not even hesitate. The doors sense my hunger and open instantly. I feel the cold air slide down my chest, but it is the faint smell of fresh tangerines that takes me inside.
 
