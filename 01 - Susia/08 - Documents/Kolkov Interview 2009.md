@@ -218,7 +218,7 @@ EPILOGUE (Added 02/2011)
 
 I visited Kolkov last month. His health is deteriorating rapidly, lung cancer, stage four. He continues to smoke. "What's it going to do, kill me?" he said, lighting another cigarette. "Too late for prevention now."
 
-He was working on revisions to "Democracy as Organism," his next book on constitutional evolution and federal experimentation. On his desk, prominently displayed: a coffee mug from TU with "ADAPT OR DIE – KOLKOV INSTITUTE" printed in bold letters.
+He was working on a sequel to "Democracy as Organism", his next book on constitutional evolution and federal experimentation. On his desk, prominently displayed: a coffee mug from TU with "ADAPT OR DIE – KOLKOV INSTITUTE" printed in bold letters.
 
 "They sent me a whole box," he explained. "I use this one for pens. Seems fitting. The most useful thing they've ever done with my work is give me somewhere to put my fucking pens."
 
