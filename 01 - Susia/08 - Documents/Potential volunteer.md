@@ -123,3 +123,4 @@ My terrible enemy starts to set, the sky dims, and in the distance I see a glimp
 
 I do not even hesitate. The doors sense my hunger and open instantly. I feel the cold air slide down my chest, but it is the faint smell of fresh tangerines that takes me inside.
 
+I picked a red basket and started browsing. Where is the cashew isle? 
