@@ -125,4 +125,6 @@ I do not even hesitate. The doors sense my hunger and open instantly. I feel the
 
 I pick a red basket and start browsing. In the snack section, I find cashews of different kinds and sizes, and with varying amounts of salt. A large sign reads: "All nuts sold at Soites are gluten free, organic and ethically sourced." Am I paying more for them being ethically sourced? If so, I do not care where they come from.
 
-I open a pack of lightly salted cashews and continue browsing. At the miscellaneous section I get a new pair of socks. I take the wet ones off. It slides perfectly. They do not sell shoes here however, so my thumb is still sticking out.
+I open a pack of lightly salted cashews and continue browsing. At the miscellaneous section I get a new pair of socks. I take the wet ones off. It slides perfectly. They still do not sell shoes here, so my left thumb is sticking out.
+
+I get sisra coffee grounds, some batteries, lime so I don't catch scurvy, printer ink, I also wanted to try this new flavor of jam
