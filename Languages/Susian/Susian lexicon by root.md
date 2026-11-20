@@ -24,23 +24,23 @@ Nouns are unmarked. Verbs carry `(v.)`, adjectives `(adj.)`, adverbs `(adv.)`.
 
 ## Affix reference
 
-|Affix|Function|
-|---|---|
-|-ij|possessive, relational, adherent|
-|-er|agent|
-|-ar|locative agent|
-|-ič|diminutive|
-|-on|augmentative|
-|-kat|class, order|
-|-oy|collective, plurative|
-|-tich|ethnic, gentilic|
-|-aj|possessing a quality|
-|-eh|moral quality|
-|-ali|ideological|
-|-laj|land, region|
-|-tor|comparative|
-|-re|verb|
-|Ne-|negation|
+| Affix | Function                         |
+| ----- | -------------------------------- |
+| -ij   | possessive, relational, adherent |
+| -er   | agent                            |
+| -ar   | locative agent                   |
+| -ič   | diminutive                       |
+| -on   | augmentative                     |
+| -kat  | class, order                     |
+| -oy   | collective, plurative            |
+| -tich | ethnic, gentilic                 |
+| -aj   | possessing a quality             |
+| -eh   | moral quality                    |
+| -ali  | ideological                      |
+| -laj  | land, region                     |
+| -tor  | comparative                      |
+| -re   | verb                             |
+| Ne-   | negation                         |
 
 ---
 
