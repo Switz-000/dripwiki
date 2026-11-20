@@ -1,10 +1,10 @@
-Today, the sun decided to scrape my scales. It has made my limbs numb, my back a bright red and my eyes swollen. It stared at me so harshly I would not dare to stare it back. Worst of all, my socks are wet.
+Today, the sun decided to scrape my scales. It has made my limbs numb, my back a bright red and my eyes swollen. It stares at me so harshly I do not dare stare back at it. Worst of all, my socks are wet.
 
-How could I begin to describe the state I am in? There is this terrible ache that burdens my head; there is sand all over my face, sand in every pocket, in every hole; it even crawls under my nails, under my tongue and under each and every one of my thoughts!
+How could I begin to describe the state I am in? A terrible ache burdens my head; there is sand all over my face, sand in every pocket, in every hole; it even crawls under my nails, under my tongue and under each and every one of my thoughts.
 
 If men and fish were made to be separate, what terrible crime must I have committed to become like one? I could swim the world as I am, but I still hear duty calling inland. Something tells me to lift my fins from the sand. For a moment, I contemplate staying a little longer.
 
-Instead of moving, I check my left pocket. My head still facing the sun, yet my eyes too scared to confront it back. I find a blank envelope; It has no destination and all of its fields are blank. To take a fish from the sea is one arduous step; now to deliver it a message, is, argubly, the most challeging part
+Instead of moving, I check my left pocket. My head still faces the sun, but my eyes are too scared to confront it. I find an envelope. It has no destination; every field is empty. To take a fish from the sea is one arduous step; to deliver a message to one is, arguably, harder.
 
 Inside, a paper, folded exactly six times. It is obvious that the man who printed this could not even fold a seventh time. He lacks any authority, unable to impose his will upon this mere paper.
 
@@ -21,7 +21,7 @@ For any questions, call the State Information Line +01 (32) 5719-9499
 DO NOT APPEAR AT YOUR CITY COUNCIL UNTIL SUMMONED AND SPECIFICALLY INSTRUCTED TO DO SO!
 ```
 
-I am in complete awe. The republic *itself* has drafted a letter for me. What could I have done to be officially called by the state to stand before a trial? How can they summon me without my knowing the subject of these discussions?
+I am in complete awe. The republic *itself* has drafted a letter for me. What could I have done to be officially summoned by the state to stand before a trial? How can they summon me without my knowing the subject of these discussions?
 
 And they ask me to dial? How am I supposed to defend myself over the phone or through the internet? Perhaps I judged the man who folded this too harshly. I am at war with him and soon it is his turn to judge me.
 
