@@ -119,5 +119,7 @@ I do not reply. I expect him to fill the peace with more violent ramblings. He, 
 
 ---
 
-My terrible enemy starts to set, the sky dims, and in the distance I see a glimpse of light. A continence store. Wait. I haven't eaten all day, have I?
- The faint smell of fresh tangerines takes me inside. 
+My terrible enemy starts to set, the sky dims, and in the distance I see a glimpse of light. A continence store. Wait. Did I eat today? A fish can't live off sand and cashews.
+
+I don't even have to hesitate. The doors senses my hunger and open instantly, 
+The faint smell of fresh tangerines takes me inside. 
