@@ -1,6 +1,8 @@
-Today, the sun decided to scrape my scales. It made my limbs numb, my back a bright red and my eyes swollen. It stared at me so harshly I wouldn't dare to stare it back. And worst of all, my socks are wet.
+Today, the sun decided to scrape my scales. It has made my limbs numb, my back a bright red and my eyes swollen. It stared at me so harshly I would not dare to stare it back. Worst of all, my socks are wet.
 
-How could I describe the state I am in as anything but one of the worst conceivable? If men and fish were made separate, what must I have done to become like one? I could swim the world as I am, but I still hear duty calling inland.
+How could I begin to describe the state I am in? There is this terrible ache burdens my chest and head, there is sand all over my face, in every pocket, in every hole, it crawls under my nails, behing my tougue and behind each and every one of my thoughts. 
+
+ If men and fish were made separate, what must I have done to become like one? I could swim the world as I am, but I still hear duty calling inland.
 
 To take a fish from the sea is one arduous step; many dedicate their lives to searching my home for food.
 
