@@ -46,7 +46,7 @@ TRANSCRIPT BEGINS
 
 **RAROSKA:** That's... graphic.
 
-**KOLKOV:** It's accurate. I worked at TU for two years. 1987 to 1989. Worst two years of my life, and I spent five years at Nayotai, so that's saying something. You want to know why I left TU? Because I watched them turn work into religion. I watched brilliant engineers convinced they were saving humanity by building better computers. I watched people cry, actually cry, when they talked about the company mission.
+**KOLKOV:** It's true. I worked at TU for two years. 1987 to 1989. Worst two years of my life, and I spent five years at Nayotai, so that's saying something. You want to know why I left TU? Because I watched them turn work into religion. I watched brilliant engineers convinced they were saving humanity by building better computers. I watched people cry, actually cry, when we didn't beat Q3 expectations.
 
 **RAROSKA:** You wrote about this in "[[Letters to a Dead Republic]]"-
 
