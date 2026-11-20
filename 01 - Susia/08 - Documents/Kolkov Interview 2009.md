@@ -20,9 +20,9 @@ tags:
   - economy/labor
   - culture
 ---
- TRANSCRIPT BEGINS
+TRANSCRIPT BEGINS
 
-*Kolkov is already smoking when I arrive. The apartment is small, cramped, books stacked on every surface, papers scattered across a table that looks like it came from a salvage yard, ashtray overflowing with [[Vitrika|vitrikan]] cigarette butts. Through the window, I can see the [[Nayotai]] factory complex a few blocks away. The walls are bare except for a faded poster from a union rally.*
+*Kolkov is already smoking when I arrive. The apartment is small, cramped, books stacked on every surface, papers scattered across a table that looks like it came from a salvage yard, ashtray overflowing with [[Vitrika|vitrikan]] cigarette butts. Through the window, I can see the [[Nayotai]] factory complex a few blocks away. The walls are bare except for a faded poster from a teacher's union.*
 
 **RAROSKA:** Thank you for agreeing to meet, Mr. Kolkov. I know you don't do many interviews.
 
@@ -38,11 +38,11 @@ tags:
 
 **RAROSKA:** They've named several initiatives after you, I understand. The [[Kolkov Institute for Innovation]], the [[Kolkov Award for Engineering]]-
 
-**KOLKOV:** Do you know what they're doing? Do you actually understand what's happening here?
+**KOLKOV:** Do you know what they're doing? Do you actually *understand* what's happening here?
 
 **RAROSKA:** I... assume they're honoring your intellectual contributions-
 
-**KOLKOV:** Honoring. For fuck's sake. They're not honoring me, Professor. They're necrophiliacs. They're fucking my corpse before I'm even dead.
+**KOLKOV:** Honoring? For fuck's sake! They're not honoring me, Professor. They're necrophiliacs. They're fucking my corpse before I'm even dead.
 
 **RAROSKA:** That's... graphic.
 
