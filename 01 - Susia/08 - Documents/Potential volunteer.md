@@ -41,7 +41,7 @@ I reply: "What? Do you take me for a delivery man? I have lectured you on the pr
 
 The boy just looks at me and says: "I do. I like digging holes."
 
-I do not know what to reply. I turn back and make a stra retreat. I keep walking by the shore, reading the letter over and over again. The scalding heat is baking my head, yet I seem closer and closer to figuring out the message.
+I do not know what to reply. I turn back and make a strategic retreat. I keep walking by the shore, reading the letter over and over again. The scalding heat is baking my head, yet I seem closer and closer to figuring out the message.
 
 >  You have been chosen from a random selection of citizens to serve as a potential volunteer
 >  You have fifteen days to access the official website at ttj.orlitia.su
@@ -79,7 +79,6 @@ BACK LABEL
 May make you sleepy or dizzy. Do not mix with alcohol. Use care when operating vehicle, vessel or machinery. Swallow whole. Do not chew or crush. 
 Don't worry, this is the same medicine you have been getting.
 
-EXP 03-2070
 PC: 0574017744803985
 SN: 1000012739749234
 Batch: 1086541
@@ -118,6 +117,6 @@ I listen to his deep voice and his dry coughs of coal fumes, but I struggle to u
 
 I quietly imagine the scene unfolding. The landmen would be more dangerous if they were not infighting most of the time. 
 
-"You should've seen it! The city took a week to clean up the mess!" he says, without a single note of remorse in his voice. It is probably the closest thing to war that a beast who craves it will ever see.
+"You should've seen it! The city took a week to clean up the mess!" he says, without a single note of remorse in his voice. It is the closest thing to a war that this beast who craves it will see.
 
 I do not reply. I expect him to fill the peace with more violent ramblings. He, instead, flicks his cigarette over the railing. I watch it fall the same ten stories, until the river carries it towards to my home. He does not say goodbye.
