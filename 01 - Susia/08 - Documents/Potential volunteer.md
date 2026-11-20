@@ -119,8 +119,10 @@ I do not reply. I expect him to fill the peace with more violent ramblings. He, 
 
 ---
 
-My terrible enemy starts to set, the sky dims, and in the distance I see a glimpse of light. A convenience store. Wait. Did I eat today? A fish cannot live off sand and cashews.
+My terrible enemy starts to set, the sky dims, and in the distance I see a glimpse of light. A convenience store. Wait. Did I eat today? A fish cannot live off sand alone.
 
 I do not even hesitate. The doors sense my hunger and open instantly. I feel the cold air slide down my chest, but it is the faint smell of fresh tangerines that takes me inside.
 
-I picked a red basket and started browsing. In the snack sections, I find cashews of different kinds and sizes, and with varying amounts of salt. A large sign reads: "All nuts sold at Soites are gluten free, organic and ethically sourced". Am I paying more for them being ethically sourced?
+I pick a red basket and start browsing. In the snack section, I find cashews of different kinds and sizes, and with varying amounts of salt. A large sign reads: "All nuts sold at Soites are gluten free, organic and ethically sourced." Am I paying more for them being ethically sourced? If so, I do not care where they come from.
+
+I open a pack of lightly salted cashews and continue browsing. At the misc
