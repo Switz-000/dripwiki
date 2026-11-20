@@ -119,4 +119,5 @@ I do not reply. I expect him to fill the peace with more violent ramblings. He, 
 
 ---
 
-My terrible enemy starts to set, the sky dims, and in the distance I see a glimpse of light. I had not realised that I haven't 
+My terrible enemy starts to set, the sky dims, and in the distance I see a glimpse of light. A continence store. Wait. I haven't eaten all day, have I?
+ The faint smell of fresh tangerines takes me inside. 
