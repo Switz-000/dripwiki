@@ -132,3 +132,5 @@ I get sisra coffee grounds, some batteries, lime so I do not catch scurvy, print
 I hear a familiar voice calling me. "Mr keeper, is that you?" I turn around and see a middle-age woman wearing a Soites uniform. "How are you, sweetheart? I haven't seen you in a while". 
 
 I know this woman, yet I cannot recall her name. I think it starts with V, or was it C? I keep staring at her, analyzing her body to see if i can find some clue. Her name tag reads "Česeda". Wait, is she going to think i'm a creep for staring at her body for too long?
+
+"Oh, lord! Your face... What happened to your face?" Does she know I turned into a fish?
