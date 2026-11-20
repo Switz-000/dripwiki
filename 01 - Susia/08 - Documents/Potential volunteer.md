@@ -129,4 +129,4 @@ I open a pack of lightly salted cashews and continue browsing. At the miscellane
 
 I get sisra coffee grounds, some batteries, lime so I do not catch scurvy, printer ink, water obviously, I also wanted to try this new flavor of jam and some sinking pellets for Yarič.
 
-I hear a familiar voice calling me. "Mr keeper, is that you?" I turn around, and see 
+I hear a familiar voice calling me. "Mr keeper, is that you?" I turn around and see a middle-age woman wearing a Soites uniform. "How are you, sweetheart? I haven't seen you in a while". I know this woman, yet I cannot recall her name. I think it starts with 
