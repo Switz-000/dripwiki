@@ -55,6 +55,6 @@ meta:
 |     Bejňar     |                 |         Of the river          |  [[Susian (language)\|Susian]]  |  Male  |
 |     Liyič      |                 |         Little stone          |                                 |  Male  |
 |     Lizňa      |                 |             Life              |                                 | Female |
-|     Česeda     |                 |           Sympathy            |                                 | Female |
+|     Česeda     |                 |           Sympathy            |                                 |  Both  |
 |     Dorvňa     |                 |             Gift              |                                 | Female |
 |                |                 |                               |                                 |        |
