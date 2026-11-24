@@ -104,4 +104,4 @@ meta:
 ---
 **Armoljub Janić Zinrijan**, better known by his online pen name **Kistor Roškošu**, (meaning "Roškoša Banquet") is a [[Confia|Confian]] philosopher and blogger known for his defense of the [[Ashgerad|Ashgeradi]] system of technocracy and its implementation in Confia. 
 
-A fierce critic of [[Wanašer Gerzăn]], Zinrijan argued democracy was bound to fail due to the voluntary ignorance of the median voter, who is easily influenced by what he called "spooks of fantasy" into supporting self-destructiong polic
+A fierce critic of [[Wanašer Gerzăn]], Zinrijan argued democracy was bound to fail due to the voluntary ignorance of the median voter, who is easily influenced by what he called "spooks of fantasy" into supporting self-destructing policies, such as rent control or wealth taxes. He saw his work as not only anti-democratic, but as "anti-political".
