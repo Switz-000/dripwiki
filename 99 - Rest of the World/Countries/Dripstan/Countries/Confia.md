@@ -130,7 +130,7 @@ Confia's economy was historically concentrated in [[Ragged-sleeve|ragged-sleeve]
 
 # Military
 
-The [[Confian National Government#President|President of Confia]] is the commander-in-chief of the Armed Forces of the Confian Nation, which is composed of the Confian Ground Forces, the Confian Navy and the Confian Air Force. Since 1979, the Comissar of Defence and later the Minister of Defence is a civilian appointed by the prime-minister.
+The [[Confian National Government#President|President of Confia]] is the commander-in-chief of the Armed Forces of the Confian Nation, which is composed of the Confian Ground Forces, the Confian Navy and the Confian Air Force. Since 1979, the Commissar of Defence and later the Minister of Defence is a civilian appointed by the prime-minister.
 
 Confia abolished mandatory military service in 1978.
 # Foreign relations
