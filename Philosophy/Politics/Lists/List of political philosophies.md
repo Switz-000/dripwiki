@@ -35,3 +35,12 @@ Advocates: [[Modernist Alliance]], [[Nayotai]],
 
 Positions:
 Advocates: [[Modernist Alliance]], [[Lischev-Verene]]
+
+#### Abundance Democracy
+
+Positions:
+Advocates: [[Atom Party]] (2013-2028), [[Nis Soler]], 
+#### Confian Modernism
+
+Positions:
+Advocates: [[Atom Party]] (2028-), [[Kalsaper Jasretej]]

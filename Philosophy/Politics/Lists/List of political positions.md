@@ -114,7 +114,7 @@ A system where multiple parties are allowed. Present in virtually every democrat
 
 ### Household suffrage
 
-(*Confia-specific*) A manner of suffrage distribution that assigns one vote per household, thus, in the Confian context, disproportionately enfranchising older women. Based on Tissanism, it was present in the [[General Government of Confia]] until 1845. Its last election, that of 1843, had women as 73.4% of registered voters.
+(*Confia-specific*) A manner of suffrage distribution that assigns one vote per household, thus, in the Confian context, disproportionately enfranchising older women. Based on Tissanist notions, it was present in the [[General Government of Confia]] until 1845. Its last election, that of 1843, had women as 73.4% of registered voters.
 
 ### Per-capita suffrage
 
@@ -181,11 +181,11 @@ The position that syndicalist governance and economics represent a fundamental t
 
 ### Cooperativism
 
-Worker- or community-owned enterprises as the preferred economic unit, without the centralized state apparatus of syndicalism. A minority position in post-war Confia, and in Susia, where it is present in worker-owned formations such as the [[Sužielaj Energy Cooperative]].
+Worker- or community-owned enterprises as the preferred economic unit, without the centralized state apparatus of the [[Syndicalism#Paulowić model|Paulowić model]]. A minority position in post-war Confia, and in Susia, where it is present in worker-owned formations such as the [[Sužielaj Energy Cooperative]].
 
 ### Automationalism
 
-The position that automation of labor is a social and economic good to be accelerated rather than managed cautiously. Primarily a Susian position, associated with [[Troli Ustaras]] and the Modernist Alliance's economic wing.
+The position that automation of labor is a social and economic good to be accelerated rather than managed cautiously. Associated with [[Troli Ustaras]] and the Modernist Alliance's economic wing in Susia and with the [[Atom Party]]'s Abundance Democracy movement.
 
 ### Post-Scarcity
 
@@ -205,7 +205,7 @@ The position that government should minimize its intervention in economic affair
 
 ### Social Liberalism
 
-The position that individual freedom requires both the protection of civil liberties and a baseline of social and economic security provided by the state. Advocates for free market economies while calling for state intervention to ensure equal opportunity, education access, and social safety nets. The explicit ideology of [[Mi, Niteraljci!]] in Confia, formed from the merger of the [[Progressive Republican Party]] and the [[Confian Liberal Party]]. Distinct from both Versijian liberalism (which rejects positive rights), generic welfarism (which is agnostic on broader liberal commitments) and [[Syndicalism#New Syndicalism|New Syndicalism]] (which is committed to illiberal economics outside of social programs).
+The position that individual freedom requires both the protection of civil liberties and a baseline of social and economic security provided by the state. Advocates for free market economies while calling for state intervention to ensure equal opportunity, education access, and social safety nets. The explicit ideology of [[Mi, Niteraljci!]] in Confia, formed from the merger of the [[Progressive Republican Party]] and the [[Confian Liberal Party]]. Distinct from both Versijian liberalism (which rejects positive rights), generic welfarism (which is agnostic on broader liberal commitments) and [[Syndicalism#New Syndicalism|New Syndicalism]] (which is generally committed to illiberal economics outside of social programs).
 
 ### Kawjosism
 
