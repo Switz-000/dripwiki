@@ -195,8 +195,8 @@ When publicly asked about her religion during [[Grawolja Lasmanna with the Five 
 > "[[Žošewoš|Žošewošians]] are not deserving of choosing even what they will have for dinner."
 > ― Grawolja Lasmanna, [[Grawolja Lasmanna with the Five of Goretopol'|Interview]] (2009)
 
-> "I would bring back Sallemaj from Kalti's chamber if it meant I could replace him with [[Olga Karwenna|Olga]]."
+> "I would bring back Sallemaj from Kalti's chamber if it meant [[Olga Karwenna|Olga]] could suffer in his place."
 > ― Grawolja Lasmanna, [[Grawolja Lasmanna with the Five of Goretopol'|Interview]] (2009)
 
 > "Prison treated your tuft poorly."
-> ― Grawolja Lasmanna to [[Boris Serec]] during [[Ganzer Teahowić]]'s funeral (2011, attributed by [[Noljež Teššan]])
+> ― Grawolja Lasmanna to [[Boris Serec]] during [[Ganzer Teahowić]]'s funeral (2011 attributed to Lasmanna by [[Noljež Teššan]])
