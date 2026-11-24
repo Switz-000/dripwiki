@@ -39,8 +39,8 @@ Advocates: [[Modernist Alliance]], [[Lischev-Verene]]
 #### Abundance Democracy
 
 Positions:
-Advocates: [[Atom Party]] (2013-2028), [[Nis Soler]], 
-#### Confian Modernism
+Advocates: [[Atom Party]] (2013-2033), [[Nis Soler]], [[Kurki Sirol]]
+#### Technocracy Modernism
 
 Positions:
-Advocates: [[Atom Party]] (2028-), [[Kalsaper Jasretej]]
+Advocates: [[Atom Party]] (2033-), [[Kalsaper Jasretej]], [[Armoljub Janić Zinrijan]]
