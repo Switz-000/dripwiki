@@ -43,19 +43,19 @@ The boy just looks at me and says: "I do. I like digging holes."
 
 I turn back and make a strategic retreat. I keep walking by the shore, reading the letter over and over again. The scalding heat is baking my head, yet I seem closer and closer to figuring out the message.
 
-    You have been chosen from a random selection of citizens to serve as a potential volunteer
-    You have fifteen days to access the official website at ttj.orlitia.su
-    You should follow the instructions on the site
-    You should answer the questions honestly
+>     You have been chosen from a random selection of citizens to serve as a potential volunteer
+>     You have fifteen days to access the official website at ttj.orlitia.su
+>     You should follow the instructions on the site
+>     You should answer the questions honestly
 
 I see across the street a bench in the shade. Tempting. A gust takes the paper from my hand and carries it over the water. I do not chase it.
 
 While crossing the street, I close my eyes to retain it better and repeat what I have gathered from it.
 
-    I was chosen from a random selection of citizens
-    Some citizens serve as volunteers to the state
-    I have 15 days to answer the questions honestly
-    I need to follow the instructions on the site
+>     I was chosen from a random selection of citizens
+>     Some citizens serve as volunteers to the state
+>     I have 15 days to answer the questions honestly
+>     I need to follow the instructions on the site
 
 As I finish repeating my mission, I hear the violent screech of a whale. I turn, and some sort of white land vessel has stopped in front of me. How have I not heard this three-ton machine sailing towards me? I knock on the captain's window. He does not reply. I squint through the black-tinted glass, but I cannot see anyone inside the tight cabin.
 
@@ -65,6 +65,7 @@ As I sit on the bench, I finally have a break from the wicked fireball in the sk
 
 Out of habit, I reach into my pocket for the letter. My fingers find only a small, crumpled box.
 
+```
 FRONT LABEL
 
 Zertepton, L-V 1 mg
@@ -85,15 +86,16 @@ Batch: 1086541
 Lischev-Verene Biomedical Corporation
 "Always here for you."
 Garden of Latice Free Economic Zone, Sužielaj, Susia
+```
 
 Even the landmen's boxes speak to me as if they know me. I put it back in my pocket.
 
 The paper is lost to the sea, but the mission the great republic has endowed me with is not. I recite it from memory:
 
-    I was chosen from a selection of many citizens
-    Some citizens serve the state
-    In 15 days I will be questioned
-    I need to follow the instructions honestly
+>     I was chosen from a selection of many citizens
+>     Some citizens serve the state
+>     In 15 days I will be questioned
+>     I need to follow the instructions honestly
 
 The more I ponder, the more I sense judgement day looming. Fifteen days is too long to wait for one's own trial. I will the fight to them.
 
@@ -188,8 +190,10 @@ She replies, doubting this terrible loyalty I owe my home. "But don't you get lo
 — "Thank you for shopping at Soites. Have a good afternoon Mr. keeper."
 
 ---
+DRAFT
 
-# And so, I leave the store, cashews in one hand, sunscreen in the other. 
+
+And so, I leave the store, cashews in one hand, sunscreen in the other. 
 
 I arrive at the city council building. It looked like it was closed, maybe to steer men like me away. Inside, a landwomen reacts to my presence: 
 
