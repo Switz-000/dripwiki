@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - Rest of the World/Countries/Dripstan/Countries/Kamino.md",
+                "file": "01 - Susia/06 - People/Filevir Gatojete.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Kamino"
+              "title": "Filevir Gatojete"
             }
           }
         ],
@@ -126,7 +126,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kamino",
+                "query": "solima",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
