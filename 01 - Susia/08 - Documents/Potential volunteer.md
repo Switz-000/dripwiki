@@ -208,7 +208,7 @@ He does not feel like it.
 
 "What is it now? Was it something I did? Tell me and I will leave you alone."
 
-YARIČ: "Are you out of your mind? What is it with you? 
+YARIČ: "Are you out of your mind? Have you forgotten where you come from? Does talking like a landman make into one? Does eating trash make you into one? You are sea; You are fish, You are me! I am hungry, where are my pallets?"
 
 And so, I leave the store, cashews in one hand, sunscreen in the other. 
 
