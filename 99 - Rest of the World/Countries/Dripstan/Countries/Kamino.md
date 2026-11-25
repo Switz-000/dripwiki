@@ -14,7 +14,7 @@ meta:
   verified: false
   image: null
 ---
-
+**Kamino** (Kaminoan: Yrtezik), officially the **Democratic Republic of Kamino** (Kaminoan: Zejaran Vikrotoi z-Yrtezik) is a country located in the [[Dripstanian Continent]], north of the [[Replid Forest]]. 
 ### Brief History
 
 Kamino before Dripstan:
