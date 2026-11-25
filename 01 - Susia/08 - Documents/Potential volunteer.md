@@ -192,6 +192,8 @@ She replies, doubting this terrible loyalty I owe my home. "But don't you get lo
 ---
 DRAFT
 
+As I leave the 
+
 
 And so, I leave the store, cashews in one hand, sunscreen in the other. 
 
