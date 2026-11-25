@@ -248,7 +248,7 @@ A statement attributed to him at the execution is the most widely circulated lin
 ### Foundation of the republic
 
 [[Suizo Soites]] founded the [[Susia|Federative Republic of Susia]] on Versij's natural rights philosophy in 1954, and the constitutional protection of natural rights, the right to bear arms, and the right to rebel all descend from it. In 1961 Soites granted Versij the Order of the First Guard of the Republic posthumously, its first award.
-
+"boris serec
 Versij's philosophy is one of the three intellectual traditions taught in the national civics curriculum, alongside [[Suizo Soites|Soites']] pragmatic liberalism and [[Yário Kolkov|Kolkov's]] competitive governance theory. Within [[Susian Exceptionalism]] it supplies the secular and universalist strand: the claim that Susian institutions are worth defending not because they are Susian but because they encode discovered truths about freedom. That framing is also the philosophical basis of [[Democratic evangelism]], which reasons that if rights are universal then their denial abroad is a wrong Susia has standing to address.
 
 ### Among Tekur Susians
