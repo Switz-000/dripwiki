@@ -81,12 +81,14 @@
             "id": "eb469d310f5aa492",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "00 - Meta/Images/Spruyatroceyon Varnec.png"
+                "file": "02 - Confia/00 - Index & Maps/List of Confian elections.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Spruyatroceyon Varnec"
+              "icon": "lucide-file",
+              "title": "List of Confian elections"
             }
           }
         ],
@@ -270,6 +272,22 @@
   },
   "active": "eb469d310f5aa492",
   "lastOpenFiles": [
+    "02 - Confia/00 - Index & Maps/List of Confian governments.md",
+    "02 - Confia/00 - Index & Maps/Confian national anthems.md",
+    "02 - Confia/00 - Index & Maps/List of Confian elections.md",
+    "00 - Meta/Style Guide.md",
+    "00 - Meta/Images/Country Flags/Republican State of Ditania.png",
+    "00 - Meta/Images/Country Flags/Ditania.png",
+    "00 - Meta/Images/Country Flags/Confia.png",
+    "00 - Meta/Images/Country Flags/Astofayan.png",
+    "00 - Meta/Images/State Flags/Pasted image 20260702204038.png",
+    "00 - Meta/Images/State Flags/Susia/Troli.png",
+    "00 - Meta/Images/State Flags/Susia/Postia.png",
+    "00 - Meta/Images/State Flags/Susia/Misocévia.png",
+    "00 - Meta/Images/State Flags/Susia/Dripia.png",
+    "00 - Meta/Images/State Flags/Oesburg.png",
+    "00 - Meta/YAML and Tags.md",
+    "00 - Meta/Titles.md",
     "01 - Susia/06 - People/Filevir Gatojete.md",
     "99 - Rest of the World/Countries/Dripstan/Countries/Kamino.md",
     "99 - Rest of the World/Countries/Dripstan/Countries/Confia.md",
@@ -290,15 +308,6 @@
     "01 - Susia/00 - Index & Maps/List of first names.md",
     "02 - Confia/02 - Geography/Cities/Koštanože/Imgospalje.md",
     "Assassination of Ganzer Teahowić.md",
-    "02 - Confia/00 - Index & Maps/List of Confian leaders.md",
-    "99 - Rest of the World/Countries/Dripstan/Countries/Susia.md",
-    "02 - Confia/00 - Index & Maps/List of Confian elections.md",
-    "01 - Susia/04 - History/Events/Two banner republic/Ant wars.md",
-    "10 - Dripstanian Incria/Peoples/Baya people.md",
-    "02 - Confia/06 - People/Senjap Kunsekowić.md",
-    "00 - Meta/Images/Spruyatroceyon Varnec.png",
-    "00 - Meta/Images/New Duloc riot 1958.jpg",
-    "00 - Meta/Images/Eplevakt 1978.jpg",
     "01 - Susia/07 - Organizations/sedcJJGNM",
     "__pycache__/vault_dates.cpython-314.pyc",
     "__pycache__",
