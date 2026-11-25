@@ -194,8 +194,21 @@ DRAFT
 
 As I leave the store, I see Yarič. He is laying down on the concrete, he seems to be sleeping.
 
-"I brought you food." He does not reply.
+"I brought you food."
 
+He does not reply. 
+
+"Yarič? Are you there?"
+
+He does not move an inch.
+
+"I know you are listening to me"
+
+He does not feel like it.
+
+"What is it now? Was it something I did? Tell me and I will leave you alone."
+
+YARIČ: "Are you out of your mind? What is it with you? 
 
 And so, I leave the store, cashews in one hand, sunscreen in the other. 
 
