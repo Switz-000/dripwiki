@@ -3757,7 +3757,8 @@
    "kind": "Atrocity begins",
    "text": "[[Assassination of Ganzer Teahowić]]",
    "source": "Assassination of Ganzer Teahowić",
-   "source_type": "atrocity"
+   "source_type": "atrocity",
+   "country": "Confia"
   },
   {
    "year": 2011,
@@ -3766,7 +3767,8 @@
    "kind": "Atrocity ends",
    "text": "[[Assassination of Ganzer Teahowić]]",
    "source": "Assassination of Ganzer Teahowić",
-   "source_type": "atrocity"
+   "source_type": "atrocity",
+   "country": "Confia"
   },
   {
    "year": 2011,
@@ -6306,7 +6308,7 @@
    "label": "Assassination of Ganzer Teahowić",
    "start": 2011,
    "end": 2011,
-   "country": "",
+   "country": "Confia",
    "start_date": "2011",
    "start_precision": "year",
    "end_date": "2011",
