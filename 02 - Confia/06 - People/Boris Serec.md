@@ -213,4 +213,4 @@ ganhou o premio "mico ladrão safado - o animal mais protegido de confia"
 
 ## Quotes
 >"My name is now [[Pierej]]."
->― Boris Serec, after the recognition of the [[Armotist Republic of Pierej|Pierej]] (1980)
+>― Boris Serec, after the recognition of the [[Armotist Republic of Pierej|Pierej]] (1986)
