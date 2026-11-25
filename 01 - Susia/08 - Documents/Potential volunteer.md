@@ -206,7 +206,7 @@ He does not move an inch.
 
 He does not feel like it.
 
-"What is it now? Was it something I did? Tell me and I will leave you alone."
+"What is it now? Was it something I did? Tell me and I'll leave you alone."
 
 YARIČ: "Are you out of your mind? Have you forgotten where you come from? Does talking like a landman makes you one? Does eating plastic makes you one? Does wearing crude makes you one? You are not landman, plastic or oil. You are sea; You are fish! You are me."
 
