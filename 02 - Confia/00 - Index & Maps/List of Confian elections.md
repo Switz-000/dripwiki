@@ -29,7 +29,7 @@ The first election for head of state in the history of independent Confia. It wa
 |  [[Mariana Torres]]  | [[Progressive Republican Party]] | *123 seats* | Defeated |
 ## 1977 Confian general election
 
-The first nationwide democratic parliamentary election with universal suffrage in Confian history. it followed the [[Bayonet Revolution]]. It produced a KNP-LjWP coalition. Turnout was 85.1%
+The first nationwide democratic parliamentary election with universal suffrage in Confian history, following the [[Bayonet Revolution]]. It produced a KNP-LjWP coalition. Turnout was 85.1%
 
 |                         Party                         |        Leader         | Seats (%) | Votes (%) |   Status   |
 | :---------------------------------------------------: | :-------------------: | :-------: | :-------: | :--------: |
