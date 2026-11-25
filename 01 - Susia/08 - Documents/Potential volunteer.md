@@ -208,7 +208,11 @@ He does not feel like it.
 
 "What is it now? Was it something I did? Tell me and I will leave you alone."
 
-YARIČ: "Are you out of your mind? Have you forgotten where you come from? Does talking like a landman make into one? Does eating plastic make you into one? Does wearing oils make you into one? You are sea; You are fish!"
+YARIČ: "Are you out of your mind? Have you forgotten where you come from? Does talking like a landman makes you one? Does eating plastic makes you one? Does wearing oils makes you one? You are not landman, plastic or oil. You are sea; You are fish! You are me."
+
+"I'm not!"
+
+YARIČ: "Look at your twisted Face! Does eating plastic makes you one? Does wearing oils makes you one? You are not landman, plastic or oil. You are sea; You are fish! You are me."
 
 And so, I leave the store, cashews in one hand, sunscreen in the other. 
 
