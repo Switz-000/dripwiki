@@ -212,7 +212,7 @@ YARIČ: "Are you out of your mind? Have you forgotten where you come from? Does 
 
 "I'm not!"
 
-YARIČ: "Look at your twisted Face! Does eating plastic makes you one? Does wearing oils makes you one? You are not landman, plastic or oil. You are sea; You are fish! You are me."
+YARIČ: "Look at your face! Look at your gills! You can't. You are too afraid. Gut yourself, take a look at your steaming entrails and tell me if you are landman or fish!"
 
 And so, I leave the store, cashews in one hand, sunscreen in the other. 
 
