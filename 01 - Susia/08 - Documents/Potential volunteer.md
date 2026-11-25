@@ -192,7 +192,9 @@ She replies, doubting this terrible loyalty I owe my home. "But don't you get lo
 ---
 DRAFT
 
-As I leave the 
+As I leave the store, I see Yarič. He is laying down on the concrete, he seems to be sleeping.
+
+"I brought you food." He does not reply.
 
 
 And so, I leave the store, cashews in one hand, sunscreen in the other. 
