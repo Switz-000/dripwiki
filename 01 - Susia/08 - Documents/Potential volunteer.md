@@ -212,7 +212,7 @@ YARIČ: "Are you out of your mind? Have you forgotten where you come from? Does 
 
 "I'm not!"
 
-YARIČ: "Look at your face! Look at your gills! You can't. You are too afraid. Gut yourself, take a look at your steaming entrails and tell me if you are landman or fish!"
+YARIČ: "Look at your face! Look at your gills! You can't. You are too afraid. When they gut yosee your steaming entrails, ask 'Am I landman or finfish?'
 
 And so, I leave the store, cashews in one hand, sunscreen in the other. 
 
