@@ -106,4 +106,4 @@ meta:
   verified: false
   image:
 ---
-**Laus Kunsekowić Karnej** was a [[Confia]] developmentalist
+**Laus Kunsekowić Karnej** was a [[Confia|Confian]] developmentalist
