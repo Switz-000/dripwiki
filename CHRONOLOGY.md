@@ -990,7 +990,7 @@ meta:
 
 ## 2045
 
-- **Document recorded**: [[Untitled]] (text chat)
+- **Document recorded**: [[Laus Karnej]] (text chat)
 
 ## 2046
 
