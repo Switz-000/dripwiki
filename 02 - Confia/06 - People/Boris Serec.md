@@ -213,8 +213,15 @@ ganhou o premio "mico ladrão safado - o animal mais protegido de confia"
 
 ## Quotes
 
+
+>"I am, of course, a [[Čalsor Boňár|Boňárist]]."
+>― Boris Serec, press conference (1983)
+
 >"My name is now [[Pierej]]."
 >― Boris Serec, after the recognition of the [[Armotist Republic of Pierej|Pierej]] (1986)
 
+>"[[Grawolja Lasmanna|She]]'s [[Central Bank Subjugation ACCN|my favourite minister]], what can I tell you?"
+>― Boris Serec, signaling support for an end to the independence of the [[Central Bank of the Confian Nation]] (1988)
 
->"I am, of course, a"
+>"This is a political trial, and under the [[Armadesh Versij|self-evident]] right to freedom of conscience, I am an innocent man!"
+>― Boris Serec, pleading not guilty to his charges (1999)
