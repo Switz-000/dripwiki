@@ -1,3 +1,5 @@
 .obsidian/__pycache__/
 *.pyc
 _to_delete/
+
+/.obsidian/workspace.json
