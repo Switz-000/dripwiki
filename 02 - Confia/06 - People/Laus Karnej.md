@@ -109,4 +109,4 @@ meta:
 **Laus Kunsekowić Karnej** was a [[Confia|Confian]] developmentalist economist, university professor and politician. Karnej, who served as the country's Commissar of Finance from 1982 to 1988, is considered one of the most important Confian intellectuals of the post-independence period.
 Karnej focused his research on the search for a path for Confian development, emphasizing the strategic role of the state in infrastructure investments, exchange rate administration, and monetary-fiscal policy coordination. 
 During his tenure as Commissar of Finance, he was one of the chief designers of the [[Sturdy Industry]] program.
-Towards the end of his life, Karnej took interest in the early [[Modernism|Modernist]] movement and commended [[Yário Kolkov]]'s writing in
+Towards the end of his life, Karnej took interest in the early [[Modernism|Modernist]] movement and commended [[Yário Kolkov]]'s writing in [[Evolution of Governance]].
