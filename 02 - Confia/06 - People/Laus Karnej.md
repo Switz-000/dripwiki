@@ -106,4 +106,5 @@ meta:
   verified: false
   image:
 ---
-**Laus Kunsekowić Karnej** was a [[Confia|Confian]] developmentalist economist, university professor and politician who served as the country's Commissar of Finance from 1982 to 1988. Karnej is considered on
+**Laus Kunsekowić Karnej** was a [[Confia|Confian]] developmentalist economist, university professor and politician. Karnej, who served as the country's Commissar of Finance from 1982 to 1988, is considered one of the most important Confian intellectuals of the post-independence period.
+Karnej focused his research on the search for a path for Confian development
