@@ -1,7 +1,7 @@
 ---
 type: organization
-name: Us, Liberals!
-native_name: Mi, Niteraljci!
+name: Us, Liberals! - Zanja's Daring Ones
+native_name: Mi, Niteraljci! - Nazbasse Zanji
 abbreviation: MN!
 aliases:
   - MN!
@@ -25,10 +25,10 @@ ideology:
 political_position:
   - Centre
 wings:
-  -
+  - 
 area_served:
 international_affiliation:
 national_affiliation:
 regional_affiliation:
 ---
-**Us, Liberals!** (Confian: Mi, Niteraljci!) is a [[Confia|Confian]] left-liberal political party. 
+**Us, Liberals! - [[Zanja Banelužni|Zanja]]'s Daring Ones** (Confian: Mi, Niteraljci!) is a [[Confia|Confian]] left-liberal political party. It was formed from the merger of the [[Confian Liberal Party]] and the [[Progressive Republican Party]].
