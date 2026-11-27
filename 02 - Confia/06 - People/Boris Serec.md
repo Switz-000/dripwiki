@@ -212,5 +212,9 @@ ganhou o premio "mico ladrão safado - o animal mais protegido de confia"
 **Boris Rodočewić Serec** (Racpalian Alphabet: Борис Родочевіч Серец) is a Confian labour rights lawyer and politician who served as the 6th Prime Minister and 2nd President of the [[Confia|United Syndicates of Confia]].
 
 ## Quotes
+
 >"My name is now [[Pierej]]."
 >― Boris Serec, after the recognition of the [[Armotist Republic of Pierej|Pierej]] (1986)
+
+
+>"I am, of course, a"
