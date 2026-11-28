@@ -220,7 +220,7 @@ ganhou o premio "mico ladrão safado - o animal mais protegido de confia"
 >"My name is now [[Pierej]]."
 >― Boris Serec, after the recognition of the [[Armotist Republic of Pierej|Pierej]] (1986)
 
->"[[Grawolja Lasmanna|She]]'s [[Central Bank Subjugation ACCN|my favourite minister]], what can I tell you?"
+>"[[Grawolja Lasmanna|She]]'s [[Central Bank Subjugation ACCN|my favourite commissar]], what can I tell you?"
 >― Boris Serec, signaling support for an end to the independence of the [[Central Bank of the Confian Nation]] (1988)
 
 >"This is a political trial, and under the [[Armadesh Versij|self-evident]] right to freedom of conscience, I am an innocent man!"
