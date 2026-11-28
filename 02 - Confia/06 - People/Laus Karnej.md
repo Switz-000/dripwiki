@@ -14,7 +14,6 @@ citizenship:
 nationality:
   - "[[Dripstanian Empire|Dripstanian]]"
   - "[[Confia|Confian]]"
-  - "[[Pierej|Piereji]]"
 enhanced: false
 birth:
   year:
